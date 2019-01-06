@@ -6,9 +6,9 @@ The data has been taken entirely from the [GRETIL](http://gretil.sub.uni-goettin
 
 The code is built on [fasttext](https://github.com/facebookresearch/fastText) and [nmslib](https://github.com/nmslib/nmslib).
 
-To run the calculations, just execute the file 'run.sh' in the code-dir. It might work only on *nix-machines because it uses a few shell commands that might not be available on Windows. 
+To run the calculations, execute the file 'run.sh' in the code-dir. 
 
-In order to run the calculations, a system with 220gb of memory and 80 logical cores was used, taking roughly three ours to complete for the entire collection.
+Completing the calculations takes about 3 hours on a machine with 80 logical cores and 220gb of memory.
 
 In order to make it work on a system with different specifiations the scripts might need some adjustments. 
 
