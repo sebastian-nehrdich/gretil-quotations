@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-cd ../data/
-cp etexts-combined/* unsandhied-etexts/
-cd unsandhied-etexts;
-perl -pe "s/[^\t]+\t//g;" * >> all.txt
-fasttext skipgram -dim 150 -thread 40 -input all.txt -output skt_vectors;
-mv skt_vectors.vec ../;
-#rm -rf *

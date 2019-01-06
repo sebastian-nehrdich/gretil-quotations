@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-cd ../data/unsandhied-etexts;
-cat * >> all.txt;
-fasttext skipgram -dim 150 -thread 40 -input all.txt -output skt_vectors;
-rm all.txt;
-mv skt_vectors.vec ../;
-
