@@ -1,3 +1,4 @@
+![Gretil graph](doc/gretil-small.png)
 # gretil-quotations
 This repository contains the code and input data for the calculation of possible quotations and similar passages within the gretil corpus based on simple sum vectors. 
 
