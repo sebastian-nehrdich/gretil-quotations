@@ -3,7 +3,7 @@ This repository contains the code and input data for the calculation of possible
 
 The data has been taken entirely from the [GRETIL](http://gretil.sub.uni-goettingen.de/) collection.
 
-The code is built on [fasttext](http://gretil.sub.uni-goettingen.de/) and [nmslib](http://gretil.sub.uni-goettingen.de/).
+The code is built on [fasttext](https://github.com/facebookresearch/fastText) and [nmslib](https://github.com/nmslib/nmslib).
 
 To run the calculations, just execute the file 'run.sh' in the code-dir. It might work only on *nix-machines because it uses a few shell commands that might not be available on Windows. 
 
