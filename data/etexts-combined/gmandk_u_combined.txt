@@ -1,0 +1,430 @@
+   bahiḥprajño vibhuḥ viśvo hy antaḥprajñas tu taijasaḥ /	bahis-prajQaH viBuH viSvaH hi antar-prajQaH tu tEjasaH /
+   ghanaprajñaḥ tathā prājña eka eva tridhā smṛtaḥ // MandUpK_1.1 //	GanaprajQaH taTA prAjQaH ekaH eva triDA smRtaH // Mandu-upK_1.1 //
+   dakṣiṇākṣimukhe viśvo manasy antas tu taijasaḥ /	dakziNa-akzi-muKe viSvaH manasi antar tu tEjasaH /
+   ākāśe ca hṛdi prājñas tridhā dehe vyavasthitaḥ // MandUpK_1.2 //	AkASe ca hRdi prAjQaH triDA dehe vyavasTitaH // Mandu-upK_1.2 //
+   viśvaḥ hi sthūlabhuṅ nityaṃ taijasaḥ praviviktabhuk /	viSvaH hi sTUla-Buj nityam tEjasaH pravivikta-Buj /
+   ānandabhuk tathā prājñastridhā bhogaṃ nibodhata // MandUpK_1.3 //	Ananda-Buj taTA prAjQaH-triDA Bogam niboData // Mandu-upK_1.3 //
+   sthūlaṃ tarpayate viśvaṃ praviviktaṃ tu taijasam /	sTUlam tarpayate viSvam praviviktam tu tEjasam /
+   ānandaś ca tathā prājñaṃ tridhā tṛptiṃ nibodhata // MandUpK_1.4 //	AnandaH ca taTA prAjQam triDA tRptim niboData // Mandu-upK_1.4 //
+   triṣu dhāmasu yadbhojyaṃ bhoktā yaś ca prakīrtitaḥ /	trizu DAmasu yat-Bojyam BoktA yaH ca prakIrtitaH /
+   vadaitadubhayaṃ yas tu sa bhuñjāno na lipyate // MandUpK_1.5 //	vada-etat-uBayam yaH tu sa BuQjAnaH na lipyate // Mandu-upK_1.5 //
+   prabhavaḥ sarvabhāvānāṃ satām iti viniścayaḥ /	praBavaH sarva-BAvAnAm satAm iti viniScayaH /
+   sarvaṃ janayati prāṇaś ceto 'ṃśūn puruṣaḥ pṛthak // MandUpK_1.6 //	sarvam janayati prANaH cetaH aMSUn puruzaH pRTak // Mandu-upK_1.6 //
+   vibhūtiṃ prasavaṃ tv anye manyante sṛṣṭicintakāḥ /	viBUtim prasavam tu anye manyante sRzwi-cintakAH /
+   svapnamāyāsarūpeti sṛṣṭir anyaiḥ vikalpitā // MandUpK_1.7 //	svapnam-AyAsa-rUpA-iti sRzwiH anyEH vikalpitAH // Mandu-upK_1.7 //
+   icchāmātraṃ prabhoḥ sṛṣṭir iti sṛṣṭau viniścitāḥ /	icCA-mAtram praBoH sRzwiH iti sRzwO viniScitAH /
+   kālāt prasūtiṃ bhūtānāṃ manyante kālacintakāḥ // MandUpK_1.8 //	kAlAt prasUtim BUtAnAm manyante kAla-cintakAH // Mandu-upK_1.8 //
+   bhogārthaṃ sṛṣṭir iti anye krīḍārtham iti cāpare /	Boga-arTam sRzwiH iti anye krIxA-arTam iti ca-apare /
+   devasyaiṣa svabhāvo 'yam āptakāmasya kā spṛhā // MandUpK_1.9 //	devasya-eza svaBAvaH ayam Apta-kAmasya kA spRhA // Mandu-upK_1.9 //
+   nivṛtteḥ sarvaduḥkhānām īśānaḥ prabhur avyayaḥ /	nivRtteH sarva-duHKAnAm ISAnaH praBuH avyayaH /
+   advaitaḥ sarvabhāvānāṃ devās turyo vibhuḥ smṛtaḥ // MandUpK_1.10 //	advEtaH sarva-BAvAnAm devAH turyaH viBuH smRtaH // Mandu-upK_1.10 //
+   kāryakāraṇabaddhau tāv iṣyete viśvataijasau /	kArya-kAraNa-badDO tO izyete viSva-tEjasO /
+   prājñaḥ kāraṇabaddhas tu dvau tau turye na sidhyataḥ // MandUpK_1.11 //	prAjQaH kAraNa-badDaH tu dvO tO turye na siDyataH // Mandu-upK_1.11 //
+   nātmānaṃ na parāś caiva na satyaṃ na api cānṛtam /	na-AtmAnam na parAH ca-eva na satyam na api ca-anRtam /
+   prājñaḥ kiñcana saṃvetti turyaṃ tat sarvadṛk sadā // MandUpK_1.12 //	prAjQaH kiQcana saMvetti turyam tat sarva-dRS sadA // Mandu-upK_1.12 //
+   dvaitasyāgrahaṇaṃ tulyam ubhayoḥ prājñaturyayoḥ /	dvEtasya-agrahaNam tulyam uBayoH prAjQa-turyayoH /
+   bījanidrāyutaḥ prājñaḥ sā ca turye na vidyate // MandUpK_1.13 //	bIja-nidrA-yutaH prAjQaH sA ca turye na vidyate // Mandu-upK_1.13 //
+   svapnanidrāyutāv ādyau prājñas tv asvapnanidrayā /	svapna-nidrA-yutO AdyO prAjQaH tu asvapna-nidrayA /
+   na nidrāṃ naiva ca svapnaṃ turye paśyanti niścitaḥ // MandUpK_1.14 //	na nidrAm na-eva ca svapnam turye paSyanti niScitaH // Mandu-upK_1.14 //
+   anyathā gṛhṇataḥ svapno nidrā tattvam ajānataḥ /	anyaTA gRhNataH svapnaH nidrA tattvam ajAnataH /
+   viparyāse tayoḥ kṣīṇe turīyaṃ padam aśnute // MandUpK_1.15 //	viparyAse tayoH kzINe turIyam padam aSnute // Mandu-upK_1.15 //
+   anādimāyayā supto yadā jīvaḥ prabudhyate /	anAdi-mAyayA suptaH yadA jIvaH prabuDyate /
+   ajam anidram asvapnam advaitaṃ budhyate tadā // MandUpK_1.16 //	ajam anidram asvapnam advEtam buDyate tadA // Mandu-upK_1.16 //
+   prapañco yadi vidyeta nivarteta na saṃśayaḥ /	prapaQcaH yadi vidyeta nivarteta na saMSayaH /
+   māyāmātram idaṃ dvaitam advaitaṃ paramārthataḥ // MandUpK_1.17 //	mAyA-mAtram idam dvEtam advEtam paramArTataH // Mandu-upK_1.17 //
+   vikalpo vinivarteta kalpito yadi kenacit /	vikalpaH vinivarteta kalpitaH yadi kenacid /
+   upadeśād ayaṃ vādo jñāte dvaitaṃ na vidyate // MandUpK_1.18 //	upadeSAt ayam vAdaH jQAte dvEtam na vidyate // Mandu-upK_1.18 //
+   viśvasyātvavivakṣāyām ādisāmānyam utkṛṣṭam /	viSvasya-Atu-a-vivakzAyAm Adi-sAmAnyam utkRzwam /
+   mātrāsaṃpratipattau syād āptisāmānyam eva ca // MandUpK_1.19 //	mAtrA-saMpratipattO syAt Apti-sAmAnyam eva ca // Mandu-upK_1.19 //
+   taijasasyotvavijñāna utkarṣo dṛśyate sphuṭam /	tEjasasya-utva-vijQAnaH utkarzaH dRSyate sPuwam /
+   mātrāsaṃpratipattau syād ubhayatvaṃ tathā vidham // MandUpK_1.20 //	mAtrA-saMpratipattO syAt uBaya-tvam taTA viDam // Mandu-upK_1.20 //
+   makārabhāve prājñasya mānasām anyam utkaṭam /	makAra-BAve prAjQasya mAnasAm anyam utkawam /
+   mātrāsaṃpratipattau tu layasāmānyam eva ca // MandUpK_1.21 //	mAtrA-saMpratipattO tu laya-sAmAnyam eva ca // Mandu-upK_1.21 //
+   triṣu dhāmasu yat tulyaṃ sāmānyaṃ vetti niścitaḥ /	trizu DAmasu yat tulyam sAmAnyam vetti niScitaH /
+   sa pūjyaḥ sarvabhūtānāṃ vandyaś caiva mahāmuniḥ // MandUpK_1.22 //	sa pUjyaH sarva-BUtAnAm vandyaH ca-eva mahA-muniH // Mandu-upK_1.22 //
+   akāro nayate viśvam ukāraś cāpi taijasam /	akAraH nayate viSvam ukAraH ca-api tEjasam /
+   makāraś ca punaḥ prājñaṃ nāmātre vidyate gatiḥ // MandUpK_1.23 //	makAraH ca punar prAjQam na-ama-atre vidyate gatiH // Mandu-upK_1.23 //
+   oṃkāraṃ pādaśo vidyāt pādā mātrā na saṃśayaḥ /	oMkAram pAdaSas vidyAt pAdAH mAtrA na saMSayaH /
+   oṃkāraṃ pādaśo jñātvā na kiñcid api cintayet // MandUpK_1.24 //	oMkAram pAdaSas jQAtvA na kiQcid api cintayet // Mandu-upK_1.24 //
+   yuñjīta praṇave cetaḥ praṇavo brahma nirbhayam /	yuQjIta praNave cetaH praNavaH brahma nirBayam /
+   praṇave nityayuktasya na bhayaṃ vidyate kvacit // MandUpK_1.25 //	praNave nitya-yuktasya na Bayam vidyate kvacid // Mandu-upK_1.25 //
+   praṇavo hy aparaṃ brahma praṇavaś ca paraḥ smṛtaḥ /	praNavaH hi aparam brahma praNavaH ca paraH smRtaH /
+   apūrvo 'nantaro 'bāhyo 'naparaḥ praṇavo 'vyayaḥ // MandUpK_1.26 //	apUrvaH anantaraH abAhyaH anaparaH praNavaH avyayaH // Mandu-upK_1.26 //
+   sarvasya praṇavo hy ādir madhyam antas tathaiva ca /	sarvasya praNavaH hi AdiH maDyam antar taTA-eva ca /
+   evaṃ hi praṇavaṃ jñātvā vyaśnute tad anantaram // MandUpK_1.27 //	evam hi praNavam jQAtvA vyaSnute tat anantaram // Mandu-upK_1.27 //
+   praṇavaṃ hīśvaraṃ vidyāt sarvasya hṛdi saṃsthitam /	praNavam hi-ISvaram vidyAt sarvasya hRdi saMsTitam /
+   sarvavyāpinam oṃkāraṃ matvā dhīro na śocati // MandUpK_1.28 //	sarva-vyApinam oMkAram matvA DIraH na Socati // Mandu-upK_1.28 //
+   amātro 'nantamātraś ca dvaitasyopaśamaḥ śivaḥ /	amAtraH ananta-mAtraH ca dvEtasya-upaSamaH SivaH /
+   oṃkāro vidito yena sa munir netāro janaḥ // MandUpK_1.29 //	oMkAraH viditaH yena sa muniH netAraH janaH // Mandu-upK_1.29 //
+   vaitathyaṃ sarvabhāvānāṃ svapna āhur manīṣiṇaḥ /	vEtaTyam sarva-BAvAnAm svapne AhuH manIziNaH /
+   antaḥsthānāt tu bhāvānāṃ saṃvṛtatvena hetunā // MandUpK_2.1 //	antar-sTAnAt tu BAvAnAm saMvRta-tvena hetunA // Mandu-upK_2.1 //
+   adīrghatvāc ca kālasya gatvā deśān na paśyati /	adIrGa-tvAt ca kAlasya gatvA deSAt na paSyati /
+   pratibuddhaś ca vai sarvas tasmin deśe na vidyate // MandUpK_2.2 //	pratibudDaH ca vE sarvaH tasmin deSe na vidyate // Mandu-upK_2.2 //
+   abhāvaś ca rathādīnāṃ śrūyate nyāyapūrvakam /	aBAvaH ca raTa-AdInAm SrUyate nyAya-pUrvakam /
+   vaitathyaṃ tena vai prāptaṃ svapna āhuḥ prakāśitam // MandUpK_2.3 //	vEtaTyam tena vE prAptam svapnaH AhuH prakASitam // Mandu-upK_2.3 //
+   antasthānāt tu bhedānāṃ tasmāj jāgarite smṛtam /	anta-sTAnAt tu BedAnAm tasmAt jAgarite smRtam /
+   yathā tatra tathā svapne saṃvṛtatvena bhidyate // MandUpK_2.4 //	yaTA tatra taTA svapne saMvRta-tvena Bidyate // Mandu-upK_2.4 //
+   svapnajāgaritasthāne hy ekam āhur manīṣiṇaḥ /	svapna-jAgarita-sTAne hi ekam AhuH manIziNaH /
+   bhedānāṃ hi samatvena prasiddhenaiva hetunā // MandUpK_2.5 //	BedAnAm hi samatvena prasidDena-eva hetunA // Mandu-upK_2.5 //
+   ādāvante ca yan nāsti vartamāne 'pi tat tathā /	AdO=-ante ca yat na-asti vartamAne api tat taTA /
+   vitathaiḥ sadṛśāḥ santo 'vitathā iva lakṣitāḥ // MandUpK_2.6 //	vitaTEH sadRSAH santaH avitaTAH iva lakzitAH // Mandu-upK_2.6 //
+   saprayojanatā teṣāṃ svapne vipratipadyate /	sa-prayojana-tA tezAm svapne vipratipadyate /
+   tasmād ādyantavatvena mithyaiva khalu te smṛtāḥ // MandUpK_2.7 //	tasmAt Adi-antava-tvena miTyA-eva Kalu te smRtAH // Mandu-upK_2.7 //
+   apūrvaṃ sthānidharmo hi yathā svarganivāsinām /	apUrvam sTAni-DarmaH hi yaTA svarga-nivAsinAm /
+   tānayaṃ prekṣate gatvā yathaiveha suśikṣitaḥ // MandUpK_2.8 //	tAn-ayam prekzate gatvA yaTA-eva-iha su-SikzitaH // Mandu-upK_2.8 //
+   svapnavṛttāv api tv antaś cetasā kalpitaṃ tv asat /	svapna-vRttO api tu antar cetasA kalpitam tu asat /
+   bahiś cetogṛhītaṃ sad dṛṣṭaṃ vaitathyam etayoḥ // MandUpK_2.9 //	bahis cetaH-gRhItam sat dRzwam vEtaTyam etayoH // Mandu-upK_2.9 //
+   jāgradvṛttāvapi tv antaś cetasā kalpitaṃ tv asat /	jAgrat-vRttO=-api tu antar cetasA kalpitam tu asat /
+   bahiścetogṛhītaṃ sad yuktaṃ vaitathyam etayoḥ // MandUpK_2.10 //	bahis-cetaH-gRhItam sat yuktam vEtaTyam etayoH // Mandu-upK_2.10 //
+   ubhayor api vaitathyaṃ bhedānāṃ sthānayor yadi /	uBayoH api vEtaTyam BedAnAm sTAnayoH yadi /
+   ka etān budhyate bhedān ko vai teṣāṃ vikalpakaḥ // MandUpK_2.11 //	kaH etAn buDyate BedAn kaH vE tezAm vikalpakaH // Mandu-upK_2.11 //
+   kalpayaty ātmanātmānam ātmā devaḥ svamāyayā /	kalpayati AtmanA-AtmAnam AtmA devaH sva-mAyayA /
+   sa eva budhyate bhedān iti vedāntaniścayaḥ // MandUpK_2.12 //	saH eva buDyate BedAn iti vedAnta-niScayaH // Mandu-upK_2.12 //
+   vikaroty aparān bhāvān antaścitte vyavasthitān /	vikaroti aparAn BAvAn antar-citte vyavasTitAn /
+   niyatāṃś ca bahiścitta evaṃ kalpayate prabhuḥ // MandUpK_2.13 //	niyatAn ca bahis-cittaH evam kalpayate praBuH // Mandu-upK_2.13 //
+   cittakālā hi ye 'ntas tu dvayakālāś ca ye bahiḥ /	citta-kAlAH hi ye antar tu dvaya-kAlAH ca ye bahis /
+   kalpitā eva te sarve viśeṣo nānyahetukaḥ // MandUpK_2.14 //	kalpitAH eva te sarve viSezaH na-anya-hetukaH // Mandu-upK_2.14 //
+   avyaktā eva ye 'ntas tu sphuṭā eva ca ye bahiḥ /	avyaktAH eva ye antar tu sPuwAH eva ca ye bahis /
+   kalpitā eva te sarve viśeṣas tv indriyāntare // MandUpK_2.15 //	kalpitAH eva te sarve viSezaH tu indriya-antare // Mandu-upK_2.15 //
+   jīvaṃ kalpayate pūrvaṃ vaco bhāvān pṛthagvidhān /	jIvam kalpayate pUrvam vacaH BAvAn pRTagviDAn /
+   bāhyān ādhyātmikāṃś caiva yathāvidyas tathāsmṛtiḥ // MandUpK_2.16 //	bAhyAn ADyAtmikAn ca-eva yaTA-vidyaH taTA-asmRtiH // Mandu-upK_2.16 //
+   aniścitā yathā rajjur andhakāre vikalpitā /	aniScitAH yaTA rajjuH anDakAre vikalpitA /
+   sarpadhārādibhir bhāvais tadvad ātmā vikalpitaḥ // MandUpK_2.17 //	sarpa-DArA-AdiBiH BAvEH tadvat AtmA vikalpitaH // Mandu-upK_2.17 //
+   niścitāyāṃ yathā rajjvāṃ vikalpo vinivartate /	niScitAyAm yaTA rajjvAm vikalpaH vinivartate /
+   rajjur eveti cādvaitaṃ tadvad ātmaviniścayaḥ // MandUpK_2.18 //	rajjuH eva-iti ca-advEtam tadvat Atma-viniScayaH // Mandu-upK_2.18 //
+   prāṇādibhir anantaiś ca bhāvair etair vikalpitaḥ /	prANa-AdiBiH anantEH ca BAvEH etEH vikalpitaH /
+   māyaiṣā tasya devasya yayā saṃmohitaḥ svayam // MandUpK_2.19 //	mAyA-ezA tasya devasya yayA saMmohitaH svayam // Mandu-upK_2.19 //
+   prāṇa iti prāṇavido bhūtānīti ca tadvidaḥ /	prANaH iti prANa-vidaH BUtAni-iti ca tad-vidaH /
+   guṇā iti guṇavidas tattvānīti ca tadvidaḥ // MandUpK_2.20 //	guNAH iti guNa-vidaH tattvAni-iti ca tad-vidaH // Mandu-upK_2.20 //
+   pādā iti pādavido viṣayā iti ca tadvidaḥ /	pAdAH iti pAda-vidaH vizayAH iti ca tad-vidaH /
+   lokā iti lokavido devā iti ca tadvidaḥ // MandUpK_2.21 //	lokAH iti loka-vidaH devAH iti ca tad-vidaH // Mandu-upK_2.21 //
+   vedā iti vedavido yajñā iti ca tadvidaḥ /	vedAH iti veda-vidaH yajQAH iti ca tad-vidaH /
+   bhokteti ca bhoktṛvido bhojyam iti ca tadvidaḥ // MandUpK_2. 22 //	BoktA-iti ca BoktR-vidaH Bojyam iti ca tad-vidaH // Mandu-upK_2. 22 //
+   sūkṣma iti sūkṣmavidaḥ sthūla iti ca tadvidaḥ /	sUkzmaH iti sUkzma-vidaH sTUlaH iti ca tad-vidaH /
+   mūrta iti mūrtavido 'mūrta iti ca tadvidaḥ // MandUpK_2.23 //	mUrtaH iti mUrta-vidaH amUrtaH iti ca tad-vidaH // Mandu-upK_2.23 //
+   kāla iti kālavido diśa iti ca tadvidaḥ /	kAlaH iti kAla-vidaH diSaH iti ca tad-vidaH /
+   vādā iti vādavido bhuvanānīti tadvidaḥ // MandUpK_2.24 //	vAdAH iti vAda-vidaH BuvanAni-iti tad-vidaH // Mandu-upK_2.24 //
+   mana iti manovido buddhir iti ca tadvidaḥ /	manaH iti manaH-vidaH budDiH iti ca tad-vidaH /
+   cittam iti cittavido dharmādharmau ca tadvidaḥ // MandUpK_2.25 //	cittam iti citta-vidaH Darma-aDarmO ca tad-vidaH // Mandu-upK_2.25 //
+   pañcaviṃśaka ity eke ṣaḍviśa iti cāpare /	paQcaviMSakaH iti eke zaz-viSaH iti ca-apare /
+   ekatriṃśaka ity āhur ananta iti cāpare // MandUpK_2.26 //	ekatriMSakaH iti AhuH anantaH iti ca-apare // Mandu-upK_2.26 //
+   lokāṃl lokavidaḥ prāhur āśramā iti tadvidaḥ /	lokAn loka-vidaH prAhuH ASramAH iti tad-vidaH /
+   strīpuṃnapuṃsakaṃ laiṅgāḥ parāparam athāpare // MandUpK_2.27 //	strI-puMnapuMsakam lEFgAH para-aparam aTa-apare // Mandu-upK_2.27 //
+   sṛṣṭir iti sṛṣṭivido laya iti ca tadvidaḥ /	sRzwiH iti sRzwi-vidaH layaH iti ca tad-vidaH /
+   sthitir iti sthitividaḥ sarve ceha tu sarvadā // MandUpK_2.28 //	sTitiH iti sTiti-vidaH sarve ca-iha tu sarvadA // Mandu-upK_2.28 //
+   yaṃ bhāvaṃ darśayed yasya taṃ bhāvaṃ sa tu paśyati /	yam BAvam darSayet yasya tam BAvam sa tu paSyati /
+   taṃ cāvati sa bhūtvāsau tadgrahaḥ samupaiti tam // MandUpK_2.29 //	tam ca-avati sa BUtvA-asO tad-grahaH samupEti tam // Mandu-upK_2.29 //
+   etair eṣo 'pṛthagbhāvaiḥ pṛthag eveti lakṣitaḥ /	etEH ezaH apRTak-BAvEH pRTak eva-iti lakzitaH /
+   evaṃ yo veda tattvena kalpayet so 'viśaṅkitaḥ // MandUpK_2.30 //	evam yaH veda tattvena kalpayet saH aviSaFkitaH // Mandu-upK_2.30 //
+   svapnamāye yathā dṛṣṭaṃ gandharvanagaraṃ yathā /	svapna-mAye yaTA dRzwam ganDarvanagaram yaTA /
+   tathā viśvam idaṃ dṛṣṭaṃ vedānteṣu vicakṣaṇaiḥ // MandUpK_2.31 //	taTA viSvam idam dRzwam vedAntezu vicakzaNEH // Mandu-upK_2.31 //
+   na nirodho na cotpattir na baddho na ca sādhakaḥ /	na niroDaH na ca-utpattiH na badDaH na ca sADakaH /
+   na mumukṣur na vai mukta ity eṣā paramārthatā // MandUpK_2.32 //	na mumukzuH na vE muktaH iti ezA paramArTa-tA // Mandu-upK_2.32 //
+   bhāvair asadbhir evāyam advayena ca kalpitaḥ /	BAvEH asadBiH eva-ayam advayena ca kalpitaH /
+   bhāvā apy advayenaiva tasmād advayatā śivā // MandUpK_2.33 //	BAvAH api advayena-eva tasmAt advayatA SivAH // Mandu-upK_2.33 //
+   nātmabhāvena nānedaṃ na svenāpi kathañcana /	na-Atma-BAvena nAnA-idam na svena-api kaTaQcana /
+   na pṛthaṅ nāpṛthak kiñcid iti tattvavido viduḥ // MandUpK_2.34 //	na pRTak na-apRTak kiQcid iti tattva-vidaH viduH // Mandu-upK_2.34 //
+   vītarāgabhayakrodhair munibhir vedapāragaiḥ /	vIta-rAga-Baya-kroDEH muniBiH vedapAragEH /
+   nirvikalpo hy ayaṃ dṛṣṭaḥ prapañcopaśamo 'dvayaḥ // MandUpK_2.35 //	nirvikalpaH hi ayam dRzwaH prapaQca-upaSamaH advayaH // Mandu-upK_2.35 //
+   tasmād evaṃ viditvainam advaite yojayet smṛtim /	tasmAt evam viditvA-enam advEte yojayet smRtim /
+   advaitaṃ samanuprāpya jaḍavallokam ācaret // MandUpK_2.36 //	advEtam samanuprApya jaxa-vat-lokam Acaret // Mandu-upK_2.36 //
+   niḥstutir nirnamaskāro niḥsvadhākāra eva ca /	niHstutiH nirnamaskAraH niHsvaDAkAraH eva ca /
+   calācalaniketaś ca yatir yādṛcchiko bhavet // MandUpK_2.37 //	calAcala-niketaH ca yatiH yAdRcCikaH Bavet // Mandu-upK_2.37 //
+   tattvam ādhyātmikaṃ dṛṣṭvā tattvaṃ dṛṣṭvā tu bāhyataḥ /	tattvam ADyAtmikam dRzwvA tattvam dRzwvA tu bAhyatas /
+   tattvībhūtas tadārāmas tattvād apracyuto bhavet // MandUpK_2.38 //	tattvIBUtaH tad-ArAmaH tattvAt apracyutaH Bavet // Mandu-upK_2.38 //
+   upāsanāśrito dharmo jāte brahmaṇi vartate /	upAsana-ASritaH DarmaH jAte brahmaNi vartate /
+   prāgutpatter ajaṃ sarvaṃ tenāsau kṛpaṇaḥ smṛtaḥ // MandUpK_3.1 //	prAk-utpatteH ajam sarvam tena-asO kRpaNaH smRtaH // Mandu-upK_3.1 //
+   ato vakṣyāmy akārpaṇyam ajāti samatāṃ gatam /	atas vakzyAmi akArpaNyam ajAti sama-tAm gatam /
+   yathā na jāyate kiñcij jāyamānaṃ samantataḥ // MandUpK_3.2 //	yaTA na jAyate kiQcid jAyamAnam samantataH // Mandu-upK_3.2 //
+   ātmā hy ākāśavajjīvair ghaṭākāśair ivoditaḥ /	AtmA hi AkASa-vat-jIvEH Gawa-AkASEH iva-uditaH /
+   ghaṭādivac ca saṃghātair jātāv etan nidarśanam // MandUpK_3.3 //	Gawa-Adi-vat ca saMGAtEH jAtO etat nidarSanam // Mandu-upK_3.3 //
+   ghaṭādiṣu pralīneṣu ghaṭākāśādayo yathā /	Gawa-Adizu pralInezu Gawa-AkASa-AdayaH yaTA /
+   ākāśe saṃpralīyante tadvaj jīvā ihātmani // MandUpK_3.4 //	AkASe saMpralIyante tadvat jIvAH iha-Atmani // Mandu-upK_3.4 //
+   yathaikasmin ghāṭākāśe rajodhūmādibhir yute /	yaTA-ekasmin GAwa-AkASe rajaH-DUma-AdiBiH yute /
+   na sarve saṃprayujyante tadvaj jīvāḥ sukhādibhiḥ // MandUpK_3.5 //	na sarve saMprayujyante tadvat jIvAH suKa-AdiBiH // Mandu-upK_3.5 //
+   rūpakāryasamākhyāś ca bhidyante tatra tatra vai /	rUpa-kArya-samAKyAH ca Bidyante tatra tatra vE /
+   ākāśasya na bhedo 'sti tadvaj jīveṣu nirṇayaḥ // MandUpK_3.6 //	AkASasya na BedaH asti tadvat jIvezu nirNayaH // Mandu-upK_3.6 //
+   nākāśasya ghaṭākāśo vikārāvayavau yathā /	na-AkASasya Gawa-AkASaH vikAra-avayavO yaTA /
+   naivātmanaḥ sadā jīvo vikārāvayavau tathā // MandUpK_3.7 //	na-eva-AtmanaH sadA jIvaH vikAra-avayavO taTA // Mandu-upK_3.7 //
+   yathā bhavati bālānāṃ gaganaṃ malinaṃ malaiḥ /	yaTA Bavati bAlAnAm gaganam malinam malEH /
+   tathā bhavaty abuddhānām ātmāpi malino malaiḥ // MandUpK_3.8 //	taTA Bavati abudDAnAm AtmA-api malinaH malEH // Mandu-upK_3.8 //
+   maraṇe saṃbhave caiva gatyāgamanayor api /	maraNe saMBave ca-eva gati-AgamanayoH api /
+   sthitau sarvaśarīreṣu ākāśenāvilakṣaṇaḥ // MandUpK_3.9 //	sTitO sarva-SarIrezu AkASena-avilakzaNaH // Mandu-upK_3.9 //
+   saṃghātāḥ svapnavat sarve ātmamāyāvisarjitāḥ /	saMGAtAH svapna-vat sarve Atma-mAyA-visarjitAH /
+   ādhikye sarvasāmye vā nopapattir hi vidyate // MandUpK_3.10 //	ADikye sarva-sAmye vA na-upapattiH hi vidyate // Mandu-upK_3.10 //
+   rasādayo hi ye kośā vyākhyātās taittirīyake /	rasa-AdayaH hi ye koSAH vyAKyAtAH tEttirIyake /
+   teṣām ātmā paro jīvaḥ khaṃ yathā saṃprakāśitaḥ // MandUpK_3.11 //	tezAm AtmA paraH jIvaH Kam yaTA saMprakASitaH // Mandu-upK_3.11 //
+   dvayor dvayor madhujñāne paraṃ brahma prakāśitam /	dvayoH dvayoH maDu-jQAne param brahma prakASitam /
+   pṛthivyāmudare caiva yathākāśaḥ prakāśitaḥ // MandUpK_3.12 //	pRTivyAm-udare ca-eva yaTA-AkASaH prakASitaH // Mandu-upK_3.12 //
+   jīvātmanor ananyatvam abhedena praśasyate /	jIvAtmanoH ananya-tvam aBedena praSasyate /
+   nānātvaṃ nindyate yac ca tad evaṃ hi samañjasam // MandUpK_3.13 //	nAnAtvam nindyate yat ca tat evam hi samaQjasam // Mandu-upK_3.13 //
+   jīvātmanoḥ pṛthaktvaṃ yat prāgutpatteḥ prakīrtitam /	jIvAtmanoH pRTaktvam yat prAk-utpatteH prakIrtitam /
+   bhaviṣyadvṛtyā gauṇaṃ tan mukhyatvaṃ hi na yujyate // MandUpK_3.14 //	Bavizyat-vRtyA gONam tat muKya-tvam hi na yujyate // Mandu-upK_3.14 //
+   mṛllohavisphuliṅgādyaiḥ sṛṣṭir yā coditānyathā /	mRd-loha-visPuliFga-AdyEH sRzwiH yA coditA-anyaTA /
+   upāyaḥ so 'vatārāya nāsti bhedaḥ kathañcana // MandUpK_3.15 //	upAyaH saH avatArAya na-asti BedaH kaTaQcana // Mandu-upK_3.15 //
+   āśramāstrividhā hīnamadhyamotkṛṣṭadṛṣṭayaḥ /	ASramAH-triviDAH hIna-maDyama-utkRzwa-dRzwayaH /
+   upāsanopadiṣṭeyaṃ tadartham anukampayā // MandUpK_3.16 //	upAsana-upadizwA-iyam tad-arTam anukampayA // Mandu-upK_3.16 //
+   svasiddhāntavyavasthāsu dvaitino niścitā dṛḍham /	sva-sidDAnta-vyavasTAsu dvEtinaH niScitA dRXam /
+   parasparaṃ virudhyante tairayaṃ na virudhyate // MandUpK_3.17 //	parasparam viruDyante tEH-ayam na viruDyate // Mandu-upK_3.17 //
+   advaitaṃ paramārtho hi dvaitaṃ tadbheda ucyate /	advEtam parama-arTaH hi dvEtam tad-BedaH ucyate /
+   teṣām ubhayathā dvaitaṃ tenāyaṃ na viruddhyate // MandUpK_3.18 //	tezAm uBayaTA dvEtam tena-ayam na virudDyate // Mandu-upK_3.18 //
+   māyayā bhidyate hy etan nānyathājaṃ kathañcana /	mAyayA Bidyate hi etat na-anyaTA-Ajam kaTaQcana /
+   tattvato bhidyamāne hi martyatām amṛtaṃ vrajet // MandUpK_3.19 //	tattvataH BidyamAne hi martyatAm amRtam vrajet // Mandu-upK_3.19 //
+   ajātasyaiva bhāvasya jātim icchanti vādinaḥ /	ajAtasya-eva BAvasya jAtim icCanti vAdinaH /
+   ajāto hy amṛto bhāvo martyatāṃ katham eṣyati // MandUpK_3.20 //	ajAtaH hi amRtaH BAvaH martyatAm kaTam ezyati // Mandu-upK_3.20 //
+   na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /	na Bavati amRtam martyam na martyam amRtam taTA /
+   prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_3.21 //	prakRteH anyaTA-BAvaH na kaTaQcid Bavizyati // Mandu-upK_3.21 //
+   svabhāvenāmṛto yasya bhāvo gacchati martyatām /	svaBAvena-amRtaH yasya BAvaH gacCati martyatAm /
+   kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // MandUpK_3.22 //	kRtakena-amRtaH tasya kaTam sTAsyati niScalaH // Mandu-upK_3.22 //
+   bhūtato 'bhūtato vāpi sṛjyamāne samā śrutiḥ /	BUtataH aBUtatas vA-api sRjyamAne samA SrutiH /
+   niścitaṃ yuktiyuktaṃ ca yat tad bhavati netarat // MandUpK_3.23 //	niScitam yukti-yuktam ca yat tat Bavati na-itarat // Mandu-upK_3.23 //
+   neha nāneti cāmnāyād indro māyābhir ity api /	na-iha nAnA-iti ca-AmnAyAt indraH mAyABiH iti api /
+   ajāyamāno bahudhā māyayā jāyate tu saḥ // MandUpK_3.24 //	ajAyamAnaH bahuDA mAyayA jAyate tu saH // Mandu-upK_3.24 //
+   saṃbhūter apavādāc ca saṃbhavaḥ pratiṣidhyate /	saMBUteH apavAdAt ca saMBavaH pratiziDyate /
+   ko nv enaṃ janayed iti kāraṇaṃ pratiṣidhyate // MandUpK_3.25 //	kaH nu enam janayet iti kAraNam pratiziDyate // Mandu-upK_3.25 //
+   sa eṣa neti netīti vyākhyātaṃ nihnute yataḥ /	saH eza na-iti na-iti-iti vyAKyAtam nihnute yatas /
+   sarvam agrāhyabhāvena hetunājaṃ prakāśate // MandUpK_3.26 //	sarvam agrAhya-BAvena hetunA-Ajam prakASate // Mandu-upK_3.26 //
+   sato hi māyayā janma yujyate na tu tattvataḥ /	sataH hi mAyayA janma yujyate na tu tattvataH /
+   tattvato jāyate yasya jātaṃ tasya hi jāyate // MandUpK_3.27 //	tattvataH jAyate yasya jAtam tasya hi jAyate // Mandu-upK_3.27 //
+   asato māyayā janma tattvato naiva yujyate /	asataH mAyayA janma tattvataH na-eva yujyate /
+   vandhyāputro na tattvena māyayā vāpi jāyate // MandUpK_3.28 //	vanDyA-putraH na tattvena mAyayA vA-api jAyate // Mandu-upK_3.28 //
+   yathā svapne dvayābhāsaṃ spandate māyayā manaḥ /	yaTA svapne dvaya-ABAsam spandate mAyayA manaH /
+   tathā jāgraddvayābhāsaṃ spandate māyayā manaḥ // MandUpK_3.29 //	taTA jAgrat-dvaya-ABAsam spandate mAyayA manaH // Mandu-upK_3.29 //
+   advayaṃ ca dvayābhāsaṃ manaḥ svapne na saṃśayaḥ /	advayam ca dvaya-ABAsam manaH svapne na saMSayaH /
+   advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // MandUpK_3.30 //	advayam ca dvaya-ABAsam taTA jAgrat na saMSayaH // Mandu-upK_3.30 //
+   manodṛśyam idaṃ dvaitaṃ yat kiñcit sacarācaram /	manaH-dRSyam idam dvEtam yat kiQcid sacarAcaram /
+   manaso hy amanībhāve dvaitaṃ naivopalabhyate // MandUpK_3.31 //	manasaH hi amanIBAve dvEtam na-eva-upalaByate // Mandu-upK_3.31 //
+   ātmasatyānubodhena na saṃkalpayate yadā /	Atma-satya-anuboDena na saMkalpayate yadA /
+   amanastāṃ tadā yāti grāhyābhāve tadagraham // MandUpK_3.32 //	amanaH-tAm tadA yAti grAhya-aBAve tat-agraham // Mandu-upK_3.32 //
+   akalpamajaṃ jñānaṃ jñeyābhinnaṃ pracakṣate /	akalpam-ajam jQAnam jQeya-aBinnam pracakzate /
+   brahma jñeyam ajaṃ nityam ajenājaṃ vibudhyate // MandUpK_3.33 //	brahma jQeyam ajam nityam ajena-Ajam vibuDyate // Mandu-upK_3.33 //
+   nigṛhītasya manaso nirvikalpasya dhīmataḥ /	nigRhItasya manasaH nirvikalpasya DImataH /
+   pracāraḥ sa tu vijñeyaḥ suṣupte 'nyo na tatsamaḥ // MandUpK_3.34 //	pracAraH sa tu vijQeyaH suzupte anyaH na tad-samaH // Mandu-upK_3.34 //
+   līyate hi suṣupte tan nigṛhītaṃ na līyate /	lIyate hi suzupte tat nigRhItam na lIyate /
+   tad eva nirbhayaṃ brahma jñānalokaṃ samantataḥ // MandUpK_3.35 //	tat eva nirBayam brahma jQAna-lokam samantataH // Mandu-upK_3.35 //
+   ajam anindram asvapnam anāmakam arūpakam /	ajam anindram asvapnam anAmakam arUpakam /
+   sakṛdvibhātaṃ sarvajñaṃ nopacāraḥ kathañcana // MandUpK_3.36 //	sakRt-viBAtam sarvajQam na-upacAraH kaTaQcana // Mandu-upK_3.36 //
+   sarvābhilāpavigataḥ sarvacintāsamutthitaḥ /	sarva-aBilApa-vigataH sarva-cintA-samutTitaH /
+   supraśāntaḥ sakṛjjyotiḥ samādhir acalo 'bhayaḥ // MandUpK_3.37 //	su-praSAntaH sakRjjyotiH samADiH acalaH aBayaH // Mandu-upK_3.37 //
+   graho na tatra notsargaś cintā yatra na vidyate /	grahaH na tatra na-utsargaH cintA yatra na vidyate /
+   ātmasaṃsthaṃ tadā jñānam ajāti samatāṃ gatam // MandUpK_3.38 //	Atma-saMsTam tadA jQAnam ajAti sama-tAm gatam // Mandu-upK_3.38 //
+   asparśayogo vai nāma durdarśaḥ sarvayogibhiḥ /	asparSa-yogaH vE nAma durdarSaH sarva-yogiBiH /
+   yogino bibhyati hy asmād abhaye bhayadarśinaḥ // MandUpK_3.39 //	yoginaH biByati hi asmAt aBaye Baya-darSinaH // Mandu-upK_3.39 //
+   manaso nigrahāyattam abhayaṃ sarvayoginām /	manasaH nigraha-Ayattam aBayam sarva-yoginAm /
+   duḥkhakṣayaḥ prabodhaś cāpy akṣayā śāntir eva ca // MandUpK_3.40 //	duHKa-kzayaH praboDaH ca-api akzayA SAntiH eva ca // Mandu-upK_3.40 //
+   utseka udadher yadvat kuśāgreṇaikabindunā /	utsekaH udaDeH yadvat kuSa-agreNa-eka-bindunA /
+   manaso nigrahas tadvad bhaved aparikhedataḥ // MandUpK_3.41 //	manasaH nigrahaH tadvat Bavet apariKedataH // Mandu-upK_3.41 //
+   upāyena nigṛhṇīyād vikṣiptaṃ kāmabhogayoḥ /	upAyena nigRhNIyAt vikziptam kAma-BogayoH /
+   suprasannaṃ laye caiva yathā kāmo layas tathā // MandUpK_3.42 //	su-prasannam laye ca-eva yaTA kAmaH layaH taTA // Mandu-upK_3.42 //
+   duḥkhaṃ sarvam anusmṛtya kāmabhogān nivartayet /	duHKam sarvam anusmRtya kAma-BogAn nivartayet /
+   ajaṃ sarvamanusmṛtya jātaṃ naiva tu paśyati // MandUpK_3.43 //	ajam sarvam-anusmRtya jAtam na-eva tu paSyati // Mandu-upK_3.43 //
+   laye saṃbodhayec cittaṃ vikṣiptaṃ śamayet punaḥ /	laye saMboDayet cittam vikziptam Samayet punar /
+   sakaṣāyaṃ vijānīyāt samaprāptaṃ na cālayet // MandUpK_3.44 //	sa-kazAyam vijAnIyAt sama-prAptam na cAlayet // Mandu-upK_3.44 //
+   nāsvādayet sukhaṃ tatra niḥsaṅgaḥ prajñayā bhavet /	na-AsvAdayet suKam tatra niHsaFgaH prajQayA Bavet /
+   niścalaṃ niścarac cittam ekīkuryāt prayatnataḥ // MandUpK_3.45 //	niScalam niScarat cittam ekIkuryAt prayatnataH // Mandu-upK_3.45 //
+   yadā na līyate cittaṃ na ca vikṣipyate punaḥ /	yadA na lIyate cittam na ca vikzipyate punar /
+   aniṅganam anābhāsaṃ niṣpannaṃ brahma tat tadā // MandUpK_3.46 //	aniFganam anABAsam nizpannam brahma tat tadA // Mandu-upK_3.46 //
+   svasthaṃ śāntaṃ sanirvāṇam akathyaṃ sukham uttamam /	svasTam SAntam sa-nirvANam akaTyam suKam uttamam /
+   ajam ajena jñeyena sarvajñaṃ paricakṣate // MandUpK_3.47 //	ajam ajena jQeyena sarvajQam paricakzate // Mandu-upK_3.47 //
+   na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /	na kaScid jAyate jIvaH saMBavaH asya na vidyate /
+   etat tad uttamaṃ satyaṃ yatra kiñcin na jāyate // MandUpK_3.48 //	etat tat uttamam satyam yatra kiQcid na jAyate // Mandu-upK_3.48 //
+   jñānenākāśakalpena dharmānyo gaganopamān /	jQAnena-AkASa-kalpena DarmAn-yaH gagana-upamAn /
+   jñeyābhinnena saṃbuddhas taṃ vande dvipadāṃ varam // MandUpK_4.1 //	jQeya-aBinnena saMbudDaH tam vande dvipadAm varam // Mandu-upK_4.1 //
+   asparśayogo vai nāma sarvasattvasukho hitaḥ /	asparSa-yogaH vE nAma sarva-sattva-suKaH hitaH /
+   avivādo 'viruddhaś ca deśitas taṃ namāmy aham // MandUpK_4.2 //	avivAdaH avirudDaH ca deSitaH tam namAmi aham // Mandu-upK_4.2 //
+   bhūtasya jātim icchanti vādinaḥ kecid eva hi /	BUtasya jAtim icCanti vAdinaH kecid eva hi /
+   abhūtasyāpare dhīrā vivadantaḥ parasparam // MandUpK_4.3 //	aBUtasya-apare DIrAH vivadantaH parasparam // Mandu-upK_4.3 //
+   bhūtaṃ na jāyate kiñcid abhūtaṃ naiva jāyate /	BUtam na jAyate kiQcid aBUtam na-eva jAyate /
+   vivadanto 'dvayā hy evam ajātiṃ khyāpayanti te // MandUpK_4.4 //	vivadantaH advayAH hi evam ajAtim KyApayanti te // Mandu-upK_4.4 //
+   khyāpyamānām ajātiṃ tair anumodāmahe vayam /	KyApyamAnAm ajAtim tEH anumodAmahe vayam /
+   vivadāmo na taiḥ sārdham avivādaṃ nibodhata // MandUpK_4.5 //	vivadAmaH na tEH sArDam avivAdam niboData // Mandu-upK_4.5 //
+   ajātasyaiva dharmasya jātim icchanti vādinaḥ /	ajAtasya-eva Darmasya jAtim icCanti vAdinaH /
+   ajāto hy amṛto dharmo martyatāṃ katham eṣyati // MandUpK_4.6 //	ajAtaH hi amRtaH DarmaH martyatAm kaTam ezyati // Mandu-upK_4.6 //
+   na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /	na Bavati amRtam martyam na martyam amRtam taTA /
+   prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_4.7 //	prakRteH anyaTA-BAvaH na kaTaQcid Bavizyati // Mandu-upK_4.7 //
+   svabhāvenāmṛto yasya dharmo gacchati martyatām /	svaBAvena-amRtaH yasya DarmaH gacCati martyatAm /
+   kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // MandUpK_4.8 //	kRtakena-amRtaH tasya kaTam sTAsyati niScalaH // Mandu-upK_4.8 //
+   sāṃsiddhikī svābhāvikī sahajā akṛtā ca yā /	sAMsidDikI svABAvikI sahajAH akRtA ca yA /
+   prakṛtiḥ seti vijñeyā svabhāvaṃ na jahāti yā // MandUpK_4.9 //	prakRtiH sA-iti vijQeyA svaBAvam na jahAti yAH // Mandu-upK_4.9 //
+   jarāmaraṇanirmuktāḥ sarve dharmāḥ svabhāvataḥ /	jarA-maraNa-nirmuktAH sarve DarmAH svaBAvataH /
+   jarāmaraṇam icchantaś cyavante tanmanīṣayā // MandUpK_4.10 //	jarA-maraNam icCantaH cyavante tad-manIzayA // Mandu-upK_4.10 //
+   kāraṇaṃ yasya vai kāryaṃ kāraṇaṃ tasya jāyate /	kAraNam yasya vE kAryam kAraNam tasya jAyate /
+   jāyamānaṃ katham ajaṃ bhinnaṃ nityaṃ kathaṃ ca tat // MandUpK_4.11 //	jAyamAnam kaTam ajam Binnam nityam kaTam ca tat // Mandu-upK_4.11 //
+   kāraṇād yady ananyatvam ataḥ kāryam ajaṃ yadi /	kAraNAt yadi ananya-tvam atas kAryam ajam yadi /
+   jāyamānād dhi vai kāryāt kāraṇaṃ te kathaṃ dhruvam // MandUpK_4.12 //	jAyamAnAt Di vE kAryAt kAraNam te kaTam Druvam // Mandu-upK_4.12 //
+   ajād vai jāyate yasya dṛṣṭāntas tasya nāsti vai /	ajAt vE jAyate yasya dRzwAntaH tasya na-asti vE /
+   jātāc ca jāyāmānasya na vyavasthā prasajyate // MandUpK_4.13 //	jAtAt ca jAyAmAnasya na vyavasTA prasajyate // Mandu-upK_4.13 //
+   hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca /	hetoH AdiH Palam yezAm AdiH hetuH Palasya ca /
+   hetoḥ phalasya cānādiḥ kathaṃ tair upavarṇyate // MandUpK_4.14 //	hetoH Palasya ca-anAdiH kaTam tEH upavarNyate // Mandu-upK_4.14 //
+   hetor ādiḥ phalaṃ yeṣām ādir hetuḥ kalasya ca /	hetoH AdiH Palam yezAm AdiH hetuH kalasya ca /
+   tathā janma bhavet teṣāṃ putrāj janma pitur yathā // MandUpK_4.15 //	taTA janma Bavet tezAm putrAt janma pituH yaTA // Mandu-upK_4.15 //
+   saṃbhave hetuphalayor eṣitavyaḥ kramas tvayā /	saMBave hetu-PalayoH ezitavyaH kramaH tvayA /
+   yugapatsaṃbhave yasmād asaṃbandho viṣāṇavat // MandUpK_4.16 //	yugapad-saMBave yasmAt asaMbanDaH vizANa-vat // Mandu-upK_4.16 //
+   phalād utpadyamānaḥ san na te hetuḥ prasidhyati /	PalAt utpadyamAnaH san na te hetuH prasiDyati /
+   aprasiddhaḥ kathaṃ hetuḥ phalam utpādayiṣyati // MandUpK_4.17 //	aprasidDaH kaTam hetuH Palam utpAdayizyati // Mandu-upK_4.17 //
+   yadi hetoḥ phalāt siddhiḥ phalasiddhiś ca hetutaḥ /	yadi hetoH PalAt sidDiH Pala-sidDiH ca hetutaH /
+   katarat pūrvaniṣpannaṃ yasya siddhir apekṣayā // MandUpK_4.18 //	katarat pUrva-nizpannam yasya sidDiH apekzayA // Mandu-upK_4.18 //
+   aśaktir aparijñānaṃ kramakopo 'tha vā punaḥ /	aSaktiH aparijQAnam krama-kopaH aTa vA punar /
+   evaṃ hi sarvathā buddhair ajātiḥ paridīpitā // MandUpK_4.19 //	evam hi sarvaTA budDEH ajAtiH paridIpitAH // Mandu-upK_4.19 //
+   bījāṅkurākhyo dṛṣṭāntaḥ sadā sādhyasamo hi sa /	bIja-aFkura-AKyaH dRzwAntaH sadA sADya-samaH hi sa /
+   na hi sādhyasamo hetuḥ siddhau sādhyasya yujyate // MandUpK_4.20 //	na hi sADya-samaH hetuH sidDO sADyasya yujyate // Mandu-upK_4.20 //
+   pūrvāparāparijñānam ajāteḥ paridīpakam /	pUrva-apara-aparijQAnam ajAteH paridIpakam /
+   jāyamānād dhi vai dharmāt kathaṃ pūrvaṃ na gṛhyate // MandUpK_4.21 //	jAyamAnAt Di vE DarmAt kaTam pUrvam na gRhyate // Mandu-upK_4.21 //
+   svato vā parato vāpi na kiñcid vastu jāyate /	svatas vA paratas vA-api na kiQcid vastu jAyate /
+   sad asat sadasad vāpi na kiñcid vastu jāyate // MandUpK_4.22 //	sat asat sat-asat vA-api na kiQcid vastu jAyate // Mandu-upK_4.22 //
+   hetur na jāyate 'nādeḥ phalaṃ cāpi svabhāvataḥ /	hetuH na jAyate anAdeH Palam ca-api svaBAvataH /
+   ādir na vidyate yasya tasya hy ādir na vidyate // MandUpK_4.23 //	AdiH na vidyate yasya tasya hi AdiH na vidyate // Mandu-upK_4.23 //
+   prajñapteḥ sanimittatvam anyathā dvayanāśataḥ /	prajQapteH sa-nimitta-tvam anyaTA dvaya-nASataH /
+   saṃkleśasyopalabdheś ca paratantrāstitā matā // MandUpK_4.24 //	saMkleSasya-upalabDeH ca paratantra-astitAH matAH // Mandu-upK_4.24 //
+   prajñapteḥ sanimittatvam iṣyate yuktidarśanāt /	prajQapteH sa-nimitta-tvam izyate yukti-darSanAt /
+   nimittasyānimittatvam iṣyate bhūtadarśanāt // MandUpK_4.25 //	nimittasya-animitta-tvam izyate BUta-darSanAt // Mandu-upK_4.25 //
+   cittaṃ na saṃspṛśaty arthaṃ nārthābhāsaṃ tathaiva ca /	cittam na saMspRSati arTam na-arTa-ABAsam taTA-eva ca /
+   abhūto hi yataś cārtho nārthābhāsas tataḥ pṛthak // MandUpK_4.26 //	aBUtaH hi yatas ca-arTaH na-arTa-ABAsaH tatas pRTak // Mandu-upK_4.26 //
+   nimittaṃ na sadā cittaṃ saṃspṛśaty adhvasu triṣu /	nimittam na sadA cittam saMspRSati aDvasu trizu /
+   animitto viparyāsaḥ kathaṃ tasya bhaviṣyati // MandUpK_4.27 //	animittaH viparyAsaH kaTam tasya Bavizyati // Mandu-upK_4.27 //
+   tasmān na jāyate cittaṃ cittadṛśyaṃ na jāyate /	tasmAt na jAyate cittam citta-dRSyam na jAyate /
+   tasya paśyanti ye jātiṃ khe vai paśyanti te padam // MandUpK_4.28 //	tasya paSyanti ye jAtim Ke vE paSyanti te padam // Mandu-upK_4.28 //
+   ajātaṃ jāyate yasmād ajātiḥ prakṛtis tataḥ /	ajAtam jAyate yasmAt ajAtiH prakRtiH tatas /
+   prakṛter anyathābhāvo na kathañcid bhaviṣyati // MandUpK_4.29 //	prakRteH anyaTA-BAvaH na kaTaQcid Bavizyati // Mandu-upK_4.29 //
+   anāder antavattvaṃ ca saṃsārasya na setsyati /	anAdeH antavat-tvam ca saMsArasya na setsyati /
+   anantatā cādimato mokṣasya na bhaviṣyati // MandUpK_4.30 //	ananta-tA ca-AdimataH mokzasya na Bavizyati // Mandu-upK_4.30 //
+   ādāvante ca yan nāsti vartamāne 'pi tat tathā /	AdO=-ante ca yat na-asti vartamAne api tat taTA /
+   vitathaiḥ sadṛśāḥ santo 'vitathā iva lakṣitāḥ // MandUpK_4.31 //	vitaTEH sadRSAH santaH avitaTAH iva lakzitAH // Mandu-upK_4.31 //
+   saprayojanatā teṣāṃ svapne vipratipadyate /	sa-prayojana-tA tezAm svapne vipratipadyate /
+   tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // MandUpK_4.32 //	tasmAt Adi-antavat-tvena miTyA-eva Kalu te smRtAH // Mandu-upK_4.32 //
+   sarve dharmā mṛṣā svapne kāyasyāntanidarśanāt /	sarve DarmAH mRzA svapne kAyasya-anta-nidarSanAt /
+   saṃvṛtte 'smin pradeśe vai bhūtānāṃ darśanaṃ kutaḥ // MandUpK_4.33 //	saMvRtte asmin pradeSe vE BUtAnAm darSanam kutas // Mandu-upK_4.33 //
+   na yuktaṃ darśanaṃ gatvā kālasyāniyamād gatau /	na yuktam darSanam gatvA kAlasya-aniyamAt gatO /
+   pratibuddhaś ca vai sarvas tasmin deśe na vidyate // MandUpK_4.34 //	pratibudDaH ca vE sarvaH tasmin deSe na vidyate // Mandu-upK_4.34 //
+   mitrādyaiḥ saha saṃmantrya saṃbuddhau na prapadyate /	mitra-AdyEH saha saMmantrya saMbudDO na prapadyate /
+   gṛhītaṃ cāpi yat kiñcit pratibuddho na paśyati // MandUpK_4.35 //	gRhItam ca-api yat kiQcid pratibudDaH na paSyati // Mandu-upK_4.35 //
+   svapne cāvastukaḥ kāyaḥ pṛthag anyasya darśanāt /	svapne ca-avastukaH kAyaH pRTak anyasya darSanAt /
+   yathā kāyas tathā sarvaṃ cittadṛśyam avastukam // MandUpK_4.36 //	yaTA kAyaH taTA sarvam citta-dRSyam avastukam // Mandu-upK_4.36 //
+   grahaṇāj jāgaritavat taddhetuḥ svapna iṣyate /	grahaNAt jAgarita-vat tad-hetuH svapnaH izyate /
+   tad dhetutvāt tu tasyaiva sajjāgaritam iṣyate // MandUpK_4.37 //	tat Detu-tvAt tu tasya-eva sat-jAgaritam izyate // Mandu-upK_4.37 //
+   utpādasyāprasiddhatvād ajaṃ sarvam udāhṛtam /	utpAdasya-aprasidDa-tvAt ajam sarvam udAhRtam /
+   na ca bhūtād abhūtasya saṃbhavo 'sti kathañcana // MandUpK_4.38 //	na ca BUtAt aBUtasya saMBavaH asti kaTaQcana // Mandu-upK_4.38 //
+   asaj jāgarite dṛṣṭvā svapne paśyati tanmayaḥ /	asat jAgarite dRzwvA svapne paSyati tad-mayaH /
+   asatsvapne 'pi dṛṣṭvā ca pratibuddhau na paśyati // MandUpK_4.39 //	asat-svapne api dRzwvA ca pratibudDO na paSyati // Mandu-upK_4.39 //
+   nāsty asaddhetukam asat sadasaddhetukaṃ tathā /	na-asti asat-hetukam asat sat-asat-hetukam taTA /
+   sac ca saddhetukaṃ nāsti saddhetukam asat kutaḥ // MandUpK_4.40 //	sat ca sat-hetukam na-asti sat-hetukam asat kutas // Mandu-upK_4.40 //
+   viparyāsād yathā jāgrad acintyān bhūtavat spṛśet /	viparyAsAt yaTA jAgrat acintyAn BUta-vat spRSet /
+   tathā svapne viparyāsād dharmāṃs tatraiva paśyati // MandUpK_4.41 //	taTA svapne viparyAsAt DarmAn tatra-eva paSyati // Mandu-upK_4.41 //
+   upalambhāt samācārād asti vastutvavādinām /	upalamBAt samAcArAt asti vastu-tva-vAdinAm /
+   jātis tu deśitā buddhair ajātes trasatāṃ sadā // MandUpK_4.42 //	jAtiH tu deSitAH budDEH ajAteH trasatAm sadA // Mandu-upK_4.42 //
+   ajātes trasatāṃ teṣām upalambhād viyanti ye /	ajAteH trasatAm tezAm upalamBAt viyanti ye /
+   jātidoṣā na setsyanti doṣo 'py alpo bhaviṣyati // MandUpK_4.43 //	jAti-dozAH na setsyanti dozaH api alpaH Bavizyati // Mandu-upK_4.43 //
+   upalambhāt samācārān māyāhastī yathocyate /	upalamBAt samAcArAt mAyA-hastI yaTA-ucyate /
+   upalambhāt samācārād asti vastu tathocyate // MandUpK_4.44 //	upalamBAt samAcArAt asti vastu taTA-ucyate // Mandu-upK_4.44 //
+   jātyābhāsaṃ calābhāsaṃ vastvābhāsaṃ tathaiva ca /	jAti-ABAsam cala-ABAsam vastu-ABAsam taTA-eva ca /
+   ajācalam avastutvaṃ vijñānaṃ śāntam advayam // MandUpK_4.45 //	ajAcalam avastu-tvam vijQAnam SAntam advayam // Mandu-upK_4.45 //
+   evaṃ na jāyate cittam evaṃ dharmā ajāḥ smṛtāḥ /	evam na jAyate cittam evam DarmAH ajAH smRtAH /
+   evam eva vijānanto na patanti viparyaye // MandUpK_4.46 //	evam eva vijAnantaH na patanti viparyaye // Mandu-upK_4.46 //
+   ṛjuvakrādikābhāsam alātaspanditaṃ yathā /	Rju-vakra-Adika-ABAsam alAta-spanditam yaTA /
+   grahaṇagrāhakābhāsaṃ vijñānaspanditaṃ tathā // MandUpK_4.47 //	grahaNa-grAhaka-ABAsam vijQAna-spanditam taTA // Mandu-upK_4.47 //
+   aspandamānam alātam anābhāsam ajaṃ yathā /	aspandamAnam alAtam anABAsam ajam yaTA /
+   aspandamānaṃ vijñānam anābhāsam ajaṃ tathā // MandUpK_4.48 //	aspandamAnam vijQAnam anABAsam ajam taTA // Mandu-upK_4.48 //
+   alāte spandamāne vai nābhāsā anyato bhuvaḥ /	alAte spandamAne vE na-ABAsA anyatas BuvaH /
+   na tato 'nyatra nispandān nālātaṃ praviśanti te // MandUpK_4.49 //	na tatas anyatra nispandAn na-alAtam praviSanti te // Mandu-upK_4.49 //
+   na nirgatā alātāt te dravyatvābhāvayogataḥ /	na nirgatA alAtAt te dravya-tva-aBAva-yogataH /
+   vijñāne 'pi tathaiva syur ābhāsasyāviśeṣataḥ // MandUpK_4.50 //	vijQAne api taTA-eva syuH ABAsasya-aviSezataH // Mandu-upK_4.50 //
+   vijñāne spandamāne vai nābhāsā anyatobhuvaḥ /	vijQAne spandamAne vE na-ABAsA anyatas-BuvaH /
+   na tato 'nyatra nispandān na vijñānaṃ viśanti te // MandUpK_4.51 //	na tatas anyatra nispandAt na vijQAnam viSanti te // Mandu-upK_4.51 //
+   na nirgatās te vijñānād dravyatvābhāvayogataḥ /	na nirgatAH te vijQAnAt dravya-tva-aBAva-yogataH /
+   kāryakāraṇatābhāvād yato 'cintyāḥ sadaiva te // MandUpK_4.52 //	kArya-kAraNa-tA-BAvAt yatas acintyAH sadA-eva te // Mandu-upK_4.52 //
+   dravyaṃ dravyasya hetuḥ syād anyad anyasya caiva hi /	dravyam dravyasya hetuH syAt anyat anyasya ca-eva hi /
+   dravyatvam anyabhāvo vā dharmāṇāṃ nopapadyate // MandUpK_4.53 //	dravya-tvam anya-BAvaH vA DarmANAm na-upapadyate // Mandu-upK_4.53 //
+   evaṃ na cittajā dharmāś cittaṃ vāpi na dharmajam /	evam na citta-jAH DarmAH cittam vA-api na Darmajam /
+   evaṃ hetuphalājātiṃ praviśanti manīṣiṇaḥ // MandUpK_4.54 //	evam hetu-PalA-jAtim praviSanti manIziNaH // Mandu-upK_4.54 //
+   yāvad dhetuphalāveśas tāvad dhetuphalodbhavaḥ /	yAvat Detu-Pala-AveSaH tAvat Detu-Pala-udBavaH /
+   kṣīṇe hetuphalāveśe nāsti hetuphalodbhavaḥ // MandUpK_4.55 //	kzINe hetu-Pala-AveSe na-asti hetu-Pala-udBavaH // Mandu-upK_4.55 //
+   yāvad dhetuphalāveśaḥ saṃsāras tāvadāyataḥ /	yAvat Detu-Pala-AveSaH saMsAraH tAvat-AyataH /
+   kṣīṇe hetuphalāveśe saṃsāraṃ na prapadyate // MandUpK_4.56 //	kzINe hetu-Pala-AveSe saMsAram na prapadyate // Mandu-upK_4.56 //
+   saṃvṛtyā jāyate sarvaṃ śāśvataṃ nāsti tena vai /	saMvRtyA jAyate sarvam SASvatam na-asti tena vE /
+   sadbhāvena hy ajaṃ sarvam ucchedas tena nāsti vai // MandUpK_4.57 //	sadBAvena hi ajam sarvam ucCedaH tena na-asti vE // Mandu-upK_4.57 //
+   dharmā ya iti jāyante jāyante te na tattvataḥ /	DarmAH ye iti jAyante jAyante te na tattvataH /
+   janma māyopamaṃ teṣāṃ sā ca māyā na vidyate // MandUpK_4.58 //	janma mAyA-upamam tezAm sA ca mAyA na vidyate // Mandu-upK_4.58 //
+   yathā māyāmayād bījāj jāyate tanmayoṅkuraḥ /	yaTA mAyA-mayAt bIjAt jAyate tat-mayA-uFkuraH /
+   nāsau nityo na cocchedī tadvad dharmeṣu yojanā // MandUpK_4.59 //	na-asO nityaH na ca-ucCedI tadvat Darmezu yojanAH // Mandu-upK_4.59 //
+   nājeṣu sarvadharmeṣu śāśvatāśāśvatābhidhā /	na-ajezu sarva-Darmezu SASvata-aSASvata-aBiDA /
+   yatra varṇā na vartante vivekas tatra nocyate // MandUpK_4.60 //	yatra varNAH na vartante vivekaH tatra na-ucyate // Mandu-upK_4.60 //
+   yathā svapne dvayābhāsaṃ cittaṃ calati māyayā /	yaTA svapne dvaya-ABAsam cittam calati mAyayA /
+   tathā jāgrad dvayābhāsaṃ cittaṃ calati māyayā // MandUpK_4.61 //	taTA jAgrat dvaya-ABAsam cittam calati mAyayA // Mandu-upK_4.61 //
+   advayaṃ ca dvayābhāsaṃ cittaṃ svapne na saṃśayaḥ /	advayam ca dvaya-ABAsam cittam svapne na saMSayaH /
+   advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // MandUpK_4.62 //	advayam ca dvaya-ABAsam taTA jAgrat na saMSayaH // Mandu-upK_4.62 //
+   svapnadṛk pracaran svapne dikṣu vai daśasu sthitān /	svapna-dRS pracaran svapne dikzu vE daSasu sTitAn /
+   aṇḍajān svedajān vāpi jīvān paśyati yān sadā // MandUpK_4.63 //	aNxa-jAn sveda-jAn vA-api jIvAn paSyati yAn sadA // Mandu-upK_4.63 //
+   svapnadṛkcittadṛśyās te na vidyante tataḥ pṛthak /	svapna-dRS-citta-dRSyAH te na vidyante tatas pRTak /
+   tathā tad dṛśyam evedaṃ svapnadṛkcittam iṣyate // MandUpK_4.64 //	taTA tat dRSyam eva-idam svapna-dRS-cittam izyate // Mandu-upK_4.64 //
+   carañ jāgarite jāgrad dikṣu vai daśasu sthitān /	caran jAgarite jAgrat dikzu vE daSasu sTitAn /
+   aṇḍajān svedajān vāpi jīvān paśyati yān sadā // MandUpK_4.65 //	aNxa-jAn sveda-jAn vA-api jIvAn paSyati yAn sadA // Mandu-upK_4.65 //
+   jāgrac cittekṣaṇīyās te na vidyante tataḥ pṛthak /	jAgrat citta-IkzaNIyAH te na vidyante tatas pRTak /
+   tathā tad dṛśyam evedaṃ jāgrataś cittam iṣyate // MandUpK_4.66 //	taTA tat dRSyam eva-idam jAgrataH cittam izyate // Mandu-upK_4.66 //
+   ubhe hy anyonyadṛśye te kiṃ tad astīti cocyate /	uBe hi anyonya-dRSye te kim tat asti-iti ca-ucyate /
+   lakṣaṇāśūnyam ubhayaṃ tan mate naiva gṛhyate // MandUpK_4.67 //	lakzaNa-aSUnyam uBayam tat mate na-eva gRhyate // Mandu-upK_4.67 //
+   yathā svapnamayo jīvo jāyate mriyate 'pi ca /	yaTA svapna-mayaH jIvaH jAyate mriyate api ca /
+   tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.68 //	taTA jIvAH amI sarve Bavanti na Bavanti ca // Mandu-upK_4.68 //
+   yathā māyāmayo jīvo jāyate mriyate 'pi ca /	yaTA mAyA-mayaH jIvaH jAyate mriyate api ca /
+   tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.69 //	taTA jIvAH amI sarve Bavanti na Bavanti ca // Mandu-upK_4.69 //
+   yathā nirmitako jīvo jāyate mriyate 'pi ca /	yaTA nirmitakaH jIvaH jAyate mriyate api ca /
+   tathā jīvā amī sarve bhavanti na bhavanti ca // MandUpK_4.70 //	taTA jIvAH amI sarve Bavanti na Bavanti ca // Mandu-upK_4.70 //
+   na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /	na kaScid jAyate jIvaH saMBavaH asya na vidyate /
+   etat tad uttamaṃ satyaṃ yatra kiñcin na jāyate // MandUpK_4.71 //	etat tat uttamam satyam yatra kiQcid na jAyate // Mandu-upK_4.71 //
+   cittaspandikam evedaṃ grāhyagrāhakavad dvayam /	citta-spandikam eva-idam grAhya-grAhaka-vat dvayam /
+   cittaṃ nirviṣayaṃ nityam asaṅgaṃ tena kīrtitam // MandUpK_4.72 //	cittam nirvizayam nityam asaFgam tena kIrtitam // Mandu-upK_4.72 //
+   yo 'sti kalpitasaṃvṛtyā paramārthena nāsty asau /	yaH asti kalpita-saMvRtyA parama-arTena na-asti asO /
+   paratantrābhisaṃvṛtyā syān nāsti paramārthataḥ // MandUpK_4.73 //	paratantra-aBisaMvRtyA syAt na-asti paramArTataH // Mandu-upK_4.73 //
+   ajaḥ kalpitasaṃvṛtyā paramārthena nāpy ajaḥ /	ajaH kalpita-saMvRtyA parama-arTena na-api ajaH /
+   paratantrādiniṣpattyā saṃvṛtyā jāyate tu saḥ // MandUpK_4.74 //	paratantra-Adi-nizpattyA saMvRtyA jAyate tu saH // Mandu-upK_4.74 //
+   abhūtābhiniveśo 'sti dvayaṃ tatra na vidyate /	aBUta-aBiniveSaH asti dvayam tatra na vidyate /
+   dvayābhāvaṃ sa buddhvaiva nirnimitto na jāyate // MandUpK_4.75 //	dvaya-aBAvam sa budDvA-eva nirnimittaH na jAyate // Mandu-upK_4.75 //
+   yadā na labhate hetūn uttamādhamamadhyamān /	yadA na laBate hetUn uttama-aDama-maDyamAn /
+   tadā na jāyate cittaṃ hetvabhāve phalaṃ kutaḥ // MandUpK_4.76 //	tadA na jAyate cittam hetu-aBAve Palam kutas // Mandu-upK_4.76 //
+   animittasya cittasya yānutpattiḥ samādvayā /	animittasya cittasya yA-an-utpattiH samA-dvayAH /
+   ajātasyaiva sarvasya cittadṛśyaṃ hi tadyataḥ // MandUpK_4.77 //	ajAtasya-eva sarvasya citta-dRSyam hi tat-yatas // Mandu-upK_4.77 //
+   buddhvā nimittatāṃ satyāṃ hetuṃ pṛthag anāpnuvan /	budDvA nimitta-tAm satyAm hetum pRTak anApnuvan /
+   vītaśokaṃ tathākāmam abhayaṃ padam aśnute // MandUpK_4.78 //	vIta-Sokam taTAkAmam aBayam padam aSnute // Mandu-upK_4.78 //
+   abhūtābhiniveśād dhi sadṛśe tat pravartate /	aBUta-aBiniveSAt Di sadRSe tat pravartate /
+   vastvabhāvaṃ sa budhvaiva niḥsaṅgaṃ vinivartate // MandUpK_4.79 //	vastu-aBAvam sa buDvA-eva niHsaFgam vinivartate // Mandu-upK_4.79 //
+   nivṛttasyāpravṛttasya niścalā hi tathā sthitiḥ /	nivRttasya-apravRttasya niScalA hi taTA sTitiH /
+   viṣayaḥ sa hi buddhānāṃ tat sāmyam ajam advayam // MandUpK_4.80 //	vizayaH sa hi budDAnAm tat sAmyam ajam advayam // Mandu-upK_4.80 //
+   ajam anidram asvapnaṃ prabhātaṃ bhavati svayam /	ajam anidram asvapnam praBAtam Bavati svayam /
+   sakṛdvibhāto hy evaiṣa dharma dhātusvabhāvataḥ // MandUpK_4.81 //	sakRt-viBAtaH hi eva-eza Darma DAtu-svaBAvataH // Mandu-upK_4.81 //
+   sukham āvriyate nityaṃ duḥkhaṃ vivriyate sadā /	suKam Avriyate nityam duHKam vivriyate sadA /
+   yasya kasya ca dharmasya graheṇa bhagavān asau // MandUpK_4.82 //	yasya kasya ca Darmasya graheNa BagavAn asO // Mandu-upK_4.82 //
+   asti nāsty asti nāstīti nāsti nāstīti vā punaḥ /	asti na-asti asti na-asti-iti na-asti na-asti-iti vA punar /
+   calasthirobhayābhāvair āvṛṇotye va bāliśaḥ // MandUpK_4.83 //	cala-sTira-uBaya-aBAvEH AvRNotye va bAliSaH // Mandu-upK_4.83 //
+   koṭhyaś catasra etās tu grahair yāsāṃ sadā vṛtaḥ /	koWyaH catasraH etAH tu grahEH yAsAm sadA vRtaH /
+   bhagavān ābhir aspṛṣṭo yena dṛṣṭaḥ sa sarvadṛk // MandUpK_4.84 //	BagavAn ABiH aspRzwaH yena dRzwaH sa sarva-dRS // Mandu-upK_4.84 //
+   prāpya sarvajñatāṃ kṛtsnāṃ brāhmaṇyaṃ padam advayam /	prApya sarvajQa-tAm kRtsnAm brAhmaNyam padam advayam /
+   anāpannādimadhyāntaṃ kim ataḥ param īhate // MandUpK_4.85 //	anApanna-Adi-maDya-antam kim atas param Ihate // Mandu-upK_4.85 //
+   viprāṇāṃ vinayo hy eṣa śamaḥ prākṛta ucyate /	viprANAm vinayaH hi eza SamaH prAkRtaH ucyate /
+   damaḥ prakṛtidāntatvād evaṃ vidvāñ śamaṃ vrajet // MandUpK_4.86 //	damaH prakRti-dAnta-tvAt evam vidvAn Samam vrajet // Mandu-upK_4.86 //
+   savastu sopalambhaṃ ca dvayaṃ laukikam iṣyate /	sa-vastu sa-upalamBam ca dvayam lOkikam izyate /
+   avastu sopalambhaṃ ca śuddhaṃ laukikam iṣyate // MandUpK_4.87 //	avastu sa-upalamBam ca SudDam lOkikam izyate // Mandu-upK_4.87 //
+   avastv anupalambhaṃ ca lokottaram iti smṛtam /	avastu anupalamBam ca lokottaram iti smRtam /
+   jñānaṃ jñeyaṃ ca vijñeyaṃ sadā buddhaiḥ prakīrtitam // MandUpK_4.88 //	jQAnam jQeyam ca vijQeyam sadA budDEH prakIrtitam // Mandu-upK_4.88 //
+   jñāne ca trividhe jñeye krameṇa vidite svayam /	jQAne ca triviDe jQeye krameNa vidite svayam /
+   sarvajñatā hi sarvatra bhavatīha mahādhiyaḥ // MandUpK_4.89 //	sarvajQa-tA hi sarvatra Bavati-iha mahA-ADiyaH // Mandu-upK_4.89 //
+   heyajñeyāpyapākyāni vijñeyāny agrayāṇataḥ /	heya-jQeyApya-pAkyAni vijQeyAni agrayANataH /
+   teṣām anyatra vijñeyād upalambhas triṣu smṛtaḥ // MandUpK_4.90 //	tezAm anyatra vijQeyAt upalamBaH trizu smRtaH // Mandu-upK_4.90 //
+   prakṛtyākāśavaj jñeyāḥ sarve dharmā anādayaḥ /	prakRti-AkASa-vat jQeyAH sarve DarmAH anAdayaH /
+   vidyate na hi nānātvaṃ teṣāṃ kvacana kiñcanaḥ // MandUpK_4.91 //	vidyate na hi nAnAtvam tezAm kvacana kiQcanaH // Mandu-upK_4.91 //
+   ādibuddhāḥ prakṛtyaiva sarve dharmāḥ suniścitāḥ /	Adi-budDAH prakRtyA-eva sarve DarmAH su-niScitAH /
+   yasyaivaṃ bhavati kṣāntiḥ so 'mṛtatvāya kalpate // MandUpK_4.92 //	yasya-evam Bavati kzAntiH saH amRta-tvAya kalpate // Mandu-upK_4.92 //
+   ādiśāntā hy anutpannāḥ prakṛtyaiva sunirvṛtāḥ /	Adi-SAntAH hi anutpannAH prakRtyA-eva su-nirvRtAH /
+   sarve dharmāḥ samābhinnā ajaṃ sāmyaṃ viśāradam // MandUpK_4.93 //	sarve DarmAH samABinnAH ajam sAmyam viSAradam // Mandu-upK_4.93 //
+   vaiśāradyaṃ tu vai nāsti bhede vicaratāṃ sadā /	vESAradyam tu vE na-asti Bede vicaratAm sadA /
+   bhedanimnāḥ pṛthagvādās tasmāt te kṛpaṇāḥ smṛtāḥ // MandUpK_4.94 //	Beda-nimnAH pRTak-vAdAH tasmAt te kRpaNAH smRtAH // Mandu-upK_4.94 //
+   aje sāmye tu ye kecid bhaviṣyanti suniścitāḥ /	aje sAmye tu ye kecid Bavizyanti su-niScitAH /
+   te hi loke mahājñānās tac ca loko na gāhate // MandUpK_4.95 //	te hi loke mahA-jQAnAH tat ca lokaH na gAhate // Mandu-upK_4.95 //
+   ajeṣv ajam asaṃkrāntaṃ dharmeṣu jñānam iṣyate /	ajezu ajam asaMkrAntam Darmezu jQAnam izyate /
+   yato na kramate jñānam asaṅgaṃ tena kīrtitam // MandUpK_4.96 //	yatas na kramate jQAnam asaFgam tena kIrtitam // Mandu-upK_4.96 //
+   aṇumātre 'pi vaidharmye jāyamāne 'vipaścitaḥ /	aNu-mAtre api vEDarmye jAyamAne avipaScitaH /
+   asaṅgatā sadā nāsti kimutāvaraṇacyutiḥ // MandUpK_4.97 //	asaFga-tA sadA na-asti kim-uta-AvaraNa-cyutiH // Mandu-upK_4.97 //
+   alabdhāvaraṇāḥ sarve dharmāḥ prakṛtinirmalāḥ /	alabDa-AvaraNAH sarve DarmAH prakRti-nirmalAH /
+   ādau buddhās tathā muktā budhyanta iti nāyakāḥ // MandUpK_4.98 //	AdO budDAH taTA muktAH buDyantaH iti nAyakAH // Mandu-upK_4.98 //
+   kramate na hi buddhasya jñānaṃ dharmeṣu tāyinaḥ /	kramate na hi budDasya jQAnam Darmezu tAyinaH /
+   sarve dharmās tathā jñānaṃ naitad buddhena bhāṣitam // MandUpK_4.99 //	sarve DarmAH taTA jQAnam na-etat budDena BAzitam // Mandu-upK_4.99 //
+   durdarśam atigambhīram ajaṃ sāmyaṃ viśāradam /	durdarSam ati-gamBIram ajam sAmyam viSAradam /
+   buddhvā padam anānātvaṃ namaskurmo yathābalam // MandUpK_4.100 //	budDvA padam anAnAtvam namaskurmaH yaTAbalam // Mandu-upK_4.100 //

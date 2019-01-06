@@ -1,0 +1,999 @@
+   Paraśurāmakalpasūtra	ParaSurAma-kalpa-sUtra
+   1. Khaṇḍa: Dīkṣāvidhi	1. KhaNxa: DIkzA-viDi
+   athāto dīkṣāṃ vyākhyāsyāmaḥ || Parks_1.1 ||	aTa-atas dIkzAm vyAKyAsyAmaH || ParkH-_1.1 ||
+   bhagavān paramaśivabhaṭṭārakaḥ śrutyādyaṣṭādaśavidyāḥ sarvāṇi darśanāni	BagavAn paramaSiva-BawwArakaH Sruti-Adi-azwAdaSa-vidyAH sarvANi darSanAni
+   līlayā tattadavasthāpannaḥ praṇīya, saṃvinmayyā bhagavatyā bhairavyā	lIlayA tad-tad-avasTA-ApannaH praNIya, saMvid-mayyA BagavatyA BEravyA
+   svātmābhinnayā pṛṣṭaḥ pañcabhiḥ mukhaiḥ pañcāmnāyān paramārthasārabhūtān	sva-Atma-aBinnayA pRzwaH paQcaBiH muKEH paQca-AmnAyAn parama-arTa-sAra-BUtAn
+   praṇināya || Parks_1.2 ||	praNinAya || ParkH-_1.2 ||
+   tatrāyaṃ siddhāntaḥ || Parks_1.3 ||	tatra-ayam sidDAntaH || ParkH-_1.3 ||
+   ṣaṭtriṃśattattvāni viśvam || Parks_1.4 ||	zawtriMSat-tattvAni viSvam || ParkH-_1.4 ||
+   śarīrakañcukitaḥ śivo jīvo niṣkañcukaḥ paraśivaḥ || Parks_1.5 ||	SarIra-kaQcukitaH SivaH jIvaH nizkaQcukaH paraSivaH || ParkH-_1.5 ||
+   svavimarśaḥ purusārthaḥ || Parks_1.6 ||	sva-vimarSaH puru-sArTaH || ParkH-_1.6 ||
+   varṇātmakā nityāḥ śabdāḥ || Parks_1.7 ||	varNa-AtmakAH nityAH SabdAH || ParkH-_1.7 ||
+   mantrāṇām acintyaśaktitā || Parks_1.8 ||	mantrANAm acintya-Sakti-tAH || ParkH-_1.8 ||
+   saṃpradāyaviśvāsābhyāṃ sarvasiddhiḥ || Parks_1.9 ||	saMpradAya-viSvAsAByAm sarva-sidDiH || ParkH-_1.9 ||
+   viśvāsabhūyiṣṭhaṃ prāmāṇyam || Parks_1.10 ||	viSvAsa-BUyizWam prAmANyam || ParkH-_1.10 ||
+   gurumantradevatātmamanaḥpavanānām	guru-mantra-devatA-Atma-manaH-pavanAnAm
+   aikyaniṣphālanād antarātmavittiḥ || Parks_1.11 ||	Ekya-nizPAlanAt antarAtma-vittiH || ParkH-_1.11 ||
+   ānandaṃ brahmaṇo rūpaṃ, tac ca dehe vyavasthitaṃ, tasyābhivyañjakāḥ pañca	Anandam brahmaNaH rUpaM, tat ca dehe vyavasTitaM, tasya-aBivyaQjakAH paQca
+   makārāḥ, tair arcanaṃ guptyā, prākaṭyān nirayaḥ || Parks_1.12 ||	makArAH, tEH arcanam guptyA, prAkawyAt nirayaH || ParkH-_1.12 ||
+   bhāvanādārḍhyād ājñāsiddhiḥ || Parks_1.13 ||	BAvanA-dArXyAt AjQA-sidDiH || ParkH-_1.13 ||
+   sarvadarśanānindā || Parks_1.14 ||	sarva-darSana-anindA || ParkH-_1.14 ||
+   agaṇanaṃ kasyāpi || Parks_1.15 ||	agaNanam kasya-api || ParkH-_1.15 ||
+   sacchiṣye rahasyakathanam || Parks_1.16 ||	sat-Sizye rahasya-kaTanam || ParkH-_1.16 ||
+   sadā vidyānusaṃhatiḥ || Parks_1.17 ||	sadA vidyA-anusaMhatiH || ParkH-_1.17 ||
+   satataṃ śivatāsamāveśaḥ || Parks_1.18 ||	satatam Siva-tA-samAveSaH || ParkH-_1.18 ||
+   kāmakrodhalobhamohamadamātsaryāvihitahiṃsāsteyalokavidviṣṭavarjanam ||	kAma-kroDa-loBa-moha-mada-mAtsaryA-vihita-hiMsA-steya-loka-vidvizwa-varjanam ||
+   Parks_1.19 ||	ParkH-_1.19 ||
+   ekagurūpāstir asaṃśayaḥ || Parks_1.20 ||	eka-guru-upAstiH asaMSayaH || ParkH-_1.20 ||
+   sarvatra niṣparigrahatā || Parks_1.21 ||	sarvatra nizparigraha-tA || ParkH-_1.21 ||
+   phalaṃ tyaktvā karmakaraṇam || Parks_1.22 ||	Palam tyaktvA karma-karaNam || ParkH-_1.22 ||
+   anityakarmalopaḥ || Parks_1.23 ||	anitya-karma-lopaH || ParkH-_1.23 ||
+   mapañcakālābhe 'pi nityakramapratyavamṛṣṭiḥ || Parks_1.24 ||	mapaQcaka-alABe api nitya-krama-pratyavamRzwiH || ParkH-_1.24 ||
+   nirbhayatā sarvatra || Parks_1.25 ||	nirBaya-tA sarvatra || ParkH-_1.25 ||
+   sarvaṃ vedyaṃ havyam indriyāṇi srucaḥ śaktayo jvālāḥ svātmā śivaḥ pāvakaḥ	sarvam vedyam havyam indriyANi srucaH SaktayaH jvAlAH sva-AtmA SivaH pAvakaH
+   svayam eva hotā || Parks_1.26 ||	svayam eva hotA || ParkH-_1.26 ||
+   nirviṣayacidvimṛṣṭiḥ phalam || Parks_1.27 ||	nirvizaya-cit-vimRzwiH Palam || ParkH-_1.27 ||
+   ātmalābhān na paraṃ vidyate || Parks_1.28 ||	Atma-lABAt na param vidyate || ParkH-_1.28 ||
+   saiṣā śāstraśailī || Parks_1.29 ||	sA-ezA SAstra-SElI || ParkH-_1.29 ||
+   veśyā iva prakaṭā vedādividyāḥ |	veSyAH iva prakawAH veda-Adi-vidyAH |
+   sarveṣu darśaneṣu gupteyaṃ vidyā || Parks_1.30 ||	sarvezu darSanezu guptA-iyam vidyA || ParkH-_1.30 ||
+   tatra sarvathā matimān dīkṣeta || Parks_1.31 ||	tatra sarvaTA matimAn dIkzeta || ParkH-_1.31 ||
+   dīkṣās tisraḥ śāktī śāmbhavī māntrī ceti |	dIkzAH tisraH SAktI SAmBavI mAntrI ca-iti |
+   tatra śāktī śaktipraveśanāt śāmbhavī caraṇavinyāsāt	tatra SAktI Sakti-praveSanAt SAmBavI caraNa-vinyAsAt-
+   māntrī mantropadiṣṭayā sarvāś ca kuryāt || Parks_1.32 ||	mAntrI mantra-upadizwayA sarvAH ca kuryAt || ParkH-_1.32 ||
+   ekaikāṃ vety eke || Parks_1.33 ||	ekEkAm vA-iti eke || ParkH-_1.33 ||
+   sadguruḥ kramaṃ pravartya sāṅgaṃ hutvā taruṇollāsavān śiṣyam āhūya vāsasā	sat-guruH kramam pravartya sa-aFgam hutvA taruNa-ullAsavAn Sizyam AhUya vAsasA
+   mukhaṃ baddhvā gaṇapatilalitāśyāmāvārtālīparāpātrabindubhis tam avokṣya	muKam badDvA gaNapati-lalita-aSyAmA-vArtAlI-parA-pAtra-binduBiH tam avokzya
+   siddhāntaṃ śrāvayitvā || Parks_1.34 ||	sidDAntam SrAvayitvA || ParkH-_1.34 ||
+   tacchirasi raktaśuklacaraṇaṃ bhāvayitvā tadamṛtakṣālitaṃ sarvaśarīram	tad-Sirasi rakta-Sukla-caraNam BAvayitvA tat-amRta-kzAlitam sarva-SarIram
+   alaṅkuryāt || Parks_1.35 ||	alaFkuryAt || ParkH-_1.35 ||
+   tasyāmūlam ābrahmabilaṃ prajvalantīṃ prakāśalaharīṃ jvaladanalanibhāṃ	tasya-amUlam Abrahmabilam prajvalantIm prakASa-laharIm jvalat-anala-niBAm
+   dhyātvā tadraśmibhis tasya pāpapāśān dagdhvā || Parks_1.36 ||	DyAtvA tad-raSmiBiH tasya pApa-pASAn dagDvA || ParkH-_1.36 ||
+   trikaṭutriphalācaturjātatakkolamadayantīsahadevīdūrvābhasmamṛttikācandanakuṅkumarocanākarpūravāsitajalapūrṇaṃ	trikawu-triPalA-caturjAta-takkolam-adayantI-sahadevI-dUrvA-Basma-mRttikA-candana-kuFkuma-rocanA-karpUra-vAsita-jala-pUrNam
+   vastrayugaveṣṭitaṃ nūtanakalaśaṃ bālāṣaḍaṅgenābhyarcya	vastra-yuga-vezwitam nUtana-kalaSam bAlA-zaxaFgena-aByarcya
+   śrīśyāmāvārtālīcakrāṇi nikṣipya tisṛṇām āvaraṇamantrair abhyarcya	SrI-SyAmA-vArtAlI-cakrANi nikzipya tisRNAm AvaraNa-mantrEH aByarcya
+   saṃrakṣyāstreṇa pradarśya dhenuyonī || Parks_1.37 ||	saMrakzya-astreNa pradarSya Denu-yonI || ParkH-_1.37 ||
+   śivayuksauvarṇakarṇike svaradvandvajuṣṭakiñjalkāṣṭake ka ca ṭa ta pa ya śa	Siva-yuj-sOvarNa-karNike svara-dvandva-juzwa-kiQjalka-azwake kaH ca wa te pa yaH Sa
+   lākṣaravargāṣṭayuktāṣṭadale digaṣṭakasthita ṭhaṃ vaṃ caturaśre	lAkzara-varga-azwa-yukta-azwa-dale diS-azwaka-sTitaH Wam vam caturaSre
+   mātṛkāyantre śiṣyaṃ niveśya tena kumbhāmbhasā tisṛbhiḥ vidyābhiḥ snapayet	mAtRkAyantre Sizyam niveSya tena kumBa-amBasA tisRBiH vidyABiH snapayet-
+   || Parks_1.38 ||	|| ParkH-_1.38 ||
+   sadukūlaṃ sālepaṃ sābharaṇaṃ samālaṃ suprasannaṃ śiṣyaṃ pārśve niveśya	sa-dukUlam sa-Alepam sa-ABaraNam sa-mAlam su-prasannam Sizyam pArSve niveSya
+   mātṛkāṃ tadaṅge vinyasya vimuktamukhakarpaṭasya tasya haste trīn	mAtRkAm tad-aFge vinyasya vimukta-muKa-karpawasya tasya haste trIn
+   prathamasiktān candanokṣitān dvitīyakhaṇḍān puṣpakhaṇḍān nikṣipya	praTama-siktAn candana-ukzitAn dvitIya-KaNxAn puzpa-KaNxAn nikzipya
+   tattvamantrair grāsayitvā dakṣiṇakarṇe bālam upadiśya paścād iṣṭamanuṃ	tattva-mantrEH grAsayitvA dakziNa-karNe bAlam upadiSya paScAt izwam-anum
+   vadet || Parks_1.39 ||	vadet || ParkH-_1.39 ||
+   tatas tasya śirasi svacaraṇaṃ nikṣipya sarvān mantrān sakṛd vā krameṇa vā	tatas tasya Sirasi sva-caraNam nikzipya sarvAn mantrAn sakRt vA krameNa vA
+   yathādhikāram upadiśya svāṅgeṣu kimapy aṅgaṃ śiṣyaṃ sparśayitvā	yaTA-aDikAram upadiSya sva-aFgezu kim-api aFgam Sizyam sparSayitvA
+   tadaṅgamātṛkāvarṇādi dvyakṣaraṃ tryakṣaraṃ caturakṣaraṃ vā	tad-aFga-mAtRkA-varNa-Adi dvi-akzaram tri-akzaram catur-akzaram vA
+   ānandanāthaśabdāntaṃ tasya nāma diśet || Parks_1.40 ||	Ananda-nATa-Sabda-antam tasya nAma diSet || ParkH-_1.40 ||
+   bālopadiṣṭeḥ pūrvam ātmanaḥ pādukāṃ ṣaṭtārayuktāṃ dadyāt || Parks_1.41 ||	bAla-upadizweH pUrvam AtmanaH pAdukAm zaz-tAra-yuktAm dadyAt || ParkH-_1.41 ||
+   ācārān anuśiṣya, hārdacaitanyam āmṛśya, vidyātrayeṇa tadaṅgaṃ triḥ	AcArAn anuSizya, hArda-cEtanyam AmRSya, vidyA-trayeNa tad-aFgam tris-
+   parimṛjya parirabhya mūrdhany avaghrāya svātmarūpaṃ kuryāt || Parks_1.42	parimRjya pariraBya mUrDani avaGrAya sva-Atma-rUpam kuryAt || ParkH-_1.42
+   śiṣyo 'pi pūrṇatāṃ bhāvayitvā kṛtārthas taṃ guruṃ yathāśakti vittair	SizyaH api pUrNa-tAm BAvayitvA kRtArTaH tam gurum yaTASakti vittEH-
+   upacarya viditaveditavyo 'śeṣamantrādhikārī bhaved iti śivam || Parks_1.43	upacarya vidita-veditavyaH aSeza-mantra-aDikArI Bavet iti Sivam || ParkH-_1.43
+   2. Khaṇḍa: Gaṇanāyakapaddhati	2. KhaNxa: GaNa-nAyaka-padDati
+   itthaṃ sadguror āhitadīkṣaḥ mahāvidyārādhanapratyūhāpohāya gāṇanāyakīṃ	itTam sat-guroH Ahita-dIkzaH mahAvidyA-ArADana-pratyUha-apohAya gANanAyakIm
+   paddhatim āmṛśet || Parks_2.1 ||	padDatim AmRSet || ParkH-_2.1 ||
+   brāhme muhūrta utthāya dvādaśānte	brAhme muhUrte utTAya dvAdaSAnte
+   sahasradalakamalakarṇikāmadhyaniviṣṭagurucaraṇayugalavigaladamṛtarasavisarapariplutākhilāṅgo	sahasra-dala-kamala-karNikA-maDya-nivizwa-guru-caraNa-yugala-vigalat-amRta-rasa-visara-paripluta-aKila-aFgaH-
+   hṛdayakamalamadhye jvalantam udyadaruṇakoṭipāṭalam aśeṣadoṣanirveṣabhūtam	hRdaya-kamala-maDye jvalantam udyat-aruNa-kowi-pAwalam aSeza-doza-nirveza-BUtam
+   anekapānanaṃ niyamitapavanamanogatir dhyātvā	aneka-pAnanam niyamita-pavana-manaH-gatiH DyAtvA
+   tatprabhāpaṭalapāṭalīkṛtatanuḥ bahir nirgatya muktamalamūtro	tad-praBA-pawala-pAwalIkRta-tanuH bahis nirgatya mukta-mala-mUtraH-
+   dantadhāvanasnānavastraparidhānasūryārghyadānāni vidhāya	danta-DAvana-snAna-vastra-pariDAna-sUrya-arGya-dAnAni viDAya
+   udyadādityavartine mahāgaṇapataye "tatpuruṣāya vidmahe, vakratuṇḍāya	udyat-Aditya-vartine mahAgaNapataye "tatpuruzAya vidmahe, vakratuNxAya
+   dhīmahi || tan no dantī pracodayāt" ity arghyaṃ datvā nityakṛtyaṃ vidhāya	DImahi || tat naH dantI pracodayAt" iti arGyam datvA nitya-kRtyam viDAya
+   caturāvṛttitarpaṇaṃ kuryāt | [69]	caturAvRtti-tarpaNam kuryAt | [69]
+   āyur ārogyam aiśvaryaṃ balaṃ puṣṭir mahadyaśaḥ |	AyuH Arogyam ESvaryam balam puzwiH mahat-yaSaH |
+   kavitvaṃ bhuktimuktī ca caturāvṛttitarpaṇāt || Parks_2.2 ||	kavi-tvam Bukti-muktI ca catur-AvRtti-tarpaNAt || ParkH-_2.2 ||
+   prathamaṃ dvādaśavāraṃ mūlamantreṇa tarpayitvā mantrāṣṭāviṃśativarṇān	praTamam dvAdaSa-vAram mUlamantreNa tarpayitvA mantra-azwAviMSati-varNAn
+   svāhāntān ekaikaṃ caturvāraṃ mūlaṃ ca caturvāraṃ tarpayitvā punaḥ	svAhA-antAn ekEkam catur-vAram mUlam ca catur-vAram tarpayitvA punar-
+   śrīśrīpatigirijāgirijāpatiratiratipatimahīmahīpatimahālakṣmīmahālakṣmīpatiṛddhyāmodasamṛddhipramodakāntisumukhamadanāvatīdurmukhamadadravāvighnadrāviṇīvighnakartṛvasudhārāśaṅkhanidhivasumatīpadmanidhitrayodaśamithuneṣv	SrI-SrIpati-girijA-girijA-pati-ratirati-pati-mahI-mahIpati-mahA-lakzmI-mahA-lakzmIpatiRdDi-Amoda-samRdDi-pramoda-kAnti-sumuKa-madanAvatI-durmuKam-a
+   ekaikāṃ devatāṃ caturvāraṃ mūlaṃ caturvāraṃ ca tarpayet, evaṃ	ekEkAm devatAm catur-vAram mUlam catur-vAram ca tarpayet, evam
+   catuścatvāriṃśadadhikacatuśśatatarpaṇāni bhavanti || Parks_2.3 ||	catuScatvAriMSat-aDika-catur-Sata-tarpaNAni Bavanti || ParkH-_2.3 ||
+   atha yāgavidhiḥ gṛham āgatya sthaṇḍilam upalipya dvāradeśa ubhayapārśvayor	aTa yAga-viDiH gRham Agatya sTaNxilam upalipya dvAra-deSaH uBaya-pArSvayoH-
+   bhadrakālyai bhairavāya dvārordhve lambodarāya namaḥ iti antaḥpraviśya	BadrakAlyE BEravAya dvAra-UrDve lambodarAya namaH iti antar-praviSya
+   āsanamantreṇa āsane sthitvā prāṇān āyamya ṣaḍaṅgāni vinyasya mūlena	Asana-mantreNa Asane sTitvA prANAn Ayamya zaz-aFgAni vinyasya mUlena
+   vyāpakaṃ kṛtvā svātmani devaṃ siddhalakṣmīsamāśliṣṭapārśvam	vyApakam kRtvA sva-Atmani devam sidDa-lakzmI-samASlizwa-pArSvam
+   ardhenduśekharam āraktavarṇaṃ	arDa-indu-SeKaram Arakta-varNam
+   mātuluṅgagadāpuṇḍrekṣukārmukaśūlasudarśanaśaṅkhapāśotpaladhānyamañjarīnijadantāñcalaratnakalaśapariṣkṛtapāṇyekādaśakaṃ	mAtuluFga-gadA-puNxra-ikzu-kArmuka-SUla-sudarSana-SaFKa-pASa-utpala-DAnya-maQjarI-nija-danta-aQcala-ratna-kalaSa-parizkRta-pANi-ekAdaSakam
+   prabhinnakaṭam ānandapūrṇam aśeṣavighnadhvaṃsanighnaṃ vighneśvaraṃ dhyātvā	praBinna-kawam Ananda-pUrNam aSeza-viGna-DvaMsa-niGnam viGneSvaram DyAtvA
+   || Parks_2.4 ||	|| ParkH-_2.4 ||
+   purato mūlasaptābhimantritena gandhākṣatapuṣpapūjitena śuddhena vāriṇā	puratas mUla-sapta-aBimantritena ganDa-akzata-puzpa-pUjitena SudDena vAriNA
+   trikoṇaṣaṭkoṇavṛttacaturaśrāṇi vidhāya tasmin puṣpāṇi vikīrya	trikoNa-zawkoNa-vRtta-caturaSrANi viDAya tasmin puzpANi vikIrya
+   vahnīśāsuravāyuṣu madhye dikṣu ca ṣaḍaṅgāni vinyasya agnimaṇḍalāya	vahni-ISa-asura-vAyuzu maDye dikzu ca zaz-aFgAni vinyasya agni-maNxalAya
+   daśakalātmane arghyapātrādhārāya namaḥ sūryamaṇḍalāya dvādaśakalātmane	daSa-kala-Atmane arGya-pAtra-ADArAya namaH sUrya-maNxalAya dvAdaSa-kalA-Atmane
+   arghyapātrāya namaḥ somamaṇḍalāya ṣoḍaśakalātmane arghyāmṛtāya namaḥ iti	arGya-pAtrAya namaH soma-maNxalAya zoxaSa-kalA-Atmane arGya-amRtAya namaH iti
+   śuddhajalam āpūrya astreṇa saṃrakṣya kavacenāvakuṇṭhya dhenuyonimudrāṃ	SudDa-jalam ApUrya astreNa saMrakzya kavacena-avakuNWya Denu-yonimudrAm
+   pradarśayet || Parks_2.5 ||	pradarSayet || ParkH-_2.5 ||
+   saptavāram abhimantrya tajjalavipruḍbhir ātmānaṃ pūjopakaraṇāni ca	sapta-vAram aBimantrya tad-jala-vipruxBiH AtmAnam pUjA-upakaraNAni ca
+   saṃprokṣya tajjalena pūrvoktaṃ maṇḍalaṃ parikalpya tadvad ādimaṃ saṃyojya	saMprokzya tad-jalena pUrva-uktam maNxalam parikalpya tadvat Adimam saMyojya
+   tatro [79] pādimaṃ madhyamaṃ ca nikṣipya vahnyarkendukalāḥ abhyarcya	tatro [79] pAdimam maDyamam ca nikzipya vahni-arka-indu-kalAH aByarcya
+   vakratuṇḍagāyatryā gaṇānāṃ tvety anayā ṛcā cābhimantrya astrādirakṣaṇaṃ	vakratuNxa-gAyatryA gaNAnAm tvA-iti anayA RcA ca-aBimantrya astra-Adi-rakzaNam
+   kṛtvā tadbindubhis triśaḥ śirasi gurupādukām ārādhayet || Parks_2.6 ||	kRtvA tad-binduBiH triSas Sirasi guru-pAdukAm ArADayet || ParkH-_2.6 ||
+   purato raktacandananirmite pīṭhe mahāgaṇapatipratimāyāṃ vā	puratas raktacandana-nirmite pIWe mahAgaNapati-pratimAyAm vA
+   caturasrāṣṭadalaṣaṭkoṇatrikoṇamaye cakre vā tīvrāyai jvālinyai nandāyai	catur-asra-azwa-dala-zawkoNa-trikoNa-maye cakre vA tIvrAyE jvAlinyE nandAyE
+   bhogadāyai kāmarūpiṇyai ugrāyai tejovatyai satyāyai vighnanāśinyai ṛṃ	Boga-dAyE kAmarUpiNyE ugrAyE tejovatyE satyAyE viGna-nASinyE RM
+   dharmāya ṝṃ jñānāya ḷṃ vairāgyāya ḹṃ aiśvaryāya ṛṃ adharmāya ṝṃ ajñānāya	DarmAya Lm jQAnAya ?m vErAgyAya ?m ESvaryAya Rm aDarmAya Lm ajQAnAya
+   ḷṃ avairāgyāya ḹṃ anaiśvaryāya nama iti pīṭhaśaktīr dharmādyaṣṭakaṃ	?m avErAgyAya ?m anESvaryAya namaH iti pIWa-SaktIH Darma-Adi-azwakam
+   cābhyarcya mūlam uccārya mahāgaṇapatim āvāhayāmīty āvāhya pañcadhopacarya	ca-aByarcya mUlam uccArya mahAgaNapatim AvAhayAmi-iti AvAhya paQcaDA-upacarya
+   daśadhā saṃtarpya mūlena mithunāṅgabrāhmyādīndrādirūpapañcāvaraṇapūjāṃ	daSaDA saMtarpya mUlena miTuna-aFga-brAhmI-At-i-indra-Adi-rUpa-paQca-AvaraNa-pUjAm
+   kuryāt || Parks_2.7 ||	kuryAt || ParkH-_2.7 ||
+   trikoṇe devaḥ tasya ṣaḍasrasyāntarāle śrīśrīpatyādicaturmithunāni aṅgāni	trikoNe devaH tasya zaz-asrasya-antarAle SrI-SrIpati-Adi-catur-miTunAni aFgAni
+   ca ṛddhyāmodādiṣaṇmithunāni ṣaḍasre mithunadvayaṃ ṣaḍasrobhayapārśvayos	ca RdDi-Amoda-Adi-zaNmiTunAni zaz-asre miTuna-dvayam zaz-asra-uBaya-pArSvayoH-
+   tatsandhiṣv aṅgāni brāhmyādyā aṣṭadale caturasrāṣṭadikṣv indrādyāḥ pūjyāḥ	tad-sanDizu aFgAni brAhmI-AdyAH azwa-dale catur-asra-azwa-dikzu indra-AdyAH pUjyAH
+   sarvatra devatānāmasu śrīpūrvaṃ pādukām uccārya pūjayāmīty aṣṭākṣarīṃ	sarvatra devatA-nAmasu SrI-pUrvam pAdukAm uccArya pUjayAmi-iti azwa-akzarIm
+   yojayet || Parks_2.8 ||	yojayet || ParkH-_2.8 ||
+   evaṃ pañcāvaraṇīm iṣṭvā punar devaṃ gaṇanāthaṃ daśadhopatarpya	evam paQca-AvaraNIm izwvA punar devam gaNanATam daSaDA-upatarpya
+   ṣoḍaśopacārair upacarya praṇavamāyānte sarvavighnakṛdbhyaḥ sarvabhūtebhyo	zoxaSa-upacArEH upacarya praNava-mAyA-ante sarva-viGna-kRdByaH sarva-BUteByaH-
+   huṃ svāhā iti triḥ paṭhitvā baliṃ datvā gaṇapatibuddhyaikaṃ baṭukaṃ	hum svAhA iti tris paWitvA balim datvA gaNapati-budDyA-ekam bawukam
+   siddhalakṣmībuddhyaikāṃ śaktiṃ cāhūya gandhapuṣpākṣatair	sidDa-lakzmI-budDyA-ekAm Saktim ca-AhUya ganDa-puzpa-akzatEH-
+   abhyarcyādimopādimamadhyamān datvā mama nirvighnaṃ mantrasiddhir bhūyād	aByarcya-Adima-upAdima-maDyamAn datvA mama nirviGnam mantra-sidDiH BUyAt-
+   ity anugrahaṃ kārayitvā namaskṛtya yathāśakti japet || Parks_2.9 ||	iti anugraham kArayitvA namaskRtya yaTASakti japet || ParkH-_2.9 ||
+   yady agnikāryasaṃpattiḥ baleḥ pūrvaṃ vidhivat saṃskṛte 'gnau svāhāntaiḥ	yadi agni-kArya-saMpattiH baleH pUrvam viDivat saMskRte agnO svAhA-antEH
+   śrīśrīpatyādivighnakartṛparyantaiḥ mantrair hutvā punar āgatya devaṃ	SrI-SrIpati-Adi-viGna-kartR-paryantEH mantrEH hutvA punar Agatya devam
+   trivāraṃ saṃtarpya yogyais saha mapañcakam urarīkṛtya mahāgaṇapatim ātmany	tri-vAram saMtarpya yogyEH saha mapaQcakam urarIkRtya mahAgaNapatim Atmani-
+   udvāsya siddhasaṅkalpaḥ sukhī viharet iti śivam || Parks_2.10 ||	udvAsya sidDa-saFkalpaH suKI viharet iti Sivam || ParkH-_2.10 ||
+   3. Khaṇḍa: Śrīkrama	3. KhaNxa: ŚrIkrama
+   evaṃ gaṇapatim iṣṭvā vidhūtasamastavighnavyatikaraḥ śakticakraikanāyikāyāḥ	evam gaNapatim izwvA viDUta-samasta-viGna-vyatikaraH Sakti-cakra-eka-nAyikAyAH
+   śrīlalitāyāḥ kramam ārabheta || Parks_3.1 ||	SrI-lalitAyAH kramam AraBeta || ParkH-_3.1 ||
+   brāhme muhūrte brāhmaṇo muktasvāpaḥ pāpavilāpāya paramaśivarūpaṃ gurum	brAhme muhUrte brAhmaNaH mukta-svApaH pApa-vilApAya paramaSiva-rUpam gurum
+   abhimṛśya || Parks_3.2 ||	aBimRSya || ParkH-_3.2 ||
+   mūlādividhibilaparyantaṃ taḍitkoṭikaḍārāṃ taruṇadivākarapiñjarāṃ jvalantīṃ	mUla-Adi-viDi-bila-paryantam taxit-kowi-kaxArAm taruNa-divAkara-piQjarAm jvalantIm
+   mūlasaṃvidaṃ dhyātvā tadraśminihatakaśmalajālaḥ kādiṃ hādiṃ vā mūlavidyāṃ	mUla-saMvidam DyAtvA tad-raSmi-nihata-kaSmala-jAlaH kAdim hAdim vA mUla-vidyAm
+   manasā daśavāram āvartya || Parks_3.3 ||	manasA daSa-vAram Avartya || ParkH-_3.3 ||
+   snānakarmaṇi prāpte mūlena datvā triḥ salilāñjalīn tris tadabhimantritāḥ	snAna-karmaNi prApte mUlena datvA tris salila-aQjalIn tris tad-aBimantritAH
+   pītvāpas tris santarpya triḥ prokṣyātmānaṃ paridhāya vāsasī hrāṃ hrīṃ hrūṃ	pItvA-apaH tris santarpya tris prokzya-AtmAnam pariDAya vAsasI hrAm hrIm hrUm
+   saḥ ity uktvā mārtāṇḍabhairavāya prakāśaśaktisahitāya svāheti tris savitre	saH iti uktvA mArta-aNxa-BEravAya prakASa-Sakti-sahitAya svAhA-iti tris savitre
+   dattārghyaḥ || Parks_3.4 ||	datta-arGyaH || ParkH-_3.4 ||
+   tanmaṇḍalamadhye navayonicakram anucintya vācam uccārya tripurasundari	tad-maNxala-maDye nava-yoni-cakram anucintya vAcam uccArya tripurasundari
+   vidmahe kāmam uccārya pīṭhakāmini dhīmahi śaktim uccārya, tan naḥ klinnā	vidmahe kAmam uccArya pIWa-kAmini DImahi Saktim uccArya, tat naH klinnA
+   pracodayād iti trir maheśyai dattārghyaḥ śatam aṣṭottaram āmṛśya manuṃ	pracodayAt iti tris maheSyE datta-arGyaH Satam azwa-uttaram AmRSya manum
+   maunam ālambya || Parks_3.5 ||	mOnam Alambya || ParkH-_3.5 ||
+   yāgamandiraṃ gatvā kḷptākalpas saṅkalpākalpo vā pīṭhamanunā āsane	yAga-mandiram gatvA k?ptAkalpaH saFkalpa-AkalpaH vA pIWa-manunAH Asane
+   samupaviṣṭaḥ || Parks_3.6 ||	samupavizwaH || ParkH-_3.6 ||
+   tritārīm uccārya raktadvādaśaśaktiyuktāya dīpanāthāya nama iti bhūmau	tritArIm uccArya rakta-dvAdaSa-Sakti-yuktAya dIpa-nATAya namaH iti BUmO
+   muñcet puṣpāñjalim || Parks_3.7 ||	muQcet puzpa-aQjalim || ParkH-_3.7 ||
+   sarveṣāṃ mantrāṇām ādau tritārīsaṃyogaḥ | tritārī vāṅmāyākamalāḥ ||	sarvezAm mantrANAm AdO tritArI-saMyogaH | tritArI vAc-mAyA-kamalAH ||
+   Parks_3.8 ||	ParkH-_3.8 ||
+   purataḥ pañcaśakticatuḥśrīkaṇṭhamelanarūpaṃ	puratas paQca-Sakti-catur-SrIkaNWa-melana-rUpam
+   bhūsadanatrayavalitrayabhūpapatradikpatrabhuvanāradruhiṇāravidhikoṇadikkoṇatrikoṇabinducakramayaṃ	BU-sadana-traya-vali-traya-BUpa-patra-diS-patra-BuvanAradru-hiNa-Ara-viDi-koNa-diS-koNa-trikoNa-bindu-cakra-mayam
+   mahācakrarājaṃ sindūrakuṅkumalikhitaṃ	mahA-cakrarAjam sindUra-kuFkuma-liKitam
+   cāmīkarakaladhautapañcaloharatnasphaṭikādyutkīrṇaṃ vā niveśya || Parks_3.9	cAmIkara-kalaDOta-paQcaloha-ratna-sPawika-Adi-utkIrNam vA niveSya || ParkH-_3.9
+   tatra mahācakre amṛtāmbhonidhaye ratnadvīpāya nānāvṛkṣamahodyānāya	tatra mahA-cakre amRta-amBaH-niDaye ratnadvIpAya nAnA-vRkza-mahA-udyAnAya
+   kalpavṛkṣavāṭikāyai santānavāṭikāyai haricandanavāṭikāyai mandāravāṭikāyai	kalpavRkza-vAwikAyE santAna-vAwikAyE haricandana-vAwikAyE mandAra-vAwikAyE
+   pārijātavāṭikāyai kadambavāṭikāyai puṣparāgaratnaprākārāya	pArijAta-vAwikAyE kadamba-vAwikAyE puzparAga-ratna-prAkArAya
+   padmarāgaratnaprākārāya gomedharatnaprākārāya vajraratnaprākārāya	padmarAga-ratna-prAkArAya go-meDa-ratna-prAkArAya vajra-ratna-prAkArAya
+   vaiḍūryaratnaprākārāya indranīlaratnaprākārāya muktāratnaprākārāya	vExUrya-ratna-prAkArAya indranIla-ratna-prAkArAya muktA-ratna-prAkArAya
+   marakataratnaprākārāya vidrumaratnaprākārāya māṇikyamaṇḍapāya	marakata-ratna-prAkArAya vidruma-ratna-prAkArAya mANikya-maNxapAya
+   sahasrastambhamaṇḍapāya amṛtavāpikāyai ānandavāpikāyai vimarśavāpikāyai	sahasra-stamBa-maNxapAya amRta-vApikAyE Ananda-vApikAyE vimarSa-vApi-kAyE
+   bālātapodgārāya candrikodgārāya mahāśṛṅgāraparighāyai mahāpadmāṭavyai	bAla-Atapa-udgArAya candrikA-udgArAya mahASRFgAra-pariGAyE mahApadma-awavyE
+   cintāmaṇigṛharājāya pūrvāmnāyamayapūrvadvārāya	cintAmaNi-gRha-rAjAya pUrva-AmnAya-maya-pUrva-dvArAya
+   dakṣiṇāmnāyamayadakṣiṇadvārāya	dakziNa-AmnAya-maya-dakziNa-dvArAya
+   paścimāmnāyamayapaścimadvārāyottarāmnāyamayottaradvārāya	paScima-AmnAya-maya-paScima-dvArAya-uttarAmnAya-maya-uttara-dvArAya
+   ratnapradīpavalayāya maṇimayamahāsiṃhāsanāya brahmamayaikamañcapādāya	ratna-pradIpa-valayAya maNi-maya-mahA-siMhAsanAya brahma-maya-eka-m-aQca-pAdAya
+   viṣṇumayaikamañcapādāya rudramayaikamañcapādāya īśvaramayaikamañcapādāya	vizNu-maya-eka-maQca-pAdAya rudra-maya-eka-maQca-pAdAya ISvara-maya-eka-maQca-pAdAya
+   sadāśivamayaikamañcaphalakāya haṃsatūlatalpāya haṃsatūlamahopadhānāya	sadASiva-maya-eka-maQca-PalakAya haMsa-tUla-talpAya haMsa-tUla-mahA-upaDAnAya
+   kausumbhāstaraṇāya mahāvitānakāya mahājavanikāyai namaḥ iti	kOsumBAstaraNAya mahA-vitAnakAya mahA-javanikAyE namaH iti
+   catuścatvāriṃśanmantrais tattad akhilaṃ bhāvayitvā arcayitvā || Parks_3.10	catuScatvAriMSat-mantrEH tat-tat aKilam BAvayitvA arcayitvA || ParkH-_3.10
+   gandhapuṣpākṣatādīṃś ca dakṣiṇabhāge dīpān abhito dattvā mūlena cakram	ganDa-puzpa-akzata-AdIn ca dakziNa-BAge dIpAn aBitas dattvA mUlena cakram
+   abhyarcya mūlatrikhaṇḍaiḥ prathamatryasre || Parks_3.11 ||	aByarcya mUla-triKaNxEH praTama-tri-asre || ParkH-_3.11 ||
+   vāyvagnisalilavarṇayukprāṇāyāmaiḥ śoṣaṇaṃ saṃdahanam āplāvanaṃ ca vidhāya	vAyu-agni-salila-varNa-yuj-prANAyAmEH SozaNam saMdahanam AplAvanam ca viDAya
+   || Parks_3.12 ||	|| ParkH-_3.12 ||
+   triḥ prāṇān āyamya || Parks_3.13 ||	tris prANAn Ayamya || ParkH-_3.13 ||
+   apasarpantu te bhūtā ye bhūtā bhuvi saṃsthitāḥ |	apasarpantu te BUtAH ye BUtAH Buvi saMsTitAH |
+   ye bhūtā vighnakartāras te naśyantu śivājñayā |	ye BUtAH viGna-kartAraH te naSyantu Siva-AjQayA |
+   iti vāmapādapārṣṇighātakarāsphoṭasamudañcitavaktras tālatrayaṃ datvā	iti vAma-pAda-pArzNi-GAta-kara-AsPowa-samudaQcita-vaktraH tAla-trayam datvA
+   devyahambhāvayuktaḥ svaśarīre vajrakavacanyāsajālaṃ vidadhīta ||	devI-ahamBAva-yuktaH sva-SarIre vajra-kavaca-nyAsa-jAlam vidaDIta ||
+   Parks_3.14 ||	ParkH-_3.14 ||
+   binduyukśrīkaṇṭhānantatārtīyaiḥ madhyamāditalaparyantaṃ kṛtakaraśuddhiḥ ||	bindu-yuj-SrI-kaNWa-ananta-tArtIyEH maDyama-Adi-tala-paryantam kRta-kara-SudDiH ||
+   Parks_3.15 ||	ParkH-_3.15 ||
+   kumārīm uccārya mahātripurasundarīpadam ātmānaṃ rakṣa rakṣeti hṛdaye	kumArIm uccArya mahA-tripura-sundarI-padam AtmAnam rakza rakzA-iti hRdaye
+   añjaliṃ dattvā || Parks_3.16 ||	aQjalim dattvA || ParkH-_3.16 ||
+   māyākāmaśaktīr uccārya devyātmāsanāya namaḥ iti svasyāsanaṃ dattvā ||	mAyA-kAma-SaktIH uccArya devI-Atma-AsanAya namaH iti svasya-Asanam dattvA ||
+   Parks_3.17 ||	ParkH-_3.17 ||
+   śivayugbālām uccārya śrīcakrāsanāya namaḥ śivabhṛguyugbālām uccārya	Siva-yuj-bAlAm uccArya SrI-cakra-AsanAya namaH Siva-BRgu-yuj-bAlAm uccArya
+   sarvamantrāsanāya namo bhuvanāmadanau blem uccārya sādhyasiddhāsanāya	sarva-mantra-AsanAya namaH BuvanA-madanO blem uccArya sADya-sidDAsanAya
+   namaḥ iti cakramantradevatāsanaṃ tribhir mantraiś cakre kṛtvā ||	namaH iti cakra-mantra-devatA-Asanam triBiH mantrEH cakre kRtvA ||
+   Parks_3.18 ||	ParkH-_3.18 ||
+   bālādvirāvṛttyā tridvyekadaśatridvisaṅkhyāṅgulivinyāsaiḥ kḷptaṣaḍaṅgaḥ ||	bAlA-dvis-AvRttyA tri-dvi-eka-daSa-tri-dvi-saFKyA-aFguli-vinyAsEH k?pta-zaz-aFgaH ||
+   Parks_3.19 ||	ParkH-_3.19 ||
+   sabindūn aco blūm uccārya vaśinīvāgdevatāyai namaḥ iti śirasi | sarvatra	sa-bindUn acaH blUm uccArya vaSinI-vAgdevatAyE namaH iti Sirasi | sarvatra
+   vargāṇāṃ binduyogaḥ | kavargaṃ kalahrīṃ ca nigadya kāmeśvarīvāgdevatāyai	vargANAm bindu-yogaH | kavargam kalahrIm ca nigadya kAmeSvarI-vAgdevatAyE
+   namaḥ iti lalāṭe | cuṃ gaditvā nvlīṃ modinīvāgdevatāyai namaḥ iti	namaH iti lalAwe | cum gaditvA nvlIm modinI-vAgdevatAyE namaH iti
+   bhrūmadhye | ṭuṃ bhaṇitvā ylūṃ vimalāvāgdevatāyai namaḥ iti kaṇṭhe | tuṃ	BrU-maDye | wum BaNitvA ylUm vimalA-vAgdevatAyE namaH iti kaNWe | tum
+   ca procya jmrīṃ aruṇāvāgdevatāyai namaḥ iti hṛdi | puṃ ca hslvyūṃ uccārya	ca procya jmrIm aruNA-vAgdevatAyE namaH iti hRdi | pum ca hslvyUm uccArya
+   jayinīvāgdevatāyai namaḥ iti nābhau | yādicatuṣkaṃ jhmryūṃ uccārya	jayinI-vAgdevatAyE namaH iti nABO | yAdi-catuzkam JmryUm uccArya
+   sarveśvarīvāgdevatāyai namaḥ iti liṅge | śādiṣaṭkaṃ kṣmrīṃ ākhyāya	sarveSvarI-vAgdevatAyE namaH iti liFge | SAdizawkam kzmrIm AKyAya
+   kaulinīvāgdevatāyai namaḥ iti mūle || Parks_3.20 ||	kOlinI-vAgdevatAyE namaH iti mUle || ParkH-_3.20 ||
+   mūlavidyāpañcadaśavarṇān mūrdhni mūle hṛdi cakṣustritaye	mUla-vidyA-paQcadaSa-varNAn mUrDni mUle hRdi cakzuH-tritaye
+   śrutidvayamukhabhujayugalapṛṣṭhajānuyugalanābhiṣu vinyasya ṣoḍhā cakre	Sruti-dvaya-muKa-Buja-yugala-pRzWa-jAnu-yugala-nABizu vinyasya zoXA cakre
+   nyasyānyasya vā || Parks_3.21 ||	nyasya-anyasya vA || ParkH-_3.21 ||
+   śuddhāmbhasā vāmabhāge trikoṇaṣaṭkoṇavṛttacaturaśramaṇḍalaṃ kṛtvā puṣpair	SudDa-amBasA vAma-BAge trikoNa-zawkoNa-vRtta-caturaSra-maNxalam kRtvA puzpEH-
+   abhyarcya sādhāraṃ śaṅkhaṃ pratiṣṭhāpya śuddhajalam āpūrya ādimabinduṃ	aByarcya sa-ADAram SaFKam pratizWApya SudDa-jalam ApUrya Adima-bindum
+   dattvā ṣaḍaṅgenābhyarcya vidyayā abhimantrya tajjalavipruḍbhiḥ ātmānaṃ	dattvA zaxaFgena-aByarcya vidyayA aBimantrya tad-jala-vipruxBiH AtmAnam
+   pūjopakaraṇāni ca saṃprokṣya || Parks_3.22 ||	pUjA-upakaraNAni ca saMprokzya || ParkH-_3.22 ||
+   tajjalena trikoṇaṣaṭkoṇavṛttacaturasramaṇḍalaṃ kṛtvā madhyaṃ vidyayā	tad-jalena trikoNa-zawkoNa-vRtta-caturasra-maNxalam kRtvA maDyam vidyayA
+   vidyākhaṇḍais trikoṇaṃ bījāvṛttyā ṣaḍaśraṃ saṃpūjya vācam uccārya	vidyA-KaNxEH trikoNam bIja-AvRttyA zaz-aSram saMpUjya vAcam uccArya
+   agnimaṇḍa [107] lāya daśakalātmane arghyapātrādhārāya namaḥ iti	agnimaNxaH [107] lAya daSa-kala-Atmane arGya-pAtra-ADArAya namaH iti
+   pratiṣṭhāpya ādhāraṃ prapūjya pāvakīḥ kalāḥ || Parks_3.23 ||	pratizWApya ADAram prapUjya pAvakIH kalAH || ParkH-_3.23 ||
+   madanād upari sūryamaṇḍalāya dvādaśakalātmane arghyapātrāya namaḥ iti	madanAt upari sUrya-maNxalAya dvAdaSa-kalA-Atmane arGya-pAtrAya namaH iti
+   saṃvidhāya pātraṃ saṃspṛśya kalāḥ saurīḥ sauḥ somamaṇḍalāya	saMviDAya pAtram saMspRSya kalAH sOrIH sOH soma-maNxalAya
+   ṣoḍaśakalātmane arghyāmṛtāya namaḥ iti pūrayitvā ādimaṃ	zoxaSa-kalA-Atmane arGya-amRtAya namaH iti pUrayitvA Adimam
+   dattvopādimamadhyamau pūjayitvā vidhoḥ kalāṣoḍaśakam || Parks_3.24 ||	dattvA-upAdim-a-maDyamO pUjayitvA viDoH kalA-zoxaSakam || ParkH-_3.24 ||
+   tatra vilikhya tryasram akathādimayarekhaṃ	tatra viliKya tri-asram akaTA-Adi-maya-reKam
+   halakṣayugāntasthitahaṃsabhāsvaraṃ vākkāmaśaktiyuktakoṇaṃ haṃsenārādhya	halakza-yuga-anta-sTita-haMsa-BAsvaram vAc-kAma-Sakti-yukta-koNam haMsena-ArADya
+   bahir vṛttaṣaṭkoṇaṃ kṛtvā ṣaḍasraṃ ṣaḍaṅgena purobhāgādy abhyarcya mūlena	bahis vRtta-zawkoNam kRtvA zaz-asram zaxaFgena puroBAga-Adi aByarcya mUlena
+   saptadhā abhimantrya dattagandhākṣatapuṣpadhūpadīpaḥ tadvipruḍbhiḥ	saptaDA aBimantrya datta-ganDa-akzata-puzpa-DUpa-dIpaH tad-vipruxBiH
+   prokṣitapūjādravyaḥ sarvaṃ vidyāmayaṃ kṛtvā tat spṛṣṭvā caturnavatimantrān	prokzita-pUjA-dravyaH sarvam vidyA-mayam kRtvA tat spRzwvA caturnavati-mantrAn
+   japet || Parks_3.25 ||	japet || ParkH-_3.25 ||
+   tritārīnamassaṃpuṭitāḥ tejastritayakalā aṣṭatriṃśat |	tritArI-namassaMpuwitAH tejaH-tritaya-kalA azwatriMSat |
+   sṛṣṭiṛddhismṛtimedhākāntilakṣmīdyutisthirāsthitisiddhayo brahmakalā daśa |	sRzwi-RdDi-smRti-meDA-kAnti-lakzmI-dyuti-sTirA-sTiti-sidDayaH brahma-kalAH daSa |
+   jarā pālinī śāntir īśvarī ratikāmike varadāhlādinī prītir dīrghā viṣṇukalā	jarA pAlinI SAntiH ISvarI rati-kAmike vara-da-AhlAdinI prItiH dIrGA vizNu-kalA
+   daśa | tīkṣṇā raudrī bhayā nidrā tandrī kṣudhā krodhinī kriyodgārīmṛtyavo	daSa | tIkzNA rOdrI BayA nidrA tandrI kzuDA kroDinI kriyA-udgArI-mRtyavaH-
+   rudrakalā daśa | pītā śvetāruṇāsitāś catasra īśvarakalāḥ |	rudra-kalAH daSa | pItA Sveta-aruNa-asitAH catasraH ISvara-kalAH |
+   nivṛttipratiṣṭhāvidyāśāntīndhikādīpikārecikāmocikāparāsūkṣmāsūkṣmāmṛtājñānājñānāmṛtāpyāyinīvyāpinīvyomarūpāḥ	nivRtti-pratizWA-vidyA-SAntInDika-AdIpikA-recikA-mocikA-aparAsUkzmA-sUkzma-amRtA-jQAna-ajQAna-amRta-ApyAyinI-vyApinI-vyoma-rUpAH
+   ṣoḍaśa sadāśivakalāḥ ||	zoxaSa sadASiva-kalAH ||
+   haṃsaś śuciṣad vasur antarikṣasad dhotā vvediṣad atithir duroṇasat |	haMsaH Sucizad vasuH antarikza-sat DotA vvedizat atiTiH duroNa-sat |
+   nṛṣad varasad ṛtasad vayomasad abjā gojā ṛtajā adrijā ṛtaṃ bṛhat ||	nRzat vara-sat Rta-sat vayomasat abjAH gojAH Rta-jAH adrijAH Rtam bRhat ||
+   pra tadviṣṇuḥ stavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭhāḥ |	pra tat-vizNuH stavate vIryeNa mRgaH na BImaH kucaraH girizWAH |
+   yasyoruṣu triṣu vikrameṣv adhikṣiyanti bhuvanāni vviśvā ||	yasya-uruzu trizu vikramezu aDikziyanti BuvanAni vviSvA ||
+   tryambakaṃ yajāmahe sugandhiṃ puṣṭivardhanam |	tryambakam yajAmahe suganDim puzwi-varDanam |
+   urvārukam iva bandhanān mṛtyor mukṣīya māmṛtāt ||	urvArukam iva banDanAt mRtyoH mukzIya mA-amRtAt ||
+   tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ |	tat-vizNoH paramam padam sadA paSyanti sUrayaH |
+   divīva cakṣur ātatam ||	divi-iva cakzuH Atatam ||
+   tadviprāso vipanyavo jāgṛvāṃsaḥ samindhate |	tad-viprAsaH vipanyavaH jAgRvAMsaH saminDate |
+   viṣṇor yat paramaṃ padam ||	vizNoH yat paramam padam ||
+   viṣṇur yoniṃ kalpayatu tvaṣṭā rūpāṇi piṃśatu |	vizNuH yonim kalpayatu tvazwA rUpANi piMSatu |
+   āsiñcatu prajāpatir dhātā garbhaṃ dadhātu te ||	AsiQcatu prajApatiH DAtA garBam daDAtu te ||
+   garbhaṃ dhehi sinīvāli garbhaṃ dhehi sarasvati |	garBam Dehi sinIvAli garBam Dehi sarasvati |
+   garbhaṃ te aśvinau devāv ādhattāṃ puṣkarasrajā ||	garBam te aSvinO devO ADattAm puzkara-srajA ||
+   ity ete pañcamantrāḥ ||	iti ete paQcamantrAH ||
+   mūlavidyā cāhatya caturnavatimantrāḥ || Parks_3.26 ||	mUla-vidyA ca-Ahatya caturnavati-mantrAH || ParkH-_3.26 ||
+   atha haike pañcabhir akhaṇḍādyair abhimantraṇam āmananti || Parks_3.27 ||	aTa ha-eke paQcaBiH aKaNxa-AdyEH aBimantraNam Amananti || ParkH-_3.27 ||
+   akhaṇḍaikarasānandakare parasudhātmani |	aKaNxa-eka-rasa-Ananda-kare para-suDA-Atmani |
+   svacchandasphuraṇam atra nidhehy akulanāyike ||	svacCanda-sPuraNam atra niDehi akula-nAyike ||
+   akulasthāmṛtākāre śuddhajñānakare pare |	akula-sTa-amRta-AkAre SudDa-jQAna-kare pare |
+   amṛtatvaṃ nidhehy asmin vastuni klinnarūpiṇi ||	amRta-tvam niDehi asmin vastuni klinna-rUpiNi ||
+   tadrūpiṇy aikarasyatvaṃ kṛtvā hy etat svarūpiṇi |	tad-rUpiNi Ekarasya-tvam kRtvA hi etat svarUpiNi |
+   bhūtvā parāmṛtākārā mayi citsphuraṇaṃ kuru ||	BUtvA para-amRta-AkArAH mayi cit-sPuraNam kuru ||
+   iti tisro 'nuṣṭubho vidyāḥ || Parks_3.28 ||	iti tisraH anuzwuBaH vidyAH || ParkH-_3.28 ||
+   atho vācaṃ blūṃ jhraum iti jūṃ saḥ iti coktvā amṛte amṛtodbhave amṛteśvari	aTo vAcam blUm JrOm iti jUm saH iti ca-uktvA amRte amRta-udBave amRteSvari
+   amṛtavarṣiṇi amṛtaṃ srāvaya srāvaya svāheti caturtho mantraḥ || Parks_3.29	amRta-varziNi amRtam srAvaya srAvaya svAhA-iti caturTaH mantraH || ParkH-_3.29
+   vāgbhavo vada vada tato vāgvādini vāṅmadanaklinne kledini kledaya	vAc-BavaH vada vada tatas vAc-vAdini vAc-madana-klinne kledini kledaya
+   mahākṣobhaṃ kuruyugalaṃ mādanaṃ śaktir mokṣaṃ kuru kuru śabdo	mahA-kzoBam kuru-yugalam mAdanam SaktiH mokzam kuru kuru SabdaH-
+   hasacaturdaśapañcadaśapiṇḍaḥ sahacaturdaśaṣoḍaśapiṇḍaś ceti pañcamīyaṃ	hasa-caturdaSa-paQcadaSa-piNxaH saha-caturdaSa-zoxaSa-piNxaH ca-iti paQcamI-iyam
+   vidyaitābhiḥ abhimantrya jyotirmayaṃ tad arghyaṃ vidhāya || Parks_3.30 ||	vidyA-etABiH aBimantrya jyotiH-mayam tat arGyam viDAya || ParkH-_3.30 ||
+   tadbindubhis triśaḥ śirasi gurupādukām iṣṭvā ārdraṃ jvalati jyotir aham	tad-binduBiH triSas Sirasi guru-pAdukAm izwvA Ardram jvalati jyotiH aham
+   asmi jyotir jvalati brahmāham asmi yo 'ham asmi brahmāham asmi aham asmi	asmi jyotiH jvalati brahmA-aham asmi yaH aham asmi brahmA-aham asmi aham asmi
+   brahmāham asmi aham evāhaṃ māṃ juhomi svāheti tad bindum ātmanaḥ	brahmA-aham asmi aham eva-aham mAm juhomi svAhA-iti tat bindum AtmanaH
+   kuṇḍalinyāṃ juhuyāt || Parks_3.31 ||	kuNxalinyAm juhuyAt || ParkH-_3.31 ||
+   etad arghyaśodhanam iti śivam || Parks_3.32 ||	etat arGya-SoDanam iti Sivam || ParkH-_3.32 ||
+   4. Khaṇḍa: Lalitākrama	4. KhaNxa: Lalita-akrama
+   atha hṛccakrasthitām antassuṣumṇāpadmāṭavīnirbhedanakuśalāṃ	aTa hRd-cakra-sTitAm anta-ssuzumNA-padma-awa-vI-nirBedana-kuSalAm
+   nirastamohatimirāṃ śivadīpadīptim ādyāṃ saṃvidaṃ vahannāsapuṭena	nirasta-moha-timirAm Siva-dIpa-dIptim AdyAm saMvidam vahat-nAsa-puwena
+   nirgamayya līlākalitavapuṣaṃ tāṃ trikhaṇḍamudrāśikhaṇḍe kusumāñjalau haste	nirgamayya lIlA-kalita-vapuzam tAm tri-KaNxa-mudrA-SiKaNxe kusumAQjalO haste
+   samānīya || Parks_4.1 ||	samAnIya || ParkH-_4.1 ||
+   māyālakṣmī parā uccārya devīnāma cāmṛtacaitanyamūrtiṃ kalpayāmi namaḥ iti	mAyA-lakzmI parA uccArya devI-nAma ca-amRta-cEtanya-mUrtim kalpayAmi namaH iti
+   kalpayitvā || Parks_4.2 ||	kalpayitvA || ParkH-_4.2 ||
+   hasarayujaṃ vācaṃ hasayuktāṃ kalarīṃ hasaracaturdaśaṣoḍaśān apy uccārya,	hasara-yujam vAcam hasa-yuktAm kalarIm hasara-caturdaSa-zoxaSAn api uccArya,
+   mahāpadmavanāntaḥsthe kāraṇānandavigrahe |	mahApadma-vana-antar-sTe kAraNa-Ananda-vigrahe |
+   sarvabhūtahite mātar ehy ehi parameśvari ||	sarva-BUta-hite mAtar ehi ehi parameSvari ||
+   iti baindavacakre paracitim āvāhya || Parks_4.3 ||	iti bEndavacakre para-citim AvAhya || ParkH-_4.3 ||
+   catuṣṣaṣṭyupacārān kuryāt | sarve upacāramantrāḥ tritārīpūrvāḥ kalpayāmi	catuzzazwi-upacArAn kuryAt | sarve upacAra-mantrAH tritArI-pUrvAH kalpayAmi
+   namaḥ ity antāḥ kartavyāḥ || Parks_4.4 ||	namaH iti antAH kartavyAH || ParkH-_4.4 ||
+   tritārīm uccārya pādyaṃ kalpayāmi namaḥ iti krameṇa ābharaṇāvaropaṇaṃ	tritArIm uccArya pAdyam kalpayAmi namaH iti krameNa ABaraNa-avaropaNam
+   sugandhitailābhyaṅgaṃ majjanaśālāpraveśanaṃ	suganDi-tEla-aByaFgam majjana-SAlA-praveSanam
+   majjanamaṇḍapamaṇipīṭhopaveśanaṃ divyasnānīyodvartanam uṣṇodakasnānam	majjana-maNxapa-maNi-pIWa-upaveSanam divya-snAnIya-udvartanam uzNa-udaka-snAnam
+   kanakakalaśacyutasakalatīrthābhi [139] ṣekaṃ dhautavastraparimārjanam	kanaka-kalaSa-cyuta-sakala-tIrTa-aBi [139] zekam DOta-vastra-parimArjanam
+   aruṇadukūlaparidhānam aruṇakucottarīyam ālepamaṇḍapapraveśanam	aruNa-dukUla-pariDAnam aruNa-kuca-uttarIyam Alepa-maNxapa-praveSanam
+   ālepamaṇḍapamaṇipīṭhopaveśanaṃ	Alepa-maNxapa-maNi-pIWa-upaveSanam
+   candanāgarukuṅkumasaṅkumṛgamadakarpūrakastūrīgorocanādidivyagandhasarvāṅgīṇavilepanaṃ	candana-agaru-kuFkuma-saFku-mRga-mada-karpUra-kastUrI-gorocanA-Adi-divya-ganDa-sarva-aFgINa-vilepanam
+   keśabharasya kālāgarudhūpaṃ	keSa-Barasya kAla-agaru-DUpam
+   mallikāmālatījātīcampakāśokaśatapatrapūgakuḍmalīpunnāgakalhāramukhyasarvartukusumamālāṃ	mallikA-mAlatI-jAtI-campaka-aSoka-Satapatra-pUga-kuxmalI-punnAga-kalhAra-muKya-sarva-Rtu-kusuma-mAlAm
+   bhūṣaṇamaṇḍapapraveśanaṃ bhūṣaṇamaṇḍapamaṇipīṭhopaveśanaṃ navamaṇimakuṭaṃ	BUzaNa-maNxapa-praveSanam BUzaNa-maNxapa-maNi-pIWa-upaveSanam nava-maNi-ma-kuwam
+   candraśakalaṃ sīmantasindūraṃ tilakaratnaṃ kālāñjanaṃ pālīyugalaṃ	candra-Sakalam sImanta-sindUram tilaka-ratnam kAlAQjanam pAlI-yugalam
+   maṇikuṇḍalayugalaṃ nāsābharaṇam adharayāvakaṃ prathamabhūṣaṇaṃ	maNi-kuNxala-yugalam nAsA-ABaraNam aDara-yAvakam praTama-BUzaNam
+   kanakacintākaṃ padakaṃ mahāpadakaṃ muktāvalim ekāvaliṃ channavīraṃ	kanaka-cintAkam padakam mahApadakam muktA-Avalim eka-Avalim Canna-vIram
+   keyūrayugalacatuṣṭayaṃ valayāvalim ūrmikāvaliṃ kāñcīdāmakaṭisūtraṃ	keyUra-yugala-catuzwayam valaya-Avalim UrmikA-Avalim kAQcI-dAma-kawi-sUtram
+   saubhāgyābharaṇaṃ pādakaṭakaṃ ratnanūpuraṃ pādāṅgulīyakam ekakare pāśam	sOBAgya-ABaraNam pAda-kawakam ratna-nUpuram pAdAFgulIyakam eka-kare pASam
+   anyakare aṅkuśam itarakare puṇḍrekṣucāpam aparakare puṣpabāṇān	anya-kare aFkuSam itara-kare puNxra-ikzu-cApam apara-kare puzpa-bANAn
+   śrīmanmāṇikyapāduke svasamānaveṣābhir āvaraṇadevatābhiḥ saha	SrImat-mANikya-pAduke sva-samAna-vezABiH AvaraNa-devatABiH saha
+   mahācakrādhirohaṇaṃ kāmeśvarāṅkaparyaṅkopaveśanam amṛtāsavacaṣakam	mahA-cakra-aDirohaNam kAma-ISvara-aFka-paryaFka-upaveSanam amRta-Asava-cazakam
+   ācamanīyaṃ karpūravīṭikām ānandollāsavilāsahāsaṃ maṅgalārārtikaṃ chatraṃ	AcamanIyam karpUra-vIwikAm Ananda-ullAsa-vilAsa-hAsam maFgalArArtikam Catram
+   cāmarayugalaṃ darpaṇaṃ tālavṛntaṃ gandhaṃ puṣpaṃ dhūpaṃ dīpaṃ naivedyaṃ	cAmara-yugalam darpaNam tAlavRntam ganDam puzpam DUpam dIpam nEvedyam
+   kalpayāmi namaḥ iti catuṣṣaṣṭyupacārān vidhāya || Parks_4.5 ||	kalpayAmi namaH iti catuzzazwi-upacArAn viDAya || ParkH-_4.5 ||
+   navamudrāś ca pradarśya || Parks_4.6 ||	nava-mudrAH ca pradarSya || ParkH-_4.6 ||
+   mūlena tridhā santarpya || Parks_4.7 ||	mUlena triDA santarpya || ParkH-_4.7 ||
+   devyā agnīśāsuravāyuṣu madhye dikṣu ca ṣaḍaṅgāni pūjayitvā || Parks_4.8 ||	devyAH agnISa-asura-vAyuzu maDye dikzu ca zaxaFgAni pUjayitvA || ParkH-_4.8 ||
+   vāksakalahrīṃ nityaklinne madadrave sauḥ iti kāmeśvarī | sarvatra	vAc-sakala-hrIm nitya-klinne mada-drave sOH iti kAmeSvarI | sarvatra
+   nityāśrīpāduketi yojyam | vāgbhagabhuge bhagini bhagodari bhagamāle	nitya-aSrI-pAdukA-iti yojyam | vAc-Baga-Buge Bagini Baga-udari Baga-mAle
+   bhagāvahe bhagaguhye bhagayoni bhaganipātini sarvabhagavaśaṅkari bhagarūpe	Baga-Avahe Baga-guhye Baga-yoni Baga-nipAtini sarva-Bagava-SaFkari Baga-rUpe
+   nityaklinne bhagasvarūpe sarvāṇi bhagāni me hy ānaya varade rete surete	nitya-klinne Baga-svarUpe sarvANi BagAni me hi Anaya vara-de rete surete
+   bhagaklinne klinnadrave kledaya drāvaya amoghe bhagavicce kṣubha kṣobhaya	Baga-klinne klinna-drave kledaya drAvaya amoGe Baga-vid-ce kzuBa kzoBaya
+   sarvasa [147] ttvān bhageśvari aiṃ blūṃ jeṃ blūṃ bheṃ blūṃ moṃ blūṃ heṃ	sarva-sa [147] ttvAn BageSvari Em blUm jem blUm Bem blUm mom blUm hem
+   blūṃ heṃ klinne sarvāṇi bhagāni me vaśam ānaya strīṃ hara bleṃ hrīṃ	blUm hem klinne sarvANi BagAni me vaSam Anaya strIm hara blem hrIm
+   bhagamālinī | tāro māyā nityaklinne madadrave svāhā iti nityaklinnā |	Baga-mAlinI | tAraH mAyA nitya-klinne mada-drave svAhA iti nitya-klinnAH |
+   praṇavaḥ kroṃ bhroṃ krauṃ jhrauṃ chrauṃ jrauṃ svāhā iti bheruṇḍā | praṇavo	praNavaH krom Brom krOm JrOm CrOm jrOm svAhA iti BeruNxA | praNavaH-
+   māyā vahnivāsinyai namaḥ iti vahnivāsinī | māyāklinne vāk kroṃ	mAyA vahni-vAsinyE namaH iti vahni-vAsinI | mAyA-klinne vAc krom
+   nityamadadrave hrīṃ iti mahāvajreśvarī | māyā śivadūtyai namaḥ iti	nitya-mada-drave hrIm iti mahA-vajreSvarI | mAyA Siva-dUtyE namaH iti
+   śivadūtī | praṇavo māyā huṃ khe ca che kṣaḥ strīṃ huṃ kṣeṃ hrīṃ phaṭ iti	SivadUtI | praNavaH mAyA hum Ke ca Ce kzaH strIm hum kzem hrIm Paw iti
+   tvaritā | kumārī kulasundarī |	tvaritA | kumArI kulasundarI |
+   hasakalaraḍavāgbhavahasakalaraḍabindumālinīhasakalaraḍacaturdaśaṣoḍaśā iti	hasa-kala-raxa-vAc-Bavahasa-kalaraxa-bindu-mAlinI-hasa-kala-raxa-caturdaSa-zoxaSAH iti
+   nityā | māyā phreṃ srūṃ aṅkuśapāśasmaravāgbhavablūṃpadanityamadadrave	nityA | mAyA Prem srUm aFkuSa-pASa-smara-vAc-Bava-blUMpada-nitya-mada-drave
+   varma phreṃ māyeti nīlapatākā | bhamarayaūm iti vijayā | svaum iti	varma Prem mAyA-iti nIla-patAkA | BamarayaUm iti vijayA | svOm iti
+   sarvamaṅgalā | tāro namo bhagavati jvālāmālini devadevi	sarvamaFgalA | tAraH namaH Bagavati jvAlA-mAlini devadevi
+   sarvabhūtasaṃhārakārike jātavedasi jvalanti jvala jvala prajvala prajvala	sarva-BUta-saMhAra-kArike jAtavedasi jvalanti jvala jvala prajvala prajvala
+   trijātiyuktamāyārephasaptakajvālāmālini varmaphaḍagnijāyeti jvālāmālinī |	trijAti-yukta-mAyA-rePa-saptaka-jvAlA-mAlini varma-Paw-agni-jAya-iti jvAlA-mAlinI |
+   (aṃ) ckauṃ iti citreti pañcadaśa nityāḥ	(aM) ckOm iti citrA-iti paQcadaSa nityAH
+   prathamatryasrarekhāsthitapañcadaśasvareṣu pūjyaḥ | visṛṣṭau ṣoḍaśīṃ	praTama-tri-asra-reKA-sTita-paQcadaSa-svarezu pUjyaH | visRzwO zoxaSIm
+   mūlavidyayā cābhyarcya || Parks_4.9 ||	mUla-vidyayA ca-aByarcya || ParkH-_4.9 ||
+   madhye prāktryasram adhyāntaḥ munivedanāgasaṅkhyān yathāsampradāyaṃ	maDye prAktri-asram aDyAntaH muni-veda-nAga-saFKyAn yaTA-sampradAyam
+   pādukān divyasiddhamānavaughasiddhān iṣṭvā paścāt svaśirasi nāthaṃ yajet |	pAdukAn divya-sidDa-mAnavOGa-sidDAn izwvA paScAt sva-Sirasi nATam yajet |
+   etallayāṅgapūjanam iti śivam || Parks_4.10 ||	etad-laya-aFga-pUjanam iti Sivam || ParkH-_4.10 ||
+   5. Khaṇḍa: Lalitānavāvaraṇapūjā	5. KhaNxa: Lalita-anava-AvaraNa-pUjA
+   atha prāthamike caturasre	aTa prATamike catur-asre
+   aṇimālaghimāmahimeśitvavaśitvaprākāmyabhuktīcchāprāptisarvakāmasiddhyantāḥ	aNimAlaGimA-mahimeSitva-vaSi-tva-prAkAmya-Bukti-icCA-prApti-sarva-kAma-sidDi-antAH
+   madhyame caturasre brāhmyādyāmahālakṣmyantāḥ tṛtīye caturasre	maDyame catur-asre brAhmI-AdyAm-ahAlakzmI-antAH tRtIye catur-asre
+   saṃkṣobhaṇadrāvaṇakarṣaṇavaśyonmādanamahāṅkuśakhecarībījayonitrikhaṇḍāḥ	saMkzoBaNa-drAvaNa-karzaNa-vaSya-unmAdana-mahA-aFkuSa-KecarI-bIja-yoni-triKaNxAH
+   sarvapūrvās tāḥ sampūjyāḥ || Parks_5.1 ||	sarva-pUrvAH tAH sampUjyAH || ParkH-_5.1 ||
+   etāḥ prakaṭayoginyas trailokyamohanacakre samudrāḥ sasiddhayaḥ sāyudhāḥ	etAH prakawa-yoginyaH trElokya-mohana-cakre samudrAH sa-sidDayaH sa-AyuDAH
+   saśaktayaḥ savāhanāḥ saparivārāḥ sarvopacāraiḥ sampūjitāḥ santv iti tāsām	sa-SaktayaH sa-vAhanAH sa-parivArAH sarva-upacArEH sampUjitAH santu iti tAsAm
+   eva samaṣṭyarcanaṃ kṛtvā || Parks_5.2 ||	eva samazwi-arcanam kRtvA || ParkH-_5.2 ||
+   karaśuddhim uccārya tripurācakreśvarīm avamṛśya drām iti	kara-SudDim uccArya tripurA-cakreSvarIm avamRSya drAm iti
+   sarvasaṃkṣobhiṇīmudrāṃ pradarśayet | cakrayoginīcakreśīnāṃ nāmāni bhinnāni	sarva-saMkzoBiNI-mudrAm pradarSayet | cakra-yogi-nIca-kreSInAm nAmAni BinnAni
+   | śiṣṭaṃ samānam || Parks_5.3 ||	| Sizwam samAnam || ParkH-_5.3 ||
+   ṣoḍaśapatre kāmākarṣiṇī nityākaleti nityākalāntāḥ	zoxaSa-patre kAma-AkarziNI nityAkalA-iti nityAkalA-antAH
+   buddhyākarṣiṇīahaṅkārākarṣiṇīśabdākarṣiṇīsparśākarṣiṇīrūpākarṣiṇīrasākarṣiṇīgandhākarṣiṇīcittākarṣiṇīdhairyākarṣiṇīsmṛtyākarṣiṇīnāmākarṣiṇībījākarṣiṇīātmākarṣiṇīamṛtākarṣiṇīśarīrākarṣiṇī	budDi-AkarziNIahaFkAra-AkarziNI-Sabda-AkarziNI-sparSa-Aka-rziNI-rUpAkarziNI-rasa-AkarziNI-ganDAkarziNI-citta-AkarziNI-DErya-AkarziNI-smRti-AkarziNInAm
+   etā guptayoginyaḥ sarvāśāparipūrake cakre samudrāḥ ity ādi pūrvavat	etAH gupta-yoginyaH sarva-ASAparipUrake cakre samudrAH iti Adi pUrvavat-
+   ātmarakṣām uccārya tripureśīm iṣṭvā drīṃ iti sarvavidrāviṇīṃ pradarśayet	Atma-rakzAm uccArya tripureSIm izwvA drIm iti sarva-vidrAviNIm pradarSayet-
+   || Parks_5.4 ||	|| ParkH-_5.4 ||
+   dikpatre kusumāmekhalāmadanāmadanāturārekhāveginyaṅkuśāmālinīr	diS-patre kusumA-meKalA-madanA-madana-Atura-areKA-veginI-aFkuSA-mAlinIH-
+   anaṅgapūrvāḥ saṃmṛśyaitā guptatarayoginyaḥ sarvasaṃkṣobhaṇacakre samudrāḥ	anaFga-pUrvAH saMmRSya-etAH guptatara-yoginyaH sarva-saMkzoBaNa-cakre samudrAH
+   ity ādi pūrvavad ātmāsanam uccārya tripurasundarīm iṣṭvā klīm iti	iti Adi pUrvavat Atma-Asanam uccArya tripurasundarIm izwvA klIm iti
+   sarvākarṣiṇīmudrāṃ pradarśayet || Parks_5.5 ||	sarva-AkarziNI-mudrAm pradarSayet || ParkH-_5.5 ||
+   bhuvanāre	BuvanAre
+   saṃkṣobhiṇīdrāviṇyākarṣiṇyāhlādinīsaṃmohinīstambhinījṛmbhiṇīvaśaṅkarīrañjanyunmādinyarthasādhinīsampattipūraṇīmantramayīdvandvakṣayaṅkarīḥ	saMkzoBiNI-drAviNI-AkarziNI-AhlAdinI-saMmohinI-stamBinI-jRmBiNI-iva-SaFkarI-raQjanI-unmAdini-arTa-sADinI-sampatti-pUraNI-mantra-mayI-dvandva-kzaya
+   sarvādīr avamṛśyaitāḥ sampradāyayoginyaḥ sarvasaubhāgya [158] dāyakacakre	sarva-AdIH avamRSya-etAH sampradAya-yoginyaH sarva-sOBAgya [158] dAyaka-cakre
+   samudrāḥ ity ādi mantraśeṣaḥ cakrāsanam uccārya tripuravāsinīṃ cakreśvarīm	samudrAH iti Adi mantra-SezaH cakrAsanam uccArya tripuravAsinIm cakreSvarIm
+   iṣṭvā blūṃ iti sarvavaśaṅkarīmudrām udghāṭayet || Parks_5.6 ||	izwvA blUm iti sarva-vaSaFkarI-mudrAm udGAwayet || ParkH-_5.6 ||
+   bahirdaśāre	bahis-daSa-are
+   siddhipradāsampatpradāpriyaṅkarīmaṅgalakāriṇīkāmapradāduḥkhavimocinīmṛtyupraśamanīvighnanivāriṇyaṅgasundarīsaubhāgyadāyinīḥ	sidDi-pradA-sampad-pradA-priyaFkarI-maFgala-kAriNI-kAma-pradA-duHKa-vimocinI-mRtyu-praSamanIviGna-nivAriNI-aFga-sundarI-sOBAgya-dAyinIH
+   sarvapūrvāḥ sampūjyaitāḥ kulottīrṇayoginyaḥ sarvārthasādhakacakre	sarva-pUrvAH sampUjya-etAH kula-uttIrNa-yoginyaH sarva-arTa-sADaka-cakre
+   manuśeṣam uktvā mantrāsanam uccārya tripurāśrīcakreśvarīṃ pratyavamṛśya sa	manu-Sezam uktvA mantrAsanam uccArya tripura-aSrI-cakra-ISvarIm pratyavamRSya sa
+   ity unmādinīmudrāṃ dadyāt || Parks_5.7 ||	iti unmAdinI-mudrAm dadyAt || ParkH-_5.7 ||
+   antardaśāre	antardaSa-are
+   jñānaśaktyaiśvaryapradājñānamayīvyādhivināśinyādhārasvarūpāpāpaharānandamayīrakṣāsvarūpiṇīpsitaphalapradāḥ	jQAna-Sakti-ESvarya-pradA-jQAna-mayI-vyADi-vinASini-ADAra-svarUpa-apApa-hara-Ananda-mayI-rakzA-svarUpiNi-Ipsita-Pala-pradAH
+   sarvopapadāḥ [159] yaṣṭavyā etāni garbhayoginyaḥ sarvarakṣākaracakre	sarva-upapadAH [159] yazwavyAH etAni garBa-yoginyaH sarva-rakzA-kara-cakre
+   śiṣṭaṃ tadvat sādhyasiddhāsanam uccārya tripuramālinī mānyā krom iti	Sizwam tadvat sADya-sidDAsanam uccArya tripura-mAlinI mAnyA krom iti
+   sarvamahāṅkuśāṃ darśayet || Parks_5.8 ||	sarva-mahA-aFkuSAm darSayet || ParkH-_5.8 ||
+   aṣṭāre vaśinyādyaṣṭakaṃ namaḥsthāne pūjāmantrasannāma etā rahasyayoginyaḥ	azwAre vaSinI-Adi-azwakam namaH-sTAne pUjA-mantra-sannAmaH etAH rahasya-yoginyaH
+   sarvarogaharacakre śiṣṭaṃ spaṣṭaṃ mūrtividyām uccārya tripurāsiddhām	sarva-roga-hara-cakre Sizwam spazwam mUrti-vidyAm uccArya tripura-asidDAm
+   ārādhya śivabhṛguṛddhiyukphreṃ iti khecarī deyā || Parks_5.9 ||	ArADya Siva-BRguRdDi-yukPrem iti KecarI deyAH || ParkH-_5.9 ||
+   bāṇabījāny uccārya sarvajṛmbhaṇebhyo bāṇebhyo namaḥ dhaṃ thaṃ	bANa-bIjAni uccArya sarva-jRmBaNeByaH bANeByaH namaH Dam Tam
+   sarvasaṃmohanāya dhanuṣe āṃ hrīṃ sarvavaśīkaraṇāya pāśāya kroṃ	sarva-saMmohanAya Danuze Am hrIm sarva-vaSIkaraNAya pASAya krom
+   sarvasthambhanāyāṅkuśāya namaḥ iti mahātryasrabāhyacaturdikṣu	sarva-sTamBanAya-aFkuSAya namaH iti mahAtri-asra-bAhya-catur-dikzu
+   bāṇādyāyudhapūjā || Parks_5.10 ||	bANa-Adi-AyuDa-pUjA || ParkH-_5.10 ||
+   trikoṇe vākkāmaśaktisamastapūrvāḥ kāmeśvarīvajreśvarībhagamālinīmahādevyaḥ	trikoNe vAc-kAma-Sakti-samasta-pUrvAH kAmeSvarI-vajra-ISvarI-Baga-mAlinI-mahAdevyaH
+   bindau caturthī || Parks_5.11 ||	bindO caturTI || ParkH-_5.11 ||
+   tisṛṇām āsām anantaram abhedāya mūladevyāḥ pūjā | kāmeśvaryādicaturthī	tisRNAm AsAm anantaram aBedAya mUladevyAH pUjA | kAmeSvaryAdi-caturTI
+   nityānāṃ ṣoḍaśī cakradevīnāṃ navamī binducakrasthā cety ekaiva | na tatra	nityAnAm zoxaSI cakra-devInAm navamI bindu-cakra-sTA ca-iti ekA-eva | na tatra
+   mantradevatābhedaḥ kāryaḥ | tanmahādevyā eva | caturṣu sthaleṣu	mantra-devatA-BedaH kAryaH | tat-mahAdevyAH eva | caturzu sTalezu
+   viśeṣārcanam āvartate || Parks_5.12 ||	viSeza-arcanam Avartate || ParkH-_5.12 ||
+   etā atirahasyayoginyaḥ sarvasiddhiprade cakre | pariśiṣṭaṃ draṣṭavyam |	etAH ati-rahasya-yoginyaH sarva-sidDi-prade cakre | pariSizwam drazwavyam |
+   āvāhanīm uccārya tripurāmbāṃ sambhāvya hsauṃ iti bījamudrākṛtiḥ ||	AvAhanIm uccArya tripura-ambAm samBAvya hsOm iti bIja-mudrA-AkRtiH ||
+   Parks_5.13 ||	ParkH-_5.13 ||
+   binducakre mūlena devīm iṣṭvā eṣā parāpararahasyayoginī sarvānandamaye	bindu-cakre mUlena devIm izwvA ezA parApara-rahasya-yoginI sarva-Ananda-maye
+   cakre samudrā sasiddhiḥ sāyudhā saśaktiḥ savāhanā saparivārā sarvopacāraiḥ	cakre samudrA sa-sidDiH sa-AyuDA sa-SaktiH sa-vAhanA sa-parivArA sarva-upacArEH
+   saṃpūjitāstv iti punar mūlam uccārya, mahācakreśvarīm iṣṭvā vāgbhavena	saMpUjitAH-tu iti punar mUlam uccArya, mahA-cakra-ISvarIm izwvA vAc-Bavena
+   yoniṃ pradarśya || Parks_5.14 ||	yonim pradarSya || ParkH-_5.14 ||
+   pūrvavad dhūpadīpamudrātarpaṇanaivedyādi dattvā || Parks_5.15 ||	pUrvavat DUpa-dIpa-mudrA-tarpaNa-nEvedya-Adi dattvA || ParkH-_5.15 ||
+   bindunā mukhaṃ bindudvayena kucau saparārdhena yoniṃ kṛtvā kāmakalām iti	bindunA muKam bindu-dvayena kucO sa-parArDena yonim kRtvA kAma-kalAm iti
+   dhyātvā || Parks_5.16 ||	DyAtvA || ParkH-_5.16 ||
+   saubhāgyahṛdayam āmṛśya || Parks_5.17 ||	sOBAgya-hRdayam AmRSya || ParkH-_5.17 ||
+   vāmabhāgavihitatrikoṇavṛttacaturasre gandhākṣatārcite vāgbhavam uccārya	vAma-BAga-vihita-trikoNa-vRtta-caturasre ganDa-akzata-arcite vAc-Bavam uccArya
+   vyāpakamaṇḍalāya namaḥ ity ardhabhaktabharitāmbhasā	vyApaka-maNxalAya namaH iti arDa-Bakta-Barita-amBasA
+   ādimopādimamadhyamabhājanaṃ tatra nyasya || Parks_5.18 ||	Adimopa-Adim-amaDyama-BAjanam tatra nyasya || ParkH-_5.18 ||
+   praṇavamāyānte sarvavighnakṛdbhyaḥ sarvabhūtebhyo huṃ svāhā iti triḥ	praNava-mAyA-ante sarva-viGna-kRdByaH sarva-BUteByaH hum svAhA iti tris-
+   paṭhitvā baliṃ dattvā || Parks_5.19 ||	paWitvA balim dattvA || ParkH-_5.19 ||
+   pradakṣiṇanamaskārajapastotraiḥ santoṣya || Parks_5.20 ||	pradakziNa-namaskAra-japa-stotrEH santozya || ParkH-_5.20 ||
+   tadrūpiṇīm ekāṃ śaktiṃ bālayopacāraiḥ sampūjya tāṃ mapañcakena santarpya	tad-rUpiNIm ekAm Saktim bAlayA-upacArEH sampUjya tAm mapaQcakena santarpya
+   || Parks_5.21 ||	|| ParkH-_5.21 ||
+   śiṣṭaiḥ sārdhaṃ cidagnau haviśśeṣaṃ hutvā || Parks_5.22 ||	SizwEH sArDam cit-agnO haviSSezam hutvA || ParkH-_5.22 ||
+   khecarīṃ baddhvā kṣamasveti visṛjya tām ātmani saṃyojayet iti śivam ||	KecarIm badDvA kzamasva-iti visRjya tAm Atmani saMyojayet iti Sivam ||
+   Parks_5.23 ||	ParkH-_5.23 ||
+   6. Khaṇḍa: Śyāmākrama	6. KhaNxa: ŚyAm-Akrama
+   iyam eva mahatī vidyā siṃhāsaneśvarī sāmrājñī, tasyāḥ pradhānasacivapadaṃ	iyam eva mahatI vidyA siMhAsana-ISvarI sAmrAjQI, tasyAH praDAna-saciva-padam
+   śyāmā, tatkramavimṛṣṭiḥ sadā kāryā || Parks_6.1 ||	SyAmA, tad-krama-vimRzwiH sadA kAryA || ParkH-_6.1 ||
+   pradhānadvārā rājaprasādanaṃ hi nyāyyam || Parks_6.2 ||	praDAna-dvArAH rAja-prasAdanam hi nyAyyam || ParkH-_6.2 ||
+   brāhme muhūrte cotthāya śayane sthitvaiva śrīpādukāṃ praṇamya prāṇān	brAhme muhUrte ca-utTAya Sayane sTitvA-eva SrI-pAdukAm praNamya prANAn
+   āyamya mūlādidvādaśāntaparyantaṃ jvalantīṃ parasaṃvidaṃ vicintya manasā	Ayamya mUla-Adi-dvAdaSAnta-paryantam jvalantIm para-saMvidam vicintya manasA
+   mūlaṃ triśo japtvā bahir nirgatya vimuktamalamūtro	mUlam triSas japtvA bahis nirgatya vimukta-mala-mUtraH-
+   dantadhāvanajihvāgharṣaṇakaphavimocananāsaśodhanaviṃśatigaṇḍūṣān vidhāya	danta-DAvana-jihvA-GarzaNa-kaPa-vimocana-nAsa-SoDana-viMSati-gaNxUzAn viDAya
+   || Parks_6.3 ||	|| ParkH-_6.3 ||
+   mantrabhasmajalasnāneṣv iṣṭaṃ vidhāya vastraṃ paridhāya || Parks_6.4 ||	mantra-Basma-jala-snAnezu izwam viDAya vastram pariDAya || ParkH-_6.4 ||
+   sandhyām upāsya savitṛmaṇḍale devīṃ sāvaraṇaṃ vicintya mūlena trir arghyaṃ	sanDyAm upAsya savitR-maNxale devIm sa-AvaraNam vicintya mUlena tris arGyam
+   dattvā yathāśakti santarpya || Parks_6.5 ||	dattvA yaTASakti santarpya || ParkH-_6.5 ||
+   yāgagṛhaṃ praviśyāsane ādhāraśaktikamalāsanāya nama ity upaviśya ||	yAga-gRham praviSya-Asane ADAra-Sakti-kam-ala-AsanAya namaH iti upaviSya ||
+   Parks_6.6 ||	ParkH-_6.6 ||
+   samastaprakaṭaguptasiddhayoginīcakraśrīpādukābhyo nama iti śirasy añjalim	samasta-prakawa-gupta-sidDa-yoginI-cakra-SrI-pAdukAByaH namaH iti Sirasi aQjalim
+   ādhāya svagurupādukāpūjāṃ ca vidhāya || Parks_6.7 ||	ADAya sva-guru-pAdukA-pUjAm ca viDAya || ParkH-_6.7 ||
+   aiṃ hraḥ astrāya phaṭ ity astramantreṇa aṅguṣṭhādikaniṣṭhāntaṃ karatalayoḥ	Em hraH astrAya Paw iti astra-mantreNa aFguzWa-Adi-kanizWA-antam kara-talayoH
+   kūrparayoḥ dehe ca vyāpakatvena vinyasya || Parks_6.8 ||	kUrparayoH dehe ca vyApaka-tvena vinyasya || ParkH-_6.8 ||
+   yaṃ iti vāyuṃ piṅgalayākṛṣya deham upaviśoṣya, raṃ iti vāyum ākṛṣya dehaṃ	yam iti vAyum piFgalayA-AkRzya deham upaviSozya, ram iti vAyum AkRzya deham
+   dagdhvā, vaṃ iti vāyum ākṛṣyāmṛtena dagdhadehabhasma siktvā, laṃ iti vāyum	dagDvA, vam iti vAyum AkRzya-amRtena dagDa-deha-Basma siktvA, lam iti vAyum
+   ākṛṣya dṛḍhaṃ vidhāya, haṃsa iti vāyum ākṛṣya śivacaitanyam utpādya ||	AkRzya dRXam viDAya, haMsaH iti vAyum AkRzya Siva-cEtanyam utpAdya ||
+   Parks_6.9 ||	ParkH-_6.9 ||
+   mūlam ekaśa uccārya vāyum ākṛṣya triśaḥ uccārya kumbhayitvā sakṛd uccārya	mUlam ekaSas uccArya vAyum AkRzya triSas uccArya kumBayitvA sakRt uccArya
+   recayet | evaṃ recakapūrakakumbhakaṃ tridhā saptadhā daśadhā ṣoḍaśadhā vā	recayet | evam recaka-pUraka-kumBakam triDA saptaDA daSaDA zoxaSaDA vA
+   viracya tejomayatanuḥ || Parks_6.10 ||	viracya tejaH-maya-tanuH || ParkH-_6.10 ||
+   ṣaḍaṅgaṃ bālāsahitāṃ mātṛkāṃ mūlahṛnmukheṣu ratiprītimanobhavān vinyasya	zaz-aFgam bAlA-sahitAm mAtRkAm mUla-hRd-muKezu rati-prIti-manoBavAn vinyasya
+   || Parks_6.11 ||	|| ParkH-_6.11 ||
+   mūlaṃ saptadaśadhā khaṇḍayitvā ṣaṭ brahmabile trīṇi lalāṭe catvāri	mUlam saptadaSaDA KaNxayitvA zax brahmabile trINi lalAwe catvAri
+   bhrūmadhye dakṣavāmekṣaṇayoḥ ṣaṭ cāṣṭau saptāsye dakṣavāmaśrutikaṇṭheṣv	BrU-maDye dakza-vAma-IkzaNayoH zaw ca-azwO sapta-Asye dakza-vAma-Sruti-kaNWezu-
+   ekaikaṃ dakṣavāmāṃsayor aṣṭau ca daśa hṛdi daśa dakṣavāmastanayor aṣṭāv	ekEkam dakza-vAmAMsayoH azwO ca daSa hRdi daSa dakza-vAma-stanayoH azwO=-
+   aṣṭau nava nābhau dviḥ svādhiṣṭhāne ṣaḍ ādhāra evaṃ vinyasya || Parks_6.12	azwO nava nABO dvis svADizWAne zaw ADAraH evam vinyasya || ParkH-_6.12
+   punar ādhārādibrahmabilaparyantaṃ saptadaśakhaṇḍān uktasthāneṣu vinyasya	punar ADAra-Adi-brahma-bila-paryantam saptadaSa-KaNxAn ukta-sTAnezu vinyasya
+   || Parks_6.13 ||	|| ParkH-_6.13 ||
+   amṛtodadhimadhyaratnadvīpe muktāmālādyalaṅkṛtaṃ caturdvārasahitaṃ maṇḍapaṃ	amRta-udaDi-maDya-ratna-dvIpe muktA-mAlA-Adi-alaFkRtam catur-dvAra-sahitam maNxapam
+   vicintya tasya prāgādicaturdvāreṣu sāṃ sarasvatyai, lāṃ lakṣmyai, śaṃ	vicintya tasya prAc-Adi-catur-dvArezu sAm sarasvatyE, lAm lakzmyE, Sam
+   śaṅkhanidhaye, paṃ padmanidhaye namaḥ lāṃ indrāya vajrahastāya	SaFKa-niDaye, pam padma-niDaye namaH lAm indrAya vajrahastAya
+   surādhipataye airāvatavāhanāya saparivārāya namaḥ rāṃ agnaye śaktihastāya	sura-aDipataye ErAvata-vAhanAya sa-parivArAya namaH rAm agnaye Sakti-hastAya
+   tejo'dhipataye ajavāhanāya saparivārāya namaḥ ṭāṃ yamāya daṇḍahastāya	tejaH-aDipataye ajavAhanAya sa-parivArAya namaH wAm yamAya daNxa-hastAya
+   pretādhipataye mahiṣavāhanāya saparivārāya namaḥ kṣāṃ nirṛtaye	preta-aDipataye mahizavAhanAya sa-parivArAya namaH kzAm nirRtaye
+   khaḍgahastāya rakṣo'dhipataye naravāhanāya saparivārāya namaḥ vāṃ varuṇāya	Kaxga-hastAya rakzaH-aDipataye naravAhanAya sa-parivArAya namaH vAm varuNAya
+   pāśahastāya jalādhipataye makaravāhanāya saparivārāya namaḥ yāṃ vāyave	pASa-hastAya jala-aDipataye makara-vAhanAya sa-parivArAya namaH yAm vAyave
+   dhvajahastāya prāṇādhipataye ruruvāhanāya saparivārāya namaḥ sāṃ somāya	Dvaja-hastAya prANa-aDipataye ruruvAhanAya sa-parivArAya namaH sAm somAya
+   śaṅkhahastāya nakṣatrādhipataye aśvavāhanāya saparivārāya namaḥ hāṃ	SaFKa-hastAya nakzatra-aDipataye aSva-vAhanAya sa-parivArAya namaH hAm
+   īśānāya triśūlahastāya vidyādhipataye vṛṣabhavāhanāya saparivārāya namaḥ	ISAnAya triSUla-hastAya vidyA-aDipataye vRzaBa-vAhanAya sa-parivArAya namaH
+   oṃ brahmaṇe padmahastāya satyalokādhipataye haṃsavāhanāya saparivārāya	om brahmaNe padma-hastAya satya-loka-aDipataye haMsavAhanAya sa-parivArAya
+   namaḥ śrīṃ viṣṇave cakrahastāya nāgādhipataye garuḍavāhanāya saparivārāya	namaH SrIm vizNave cakrahastAya nAga-aDipataye garuxa-vAhanAya sa-parivArAya
+   namaḥ oṃ vāstupataye brahmaṇe namaḥ ity ekādaśadikṣu ekādaśadevān arcayet	namaH om vAstupataye brahmaNe namaH iti ekAdaSa-dikzu ekAdaSa-devAn arcayet-
+   || Parks_6.14 ||	|| ParkH-_6.14 ||
+   śyāmākramamantrāṇām ādau tritārīkumārīyogaḥ kumārīyogo vā, tritārī	SyAmA-krama-mantrANAm AdO tritArI-kumArI-yogaH kumArI-yogaH vA, tritArI
+   pūrvoktā kumārī bālā śeṣam uttānam || Parks_6.15 ||	pUrva-uktA kumArI bAlA Sezam uttAnam || ParkH-_6.15 ||
+   gandhadravyeṇa liptāṅgas tāmbūlāmoditavadanaḥ prasannamanā bhūtvā ||	ganDa-dravyeNa lipta-aFgaH tAmbUla-Amodita-vadanaH prasanna-manAH BUtvA ||
+   Parks_6.16 ||	ParkH-_6.16 ||
+   suvarṇarajatatāmracandanamaṇḍaleṣu	suvarNa-rajata-tAmra-candana-maNxalezu
+   bindutrikoṇapañcakoṇāṣṭadalaṣoḍaśadalāṣṭadalacaturdalacaturasrātmakaṃ	bindu-trikoNa-paQca-koNa-azwa-dala-zoxaSa-dala-azwa-dala-catur-dala-caturasra-Atmakam
+   cakrarājaṃ vilikhya || Parks_6.17 ||	cakrarAjam viliKya || ParkH-_6.17 ||
+   mūlena trivārajaptena śuddhajalena caturasravṛttaṣaṭkoṇatrikoṇabindūn	mUlena tri-vAra-japtena SudDa-jalena caturasra-vRtta-zawkoNa-trikoNa-bindUn
+   praveśena matsyamudrayā vidhāya aṃ ātmatattvāya ādhāraśaktaye vauṣaṭ ity	praveSena matsya-mudrayA viDAya am Atma-tattvAya ADAra-Saktaye vOzaw iti-
+   ādhāraṃ pratiṣṭhāpya dhūmrārcir ūṣmā jvalinī jvālinī visphuliṅginī suśrīḥ	ADAram pratizWApya DUmra-arciH UzmA jvalinI jvAlinI visPuliFginI suSrIH
+   surūpā kapilā havyavāhā kavyavāhety agnikalā abhyarcya uṃ vidyātattvāya	surUpA kapilA havyavAhA kavya-vAha-iti agni-kalAH aByarcya um vidyA-tattvAya
+   padmānanāya vauṣaṭ iti pātraṃ pratiṣṭhāpya tapinī tāpinī dhūmrā marīcir	padma-AnanAya vOzaw iti pAtram pratizWApya tapinI tApinI DUmrA marIciH-
+   jvālinī ruciḥ suṣumnā bhogadā viśvā bodhinī dhāriṇī kṣamā iti pātre	jvAlinI ruciH suzumnA BogadA viSvA boDinI DAriNI kzamA iti pAtre
+   sūryakalā abhyarcya maṃ śivatattvāya somamaṇḍalāya namaḥ iti śuddhajalam	sUrya-kalAH aByarcya mam Siva-tattvAya soma-maNxalAya namaH iti SudDa-jalam
+   āpūrya amṛtā mānadā pūṣā tuṣṭiḥ puṣṭī ratiḥ dhṛtiḥ śaśinī candrikā kāntir	ApUrya amRtA mAnadA pUzA tuzwiH puzwI ratiH DRtiH SaSinI candrikA kAntiH-
+   jyotsnā śrīḥ prītir aṅgadā pūrṇā pūrṇāmṛtā ceti candrakalā abhyarcya	jyotsnA SrIH prItiH aFgadA pUrNA pUrNA-amRtA ca-iti candra-kalAH aByarcya
+   agnīśāsuravāyuṣu madhye dikṣu ca ṣaḍaṅgāni vinyasya astreṇa saṃrakṣya	agnISa-asura-vAyuzu maDye dikzu ca zaz-aFgAni vinyasya astreNa saMrakzya
+   kavacenāvakuṇṭhya dhenuyonī pradarśya mūlamantreṇa saptaśo 'bhimantrya	kavacena-avakuNWya Denu-yonI pradarSya mUlamantreNa saptaSaH aBimantrya
+   tajjalavipruḍbhiḥ yāgagṛhaṃ pūjopakaraṇāni cāvokṣya || Parks_6.18 ||	tad-jala-vipruxBiH yAga-gRham pUjA-upakaraNAni ca-avokzya || ParkH-_6.18 ||
+   tābhir īkārāṅkitatrikoṇavṛttacaturasraṃ maṇḍalaṃ vidhāya tasmin puṣpāṇi	tABiH IkAra-aFkita-trikoNa-vRtta-caturasram maNxalam viDAya tasmin puzpANi
+   vikīrya pūrvavad ādhāraṃ pratiṣṭhāpya agnikalā abhyarcya pātraṃ	vikIrya pUrvavat ADAram pratizWApya agni-kalAH aByarcya pAtram
+   pratiṣṭhāpya tasmin pātre hrīṃ aiṃ mahālakṣmīśvari paramasvāmini ūrdhva	pratizWApya tasmin pAtre hrIm Em mahAlakzmISvari parama-svAmini UrDva-
+   [199] śūnyapravāhini somasūryāgnibhakṣiṇi paramākāśabhāsure āgacchāgaccha	[199] SUnya-pravAhini soma-sUrya-agni-BakziNi parama-AkASa-BAsure AgacCa-AgacCa
+   viśa viśa pātraṃ pratigṛhṇa pratigṛhṇa huṃ phaṭ svāheti puṣpāñjaliṃ	viSa viSa pAtram pratigRhNa pratigRhNa hum Paw svAhA-iti puzpa-aQjalim
+   vikīrya sūryakalā abhyarcya	vikIrya sUrya-kalAH aByarcya
+   brahmāṇḍākhaṇḍasambhūtam aśeṣarasasambhṛtam |	brahmANxa-aKaNxa-samBUtam aSeza-rasa-samBRtam |
+   āpūritaṃ mahāpātraṃ pīyūṣarasam āvaha ||	ApUritam mahA-pAtram pIyUza-rasam Avaha ||
+   ity ādimam āpūrya dvitīyaṃ nikṣipya akathāditrirekhāṅkitakoṇatraye	iti Adimam ApUrya dvitIyam nikzipya akaTA-Adi-tri-reKA-aFkita-koNa-traye
+   halakṣān madhye haṃsaṃ ca vilikhya mūlena daśadhā abhimantrya candrakalāḥ	halakzAn maDye haMsam ca viliKya mUlena daSaDA aBimantrya candra-kalAH
+   abhyarcya agnīśāsuravāyuṣu madhye dikṣu, ṣaḍaṅgāni vinyasya astreṇa	aByarcya agnISa-asura-vAyuzu maDye dikzu, zaz-aFgAni vinyasya astreNa
+   saṃrakṣya kavacenāvakuṇṭhya, dhenuyonī pradarśayet || Parks_6.19 ||	saMrakzya kavacena-avakuNWya, Denu-yonI pradarSayet || ParkH-_6.19 ||
+   cakramadhye śrīmātam uktvā gīśvarīmūrtaye namaḥ iti mūrtiṃ kalpayitvā	cakra-maDye SrI-mAtam uktvA gISvarI-mUrtaye namaH iti mUrtim kalpayitvA
+   bhūyaḥ śrīmātam uktvā gīśvaryamṛtacaitanyam āvāhayāmi ity āvāhya,	BUyas SrI-mAtam uktvA gISvari-amRta-cEtanyam AvAhayAmi iti AvAhya,
+   ṣoḍaśabhir upacarya āśuśukṣaṇitryakṣarakṣaḥprabhañjanadikṣu devyā maulau	zoxaSaBiH upacarya ASu-SukzaNitryakza-rakzaH-praBaQjana-dikzu devyAH mOlO
+   paritaś ca pūjyā aṅgadevyaḥ | tanmantrāḥ sarvajanādayaḥ aṣṭau saptaikādaśa	paritas ca pUjyAH aFga-devyaH | tad-mantrAH sarva-jana-AdayaH azwO sapta-ekAdaSa
+   daśa punar daśāṣṭāviṃśatikhaṇḍāḥ tritārīkumārīvāgādayaḥ sajātayaḥ	daSa punar daSa-azwAviMSati-KaNxAH tritArI-kumArI-vAc-a-AdayaH sajAtayaH
+   sāmānyamanuyuktāḥ || Parks_6.20 ||	sAmAnyam-anuyuktAH || ParkH-_6.20 ||
+   paścād āvaraṇapūjāṃ kuryāt || Parks_6.21 ||	paScAt AvaraNa-pUjAm kuryAt || ParkH-_6.21 ||
+   sarvacakradevatārcanāni	sarva-cakra-devatA-arcanAni
+   vāmakarāṅguṣṭhānāmikāsandaṣṭadvitīyaśakalagṛhītaśrīpātraprathamabindusahapatitaiḥ	vAma-kara-aFguzWa-anAmikA-sandazwa-dvitIya-Sakala-gRhIta-SrI-pAtra-praTama-bindu-saha-patitEH
+   dakṣakarākṣatapuṣpakṣepaiḥ kuryāt || Parks_6.22 ||	dakza-kara-akzata-puzpa-kzepEH kuryAt || ParkH-_6.22 ||
+   trikoṇe ratiprītimanobhavān || Parks_6.23 ||	trikoNe rati-prIti-manoBavAn || ParkH-_6.23 ||
+   pañcāramūle pura ādikrameṇa drāṃ drāvaṇabāṇāya drīṃ śoṣaṇabāṇāya klīṃ	paQcAra-mUle puras Adi-krameNa drAm drAvaNa-bANAya drIm SozaNa-bANAya klIm
+   bandhanabāṇāya blūṃ mohanabāṇāya saḥ unmādanabāṇāya namaḥ iti tadagre	banDana-bANAya blUm mohana-bANAya saH unmAdana-bANAya namaH iti tad-agre
+   māyākāmavāgblūṃ strīm upajuṣṭāḥ kāmamanmathakandarpamakaraketanamanobhavāḥ	mAyA-kAma-vAc-blUm strIm upajuzwAH kAma-manmaTa-kandarpa-makara-ketana-manoBavAH
+   || Parks_6.24 ||	|| ParkH-_6.24 ||
+   aṣṭadalamūle brāhmīmaheśvarīkaumārīvaiṣṇavīvārāhīmāhendrīcāmuṇḍācaṇḍikāḥ,	azwa-dala-mUle brAhmI-maheSvarI-kOmArI-vEzNavI-ivArAhI-mAhA-indrI-cAmuNxA-caNxikAH,
+   sendusvarayugmāntyādayaḥ pūjyāḥ | tadagre	sa-indu-svara-yugma-antya-AdayaH pUjyAH | tad-agre
+   lakṣmīsarasvatīratiprītikīrtiśāntipuṣṭituṣṭayaḥ || Parks_6.25 ||	lakzmI-sarasvatI-rati-prIti-kIrti-SAnti-puzwi-tuzwayaH || ParkH-_6.25 ||
+   ṣoḍaśadale	zoxaSa-dale
+   vāmājyeṣṭhāraudrīśāntiśraddhāsarasvatīkriyāśaktilakṣmīsṛṣṭimohinīpramathinīāśvāsinīvīcīvidyunmālinīsurānandānāgabuddhikāḥ	vAmA-jyezWA-rOdrI-SAnti-SradDA-sarasvatI-kriyA-Sakti-lakzmI-sRzwi-mohinI-pramaTinIa-ASvAsinI-vIcI-vidyut-mAlinI-sura-Ananda-anAga-budDikAH
+   || Parks_6.26 ||	|| ParkH-_6.26 ||
+   aṣṭadale asitāṅgarurucaṇḍakrodhanaunmattakapālabhīṣaṇasaṃhārāḥ	azwadale asita-aFga-ruru-caNxa-kroDana-Onmatta-kapAla-BIzaNa-saMhArAH
+   sadaṇḍisvarayugmādisaṃyuktā bhairavāntāś ca bhāvanīyāḥ || Parks_6.27 ||	sa-daNxi-svara-yugma-Adi-saMyuktAH BErava-antAH ca BAvanIyAH || ParkH-_6.27 ||
+   caturdalaṃ māyuktataṅgī siddhalakṣmīś ca mahāmāyuktataṅgī	catur-dalam mA-ayukta-taFgI sidDa-lakzmIH ca mahAm-Ayukta-taFgI
+   mahāsiddhalakṣmīś ca || Parks_6.28 ||	mahAsidDa-lakzmIH ca || ParkH-_6.28 ||
+   gaṃ gaṇapati duṃ durgā baṃ baṭuka kṣaṃ kṣetrapālāḥ, caturasre sampūjyāḥ ||	gam gaNapati dum durgAH bam bawuka kzam kzetrapAlAH, catur-asre sampUjyAH ||
+   Parks_6.29 ||	ParkH-_6.29 ||
+   sāṃ sarasvatyai namaḥ, itiprabhṛti, vāstupataye brahmaṇe namaḥ	sAm sarasvatyE namaH, iti-praBRti, vAstupataye brahmaNe namaH
+   itiparyantaṃ punas tatraivābhyarcya || Parks_6.30 ||	iti-paryantam punar tatra-eva-aByarcya || ParkH-_6.30 ||
+   haṃsamūrtiparaprakāśapūrṇanityakaruṇasampradāyagurūṃś	haMsa-mUrti-para-prakASa-pUrNa-nitya-karuNa-sampradAya-gurUMS
+   caturasrapūrvarekhāyām abhyarcya || Parks_6.31 ||	catur-asra-pUrva-reKAyAm aByarcya || ParkH-_6.31 ||
+   svaśirasi sāmānyaviśeṣapāduke abhyarcayet || Parks_6.32 ||	sva-Sirasi sAmAnya-viSeza-pAduke aByarcayet || ParkH-_6.32 ||
+   punar devīm abhyarcya bālayā ṣoḍaśopacārān vidhāya || Parks_6.33 ||	punar devIm aByarcya bAlayA zoxaSa-upacArAn viDAya || ParkH-_6.33 ||
+   śuddhajalena trikoṇavṛttacaturasraṃ vidhāyārdhānnapūrṇasalilaṃ	SudDa-jalena trikoNa-vRtta-caturasram viDAya-arDa-anna-pUrNa-salilam
+   sādimopādimamadhyamaṃ su[sa]gandhapuṣpaṃ sādhāraṃ pātraṃ nidhāya ||	sa-Adimopa-Adim-a-maDyamam su[sa]ganDa-puzpam sa-ADAram pAtram niDAya ||
+   Parks_6.34 ||	ParkH-_6.34 ||
+   śrīmātam uktvā gīśvarīmaṃ baliṃ gṛhṇa gṛhṇa huṃ phaṭ svāhā śrīmātam uktvā	SrI-mAtam uktvA gI-SvarI-imam balim gRhNa gRhNa hum Paw svAhA SrImAtam uktvA
+   gīśvari śaraṇāgataṃ māṃ trāhi trāhi huṃ phaṭ svāhā kṣetrapālanāthemaṃ	gISvari SaraNa-Agatam mAm trAhi trAhi hum Paw svAhA kzetrapAla-nATa-imam
+   baliṃ gṛhṇa gṛhṇa phaṭ svāhā iti mantratrayeṇa	balim gRhNa gRhNa Paw svAhA iti mantra-trayeNa
+   vāmapārṣṇighātakarāsphoṭasamudañcitavaktranārācamudrābhiḥ baliṃ pradāya ||	vAma-pArzNi-GAta-kara-AsPowa-samudaQcita-vaktra-nArAca-mudrABiH balim pradAya ||
+   Parks_6.35 ||	ParkH-_6.35 ||
+   śyāmalāṃ śaktim āhūya bālayā tām abhyarcya tasyā hasta ādimopādimau dattvā	SyAmalAm Saktim AhUya bAlayA tAm aByarcya tasyAH hastaH AdimA-upAdimO dattvA
+   tattvaṃ śodhayitvā taccheṣam urarīkṛtya yogyaiḥ saha haviśśeṣaṃ svīkuryāt	tattvam SoDayitvA tad-Sezam urarIkRtya yogyEH saha haviSSezam svIkuryAt-
+   || Parks_6.36 ||	|| ParkH-_6.36 ||
+   evaṃ nityasaparyāṃ kurvan lakṣajapaṃ japtvā taddaśāṃśakrameṇa ca	evam nitya-saparyAm kurvan lakza-japam japtvA tad-daSa-aMSa-krameNa ca
+   homatarpaṇabrāhmaṇabhojanāni vidadhyāt || Parks_6.37 ||	homa-tarpaNa-brAhmaNa-BojanAni vidaDyAt || ParkH-_6.37 ||
+   etanmanujāpī na kadambaṃ chindyāt girā kālīti na vadet	etat-manujApI na kadambam CindyAt girA kAlI-iti na vadet-
+   vīṇāveṇunartanagāyanagāthāgoṣṭhīṣu na parāṅmukho gacchet gāyakaṃ na	vINA-veNu-nartana-gAyana-gATA-gozWIzu na parAFmuKaH gacCet gAyakam na
+   nindyāt || Parks_6.38 ||	nindyAt || ParkH-_6.38 ||
+   lalitopāsako nekṣukhaṇḍaṃ bhakṣayet na divā smared vārtālīṃ na jugupseta	lalita-upAsakaH na-ikzu-KaNxam Bakzayet na divA smaret vArtAlIm na jugupseta
+   siddhadravyāṇi na kuryāt strīṣu niṣṭhuratāṃ vīrastriyaṃ na gacchet na taṃ	sidDa-dravyANi na kuryAt strIzu nizWura-tAm vIra-striyam na gacCet na tam
+   hanyāt na taddravyam apaharet nātmecchayā mapañcakam urarīkuryāt	hanyAt na tat-dravyam apaharet na-Atma-icCayA mapaQcakam urarIkuryAt-
+   kulabhraṣṭaiḥ saha nāsīta na bahu pralapet yoṣitaṃ sambhāṣamāṇām	kula-BrazwEH saha na-AsIta na bahu pralapet yozitam samBAzamANAm
+   apratisambhāṣamāṇo na gacchet kulapustakāni gopāyet iti śivam ||	apratisamBAzamANaH na gacCet kula-pustakAni gopAyet iti Sivam ||
+   Parks_6.39 ||	ParkH-_6.39 ||
+   7. Khaṇḍa: Vārāhīkrama	7. KhaNxa: VArAhIkrama
+   itthaṃ sāṅgāṃ saṅgītamātṛkām iṣṭvā saṃvitsāmrājñīsiṃhāsanādhirūḍhāyā	itTam sa-aFgAm saFgIta-mAtRkAm izwvA saMvid-sAmrAjQI-siMhAsana-aDirUXAyAH-
+   lalitāyā mahārājñyā daṇḍanāyikāsthānīyāṃ	lalitAyAH mahA-rAjQyAH daNxanAyikA-sTAnIyAm
+   duṣṭanigrahaśiṣṭānugrahanirargalājñācakrāṃ samayasaṅketāṃ kolamukhīṃ	duzwa-nigraha-Sizwa-anugraha-nirargala-AjQA-cakrAm samaya-saFketAm kola-muKIm
+   vidhivad varivasyet || Parks_7.1 ||	viDivat varivasyet || ParkH-_7.1 ||
+   tatrāyaṃ kramo mahārātre buddhvā svahṛdayaparamākāśe dhvanantam	tatra-ayam kramaH mahArAtre budDvA sva-hRdaya-parama-AkASe Dvanantam
+   anāhatadhvanim ūrjitānandadāyakam avamṛśya || Parks_7.2 ||	anAhata-Dvanim Urjita-Ananda-dAyakam avamRSya || ParkH-_7.2 ||
+   śivādiśrīgurubhyo namaḥ iti mūrdhni badhnīyād añjalim || Parks_7.3 ||	Siva-Adi-SrI-guruByaH namaH iti mUrDni baDnIyAt aQjalim || ParkH-_7.3 ||
+   vācam uccārya glaum iti ca paddhatāv asyāṃ sarve manavo japyāḥ ||	vAcam uccArya glOm iti ca padDatO asyAm sarve manavaH japyAH ||
+   Parks_7.4 ||	ParkH-_7.4 ||
+   mūlādiṣaṇmantraiḥ yathāmantraṃ liṅgadehaṃ śodhayet || Parks_7.5 ||	mUla-Adi-zaz-mantrEH yaTAmantram liFga-deham SoDayet || ParkH-_7.5 ||
+   mūlaśṛṅgāṭakāt suṣumnāpathena jīvaśivaṃ paraśive yojayāmi svāhā yaṃ	mUla-SRFgAwakAt suzumnA-paTena jIva-Sivam para-Sive yojayAmi svAhA yam
+   saṅkocaśarīraṃ śoṣaya śoṣaya svāhā raṃ saṅkocaśarīraṃ [209] daha daha paca	saFkoca-SarIram Sozaya Sozaya svAhA ram saFkoca-SarIram [209] daha daha paca
+   paca svāhā vaṃ paramaśivāmṛtaṃ varṣaya varṣaya svāhā laṃ śāmbhavaśarīram	paca svAhA vam paramaSiva-amRtam varzaya varzaya svAhA lam SAmBava-SarIram
+   utpādayotpādaya svāhā haṃsaḥ so 'ham avatarāvatara śivapadāt jīva	utpAdaya-utpAdaya svAhA haMsaH saH aham avatara-avatara Siva-padAt jIva
+   suṣumnāpathena praviśa mūlaśṛṅgāṭakam ullasollasa jvala jvala prajvala	suzumnA-paTena praviSa mUla-SRFgAwakam ullasa-ullasa jvala jvala prajvala
+   prajvala haṃsaḥ so 'haṃ svāhā iti bhūtaśuddhiṃ vidhāya || Parks_7.6 ||	prajvala haMsaH saH aham svAhA iti BUtaSudDim viDAya || ParkH-_7.6 ||
+   mātṛkāsampuṭitāṃ dvitārīṃ	mAtRkA-sampuwitAm dvi-tArIm
+   kānanavṛttadvyakṣiśrutināsāgaṇḍoṣṭhadantamūrdhāsyadoḥpatsandhyagrapārśvadvayapṛṣṭhanābhijaṭharahṛddormūlāparagalakakṣahṛdādipāṇipādayugalajaṭharānaneṣu	kAnana-vRtta-dvi-akzi-Sruti-nAsA-gaNxa-uzWa-danta-mUrDa-Asya-doHpad-sanDi-agra-pArSva-dvaya-pRzWa-nABi-jaWara-hRd-dos-mUla-aparagala-kakzahRt-Adi-pANi-pAday
+   vinyasya || Parks_7.7 ||	vinyasya || ParkH-_7.7 ||
+   andheprabhṛti saptārṇapañcakam aṅguṣṭhādikaniṣṭhāntam || Parks_7.8 ||	anDe-praBRti sapta-arNa-paQcakam aFguzWa-Adi-kanizWA-antam || ParkH-_7.8 ||
+   vāṅ namo bhagavatīty ārabhya trayodaśabhir hṛdayaṃ, ṣaḍbhiḥ śiraḥ,	vAc namaH Bagavati-iti AraBya trayodaSaBiH hRdayaM, zaxBiH SiraH,
+   daśabhiḥ śikhāṃ, saptabhiḥ saptabhiḥ saptabhiḥ kavacanetrāstrāṇi, vinyasya	daSaBiH SiKAM, saptaBiH saptaBiH saptaBiH kavaca-netrAH-trANi, vinyasya
+   || Parks_7.9 ||	|| ParkH-_7.9 ||
+   gandhādibhir alaṅkṛtya arghyaṃ śodhayet || Parks_7.10 ||	ganDa-AdiBiH alaFkRtya arGyam SoDayet || ParkH-_7.10 ||
+   ātmano 'grabhāge gomayena vilipte, hetumiśritajalena caturasraṃ vartulaṃ	AtmanaH agra-BAge gomayena vilipte, hetu-miSrita-jalena catur-asram vartulam
+   ṣaṭkoṇaṃ trikoṇaṃ antarāntaraṃ vilikhya, arghyaśodhanamanubhiḥ	zaz-koNam tri-koNam antarA-antaram viliKya, arGya-SoDana-manuBiH
+   śyāmākramoktaiḥ ādhārārghyapātrāṇi saṃśodhya, sāmānyenābhyarcya, tad	SyAmA-krama-uktEH ADAra-arGya-pAtrANi saMSoDya, sAmAnyena-aByarcya, tat-
+   arghyaṃ vaṣaḍ ity uddhṛtya, svāheti saṃsthāpya, huṃ ity avakuṇṭhya, vauṣaṭ	arGyam vazaw iti udDRtya, svAhA-iti saMsTApya, hum iti avakuNWya, vOzaw-
+   ity amṛtīkṛtya, phaḍ iti saṃrakṣya, namaḥ iti puṣpaṃ nikṣipya, mūlena	iti amRtIkRtya, Paw iti saMrakzya, namaH iti puzpam nikzipya, mUlena
+   nirīkṣya, tatpṛṣataiḥ pāvayitvā saparyāvastūni || Parks_7.11 ||	nirIkzya, tad-pRzatEH pAvayitvA saparyA-vastUni || ParkH-_7.11 ||
+   (1) śirovadanahṛdguhyapādeṣu pūrvoktasaptakapañcakaṃ vinyasya (2) vidyām	(1) SiraH-vadana-hRd-guhya-pAdezu pUrva-ukta-saptaka-paQcakam vinyasya (2) vidyAm
+   aṣṭadhā khaṇḍayitvā,	azwaDA KaNxayitvA,
+   pādādijānujānvādikaṭikaṭyādinābhinābhyādihṛdayahṛdayādikaṇṭhakaṇṭhādibhrūmadhyabhrūmadhyādilalāṭalalāṭādimauliṣu	pAda-Adi-jAnu-jAn-vAdi-kawi-kawi-AdinA-aBinABi-Adi-hRdaya-hRdaya-Adi-kaNWa-kaNWa-Adi-BrU-maDya-BrU-maDya-Adi-lalAwa-lalAwa-Adi-mOlizu
+   ekatriṃśat sapta sapta sapta sapta sapta pañcatriṃśad ekādaśārṇakhaṇḍān	ekatriMSat sapta sapta sapta sapta sapta paQcatriMSat ekAdaSa-arNa-KaNxAn
+   (3) mātṛkāsthāneṣu mūlamanupadāni ca nyasya || Parks_7.12 ||	(3) mAtRkA-sTAnezu mUlam-anupadAni ca nyasya || ParkH-_7.12 ||
+   pūrvoktān aṣṭakhaṇḍān ekaikaśa uccārya pūrvokteṣu sthāneṣu hlāṃ śarvāya	pUrva-uktAn azwa-KaNxAn ekEkaSas uccArya pUrva-uktezu sTAnezu hlAm SarvAya
+   kṣititattvādhipataye, hlīṃ bhavāya ambutattvādhipataye, hlūṃ rudrāya	kziti-tattva-aDipataye, hlIm BavAya ambu-tattva-aDipataye, hlUm rudrAya
+   vahnitattvādhipataye, hlaiṃ ugrāya vāyutattvādhipataye, hlauṃ īśānāya	vahni-tattva-aDipataye, hlEm ugrAya vAyu-tattva-aDipataye, hlOm ISAnAya
+   bhānutattvādhipataye, soṃ mahādevāya somatattvādhipataye, haṃ mahādevāya	BAnu-tattva-aDipataye, som mahAdevAya soma-tattva-aDipataye, ham mahAdevAya
+   yajamānatattvādhipataye, auṃ bhīmāya ākāśatattvādhipataye namaḥ iti	yajamAna-tattva-aDipataye, Om BImAya AkASa-tattva-aDipataye namaH iti
+   tattvanyāsaḥ || Parks_7.13 ||	tattva-nyAsaH || ParkH-_7.13 ||
+   mūlena sarveṇa vyāpakaṃ kṛtvā devīṃ dhyātvā || Parks_7.14 ||	mUlena sarveNa vyApakam kRtvA devIm DyAtvA || ParkH-_7.14 ||
+   purataḥ paṭapaṭṭasuvarṇarajatatāmracandanapīṭhādinirmitaṃ dṛṣṭimanoharaṃ	puratas pawa-pawwa-suvarNa-rajata-tAmra-candana-pIWa-Adi-nirmitam dRzwi-manoharam
+   caturasratrayasahasrapatraśatapatrāṣṭapatraṣaḍasrapañcāsratryasrabindulakṣaṇaṃ	catur-asra-traya-sahasra-patra-Satapatra-azwa-patra-zaz-asra-paQca-asra-tri-asra-bindu-lakzaNam
+   kolamukhīcakraṃ viracya || Parks_7.15 ||	kola-muKI-cakram viracya || ParkH-_7.15 ||
+   tatra kusumāñjaliṃ vikīrya svarṇaprākārāya sudhābdhaye varāhadvīpāya	tatra kusumAQjalim vikIrya svarNa-prAkArAya suDA-abDaye varAha-dvIpAya
+   varāhapīṭhāya namaḥ iti | āṃ ādhāraśaktaye, kuṃ kūrmāya, kaṃ kandāya, aṃ	varAha-pIWAya namaH iti | Am ADAra-Saktaye, kum kUrma-aya, kam kandAya, am
+   anantanālāya namaḥ iti ca dharmādibhiḥ saha ṣoḍaśamantraiḥ pīṭhe abhyarcya	ananta-nAlAya namaH iti ca Darma-AdiBiH saha zoxaSa-mantrEH pIWe aByarcya
+   || Parks_7.16 ||	|| ParkH-_7.16 ||
+   tripañcaṣaḍaradalāṣṭakaśatasahasrārapadmāsanāya namaḥ iti cakramanunā	tri-paQca-zaz-aradala-azwaka-Sata-sahasra-Ara-padma-AsanAya namaH iti cakra-manunA
+   cakram iṣṭvā || Parks_7.17 ||	cakram izwvA || ParkH-_7.17 ||
+   vahnimaṇḍalāya sūryamaṇḍalāya somamaṇḍalāya namaḥ iti trayo guṇamantrāḥ	vahni-maNxalAya sUrya-maNxalAya soma-maNxalAya namaH iti trayaH guNa-mantrAH
+   ātmamantrāḥ catvāraḥ iti saptaviṃśatikam idaṃ pīṭhe varivasanīyam ||	Atma-mantrAH catvAraH iti saptaviMSatikam idam pIWe varivasanIyam ||
+   Parks_7.18 ||	ParkH-_7.18 ||
+   hauṃ pretapadmāsanāya sadāśivāya namaḥ iti cakropari devyāsanavimṛṣṭiḥ ||	hOm preta-padmAsanAya sadASivAya namaH iti cakra-upari devI-Asana-vimRzwiH ||
+   Parks_7.19 ||	ParkH-_7.19 ||
+   ḹ ṣā ī vārāhīmūrtaye ṭhaḥ ṭhaḥ ṭhaḥ ṭhaḥ huṃ phaṭ iti,	? zA I vArAhI-mUrtaye WaH WaH WaH WaH hum Paw iti,
+   vāgglaumādiglauṃvāgantā, mūrtikaraṇī, vidyā || Parks_7.20 ||	vAc-glOma-Adi-glOMvAk-antA, mUrti-karaNI, vidyA || ParkH-_7.20 ||
+   mūlavidyayā	mUla-vidyayA
+   āvāhanasaṃsthāpanasaṃnidhāpanasaṃnirodhanasammukhīkaraṇāvakuṇṭhanavandanadhenuyonīr	AvAhana-saMsTApana-saMniDApana-saMniroDana-sammuKIkaraNa-avakuNWana-vandana-Denu-yonIH-
+   baddhvā || Parks_7.21 ||	badDvA || ParkH-_7.21 ||
+   devyaṅganyastaṣaḍaṅgapañcāṅgaḥ || Parks_7.22 ||	devI-aFga-nyasta-zaxaFga-paQcAFgaH || ParkH-_7.22 ||
+   pādyārghyācamanīyasnānavāsogandhapuṣpadhūpadīpanīrājanachatracāmaradarpaṇarakṣācamanīyanaivedyapānīyatāmbūlākhyaṣoḍaśopacārakḷptyante	pAdya-arGya-AcamanIya-snAna-vAsaH-ganDa-puzpa-DUpa-dIpa-nI-rAjana-Catra-cAmara-darpaNa-rakzA-camanIya-nEvedya-pAnIya-tAmbUla-AKya-zoxaSa-upacAra-k?ptyante
+   || Parks_7.23 ||	|| ParkH-_7.23 ||
+   dhyānaṃ devyāḥ meghamecakā kuṭiladaṃṣṭrā kapilanayanā, ghanastanamaṇḍalā	DyAnam devyAH meGamecakA kuwila-daMzwrA kapila-nayanA, Gana-stana-maNxalA
+   cakrakhaḍgamusalābhayaśaṅkhakheṭahalavarapāṇiḥ padmāsīnā vārtālī dhyeyā ||	cakra-Kaxga-musala-aBaya-SaFKa-Kewa-hala-vara-pANiH padma-AsInA vArtAlI DyeyAH ||
+   Parks_7.24 ||	ParkH-_7.24 ||
+   daśadhā tasyās tarpaṇaṃ kuryāt || Parks_7.25 ||	daSaDA tasyAH tarpaNam kuryAt || ParkH-_7.25 ||
+   tryasre jambhinīmohinīstambhinyaḥ || Parks_7.26 ||	tri-asre jamBinI-mohinI-stamBinyaH || ParkH-_7.26 ||
+   pañcāre andhinīrundhinyau tāś ca || Parks_7.27 ||	paQca-are anDi-nIrunDinyO tAH ca || ParkH-_7.27 ||
+   ṣaṭkoṇe ā kṣā ī brahmāṇī, ī lā ī māheśvarī, ū hā ī kaumārī, ṝ sā ī	zawkoNe A kzA I brahmANI, I lAH I mAheSvarI, U hA I kOmArI, L sA I
+   vaiṣṇavī, ai śā ī indrāṇī, au vā ī cāmuṇḍā tasyaivāgreṣu madhye ca	vEzNavI, E SA I indrANI, O vA I cAmuNxA tasya-eva-agrezu maDye ca
+   yamarayūṃ yāṃ yīṃ yūṃ yaiṃ yauṃ yaḥ yākini jambhaya jambhaya mama	yamarayUm yAm yIm yUm yEm yOm yaH yAkini jamBaya jamBaya mama
+   sarvaśatrūṇāṃ tvagdhātuṃ gṛhṇa gṛhṇa aṇimādivaśaṃ kuru kuru svāheti |	sarva-SatrUNAm tvac-DAtum gRhNa gRhNa aNima-Adi-vaSam kuru kuru svAhA-iti |
+   anyāsāṃ dhātunāthānām apy evaṃ bīje nāmani dhātau tv ārādhanakarmaṇi	anyAsAm DAtu-nATAnAm api evam bIje nAmani DAtO tu ArADana-karmaNi
+   mantrasannāmaḥ | ramarayūṃ rākiṇi raktadhātuṃ piba piba lamarayūṃ lākini	mantra-sat-nAmaH | ramarayUm rAkiNi raktaDAtum piba piba lamarayUm lAkini
+   māṃsadhātuṃ bhakṣaya bhakṣaya ḍamarayūṃ ḍākini medodhātuṃ grasa grasa	mAMsaDAtum Bakzaya Bakzaya xamarayUm xAkini medaH-DAtum grasa grasa
+   kamarayūṃ kākini asthidhātuṃ jambhaya jambhaya samarayūṃ sākini	kamarayUm kAkini asTi-DAtum jamBaya jamBaya samarayUm sAkini
+   majjādhātuṃ gṛhṇa gṛhṇa hamarayūṃ hākini śukradhātuṃ piba piba	majja-ADAtum gRhNa gRhNa hamarayUm hAkini Sukra-DAtum piba piba
+   aṇimādivaśaṃ kuru kuru svāhā iti dhātunāthayajanam || Parks_7.28 ||	aNima-Adi-vaSam kuru kuru svAhA iti DAtu-nATa-yajanam || ParkH-_7.28 ||
+   anantaraṃ ṣaḍasrobhayapārśvayoḥ krodhinīstambhinyau cāmaragrāhiṇyau	anantaram zaz-asra-uBaya-pArSvayoH kroDinI-stamBinyO cAmara-grAhiNyO
+   tatraiva stambhanamusalāyudhāya ākarṣaṇahalāyudhāya namaḥ ṣaḍarād bahiḥ	tatra-eva stamBana-musala-AyuDAya AkarzaNa-halAyuDAya namaH zaz-arAt bahis-
+   purato devyāḥ kṣrauṃ krauṃ caṇḍoccaṇḍāya namaḥ iti tadyajanam ||	puratas devyAH kzrOm krOm caNxa-uccaNxAya namaH iti tat-yajanam ||
+   Parks_7.29 ||	ParkH-_7.29 ||
+   aṣṭadale vārtālīvārāhīvarāhamukhyandhinyādayaḥ pañca tadbahiḥ mahāmahiṣāya	azwadale vArtAlI-vArAhI-varAha-muKI-anDini-AdayaH paQca tad-bahis mahA-mahizAya
+   devīvāhanāya namaḥ || Parks_7.30 ||	devIvAhanAya namaH || ParkH-_7.30 ||
+   (1) śatāre devīpurato dalasandhau jambhinyā indrāyāpsarobhyaḥ siddhebhyo	(1) SatAre devI-puratas dala-sanDO jamBinyAH indrAya-apsaroByaH sidDeByaH-
+   dvādaśādityebhyo 'gnaye sādhyebhyo viśvebhyo devebhyo viśvakarmaṇe yamāya	dvAdaSa-AdityeByaH agnaye sADyeByaH viSveByaH deveByaH viSvakarmaNe yamAya
+   mātṛbhyo rudraparicārakebhyo rudrebhyo mohinyai nirṛtaye rākṣasebhyo	mAtRByaH rudra-paricArakeByaH rudreByaH mohinyE nirRtaye rAkzaseByaH-
+   mitrebhyo gandharvebhyo bhūtagaṇebhyo varuṇāya vasubhyo vidyādharebhyaḥ	mitreByaH ganDarveByaH BUta-gaNeByaH varuNAya vasuByaH vidyADareByaH
+   [221] kinnarebhyo vāyave stambhinyai citrarathāya tumburave nāradāya	[221] kinnareByaH vAyave stamBinyE citraraTAya tumburave nAradAya
+   yakṣebhyaḥ somāya kuberāya devebhyo viṣṇave īśānāya brahmaṇe aśvibhyāṃ	yakzeByaH somAya kuberAya deveByaH vizNave ISAnAya brahmaNe aSviByAm
+   dhanvantaraye vināyakebhyo namaḥ iti devatāmaṇḍalam iṣṭvā (2) tadbahiḥ auṃ	Danvantaraye vinAyakeByaH namaH iti devatA-maNxalam izwvA (2) tad-bahis Om
+   kṣauṃ kṣetrapālāya namaḥ, siṃhavarāya devīvāhanāya namaḥ iti ca tad	kzOm kzetrapAlAya namaH, siMha-varAya devIvAhanAya namaH iti ca tat-
+   ubhayaṃ varivasyet | tadbahiḥ mahākṛṣṇāya mṛgarājāya devīvāhanāya namaḥ	uBayam varivasyet | tad-bahis mahAkRzNAya mRgarAjAya devIvAhanAya namaH
+   iti tatpūjā || Parks_7.31 ||	iti tad-pUjA || ParkH-_7.31 ||
+   (1) sahasrāre aṣṭadhā vibhakte airāvatāya puṇḍarīkāya vāmanāya	(1) sahasrAre azwaDA viBakte ErAvatAya puNxarIkAya vAmanAya
+   kumudāyāñjanāya puṣpadantāya sārvabhaumāya supratīkāya namaḥ iti tatpūjā	kumudAya-aQjanAya puzpadantAya sArvaBOmAya supratIkAya namaH iti tad-pUjA
+   bahiḥ sudhābdher vā | (2) bāhyaprākārāṣṭadikṣu adha upari ca hetukādayaḥ,	bahis suDA-abDeH vA | (2) bAhya-prAkAra-azwa-dikzu aDas upari ca hetuka-AdayaH,
+   bhairavakṣetrapālaśabdayuktāḥ pratyekaṃ kṣaumādayaś ca yaṣṭavyāḥ |	BErava-kzetrapAla-Sabda-yuktAH pratyekam kzOma-AdayaH ca yazwavyAH |
+   hetukatripurāntakāgniyamajihvaikapādakālakarālabhīmarūpahāṭakeśācalāḥ daśa	hetuka-tripurAntaka-agni-yama-jihvA-eka-pAda-kAla-karAla-BIma-rUpa-hAwa-keSa-acalAH daSa
+   bhairavāḥ || Parks_7.32 ||	BEravAH || ParkH-_7.32 ||
+   evaṃ ṣaḍāvaraṇīm iṣṭvā punar devīṃ tridhā santarpya sarvair upacārair	evam zaz-AvaraNIm izwvA punar devIm triDA santarpya sarvEH upacArEH-
+   upacarya || Parks_7.33 ||	upacarya || ParkH-_7.33 ||
+   purato vāmabhāge hastamātraṃ jalenopalipya	puratas vAma-BAge hasta-mAtram jalena-upalipya
+   rudhirānnaharidrānnamahiṣapalasaktuśarkarāhetuphalatrayamākṣikamudgatrayamāṣacūrṇadadhikṣīraghṛtaiḥ	ruDira-anna-haridrA-anna-mahiza-pala-saktu-SarkarA-hetu-Palatraya-mAkzika-mudga-traya-mAza-cUrNa-daDi-kzIra-GRtEH
+   śuddhodanaṃ sammardya caraṇāyudhāṇḍapramāṇān daśapiṇḍān vidhāya tatra	SudDodanam sammardya caraNa-AyuDa-aNxa-pramANAn daSa-piNxAn viDAya tatra
+   nidhāya kapitthaphalamānam ekaṃ piṇḍaṃ ca tatsamīpe sādimopādimamadhyamaṃ	niDAya kapitTa-Pala-mAnam ekam piNxam ca tad-samIpe sa-Adimopa-Adim-a-maDyamam
+   caṣakaṃ ca nikṣipya daśapiṇḍān hetukādibhyo madhyamapiṇḍaṃ caṣakaṃ ca	cazakam ca nikzipya daSa-piNxAn hetuka-AdiByaH maDyama-piNxam cazakam ca
+   caṇḍoccaṇḍāya tattanmantraiḥ datvā vṛndam ārādhya || Parks_7.34 ||	caNxa-uccaNxAya tad-tad-mantrEH datvA vRndam ArADya || ParkH-_7.34 ||
+   yathāvibhavaṃ śrīguruṃ saṃtoṣya || Parks_7.35 ||	yaTA-viBavam SrI-gurum saMtozya || ParkH-_7.35 ||
+   sampūrṇayauvanāḥ salakṣaṇāmadanonmādinīs tisraḥ śaktīr āhūya baṭukaṃ	sampUrNa-yOvanAH sa-lakzaNA-madana-unmAdinIH tisraH SaktIH AhUya bawukam
+   caikam abhyarcya snapayitvā gandhādibhir alaṅkṛtya vārtālībuddhyā ekāṃ	ca-ekam aByarcya snapayitvA ganDa-AdiBiH alaFkRtya vArtAlI-budDyA ekAm
+   śaktiṃ madhye krodhinīstambhinībuddhyā dve itare pārśvayoś	Saktim maDye kroDinI-stamBinI-budDyA dve itare pArSvayoH-
+   caṇḍoccaṇḍadhiyā baṭukam agre sthāpayitvā sarvair dravyaiḥ saṃtoṣya mama	caNxa-uccaNxa-DiyA bawukam agre sTApayitvA sarvEH dravyEH saMtozya mama
+   śrīvārtālīmantrasiddhir bhūyād iti tāḥ prativadet tāś ca prasīdantv	SrI-vArtAlI-mantra-sidDiH BUyAt iti tAH prativadet tAH ca prasIdantu-
+   adhidevatāḥ iti brūyuḥ || Parks_7.36 ||	aDidevatAH iti brUyuH || ParkH-_7.36 ||
+   evaṃ saparivārām udārāṃ bhūdāravadanām upatoṣya lakṣaṃ puraścaraṇaṃ kṛtvā	evam sa-parivArAm udArAm BUdAra-vadanAm upatozya lakzam puraScaraNam kRtvA
+   yaddaśāṃśaṃ tāpicchakusumair hutvā mantraṃ sādhayet || Parks_7.37 ||	yad-daSa-aMSam tApicCa-kusumEH hutvA mantram sADayet || ParkH-_7.37 ||
+   tataś ca pūjitāṃ devīm ātmani yojayitvā svairaṃ viharann ājñāsiddhaḥ sukhī	tatas ca pUjitAm devIm Atmani yojayitvA svEram viharan AjQA-asidDaH suKI
+   viharet iti śivam || Parks_7.38 ||	viharet iti Sivam || ParkH-_7.38 ||
+   8. Khaṇḍa: Parākrama	8. KhaNxa: ParAkrama
+   iti vidhivat kṛtavārtālīvarivasyaḥ siṃhāsanavidyāhṛdayam anuttaraṃ	iti viDivat kRta-vArtA-lI-varivasyaH siMhAsana-vidyA-hRdayam anuttaram
+   parābījarūpaṃ dhāma tatkramapūrvaṃ vimṛśet || Parks_8.1 ||	parAbIja-rUpam DAma tad-krama-pUrvam vimRSet || ParkH-_8.1 ||
+   prabhuhṛdayajñātuḥ pade pade sukhāni bhavanti || Parks_8.2 ||	praBu-hRdaya-jQAtuH pade pade suKAni Bavanti || ParkH-_8.2 ||
+   atho 'nuttarapaddhatiṃ vyākhyāsyāmāḥ || Parks_8.3 ||	aTo anuttara-padDatim vyAKyAsyAmAH || ParkH-_8.3 ||
+   kalye samutthāya brahmakoṭaravartini sahasradalakamale sanniviṣṭāyāḥ	kalye samutTAya brahma-kowara-vartini sahasra-dala-kamale sannivizwAyAH
+   sauvarṇarūpāyāḥ parāyāś caraṇayugalavigaladamṛtarasavisarapariplutaṃ vapuḥ	sOvarNa-rUpAyAH parAyAH caraNa-yugala-vigalat-amRta-rasa-visara-pariplutam vapuH
+   dhyātvā || Parks_8.4 ||	DyAtvA || ParkH-_8.4 ||
+   snātaḥ śucivāsovasānaḥ, sauḥvarṇena trir ācamya, dviḥ parimṛjya, sakṛd	snAtaH Suci-vAsaH-vasAnaH, sOHvarNena tris Acamya, dvis parimRjya, sakRt-
+   upaspṛśya, cakṣuṣī, nāsike, śrotre, aṃse, nābhiṃ, hṛdayaṃ, śiraś	upaspRSya, cakzuzI, nAsike, Srotre, aMse, nABiM, hRdayaM, SiraS
+   cāvamṛśya, evaṃ trir ācamya || Parks_8.5 ||	ca-avamRSya, evam tris Acamya || ParkH-_8.5 ||
+   ūrṇāmṛduśucitamam āsanaṃ sauvarṇasūryajapābhimantritaṃ mūlamantrokṣitam	UrNA-mRdu-Sucitamam Asanam sOvarNa-sUrya-japa-aBimantritam mUlamantra-ukzitam
+   adhiṣṭhāya || Parks_8.6 ||	aDizWAya || ParkH-_8.6 ||
+   udagvadano maunī bhūṣitavigraho mūlapūrveṇa deśikamanunā mastake deśikam	udak-vadanaH mOnI BUzita-vigrahaH mUla-pUrveNa deSika-manunA mastake deSikam
+   iṣṭvā || Parks_8.7 ||	izwvA || ParkH-_8.7 ||
+   vāmapārṣṇighātaiḥ choṭikātrayeṇa pātālādigatān bhedāvabhāsinaḥ vighnān	vAma-pArzNi-GAtEH CowikA-trayeNa pAtAla-Adi-gatAn Beda-avaBAsinaH viGnAn
+   utsārya || Parks_8.8 ||	utsArya || ParkH-_8.8 ||
+   śiromukhahṛnmūlasarvāṅgeṣu mūlaṃ vinyasya || Parks_8.9 ||	SiraH-muKa-hRd-mUla-sarva-aFgezu mUlam vinyasya || ParkH-_8.9 ||
+   kākacañcūpuṭākṛtinā mukhena saṃcoṣyānilaṃ saptaviṃśatiśo mūlaṃ japtvā	kAka-caQcU-puwa-AkRtinA muKena saMcozya-anilam saptaviMSatiSas mUlam japtvA
+   vedyaṃ nābhau saṃmudrya punaḥ saptaviṃśatiśo japtvā aṅguṣṭhena śikhāṃ	vedyam nABO saMmudrya punar saptaviMSatiSas japtvA aFguzWena SiKAm
+   badhvā punar anilam āpūrya tena mūle cidagnim utthāpya tatra vedyasya	baDvA punar anilam ApUrya tena mUle cit-agnim utTApya tatra vedyasya
+   vilayaṃ vibhāvya || Parks_8.10 ||	vilayam viBAvya || ParkH-_8.10 ||
+   gomayenopaliptacaturasrabhūtale pravahatpārśvakarakṛtayā matsyamudrayā	gomayena-upalipta-caturasra-BU-tale pravahat-pArSva-kara-kRtayA matsya-mudrayA
+   divyagandhāmbuyutayā bhūvyomavāyuvahnimaṇḍalāni kṛtvā || Parks_8.11 ||	divya-ganDa-ambu-yutayA BU-vyoma-vAyu-vahni-maNxalAni kRtvA || ParkH-_8.11 ||
+   śyāmāvat sāmānyaviśeṣārghye sādayet || Parks_8.12 ||	SyAmA-vat sAmAnya-viSeza-arGye sAdayet || ParkH-_8.12 ||
+   sarve 'pi parākramamanavaḥ sauḥ varṇapūrvāḥ kāryāḥ || Parks_8.13 ||	sarve api parAkrama-manavaH sOH varNa-pUrvAH kAryAH || ParkH-_8.13 ||
+   bhṛgucaturdaśaṣoḍaśadvirāvṛtyā, varṇaṣaḍaṅgaṃ sarvamūlaṣaḍāvṛtyā,	BRgu-caturdaSa-zoxaSa-dvis-AvRtyA, varNa-zaz-aFgam sarva-mUla-zaxA-AvRtyA,
+   mantraṣaḍaṅgaṃ ca, kṛtvā || Parks_8.14 ||	mantra-zaz-aFgam ca, kRtvA || ParkH-_8.14 ||
+   ubhābhyām arcayitvā || Parks_8.15 ||	uBAByAm arcayitvA || ParkH-_8.15 ||
+   mūlam uccārya, tāṃ cinmayīm ānandalakṣaṇām amṛtakalaśapiśitahastadvayāṃ,	mUlam uccArya, tAm cit-mayIm Ananda-lakzaNAm amRta-kalaSa-piSita-hasta-dvayAM,
+   prasannāṃ, devīṃ, pūjayāmi namaḥ svāhā iti sudhādevīm abhyarcya tayā	prasannAn, devIM, pUjayAmi namaH svAhA iti suDA-devIm aByarcya tayA
+   samprokṣya varivasyāvastūni || Parks_8.16 ||	samprokzya varivasyA-vastUni || ParkH-_8.16 ||
+   pūrvaṃ nābhau sammudritaṃ cidagnivilīnaṃ taptāyodravavat	pUrvam nABO sammudritam cit-agni-vilInam tapta-ayaH-drava-vat-
+   ṣaṭtriṃśattattvakadambakaṃ hṛtsaroje samānīya || Parks_8.17 ||	zawtriMSat-tattva-kadambakam hRd-saroje samAnIya || ParkH-_8.17 ||
+   mūlajaptaiḥ kusumakṣepaiḥ vakṣyamāṇaiś ca mantrair āsanakḷptiṃ kuryāt	mUla-japtEH kusuma-kzepEH vakzyamANEH ca mantrEH Asana-k?ptim kuryAt-
+   mūlādiyogapīṭhāya namaḥ ity antāni tāni ca	mUla-Adi-yoga-pIWAya namaH iti antAni tAni ca
+   pṛthivyaptejovāyvākāśagandharasarūpasparśaśabdopasthapāyupādapāṇivāgghrāṇajihvācakṣustvakśrotrā	pRTivI-ap-tejaH-vAyu-AkASa-ganDa-rasa-rUpa-sparSa-Sabda-upasTa-pAyu-pAdapANi-vAc-GrANa-jihvA-cakzuH-tvac-SrotrA
+   haṅkārabuddhimanaḥprakṛtipuruṣaniyatikālarāgakalāvidyāmāyāśuddhavidyeśvarasadāśivaśaktiśivāḥ	haFkAra-budDi-manaH-prakRti-puruza-niyati-kAla-rAga-kalA-vidyA-mAyA-SudDa-vidyA-ISvara-sadASiva-Sakti-SivAH
+   | evaṃ parācakraṃ kṛtvā || Parks_8.18 ||	| evam parAcakram kRtvA || ParkH-_8.18 ||
+   tatraitadaikyavimarśarūpiṇīṃ ṣoḍaśakalāṃ parāṃ devīm āvāhya || Parks_8.19	tatra-etat-Ekya-vimarSa-rUpiNIm zoxaSa-kalAm parAm devIm AvAhya || ParkH-_8.19
+   akalaṅkaśaśāṅkābhā tryakṣā candrakalāvatī |	akalaFka-SaSAFka-ABA tryakzA candra-kalAvatI |
+   mudrāpustalasadbāhuḥ pātu māṃ, paramā kalā ||	mudrApuH-tala-sat-bAhuH pAtu mAM, paramA kalA ||
+   iti dhyātvā || Parks_8.20 ||	iti DyAtvA || ParkH-_8.20 ||
+   mūlādim uccārya prakāśarūpiṇī parābhaṭṭārikā, mūlamadhyam uccārya	mUla-Adim uccArya prakASa-rUpiNI parABawwArikA, mUla-maDyam uccArya
+   vimarśarūpiṇī parābhaṭṭārikā, mūlāntyam uccārya prakāśavimarśarūpiṇī	vimarSa-rUpiNI parABawwArikA, mUla-antyam uccArya prakASa-vimarSa-rUpiNI
+   parābhaṭṭāriketi tribhiḥ devyā mūlahṛnmukheṣv abhyarcya samastam uccārya,	parABawwArikA-iti triBiH devyAH mUla-hRd-muKezu aByarcya samastam uccArya,
+   mahāprakāśavimarśarūpiṇī parābhaṭṭāriketi, daśavāram avamṛśya tām eva	mahA-prakASa-vimarSa-rUpiNI parABawwArikA-iti, daSa-vAram avamRSya tAm eva
+   devīṃ, kālāgnikoṭidīptāṃ dhyātvā || Parks_8.21 ||	devIM, kAlAgni-kowi-dIptAm DyAtvA || ParkH-_8.21 ||
+   tasyāṃ kriyāsamabhivyāhāreṇa vedyam akhilaṃ hutvā || Parks_8.22 ||	tasyAm kriyA-samaBivyAhAreNa vedyam aKilam hutvA || ParkH-_8.22 ||
+   mūlam uccārya, sāmānyapādukayā svamastakasthāya gurave arghyaṃ nivedya ||	mUlam uccArya, sAmAnya-pAdukayA sva-mastaka-sTAya gurave arGyam nivedya ||
+   Parks_8.23 ||	ParkH-_8.23 ||
+   punaś cidagnim uddīptaṃ vibhāvya || Parks_8.24 ||	punar cit-agnim uddIptam viBAvya || ParkH-_8.24 ||
+   divyaughaṃ tisraḥ pādukāḥ siddhaughaṃ tisraḥ mānavaugham aṣṭāv abhyarcya	divya-oGam tisraH pAdukAH sidDa-oGam tisraH mAnava-oGam azwO aByarcya
+   || Parks_8.25 ||	|| ParkH-_8.25 ||
+   parābhaṭṭārikāghoraśrīkaṇṭhaśaktidharakrodhatryambakānandapratibhādevyambā,	parA-BawwArikA-Gora-SrIkaNWa-Sakti-Dara-kroDa-tryambaka-Ananda-pratiBAt-evyambA,
+   vīrasaṃvidānandamadhurādevyambā, jñānaśrīrāmayogāḥ iti, parākramapādukāḥ	vIra-saMvid-Ananda-maDurAt-evyambA, jQAna-SrI-rAma-yogAH iti, parAkrama-pAdukAH
+   || Parks_8.26 ||	|| ParkH-_8.26 ||
+   tataḥ kalāmanunā baliṃ nivedya || Parks_8.27 ||	tatas kalA-manunA balim nivedya || ParkH-_8.27 ||
+   haviśśeṣam ātmasātkuryāt | iti śivam || Parks_8.28 ||	haviSSezam AtmasAt-kuryAt | iti Sivam || ParkH-_8.28 ||
+   9. Khaṇḍa: Homavidhi	9. KhaNxa: Homa-viDi
+   atha sveṣṭamantrasya homavidhānaṃ vyākhyāsyāmaḥ || Parks_9.1 ||	aTa sva-izwa-mantrasya homa-viDAnam vyAKyAsyAmaH || ParkH-_9.1 ||
+   caturasraṃ kuṇḍam athavā hastāyāmam aṅguṣṭhonnataṃ sthaṇḍilaṃ kṛtvā ||	catur-asram kuNxam aTavA hasta-AyAmam aFguzWa-unnatam sTaNxilam kRtvA ||
+   Parks_9.2 ||	ParkH-_9.2 ||
+   sāmānyārghyam upaśodhya tenāvokṣya || Parks_9.3 ||	sAmAnya-arGyam upaSoDya tena-avokzya || ParkH-_9.3 ||
+   prācīr udīcīs tisras tisro rekhā likhitvā || Parks_9.4 ||	prAcIH udIcIH tisraH tisraH reKA liKitvA || ParkH-_9.4 ||
+   tāsu rekhāsu brahmayamasomarudraviṣṇvindrān, ṣaṭtārīnamassampuṭitān	tAsu reKAsu brahma-yama-soma-rudra-vizNu-indrAn, zawtArI-namassampuwitAn
+   abhyarcya || Parks_9.5 ||	aByarcya || ParkH-_9.5 ||
+   sahasrārciṣe hṛdayāya namaḥ, svastipūrṇāya śirase svāhā, uttiṣṭha puruṣāya	sahasra-arcize hRdayAya namaH, svasti-pUrNAya Sirase svAhA, uttizWa puruzAya
+   śikhāyai vaṣaṭ, dhūmavyāpine kavacāya huṃ, saptajihvāya netratrayāya	SiKAyE vazaw, DUma-vyApine kavacAya huM, sapta-jihvAya netratrayAya
+   vauṣaṭ, dhanurdharāya astrāya phaṭ iti ṣaḍaṅgaṃ vidhāya tena ṣaḍaṅgena	vOzaw, DanurDarAya astrAya Paw iti zaz-aFgam viDAya tena zaxaFgena
+   kuṇḍam abhyarcya || Parks_9.6 ||	kuNxam aByarcya || ParkH-_9.6 ||
+   tatrāṣṭakoṇaṣaṭkoṇatrikoṇātmakaṃ agnicakraṃ vilikhya pītāyai śvetāyai	tatra-azwakoNa-zaz-koNa-tri-koNa-Atmakam agni-cakram viliKya pItAyE SvetAyE
+   aruṇāyai kṛṣṇāyai dhūmrāyai tīvrāyai sphuliṅginyai rucirāyai jvālinyai	aruNAyE kRzNAyE DUmrAyE tIvrAyE sPuliFginyEH rucirAyE jvAlinyE
+   nama iti trikoṇamadhye vahneḥ pīṭhaśaktīḥ sampūjya taṃ tamase, raṃ rajase,	namaH iti trikoNa-maDye vahneH pIWa-SaktIH sampUjya tam tamase, ram rajase,
+   saṃ sattvāya, ām ātmane, am antarātmane, paṃ paramātmane, hrīṃ jñānātmane	sam sattva-aya, Am Atmane, am antarAtmane, pam paramAtmane, hrIm jQAna-Atmane
+   namaḥ iti tatraivābhyarcayet || Parks_9.7 ||	namaH iti tatra-eva-aByarcayet || ParkH-_9.7 ||
+   tato janiṣyamāṇavahneḥ pitarau vāgīśvarīvagīśvarau pīṭhe 'bhyarcya tayor	tatas janizyamANa-vahneH pitarO vAc-ISvarI-vagISvarO pIWe aByarcya tayoH-
+   mithunībhāvaṃ bhāvayitvā hrīṃ vāgīśvarīvāgīśvarābhyāṃ namaḥ iti dhyātvā ||	miTunIBAvam BAvayitvA hrIm vAc-ISvarI-ivAc-ISvarAByAm namaH iti DyAtvA ||
+   Parks_9.8 ||	ParkH-_9.8 ||
+   araṇeḥ sūryakāntāt dvijagṛhād vā vahnim utpādya mṛtpātre tāmrapātre vā	araNeH sUryakAntAt dvija-gRhAt vA vahnim utpAdya mRd-pAtre tAmra-pAtre vA
+   āgneyyām aiśānyāṃ nairṛtyāṃ vā nidhāya, agniśakalaṃ krāvyādāṃśaṃ nairṛtyāṃ	AgneyyAm ESAnyAm nErRtyAm vA niDAya, agni-Sakalam krAvyAda-aMSam nErRtyAm
+   visārya nirīkṣaṇaprokṣaṇatāḍanāvakuṇṭhanādibhiḥ viśodhya [248] oṃ	visArya nirIkzaNa-prokzaNa-tAxana-avakuNWana-AdiBiH viSoDya [248] om
+   vaiśvānara jātaveda ihāvaha lohitākṣa sarvakarmāṇi sādhaya svāhā iti	vESvAnara jAtavedaH iha-Avaha lohita-akza sarva-karmANi sADaya svAhA iti
+   mūlādhārodgatasaṃvidaṃ lalāṭanetradvārā nirgamayya taṃ bāhyāgniyuktaṃ	mUlADAra-udgata-saMvidam lalAwa-netra-dvArA nirgamayya tam bAhya-agni-yuktam
+   pātayet || Parks_9.9 ||	pAtayet || ParkH-_9.9 ||
+   kavacamantreṇa indhanair ācchādya || Parks_9.10 ||	kavaca-mantreNa inDanEH AcCAdya || ParkH-_9.10 ||
+   agniṃ prajvalitaṃ vande jātavedaṃ hutāśanam |	agnim prajvalitam vande jAtavedam hutASanam |
+   suvarṇavarṇam analaṃ samiddhaṃ viśvatomukham ||	suvarNa-varNam analam samidDam viSvatomuKam ||
+   ity upasthāya || Parks_9.11 ||	iti upasTAya || ParkH-_9.11 ||
+   uttiṣṭha haritapiṅgala lohitākṣa sarvakarmāṇi sādhaya me dehi dāpaya svāhā	uttizWa harita-piFgala lohita-akza sarva-karmANi sADaya me dehi dApaya svAhA
+   iti vahnim utthāpya || Parks_9.12 ||	iti vahnim utTApya || ParkH-_9.12 ||
+   citpiṅgala hana hana daha daha paca paca sarvajñājñāpaya svāhā, iti	cit-piFgala hana hana daha daha paca paca sarvajQa-AjQApaya svAhA, iti
+   prajvālya || Parks_9.13 ||	prajvAlya || ParkH-_9.13 ||
+   ṣaṭtāravāco namomantreṇa	zaz-tAra-vAcaH namaH-mantreNa
+   puṃsavanasīmantajātakarmanāmakaraṇānnaprāśanacaulopanayanagodānavivāhakarmāṇy	puMsavana-sImanta-jAta-karma-nAmakaraNa-anna-prASana-cOla-upanayana-go-dAna-vivAha-karmANi-
+   amukāgner amukaṃ karma kalpayāmi namaḥ iti vidhāya || Parks_9.14 ||	amuka-agneH amukam karma kalpayAmi namaH iti viDAya || ParkH-_9.14 ||
+   pariṣicya paristīrya paridhāya || Parks_9.15 ||	parizicya paristIrya pariDAya || ParkH-_9.15 ||
+   triṇayanam aruṇābhaṃ baddhamauliṃ suśuklāṃ	triNayanam aruNa-ABam badDa-mOlim su-SuklAm
+   śukam aruṇam anekākalpam ambhojasaṃstham |	Sukam aruNam aneka-Akalpam amBoja-saMsTam |
+   abhimatavaraśaktisvastikābhītihastaṃ	aBimata-vara-Sakti-svastika-aBIti-hastam
+   namata kanakamālālaṅkṛtāṃsaṃ kṛśānum ||	namata kanaka-mAlA-alaFkRta-aMsam kRSAnum ||
+   iti dhyātvā || Parks_9.16 ||	iti DyAtvA || ParkH-_9.16 ||
+   (1) aṣṭakoṇe jātavedase saptajihvāya havyavāhāya aśvodarāya vaiśvānarāya	(1) azwa-koNe jAtavedase sapta-jihvAya havyavAhAya aSva-udarAya vESvAnarAya
+   kaumāratejase viśvamukhāya devamukhāya namaḥ iti (2) ṣaṭkoṇe ṣaḍaṅgaṃ (3)	kOmAra-tejase viSva-muKAya deva-muKAya namaH iti (2) zaz-koNe zaz-aFgam (3)
+   trikoṇe agnimantreṇa agniṃ pūjayitvā || Parks_9.17 ||	trikoNe agni-mantreNa agnim pUjayitvA || ParkH-_9.17 ||
+   hiraṇyāyai kanakāyai raktāyai kṛṣṇāyai suprabhāyai atiraktāyai bahurūpāyai	hiraNyAyE kanakAyE raktAyE kRzNAyE su-praBAyE ati-raktAyE bahu-rUpAyE
+   namaḥ ity agneḥ saptajihvāsu mūlaśuddhenājyena saptāhutīḥ kuryāt ||	namaH iti agneH sapta-jihvAsu mUla-SudDena-Ajyena sapta-AhutIH kuryAt ||
+   Parks_9.18 ||	ParkH-_9.18 ||
+   vaiśvānarottiṣṭhacitpiṅgalair agnes tridhāhutiṃ vidhāya || Parks_9.19 ||	vESvAnara-uttizWa-cid-piFgalEH agneH triDA-Ahutim viDAya || ParkH-_9.19 ||
+   bahurūpajihvāyām iṣṭāṃ devatām āvāhya pañcopacārair upacarya || Parks_9.20	bahu-rUpa-jihvAyAm izwAm devatAm AvAhya paQca-upacArEH upacarya || ParkH-_9.20
+   sarvāsāṃ cakradevīnām ekāhutiṃ hutvā, namo'ntān pādukāntān śeṣān mantrān	sarvAsAm cakra-devInAm eka-Ahutim hutvA, namaH-antAn pAdukA-antAn SezAn mantrAn
+   svāhāntān vidhāya juhuyāt || Parks_9.21 ||	svAhA-antAn viDAya juhuyAt || ParkH-_9.21 ||
+   atha pradhānadevatāyai daśāhutīr juhuyāt || Parks_9.22 ||	aTa praDAna-devatAyE daSa-AhutIH juhuyAt || ParkH-_9.22 ||
+   yadi kāmyam īpsed abhīṣṭadevatāyai vijñāpya saṅkalpaṃ	yadi kAmyam Ipset aBIzwa-devatAyE vijQApya saFkalpam
+   kṛtvaitāvatkarmasiddhyartham etāvadāhutīḥ kariṣyāmīti || Parks_9.23 ||	kRtvA-etAvat-karma-sidDi-arTam etAvat-AhutIH karizyAmi-iti || ParkH-_9.23 ||
+   tilājyaiḥ śāntyā annenānnāyāmṛtāya samiccūtapallavair jvaraśamāya	tila-AjyEH SAntyA annena-annAya-amRtAya samiD-cUta-pallavEH jvara-SamAya
+   dūrvābhir āyuṣe kṛtamālair dhanāyotpalair bhāgāya bilvadalai rājyāya	dUrvABiH Ayuze kRta-mAlEH DanAya-utpalEH BAgAya bilva-dalEH rAjyAya
+   padmaiḥ [252] sāmrājyāya śuddhalājaiḥ kanyāyai nandyāvartaiḥ kavitvāya	padmEH [252] sAmrAjyAya SudDa-lAjEH kanyAyE nandyAvartEH kavi-tvAya
+   vañjulaiḥ puṣṭayai mallikājātīpunnāgair bhāgyāya	vaQjulEH puzwayE mallikA-jAtI-punnAgEH BAgyAya
+   bandhūkajapākiṃśukabakulamadhukarair aiśvaryāya lavaṇair ākarṣaṇāya	banDUka-japA-kiMSuka-bakula-maDukarEH ESvaryAya lavaNEH AkarzaNAya
+   kadambaiḥ sarvavaśyāya śālitaṇḍulair dhānyāya kuṅkumagorocanādisugandhaiḥ	kadambEH sarva-vaSyAya SAli-taNxulEH DAnyAya kuFkuma-gorocanA-Adi-suganDEH
+   saubhāgyāya palāśapuṣpaiḥ kapilāghṛtair vā tejase dhattūrakusumair	sOBAgyAya palASa-puzpEH kapilA-GRtEH vA tejase DattUra-kusumEH-
+   unmādāya viṣavṛkṣaiḥ nimbaśleṣmātakavibhītakasamidbhiḥ śatrunāśāya	unmAdAya viza-vRkzEH nimba-SlezmAtaka-viBItaka-samidBiH Satru-nASAya
+   nimbatailāktalavaṇair māraṇāya kākolūkapakṣair vidveṣaṇāya	nimba-tEla-akta-lavaNEH mAraNAya kAka-ulUka-pakzEH vidvezaNAya
+   tilatailāktamarīcaiḥ kāsaśvāsanāśāya juhuyāt || Parks_9.24 ||	tila-tEla-akta-marIcEH kAsa-SvAsa-nASAya juhuyAt || ParkH-_9.24 ||
+   baliṃ pradāya || Parks_9.25 ||	balim pradAya || ParkH-_9.25 ||
+   oṃ bhūr agnaye ca pṛthivyai ca mahate ca svāhā |	om BUH agnaye ca pRTivyE ca mahate ca svAhA |
+   oṃ bhuvo vāyave cāntarikṣāya ca mahate ca svāhā |	om BuvaH vAyave ca-antarikzAya ca mahate ca svAhA |
+   oṃ suvar ādityāya ca dive ca mahate ca svāhā |	om suvar AdityAya ca dive ca mahate ca svAhA |
+   oṃ bhūr bhuvas suvaś candramase ca nakṣatrebhyaś ca digbhyaś ca mahate ca	om BUH BuvaH suvaH candramase ca nakzatreByaH ca digByaH ca mahate ca
+   svāhā |	svAhA |
+   iti caturbhir mantraiḥ mahāvyāhṛtihomaṃ kṛtvā || Parks_9.26 ||	iti caturBiH mantrEH mahAvyAhRti-homam kRtvA || ParkH-_9.26 ||
+   itaḥ pūrvaṃ prāṇabuddhidehadharmādhikārato jāgratsvapnasuṣuptyavasthāsu	itas pUrvam prANa-budDi-deha-Darma-aDikArataH jAgrat-svapna-suzupti-avasTAsu
+   manasā vācā karmaṇā hastābhyāṃ padbhyām udareṇa śiśnā yat smṛtaṃ yad uktaṃ	manasA vAcA karmaNA hastAByAm padByAm udareNa SiSnA yat smRtam yat uktam
+   [254] yat kṛtaṃ tat sarvaṃ brahmārpaṇaṃ bhavatu svāhā, iti	[254] yat kRtam tat sarvam brahma-arpaNam Bavatu svAhA, iti
+   brahmārpaṇāhutiṃ kṛtvā || Parks_9.27 ||	brahma-arpaNa-Ahutim kRtvA || ParkH-_9.27 ||
+   cidagniṃ devatāṃ cātmany udvāsayāmi namaḥ ity udvāsya || Parks_9.28 ||	cit-agnim devatAm ca-Atmani udvAsayAmi namaH iti udvAsya || ParkH-_9.28 ||
+   tadbhasmatilakadharo lokasammohanakāraḥ sukhī viharet | iti śivam ||	tad-Basma-tilaka-DaraH loka-sammohana-kAraH suKI viharet | iti Sivam ||
+   Parks_9.29 ||	ParkH-_9.29 ||
+   10. Khaṇḍa: Sarvasādhāraṇakrama	10. KhaNxa: Sarva-sADAraNa-krama
+   athātaḥ sarveṣāṃ mantrāṇāṃ sāmānyapaddhatiṃ vyākhyāsyāmaḥ || Parks_10.1 ||	aTa-atas sarvezAm mantrANAm sAmAnyapadDatim vyAKyAsyAmaH || ParkH-_10.1 ||
+   śyāmāvat sandhyādyarghyaśodhanaparyantaṃ nyāsavarjam || Parks_10.2 ||	SyAmA-vat sanDi-Adi-arGya-SoDana-paryantam nyAsa-varjam || ParkH-_10.2 ||
+   anuktaṣaḍaṅgasya ṣaḍjātiyuktamāyayā ṣaḍaṅgam || Parks_10.3 ||	anukta-zaxaFgasya zaz-jAti-yukta-mAyayA zaxaFgam || ParkH-_10.3 ||
+   bindutriṣaḍaranāgadalacatuṣpatracaturasramayaṃ cakram || Parks_10.4 ||	bindu-trizaxara-nAga-dala-catuzpatra-caturasra-mayam cakram || ParkH-_10.4 ||
+   bindau mukhyadevatecchājñānakriyāśaktayas tryasre, ṣaḍare tattatṣaḍaṅgāny	bindO muKya-devatA-icCA-jQAna-kriyA-SaktayaH tri-asre, zaz-are tad-tad-zaz-aFgAni-
+   aṣṭadale brāhmyādyāḥ, caturdale gaṇapatidurgābaṭukakṣetreśāś, caturasre	azwadale brAhmI-AdyAH, catur-dale gaNapati-durgA-bawuka-kzetra-ISa-AS, catur-asre
+   dikpālāḥ || Parks_10.5 ||	dikpAlAH || ParkH-_10.5 ||
+   tritārīkumārībhyāṃ sarve kramamantrāḥ prayoktavyāḥ || Parks_10.6 ||	tritArI-kumArIByAm sarve krama-mantrAH prayoktavyAH || ParkH-_10.6 ||
+   tattanmūlenāvāhanaṃ kalāmanunā balir anena krameṇāhutiḥ || Parks_10.7 ||	tad-tad-mUlena-AvAhanam kalA-manunA baliH anena krameNa-AhutiH || ParkH-_10.7 ||
+   atha raśmimālā || Parks_10.8 ||	aTa raSmimAlAH || ParkH-_10.8 ||
+   suptotthitenaiṣā manasaikavāram āvartyā || Parks_10.9 ||	supta-utTitena-ezA manasA-eka-vAram AvartyAH || ParkH-_10.9 ||
+   (1) praṇavo bhūr bhuvas suvaḥ	(1) praNavaH BUH BuvaH suvar-
+   tatsavitur vareṇiyaṃ bhargo devasya dhīmahi |	tat-savituH vareNiyam BargaH devasya DImahi |
+   dhiyo yo naḥ pracodayāt ||	DiyaH yaH naH pracodayAt ||
+   iti triṃśadvarṇā gāyatrī ||	iti triMSat-varNA gAyatrI ||
+   (2) yata indra bhayāmahe tato no abhayaṃ kuru |	(2) yatas indra BayAmahe tatas naH aBayam kuru |
+   maghavañ chagdhi tava tan na ūtaye vidviṣo vimṛdho jahi ||	maGavan CagDi tava tat naH Utaye vidvizaH vimRDaH jahi ||
+   svastidā viśaspatir vṛtrahā vimṛdho vaśī |	svasti-dA viSaspatiH vRtrahA vimRDaH vaSI |
+   [258] vṛṣendraḥ pura etu naḥ svastidā abhayaṅkaraḥ ||	[258] vRza-indraH puras etu naH svasti-dAH aBayaFkaraH ||
+   ity aindrī saptaṣaṣṭyarṇā saṅkaṭe bhayanāśinī ||	iti EndrI sapta-zazwi-arNA saFkawe Baya-nASinI ||
+   (3) praṇavo ghṛṇis sūrya āditya ity aṣṭārṇā saurī tejodā ||	(3) praNavaH GRNiH sUryaH AdityaH iti azwa-arNA sOrI tejodAH ||
+   (4) praṇavaḥ kevalo brahmavidyā muktidā ||	(4) praNavaH kevalaH brahma-vidyA mukti-dA ||
+   (5) tāraḥ parorajase (')sāvad om iti navārṇā turyagāyatrī svaikyavimarśinī	(5) tAraH paras-rajase (-a)sA-vat om iti nava-arNA turya-gAyatrI sva-Ekya-vimarSinI
+   raśmipañcakam etanmūlahṛtphālavidhibiladvādaśāntabījatayā vimṛṣṭavyam ||	raSmi-paQcakam etad-mUla-hRd-PAla-viDi-bila-dvAdaSa-anta-bIja-tayA vimRzwavyam ||
+   Parks_10.10 ||	ParkH-_10.10 ||
+   (1) sūryākṣitejase namaḥ | (2) khecarāya namaḥ | (3) asato mā sad gamaya |	(1) sUrya-akzi-tejase namaH | (2) KecarAya namaH | (3) asataH mA sat gamaya |
+   (4) tamaso mā jyotir gamaya | (5) mṛtyor māmṛtaṃ gamaya | (6) uṣṇo	(4) tamasaH mA jyotiH gamaya | (5) mRtyoH mA-amRtam gamaya | (6) uzNaH-
+   bhagavān śucirūpaḥ | (7) haṃso bhagavān śucir apratirūpaḥ ||	BagavAn Suci-rUpaH | (7) haMsaH BagavAn SuciH apratirUpaH ||
+   (8) viśvarūpaṃ ghṛṇinaṃ jātavedasaṃ	(8) viSva-rUpam GRNinam jAtavedasam
+   hiraṇmayaṃ jyotir ekaṃ tapantam |	hiraNmayam jyotiH ekam tapantam |
+   sahasraraśmiḥ śatadhā vartamānaḥ	sahasraraSmiH SataDA vartamAnaH
+   prāṇaḥ prajānām udayaty eṣa sūryaḥ ||	prANaH prajAnAm udayati eza sUryaH ||
+   [259] (9) oṃ namo bhagavate sūryāya aho vāhini vāhiny aho vāhini vāhini	[259] (9) om namaH Bagavate sUryAya aho vAhini vAhini aho vAhini vAhini
+   svāhā ||	svAhA ||
+   (10) vayas suparṇā upasedur indraṃ	(10) vayaH suparNAH upaseduH indram
+   priyamedhā ṛṣayo nāthamānāḥ |	priyameDAH RzayaH nATamAnAH |
+   apadhvāntam ūrṇuhi pūrdhi cakṣur	apaDvAntam UrNuhi pUrDi cakzuH-
+   mumugdhy asmān nidhayeva baddhān ||	mumugDi asmAn niDayA-iva badDAn ||
+   (11) puṇḍarīkākṣāya namaḥ | (12) puṣkarekṣaṇāya namaḥ | (13) amalekṣaṇāya	(11) puNxarIkAkzAya namaH | (12) puzkara-IkzaNAya namaH | (13) amala-IkzaNAya
+   namaḥ | (14) kamalekṣaṇāya namaḥ | (15) viśvarūpāya namaḥ | (16)	namaH | (14) kamala-IkzaNAya namaH | (15) viSvarUpAya namaH | (16)
+   śrīmahāviṣṇave namaḥ ||	SrI-mahAvizNave namaH ||
+   iti ṣoḍaśamantrasamaṣṭirūpiṇī dūradṛṣṭipradā cākṣuṣmatī vidyā ||	iti zoxaSa-mantra-samazwi-rUpiNI dUra-dRzwi-pradA cAkzuzmatI vidyA ||
+   Parks_10.11 ||	ParkH-_10.11 ||
+   praṇavo gandharvarāja viśvāvaso mama abhilaṣitāmukāṃ kanyāṃ prayaccha tato	praNavaH ganDarva-rAja viSvAvasaH mama aBilazita-amukAm kanyAm prayacCa tatas-
+   'gnivallabhety uttamakanyāvivāhadāyinī vidyā || Parks_10.12 ||	agnivallaBa-iti uttama-kanyA-vivAha-dAyinI vidyA || ParkH-_10.12 ||
+   tāro namo rudrāya pathiṣade svasti mā sampāraya iti mārgasaṅkaṭahāriṇī	tAraH namaH rudrAya paTiza-de svasti mA sampArayaH iti mArga-saFkawa-hAriNI
+   vidyā || Parks_10.13 ||	vidyA || ParkH-_10.13 ||
+   tāras tāre padam uktvā tuttāre ture śabdaṃ ca dahanadayiteti	tAraH tAre padam uktvA tuttAre ture Sabdam ca dahanadayitA-iti
+   jalāpacchamanī vidyā || Parks_10.14 ||	jalApacSamanI vidyA || ParkH-_10.14 ||
+   acyutāya namaḥ, anantāya namaḥ, govindāya namaḥ iti mahāvyādhivināśinī	acyutAya namaH, anantAya namaH, govindAya namaH iti mahA-vyADi-vinASinI
+   nāmatrayī vidyā || Parks_10.15 ||	nAma-trayI vidyA || ParkH-_10.15 ||
+   pañcemā raśmayo mūlādiparikaratayā prapañcyāḥ || Parks_10.16 ||	paQca-imAH raSmayaH mUla-Adi-parikaratayA prapaQcyAH || ParkH-_10.16 ||
+   praṇavaḥ kamalā bhuvanā madano glāc caturdaśapañcadaśau gaṃ gaṇapataye	praNavaH kamalAH BuvanA madanaH glAt caturdaSa-paQcadaSO gam gaNapataye
+   varayugalaṃ da sarvajanaṃ me śabdo vaśam ānayāgnivāmalocaneti	vara-yugalam da sarva-janam me SabdaH vaSam Anaya-agni-vAma-locanA-iti
+   mahāgaṇapatividyā pratyūhaśamanī || Parks_10.17 ||	mahAgaNapati-vidyA pratyUha-SamanI || ParkH-_10.17 ||
+   praṇavo namaḥ śivāyai, praṇavo namaḥ śivāyeti dvādaśārṇā,	praNavaH namaH SivAyE, praNavaH namaH SivAya-iti dvAdaSa-arNA,
+   śivatattvavimarśinī vidyā || Parks_10.18 ||	Siva-tattva-vimarSinI vidyA || ParkH-_10.18 ||
+   praṇavaḥ kāṣṭamadakṣaśrutibindupiṇḍo bhṛguṣoḍaśo māṃ pālayadvandvam iti	praNavaH kAzwama-dakza-Sruti-bindu-piNxaH BRguzoxaSaH mAm pAlaya-dvandvam iti
+   daśārṇā mṛtyor api mṛtyur eṣā vidyā || Parks_10.19 ||	daSArNA mRtyoH api mRtyuH ezA vidyA || ParkH-_10.19 ||
+   tāraḥ namo brahmaṇe dhāraṇaṃ me astv anirākaraṇaṃ dhārayitā bhūyāsaṃ	tAraH namaH brahmaNe DAraNam me astu anirAkaraNam DArayitA BUyAsam
+   karṇayoḥ śrutaṃ mācyoḍhvaṃ mamāmuṣya oṃ iti śrutadhāriṇī vidyā ||	karNayoH Srutam mAcyA-UXvam mama-amuzya om iti Sruta-DAriNI vidyA ||
+   Parks_10.20 ||	ParkH-_10.20 ||
+   śrīkaṇṭādikṣāntāḥ sarve varṇāḥ bindusahitāḥ mātṛkā sarvajñatākarī vidyā ||	SrIkaNwA-Adi-kzAntAH sarve varNAH bindu-sahitAH mAtRkA sarvajQa-tA-karI vidyA ||
+   Parks_10.21 ||	ParkH-_10.21 ||
+   raśmayaḥ pañca mūlādirakṣātmakatayā yaṣṭavyāḥ || Parks_10.22 ||	raSmayaH paQca mUla-Adi-rakza-Atmaka-tayA yazwavyAH || ParkH-_10.22 ||
+   śivaśaktikāmakṣitimāyāravīndusmarahaṃsapurandarabhuvanāparāmanmathavāsavabhauvanāś	Siva-Sakti-kAma-kziti-mAyA-ravi-indu-smara-haMsa-purandara-Buvana-aparAmanmaTa-vAsava-BOvanAH-
+   ca śivādividyā svasvarūpavimarśinī || Parks_10.23 ||	ca Siva-Adi-vidyA sva-svarUpa-vimarSinI || ParkH-_10.23 ||
+   klaśabdād vāmekṣaṇabindur eko 'nantayonibindavo 'nyaḥ	kla-SabdAt vAma-IkzaNa-binduH ekaH ananta-yoni-bindavaH anyaH
+   śaṅkaraparātriśūlavisṛṣṭayo 'paraś caita eva khaṇḍāḥ pratilomāḥ ṣaṭkūṭā	SaFkara-parAtriSUla-visRzwayaH aparaH ca-ete eva KaNxAH pratilomAH zaz-kUwA
+   sampatkarī vidyā || Parks_10.24 ||	sampad-karI vidyA || ParkH-_10.24 ||
+   sam uccārya sṛṣṭinitye svāheti ham ity uktvā sthitipūrṇe namaḥ ity	sam uccArya sRzwi-nitye svAhA-iti ham iti uktvA sTiti-pUrNe namaH iti-
+   analabindumahāsaṃhāriṇī kṛśe padāc caṇḍaśabdaḥ kāli phaṭ ity	anala-bindu-mahA-saMhAriNI kRSe padAt caNxa-SabdaH kAli Paw iti-
+   agnibindusaptamamudrābījaṃ mahānākhye anantabhāskari mahācaṇḍapadāt kāli	agni-bindu-saptama-mudrA-bIjam mahAn-AKye ananta-BAskari mahA-caNxapadAt kAli
+   phaṭ iti sṛṣṭisthitisaṃhārākhyānāṃ prātilomyaṃ khecarībījaṃ mahācaṇḍavāṇī	Paw iti sRzwi-sTiti-saMhAra-AKyAnAm prAtilomyam KecarI-bIjam mahA-caNxavANI
+   ca yogīśvarīti vidyāpañcakarūpiṇī kālasaṅkarṣiṇī paramāyuḥpradāyinī ||	ca yogISvarI-iti vidyA-paQcaka-rUpiNI kAla-saFkarziNI parama-AyuH-pradAyinI ||
+   Parks_10.25 ||	ParkH-_10.25 ||
+   tritārī saptamamudrā śivayukśaktir ahaṃyugalam etatpañcaiva lomyam iti	tritArI saptama-mudrA Siva-yuj-SaktiH ahaMyugalam etat-paQca-eva lomyam iti
+   śuddhajñānamayī śāmbhavī vidyā || Parks_10.26 ||	SudDa-jQAna-mayI SAmBavI vidyA || ParkH-_10.26 ||
+   bhṛgutriśūlavisṛṣṭayaḥ parāvidyā || Parks_10.27 ||	BRgutriSUla-visRzwayaH parAvidyAH || ParkH-_10.27 ||
+   pañcemā raśmayo mūlādyadhiṣṭhānatayā parikalpanīyāḥ || Parks_10.28 ||	paQca-imAH raSmayaH mUla-Adi-aDizWAna-tayA parikalpanIyAH || ParkH-_10.28 ||
+   vākkāmaśaktayo 'nulomavilomāḥ punar anulomāḥ iti śriyo 'ṅgabālā ||	vAc-kAma-SaktayaH anuloma-vilomAH punar anulomAH iti SriyaH aFga-bAlAH ||
+   Parks_10.29 ||	ParkH-_10.29 ||
+   bhuvanā kamalā subhagā tāro namo bhagavati pūrṇe śekharam anna	BuvanA kamalA suBagA tAraH namaH Bagavati pUrNe SeKaram anna
+   mamābhilaṣitam uktvānnaṃ dehi dahanajāyeti śriya upāṅgam annapūrṇā ||	mama-aBilazitam uktvA-annam dehi dahana-jAyA-iti SriyaH upAFgam anna-pUrNAH ||
+   Parks_10.30 ||	ParkH-_10.30 ||
+   praṇavaḥ pāśāditryarṇā ehi parameśvarīty uktvā vahnivāmākṣyuktir iti	praNavaH pASa-Adi-tri-arNA ehi parameSvarI-iti uktvA vahni-vAmAkzyuktiH iti
+   śrīpratyaṅgam aśvārūḍhā || Parks_10.31 ||	SrI-pratyaFgam aSva-ArUXAH || ParkH-_10.31 ||
+   tāritrikaṃ saptamamudrā śivaśaktisaṃvartapupañcamapurandaravarayūṃ	tAri-trikam saptama-mudrA Siva-Sakti-saMvarta-pupaQcama-purandara-vara-yUm
+   śaktiśivakṣamānte vādivarayīṃ	Sakti-Siva-kzamA-ante vAdi-varayIm
+   śivabhṛgutriśūlabindubhṛguśivatriśūlavisṛṣṭayaḥ śrīpūrvaṃ svagurunāmato	Siva-BRgutriSUla-bindu-BRgu-Siva-triSUla-visRzwayaH SrI-pUrvam sva-guru-nAmataH-
+   'ṣṭākṣarī ceti śrīpādukā ca || Parks_10.32 ||	azwa-akzarI ca-iti SrI-pAdukA ca || ParkH-_10.32 ||
+   etābhiś catasṛbhir yuktā mūlavidyā sāmrājñī mūlādhāre vilocanīyā ||	etABiH catasRBiH yuktA mUla-vidyA sAmrAjQI mUlADAre vilocanIyAH ||
+   Parks_10.33 ||	ParkH-_10.33 ||
+   mādanaśaktibindumālinīvāsavamāyāghoṣadoṣākarakandarpagaganamaghavadbhuvanabhṛgupuṣpabāṇabhūmāyeti	mAdana-Sakti-bindumAlinI-va-Asava-mAyA-Goza-doza-Akara-kandarpa-gagana-maGavat-Buvana-BRgu-puzpa-bANa-BUmAya-iti
+   seyaṃ tasyā mahāvidyā || Parks_10.34 ||	sA-iyam tasyAH mahAvidyA || ParkH-_10.34 ||
+   vāṅnatir ucchiṣṭacāṇḍali mātam uktvā gi sarvapadād vaśaṅkari	vAc-natiH ucCizwa-cANxali mAtam uktvA gi sarva-padAt vaSaFkari
+   vahnivāmalocaneti śyāmāṅgaṃ laghuśyāmā || Parks_10.35 ||	vahni-vAma-locanA-iti SyAma-aFgam laGu-SyAmAH || ParkH-_10.35 ||
+   kumārīm uccārya vadadvandvaṃ vākpadaṃ vādini vahnipriyeti śyāmopāṅgaṃ	kumArIm uccArya vada-dvandvam vAc-padam vAdini vahnipriyA-iti SyAma-upAFgam
+   vāgvādinī || Parks_10.36 ||	vAc-vAdinI || ParkH-_10.36 ||
+   praṇava opinākudaṃpavṛpasasyaicaśācāmāhadaśabdāḥ,	praNave opinAku-daMpa-vRpasasya-ecaSAcAmAhat-a-SabdAH,
+   ṣṭhādhānalītaiḥritāviḥrvavāīnārumivāyecchekharā, nakulī śyāmāpratyaṅgam ||	zWADAna-lItEHritOviHrvavAInArum-ivAyet-SeKarA, nakulI SyAmA-pratyaFgam ||
+   Parks_10.37 ||	ParkH-_10.37 ||
+   lalitāpādukāditrikasthāne kumārī yojyā śiṣṭaṃ tadvat iti śyāmāpādukā ca ||	lalitA-pAdukA-Adi-trika-sTAne kumArI yojyA Sizwam tadvat iti SyAmA-pAdukA ca ||
+   Parks_10.38 ||	ParkH-_10.38 ||
+   catasṛbhir yuktā hṛccakre śyāmā yaṣṭavyā || Parks_10.39 ||	catasRBiH yuktA hRd-cakre SyAmA yazwavyAH || ParkH-_10.39 ||
+   tadvidyā tu tritārī kumārī	tat-vidyA tu tritArI kumArI
+   nabhavaśrītaṃśvasajamahāsamuraṃnimāyāsarāvakasastrīruvakasadumṛvakasasavakasalovakaakaṃvamāyahāvarṇā	naBava-SrItaMSvasaja-mahA-samuraM-nimAya-asarAvaka-sa-strI-ruvaka-sa-dumRvaka-sa-sava-ka-salovakaa-kaMvamAya-hAvarNA
+   oṃmogatimāgīrirvananorirvakhajimadanaśrīṃrvajaśaṃrirvapuṣaśaṃrirvaṣṭagaśaṃrirvatvaśaṃrirvakaśaṃrimumeśanasvānta	oM-mogatimA-gIriH-vananorirvaKaji-madana-SrIMrvaja-SaMriH-vapuza-SaMriH-u-azwa-gaSaMrirvatva-SaMriH-vaka-SaMri-muma-ISana-svAnta
+   mantrādi bījaṣaṭkaṃ prātilomyam iti aṣṭanavativarṇāḥ || Parks_10.40 ||	mantra-Adi bIja-zawkam prAtilomyam iti azwanavati-varNAH || ParkH-_10.40 ||
+   haraḥ sabindur vāpūrvarāhi sthāṇuḥ sabindur unmattapadaṃ bhaiśabdo	haraH sa-binduH vA-apUrva-rAhi sTANuH sa-binduH unmatta-padam BESabdaH-
+   ravipādukābhyāṃ nama iti vārtālyaṅgaṃ laghuvārtālī || Parks_10.41 ||	ravi-pAdukAByAm namaH iti vArtAlI-aFgam laGu-vArtAlI || ParkH-_10.41 ||
+   vedādibhuvanaṃ namo vārāhi ghore svapnaṃ ṭhadvitayaṃ agnidārā iti	veda-Adi-Buvanam namaH vArAhi Gore svapnam Wa-dvitayam agni-dArAH iti
+   vārtālyupāṅgaṃ svapnavārtālī svapne śubhāśubhaphalavaktrī || Parks_10.42	vArtAlI-upAFgam svapna-vArtAlI svapne SuBa-aSuBa-Pala-vaktrI || ParkH-_10.42
+   vāg ghṛdayaṃ bhagavati tiraskariṇi mahāmāye paśupadāj	vAc GRdayam Bagavati tiraskariNi mahA-mAye paSupadAt-
+   janamanaścakṣustiraskaraṇaṃ kurudvitayaṃ varma phaṭ pāvakaparigraha iti	jana-manaH-cakzuH-tiraskaraNam kuru-dvitayam varma Paw pAvaka-parigrahaH iti
+   vārtālīpratyaṅgaṃ, tiraskariṇī || Parks_10.43 ||	vArtAlI-pratyaFgaM, tiraskariNI || ParkH-_10.43 ||
+   śyāmāpādukāmantrāditribījam apahāya vāg glaum iti yojyam | eṣā	SyAmA-pAdukA-mantra-Adi-tri-bIjam apahAya vAc glOm iti yojyam | ezA
+   vārtālīpādukā || Parks_10.44 ||	vArtAlI-pAdukAH || ParkH-_10.44 ||
+   vidyābhir etābhir yuktā phālacakre paripūjyā bhagavatīyaṃ bhūdāramukhī ||	vidyABiH etABiH yuktA PAlacakre paripUjyA BagavatI-iyam BUdAra-muKI ||
+   Parks_10.45 ||	ParkH-_10.45 ||
+   manur idam īyo 'yaṃ vākpuṭitaṃ glauṃ	manuH idam IyaH ayam vAc-puwitam glOm
+   nabhavavālirtāvāhirāvahakhirāmuaṃaṃnimaḥdhedhinajaṃjaṃnimaḥhehinastaṃstaṃnimaḥrvaṣṭadunāṃrvesavākttakṣukhatihvābhakukuśīvaśabdā	na-Bava-vAliH-tO=-AhirAvaha-KirAm-uaMaMnimaH-DeDina-jaMjaMnimaH-hehinaH-tan=-taMnimaHH-vazwa-dunAMrvesa-vAkttakzu-Kati-hvA-Ba-kukuSIva-SabdA
+   yathākramaṃ	yaTAkramam
+   mogatirtāvālirāvāhirāmuvahakhidhedhinaruṃruṃnimaḥbhebhinamomonimaḥbhebhinasadupraṣṭāsaṣāṃrvacicarmugajistaṃnaṃrurughraṃśyaṃśabdopetā	mogatiH-tO=-Ali-H-AvAhirAm-u-vaha-KiDeDina-ruMruMnimaH-BeBina-maH-monimaHBeBina-sat-uprazwAsazAnrvaci-carmu-gajiH-taMnaMruru-GraMSyaMSabda-upetA
+   vāk glauṃ visṛṣṭyantāś ca saptamāś catvāro varmāstrāya phaḍ iti	vAc glOm visRzwi-antAH ca saptamAH catvAraH varma-astrAya Paw iti
+   dvādaśottaraśatākṣarā || Parks_10.46 ||	dvAdaSa-uttara-Sata-akzarAH || ParkH-_10.46 ||
+   pañcamaikādaśabījavarjā śrīr eva śrīpūrtividyā brahmakoṭare yaṣṭavyā ||	paQcama-ekAdaSa-bIja-varjA SrIH eva SrI-pUrti-vidyA brahma-koware yazwavyAH ||
+   Parks_10.47 ||	ParkH-_10.47 ||
+   śyāmāpādukāprathamatrikasthāne tāratrayaṃ kumārī vāk glauṃ iti yojyam |	SyAmA-pAdukA-praTama-trika-sTAne tAra-trayam kumArI vAc glOm iti yojyam |
+   tataḥ parastāc cheṣaṃ samānam || Parks_10.48 ||	tatas parastAt Sezam samAnam || ParkH-_10.48 ||
+   iyaṃ mahāpādukā sarvamantrasamaṣṭirūpiṇī svaikyavimarśinī	iyam mahApAdukA sarva-mantra-samazwi-rUpiNI sva-Ekya-vimarSinI
+   mahāsiddhipradāyinī dvādaśānte yaṣṭavyā || Parks_10.49 ||	mahA-sidDi-pradAyinI dvAdaSAnte yazwavyAH || ParkH-_10.49 ||
+   evaṃ raśmimālā sampūrṇā | sarvagātraḥ śuddhavidyāmayatanuḥ sa eva	evam raSmi-mAlA sampUrNAH | sarva-gAtraH SudDa-vidyA-maya-tanuH saH eva
+   paramaśivaḥ || Parks_10.50 ||	parama-SivaH || ParkH-_10.50 ||
+   atha vighnadevatāḥ | irimilikirikilipadāt parimirom ity ekaḥ | praṇavo	aTa viGna-devatAH | irimili-kirikilipadAt parimirom iti ekaH | praNavaH-
+   māyā namo bhagavati mahātripurād bhaivarṇād ravipadam anu mama	mAyA namaH Bagavati mahA-tripurAt BEvarNAt ravi-padam anu mama
+   traipurarakṣāṃ kuru kuru iti dvitīyaḥ | saṃhara saṃhara	trEpura-rakzAm kuru kuru iti dvitIyaH | saMhara saMhara
+   vighnarakṣovibhīṣakān kālaya huṃ phaṭ svāhā iti tṛtīyaḥ | blūṃ raktābhyo	viGna-rakzaH-viBIzakAn kAlaya hum Paw svAhA iti tRtIyaH | blUm rakta-aByaH-
+   yoginībhyo namaḥ iti caturthaḥ | sāṃ sārasāya bahvāśanāya namaḥ iti	yoginIByaH namaH iti caturTaH | sAm sArasAya bahvASanAya namaH iti
+   pañcamaḥ | dumuluṣu muluṣu māyā cāmuṇḍāyai namaḥ iti ṣaṣṭhaḥ | ete manavo	paQcamaH | dumuluzu muluzu mAyA cAmuNxAyE namaH iti zazWaH | ete manavaH-
+   lalitājapavighnadevatāḥ || Parks_10.51 ||	lalitA-japa-viGna-devatAH || ParkH-_10.51 ||
+   hasanti hasitālāpe padaṃ mātam uktvā gīparicārike mama bhayavighnanāśaṃ	hasanti hasita-AlApe padam mAtam uktvA gIparicArike mama Baya-viGna-nASam
+   kurudvitayaṃ savisargaṭhatritayam iti śyāmāvighnadevī || Parks_10.52 ||	kuru-dvitayam sa-visargaWa-tritayam iti SyAmA-viGna-devI || ParkH-_10.52 ||
+   staṃ stambhinyai namaḥ iti kolamukhīvighnadevī || Parks_10.53 ||	stam stamBinyE namaH iti kola-muKI-viGna-devI || ParkH-_10.53 ||
+   ete tattajjapārambhe japtavyāḥ || Parks_10.54 ||	ete tad-tad-japa-AramBe japtavyAH || ParkH-_10.54 ||
+   lalitā prāhṇe | aparāhṇe śyāmā | vārtālī rātrau | brāhme muhūrte parā ||	lalitA prAhNe | aparAhNe SyAmA | vArtAlI rAtrO | brAhme muhUrte parA ||
+   Parks_10.55 ||	ParkH-_10.55 ||
+   vyavahāradeśasvātmyaprāṇodvegasahāyāmayavayāṃsi pravicāryaiva tadanukūlaḥ	vyavahAra-deSa-svAtmya-prANa-udvega-sahAya-Amaya-vayAMsi pravicArya-eva tad-anukUlaH
+   pañcamādiparāmarśaḥ || Parks_10.56 ||	paQcama-Adi-parAmarSaH || ParkH-_10.56 ||
+   sarvabhūtair avirodhaḥ || Parks_10.57 ||	sarva-BUtEH aviroDaH || ParkH-_10.57 ||
+   paripanthiṣu nigrahaḥ || Parks_10.58 ||	paripanTizu nigrahaH || ParkH-_10.58 ||
+   anugrahaḥ saṃśriteṣu || Parks_10.59 ||	anugrahaH saMSritezu || ParkH-_10.59 ||
+   guruvat guruputrakalatrādiṣu vṛttiḥ || Parks_10.60 ||	guru-vat guru-putra-kalatra-Adizu vRttiH || ParkH-_10.60 ||
+   ādimasya svayaṃ sevanam āgamadṛṣṭyā doṣadaṃ tyājyam || Parks_10.61 ||	Adimasya svayam sevanam Agama-dRzwyA doza-dam tyAjyam || ParkH-_10.61 ||
+   sānandasya rucirasyāmodino laghuno vārkṣasya gauḍasya piṣṭaprakṛtinaḥ	sa-Anandasya rucirasya-AmodinaH laGunaH vArkzasya gOxasya pizwa-prakRtinaH
+   andhaso vālkalasya kausumasya vā yathādeśasiddhasya vā tasya parigrahaḥ ||	anDasaH vAlkalasya kOsumasya vA yaTAdeSa-sidDasya vA tasya parigrahaH ||
+   Parks_10.62 ||	ParkH-_10.62 ||
+   tadanantaraṃ madhyamayor asvayam asuvimocanam | upādime nāyaṃ niyamaḥ |	tad-anantaram maDyamayoH asvayam asu-vimocanam | upAdime na-ayam niyamaH |
+   madhyame tu svayaṃ saṃjñapane tatrāyaṃ mantraḥ	maDyame tu svayam saMjQapane tatra-ayam mantraH
+   udbudhyasva paśo tvaṃ hi nāśivas tvaṃ śivo hy asi |	udbuDyasva paSo tvam hi nASivaH tvam SivaH hi asi |
+   śivotkṛttam idaṃ piṇḍaṃ mattas tvaṃ śivatāṃ vraja ||	Siva-utkRttam idam piNxam mattaH tvam Siva-tAm vrajaH ||
+   iti || Parks_10.63 ||	iti || ParkH-_10.63 ||
+   sarvatra vacanapūrvaṃ pravṛttiḥ || Parks_10.64 ||	sarvatra vacana-pUrvam pravRttiH || ParkH-_10.64 ||
+   daśakulavṛkṣānupaplavaḥ || Parks_10.65 ||	daSa-kula-vRkzAn-upaplavaH || ParkH-_10.65 ||
+   strīvṛndādimakalaśasiddhaliṅgikrīḍākulakumārīkulasahakārāśokaikataruparetāvanimattaveśyāśyāmāraktavasanāmattebhānāṃ	strI-vRnda-Adi-makalaSa-sidDa-liFgi-krIxA-kula-kumArI-kula-sahakAra-aSoka-eka-taru-pareta-avanimatta-veSyA-SyAmA-rakta-vasanA-matta-iBAnAm
+   darśane vandanam || Parks_10.66 ||	darSane vandanam || ParkH-_10.66 ||
+   pañcaparvasu viśeṣārcā || Parks_10.67 ||	paQca-parvasu viSeza-arcAH || ParkH-_10.67 ||
+   ārambhataruṇayauvanaprauḍhatadantonmanānavasthollāseṣu prauḍhāntāḥ	AramBa-taruNa-yOvana-prOXata-d-anta-unmanAn-avasTa-ullAsezu prOXa-antAH
+   samayācārāḥ | tataḥ paraṃ yathākāmī | svairavyavahāreṣu vīrāvīreṣv	samaya-AcArAH | tatas param yaTAkAmI | svEra-vyavahArezu vIrA-vIrezu-
+   ayathāmananād adhaḥ pātaḥ || Parks_10.68 ||	ayaTAmananAt aDas pAtaH || ParkH-_10.68 ||
+   raktātyāgaviraktākramaṇodāsīnāpralobhanavarjanam || Parks_10.69 ||	rakta-atyAga-virakta-AkramaNa-udAsInA-praloBana-varjanam || ParkH-_10.69 ||
+   ghṛṇāśaṅkābhayalajjājugupsākulajātiśīlānāṃ krameṇāvasādanam || Parks_10.70	GRNA-SaFkA-Baya-lat-jAju-gupsA-kula-jAti-SIlAnAm krameNa-avasAdanam || ParkH-_10.70
+   gurupragurusannipāte praguroḥ prathamaṃ praṇatiḥ tadagre tadanurodhena	guru-praguru-sannipAte praguroH praTamam praNatiH tad-agre tad-anuroDena
+   tannativarjanam || Parks_10.71 ||	tat-nati-varjanam || ParkH-_10.71 ||
+   abhyarhiteṣv aparāṅmukhyam || Parks_10.72 ||	aByarhitezu aparAFmuKyam || ParkH-_10.72 ||
+   mukhyatayā prakāśavibhāvanā || Parks_10.73 ||	muKya-tayA prakASa-viBAvanA || ParkH-_10.73 ||
+   adhijigamiṣā śarīrārthāsūnāṃ gurave dhāraṇam || Parks_10.74 ||	aDijigamizA SarIra-arTa-asUnAm gurave DAraNam || ParkH-_10.74 ||
+   etaduktakaraṇam || Parks_10.75 ||	etat-ukta-karaNam || ParkH-_10.75 ||
+   aparīkṣaṇaṃ tadvacane vyavasthā || Parks_10.76 ||	aparIkzaNam tad-vacane vyavasTA || ParkH-_10.76 ||
+   sarvathā satyavacanam || Parks_10.77 ||	sarvaTA satya-vacanam || ParkH-_10.77 ||
+   paradāradhaneṣv anāsaktiḥ || Parks_10.78 ||	para-dAra-Danezu anAsaktiH || ParkH-_10.78 ||
+   svastutiparanindāmarmaviruddhavacanaparihāsadhikkārākrośatrāsanavarjanam	sva-stuti-para-nindA-marma-virudDa-vacana-parihAsa-DikkAra-AkroSa-trAsana-varjanam
+   || Parks_10.79 ||	|| ParkH-_10.79 ||
+   prayatnena vidyārādhanadvārā pūrṇakhyātisamāveśanecchā cety ete	prayatnena vidyA-ArADana-dvArA pUrNa-KyAti-samAveSana-icCA ca-iti ete
+   sāmāyikācārāḥ || Parks_10.80 ||	sAmAyika-AcArAH || ParkH-_10.80 ||
+   pare ca śāstrānuśiṣṭāḥ || Parks_10.81 ||	pare ca SAstra-anuSizwAH || ParkH-_10.81 ||
+   itthaṃ viditvā vidhivad anuṣṭhitavataḥ kulaniṣṭhasya sarvataḥ kṛtakṛtyatā	itTam viditvA viDivat anuzWitavataH kula-nizWasya sarvatas kRtakRtya-tA
+   śarīratyāge śvapacagṛhakāśyor nāntaraṃ jīvanmuktaḥ || Parks_10.82 ||	SarIra-tyAge Svapaca-gRha-kASyoH na-antaram jIvanmuktaH || ParkH-_10.82 ||
+   ya imāṃ daśakhaṇḍīṃ mahopaniṣadaṃ mahātraipurasiddhāntasarvasvabhūtām	yaH imAm daSa-KaNxIm mahA-upanizadam mahA-trEpura-sidDAnta-sarvasva-BUtAm
+   adhīte saḥ sarveṣu yajñeṣu yaṣṭā bhavati yaṃ yaṃ kratum adhīte tena	aDIte saH sarvezu yajQezu yazwA Bavati yam yam kratum aDIte tena
+   tenāsyeṣṭaṃ bhavati iti hi śrūyate ity upaniṣat iti śivam || Parks_10.83	tena-asya-izwam Bavati iti hi SrUyate iti upanizad iti Sivam || ParkH-_10.83
+   athātaḥ sarveṣāṃ mantrāṇāṃ, atha sveṣṭamantrasya, iti vidhivat, itthaṃ	aTa-atas sarvezAm mantrANAn, aTa sva-izwa-mantrasya, iti viDivat, itTam
+   sāṅgāṃ, iyam eva mahatī vidyā, atha prāthamike caturasre, atha	sa-aFgAn, iyam eva mahatI vidyA, aTa prATamike caturasre, aTa
+   hṛccakrasthitāṃ, evaṃ gaṇapatim iṣṭvā, itthaṃ sadguroḥ, athāto dīkṣāṃ	hRd-cakra-sTitAn, evam gaNapatim izwvA, itTam sat-guroH, aTa-atas dIkzAm
+   vyākhyāsyāmaḥ | atha, evam, atha, ittham, atha sveṣṭeti pañca ||	vyAKyAsyAmaH | aTa, evam, aTa, itTam, aTa svezwA-iti paQca ||
+   Parks_10.84 ||	ParkH-_10.84 ||
+   iti	iti
+   śrīduṣṭakṣatriyakulakālāntakareṇukāgarbhasambhūtamahādevapradhānaśiṣyajāmadagnyaśrīparaśurāmabhārgavamahopādhyāyamahākulācāryanirmitaṃ	SrI-duzwa-kzatriya-kula-kAla-antaka-reNukA-garBa-samBUta-mahAdeva-praDAna-Sizya-jAmadagnya-SrI-paraSurAma-BArgava-mahA-upADyAya-mahA-kula-AcArya-nirmit
+   kalpasūtraṃ saṃpūrṇam || Parks_10.85 ||	kalpasUtram saMpUrNam || ParkH-_10.85 ||

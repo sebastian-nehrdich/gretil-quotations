@@ -1,0 +1,527 @@
+   Ajitasenavyākaraṇam	Ajita-sena-vyAkaraNam
+   // om namaḥ sarvajñāya //	// om namaH sarvajQAya //
+   evaṃ mayā śrutamekasmin samaye bhagavān śrāvastyāṃ viharati sma jetavane	evam mayA Srutam-ekasmin samaye BagavAn SrAvastyAm viharati sma jetavane
+   anāthapiṇḍadasyārāme mahātā bhikṣusaṅghena	anATapiNxadasya-ArAme mahAtA Bikzu-saFGena
+   sārdhamardhatrayodaśabhirbhikṣusahasraiḥ / tadyathā āyuṣmatā	sArDam-arDa-trayodaSaBiH-Bikzu-sahasrEH / tat-yaTA AyuzmatA
+   cājñātakauṇḍinyena āyuṣmatā ca mahānāmnā āyuṣmatā ca revatena āyuṣmatā ca	ca-ajQAta-kONxinyena AyuzmatA ca mahAnAmnA AyuzmatA ca revatena AyuzmatA ca
+   vakkulena āyuṣmatā ca śāriputreṇa āyuṣmatā ca pūrṇena maitrāyaṇīputreṇa ca	vakkulena AyuzmatA ca SAriputreNa AyuzmatA ca pUrNena mEtrAyaNI-putreNa ca
+   śrāvakaniyutaiḥ / te sarve yena bhagavān yena ca jetavanaṃ vihāraṃ	SrAvaka-niyutEH / te sarve yena BagavAn yena ca jetavanam vihAram
+   tenopasaṅkrāntā bhagavataḥ pādau śirasābhivandya bhagavataḥ	tena-upasaFkrAntAH BagavataH pAdO SirasA-aBivandya BagavataH
+   puratastasthurdvātriṃśatā bodhisattvasahasraiḥ / tadyathā	puratas-tasTuH-dvAtriMSatA boDisattva-sahasrEH / tat-yaTA
+   sahacittotpādadharmacakrapravartanena ca bodhisattvena mahāsattvena	saha-citta-utpAda-Darma-cakra-pravartanena ca boDisattvena mahAsattvena
+   anikṣiptadhureṇa ca bodhisattvena mahāsattvena maitreyeṇa ca bodhisattvena	anikzipta-DureNa ca boDisattvena mahAsattvena mEtreyeNa ca boDisattvena
+   mahāsattvena avalokiteśvareṇa ca bodhisattvena mahāsattvena	mahAsattvena avalokita-ISvareNa ca boDisattvena mahAsattvena
+   mahāsthāmaprāptena ca bodhisattvena mahāsattvena /	mahA-sTAma-prAptena ca boDisattvena mahAsattvena /
+   evampramukhairdātriṃśatā bodhisattvasahasraiḥ / te sarve yena bhagavān	evampramuKEH-dAtriMSatA boDisattva-sahasrEH / te sarve yena BagavAn
+   yena ca jetavanaṃ vihāraṃ tenopasaṅkrāntā bhagavataḥ pādau śirasābhivandya	yena ca jetavanam vihAram tena-upasaFkrAntAH BagavataH pAdO SirasA-aBivandya
+   bhagavataḥ puratastasthuḥ / atha khalu bhagavān pūrvāhṇakālasamaye nivāsya	BagavataH puratas-tasTuH / aTa Kalu BagavAn pUrvAhNa-kAla-samaye nivAsya
+   pātracīvaramātraḥ śrāvastīṃ mahānagarīṃ piṇḍāya prāviśat / atha	pAtra-cIvara-mAtraH SrAvastIm mahA-nagarIm piNxAya prAviSat / aTa
+   bhagavānāyuṣmantamānandamāmantrayate (Asv 104) sma / gacchānanda pātraṃ	BagavAn-Ayuzmantam-Anandam-Amantrayate (Asu 104) sma / gacCa-Ananda pAtram
+   cakrikaṃ śikyamānaya / athāyuṣmānānando bhagavataḥ śrutamātreṇa pātraṃ	cakrikam Sikyam-Anaya / aTa-AyuzmAn-AnandaH BagavataH Sruta-mAtreNa pAtram
+   cakrikaṃ śikyaṃ bhagavate upanāmayāmāsa / athāyuṣmānānando bhagavataḥ	cakrikam Sikyam Bagavate upanAmayAmAsa / aTa-AyuzmAn-AnandaH BagavataH
+   kṛtāñjalipuṭo bhagavantaṃ gāthābhiradhyabhāṣata /	kRta-aQjali-puwaH Bagavantam gATABiH-aDi-aBAzata /
+   yadā tvaṃ praviśasi piṇḍapātika vimocaye tvaṃ bahavaṃ hi prāṇinām /	yadA tvam praviSasi piNxapAtika vimocaye tvam bahavam hi prANinAm /
+   uttāraye tvaṃ bahavaṃ hi sattvā narakabhayājjātijarāmahābhayā //	uttAraye tvam bahavam hi sattvAH naraka-BayAt-jAti-jarA-mahA-BayA //
+   saṃsāraduḥkhakalilā mahābhayādvimocaye tvaṃ nara lokanāyaka /	saMsAra-duHKa-kalilA mahA-BayAt-vimocaye tvam nara loka-nAyakaH /
+   mahānubhāvo varadakṣiṇīyo vimocayitvā punaraṃ hi āgamī //	mahA-anuBAvaH vara-dakziNIyaH vimocayitvA punar-am hi AgamI //
+   athāyuṣmānānando bhagavata imā gāthā bhāṣitvā tūṣṇīṃ sthito 'bhūt / atha	aTa-AyuzmAn-AnandaH BagavataH imA gATA BAzitvA tUzNIm sTitaH aBUt / aTa
+   bhagavān śrāvastyāṃ mahānagaryāṃ nātidūre sthito 'bhūt / atha te sarve	BagavAn SrAvastyAm mahA-nagaryAm na-ati-dUre sTitaH aBUt / aTa te sarve
+   gavākṣatoraṇaniryūhakā hiraṇyamayāḥ sphaṭikamayā rūpyamayāḥ prādurabhūvan	gavAkza-toraNa-niryUhakAH hiraNya-mayAH sPawika-mayAH rUpya-mayAH prAduraBUvan
+   / tathā śrāvastyāṃ mahānagaryāṃ mahāntaṃ janakāyaṃ saṃsthito 'bhūvan /	/ taTA SrAvastyAm mahA-nagaryAm mahAntam jana-kAyam saMsTitaH aBUvan /
+   atha sa janakāyaḥ saṃśayajāto babhūva ko hetuḥ kaḥ pratyayaḥ nagarasya	aTa sa jana-kAyaH saMSaya-jAtaH baBUva kaH hetuH kaH pratyayaH nagarasya
+   śubhanimittaṃ prādurabhūt / mā cedaṃ nagaraṃ bhasmapralayaṃ syāt / atha	SuBa-nimittam prAduraBUt / mA ca-idam nagaram Basma-pralayam syAt / aTa
+   tatra janakāye anekavarṣaśatasahasrakoṭīko (Asv 105) vṛddhamahallakaḥ	tatra jana-kAye aneka-varza-Sata-sahasra-kowIkaH (Asu 105) vRdDamahallakaH
+   puruṣaḥ saṃsthito 'bhūt / atha sa puruṣastaṃ janakāyaṃ	puruzaH saMsTitaH aBUt / aTa sa puruzaH-tam jana-kAyam
+   samāśvāsayannevamāha / mā bhaiṣurbhoḥ kulaputrāḥ / asminneva	samASvAsayan=-evam-Aha / mA BEzuH-BoH kula-putrAH / asmin=-eva
+   pṛthivīpradeśe jetavanaṃ nāma vihāraḥ / tatra śākyamunirnāma tathāgato	pRTivI-pradeSe jetavanam nAma vihAraH / tatra SAkyamuniH-nAma taTAgataH-
+   'rhan samyaksambuddho vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ	arhan samyaksambudDaH vidyA-caraNa-sampannaH sugataH loka-vid-anuttaraH
+   puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān / so	puruza-damya-sAraTiH SAstA devAnAm ca manuzyANAm ca budDaH BagavAn / saH-
+   'yaṃ śrāvastīṃ mahānagarīṃ piṇḍāya prāviśat / tasyāgamanakālasamaye idaṃ	ayam SrAvastIm mahA-nagarIm piNxAya prAviSat / tasya-Agamana-kAla-samaye idam
+   śubhanimittamabhūt / atha sa janakāyastaṃ jīrṇakaṃ puruṣaṃ	SuBa-nimittam-aBUt / aTa sa janakAyaH-tam jIrNakam puruzam
+   kṛtāñjalirevamāha / yattasya bhagavatastathāgatasyārhataḥ	kRtAQjaliH-evam-Aha / yat-tasya BagavataH-taTAgatasya-arhataH
+   samyaksambuddhasya guṇavarṇasamudīraṇasamaye idaṃ śubhanimittamabhūt /	samyaksambudDasya guNa-varNa-samudIraNa-samaye idam SuBa-nimittam-aBUt /
+   dṛṣṭamātrasya tasya tathāgatasyārhataḥ samyaksambuddhasya kīdṛśaḥ	dRzwa-mAtrasya tasya taTAgatasya-arhataH samyaksambudDasya kIdRSaH
+   puṇyābhisaṃskāro bhaviṣyati / atha sa jīrṇakapuruṣastaṃ janakāyaṃ	puNya-aBisaMskAraH Bavizyati / aTa sa jIrNaka-puruzaH-tam jana-kAyam
+   bhagavato guṇavarṇasamudīraṇatayā gāthābhiradhyabhāṣata /	BagavataH guNa-varNa-samudIraNa-tayA gATABiH-aDi-aBAzata /
+   yo lokanāthasya hi nāmu yaḥ śruṇe saṃsāraduḥkhā vinimuktu so naro /	yaH loka-nATasya hi na-amu yaH SruNe saMsAra-duHKAH vinimuktu saH naraH /
+   āpāyagāmī na kadāci bheṣyate svargaṃ ca so yāsyati śīghramevam //	ApAya-gAmI na kadAci Bezyate svargam ca saH yAsyati SIGram-evam //
+   yo lokanāthasya hi nāmu yaḥ śruṇe dṛḍhapratijño bahukalpakoṭibhiḥ /	yaH loka-nATasya hi na-amu yaH SruNe dRXa-pratijQaH bahu-kalpa-kowiBiH /
+   mahānubhāvo sugato mahātmanaḥ kalpānakoṭīnayutānacintiyān // (Asv 106)	mahA-anuBAvaH sugataH mahAtmanaH kalpAn-a-kowIn-a-yutAn-acintiyAn // (Asu 106)
+   so bodhisattvo sthita gaṅgavālukān kadāci so gacchati durgatī bhayam /	saH boDisattvaH sTitaH gaFgavAlukAn kadAci saH gacCati durgatI Bayam /
+   yo lokanāthasya hi nāmu yaḥ śruṇe āpāyagāmī na kadāci bheṣyate //	yaH loka-nATasya hi na-amu yaH SruNe ApAya-gAmI na kadAci Bezyate //
+   kalpānakoṭīnayutānacintiyā rājā sa bhotī sada cakravartī /	kalpAn-a-kowIn-a-yutAn-acintiyA rAjA sa BotI sada cakravartI /
+   yo lokanāthasya hi nāmu dhārayet //	yaH loka-nATasya hi na-amu DArayet //
+   yat kiñci pūrvaṃ sada pāpu yat kṛtaṃ sarvaṃ kṣayaṃ yāsyati śīghrametat /	yat kiQci pUrvam sada pApu yat kRtam sarvam kzayam yAsyati SIGram-etat /
+   śakropi devendramahānubhāvo kalpānakoṭīnayutānacintiyā //	Sakropi deva-indra-mahA-anuBAvaH kalpAna-kowIn-a-yutAn-acintiyA //
+   sukhāvatīṃ gacchati buddhakṣetraṃ paryaṅkabaddho sa ca bodhisattvo /	suKAvatIm gacCati budDa-kzetram paryaFka-badDaH sa ca boDisattvaH /
+   brahmasvaro susvaru mañjughoṣa bhavanti varṣānasahasrakoṭibhiḥ //	brahma-svaraH susvaru maQjuGoza Bavanti varzAna-sahasra-kowiBiH //
+   apāyagāmī na kadāci bheṣyate yo lokanāthasya hi nāmu dhārayet /	apAya-gAmI na kadAci Bezyate yaH loka-nATasya hi na-amu DArayet /
+   atha sa jīrṇakaḥ purūṣo janakāyaṃ bhagavato guṇavarṇamudīrayitvā tūṣṇīṃ	aTa sa jIrNakaH purUzaH jana-kAyam BagavataH guNa-varNam-udIrayitvA tUzNIm
+   sthito 'bhūt / atha bhagavān pūrveṇa nagaradvāreṇa śrāvastīṃ mahānagarīṃ	sTitaH aBUt / aTa BagavAn pUrveNa nagara-dvAreNa SrAvastIm mahA-nagarIm
+   praviṣṭo 'bhut / tatra ca nagaradvāre dvādaśakoṭyaḥ padmānāṃ prādurabhūvan	pravizwaH aBut / tatra ca nagara-dvAre dvAdaSa-kowyaH padmAnAm prAduraBUvan
+   / teṣu ca padmeṣu dvādaśakoṭyo bodhisattvānāṃ paryaṅkaniṣaṇṇāḥ (Asv 107)	/ tezu ca padmezu dvAdaSa-kowyaH boDisattvAnAm paryaFka-nizaNNAH (Asu 107)
+   prādurabhūvan prāñjalayaḥ / atha bhagavataḥ praviṣṭamātreṇa śrāvastyāṃ	prAduraBUvan prAQjalayaH / aTa BagavataH pravizwa-mAtreNa SrAvastyAm
+   mahānagaryāṃ navanavatikoṭīniyutaśatasahasrāṇi sattvānāṃ sukhāvatyāṃ	mahA-nagaryAm navanavati-kowI-niyuta-Sata-sahasrANi sattvAnAm suKAvatyAm
+   lokadhātau pratiṣṭhāpitāni	lokaDAtO pratizWApitAni
+   caturaśītisattvakoṭīniyutaśatasahasrāṇyābhiratyā	caturaSIti-sattva-kowI-niyuta-Sata-sahasrANi-ABiratyA
+   lokadhātorakṣobhyatathāgatasya buddhakṣetre pratiṣṭhāpitāni /	lokaDAtoH-akzoBya-taTA-gatasya budDa-kzetre pratizWApitAni /
+   atha bhagavān ānandena saha nagaravalambikāyā dārikāya gṛhe samāgato	aTa BagavAn Anandena saha nagara-valambikAyAH dArikAya gRhe samAgataH-
+   'bhūta / atha bhagavān nagaravalambikāyā dārikāyā gṛhe cakrikaṃ	aBUta / aTa BagavAn nagara-valambikAyAH dArikAyAH gRhe cakrikam
+   kaṭakaṭāpayāmāsa / atha sā dārikā taṃ cakrīśabdaṃ śrutvā saṃśayajātābhūt /	kawa-kawApayAmAsa / aTa sA dArikA tam cakrI-Sabdam SrutvA saMSaya-jAtA-aBUt /
+   ko hetuḥ kaḥ pratyayaḥ / mama gṛhe na kadācit piṇḍapātika āgato 'bhūt /	kaH hetuH kaH pratyayaH / mama gRhe na kadAcid piNxapAtikaH AgataH aBUt /
+   atha sa nagaravalambikā dārikā śūnyākāragṛhe niṣaṇṇā aśrukaṇṭhī rudantī	aTa sa nagaravalambikA dArikA SUnya-AkAra-gRhe nizaNNA aSru-kaNWI rudantI
+   paridevantī sthitābhūt tīkṣṇadhāramasiṃ gaveṣantī paridevantī rudantī	paridevantI sTitA-aBUt tIkzNaDAram-asim gavezantI paridevantI rudantI
+   sthitābhūt / atha sā dārikā śūnyākāragṛhe niṣaṇṇā paridevantī aśrukaṇṭhī	sTitA-aBUt / aTa sA dArikA SUnya-AkAra-gRhe nizaNNA paridevantI aSru-kaNWI
+   rudantī gāthābhiradhyabhāṣata /	rudantI gATABiH-aDyaBAzata /
+   aho bata duḥkhu daridrake gṛhe varaṃ mama maraṇu na cāpi jīvitam /	aho bata duHKu daridrake gRhe varam mama maraNu na ca-api jIvitam /
+   kiṃ cāpi me kāryuṣu jīvitena yadyaivāhaṃ duḥkhu śarīra pīḍitam //	kim ca-api me kAryuzu jIvitena yadi-a-eva-aham duHKu SarIra pIxitam //
+   kana.......................hyatrāṇaṃ bhavate parāyaṇam /	kana.......................hya-trANam Bavate parAyaNam /
+   anāthabhūtā ahamadyameva yadyaivāhaṃ jāta daridrake gṛhe // (Asv 108)	anATa-BUtAH aham-adyam-eva yadi-a-eva-aham jAta daridrake gRhe // (Asu 108)
+   atha sa nagaravalambikā dārikā śūnyākāragṛhe niṣaṇṇā imā gāthā bhāṣitvā	aTa sa nagaravalambikA dArikA SUnya-AkAra-gRhe nizaNNAH imA gATA BAzitvA
+   tūṣṇīṃ sthitābhūt /	tUzNIm sTitA-aBUt /
+   atha śuddhavāsakāyiko devaputro 'ntarīkṣagataḥ sthitaścintayati sma /	aTa SudDa-vAsa-kAyikaH deva-putraH antarIkza-gataH sTitaH-cintayati sma /
+   paśyeccedimāṃ bhagavān / anekaduṣkarakoṭiniyutaśatasahasracīrṇacaritaḥ sa	paSyet-ced-imAm BagavAn / aneka-duzkara-kowi-niyuta-Sata-sahasra-cIrNa-caritaH sa
+   śākyamunistathāgato nagaravalambikāyā dārikāyā gṛhe sthito 'bhūt / atha	SAkya-muniH-taTAgataH nagara-valambikAyAH dArikAyAH gRhe sTitaH aBUt / aTa
+   śuddhavāsakāyiko devaputraḥ śatasahasramūlyaṃ muktāhāraṃ gṛhītvā	SudDa-vAsa-kAyikaH deva-putraH Sata-sahasra-mUlyam muktA-hAram gRhItvA
+   śatarasabhojanapiṭakaṃ gṛhītvā kāśikāni vastrāṇi gṛhītvā yena	Sata-rasa-Bojana-piwakam gRhItvA kASikAni vastrANi gRhItvA yena
+   nagaravalambikāyā dārikāyā gṛhaṃ tenopasaṅkrānto 'bhūt / atha	nagara-valambikAyAH dArikAyAH gRham tena-upasaFkrAntaH aBUt / aTa
+   śuddhavāsakāyiko devaputro nagaravalambikāṃ dārikāmevamāha / prāvara	SudDa-vAsa-kAyikaH deva-putraH nagara-valambikAm dArikAm-evam-Aha / prAvara
+   dārike imāni kāśikāni vastrāṇi imānyanekaśatasahasramūlyānyābharaṇāni /	dArike imAni kASikAni vastrANi imAni-aneka-Sata-sahasra-mUlyAni-ABaraNAni /
+   prāvṛtya cedaṃ śatasahasramūlyaṃ muktāhāraṃ gṛhītvā imaṃ	prAvRtya ca-idam Sata-sahasra-mUlyam muktA-hAram gRhItvA imam
+   śatarasabhojanapiṭakaṃ gṛhītvā bhagavantamupanāmaya / atha sā dārikā tāni	Sata-rasa-Bojana-piwakam gRhItvA Bagavantam-upanAmaya / aTa sA dArikA tAni
+   kāśikāni vastrāṇi prāvṛtya śatasahasramūlyaṃ muktāhāraṃ gṛhītvā taṃ	kASikAni vastrANi prAvRtya Sata-sahasra-mUlyam muktA-hAram gRhItvA tam
+   śatarasabhojanapiṭakaṃ gṛhītvā yena bhagavāṃstenopasaṅkrāntā /	Sata-rasa-Bojana-piwakam gRhItvA yena BagavAn=-tena-upasaFkrAntA /
+   upasaṅkramya bhagavantamupanāmayati sma / atha bhagavān tāṃ	upasaFkramya Bagavantam-upanAmayati sma / aTa BagavAn tAm
+   nagaravalambikāmevamāha / pariṇāmaya tvaṃ dārike yathā pariṇāmitaṃ	nagara-valambikAm-evam-Aha / pariNAmaya tvam dArike yaTA pariNAmitam
+   vipaśyiśikhiviśvabhūkkakutasundakanakamunikāśyapaprabhṛtibhiḥ	vipaSyi-SiKi-viSva-BUkka-kuta-sunda-kanaka-muni-kASyapa-praBRtiBiH
+   sadbhistathāgatairarhadbhiḥ samyaksambuddhaiḥ / anto bhaviṣyati	sadBiH-taTAgatEH-arhadBiH samyaksambudDEH / antaH Bavizyati
+   strībhāvādanto bhaviṣyati daridragṛhāt / atha sā dārikā taṃ piṇḍapātaṃ	strI-BAvAt-antaH Bavizyati daridra-gRhAt / aTa sA dArikA tam piNxa-pAtam
+   pariṇāmayitvā (Asv 109) bhagavantamupanāmayāmāsa / anena	pariNAmayitvA (Asu 109) Bagavantam-upanAmayAmAsa / anena
+   piṇḍapātakuśalamūlena mā kaśmiṃścid daridragṛhe upapadyeya /	piNxa-pAta-kuSala-mUlena mA kaSmiMScid daridra-gRhe upapadyeya /
+   atha sā nagaravalambikā dārikā taṃ piṇḍapātaṃ pariṇāmayitvā bhagavate	aTa sA nagaravalambikA dArikA tam piNxa-pAtam pariNAmayitvA Bagavate
+   dattvā svagṛhagamanamārabdhā / atha bhagavān tāṃ nagaravalambikāṃ	dattvA sva-gRha-gamanam-ArabDAH / aTa BagavAn tAm nagara-valambikAm
+   dārikāmevamāha / pratinivartasva dārike / pūrvejātinidānaṃ samanusmarāmi /	dArikAm-evam-Aha / pratinivartasva dArike / pUrvejAti-nidAnam samanusmarAmi /
+   tadahaṃ parikīrtayiṣyāmi / atha sā dārikā pratinivṛtya sarvāṅgapraṇipātena	tat-aham parikIrtayizyAmi / aTa sA dArikA pratinivRtya sarva-aFga-praNipAtena
+   bhagavantaṃ prapatitā / atha sā nagaravalambikā dārikā bhagavantaṃ	Bagavantam prapatitA / aTa sA nagaravalambikA dArikA Bagavantam
+   gāthābhiradhyabhāṣata /	gATABiH-aDi-aBAzata /
+   avaśyaṃ me pūrvakṛtena karmaṇā yenāhaṃ jāta daridrake gṛhe /	avaSyam me pUrva-kRtena karmaNA yena-aham jAta daridrake gRhe /
+   karohi kāruṇya mamaṃ hi duḥkhita vinivartayasva narakā hi pālān //	karohi kAruNya mamam hi duHKita vinivartayasva narakAH hi pAlAn //
+   karohi kāruṇya mama duḥkhitāyā istribhāvā upapannu nāyaka /	karohi kAruNya mama duHKitAyAH iH-tri-BAvAH upapannu nAyakaH /
+   tvaṃ lokanātha jaravyādhiśoka vimocaye maṃ mama duḥkhitāyāḥ //	tvam lokanATa jara-vyADi-Soka vimocaye mam mama duHKitAyAH //
+   trāṇaṃ bhavāhī śaraṇaṃ parāyaṇaṃ vimocayāhī mama duḥkhitāyāḥ /	trANam BavAhI SaraNam parAyaNam vimocayAhI mama duHKitAyAH /
+   kṛtaṃ hi nātha praṇidhiṃ tvayā hi ye keci sattvā iha jambudvīpe // (Asv	kRtam hi nATa praNiDim tvayA hi ye keci sattvAH iha jambudvIpe // (Asu-
+   tiṣṭhanti ye vai daśasu diśāsu sattvā hi sarve sukhitā kariṣye /	tizWanti ye vE daSasu diSAsu sattvAH hi sarve suKitA karizye /
+   sarve ca haṃ mocayi duḥkhasāgarāt trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam //	sarve ca ham mocayi duHKa-sAgarAt trANam BavAhI SaraNam parAyaNam //
+   tvayaṃ hi nātha mayi mocayī jagat avaśyaṃ me pūrvakṛtena karmaṇā /	tu-ayam hi nATa mayi mocayI jagat avaSyam me pUrva-kRtena karmaNA /
+   yenāhaṃ jātu daridrake gṛhe trāṇaṃ bhavāhī mama duḥkhitāyāḥ //	yena-aham jAtu daridrake gRhe trANam BavAhI mama duHKitAyAH //
+   bhavaṃ tu nātha jaravyādhimocakaṃ trāṇaṃ bhavāhī guṇa sañcitāgra /	Bavam tu nATa jara-vyADi-mocakam trANam BavAhI guNa saQcita-agre /
+   na cā kariṣye punareva pāpaṃ yadvedayāmī imi vedanāni //	na cA karizye punar-eva pApam yat-vedayAmI imi vedanAni //
+   kṛpaṃ jani...............magra sattvā trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam /	kRpam jani...............magra sattvA trANam BavAhI SaraNam parAyaNam /
+   ye keci sattvā iha jambudvīpe nāmaṃ ca vai dhāraya paśca kāle //	ye keci sattvAH iha jambudvIpe nAmam ca vE DAraya paH-ca kAle //
+   parinirvṛtasya tata paścakāle bhaviṣyati śāsanavipralopam /	parinirvRtasya tata paSca-kAle Bavizyati SAsana-vipralopam /
+   yatakiñci pāpaṃ tadapūrva yat kṛtaṃ sarvaṃ kṣayaṃ yāsyati śīghrametat //	yata-kiQci pApam tat-apUrva yat kRtam sarvam kzayam yAsyati SIGram-etat //
+   atha sā nagaravalambikā dārikā bhagavantaṃ gāthā bhāṣitvā punarapi	aTa sA nagaravalambikA dArikA Bagavantam gATAH BAzitvA punar-api
+   gṛhagamanamārabdhā / atha bhagavān tāṃ nagaravalambikāṃ (Asv 111) dārikāṃ	gRha-gamanam-ArabDAH / aTa BagavAn tAm nagara-valambikAm (Asu 111) dArikAm
+   kalaviṅkarutasvaranirghoṣeṇaivamāha / pratinivartasva dārike	kalaviFka-ruta-svara-nirGozeNa-evam-Aha / pratinivartasva dArike
+   pūrvajātinidānaṃ samanusmarāmi tadahaṃ parikīrtayiṣyāmi / atha sā dārikā	pUrva-jAti-nidAnam samanusmarAmi tat-aham parikIrtayizyAmi / aTa sA dArikA
+   pratinivṛtyaivamāha /	pratinivRtya-evam-Aha /
+   parikīrtaya lokavināyakādya yadyat kṛtaṃ pāpa sadā sudāruṇam /	parikIrtaya loka-vinAyaka-adya yat-yat kRtam pApa sadA su-dAruNam /
+   avaśya me pāpu kṛtaṃ sudāruṇaṃ yenāhaṃ jātu daridrake gṛhe //	avaSya me pApu kRtam su-dAruNam yena-aham jAtu daridrake gRhe //
+   tvaṃ sārthavāhu iha sarvaloke vimocaye mam iha istribhāvā /	tvam sArTavAhu iha sarva-loke vimocaye mam iha iH-tri-BAvAH /
+   trāṇaṃ bhavāhī śaraṇaṃ parāyaṇaṃ kṛtajñahaṃ nitya bhavāmi nāyake //	trANam BavAhI SaraNam parAyaNam kRtajQaham nitya BavAmi nAyake //
+   saṃśrāvaye mam imu dharmanetrī nāsau kadācittajate apāyam /	saMSrAvaye mam imu DarmanetrI na-asO kadAcid-tajate apAyam /
+   saṃśodhayī karma yathākṛtaṃ mayā trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam //	saMSoDayI karma yaTA-akRtam mayA trANam BavAhI SaraNam parAyaNam //
+   asaṅgajñānī varalokanāyaka vandāmi nātha śaraṇaṃ kṛtāñjalī //	asaFga-jQAnI vara-loka-nAyaka vandAmi nATa SaraNam kRtAQjalI //
+   atha bhagavān tāṃ dārikāmevamāha / bhūtapūrvo dārike atīte 'dhvani	aTa BagavAn tAm dArikAm-evam-Aha / BUta-pUrvaH dArike atIte aDvani
+   asaṅkhyeyaiḥ kalpai ratnaśikhī nāma tathāgato 'rhan samyaksambuddho	asaFKyeyEH kalpEH ratnaSiKI nAma taTAgataH arhan samyaksambudDaH-
+   vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā	vidyA-caraNa-sampannaH sugataH loka-vid-anuttaraH puruza-damya-sAraTiH SAstA
+   devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān / tena (Asv 112) khalu punaḥ	devAnAm ca manuzyANAm ca budDaH BagavAn / tena (Asu 112) Kalu punar-
+   samayena padmāvatī nāma rājadhānyabhūt / tena khalu punaḥ samayena	samayena padmAvatI nAma rAjaDAnya-BUt / tena Kalu punar samayena
+   padmāvatyāṃ rājadhānyāṃ padmaprabho nāma gṛhapatirabhūt / tasya	padmAvatyAm rAjaDAnyAm padmapraBaH nAma gRhapatiH-aBUt / tasya
+   padmaprabhasya gṛhapatestvaṃ duhitā 'bhūḥ / tena khalu punaḥ samayena	padma-praBasya gRhapateH-tvam duhitA aBUH / tena Kalu punar samayena
+   grāmanagaranigamajanapadeṣu piṇḍapātiko bhikṣuḥ piṇḍapātāyāvatarati / yadā	grAma-nagara-nigama-janapadezu piNxapAtikaH BikzuH piNxa-pAtAya-avatarati / yadA
+   tvadgṛhamāgato 'bhūta tadā tvaṃ dārike piṇḍapātaṃ gṛhītvā gṛhānniṣkrāntā	tvad-gRham-AgataH aBUta tadA tvam dArike piNxa-pAtam gRhItvA gRhAt-nizkrAntA
+   punareva praviṣṭā 'bhūḥ / na cāhaṃ muṇḍitaśiraso 'dhanyasya piṇḍapātaṃ	punar-eva pravizwA aBUH / na ca-aham muNxita-SirasaH aDanyasya piNxa-pAtam
+   dāsyāmi / tena karmopacayena tvayā dārike dvādaśakalpasahasrāṇi punaḥ	dAsyAmi / tena karma-upacayena tvayA dArike dvAdaSa-kalpa-sahasrANi punar-
+   punardaridragṛhe duḥkhānyanubhūtāni / ekena tvayā dārike kuśalamūlena	punar-daridra-gRhe duHKAni-anuBUtAni / ekena tvayA dArike kuSala-mUlena
+   bodhivyākaraṇaṃ pratilapsyase / yattvayā tasya bhikṣo rūpaliṅgasaṃsthā na	boDi-vyAkaraNam pratilapsyase / yat-tvayA tasya BikzaH rUpa-liFga-saMsTA na
+   dṛṣṭā bhaviṣyasi tvaṃ dārike anāgate 'dhvani acintyairaparimāṇaiḥ	dRzwA Bavizyasi tvam dArike anAgate aDvani acintyEH-aparimANEH
+   kalpairnagaradhvajo nāma tathāgato 'rhan samyaksambuddho	kalpEH-nagaraDvajaH nAma taTAgataH arhan samyaksambudDaH-
+   vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā	vidyA-caraNa-sampannaH sugataH loka-vid-anuttaraH puruza-damya-sAraTiH SAstA
+   devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān loke / atha sā dārikā bhagavantaṃ	devAnAm ca manuzyANAm ca budDaH BagavAn loke / aTa sA dArikA Bagavantam
+   triḥ pradakṣiṇaṃ kṛtvaivamāha / kīdṛśaṃ bhagavan mama buddhakṣetraṃ	tris pradakziNam kRtvA-evam-Aha / kIdRSam Bagavat mama budDa-kzetram
+   bhaviṣyati yatraivāhaṃ buddho bhaviṣyāmi / bhagavānāha /	Bavizyati yatra-eva-aham budDaH BavizyAmi / BagavAn-Aha /
+   aparimitaguṇasañcayā nāma sā buddhakṣetraṃ bhaviṣyati / yādṛaśī ca sā	aparimita-guNa-saQcayA nAma sA budDa-kzetram Bavizyati / yAdRaSI ca sA
+   sukhāvatī lokadhātuḥ tādṛśaṃ tadbuddhakṣetraṃ bhaviṣyati / paryaṅkaniṣaṇṇā	suKAvatI lokaDAtuH tAdRSam tat-budDa-kzetram Bavizyati / paryaFka-nizaNNA
+   āryopapādukā bodhisattvā bhaviṣyanti / īdṛśaṃ tadbuddhakṣetram / (Asv 113)	Arya-upapAdukAH boDisattvAH Bavizyanti / IdRSam tat-budDa-kzetram / (Asu 113)
+   atha ca sā dārikā tuṣṭā udagrā āttamanāḥ pramuditā prītisaumanasyajātā	aTa ca sA dArikA tuzwAH udagrAH Atta-manAH pramuditA prIti-sOmanasya-jAtA
+   svagṛhagamanamārabdhā / atha bhagavāṃstāṃ dārikāmevamāha / tvaṃ dārike	sva-gRha-gamanam-ArabDAH / aTa BagavAn=-tAm dArikAm-evam-Aha / tvam dArike
+   saptame divase kālaṃ kariṣyasi / kālaṃ kṛtvā / pūrvasyāndiśi magadhaviṣaye	saptame divase kAlam karizyasi / kAlam kRtvA / pUrvasya-andiSi magaDa-vizaye
+   rājā ajitaseno nāma / tasya rājño 'jitasenasya antaḥpurasahasramasti /	rAjA ajitasenaH nAma / tasya rAjQaH ajitasenasya antaHpura-sahasram-asti /
+   tasya khalu punā rājño 'jitasenasya putro janiṣyase / eṣa eva tava paścimo	tasya Kalu punA rAjQaH ajitasenasya putraH janizyase / ezaH eva tava paScimaH-
+   garbhavāso bhaviṣyati /	garBa-vAsaH Bavizyati /
+   atha bhagavān paścimakena nagaradvāreṇa śrāvastyā mahānagaryā niṣkrānto	aTa BagavAn paScimakena nagara-dvAreNa SrAvastyAH mahA-nagaryAH nizkrAntaH-
+   yena jetavanaṃ vihārastenopasaṅkrāntaḥ / athāyuṣmānānando bhagavantaṃ	yena jetavanam vihAraH-tena-upasaFkrAntaH / aTa-AyuzmAn-AnandaH Bagavantam
+   dūrata evāgacchantaṃ dṛṣṭvā pādau śirasābhivandya triḥ pradakṣiṇīkṛtya	dUratas eva-AgacCantam dRzwvA pAdO SirasA-aBivandya tris pradakziNIkRtya
+   bhagavantaṃ gāthābhiradhyabhāṣata /	Bagavantam gATABiH-aDi-aBAzata /
+   suvarṇavarṇaṃ varalakṣaṇārcitaṃ dvāviṃśatilakṣaṇarūpadhāriṇam /	suvarNa-varNam vara-lakzaNa-arcitam dvAviMSati-lakzaNa-rUpa-DAriNam /
+   yadā tvayā āgatu piṇḍapātikā vimocayitvā iha sarvasattvā //	yadA tvayA Agatu piNxapAtikAH vimocayitvA iha sarva-sattvAH //
+   sukhena saṃsthāpayi sarvasattvā maitrībalaṃ sarvajagattvayā kṛtam /	suKena saMsTApayi sarva-sattvAH mEtrI-balam sarva-jagat-tvayA kRtam /
+   sa piṇḍapātaṃ varamāṇḍanāyaka vimocitaste jagatī bhayā ca //	sa piNxapAtam varamANxanAyaka vimocitaH-te jagatI BayA ca //
+   ye bodhisattvā iha jambudvīpe sarve ca mārgaṃ tava darśayanti / (Asv 114)	ye boDisattvAH iha jambudvIpe sarve ca mArgam tava darSayanti / (Asu 114)
+   parinirvṛtasya sada paścakāle dhāretu sūtram imu buddhavarṇitam //	parinirvRtasya sada paSca-kAle DAretu sUtram imu budDa-varNitam //
+   parinirvṛtasya tava paścakāle bhaviṣyati śāsanavipralopam /	parinirvRtasya tava paSca-kAle Bavizyati SAsana-vipralopam /
+   imaṃ nayaṃ dhārayi sūtraratnam //	imam nayam DArayi sUtra-ratnam //
+   athāyuṣmānānanda imā gāthā bhāṣitvā bhagavantaṃ triḥ pradakṣiṇīkṛtya	aTa-AyuzmAn-AnandaH imAH gATAH BAzitvA Bagavantam tris pradakziNIkRtya
+   bhagavataḥ puratastasthau / atha bhagavānāyuṣmantamānandamāmantrayate sma	BagavataH puratas-tasTO / aTa BagavAn-Ayuzmantam-Anandam-Amantrayate sma
+   / gacchānanda gaṇḍīmākoṭaya / te śrāvakāḥ paribhokṣyanti piṇḍapātam /	/ gacCa-Ananda gaNxIm-Akowaya / te SrAvakAH pariBokzyanti piNxapAtam /
+   athāyuṣmānānando bhagavantamāmantrayate sma / kīdṛśaṃ bhagavan	aTa-AyuzmAn-AnandaH Bagavantam-Amantrayate sma / kIdRSam Bagavan
+   gaṇḍīśabdasya kuśalamūlaṃ bhaviṣyati / bhagavānāha / śṛṇu ānanda	gaNxI-Sabdasya kuSala-mUlam Bavizyati / BagavAn-Aha / SRNu Ananda
+   gaṇḍīśabdasya kuśalamūlaṃ parikīrtayāmi / ye kecidānanda gaṇḍīśabdaṃ	gaNxI-Sabdasya kuSala-mUlam parikIrtayAmi / ye kecid-Ananda gaNxI-Sabdam
+   śroṣyanti teṣāṃ pañcānantaryāṇi kṛtyāni parikṣayaṃ yāsyanti /	Srozyanti tezAm paQca-AnantaryANi kRtyAni parikzayam yAsyanti /
+   avaivartikāste bhaviṣyanti kṣipraṃ cānuttarāṃ	avEvartikAH-te Bavizyanti kzipram ca-anuttarAm
+   samyaksambodhimabhisambhotsyante / ānanda āha / kīdṛśaṃ bhagavaṃstaiḥ	samyaksamboDim-aBisamBotsyante / AnandaH Aha / kIdRSam Bagavan=-tEH
+   sattvaiḥ kuśalamūlamavaropim / bhagavānāha / śṛṇu ānanda ye sattvāḥ	sattvEH kuSala-mUlam-avaropim / BagavAn-Aha / SRNu Ananda ye sattvAH
+   paścime kāle paścime samaye mama parinirvṛtasya saddharmavipralope	paScime kAle paScime samaye mama parinirvRtasya sat-Darma-vipralope
+   vartamāne saddharmasyāntardhānakālasamaye	vartamAne sadDarmasya-antarDAna-kAla-samaye
+   grāmanagaranigamajanapadarāṣṭrarājadhānīṣu ye sattvā vā araṇyāyatane	grAma-nagara-nigama-janapada-rAzwra-rAja-DAnIzu ye sattvAH vE araNyAyatane
+   gaṇḍayākoṭanaśabdaṃ śroṣyanti namo buddhāyeti kariṣyanti teṣāṃ	gaNxayA-kowana-Sabdam Srozyanti namaH budDAya-iti karizyanti tezAm
+   pañcānantaryāṇi karmāṇi parikṣayaṃ (Asv 115) yāsyanti / īdṛśānyānanda	paQca-AnantaryANi karmANi parikzayam (Asu 115) yAsyanti / IdRSAni-Ananda
+   gaṇḍīśabdasya kuśalamūlāni / athāyuṣmānānandaḥ śāntapraśāntena	gaNxI-Sabdasya kuSala-mUlAni / aTa-AyuzmAn-AnandaH SAnta-praSAntena
+   gaṇḍīmākoṭayate sma / atha tena gaṇḍīśabdena sarve te mahāśrāvakāḥ	gaNxIm-Akowayate sma / aTa tena gaNxI-Sabdena sarve te mahA-SrAvakAH
+   sannipatitā abhūvan / yathā yathā āsane niṣaṇṇāḥ piṇḍapātaṃ paribhuñjante	sannipatitAH aBUvan / yaTA yaTA Asane nizaNNAH piNxa-pAtam pariBuQjante
+   sma / atha tatraiva śrāvakamadhye nandimitro nāma mahāśrāvakaḥ sannipatito	sma / aTa tatra-eva SrAvaka-maDye nandimitraH nAma mahA-SrAvakaH sannipatitaH-
+   'bhūt sanniṣaṇṇaḥ / atha bhagavānāyuṣmantaṃ nandimitraṃ	aBUt sannizaNNaH / aTa BagavAn-Ayuzmantam nandimitram
+   mahāśrāvakamāmantrayate sma / gaccha tvaṃ nandimitra mahāśrāvaka	mahA-SrAvakam-Amantrayate sma / gacCa tvam nandimitra mahA-SrAvaka
+   pūrvasyāndiśi magadhaviṣaye rājño 'jitasenasya kalyāṇamitraparicaryāṃ kuru	pUrvasya-andiSi magaDa-vizaye rAjQaH ajitasenasya kalyANa-mitra-paricaryAm kuru
+   / atha nandimitro mahāśrāvako bhagavantamevamāha / na bhagavan	/ aTa nandimitraH mahA-SrAvakaH Bagavantam-evam-Aha / na Bagavan
+   śakṣyāmastaṃ pṛthivīpradeśaṃ gantum / durāsadāste sattvāḥ / te māṃ	SakzyAmaH-tam pRTivI-pradeSam gantum / durAsadAH-te sattvAH / te mAm
+   jīvitādvyavaropayiṣyanti / atha bhagavānāyuṣmantaṃ taṃ nandimitraṃ	jIvitAt-vyavaropayizyanti / aTa BagavAn-Ayuzmantam tam nandimitram
+   mahāśrāvakamevamāha / na te sattvāste śakṣyante bālāgramapi kampayituṃ	mahA-SrAvakam-evam-Aha / na te sattvAH-te Sakzyante bAla-agram-api kampayitum
+   prāgeva jīvitādvyavaropayitum / atha nandimitro mahāśrāvakaḥ	prAk-eva jIvitAt-vyavaropayitum / aTa nandimitraH mahA-SrAvakaH
+   pratyūṣakālasamaye suvarṇavarṇaṃ vastraṃ prāvṛtya yena pūrvasyāndiśi	pratyUza-kAla-samaye suvarNa-varNam vastram prAvRtya yena pUrvasya-AndiSi
+   magadhaviṣaye rājño 'jitasenasya rājadhānī tenānukrānto 'bhut / atha rājā	magaDa-vizaye rAjQaH ajitasenasya rAjaDAnI tena-anukrAntaH aBut / aTa rAjA
+   ajitasenastaṃ nandimitraṃ mahāśrāvakaṃ dṛṣṭvā tuṣṭa udagra āttamanāḥ	ajitasenaH-tam nandi-mitram mahA-SrAvakam dRzwvA tuzwaH udagre Atta-manAH
+   pramuditaḥ prītisaumanasyajāto 'bhūt / atha rājñājitasenena amātyaḥ	pramuditaH prIti-sOmanasya-jAtaH aBUt / aTa rAjQA-ajitasenena amAtyaH
+   preṣito 'bhūt / gacchainaṃ bhikṣumānaya / tadā so 'mātyo yena nandimitro	prezitaH aBUt / gacCa-enam Bikzum-Anaya / tadA saH amAtyaH yena nandimitraH-
+   mahāśrāvakastenopasaṅkrāntaḥ (Asv 116) / atha so 'mātyo nandimitraṃ	mahA-SrAvakaH-tena-upasaFkrAntaH (Asu 116) / aTa saH amAtyaH nandimitram
+   mahāśrāvakamevamāha / āgaccha mahāśrāvaka bhikṣo rājā te ājñāpayati / atha	mahA-SrAvakam-evam-Aha / AgacCa mahA-SrAvaka BikzaH rAjA te AjQApayati / aTa
+   nandimitro mahāśrāvako 'mātyamevamāha / mama rājñā kiṃ kāryaṃ mama rājā	nandimitraH mahA-SrAvakaH amAtyam-evam-Aha / mama rAjQA kim kAryam mama rAjA
+   kiṃ kariṣyati / athāmātyo yena rājājitasenastenopasaṅkrāntaḥ / taṃ	kim karizyati / aTa-amAtyaH yena rAjA-ajitasenaH-tena-upasaFkrAntaH / tam
+   rājānamajitasenamevamāha / na ca sa bhikṣustava pārśve āgacchati / atha	rAjAnam-ajita-senam-evam-Aha / na ca sa BikzuH-tava pArSve AgacCati / aTa
+   rājñājitasenena pañcāmātyaśatāni preṣitāni / na ca sa bhikṣūrājño	rAjQA-ajitasenena paQcAmAtya-SatAni prezitAni / na ca sa BikzU-rAjQaH-
+   'jitasenasya pārśvamāgacchati / atha sa rājā svakenaivātmabhāvena yena sa	ajitasenasya pArSvam-AgacCati / aTa sa rAjA svakena-eva-Atma-BAvena yena sa
+   nandimitramahāśrāvakastenopasaṅkrāntaḥ / upasaṅkramya kṛtāñjalirevamāha /	nandi-mitra-mahA-SrAvakaH-tena-upasaFkrAntaH / upasaFkramya kRtAQjaliH-evam-Aha /
+   āgaccha bho bhikṣo mama rājadhānīṃ praviśa / atha rājā ajitaseno	AgacCa Bo BikzaH mama rAjaDAnIm praviSa / aTa rAjA ajita-senaH-
+   dakṣiṇahaste taṃ bhikṣuṃ gṛhītvā svakāṃ rājadhānīṃ praviṣṭo 'bhūt / atha	dakziNa-haste tam Bikzum gRhItvA svakAm rAjaDAnIm pravizwaH aBUt / aTa
+   rājñājitasenena nandimitrasya bhikṣoḥ siṃhāsanaṃ dattamabhut / atha	rAjQA-ajitasenena nandi-mitrasya BikzoH siMhAsanam dattam-aBut / aTa
+   rājājitaseno bhadrapīṭhake niṣadya taṃ nandimitraṃ mahāśrāvakamevamāha /	rAjA-ajitasenaH BadrapIWake nizadya tam nandi-mitram mahA-SrAvakam-evam-Aha /
+   kutra tvaṃ bhikṣo gacchasi / ko hetuḥ kaḥ pratyayaḥ / atha nandimitro	kutra tvam BikzaH gacCasi / kaH hetuH kaH pratyayaH / aTa nandimitraH-
+   mahāśrāvako rājānamajitasenamevamāha / ye kecid bhikṣupravrajitāste sarve	mahA-SrAvakaH rAjAnam-ajita-senam-evam-Aha / ye kecid Bikzu-pravrajitAH-te sarve
+   bhikṣāhārāḥ piṇḍapātamavacarantaḥ paribhuñjanti / atha rājā ajitasenastaṃ	BikzA-AhArAH piNxa-pAtam-avacarantaH pariBuQjanti / aTa rAjA ajitasenaH-tam
+   nandimitraṃ mahāśrāvakamevamāha / paribhuṅkṣva mama gṛhe piṇḍapātam /	nandi-mitram mahA-SrAvakam-evam-Aha / pariBuFkzva mama gRhe piNxapAtam /
+   yāvajjīvaṃ piṇḍapātaṃ pradāsyāmi / yadi te bhikṣo mama svamāṃsena kāryaṃ	yAvajjIvam piNxa-pAtam pradAsyAmi / yadi te BikzaH mama sva-mAMsena kAryam
+   svamāṃsaṃ dāsyāmi / atha nandimitro mahāśrāvako rājānamajitasenaṃ	sva-mAMsam dAsyAmi / aTa nandimitraH mahA-SrAvakaH rAjAnam-ajita-senam
+   gāthābhiradhyabhāṣata / (Asv 117)	gATABiH-aDi-aBAzata / (Asu 117)
+   bhuñjāmi tadbhojanu yad dadāhi mṛṣṭānnapānaṃ rasapānamuktamam /	BuQjAmi tat-Bojanu yat dadAhi mRzwa-anna-pAnam rasa-pAnam-uktamam /
+   kleśā hi nirmukta tvayā bhaviṣyasi sudurlabhaṃ labdha manuṣyalābham //	kleSAH hi nirmukta tvayA Bavizyasi su-durlaBam labDa manuzya-lABam //
+   sudurlabhaṃ śāsanu nāyakasya śraddhāprasādaṃ paramaṃ sudurlabham /	su-durlaBam SAsanu nAyakasya SradDA-prasAdam paramam su-durlaBam /
+   ye śāsane pravrajitā ca bhikṣavā sudurlabhaṃ śāsanu nāyakānām //	ye SAsane pravrajitA ca BikzavA su-durlaBam SAsanu nAyakAnAm //
+   sudurlabhaṃ sugatavarasya darśanaṃ namo 'stu te buddha mahānubhāvo /	su-durlaBam sugata-varasya darSanam namaH astu te budDa mahA-anuBAvaH /
+   namo 'stu te dharmamayaṃ mahāmune namo 'stu te kleśavicakṣaṇāryam //	namaH astu te Darma-mayam mahA-mune namaH astu te kleSa-vicakzaNa-Aryam //
+   namo 'stu te sarvajarapramokṣaṇāt namo 'stu te mārganidarśanāryam /	namaH astu te sarva-jara-pramokzaNAt namaH astu te mArga-nidarSanAryam /
+   namo 'stu te mārgapathasya darśakaṃ namo 'stu te bodhipathasya darśakam //	namaH astu te mArga-paTasya darSakam namaH astu te boDipaTasya darSakam //
+   atha nandimitro mahāśrāvako rājānamajitasenaṃ bhagavato	aTa nandimitraH mahA-SrAvakaH rAjAnam-ajita-senam BagavataH-
+   guṇavarṇamudīrayitvā tūṣṇīṃ sthito 'bhūt / atha rājānamajitasenaṃ taṃ	guNa-varNam-udIrayitvA tUzNIm sTitaH aBUt / aTa rAjAnam-ajita-senam tam
+   nandimitro mahāśrāvako gāthābhiradhyabhāṣata /	nandimitraH mahA-SrAvakaH gATABiH-aDi-aBAzata /
+   sudurlabhaṃ bhikṣu tathaiva darśanaṃ sudurlabhaṃ tasya bhaveya darśanam /	su-durlaBam Bikzu taTA-eva darSanam su-durlaBam tasya Baveya darSanam /
+   (Asv 118)	(Asu 118)
+   ye bhikṣusaṅghasya dadeya dānaṃ na tasya yakṣā na ca rākṣasāśca //	ye Bikzu-saFGasya dadeya dAnam na tasya yakzAH na ca rAkzasAH-ca //
+   na pretakuṣmāṇḍamahoragāśca vighnaṃ na kurvanti kadāci teṣām /	na preta-kuzma-aNxa-mahA-uragAH-ca viGnam na kurvanti kadAci tezAm /
+   ye bhikṣusaṅghāya dadanti dānaṃ sudurlabhaṃ tasya manuṣyalābham //	ye Bikzu-saFGAya dadanti dAnam su-durlaBam tasya manuzya-lABam //
+   yo durlabhaṃ darśanu bhikṣubhāvaṃ sudurlabhaṃ kalpaśatairacintiyaiḥ /	yaH durlaBam darSanu Bikzu-BAvam su-durlaBam kalpa-SatEH-acintiyEH /
+   yo lokanāthasya hi nāmu dhāraye kalpāna koṭīnayutānacintiyā //	yaH loka-nATasya hi na-amu DAraye kalpAna kowIna-yutAn-acintiyA //
+   na jātu gacche vinipātadurgatiṃ yo īdṛśaṃ paśyati bhikṣurājam /	na jAtu gacCe vinipAta-durgatim yaH IdRSam paSyati Bikzu-rAjam /
+   na tasya bhotī vinipātadurgatiṃ yo īdṛśaṃ paśyati bhikṣurājam //	na tasya BotI vinipAta-durgatim yaH IdRSam paSyati Bikzu-rAjam //
+   kalyāṇamitraṃ mama mārgadarśako (yaṃ) sa āgatāye mama piṇḍapātikā /	kalyANa-mitram mama mArga-darSakaH (yaM) saH AgatAye mama piNxapAtikAH /
+   yo dāsyate asya hi piṇḍapātaṃ muktā na bheṣyanti jarārtavyādhayā //	yaH dAsyate asya hi piNxa-pAtam muktAH na Bezyanti jarA-Arta-vyADayA //
+   kleśā vinirmukta sadā tu bheṣyati ye tasya dāsyantiha piṇḍapātam //	kleSAH vinirmukta sadA tu Bezyati ye tasya dAsyanti-ha piNxa-pAtam //
+   atha sa rājā ajitaseno nandimitraṃ mahāśrāvakaṃ guṇavarṇamudīrayitvā	aTa sa rAjA ajitasenaH nandi-mitram mahA-SrAvakam guNa-varNam-udIrayitvA
+   tūṣṇīṃ sthito 'bhūt / atha nandimitro mahāśrāvako (Asv 119)	tUzNIm sTitaH aBUt / aTa nandimitraH mahA-SrAvakaH (Asu 119)
+   rājānamajitasenamevamāha / evamastu mahārāja bhuñje piṇḍapāta tava gṛhe /	rAjAnam-ajita-senam-evam-Aha / evam-astu mahA-rAja BuQje piNxapAta tava gRhe /
+   atha rājā ajitasenaḥ khādanīyena bhojanīyena taṃ nandimitramahāśrāvakaṃ	aTa rAjA ajitasenaH KAdanIyena BojanIyena tam nandi-mitra-mahA-SrAvakam
+   santarpayati sma /	santarpayati sma /
+   atha nandimitramahāśrāvako rājānamajitasenamevamāha / kiṃ tava mahārāja	aTa nandi-mitra-mahA-SrAvakaH rAjAnam-ajita-senam-evam-Aha / kim tava mahA-rAja
+   asmin pṛthivīpradeśe udyānabhūmirasti / rājā āha / asti mahāśrāvaka	asmin pRTivI-pradeSe udyAna-BUmiH-asti / rAjA Aha / asti mahA-SrAvaka
+   udyānabhūmirmama ramaṇīyā suśobhanā / nandimitra āha / gacchāmyahaṃ	udyAna-BUmiH-mama ramaNIyA su-SoBanA / nandimitraH Aha / gacCAmi-aham
+   mahārāja / tāmudyānabhūmiṃ prekṣe / rājā āha / gaccha nandimitra /	mahA-rAja / tAm-udyAna-BUmim prekze / rAjA Aha / gacCa nandimitra /
+   udyānabhūmiṃ prekṣasva / atha nandimitramahāśrāvako yena rājño	udyAna-BUmim prekzasva / aTa nandi-mitra-mahA-SrAvakaH yena rAjQaH-
+   'jitasenasyodyānabhūmistenopasaṅkrāntaḥ / atha tatrodyānabhūmau ye	ajita-senasya-udyAna-BUmiH-tena-upasaFkrAntaH / aTa tatra-udyAna-BUmO ye
+   udyānaguṇāste sarve santīti / yā graiṣmikyaḥ puṣkariṇyastāḥ	udyAna-guNAH-te sarve santi-iti / yAH grEzmikyaH puzkariNyaH-tAH
+   śītalajalaparipūrṇā yā vārṣikyastā nātyuṣṇā nātiśītalajalaparipūrṇāḥ /	SItala-jala-paripUrNAH yAH vArzikyaH-tAH na-ati-uzNAH na-ati-SItala-jala-paripUrNAH /
+   tāśca puṣkariṇyaḥ suvarṇasopānasañcchannā divyā ramaṇīyāḥ / ye ca	tAH-ca puzkariNyaH suvarNa-sopAna-saQt-CannAH divyAH ramaNIyAH / ye ca
+   jāmbūpakaparibhogaguṇāste sarve santīti /	jAmbUpaka-pariBoga-guNAH-te sarve santi-iti /
+   adhimuktakacampakāśokamucilindapāṭalasumanāsaugandhikapuṣpāṇi santīti /	aDimuktaka-campaka-aSoka-mucilinda-pAwala-sumanA-sOganDika-puzpANi santi-iti /
+   (Asv 120) ye tiryagyonigatāḥ pakṣiṇaḥ	(Asu 120) ye tiryagyoni-gatAH pakziNaH
+   śukaśārikācakravākamayūrakokilādayaste nānārutāni kurvanti sma / atha	Suka-SArikA-cakravAka-mayUra-kokila-AdayaH-te nAnA-rutAni kurvanti sma / aTa
+   tatraiva udyānabhūmau suvarṇavarṇāḥ suvarṇatuṇḍāḥ suvarṇapakṣāḥ	tatra-eva udyAna-BUmO suvarNa-varNAH suvarNa-tuNxAH suvarNa-pakzAH
+   suvarṇapādāḥ pakṣiṇaḥ prādurbhūtāḥ / te sarve buddhaśabdaṃ niścārayanti /	suvarNa-pAdAH pakziNaH prAdurBUtAH / te sarve budDa-Sabdam niScArayanti /
+   atha nandimitramahāśrāvako yena rājño 'jitasenasya rājadhānī	aTa nandi-mitra-mahA-SrAvakaH yena rAjQaH ajitasenasya rAjaDAnI
+   tenopasaṅkrāntaḥ / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakamevamāha	tena-upasaFkrAntaH / aTa rAjA ajitasenaH-tam nandi-mitram mahA-SrAvakam-evam-Aha
+   / āgatastvaṃ mahāśrāvaka / dṛṣṭodyānabhūmiḥ / nandimitra āha / dṛṣṭā	/ AgataH-tvam mahA-SrAvakaH / dRzwa-udyAna-BUmiH / nandimitraH Aha / dRzwA
+   mayodyānabhūmī ramaṇīyā suśobhanā / atha nandimitraṃ mahāśrāvakaṃ rājā	mayA-udyAna-BUmiH ramaNIyA su-SoBanA / aTa nandi-mitram mahA-SrAvakam rAjA
+   ajitaseno gāthābhiradhyabhāṣata /	ajitasenaH gATABiH-aDi-aBAzata /
+   ye jambudvīpe paribhogamāsī adhimuktakacampakadhānuṣkārikā /	ye jambudvIpe pariBoga-mAsI aDimuktaka-campaka-DAnuzkArikAH /
+   aśokamucilinda tathaiva pāṭalā saugandhikāśca sumanā ca vārṣikā //	aSokamucilinda taTA-eva pAwalA sOganDikAH-ca sumanA ca vArzikAH //
+   tadā pāriyātrā nadītīranirmitā suvarṇavarṇā sada pakṣiṇā abhūt /	tadA pAriyAtrA nadI-tIra-nirmitA suvarNa-varNA sada pakziNAH aBUt /
+   mārgaṃ ca te darśayi agrabodhaye	mArgam ca te darSayi agra-boDaye
+   divyā manojñā madhurasvarāṃśca	divyAH manojQAH maDura-svarAn=-ca
+   saṃśrāvayiṣyanti ca nityakālam //	saMSrAvayizyanti ca nityakAlam //
+   atha nandimitramahāśrāvako rājño 'jitasenasya gāthā bhāṣitvā tūṣṇīṃ sthito	aTa nandi-mitra-mahA-SrAvakaH rAjQaH ajitasenasya gATA BAzitvA tUzNIm sTitaH-
+   'bhūt / atha rājā ajitaseno bherīṃ parāhante sma / (Asv 121) atha tena	aBUt / aTa rAjA ajitasenaH BerIm parAhante sma / (Asu 121) aTa tena
+   bherīśabdena sametyāmātyagaṇastaṃ rājānamajitasenamevamāha / kasyārthe	BerI-Sabdena sametya-amAtya-gaNaH-tam rAjAnam-ajita-senam-evam-Aha / kasya-arTe
+   mahārāja bherī parāhatā / atha sa rājā āha / hastirathaṃ ca aśvarathaṃ ca	mahA-rAja BerI parAhatA / aTa sa rAjA Aha / hastiraTam ca aSva-raTam ca
+   sajjaṃ kṛtaṃ syāt / ahamudyānabhūmiṃ gamiṣyāmi krīḍanārthāya / atha tā	sajjam kRtam syAt / aham-udyAna-BUmim gamizyAmi krIxana-arTAya / aTa tA
+   amātyakoṭyo vacanaṃ śrutvā śīghrameva tad hastirathamaśvarathaṃ sajjaṃ	amAtya-kowyaH vacanam SrutvA SIGram-eva tat hasti-raTam-aSva-raTam sajjam
+   kṛtavatyaḥ / atha tena kṣaṇalavamuhūrtamātreṇa rājājitaseno yena	kRtavatyaH / aTa tena kzaNa-lava-muhUrta-mAtreNa rAjA-ajitasenaH yena
+   sodyānabhūmistenopasaṅkrāntaḥ / sa ca	sa-udyAna-BUmiH-tena-upasaFkrAntaH / sa ca
+   nandimitramahāśrāvakastenaivopasaṅkrānto rājānamajitasenamevamāha / asmin	nandi-mitra-mahA-SrAvakaH-tena-eva-upasaFkrAntaH rAjAnam-ajita-senam-evam-Aha / asmin
+   pṛthivīpradeśe mahārāja mama kuṭikaṃ kārayitavyam yatrāhaṃ sanniṣaṇṇastava	pRTivI-pradeSe mahA-rAja mama kuwikam kArayitavyam yatra-aham sannizaNNaH-tava
+   gṛhe piṇḍapātaṃ paribhokṣyāmi / atha rājā ajitaseno	gRhe piNxa-pAtam pariBokzyAmi / aTa rAjA ajita-senaH-
+   nandimitramahāśrāvakamevamāha / kīdṛśaṃ tava kuṭikaṃ kārayitavyam /	nandi-mitra-mahA-SrAvakam-evam-Aha / kIdRSam tava kuwikam kArayitavyam /
+   nandimitra āha / yādṛśāstava mahārāja mahācittotpādaśraddhāprasādāstādṛśaṃ	nandimitraH Aha / yAdRSAH-tava mahA-rAja mahA-citta-utpAda-SradDA-prasAdAH-tAdRSam
+   kuṭikaṃ kāraya / atha rājā ajitaseno jyeṣṭhāmātyamevamāha / asminneva	kuwikam kAraya / aTa rAjA ajitasenaH jyezWa-amAtyam-evam-Aha / asmin=-eva
+   pṛthivīpradeśe kuṭikaṃ kāraya / atha jyeṣṭhāmātyo rājānamevamāha / kīdṛśaṃ	pRTivI-pradeSe kuwikam kAraya / aTa jyezWa-amAtyaH rAjAnam-evam-Aha / kIdRSam
+   mahārāja kuṭikaṃ kārayāmi / rājā ajitasena evamāha / triṃśadyojanāni	mahA-rAja kuwikam kArayAmi / rAjA ajitasenaH evam-Aha / triMSat-yojanAni
+   dīrgheṇa ṣaḍyojanānyūrdhvāyāṃ saptaratnamayaṃ maṇimuktisañcchāditaṃ	dIrGeNa zaz-yojanAni-UrDvAyAm sapta-ratna-mayam maNi-mukti-saQcCAditam
+   kuṭikaṃ kāraya / atha so 'mātyaḥ kuṭikaṃ kārayati / saptaratnamayaṃ (Asv	kuwikam kAraya / aTa saH amAtyaH kuwikam kArayati / sapta-ratna-mayam (Asv
+   122) maṇimuktisañcchāditaṃ kārayitvā yena rājā ajitasenastenopasaṅkrānto	122) maNi-mukti-saQcCAditam kArayitvA yena rAjA ajitasenaH-tena-upasaFkrAntaH-
+   rājānamajitasenamevamāha / kṛtaṃ mahārāja mayā kuṭikaṃ yādṛśamājñaptam /	rAjAnam-ajita-senam-evam-Aha / kRtam mahA-rAja mayA kuwikam yAdRSam-AjQaptam /
+   rājā āha / tatraiva pṛthivīpradeśe caṅkramaḥ kārayitavyaścaturyojanāni	rAjA Aha / tatra-eva pRTivI-pradeSe caFkramaH kArayitavyaH-catur-yojanAni
+   dīrgheṇa dve yojane vistāreṇa / atha so 'mātyastaṃ caṅkramaṃ kārayitvā	dIrGeNa dve yojane vistAreNa / aTa saH amAtyaH-tam caFkramam kArayitvA
+   yena rājā ajitasenastenopasaṅkrānto rājānaṃ gāthābhiradhyabhāṣata /	yena rAjA ajitasenaH-tena-upasaFkrAntaH rAjAnam gATABiH-aDi-aBAzata /
+   kṛtaṃ mayā caṅkramu suṣṭhu śobhanaṃ ājñā tvayā yat kṛtapūrvameva ca /	kRtam mayA caFkramu suzWu SoBanam AjQA tvayA yat kRta-pUrvam-eva ca /
+   sattvāna moceti prakṛtiṃ śubhāśubhaṃ vimocaye prāṇina sarvametat //	sattvAna mocA-iti prakRtim SuBa-aSuBam vimocaye prANina sarvam-etat //
+   aho sulabdhā praṇidhīkṛtaṃ tvayā vimocayī sarvajagat sadevakam /	aho su-labDA praNiDIkRtam tvayA vimocayI sarva-jagat sa-devakam /
+   praṇidhiṃ kṛtaṃ yattvayamīdṛśaṃ bhave dharmaṃ prakāśeti me dharmabhāṇako	praNiDim kRtam yat-tu-ayam-IdRSam Bave Darmam prakASa-iti me Darma-BANakaH-
+   niṣaṇṇa sthitvā kuṭikā ca caṅkrame ājñā kṛtaṃ yat tvaya yādṛśī kṛtā /	nizaNNa sTitvA kuwikA ca caFkrame AjQA kRtam yat tvaya yAdRSI kRtA /
+   sa caṅkramaṃ caiva kṛtaṃ suśobhanaṃ maṇiratnasañcchādita taṃ ca bhūmim //	sa caFkramam ca-eva kRtam su-SoBanam maNi-ratna-saQcCAdita tam ca BUmim //
+   atha rājā ajitaseno yena svakā rājadhānī tenopasaṅkrāntaḥ / atha	aTa rAjA ajitasenaH yena svakA rAjaDAnI tena-upasaFkrAntaH / aTa
+   nandimitramahāśrāvakaḥ pratinivṛtya tatraiva (Asv 123) kuṭike niṣaṇṇo	nandi-mitra-mahA-SrAvakaH pratinivRtya tatra-eva (Asu 123) kuwike nizaNNaH-
+   vikiraṇaṃ nāma bodhisattvasamādhiṃ samāpanno 'bhūt / anyena keśānanyena	vikiraNam nAma boDisattva-samADim samApannaH aBUt / anyena keSAn-anyena
+   nayānānyanyena dantānanyena grīvā anyena bāhū anyena	nayAnAni-anyena dantAn-anyena grIvA anyena bAhU anyena
+   hṛdayamanyenodaramanyenorū anyena jaṅghe anyena pādau samāpanno 'bhūt /	hRdayam-anyena-udaram-anyena-UrU anyena jaFGe anyena pAdO samApannaH aBUt /
+   atha sa rājā ajitasenaḥ saptāhasyātyayena taṃ bhikṣuṃ na paśyati /	aTa sa rAjA ajitasenaH saptAhasya-atyayena tam Bikzum na paSyati /
+   atha rājā jyeṣṭhakumāramevamāha / āgaccha kulaputra gamiṣyāmi tāṃ kuṭikām	aTa rAjA jyezWa-kumAram-evam-Aha / AgacCa kula-putra gamizyAmi tAm kuwikAm
+   / yena sa bhikṣustenopasaṅkramiṣyāmi / atha sa rājā saputro yena sā kuṭikā	/ yena sa BikzuH-tena-upasaFkramizyAmi / aTa sa rAjA sa-putraH yena sA kuwikA
+   tenopasaṅkrānto 'bhūt / atha sa rājā ajitasenastaṃ bhikṣumātmabhāvaṃ	tena-upasaFkrAntaH aBUt / aTa sa rAjA ajitasenaH-tam Bikzum-Atma-BAvam
+   khaṇḍaṃ khaṇḍaṃ kṛtaṃ dṛṣṭvā saṃśayajāto 'bhūt / santrastaromakūpajāto	KaNxam KaNxam kRtam dRzwvA saMSaya-jAtaH aBUt / santrasta-romakUpa-jAtaH-
+   vastrāṇi pāṭyan paridevan rudan aśrukaṇṭhaḥ putramevamāha / ānaya putra	vastrANi pAwyan paridevan rudan aSru-kaNWaH putram-evam-Aha / Anaya putra
+   tīkṣṇadhāramasim / ātmānaṃ jīvitād vyavaropayiṣyāmi / atha sa rājakumāraḥ	tIkzNaDAram-asim / AtmAnam jIvitAt vyavaropayizyAmi / aTa sa rAja-kumAraH
+   prāñjaliṃ kṛtvā rājānaṃ gāthābhiradhyabhāṣata /	prAQjalim kRtvA rAjAnam gATABiH-aDi-aBAzata /
+   mā śokacittasya bhave nṛpendra mā vedayī vedanamīdṛśāni /	mA Soka-cittasya Bave nRpa-indra mA vedayI vedanam-IdRSAni /
+   ātmaghātaṃ karitvā tu niraye tvaṃ gamiṣyasi /	Atma-GAtam karitvA tu niraye tvam gamizyasi /
+   rauravaṃ narakaṃ cāpi gamiṣyasi sudāruṇam //	rOravam narakam ca-api gamizyasi su-dAruNam //
+   dakṣiṇīyo ayaṃ loke jaravyādhipramocakaḥ / (Asv 124)	dakziNIyaH ayam loke jara-vyADi-pramocakaH / (Asu 124)
+   na cāyaṃ ghātito yakṣairna bhūtairna ca rākṣasaiḥ /	na ca-ayam GAtitaH yakzEH-na BUtEH-na ca rAkzasEH /
+   bodhisattvo 'pyayaṃ loke jaravyādhipramocakaḥ //	boDisattvaH api-ayam loke jara-vyADi-pramocakaH //
+   dakṣiṇīyo ayaṃ loke jaravyādhipramocakaḥ /	dakziNIyaH ayam loke jara-vyADi-pramocakaH /
+   durlabho darśanam asya bodhimārgasya darśakaḥ //	durlaBaH darSanam asya boDi-mArgasya darSakaH //
+   kalyāṇamitramayam āsī tava kāraṇamāgatam /	kalyANa-mitra-mayam AsI tava kAraNam-Agatam /
+   dakṣiṇīyo ayaṃ loke sarvasattvasukhāvaham //	dakziNIyaH ayam loke sarva-sattva-suKa-Avaham //
+   sarvajñaṃ pāramiprāptaṃ lokanāthena preṣitam /	sarvajQam pArami-prAptam lokanATena prezitam /
+   dṛḍhavīryaṃ dṛḍhasthāmaṃ lokanāthaṃ maharṣiṇam //	dRXa-vIryam dRXa-sTAmam lokanATam mahA-RziNam //
+   yo nāma tasya dhāreti nāsau gacchati durgatim /	yaH nAma tasya DArA-iti na-asO gacCati durgatim /
+   apāyaṃ na gamiṣyanti svargalokopapattaye //	apAyam na gamizyanti svarga-loka-upapattaye //
+   atha sa rājakumārastaṃ pitaraṃ gāthā bhāṣitvā tūṣṇīṃ sthito 'bhūt / atha	aTa sa rAja-kumAraH-tam pitaram gATA BAzitvA tUzNIm sTitaH aBUt / aTa
+   rājā ajitasenaḥ svakaṃ putramevamāha / kathaṃ tvaṃ kumāra jānīṣe yadayaṃ	rAjA ajitasenaH svakam putram-evam-Aha / kaTam tvam kumAra jAnIze yat-ayam
+   bhikṣuḥ samādhiṃ samāpanno 'bhūt / atha sa rājakumāra evamāha / paśya	BikzuH samADim samApannaH aBUt / aTa sa rAja-kumAraH evam-Aha / paSya
+   mahārāja ayaṃ bhikṣurbodhisattvasamādhiṃ samāpannaḥ sarvakleśavinirmukto	mahA-rAja ayam BikzuH-boDisattva-samADim samApannaH sarva-kleSa-vinirmuktaH-
+   bhavasāgarapāraṅgataḥ sarvasattvahitārthaṃ ca mārgaṃ darśayate śubham /	Bava-sAgara-pAraFgataH sarva-sattva-hita-arTam ca mArgam darSayate SuBam /
+   atha sa rājakumāro rājānamevamāha / āgaccha tāta caṅkramaṃ gamiṣyāmaḥ /	aTa sa rAja-kumAraH rAjAnam-evam-Aha / AgacCa tAta caFkramam gamizyAmaH /
+   atha sa rājā sa ca rājakumāro bahubhirdārakaśataiḥ sārdhaṃ yena sa	aTa sa rAjA sa ca rAja-kumAraH bahuBiH-dAraka-SatEH sArDam yena sa
+   caṅkramastenopasaṅkrāntau / atha sa bhikṣustataḥ samādhervyutthito	caFkramaH-tena-upasaFkrAntO / aTa sa BikzuH-tatas samADeH-vyutTitaH-
+   rājānamajitasenamevamāha / āgaccha mahārāja kiṃ karoṣyasmin sthāne / (Asv	rAjAnam-ajita-senam-evam-Aha / AgacCa mahA-rAja kim karozi-asmin sTAne / (Asu-
+   atha rājā taṃ bhikṣū dṛṣṭvā maulipaṭṭaṃ rājakumārasya dadāti / tava rājyaṃ	aTa rAjA tam BikzU dRzwvA mOli-pawwam rAja-kumArasya dadAti / tava rAjyam
+   bhavatu / dharmeṇa pālaye nādharmeṇa / rājakumāra āha / bahūnyasaṅkhyeyāni	Bavatu / DarmeNa pAlaye na-aDarmeNa / rAja-kumAraH Aha / bahUni-asaFKyeyAni
+   rājakāryāṇi mayā kṛtāni / na ca kadācittṛptirāsīt / tava tāta rājyaṃ	rAja-kAryANi mayA kRtAni / na ca kadAcid-tRptiH-AsIt / tava tAta rAjyam
+   bhavatu / na mama rājyena kāryaṃ na bhogena naiśvaryādhipatyena kāryam /	Bavatu / na mama rAjyena kAryam na Bogena na-ESvarya-ADipatyena kAryam /
+   tava rājyaṃ bhavatu tāta / dharmeṇa pālaye nādharmeṇeti /	tava rAjyam Bavatu tAta / DarmeNa pAlaye na-aDarmeNa-iti /
+   atha rājā yena sa bhikṣustenopasaṅkrāntaḥ prāñjalirevamāha /	aTa rAjA yena sa BikzuH-tena-upasaFkrAntaH prAQjaliH-evam-Aha /
+   sudurlabhaṃ darśanatubhyamārṣāḥ kṛtāñjaliḥ samabhimukhī nāyakānām /	su-durlaBam darSana-tuByam-ArzAH kRtAQjaliH samaBimuKI nAyakAnAm /
+   mokṣāgamaṃ darśanu tubhyamārṣāḥ sudurlabhaṃ karmaśatairacintiyaiḥ //	mokza-Agamam darSanu tuByam-ArzAH su-durlaBam karma-SatEH-acintiyEH //
+   ye darśanaṃ dāsyati tubhyamārṣā muktā ca so bheṣyati kalpakoṭibhiḥ /	ye darSanam dAsyati tuByam-ArzA muktA ca saH Bezyati kalpa-kowiBiH /
+   na jātu gacche vinipātadurgatiṃ yo nāmadheyaṃ śṛṇute muhūrtam //	na jAtu gacCe vinipAta-durgatim yaH nAmaDeyam SRNute muhUrtam //
+   rājā āha /	rAjA Aha /
+   niṣadya yugye ratanāmaye śubhe vrajāmyahaṃ yena sa rājadhānīm /	nizadya yugye ratana-Amaye SuBe vrajAmi-aham yena sa rAjaDAnIm /
+   dadāmyahaṃ bhojanu suprabhūtaṃ dadāmyahaṃ kāśikavastrametat / (Asv 126)	dadAmi-aham Bojanu su-praBUtam dadAmi-aham kASika-vastram-etat / (Asu 126)
+   sūkṣmāṇi jālāni ca saṃhitāni yāṃ cīvarāṃ tubhya dadāmi adya //	sUkzmANi jAlAni ca saMhitAni yAm cIvarAm tuBya dadAmi adya //
+   atha sa bhikṣū ratnamaye yugye gṛhītvā yena rājadhānī tenopasaṅkrāntaḥ /	aTa sa BikzuH ratna-maye yugye gRhItvA yena rAjaDAnI tena-upasaFkrAntaH /
+   santarpito bhojanena / atha nandimitramahāśrāvako rājānamajitasenaṃ	santarpitaH Bojanena / aTa nandi-mitra-mahA-SrAvakaH rAjAnam-ajita-senam
+   gāthābhiradhyabhāṣata /	gATABiH-aDi-aBAzata /
+   santarpito bhojana suprabhūtaṃ mṛṣṭānnapānarasamuttamaṃ śubham /	santarpitaH Bojana su-praBUtam mRzwa-anna-pAnarasamuttamam SuBam /
+   ye bhikṣusaṅghāya dadanti dānaṃ te bodhimaṇḍena cireṇa gacchata //	ye Bikzu-saFGAya dadanti dAnam te boDimaNxena cireNa gacCata //
+   sudurlabhaṃ darśana nāyakasya na cireṇa so gacchati buddhakṣetram /	su-durlaBam darSana nAyakasya na cireNa saH gacCati budDa-kzetram /
+   amitāyuṣasya varabuddhakṣetre sukhāvatīṃ gacchati śīghrametat //	amita-Ayuzasya vara-budDa-kzetre suKAvatIm gacCati SIGram-etat //
+   atha nandimitramahāśrāvakaḥ ajitasenasya rājño gāthā bhāṣitvā tūṣṇīṃ	aTa nandi-mitra-mahA-SrAvakaH ajitasenasya rAjQaH gATA BAzitvA tUzNIm
+   sthito 'bhūt / atha rājā ajitaseno bherīṃ parāhanti sma / atha tena	sTitaH aBUt / aTa rAjA ajitasenaH BerIm parAhanti sma / aTa tena
+   bherīśabdena sarvāstā amātyakoṭyo rājānamevamāhuḥ / kasyārthe mahārāja	BerI-Sabdena sarvAH-tAH amAtya-kowyaH rAjAnam-evam-AhuH / kasya-arTe mahA-rAja
+   bherī parāhatā / rājā āha / saptame divase hastirathamaśvarathaṃ sajjaṃ	BerI parAhatA / rAjA Aha / saptame divase hasti-raTam-aSva-raTam sajjam
+   kṛtaṃ syāt / ahaṃ saptame divase jetavanaṃ nāma vihāraṃ gamiṣyāmi	kRtam syAt / aham saptame divase jetavanam nAma vihAram gamizyAmi
+   śākyamunestathāgatasyārhataḥ samyaksambuddhasya darśanāya vandanāya	SAkya-muneH-taTAgatasya-arhataH samyaksambudDasya darSanAya vandanAya
+   paryupāsanāya dharmaśravaṇāya (Asv 127) / athāmātyakoṭyastaṃ	paryupAsanAya Darma-SravaNAya (Asu 127) / aTa-amAtya-kowyaH-tam
+   rājānamajitasenamevamāhuḥ / kṛtamasmābhiḥ mahārāja hastirathamaśvarathaṃ	rAjAnam-ajita-senam-evam-AhuH / kRtam-asmABiH mahA-rAja hasti-raTam-aSva-raTam
+   sajjam / atha rājā ajitaseno hastirathe avaruhya taṃ ca	sajjam / aTa rAjA ajitasenaH hastiraTe avaruhya tam ca
+   nandimitramahāśrāvakaṃ ratnamaye rathe avarohya yena jetavanaṃ	nandi-mitra-mahA-SrAvakam ratna-maye raTe avarohya yena jetavanam
+   vihārastenopasaṅkrāntaḥ / atha bhagavān rājānamajitasenaṃ dūrata	vihAraH-tena-upasaFkrAntaH / aTa BagavAn rAjAnam-ajita-senam dUrata
+   evāgacchantaṃ dṛṣṭvā tān sarvaśrāvakānāmantrayata /	eva-AgacCantam dRzwvA tAn sarva-SrAvakAn-Amantrayata /
+   sarvairnānāṛddhivikurvitaṃ darśayitavyam / atha te sarve mahāśrāvakā	sarvEH-nAnA-RdDi-vikurvitam darSayitavyam / aTa te sarve mahA-SrAvakA
+   jvālāmālaṃ nāma bodhisattvasamādhiṃ samāpannā abhūvan / atha rājā	jvAlAmAlam nAma boDisattva-samADim samApannAH aBUvan / aTa rAjA
+   dūratastaṃ jvālāmālaṃ dṛṣṭvā nandimitramahāśrāvakamevamāha / kasyārthe	dUratas-tam jvAlA-mAlam dRzwvA nandi-mitra-mahA-SrAvakam-evam-Aha / kasya-arTe
+   imaṃ parvataṃ jvālāmālībhūtaṃ paśyāmi / nandimitra āha / atra	imam parvatam jvAlA-mAlIBUtam paSyAmi / nandimitraH Aha / atra
+   śākyamunistathāgato 'rhan samyaksambuddhaḥ sthitiṃ dhriyate yāpayati	SAkya-muniH-taTAgataH arhan samyaksambudDaH sTitim Driyate yApayati
+   dharmaṃ ca deśayati / te ca bodhisattvā jvālāmālaṃ nāma	Darmam ca deSayati / te ca boDisattvAH jvAlA-mAlam nAma
+   bodhisattvasamādhiṃ samāpannāḥ / atha rājā ajitaseno hastirathādavatīrya	boDisattva-samADim samApannAH / aTa rAjA ajitasenaH hasti-raTAt-avatIrya
+   pādābhyāṃ putrasahasreṇa sārdhaṃ yena bhagavāṃstenopasaṅkrāntaḥ / atha	pAdAByAm putra-sahasreNa sArDam yena BagavAn=-tena-upasaFkrAntaH / aTa
+   bhagavān suvarṇavarṇena kāyena vyāmaprabhayā caṅkramate sma / atha rājā	BagavAn suvarNa-varNena kAyena vyAma-praBayA caFkramate sma / aTa rAjA
+   ajitaseno bhagavato rūpavarṇaliṅgasaṃsthānaṃ dṛṣṭvā mūrcchitvā dharaṇitale	ajitasenaH BagavataH rUpa-varNa-liFga-saMsTAnam dRzwvA mUrcCitvA DaraNi-tale
+   nipatitaḥ / atha bhagavān suvarṇavarṇaṃ bāhuṃ prasārya taṃ	nipatitaH / aTa BagavAn suvarNa-varNam bAhum prasArya tam
+   rājānamutthāpayati sma / uttiṣṭha mahārāja kasyārthe prapatitaḥ / rājā āha	rAjAnam-utTApayati sma / uttizWa mahA-rAja kasya-arTe prapatitaH / rAjA Aha
+   / (Asv 128)	/ (Asu 128)
+   bahūni kalpāni acintiyāni jātīśatākoṭi acintiyāni /	bahUni kalpAni acintiyAni jAtI-SatA-kowi acintiyAni /
+   na me kadācidiha dṛṣṭarūpaṃ tvaṃ lokanātho varadakṣiṇīyo //	na me kadAcid-iha dRzwa-rUpam tvam lokanATaH vara-dakziNIyaH //
+   tvaṃ sārthavāha jaravyādhimocakaṃ suvarṇavarṇaṃ varalakṣaṇāṅgam /	tvam sArTavAha jara-vyADi-mocakam suvarNa-varNam vara-lakzaNa-aFgam /
+   dvātṛṃśatā lakṣaṇadhāriṇaṃ mune nāsau kadācidvrajate apāyabhūmim /	dvAtRMSatA lakzaNa-DAriNam mune na-asO kadAcid-vrajate apAya-BUmim /
+   yo lokanāthasya hi rūpu paśye tvaṃ lokanāthā śirasā namasyāmī //	yaH loka-nATasya hi rUpu paSye tvam lokanATA SirasA namasyAmI //
+   atha rājā ajitasenaḥ kṛtāñjaliḥ bhagavantamevamāha / ahaṃ bhagavan tava	aTa rAjA ajitasenaH kRtAQjaliH Bagavantam-evam-Aha / aham Bagavan tava
+   śāsane pravrajiṣyāmi / atha bhagavān tuṣṭa udagra āttamanāḥ pramuditaḥ	SAsane pravrajizyAmi / aTa BagavAn tuzwaH udagre Atta-manAH pramuditaH
+   prītisaumanasyajātaḥ / alabdhalābhā ye tatra mama śāsanaṃ vaistārikaṃ	prIti-sOmanasya-jAtaH / alabDa-lABAH ye tatra mama SAsanam vEstArikam
+   bhavati / taṃ rājānamajitasenamevamāha / gaccha tvaṃ mahārāja svagṛhe	Bavati / tam rAjAnam-ajita-senam-evam-Aha / gacCa tvam mahA-rAja sva-gRhe
+   saptame divase āgamiṣyāmi /	saptame divase AgamizyAmi /
+   atha rājā ajitasenastuṣṭa udagra āttamanāḥ pramuditaḥ	aTa rAjA ajitasenaH-tuzwaH udagre Atta-manAH pramuditaH
+   prītisaumanasyajātastaṃ kalyāṇamitraṃ bhikṣuṃ purataḥsthāpya svagṛhaṃ	prIti-sOmanasya-jAtaH-tam kalyANa-mitram Bikzum puratas-sTApya sva-gRham
+   gatvā sarvānamātyānāmantrayate sma / sarvairgrāmanagaranigamajanapadaiḥ	gatvA sarvAn-amAtyAn-Amantrayate sma / sarvEH-grAma-nagara-nigama-janapadEH
+   pathaṃ śodhayitavyaṃ gṛhe gṛhe dhvajānyucchrāpitavyāni gṛhe gṛhe	paTam SoDayitavyam gRhe gRhe DvajAni-ucCrApitavyAni gRhe gRhe
+   ratnamayāni (Asv 129) kumbhāni paripūrayitavyāni / tadā taiḥ	ratna-mayAni (Asu 129) kumBAni paripUrayitavyAni / tadA tEH
+   sarvairamātyairājñātam / sarvagrāmanagaranigamajanapadaiḥ pathaṃ śodhitaṃ	sarvEH-amAtyEH-AjQAtam / sarva-grAma-nagara-nigama-janapadEH paTam SoDitam
+   dhvajānyucchrāpitāni ratnamayāni kumbhāni paripūritāni / yatra rājā	DvajAni-ucCrApitAni ratna-mayAni kumBAni paripUritAni / yatra rAjA
+   ajitasenaḥ prativasati tatra dvādaśakoṭyo dhvajānāmucchrāpitā dvādaśakoṭyo	ajitasenaH prativasati tatra dvAdaSa-kowyaH DvajAnAm-ucCrApitAH dvAdaSa-kowyaH-
+   ratnamayānāṃ kumbhānāṃ paripūritāḥ / yāvat saptame divase tathāgato 'rhan	ratna-mayAnAm kumBAnAm paripUritAH / yAvat saptame divase taTAgataH arhan
+   samyaksambuddhaḥ	samyaksambudDaH
+   śāriputramaudgalyāyanānandapūrṇamaitrāyaṇīputrapramukhairmahāśrāvakasaṅghaiḥ	SAriputra-mOdgalyAyana-Ananda-pUrNa-mEtrAyaNI-putra-pramuKEH-mahA-SrAvaka-saFGEH
+   parivṛtaḥ puraskṛtaḥ ajitasenasya rājño rājadhānīmanuprāptaḥ / atha rājā	parivRtaH puraskRtaH ajitasenasya rAjQaH rAjaDAnIm-anuprAptaH / aTa rAjA
+   ajitasenaḥ puṣpapiṭakaṃ gṛhītvā kalyāṇamitraṃ purataḥsthāpya bhagavantaṃ	ajitasenaH puzpa-piwakam gRhItvA kalyANa-mitram puratas-sTApya Bagavantam
+   puṣpairavakiran bhagavantamevamāha / anena kuśalamūlena sarvasattvā	puzpEH-avakiran Bagavantam-evam-Aha / anena kuSala-mUlena sarva-sattvA
+   anuttarāṃ samyaksambodhimabhisampadyante / atha rājñā ajitasenena āsanāni	anuttarAm samyaksamboDim-aBisampadyante / aTa rAjQA ajitasenena AsanAni
+   prajñaptāni / tasya bhagavataḥ siṃhāsanaṃ pradattam / atha bhagavān	prajQaptAni / tasya BagavataH siMhAsanam pradattam / aTa BagavAn
+   siṃhāsane niṣaṇṇo rājño 'jitasenasya dharmān deśitavān / atha rājñā	siMhAsane nizaNNaH rAjQaH ajitasenasya DarmAn deSitavAn / aTa rAjQA
+   ajitasenena prabhūtenāhāreṇa khādanīyena bhojanīyena santarpitaḥ / atha	ajitasenena praBUtena-AhAreNa KAdanIyena BojanIyena santarpitaH / aTa
+   rājā ajitaseno jyeṣṭhakaṃ rājakumāraṃ dadāti / imaṃ rājakumāraṃ pravrājaya	rAjA ajitasenaH jyezWakam rAja-kumAram dadAti / imam rAja-kumAram pravrAjaya
+   / tadahaṃ paścāt pravrajiṣyāmi / atha bhagavānāyuṣmantamānandamāmantrayate	/ tat-aham paScAt pravrajizyAmi / aTa BagavAn-Ayuzmantam-Anandam-Amantrayate
+   sma / gacchānanda imaṃ rājakumāraṃ pravrājaya / (Asv 130)	sma / gacCa-AnandaH imam rAja-kumAram pravrAjaya / (Asu 130)
+   athāyuṣmatānandena sa rājakumāraḥ pravrājitaḥ / saha pravrajitamātreṇa	aTa-AyuzmatA-Anandena sa rAja-kumAraH pravrAjitaH / saha pravrajita-mAtreNa
+   arhatphalaṃ prāptamabhūt / sarvabuddhakṣetrāṇi paśyati sma / atha sa	arhat-Palam prAptam-aBUt / sarva-budDa-kzetrANi paSyati sma / aTa sa
+   rājakumāro 'ntarīkṣagatastaṃ pitaraṃ gāthābhiradhyabhāṣata /	rAja-kumAraH antarIkza-gataH-tam pitaram gATABiH-aDi-aBAzata /
+   mā vilamba kurute tāta mā khedaṃ kiñci yāsyasi /	mA vilamba kurute tAta mA Kedam kiQci yAsyasi /
+   aho sulabdhaṃ sugatāna darśanaṃ aho sulabdhaṃ sugatāna lābham //	aho su-labDam sugatAna darSanam aho su-labDam sugatAna lABam //
+   aho sulabdhaṃ paramaṃ hi lābhaṃ pravrajyalābhaṃ sugatena varṇitam /	aho su-labDam paramam hi lABam pravrajya-lABam sugatena varNitam /
+   saṃsāramokṣo sugatena varṇitaṃ pravrajya śīghraṃ ma vilamba tāta //	saMsAra-mokzaH sugatena varNitam pravrajya SIGram ma vilamba tAta //
+   mā khedayī lokavināyakendraṃ	mA KedayI loka-vinAyaka-indram
+   sudurlabhaṃ labdha manuṣyalābhaṃ sudurlabhaṃ darśanu nāyakānām /	su-durlaBam labDa manuzya-lABam su-durlaBam darSanu nAyakAnAm /
+   śīghaṃ ca pravrajya mayā hi labdhaṃ prāptaṃ mayā uttamamagrabodhim /	SIGam ca pravrajya mayA hi labDam prAptam mayA uttamam-agra-boDim /
+   śrutvā na rājā tada putravākyaṃ sa pravrajī śāsani nāyakasya //	SrutvA na rAjA tada putra-vAkyam sa pravrajI SAsani nAyakasya //
+   atha rājakumāro 'ntarīkṣagato gāthāṃ bhāṣitvā tūṣṇīṃ sthito 'bhūt / atha	aTa rAja-kumAraH antarIkza-gataH gATAm BAzitvA tUzNIm sTitaH aBUt / aTa
+   rājā ajitasenaḥ putrasya vākyaṃ śrutvā tuṣṭa udagra (Asv 131) āttamanāḥ	rAjA ajitasenaH putrasya vAkyam SrutvA tuzwaH udagre (Asu 131) Atta-manAH
+   pramuditaḥ prītisaumanasyajāto bhagavantamuddiśya vihāraṃ kārayati sma /	pramuditaH prIti-sOmanasya-jAtaH Bagavantam-uddiSya vihAram kArayati sma /
+   tūryakoṭyo 'nupradattāḥ /	tUrya-kowyaH anupradattAH /
+   antaḥpurasahasramasyāstrīndriyamantarhitapuruṣendriyaṃ prādurabhūt / atha	antaHpura-sahasram-asyAstri-indriyam-antarhita-puruza-indriyam prAduraBUt / aTa
+   rājā ajitaseno bhagavataḥ śāsane pravrajito 'bhūt / tāścāmātyakoṭyo	rAjA ajitasenaH BagavataH SAsane pravrajitaH aBUt / tAH-ca-amAtya-kowyaH-
+   bhagavataḥ śāsane pravrajitā abhūvan / taccāntaḥpurapuruṣasahasraṃ	BagavataH SAsane pravrajitAH aBUvan / tat-ca-antaHpura-puruza-sahasram
+   pravrajitamabhūt / bhagavān rājānamajitasenaṃ pravrājya yena jetavanaṃ	pravrajitam-aBUt / BagavAn rAjAnam-ajita-senam pravrAjya yena jetavanam
+   vihārastena gamanamārabdhavān /	vihAraH-tena gamanam-ArabDavAn /
+   athāyuṣmānānando bhagavantamevamāha / ayaṃ rājā ajitaseno rājyaṃ	aTa-AyuzmAn-AnandaH Bagavantam-evam-Aha / ayam rAjA ajitasenaH rAjyam
+   parityajya vihāraṃ kārayitvā bhagavataḥ śāsane pravrajito 'bhūt / asya	parityajya vihAram kArayitvA BagavataH SAsane pravrajitaH aBUt / asya
+   kīdṛśaṃ kuśalamūlaṃ bhaviṣyati / bhagavānāha / sādhu sādhu ānanda yattvayā	kIdRSam kuSala-mUlam Bavizyati / BagavAn-Aha / sADu sADu Ananda yat-tvayA
+   parikīrtitam / ayaṃ rājā ajitaseno mama śāsane pravrajito bhaviṣyati /	parikIrtitam / ayam rAjA ajitasenaH mama SAsane pravrajitaH Bavizyati /
+   anāgate 'dhvanyaparimitaiḥ kalpairacintyairaparimāṇairajitaprabho nāma	anAgate aDvanya-parimitEH kalpEH-acintyEH-aparimANEH-ajitapraBaH nAma
+   tathāgato 'rhan samyak sambuddho loke bhaviṣyati vidyācaraṇasampannaḥ	taTAgataH arhan samyak sambudDaH loke Bavizyati vidyA-caraNa-sampannaH
+   sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca	sugataH loka-vid-anuttaraH puruza-damya-sAraTiH SAstA devAnAm ca manuzyANAm ca
+   buddho bhagavān / ānanda āha / ayaṃ nandimitramahāśrāvako rājñaḥ kalyāṇa	budDaH BagavAn / AnandaH Aha / ayam nandi-mitra-mahA-SrAvakaH rAjQaH kalyANa
+   mitramabhūt /	mitram-aBUt /
+   kidṛśaṃ vāsya kuśalamūlaṃ bhaviṣyati / bhagavānāha / (Asv 132) ayamānanda	kidRSam vA-asya kuSala-mUlam Bavizyati / BagavAn-Aha / (Asu 132) ayam-Ananda
+   nandimitramahāśrāvakastatraiva kālasamaye nandiprabho nāma tathāgato 'rhan	nandi-mitra-mahA-SrAvakaH-tatra-eva kAla-samaye nandipraBaH nAma taTAgataH arhan
+   samyaksambuddho loke bhaviṣyati / ānanda āha / kīdṛśaṃ bhagavan teṣāṃ	samyaksambudDaH loke Bavizyati / AnandaH Aha / kIdRSam Bagavan tezAm
+   tathāgatānāṃ buddhakṣetraṃ bhaviṣyati / bhagavānāha / aparimitaguṇasañcayā	taTAgatAnAm budDa-kzetram Bavizyati / BagavAn-Aha / aparimita-guNa-saQcayA
+   nāma sā buddhakṣetraṃ bhaviṣyati yatreme tathāgatā bhaviṣyanti / ānanda	nAma sA budDa-kzetram Bavizyati yatra-ime taTAgatAH Bavizyanti / Ananda
+   āha / ya imaṃ dharmaparyāyaṃ sakalaṃ samāptaṃ paścime kāle paścime samaye	Aha / yaH imam Darma-paryAyam sakalam samAptam paScime kAle paScime samaye
+   samprakāśayiṣyati tasya kīdṛśaḥ puṇyaskandho bhaviṣyati / bhagavānāha /	samprakASayizyati tasya kIdRSaH puNya-skanDaH Bavizyati / BagavAn-Aha /
+   yadā mayānanda duṣkarakoṭiniyutaśatasahasrāṇi caritvā bodhirabhisambuddhā	yadA mayA-Ananda duzkara-kowi-niyuta-Sata-sahasrANi caritvA boDiH-aBisambudDA
+   tadā te sattvā bodhimabhisambhotsyante / ya etaddharmaparyāyāt	tadA te sattvAH boDim-aBisamBotsyante / yaH etad-Darma-paryAyAt
+   catuṣpadikāmapi gāthāṃ śroṣyanti avaivartikāśca te sattvā	catuzpadikAm-api gATAm Srozyanti avEvartikAH-ca te sattvA
+   bhaviṣyantyanuttarāyāṃ samyaksambodhau / ānanda āha / ya imaṃ	Bavizyanti-anuttarAyAm samyaksamboDO / AnandaH Aha / yaH imam
+   dharmaparyāyaṃ dharmabhāṇakāḥ samprakāśayiṣyanti teṣāṃ kīdṛśaṃ kuśalamūlaṃ	Darma-paryAyam Darma-BANakAH samprakASayizyanti tezAm kIdRSam kuSala-mUlam
+   bhaviṣyati / bhagavānāha / śṛṇu ānanda rājā bhaviṣyati cakravartī	Bavizyati / BagavAn-Aha / SRNu Ananda rAjA Bavizyati cakravartI
+   caturdvīpeśvaraḥ / ya imaṃ dhamaparyāyaṃ sakalaṃ samāptaṃ	catur-dvIpa-ISvaraH / yaH imam Dama-paryAyam sakalam samAptam
+   samprakāśayiṣyanti muktāśca bhaviṣyanti	samprakASayizyanti muktAH-ca Bavizyanti
+   jātijarāvyādhiparidevaduḥkhadaurmanasyopāyāsebhyaḥ parimuktā bhaviṣyanti /	jAti-jarA-vyADi-parideva-duHKa-dOrmanasya-upAyAseByaH parimuktAH Bavizyanti /
+   ānanda āha / ye paścime kāle paścime samaye sattvā imaṃ dharmaparyāyaṃ	AnandaH Aha / ye paScime kAle paScime samaye sattvAH imam Darma-paryAyam
+   pratikṣepsyanti na pattīyiṣyanti teṣāṃ kā gatirbhaviṣyati kaḥ parāyaṇam /	pratikzepsyanti na pattIyizyanti tezAm kA gatiH-Bavizyati kaH parAyaNam /
+   (Asv 133) bhagavānāha / alamalamānanda / mā me pāpakaṃ karmaskandhaṃ	(Asu 133) BagavAn-Aha / alamalam-Ananda / mA me pApakam karma-skanDam
+   paripṛccha / na mayā śakyaṃ parikīrtayitum / anyatra	paripRcCa / na mayA Sakyam parikIrtayitum / anyatra
+   buddhakoṭibhirnaśakyaṃ parikīrtayitum / ānanda āha / parikīrtaya bhagavan	budDa-kowiBiH-naSakyam parikIrtayitum / AnandaH Aha / parikIrtaya Bagavan
+   parikīrtaya / sugato bhagavānāha / śruṇu ānanda saddharmapratikṣepakasya	parikIrtaya / sugataH BagavAn-Aha / SruNu Ananda sat-Darma-pratikzepakasya
+   gatiṃ parikīrtayiṣyāmi / raurave mahānarake hāhahe mahānarake avīcau	gatim parikIrtayizyAmi / rOrave mahAnarake hAhahe mahA-narake avIcO
+   mahānarake tiryagyonau yamaloke ca pretaviṣaye bahūni kalpasahasrāṇi	mahAnarake tiryagyonO yama-loke ca preta-vizaye bahUni kalpa-sahasrANi
+   duḥkhamanubhavitavyam / yadi kadācinmanuṣyaloke upapatsyate	duHKam-anuBavitavyam / yadi kadAcid-manuzya-loke upapatsyate
+   dīrghaśuṣkatālukaṇṭho bhaviṣyati / dvādaśayojanāni tasya jihvā bhaviṣyati	dIrGa-Suzka-tAlu-kaNWaH Bavizyati / dvAdaSa-yojanAni tasya jihvA Bavizyati
+   / dvādaśahalyāni pravahiṣyanti ye evaṃ vāgabhāṣiṣyante / mā bhoḥ kulaputrā	/ dvAdaSa-halyAni pravahizyanti ye evam vAc-aBAzizyante / mA BoH kula-putrA
+   bhoḥ kvacit saddharmaṃ pratikṣepaṣyatha / saddharmapratikṣepakasya evaṃ	BoH kvacid sadDarmam pratikzepazyaTa / sat-Darma-pratikzepakasya evam
+   gatirbhavati / ānanda āha / kena hetunā bhagavan saddharmaḥ pratikṣipto	gatiH-Bavati / AnandaH Aha / kena hetunA Bagavan sadDarmaH pratikziptaH-
+   bhavati / bhagavānāha / ye sattvāḥ paścime kāle paścime samaye eteṣāṃ	Bavati / BagavAn-Aha / ye sattvAH paScime kAle paScime samaye etezAm
+   sūtrānudhārakāṇāṃ dharmabhāṇakānāmākrośiṣyanti paribhāṣiṣyante	sUtra-anuDArakANAm Darma-BANakAnAm-AkroSizyanti pariBAzizyante
+   kutsayiṣyanti paṃsayiṣyanti tasya dharmabhāṇakasya	kutsayizyanti paMsayizyanti tasya Darma-BANakasya
+   duṣṭacittamutpādayiṣyanti tebhyaḥ saddharmaḥ pratikṣipto bhaviṣyati / yaḥ	duzwa-cittam-utpAdayizyanti teByaH sadDarmaH pratikziptaH Bavizyati / yaH
+   sattvaḥ (Asv 134) trisāhasramahāsāhasryāṃ lokadhātau	sattvaH (Asu 134) tri-sAhasra-mahA-sAhasryAm lokaDAtO
+   sattvānāmakṣīṇyutpāṭayet ayaṃ tato bahutaramapuṇyaskandho bhavet / evameva	sattvAnAm-akzINi-utpAwayet ayam tatas bahutaram-apuNya-skanDaH Bavet / evam-eva
+   ya eteṣāṃ sūtradhārakāṇāṃ dharmabhāṇakāṇāṃ duṣṭacittaprekṣitā ayaṃ tato	yaH etezAm sUtra-DArakANAm Darma-BANakANAm duzwa-citta-prekzitAH ayam tatas-
+   bahutaramapuṇyaskandhaṃ prasaviṣyate /	bahutaram-apuNya-skanDam prasavizyate /
+   atha ānando bhagavato gāthāḥ pratyabhāṣata /	aTa AnandaH BagavataH gATAH pratyaBAzata /
+   bahusūtrasahasrāṇi śrutaṃ me śāstusammukhāt /	bahu-sUtra-sahasrANi Srutam me SAstu-sammuKAt /
+   na came īdṛśaṃ sūtraṃ śrutapūrvaṃ kadācana //	na came IdRSam sUtram Sruta-pUrvam kadAcana //
+   parinirvṛtasya śāstusya paścātkāle subhairave /	parinirvRtasya SAstusya paScAt-kAle su-BErave /
+   idaṃ sūtraṃ prakāśiṣye dhārayiṣye imaṃ nayam //	idam sUtram prakASizye DArayizye imam nayam //
+   yatra sūtraratne asmiṃ paścātkāle bhaviṣyati /	yatra sUtra-ratne asmim paScAt-kAle Bavizyati /
+   rakṣāṃ kariṣyāmi teṣāṃ paścātkāle subhairave //	rakzAm karizyAmi tezAm paScAt-kAle su-BErave //
+   pratikṣipiṣyāmi nedaṃ gambhīraṃ buddhabhāṣitam //	pratikzipizyAmi na-idam gamBIram budDa-BAzitam //
+   athāyuṣmānānando bhagavato gāthā bhāṣitvā tūṣṇīṃ sthito 'bhūt / atha	aTa-AyuzmAn-AnandaH BagavataH gATA BAzitvA tUzNIm sTitaH aBUt / aTa
+   kāśyapo mahāśrāvako bhagavantaṃ gāthābhiradhyabhāṣata /	kASyapaH mahA-SrAvakaH Bagavantam gATABiH-aDi-aBAzata /
+   suvarṇavarṇaṃ varalakṣaṇāṅgaṃ dvātriṃśatā lakṣaṇadhāriṇaṃ jinam /	suvarNa-varNam vara-lakzaNa-aFgam dvAtriMSatA lakzaNa-DAriNam jinam /
+   subhāṣitaṃ sūtra mahānubhāvagaṃ gambhīradharmaṃ nipuṇaṃ sudurdṛśam // (Asv	su-BAzitam sUtra mahA-anuBAva-gam gamBIra-Darmam nipuNam su-durdRSam // (Asu-
+   prakāśitaṃ sūtramidaṃ niruttaraṃ mā paścakāle parinirvṛte jite /	prakASitam sUtram-idam niruttaram mA paSca-kAle parinirvRte jite /
+   dhāriṣye maṃ sūtranayaṃ niruttaraṃ /	DArizye mam sUtra-nayam niruttaram /
+   athāyuṣmān śāradvatīputro bhagavantaṃ gāthābhiradhyabhāṣata /	aTa-AyuzmAn SAradvatI-putraH Bagavantam gATABiH-aDi-aBAzata /
+   namo 'stu te buddha mahānubhāva prakāśitaṃ sutramidaṃ niruttaram /	namaH astu te budDa mahA-anuBAva prakASitam sutram-idam niruttaram /
+   parinirvṛtasya tava lokanāyakā likhiṣyati sūtrametaṃ niruttaram //	parinirvRtasya tava loka-nAyakAH liKizyati sUtram-etam niruttaram //
+   na cāpi so gacchati durgatībhayaṃ svargaṃ ca so gacchati kṣiprametat //	na ca-api saH gacCati durgatI-Bayam svargam ca saH gacCati kzipram-etat //
+   athāyuṣmān pūrṇo maitrāyaṇīputro bhagavantaṃ gāthābhiradhyabhāṣata /	aTa-AyuzmAn pUrNaH mEtrAyaNI-putraH Bagavantam gATABiH-aDi-aBAzata /
+   kṛtajño bahusattvānāṃ mocako durgatībhayāt /	kRtajQaH bahu-sattvAnAm mocakaH durgatI-BayAt /
+   prakāśitaṃ tvayā sūtraṃ gambhīraṃ buddhadakṣiṇam //	prakASitam tvayA sUtram gamBIram budDa-dakziNam //
+   ahaṃ hi paścime kāle nirvṛte tvayi nāyake /	aham hi paScime kAle nirvRte tvayi nAyake /
+   idaṃ sūtraṃ prakāśiṣye hitāya sarvaprāṇinām //	idam sUtram prakASizye hitAya sarva-prANinAm //
+   iti /	iti /
+   atha brahmā sahāmpatirbhagavantaṃ gāthābhiradhyabhāṣata /	aTa brahmA sahAmpatiH-Bagavantam gATABiH-aDi-aBAzata /
+   namo 'stu te buddha mahānubhāvā prakāśitaṃ sūtramidaṃ tvayā śubham / (Asv	namaH astu te budDa mahA-anuBAvA prakASitam sUtram-idam tvayA SuBam / (Asu-
+   parinirvṛtasya tava lokanāyaka rakṣāṃ kariṣyāmi ha sūtraratne //	parinirvRtasya tava lokanAyaka rakzAm karizyAmi ha sUtra-ratne //
+   atha catvāro mahārājā bhagavantaṃ gāthābhiradhyabhāṣanta /	aTa catvAraH mahA-rAjAH Bagavantam gATABiH-aDyaBAzanta /
+   aho suramyaṃ varasūtraratnaṃ prakāśitam īdṛśa paścakāle /	aho su-ramyam vara-sUtra-ratnam prakASitam IdRSa paSca-kAle /
+   ..................sūtraratnaṃ prakāśitaṃ paśyati paścakāle //	..................sUtra-ratnam prakASitam paSyati paSca-kAle //
+   sugatāna vai lokavināyakānāṃ ahaṃ hi dhāriṣyam sūtraratnam /	sugatAna vE loka-vinAyakAnAm aham hi DArizyam sUtra-ratnam /
+   rakṣāṃ kariṣyāmyaha sūtraratnaṃ imavocadbhagavānāttamanā //	rakzAm karizyAmi-aha sUtra-ratnam imavocat-BagavAn-Atta-manAH //
+   sā ca sarvāvatī parṣadbhagavato bhāṣitamabhyanandat /	sA ca sarvAvatI parzad-BagavataH BAzitam-aByanandat /
+   ajitasenavyakaraṇanirdeśo nāma mahāyānasūtraṃ samāptam //	ajitasenavyakaraNa-nirdeSaH nAma mahAyAna-sUtram samAptam //
+   deyadharmoyaṃ bālosiṃhena sārdha bhāryājājatitrana sārdhaṃ mātāpitroḥ	deya-Darmoyam bAlosiMhena sa-arDa BAryA-jAjatitrana sArDam mAtA-pitroH
+   paramaduṣkartroḥ sārdhaṃ kṣīṇīena akhiloṭiena diśoṭajāja maṅgali.......	parama-duzkartroH sArDam kzINIena aKilowiena diSowajA-ja maFgali.......
+   utrayannagarvidoṭiena vaṭrari-khuśoṭi-khūśogoṭiena sārdhaṃ sarvasattvaiḥ	utrayannagarvi-dowiena vawrari--Ku-Sowi--KU-SaH-gowiena sArDam sarva-sattvEH
+   sarva...... bhiryatra puṇya tadbha......	sarva-...... BiH-yatra puNya tad-Ba......
+   sarvasattvānāmanuttaraḥ...... sārdhaṃ paramakalyāṇamitrasthirabandhuena /	sarva-sattvAnAm-anuttaraH...... sArDam parama-kalyANa-mitra-sTira-banDuena /
+   lisvitamidaṃ pustakaṃ dharmabhāṇakanarendradattena /	lisvitam-idam pustakam Darma-BANaka-narendra-dattena /

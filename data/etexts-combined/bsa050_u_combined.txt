@@ -1,0 +1,806 @@
+   Pāramitāsamāsaḥ	PAra mita asamAsaH
+   1. dānapāramitāsamāsaḥ	1. dAna pAramitA samAsaH
+   namo buddhāya //	namaH budDAya //
+   tathāgatānāṃ padam ārurukṣurāśritya ratnatrayam ādareṇa /	taTAgatAnAm padam ArurukzuH ASritya ratna trayam AdareNa /
+   bodhau nidhāyāvicalaṃ manaśca kuryāt parātmavyatihāram ādau // Ps_1.1 //	boDO niDAya avicalam manaH ca kuryAt para Atma vyatihAram AdO // Ps_1.1 //
+   tataḥ paraṃ dānavidhau prayogaḥ kāryastathā lokahitonmukhena /	tatas param dAna viDO prayogaH kAryaH taTA loka hita unmuKena /
+   yathā svagātrāṇyapi yācitasya na yogasaṃkocavirūpatā syāt // Ps_1.2 //	yaTA sva gAtrANi api yAcitasya na yoga saMkoca virUpa tA syAt // Ps_1.2 //
+   mātsaryadoṣopacayāya yat syān na tyāgacittaṃ paribṛṃhayed vā /	mAtsarya doza upacayAya yat syAt na tyAga cittam paribRMhayet vA /
+   tattyaktumevārhati bodhisattvaḥ parigrahacchadmamayaṃ vighātam // Ps_1.3	tat tyaktum eva arhati boDisattvaH parigraha= Cadma mayam viGAtam // Ps_1.3
+   tad bodhisattvaḥ katham ādadīta ratnaṃ dhanaṃ vā divi vāpi rājyam /	tat boDisattvaH kaTam AdadIta ratnam Danam vA divi vA api rAjyam /
+   yat tyāgacittapratipakṣadakṣaṃ saṃbodhimārgāvaraṇaṃ karoti // Ps_1.4 //	yat tyAga citta pratipakza dakzam saMboDi mArga AvaraNam karoti // Ps_1.4 //
+   saṃsmṛtya caryātiśayaṃ munīnāṃ tadunmukhīṃ svāmapi ca pratijñām /	saMsmRtya caryA atiSayam munInAm tad unmuKIm svAm api ca pratijQAm /
+   parigrahasnehavinigrahārthaṃ kuryād imāṃścetasi sadvitarkān // Ps_1.5 //	parigraha sneha vinigraha arTam kuryAt imAn= cetasi sa t vitarkAn // Ps_1.5 //
+   yadā nisṛṣṭo jagate mayāyaṃ kāyo 'pī tattyāgakṛto 'pi dharmaḥ /	yadA nisRzwaH jagate mayA ayam kAyaH apI tad tyAga kRtaH api DarmaH /
+   bāhye tadā vastuni saṅgacittaṃ na me gajasnānam ivānurūpam // Ps_1.6 //	bAhye tadA vastuni saFga cittam na me gaja snAnam iva anurUpam // Ps_1.6 //
+   māṃsārthino māṃsamidaṃ harantu majjānamapyuddharaṇāt tadarthī /	mAMsa arTinaH mAMsam idam harantu majjAnam api udDaraNAt tad arTI /
+   ahaṃ hi lokārthamidaṃ bibharmi śarīrakaṃ kiṃ bata vastu bāhyam // Ps_1.7	aham hi loka arTam idam biBarmi SarIrakam kim bata vastu bAhyam // Ps_1.7
+   yathaiva bhaiṣajyamahīruhasya tvakpattrapuṣpādi janā haranti /	yaTA eva BEzajya mahIruhasya tvac pattra puzpa Adi janAH haranti /
+   madīyamete 'paharanti ceti naivaṃ vikalpāḥ samudācaranti // Ps_1.8 //	madIyam ete apaharanti ca iti na evam vikalpAH samudAcaranti // Ps_1.8 //
+   tathaiva lokārthasamudyatena svalpo 'pi kāryo na mayā vikalpaḥ /	taTA eva loka arTa samudyatena su alpaH api kAryaH na mayA vikalpaH /
+   duḥkhe kṛtaghne satatāśucau ca dehe parasmāyupayujyamāne // Ps_1.9 //	duHKe kRtaGne satata aSucO ca dehe parasmAyupayujyamAne // Ps_1.9 //
+   ādhyātmike caiva mahījalādye bāhye mahābhūtagaṇe ca tulye /	ADyAtmike ca eva mahI jala At ye bAhye mahABUta gaNe ca tulye /
+   idaṃ mamedaṃ na mameti ko 'yam ajñānapaṅkāṅkavidhirmayāpi // Ps_1.10 //	idam mama idam na mama iti kaH ayam ajQAna paFka aFka viDiH mayA api // Ps_1.10 //
+   gṛhṇīta gātrāṇyapi me yatheṣṭaṃ mā kārṣurasmin parakīyabuddhim /	gRhNIta gAtrANi api me yaTezwam mA kArzuH asmin parakIya budDim /
+   yuṣmākameva svamidaṃ kimarthaṃ nātmābhimāno mama kaścidatra // Ps_1.11 //	yuzmAkam eva svam idam kim arTam na Atma aBimAnaH mama kaScid atra // Ps_1.11 //
+   ityadbhutā yasya bhavantyabhīkṣṇaṃ saṃbuddhabhāvānuguṇā vitarkāḥ /	iti adButAH yasya Bavanti aBIkzNam saMbudDa BAva anuguNAH vitarkAH /
+   taṃ bodhisattvātiśayaṃ vadanti buddhā mahāsattvamacintyasattvāḥ // Ps_1.12	tam boDisattva atiSayam vadanti budDAH mahAsattvam acintya sattvAH // Ps_1.12
+   evaṃ sa dānapratipattiśūraḥ karoti kāye 'pi na jātvapekṣām /	evam sa dAna pratipatti SUraH karoti kAye api na jAtu apekzAm /
+   tasyāprayatnādupayānti śuddhiṃ karmāṇi vākkāyamanomayāni // Ps_1.13 //	tasya aprayatnAt upayAnti SudDim karmANi vAc kAya manaH mayAni // Ps_1.13 //
+   viśuddhakarmā ca hitaṃ pareṣām āyāsaduḥkhena vinā karoti /	viSudDa karmA ca hitam parezAm AyAsa duHKena vinA karoti /
+   itthaṃ sa sattvārthamabhiprayatno nayānaye kauśalamabhyupaiti // Ps_1.14	itTam sa sattva arTam aBiprayatnaH naya Anaye kOSalam aByupEti // Ps_1.14
+   bhūyastaraṃ prāpya balaṃ sa dānāt saddharmadānena tataḥ karoti /	BUyastaram prApya balam sa dAnAt sat Darma dAnena tatas karoti /
+   bhavāndhakāre bhramatāṃ janānāṃ sūryodayāt spaṣṭataraṃ prakāśam // Ps_1.15	Bava anDakAre BramatAm janAnAm sUrya udayAt spazwataram prakASam // Ps_1.15
+   sādhāraṇī lokahitārthasiddhiḥ sarvajñabhāvābhyudayapratiṣṭhā /	sADAraNI loka hita arTa sidDiH sarvajQa BAva aByudaya pratizWA /
+   ato 'sya puṇyākṣayatābhyudeti prabheva bhānorudayasthitasya // Ps_1.16 //	atas asya puNya akzayatA aByudeti praBA iva BAnoH udaya sTitasya // Ps_1.16 //
+   ityadbhutā dānamayā guṇaughā ye bodhisattvābharaṇībhavanti /	iti adButAH dAna mayAH guNa oGAH ye boDisattva ABaraNI Bavanti /
+   tasmāt tadīyaṃ parikarma cittaṃ dānasya kāruṇyapuraḥsarasya // Ps_1.17 //	tasmAt tadIyam parikarma cittam dAnasya kAruNya puraHsarasya // Ps_1.17 //
+   āyuḥpratībhānabalādi bauddhaṃ niṣpādayeyaṃ jagatāmanena /	AyuH pratIBAna bala Adi bOdDam nizpAdayeyam jagatAm anena /
+   sattvā mayā cāmiṣasaṃgṛhītāḥ saddharmapātrāṇyapi me bhaveyuḥ // Ps_1.18 //	sattvAH mayA ca Amiza saMgRhItAH sat Darma pAtrANi api me BaveyuH // Ps_1.18 //
+   ityannadānaṃ pradadāti vidvān na svargasaṃpattiparigrahāya /	iti anna dAnam pradadAti vidvAn na svarga saMpatti parigrahAya /
+   pānānyapi kleśatṛṣaḥ śamāya lokasya lokārthacaro dadāti // Ps_1.19 //	pAnAni api kleSa tRzaH SamAya lokasya loka arTa caraH dadAti // Ps_1.19 //
+   bauddhasya caivarddhiviceṣṭitasya nirvāṇasaukhyasya ca sarvalokaḥ /	bOdDasya ca eva RdDi vicezwitasya nirvANa sOKyasya ca sarva lokaH /
+   lābhī kathaṃ syāditi lokanātho yānaṃ mahāyānaratirdadāti // Ps_1.20 //	lABI kaTam syAt iti lokanATaH yAnam mahAyAna ratiH dadAti // Ps_1.20 //
+   saṃbuddhavarṇasya ca hemabhāso lajjāmayasyaiva ca bhūṣaṇasya /	saMbudDa varNasya ca hema BAsaH lajjA mayasya eva ca BUzaNasya /
+   niṣpattaye vastravidhīnudārān satkṛtya kālānuguṇaṃ dadāti // Ps_1.21 //	nizpattaye vastra viDIn udArAn satkRtya kAla anuguNam dadAti // Ps_1.21 //
+   saṃbodhimaṇḍāsanam āsanāni śayyāśca śayyātrayam īkṣamāṇaḥ /	saMboDimaNxAsanam AsanAni SayyAH ca SayyA trayam IkzamANaH /
+   sarvajñacakṣuḥpratilabdhaye ca caityeṣu rathyāsu ca dīpamālām // Ps_1.22	sarvajQa cakzuH pratilabDaye ca cEtyezu raTyAsu ca dIpa mAlAm // Ps_1.22
+   vādyāni divyaśrutisaṃgrahārthaṃ saṃbuddhaśīlāya ca gandhadānam /	vAdyAni divya Sruti saMgraha arTam saMbudDa SIlAya ca ganDa dAnam /
+   sabhāprapārāmavihāragehāñ śaraṇyabhāvābhimukho dadāti // Ps_1.23 //	saBA prapAra Ama vihAra gehAn SaraNya BAva aBimuKaH dadAti // Ps_1.23 //
+   dānaṃ rasānāṃ tu susaṃskṛtāṇāṃ rasārasāgratvaparigrahāya /	dAnam rasAnAm tu susaMskRtANAm rasa arasa agra tva parigrahAya /
+   bhaiṣajyadānānyajarāmaratvaṃ lokān imān prāpayituṃ dadāti // Ps_1.24 //	BEzajya dAnAni ajara amara tvam lokAn imAn prApayitum dadAti // Ps_1.24 //
+   bhujiṣyatāmātmasamaṃ ninīṣurdāśīkṛtān kleśagaṇena lokān /	BujizyatAm Atma samam ninIzuH dASIkRtAn kleSa gaNena lokAn /
+   sa dāsadāsyādi sadā dadāti dāsānudāsānaparākariṣyan // Ps_1.25 //	sa dAsa dAsya Adi sadA dadAti dAsAn udAsAn aparAkarizyan // Ps_1.25 //
+   dadāti putrān duhitṛḥ priyāśca bodhipriyatvādanavadyadānam /	dadAti putrAn duhitRH priyAH ca boDi priya tvAt anavadya dAnam /
+   ekāntasaddharmaratipriyaśca krīḍāviśeṣān ratihetubhūtān // Ps_1.26 //	ekAnta sad Darma rati priyaH ca krIxA viSezAn rati hetu BUtAn // Ps_1.26 //
+   suvarṇamuktāmaṇividrumādīn dadāti sallakṣaṇasaṃpadartham /	suvarNa muktA maNi vidruma AdIn dadAti sat lakzaNa saMpad arTam /
+   ratnapradīptāni ca bhūṣaṇāni citrāṇyanuvyañjanasauṣṭhavāya // Ps_1.27 //	ratna pradIptAni ca BUzaNAni citrANi anuvyaQjana sOzWavAya // Ps_1.27 //
+   dhyānārthamudyānatapovanāni saddharmakoṣāya ca vittakoṣam /	DyAna arTam udyAna tapaH vanAni sat Darma kozAya ca vitta kozam /
+   munīndrarājyāya dadātyakhinno rājyāni cājñāpanamaṇḍitāni // Ps_1.28 //	muni indra rAjyAya dadAti aKinnaH rAjyAni ca AjQApana maNxitAni // Ps_1.28 //
+   cakrāṅkitābhyāṃ caraṇottamābhyām saṃbodhimaṇḍākramaṇotsukatvāt /	cakra aFkitAByAm caraNa uttamAByAm saMboDi maNxa AkramaNa utsuka tvAt /
+   sa nirvikāraścaraṇapradānaṃ lokārthaniṣpattikaro dadāti // Ps_1.29 //	sa nirvikAraH caraNa pradAnam loka arTa nizpatti karaH dadAti // Ps_1.29 //
+   duḥkhāpagāyāmatiśīghragāyāṃ magnasya lokasya kathaṃ na dadyām /	duHKa apagAyAm ati SIGra gAyAm magnasya lokasya kaTam na dadyAm /
+   saddharmahastāniti saṃpradatte hastānvikoṣāmburuhaprakāśān // Ps_1.30 //	sadDarma hastAn iti saMpradatte hastAn vikoza amburuha prakASAn // Ps_1.30 //
+   śraddhendriyādipratipūraṇārthaṃ sa karṇanāsādi dadātyakhinnaḥ /	SradDA indriya Adi pratipUraNa arTam sa karNa nAsA Adi dadAti aKinnaH /
+   cakṣuśca cakṣurvimalīkariṣyaṃllokasya sarvāvaraṇaprahāṇāt // Ps_1.31 //	cakzuH ca cakzuH vimalIkarizyan= lokasya sarva AvaraNa prahANAt // Ps_1.31 //
+   utkṛtya māṃsāni saśoṇitāni dadāti kāruṇyavaśena nāthaḥ /	utkRtya mAMsAni sa SoNitAni dadAti kAruNya vaSena nATaH /
+   bhūmyagnivāyvambuvadeva me syāllokopajīvyaḥ katham eṣa kāyaḥ // Ps_1.32 //	BUmi agni vAyu ambu vat eva me syAt loka upajIvyaH kaTam eza kAyaH // Ps_1.32 //
+   lokottamajñānasamāpanārthaṃ sa uttamāṅgairapi satkaroti /	loka uttama jQAna samApana arTam saH uttamAFgEH api satkaroti /
+   abhyāgatasyārthijanasya yācñāṃ prāgeva dehāvayavaistadanyaiḥ // Ps_1.33 //	aByAgatasya arTi janasya yAcQAm prAk eva deha avayavEH tad anyEH // Ps_1.33 //
+   majjānamapyadbhutavīraceṣṭo dadāti lokasya kathaṃ na kuryām /	majjAnam api adButa vIra cezwaH dadAti lokasya kaTam na kuryAm /
+   tathāgataṃ vigrahamapradhṛṣyaṃ vṛṣṭyāpi vajrojjvalayā patantyā // Ps_1.34	taTAgatam vigraham apraDRzyam vRzwyA api vajra ujjvalayA patantyA // Ps_1.34
+   ityevamādyaṃ satatānavadyaṃ tadbodhisattvāmbudharapramuktam /	iti evamAdyam satata an avadyam tat boDisattva ambuDara pramuktam /
+   prahlādya dānāmbu jagatsamagraṃ sarvajñatāsāgaramabhyupaiti // Ps_1.35 //	prahlAdya dAna ambu jagat samagram sarvajQa tA sAgaram aByupEti // Ps_1.35 //
+   anviṣya bhogānviṣameṇa nāsau dadāti notpīḍanayā parasya /	anvizya BogAn vizameNa na asO dadAti na utpIxanayA parasya /
+   na trāsalajjāpratikārahetorna dakṣinīyān parimārgamāṇaḥ // Ps_1.36 //	na trAsa lajjA pratikAra hetoH na dakzinIyAn parimArgamANaH // Ps_1.36 //
+   na ca praṇīte sati rūkṣadānam adakṣiṇīyā iti vāvamanya /	na ca praNIte sati rUkza dAnam adakziNIyAH iti vA avamanyaH /
+   vipākakāṅkṣākṛpaṇīkṛtaṃ vā satkārahīnaṃ vijugupsitaṃ vā // Ps_1.37 //	vipAka kAFkzA kRpaNIkRtam vA satkAra hInam vijugupsitam vA // Ps_1.37 //
+   naivonnatiṃ śīlavate prayacchan viparyayaṃ gacchati netarasmai /	na eva unnatim SIlavate prayacCan viparyayam gacCati na itarasmE /
+   nātmānamutkarṣati naiva nindāṃ karoti so 'nyasya samaprayogaḥ // Ps_1.38	na AtmAnam utkarzati na eva nindAm karoti saH anyasya sama prayogaH // Ps_1.38
+   na cāsya mithyāśayadānamasti naivāstyanadhyāśayadānamasya /	na ca asya miTyA Saya dAnam asti na eva asti anaDyASaya dAnam asya /
+   na krodhadoṣopahataṃ dadāti naivānutāpaṃ kurute sa dattvā // Ps_1.39 //	na kroDa doza upahatam dadAti na eva anutApam kurute sa dattvA // Ps_1.39 //
+   na ślāghyamāno vipulaṃ dadāti nāślāghyamāno 'nyataraṃ dadāti /	na SlAGyamAnaH vipulam dadAti na aSlAGyamAnaH anyataram dadAti /
+   na yācakānāmupaghātadānaṃ yad vā bhaved vipratipattihetuḥ // Ps_1.40 //	na yAcakAnAm upaGAta dAnam yat vA Bavet vipratipatti hetuH // Ps_1.40 //
+   nākāladānaṃ sa dadāti kiṃcid dadāti kāle viṣame 'pi naiva /	na akAla dAnam sa dadAti kiMcid dadAti kAle vizame api na eva /
+   na devabhāvāya na rājyahetorna hīnayānaspṛhayālubhāvāt // Ps_1.41 //	na deva BAvAya na rAjya hetoH na hIna yAna spRhayAlu BAvAt // Ps_1.41 //
+   nāsau mukhollokanayā dadāti na kīrtiśabdāya na hāsyahetoḥ /	na asO muKa ullokanayA dadAti na kIrti SabdAya na hAsya hetoH /
+   paryāptametacca mameti naivaṃ yadvā vihiṃsāhasitaṃ pareṣām // Ps_1.42 //	paryAptam etat ca mama iti na evam yat vA vihiMsA hasitam parezAm // Ps_1.42 //
+   sarvajñabhāvāpariṇāmitaṃ vā sagarhitaṃ vā sa dadāti naiva /	sarvajQa BAvA pariNAmitam vA sa garhitam vA sa dadAti na eva /
+   tato 'sya tat pāramitābhidhānaṃ parāṃ viśuddhiṃ samupaiti dānam // Ps_1.43	tatas asya tat pAramitA aBiDAnam parAm viSudDim samupEti dAnam // Ps_1.43
+   dānodbhavaṃ tasya ca puṇyarāśiṃ lokāt samagrādapi piṇḍitāni /	dAna udBavam tasya ca puNya rASim lokAt samagrAt api piNxitAni /
+   puṇyāni naivābhibhavanti yasmāllokottamattvaṃ sa tato 'bhyupaiti //	puNyAni na eva aBiBavanti yasmAt loka uttamat tvam sa tatas aByupEti //
+   Ps_1.44 //	Ps_1.44 //
+   pañcasvabhijñāsu viniścitātmā lokāya yadvarṣati dānavarṣam /	paQcasu aBijQAsu viniScita AtmA lokAya yat varzati dAna varzam /
+   samantatastasya kutaḥ pramāṇaṃ parikṣayo vā satatapravṛtteḥ // Ps_1.45 //	samantataH tasya kutas pramANam parikzayaH vA satata pravRtteH // Ps_1.45 //
+   yadakṣayāṇāṃ jagatāṃ hitāya jñānasya hetuśca yadakṣayasya /	yat akzayANAm jagatAm hitAya jQAnasya hetuH ca yat akzayasya /
+   traidhātukena kṣayiṇā na tacca saṃlipyate vyomavadambudena // Ps_1.46 //	trEDAtukena kzayiNA na tat ca saMlipyate vyoma vat ambudena // Ps_1.46 //
+   tacchūnyatākārasamāhitaṃ ca nimittadoṣaiḥ parivarjitaṃ ca /	tat SUnyatA AkAra samAhitam ca nimitta dozEH parivarjitam ca /
+   akiṃcanakleśaviyogasiddhestenākṣayaṃ tatkathitaṃ munīndraiḥ // Ps_1.47 //	akiMcana kleSa viyoga sidDeH tena akzayam tat kaTitam muni indrEH // Ps_1.47 //
+   asmin punaḥ satpuruṣāvadāne dāne nidāne sukhavistārāṇām /	asmin punar sat puruza avadAne dAne nidAne suKa vistArANAm /
+   cikīrṣatā yogamanityasaṃjñā bhogeṣu kāryā karuṇā ca loke // Ps_1.48 //	cikIrzatA yogam anitya saMjQA Bogezu kAryA karuNA ca loke // Ps_1.48 //
+   bhogānanityānabhivīkṣamānaḥ sātmyaṃ gatāyāṃ ca tataḥ kṛpāyām /	BogAn anityAn aBivIkzamAnaH sAtmyam gatAyAm ca tatas kRpAyAm /
+   sa niścayaṃ gacchati dīyate yad etān madīyāṃ na tu yadgṛhe me // Ps_1.49	sa niScayam gacCati dIyate yat etAn madIyAm na tu yat gRhe me // Ps_1.49
+   yaddattam asmān na bhayaṃ kadā cid gehe yadasmādbhayamabhyupaiti /	yat dattam asmAt na Bayam kadA cit gehe yat asmAt Bayam aByupEti /
+   sādhāraṇaṃ rakṣyamatarpakaṃ ca datte tu naite prabhavantyanarthāḥ //	sADAraNam rakzyam atarpakam ca datte tu na ete praBavanti anarTAH //
+   Ps_1.50 //	Ps_1.50 //
+   sukhaṃ paratrāpi karoti dattam ihaiva duḥkhaṃ prakarotyadattam /	suKam paratra api karoti dattam iha eva duHKam prakaroti adattam /
+   ulkāsvabhāvaṃ hi dhanaṃ narāṇām atyajyamānaṃ vyasanaṃ dadāti // Ps_1.51 //	ulkA svaBAvam hi Danam narANAm atyajyamAnam vyasanam dadAti // Ps_1.51 //
+   adīyamānaṃ nidhanaṃ prayāti nidhānatāṃ yāti hi dīyamānam /	adIyamAnam niDanam prayAti niDAna tAm yAti hi dIyamAnam /
+   dhanasya niḥsāralaghoḥ sa sāro yaddīyate lokahitonmukhena // Ps_1.52 //	Danasya niHsAra laGoH sa sAraH yat dIyate loka hita unmuKena // Ps_1.52 //
+   yaddattametadviduṣāṃ praśasyaṃ bālo janastannicayapraśaṃsī /	yat dattam etat viduzAm praSasyam bAlaH janaH tad nicaya praSaMsI /
+   prāyo viyogo hi parigrahebhyo dānādbhavatyabhyudayo yaśaśca // Ps_1.53 //	prAyas viyogaH hi parigraheByaH dAnAt Bavati aByudayaH yaSaH ca // Ps_1.53 //
+   dattaṃ na tatkleśaparigrahāya kleśāya mātsaryamanāryadharmaḥ /	dattam na tad kleSa parigrahAya kleSAya mAtsaryam anArya DarmaH /
+   yaddīyate satpatha eṣa tasmād ato 'nyathā kāpathamāhurāryāḥ // Ps_1.54 //	yat dIyate sat paTaH eza tasmAt atas anyaTA kApaTam AhuH AryAH // Ps_1.54 //
+   abhyāgate yācanake ca tena saṃbodhisaṃbhāravivṛddhihetau /	aByAgate yAcanake ca tena saMboDi saMBAra vivRdDi hetO /
+   tatpreṣyasaṃjñātmani saṃniveśyā kalyāṇamitrapriyatā ca tasmin // Ps_1.55	tad prezya saMjQA Atmani saMniveSyA kalyANa mitra priya tA ca tasmin // Ps_1.55
+   mahātmanāṃ yatpratanūbhavanti rāgādayo yācanakānniśamya /	mahAtmanAm yat pratanUBavanti rAga AdayaH yAcanakAn niSamya /
+   tenotsavābhyāgamamapyatītya teṣāṃ priyaṃ yācanakopayānam // Ps_1.56 //	tena utsava aByAgamam api atItya tezAm priyam yAcanaka upayAnam // Ps_1.56 //
+   sa cetpunaryācanake 'pi labdhe dātuṃ na śaknotyatidurbalatvāt /	sa ced punar yAcanake api labDe dAtum na Saknoti ati durbala tvAt /
+   tenānuneyo madhureṇa sāmnā sa yācakaḥ syānna yathā samanyuḥ // Ps_1.57 //	tena anuneyaH maDureNa sAmnA sa yAcakaH syAt na yaTA sa manyuH // Ps_1.57 //
+   kāryaśca mātsaryavinigrahāya mohaprahāṇāya ca tena yatnaḥ /	kAryaH ca mAtsarya vinigrahAya moha prahANAya ca tena yatnaH /
+   tathā yathā yācanakaḥ kadā cid vaimukhyadīno na tato vyāpaiti // Ps_1.58	taTA yaTA yAcanakaH kadA cit vEmuKya dInaH na tatas vyApEti // Ps_1.58
+   saṃbodhicittaṃ kuta eva tasya dravye 'pi yo matsaramabhyupaiti /	saMboDi cittam kutas eva tasya dravye api yaH matsaram aByupEti /
+   vāsaḥ sucittasya hi nāsti doṣairambhonidhānasya śavairyathaiva // Ps_1.59	vAsaH su cittasya hi na asti dozEH amBaH niDAnasya SavEH yaTA eva // Ps_1.59
+   tasmāt tyaktvā sarvataḥ sarvadoṣān bodhiprārthī sarvadā sarvadaḥ syāt /	tasmAt tyaktvA sarvatas sarva dozAn boDi prArTI sarvadA sarva daH syAt /
+   trātuṃ lokānekavīraḥ kva cittaṃ ceṣṭā dainyānūrjiteyaṃ kva caiva //	trAtum lokAneka vIraH kva cittam cezwA dEnyAn UrjitA iyam kva ca eva //
+   Ps_1.60 //	Ps_1.60 //
+   mūlaṃ dānasyāsya saṃbodhicittaṃ tanna tyājyaṃ ditsatā dānamīdṛk /	mUlam dAnasya asya saMboDi cittam tat na tyAjyam ditsatA dAnam IdRS /
+   taṃ saṃbuddhāstyāgināmagramāhuryo lokeṣu tyāgamādhitsuragram // Ps_1.61 //	tam saMbudDAH tyAginAm agram AhuH yaH lokezu tyAgam ADitsuH agram // Ps_1.61 //
+   // dānapāramitāsamāsaḥ //	// dAna pAramitA samAsaH //
+   2. śīlapāramitāsamāsaḥ	2. SIla pAramitA samAsaH
+   saṃbuddhaśīlābharaṇābhirāmān kartuṃ janānutpatitādareṇa /	saMbudDa SIla ABaraNa aBirAmAn kartum jana an utpatita AdareNa /
+   svameva śīlaṃ pariśodhyamādau śīlaṃ hi śakterbalamādadhāti // Ps_2.1 //	svam eva SIlam pariSoDyam AdO SIlam hi SakteH balam AdaDAti // Ps_2.1 //
+   loke tathā prema niveśayeta svapne 'pi na droharuciryathā syāt /	loke taTA prema niveSayeta svapne api na droha ruciH yaTA syAt /
+   paropakāraikarasaḥ pareṣāṃ bhogānahīnāmiva na spṛśecca // Ps_2.2 //	para upakAra eka rasaH parezAm BogAn ahInAm iva na spRSet ca // Ps_2.2 //
+   dvandvapravṛttervinivṛttabuddhiḥ prāgeva dārapraṇayāt parasya /	dvandva pravRtteH vinivRtta budDiH prAk eva dAra praNayAt parasya /
+   kurvīta lokasya hitārthakartā kāyena ceṣṭāḥ sujanasya ceṣṭāḥ // Ps_2.3 //	kurvIta lokasya hita arTa kartA kAyena cezwAH su janasya cezwAH // Ps_2.3 //
+   mādhuryaramyāmapi kālayuktāṃ satyānukūlāmavibhedinīṃ ca /	mADurya ramyAm api kAla yuktAm satya anukUlAm aviBedinIm ca /
+   saddharmatattvādhigamāya vāṇīṃ brūyādvipakṣāduparamya tasyāḥ // Ps_2.4 //	sadDarma tattva aDigamAya vANIm brUyAt vipakzAt uparamya tasyAH // Ps_2.4 //
+   kāryaṃ prayatnena mayā yadasmai tatsādhanena svayameva labdham /	kAryam prayatnena mayA yat asmE tad sADanena svayam eva labDam /
+   parasya saukhyeṣviti tuṣṭacittaḥ kuryān manonirviṣayāmabhidhyām // Ps_2.5	parasya sOKyezu iti tuzwa cittaH kuryAt manaH nirvizayAm aBiDyAm // Ps_2.5
+   mamaiva daurabalyamidaṃ yadeṣa kleśāsvatantraḥ svahitaṃ na vetti /	mama eva dOra balyam idam yat eza kleSa asvatantraH sva hitam na vetti /
+   parāparādheṣvapi kārya evaṃ vyāpādavahnipraśamāya yatnaḥ // Ps_2.6 //	para aparADezu api kAryaH evam vyApAda vahni praSamAya yatnaH // Ps_2.6 //
+   kudṛṣṭisaṃjñaṃ ca tamaḥpratānaṃ jñānaprakāśairmanaso nirasya /	kudRzwi saMjQam ca tamaH pratAnam jQAna prakASEH manasaH nirasya /
+   kuryādahāryāṃ naradevavarye bhaktiṃ guṇābhyāsavirūḍhamūlām // Ps_2.7 //	kuryAt ahAryAm naradeva varye Baktim guNa aByAsa virUXa mUlAm // Ps_2.7 //
+   svargasya mokṣasya ca satpathebhyo naivoccalet karmapathebhya ebhyaḥ /	svargasya mokzasya ca sat paTeByaH na eva uccalet karma paTeByaH eByaH /
+   atra sthitānāṃ hi jagaddhitārthāścintāviśeṣāḥ saphalībhavanti // Ps_2.8 //	atra sTitAnAm hi jagat hita arTAH cintA viSezAH saPalIBavanti // Ps_2.8 //
+   samāsataḥ śīlamidaṃ vadanti yaḥ saṃvaraḥ kāyavacomanastaḥ /	samAsatas SIlam idam vadanti yaH saMvaraH kAya vacaH manaH tas /
+   kārtsnyena cātraiva yataḥ sa tasmād etānyayatnena viśodhayecca // Ps_2.9	kArtsnyena ca atra eva yatas sa tasmAt etAni ayatnena viSoDayet ca // Ps_2.9
+   hiṃsānivṛttapraṇayo dadāti saumyasvabhāvādabhyaṃ janānām /	hiMsA nivRtta praNayaH dadAti sOmya svaBAvAt aByam janAnAm /
+   yā vāsanā doṣakṛtāsya citte tāṃ cāprayatnena samucchinatti // Ps_2.10 //	yAH vAsanAH doza kRtA asya citte tAm ca aprayatnena samucCinatti // Ps_2.10 //
+   maitrīviśeṣānugate ca citte vairānubandheṣu śamam gateṣu /	mEtrI viSeza anugate ca citte vEra anubanDezu Samam gatezu /
+   sukhaprabodhaḥ sukhameva śete kṣīṇāśubhasvapnavikāradoṣaḥ // Ps_2.11 //	suKa praboDaH suKam eva Sete kzINa aSuBa svapna vikAra dozaH // Ps_2.11 //
+   kurvanti rakṣāṃsyapi cāsya rakṣāṃ na durgatibhyo bhayamabhyupaiti /	kurvanti rakzAMsi api ca asya rakzAm na durgatiByaH Bayam aByupEti /
+   prāpnoti cārogyaguṇābhirāmamāyuḥ prakṛṣṭaṃ sugatipratiṣṭham // Ps_2.12 //	prApnoti ca Arogya guNa aBirAmam AyuH prakRzwam sugati pratizWam // Ps_2.12 //
+   ataśca saṃbodhimupāgatānāṃ tathāgatānāmamitaprayāmam /	atas ca saMboDim upAgatAnAm taTAgatAnAm amita prayAmam /
+   nirvartate cittavaśānuvarti lokasya saukhyopacayāya vāyuḥ // Ps_2.13 //	nirvartate citta vaSa anuvarti lokasya sOKya upacayAya vAyuH // Ps_2.13 //
+   anādadānastu parasya bhogān āpnoti bhogānmahataḥ paratra /	anAdadAnaH tu parasya BogAn Apnoti BogAn mahataH paratra /
+   narendradāyādagaṇairahāryān girīniva śvāsanavairahāryān // Ps_2.14 //	narendra dAyAda gaNEH ahAryAn girIn iva SvAsana vErahAryAn // Ps_2.14 //
+   ācāraśuddhyānugatapriyatvaṃ viśvāsapātratvamihaiva yāti /	AcAra SudDyA anugata priya tvam viSvAsa pAtra tvam iha eva yAti /
+   ataḥ paropakramanirviśaṅko gatipratīghātamupaiti naiva // Ps_2.15 //	atas para upakrama nirviSaFkaH gati pratIGAtam upEti na eva // Ps_2.15 //
+   asārabuddhirdhanavistareṣu bhavatyayatnena viśuddhaśīlaḥ /	asAra budDiH Dana vistarezu Bavati ayatnena viSudDa SIlaH /
+   tasmādupakleśaviśuddhabuddhiranuttarāṃ ca svayameti bodhim // Ps_2.16 //	tasmAt upakleSa viSudDa budDiH anuttarAm ca svayam eti boDim // Ps_2.16 //
+   kāmeṣu mithyācaraṇānnivṛtto jitendriyatvāt praśamābhirāmaḥ /	kAmezu miTyA AcaraNAt nivRttaH jita indriya tvAt praSama aBirAmaH /
+   prāpnoti lokastutibhiḥ samantāt kīrtiṃ diganteṣu vikīryamāṇam // Ps_2.17	prApnoti loka stutiBiH samantAt kIrtim diS antezu vikIryamANam // Ps_2.17
+   na cāpi kaṃ citpramadāsu rāgaṃ karoti mātṛriva vīkṣamāṇaḥ /	na ca api kam cit pramadAsu rAgam karoti mAtRH iva vIkzamANaH /
+   asmācca puṇyopacayān munīndraḥ saṃjāyate vāraṇavastikoṣaḥ // Ps_2.18 //	asmAt ca puNya upacayAt muni indraH saMjAyate vAraNa vasti kozaH // Ps_2.18 //
+   vāco 'nṛtāyāstu nivartamānaḥ prāmodyavāñchāṭhyavimuktacittaḥ /	vAcaH anRtAya astu nivartamAnaH prAmodya vAn SAWya vimukta cittaH /
+   ādeyasiddhyā vacanasya sattvān karoti dharmābhimukhān ayatnāt // Ps_2.19	Adeya sidDyA vacanasya sattvAn karoti Darma aBimuKAn ayatnAt // Ps_2.19
+   divaukasāṃ ca priyatāṃ yadeti satyapriyaścitramidaṃ na tādṛk /	divOkasAm ca priya tAm yadA iti satya priyaH citram idam na tAdRS /
+   devasvabhāvo guṇapakṣapātī pratyakṣiṇastaccariteṣu te ca // Ps_2.20 //	deva svaBAvaH guNa pakzapAtI pratyakziNaH tad caritezu te ca // Ps_2.20 //
+   pramāṇabhūto bhavati priyaśca yallaukikānāmidamatra citram /	pramANa BUtaH Bavati priyaH ca yat lOkikAnAm idam atra citram /
+   prāyeṇa loko hi guṇairdaridraḥ svenānumānena parānminoti // Ps_2.21 //	prAyeNa lokaH hi guNEH daridraH svena anumAnena parAn minoti // Ps_2.21 //
+   tyaktveva nīlotpalinīvanāni viśeṣadarśī kamalāyamāne /	tyaktvA iva nIlotpalinI vanAni viSeza darSI kamalAyamAne /
+   tasyānane saṃśrayamabhyupaiti prahlādano gandhavidhirmanojñaḥ // Ps_2.22	tasya Anane saMSrayam aByupEti prahlAdanaH ganDa viDiH manojQaH // Ps_2.22
+   bhrājiṣṇunā durgatitārakeṇa jñānena paśyaṃśca samāsamāni /	BrAjizNunA durgati tArakeNa jQAnena paSyan= ca samA samAni /
+   sa ātmasākṣī samupaiti lajjāṃ yādṛcchikairapyaśubhairvitarkaiḥ // Ps_2.23	saH Atma sAkzI samupEti lajjAm yAdRcCikEH api aSuBEH vitarkEH // Ps_2.23
+   evaṃ sa śuddhaprakṛtiḥ krameṇa na śaṅkyate 'nyairna ca śaṅkate 'nyān /	evam sa SudDa prakRtiH krameNa na SaFkyate anyEH na ca SaFkate anyAn /
+   tato 'sya satyābhyanuvartanī vāgarakṣatāṃ yāti tathāgatatve // Ps_2.24 //	tatas asya satya aByanuvartanI vAc arakzatAm yAti taTAgata tve // Ps_2.24 //
+   kāyaḥ paropakramaṇairabhedyāḥ parairahāryā parivārasaṃpat /	kAyaH para upakramaNEH aBedyAH parErahAryA parivAra saMpad /
+   paiśūnyamuktasya bhavatyabhedyā śraddhā ca dharme pratipattisārā //	pESUnyam uktasya Bavati aBedyA SradDA ca Darme pratipattisArAH //
+   Ps_2.25 //	Ps_2.25 //
+   maitrīmabhedyāmavisaṃvadantīṃ kṛpāṃ ca lokārthamasaṃtyajantīm /	mEtrIm aBedyAm avisaMvadantIm kRpAm ca loka arTam asaMtyajantIm /
+   prāpnoti cābhedyatamān munitve janmāntarasthānapi śiṣyasaṃghān // Ps_2.26	prApnoti ca aBedyatamAn muni tve janma antara sTAn api Sizya saMGAn // Ps_2.26
+   krodhasya sainyāgrarajaḥpratānaṃ saṃkalpacaṇḍānilaviprakīrṇam /	kroDasya sEnya agra rajaH pratAnam saMkalpa caNxa anila viprakIrNam /
+   yaśovapurdhvaṃsanamityapāsyaṃ maitryambuvāhaiḥ paruṣābhidhānam // Ps_2.27	yaSaH vapuH DvaMsanam iti apAsyam mEtrI ambuvAhEH paruza aBiDAnam // Ps_2.27
+   asmānnivṛtto madhurairvacobhirlokasya cetāṃsi vaśīkaroti /	asmAt nivRttaH maDurEH vacoBiH lokasya cetAMsi vaSIkaroti /
+   lokasya ca premṇi virūḍhamūle saivāsya vāggrāhyataratvameti // Ps_2.28 //	lokasya ca premNi virUXa mUle sA eva asya vAc grAhyatara tvam eti // Ps_2.28 //
+   ataśca lokāñchataśo vinīya teṣāṃ samāvṛtya ca duḥkhamārgam /	atas ca lokAn SataSas vinIya tezAm samAvRtya ca duHKa mArgam /
+   na durgatiṃ gacchati puṇyakarmā dharmo hi rakṣeha paratra caiva // Ps_2.29	na durgatim gacCati puNya karmA DarmaH hi rakzA iha paratra ca eva // Ps_2.29
+   dūrādapi vyaktapadānunādaḥ śrīmān adūre 'pi sukhasvabhāvaḥ /	dUrAt api vyakta pada anunAdaH SrImAn adUre api suKa svaBAvaH /
+   meghasvanodagratarastato 'sya brahmasvaro vaktram alaṃkaroti // Ps_2.30 //	meGa svanot agrataraH tatas asya brahma svaraH vaktram alaMkaroti // Ps_2.30 //
+   abaddhavākyādvirataḥ priyatvam ekāntato yāti vicakṣaṇānām /	abadDa vAkyAt virataH priya tvam ekAntataH yAti vicakzaNAnAm /
+   satyābhidhāne kramate sabuddhiḥ prāpnoti māhātmyam akṛtrimaṃ ca // Ps_2.31	satya aBiDAne kramate sa budDiH prApnoti mAhAtmyam akRtrimam ca // Ps_2.31
+   asmācca puṇyān munirājabhāve gāmbhīryagūḍhān paripṛcchamānaḥ /	asmAt ca puNyAt muni rAja BAve gAmBIrya gUXAn paripRcCamAnaH /
+   praśnānanekānapi caikakāle niḥsaṃśayaṃ vyākurute sa vācā // Ps_2.32 //	praSnAn anekAn api ca eka kAle niHsaMSayam vyAkurute sa vAcA // Ps_2.32 //
+   pretyeha cānarthaphalairavandhyāṃ vandhyāmabhidhyāṃ samapāsya buddhyā /	pretya iha ca anarTa PalEH avanDyAm vanDyAm aBiDyAm samapAsya budDyA /
+   anīrṣyabhāvādatikāṅkṣitāṃ sa prāpnoti vistīrṇatarāṃ samṛddhim // Ps_2.33	anIrzya BAvAt ati kAFkzitAm sa prApnoti vistIrNatarAm samRdDim // Ps_2.33
+   citte viśuddhe ca tadāśrayāṇi vākkāyakarmāṇi śucībhavanti /	citte viSudDe ca tad ASrayANi vAkkAya karmANi SucIBavanti /
+   nabhastale kālaguṇābhirāme tārāgaṇānāmiva maṇḍalāni // Ps_2.34 //	naBastale kAlaguNa aBirAme tArA gaNAnAm iva maNxalAni // Ps_2.34 //
+   puṇyādhipatyātkramate ca buddhistasyopabhogeṣu sadottameṣu /	puNya ADipatyAt kramate ca budDiH tasya upaBogezu sadA uttamezu /
+   prayāti rājñāmapi saṃmatatvam adhṛṣyatāṃ ca pratigarvitānām // Ps_2.35 //	prayAti rAjQAm api saMmata tvam aDRzyatAm ca pratigarvitAnAm // Ps_2.35 //
+   vaikalyamāyānti na cendriyāṇi satkarmanirvṛttabalāni tasya /	vEkalyam AyAnti na ca indriyANi sat karma nirvRtta balAni tasya /
+   ataśca lokatrayapūjya ekaḥ śāstā bhavatyaprativartyacakraḥ // Ps_2.36 //	atas ca lokatraya pUjyaH ekaH SAstA Bavati aprativartya cakraH // Ps_2.36 //
+   vyāpādadāhajvaravipramuktaḥ sādhusvabhāvābhinayo nayena /	vyApAda dAha jvara vipramuktaH sADu svaBAva aBinayaH nayena /
+   vyaktīkarotīva manaḥprasādaṃ svasthapraśāntena viceṣṭitena // Ps_2.37 //	vyaktIkaroti iva manaH prasAdam svasTa praSAntena vicezwitena // Ps_2.37 //
+   hiṃsātmake vigrahasaṃhite vā karmaṇyanāryācarite śaṭhe vā /	hiMsA Atmake vigraha saMhite vA karmaNi anAri Acarite SaWe vA /
+   na cāsya buddhiḥ kramate kadācin maitrīsukhāsvādaviśeṣalābhāt // Ps_2.38	na ca asya budDiH kramate kadAcid mEtrI suKa AsvAda viSeza lABAt // Ps_2.38
+   loke vrajatyāryajanena sāmyaṃ saṃmānyate daivatavajjanena /	loke vrajati Arya janena sAmyam saMmAnyate dEvata vat janena /
+   na brahmaloko 'pi ca durlabho 'sya prasnigdhakarmaṇyamanaḥpathasya //	na brahma lokaH api ca durlaBaH asya prasnigDa karmaNi amanaH paTasya //
+   Ps_2.39 //	Ps_2.39 //
+   hitābhinandī jagatāmayatnāt prasādayatyeva ca mānasāni /	hita aBinandI jagata Am ayatnAt prasAdayati eva ca mAnasAni /
+   ramyaḥ śaratkāla ivāpagānāṃ toyāni meghāgamadūṣitāni // Ps_2.40 //	ramyaH Sarad kAle iva ApagAnAm toyAni meGa Agama dUzitAni // Ps_2.40 //
+   rūpeṇa sarvapriyadarśanena jñānāspadenādbhutaceṣṭitena /	rUpeNa sarva priya darSanena jQAna Aspadena adButa cezwitena /
+   ekīkarotīva tato munitve lokasya vijñānapṛthaktvasiddhim // Ps_2.41 //	ekIkaroti iva tatas muni tve lokasya vijQAna pRTaktva sidDim // Ps_2.41 //
+   kudṛṣṭipaṅkakramaṇaṃ lasaṃstu prāpnoti kalyāṇahṛdaḥ sahāyān /	kudRzwi paFka kramaNam lasan= tu prApnoti kalyANa hRdaH sahAyAn /
+   karmasvako 'stīti ca karma pāpaṃ viśasyamāno 'pi karoti naiva // Ps_2.42	karmasvakaH asti iti ca karma pApam viSasyamAnaH api karoti na eva // Ps_2.42
+   bhavatyakampyā ca jiṇe 'sya bhaktirnāyasyate kautukamaṅgalaiśca /	Bavati akampyA ca jiNe asya BaktiH na ayasyate kOtuka maFgalEH ca /
+   ārye ca mārge labhate pratiṣṭhāṃ viśeṣagāmitvamato 'bhyupaiti // Ps_2.43	Arye ca mArge laBate pratizWAm viSeza gAmi tvam atas aByupEti // Ps_2.43
+   satkāyadṛṣṭyuccalitaḥ sa yāti na durgatiṃ hetuparikṣayeṇa /	satkAya dRzwi uccalitaH sa yAti na durgatim hetu parikzayeNa /
+   jñānena cānāvaraṇena yukto divaḥpṛthivyorvicaratyasaṅgaḥ // Ps_2.44 //	jQAnena ca anAvaraNena yuktaH divaH pRTivyoH vicarati asaFgaH // Ps_2.44 //
+   pratyekabuddhairapi cānavāptāḥ sarve tato 'syābhimukhībhavanti /	pratyekabudDEH api ca anavAptAH sarve tatas asya aBimuKIBavanti /
+   jagaddhitārtheṣu vijṛmbhamāṇāḥ sarvajñabhāvāya munīndradharmāḥ // Ps_2.45	jagat hita arTezu vijRmBamANAH sarvajQa BAvAya muni indra DarmAH // Ps_2.45
+   imāṃ vibhūtiṃ guṇaratnacitrāṃ ślāghyāṃ svayaṃgrāhaguṇābhirāmām /	imAm viBUtim guNa ratna citrAm SlAGyAm svayaMgrAha guNa aBirAmAm /
+   ko nāma vidvān na samādadīta viśeṣataḥ sattvahitābhilāṣī // Ps_2.46 //	kaH nAma vidvAn na samAdadIta viSezataH sattva hita aBilAzI // Ps_2.46 //
+   divyābhirāmā manujeṣu saṃpat prakṛṣṭasaukhyaikarasā ca divyā /	divya aBirAmA manujezu saMpad prakRzwa sOKya eka rasA ca divyA /
+   śīlādyadi syāt kimivātra citraṃ yasmāt prarohantyapi buddhadharmāḥ //	SIlAt yadi syAt kim iva atra citram yasmAt prarohanti api budDa DarmAH //
+   Ps_2.47 //	Ps_2.47 //
+   śīlacyutastvātmahite 'pyaśaktaḥ kasmin parasyārthavidhau samarthaḥ /	SIla cyutaH tu Atma hite api aSaktaH kasmin parasya arTa viDO samarTaH /
+   tasmād viśeṣeṇa parārthasādhorna nyāyyamasmiñchīthilādaratvam // Ps_2.48	tasmAt viSezeNa para arTa sADoH na nyAyyam asmin SITila Adara tvam // Ps_2.48
+   vivarjayedaṇvapi varjanīyaṃ tasmādbhayaṃ tīvramavekṣamāṇaḥ /	vivarjayet aNu api varjanIyam tasmAt Bayam tIvram avekzamANaH /
+   na bodhisattvābhyucitaṃ ca śīlaṃ vikhaṇḍayedātmasukhodayena // Ps_2.49 //	na boDisattva aByucitam ca SIlam viKaNxayet Atma suKa udayena // Ps_2.49 //
+   na cchidradoṣaiḥ parijarjaraṃ vā strīkelisaṃvāhanavīkṣaṇādyaiḥ /	na cCidra dozEH parijarjaram vA strI keli saMvAhana vIkzaNa AdyEH /
+   na durjanakleśaparigrahād vā kurvīta śīlaṃ śabalaprakāram // Ps_2.50 //	na durjana kleSa parigrahAt vA kurvIta SIlam Sabala prakAram // Ps_2.50 //
+   kalmāṣadoṣāpagataṃ niṣevyam ekāntaśuklopacayena śīlam /	kalmAza doza apagatam nizevyam ekAnta Sukla upacayena SIlam /
+   svecchāgatitvācca bhujiṣyavṛttaṃ vidvatpraśaṃsābharaṇānavadyam // Ps_2.51	sva icCA gati tvAt ca Bujizya vRttam vidvat praSaMsA ABaraNa anavadyam // Ps_2.51
+   samagraśikṣāpadapūraṇācca saṃpūrṇamāmarṣavivarjitaṃ ca /	samagra SikzA pada pUraNAt ca saMpUrNam Amarza vivarjitam ca /
+   cetoviśuddhipratibimbabhūtaistīvraiḥ parārthaikarasaiḥ prayogaiḥ //	cetaH viSudDi pratibimba BUtEH tIvrEH para arTa eka rasEH prayogEH //
+   Ps_2.52 //	Ps_2.52 //
+   smṛtyāśrayāccendriyasaṃvareṇa śīlasya saṃrakṣaṇatatparaḥ syāt /	smRtyASrayAt ca indriya saMvareNa SIlasya saMrakzaNa tatparaH syAt /
+   lokasya dauḥśīlyamabhipravṛddhaṃ tamaḥ sahasrāṃśurivāpaneṣyan // Ps_2.53	lokasya dOHSIlyam aBipravRdDam tamaH sahasrAMSuH iva apanezyan // Ps_2.53
+   duḥkhapratīkāranimittasevyaiḥ kāyavraṇālepanaveṣṭanādyaiḥ /	duHKa pratIkAra nimitta sevyEH kAya vraNa Alepana vezwana AdyEH /
+   nyāyopalabdhaiḥ parituṣṭacitto 'parānanollokanakātaraḥ syāt // Ps_2.54 //	nyAya upalabDEH parituzwa cittaH apara Anana ullokana kAtaraH syAt // Ps_2.54 //
+   ślāghyeṣu sarveṣvapi vartamānaḥ śīlānukūleṣu guṇodayeṣu /	SlAGyezu sarvezu api vartamAnaH SIla anukUlezu guNa udayezu /
+   avismitatvādaparādhamānī kīrterbibhīyācca tadudbhavāyāḥ // Ps_2.55 //	avismita tvAt aparADa mAnI kIrteH biBIyAt ca tad udBavAyAH // Ps_2.55 //
+   lābhaprakāro hi guṇaprakāśācchatrutvamabhyeti suhṛnmukhena /	lABa prakAraH hi guNa prakASAt Satru tvam aByeti suhRd muKena /
+   saroruhāṇāmiva śītaraśmiḥ śreyaḥ pramāthī śithilavratānām // Ps_2.56 //	saroruhANAm iva SIta raSmiH SreyaH pramATI SiTila vratAnAm // Ps_2.56 //
+   śīlaṃ guṇābhyāsavidhiṃ vadanti saṃbodhicitte ca guṇāḥ samagrāḥ /	SIlam guNa aByAsa viDim vadanti saMboDi citte ca guNAH samagrAH /
+   abhyasyate tacca kṛpāguṇena kāruṇyaśīlaḥ satataṃ tataḥ syāt // Ps_2.57 //	aByasyate tat ca kRpA guNena kAruNya SIlaH satatam tatas syAt // Ps_2.57 //
+   yanniśritaṃ kāmabhave 'pi naiva saṃtiṣṭhate naiva ca rūpadhātau /	yat niSritam kAma Bave api na eva saMtizWate na eva ca rUpa DAtO /
+   ārūpyadhātau yadasaṃsthitaṃ ca tattattvataḥ śīlamudāharanti // Ps_2.58 //	ArUpya DAtO yat asaMsTitam ca tat tattvataH SIlam udAharanti // Ps_2.58 //
+   yo lokadhātuṣvamiteṣu sattvāñchīle pratiṣṭhāpayiṣuḥ samagrān /	yaH lokaDAtuzu amitezu sattvAn SIle pratizWApayizuH samagrAn /
+   niṣevate lokahitāya śīlaṃ taducyate pāramiteti tajjñaiḥ // Ps_2.59 //	nizevate loka hitAya SIlam tat ucyate pAramitA iti tajjQEH // Ps_2.59 //
+   śīlaṃ viśeṣādhigamasya mārgo dāyādyabhūtaṃ karuṇātmakānām /	SIlam viSeza aDigamasya mArgaH dAyAdya BUtam karuNa AtmakAnAm /
+   jñānaprakarṣasya śucisvabhāvo naṣṭoddhavā maṇḍanajātiragrā // Ps_2.60 //	jQAna prakarzasya Suci svaBAvaH nazwa udDavAH maNxana jAtiH agrA // Ps_2.60 //
+   lokatrayavyāpi manojñāgandhaṃ vilepanaṃ pravrajitāvirodhi /	lokatraya vyApi manojQA ganDam vilepanam pravrajita aviroDi /
+   tulyākṛtibhyo 'pi pṛthagjanebhyaḥ śīlaṃ viśeṣaṃ kurute narāṇām // Ps_2.61	tulya AkRtiByaH api pRTagjaneByaH SIlam viSezam kurute narANAm // Ps_2.61
+   akatthanānāmapi dhīrabhāvād vināpi vāgbhedapariśrameṇa /	akatTanAnAm api DIra BAvAt vinA api vA ac Beda pariSrameNa /
+   atrāsanābhyānatasarvalokaṃ tyaktāvalepoddhavamīśvaratvam // Ps_2.62 //	atra Asana aByAnata sarva lokam tyakta Avalepa udDavam ISvara tvam // Ps_2.62 //
+   apyaprakāśānvayasaṃstavānām akurvatāmapyupakārasāram /	api aprakASa anvaya saMstavAnAm akurvatAm api upakAra sAram /
+   niṣkevale śīlavidhau sthitānām asaṃstutānāmapi yannarāṇām // Ps_2.63 //	nizkevale SIla viDO sTitAnAm asaMstutAnAm api yat narANAm // Ps_2.63 //
+   rajāṃsi pādāśrayapāvitāni praṇāmalabdhāni samudvahanti /	rajAMsi pAda ASraya pAvitAni praNAma labDAni samudvahanti /
+   cūḍāgralagnāni manuṣyadevāḥ śrīmattaraṃ śīlamataḥ kulebhyaḥ // Ps_2.64 //	cUxA agra lagnAni manuzya devAH SrImattaram SIlam atas kuleByaH // Ps_2.64 //
+   tasmān na durgatibhayena na rājyahetorna svargasaṃpadabhilāṣasamudbhavena	tasmAt na durgati Bayena na rAjya hetoH na svarga saMpad aBilAza samudBavena
+   seveta śīlamamalaṃ na hi tattathā syāllokārthasiddhiparamastu bhajeta	seveta SIlam amalam na hi tat taTA syAt loka arTa sidDi paramaH tu Bajeta
+   śīlam // Ps_2.65 //	SIlam // Ps_2.65 //
+   // śīlapāramitāsamāsaḥ //	// SIla pAramitA samAsaH //
+   3. kṣāntipāramitāsamāsaḥ	3. kzAnti pAramitA samAsaH
+   saṃmohanīṃ manmathapakṣamāyāṃ prāhuḥ sukhāṃ caiva vimokṣamāyām /	saMmohanIm manmaTa pakza mAyAm prAhuH suKAm ca eva vimokza mAyAm /
+   tasyāṃ na kuryāt kaiva kṣamāyāṃ prayatnamekāntahitakṣamāyām // Ps_3.1 //	tasyAm na kuryAt kA eva kzamAyAm prayatnam ekAnta hita kzamAyAm // Ps_3.1 //
+   parāparādheṣu sadānabhijñā vyavasthitiḥ sattvavatāṃ manojñā /	para aparADezu sadA anaBijQA vyavasTitiH sattvavatAm manojQAH /
+   guṇābhinirvartitacārusaṃjñā kṣameti lokārthacarī kṛpājñā // Ps_3.2 //	guNa aBinirvartita cAru saMjQA kzamA iti loka arTa carI kRpA jQAH // Ps_3.2 //
+   parārthamabhyudyatamānasānāṃ dīkṣāṃ titikṣāṃ prathamāṃ vadanti /	para arTam aByudyata mAnasAnAm dIkzAm titikzAm praTamAm vadanti /
+   seturjalānīva hi roṣadoṣaḥ śreyāṃsi lokasya samāvṛṇoti // Ps_3.3 //	setuH jalAni iva hi roza dozaH SreyAMsi lokasya samAvRNoti // Ps_3.3 //
+   alaṃkriyā śaktisamanvitānāṃ tapodhanānāṃ balasaṃpadagrā /	alaMkriyA Sakti samanvitAnAm tapoDanAnAm bala saMpad agrA /
+   vyāpādadāvānalavāridhārā pretyeha ca kṣāntiranarthaśāntiḥ // Ps_3.4 //	vyApAda dAva anala vAri DArA pretya iha ca kzAntiH anarTa SAntiH // Ps_3.4 //
+   kṣamāmaye varmaṇi sajjanānāṃ vikuṇṭhitā durjanavākyabāṇāḥ /	kzamA maye varmaNi sat janAnAm vikuNWitAH durjana vAkya bANAH /
+   prāyaḥ praśaṃsākusumatvametya tatkīrtimālāvayavā bhavanti // Ps_3.5 //	prAyas praSaMsA kusuma tvam etya tad kIrti mAlA avayavAH Bavanti // Ps_3.5 //
+   pratikriyā durjanavāgviṣāṇāṃ prahlādanī jñānaniśākarābhā /	pratikriyA durjana vAc vizANAm prahlAdanI jQAna niSAkara ABAH /
+   dhīraprakārā prakṛtiryatīnāṃ kṣāntirguṇānām adhivāsabhūmiḥ // Ps_3.6 //	DIra prakArA prakRtiH yatInAm kzAntiH guNAnAm aDivAsa BUmiH // Ps_3.6 //
+   sattvasya gāmbhīryamayasya sāro ghanāgamaḥ krodhanidāghaśāntyai /	sattvasya gAmBIrya mayasya sAraH Gana AgamaH kroDa nidAGa SAntyE /
+   vyatītavelasya guṇārṇavasya vyāpī svanaḥ kṣāntimayo 'bhyudeti // Ps_3.7 //	vyatIta velasya guNa arNavasya vyApI svanaH kzAnti mayaH aByudeti // Ps_3.7 //
+   ā brahmalokādadhirohāṇārthā sopānapaṅktirgatakhedadoṣā /	A brahma lokAt aDirohANa arTA sopAna paFktiH gata Keda dozAH /
+   karmāntaśālā guṇaśībharasya rūpasya sallakṣaṇabhūṣaṇasya // Ps_3.8 //	karmAnta SAlAH guNa SIBarasya rUpasya sat lakzaNa BUzaNasya // Ps_3.8 //
+   unmūlanī vairaphalācitānāṃ kṣamāsariddoṣamahādrumāṇām /	unmUlanI vEra PalA citAnAm kzamA sarit doza mahA drumANAm /
+   saṃbodhicittasya vivardhitasya guṇāmburaśeḥ satatānukūlā // Ps_3.9 //	saMboDi cittasya vivarDitasya guNa ambu raSeH satata anukUlAH // Ps_3.9 //
+   śubhā paratrāpi hite samṛddhirjagaddhitārthasya parā vivṛddhiḥ /	SuBA paratra api hite samRdDiH jagat hita arTasya parA vivRdDiH /
+   śubhasvabhāvātiśayaprasiddhiḥ kṣāntirmanaḥkāyavacoviśuddhiḥ // Ps_3.10 //	SuBa svaBAva atiSaya prasidDiH kzAntiH manaH kAya vacaH viSudDiH // Ps_3.10 //
+   saṃsāradoṣairna ca cchedameti sattvān kṛpāsnigdhamavekṣamāṇaḥ /	saMsAra dozEH na ca cCedam eti sattvAn kRpA snigDam avekzamANaH /
+   satkarmabhirlokahitaiḥ samantād yaśomayatvaṃ vrajatīva loke // Ps_3.11 //	sat karmaBiH loka hitEH samantAt yaSaH maya tvam vrajati iva loke // Ps_3.11 //
+   na spṛśyate vismayavācyadoṣairjñānāvadānena titikṣureva /	na spRSyate vismaya vAcya dozEH jQAna avadAnena titikzuH eva /
+   anityatākṣāntibalodayācca praharṣamāyāti sukhe 'pi naiva // Ps_3.12 //	anitya tA kzAnti bala udayAt ca praharzam AyAti suKe api na eva // Ps_3.12 //
+   saṃkocamāyāti na cāyaśobhirvisāriṇā kṣāntibalaśrayeṇa /	saMkocam AyAti na ca ayaSoBiH visAriNA kzAnti bala SrayeNa /
+   ataśca śeṣairapi lokadharmairaniśritatvānna sa cāpalīti // Ps_3.13 //	atas ca SezEH api loka DarmEH aniSrita tvAt na sa cApalI iti // Ps_3.13 //
+   tīvraprakārairapi viprakārairna vikriyāṃ yānti satāṃ manāṃsi /	tIvra prakArEH api viprakArEH na vikriyAm yAnti satAm manAMsi /
+   dṛḍhābhilāṣāṇi munīndrabhāve kṣāntyā balādhānasusaṃskṛtāni // Ps_3.14 //	dRXa aBilAzANi muni indra BAve kzAntyA bala ADAna su saMskRtAni // Ps_3.14 //
+   sa kṣāntidhīreṇa ca mānasena kaṣṭāni saṃdarśayate tapāṃsi /	sa kzAnti DIreNa ca mAnasena kazwAni saMdarSayate tapAMsi /
+   darponnatiṃ tīrthakṛtāṃ manaḥsu nīcaiḥ kariṣyan hitakāmyayaiva // Ps_3.15	darpa unnatim tIrTa kRtAm manaHsu nIcEs karizyan hita kAmyayA eva // Ps_3.15
+   loko 'yamātmābhiniveśasamūḍhaḥ śeṣān parānityabhimanyamānaḥ /	lokaH ayam Atma aBiniveSa samUXaH SezAn parAn iti aBimanyamAnaH /
+   tadviprakārairabhibhūtacetā<;ḥ>; kṣamāviyogāt parikhedameti // Ps_3.16 //	tad viprakArEH aBiBUta cetA<;H>; kzamA viyogAt pariKedam eti // Ps_3.16 //
+   kṛpāsanāthāni satāṃ manāṃsi kṣāntyā kṛtasvastyayanakriyāṇi /	kRpA sanATAni satAm manAMsi kzAntyA kRta svastyayana kriyANi /
+   naṣṭātmadṛṣṭiṇi parāpakārān na vikriyāṃ yānti guṇānurāgāt // Ps_3.17 //	nazwa Atma dRzwiNi para apakArAn na vikriyAm yAnti guNa anurAgAt // Ps_3.17 //
+   mithyāvikalpo hṛdayajvarasya krodhasya heturdhṛtidurbalānām /	miTyA vikalpaH hRdaya jvarasya kroDasya hetuH DRti durbalAnAm /
+   samyagvikalpastu samādadhāti kṣāntiprakārāṃ manasaḥ praśāntim // Ps_3.18	samyak vikalpaH tu samAdaDAti kzAnti prakArAm manasaH praSAntim // Ps_3.18
+   vikalpasanniśrayasaṃśritāyāṃ kṣāntyāṃ na tu syāccalitāvakāśaḥ /	vikalpa sanniSraya saMSritAyAm kzAntyAm na tu syAt calita avakASaH /
+   pratyūṣavātasphurite 'mbhasīva saṃpūrṇacandrapratibimbalakṣayāḥ // Ps_3.19	pratyUza vAta sPurite amBasi iva saMpUrNa candra pratibimba lakzayAH // Ps_3.19
+   vikalpaśāntiṃ paramārthatastu kṣāntiṃ kṣamātattvavido vadanti /	vikalpa SAntim paramArTataH tu kzAntim kzamA tattva vidaH vadanti /
+   tasmādvikalpopaśame yateta svapnopamaṃ lokamavekṣamāṇaḥ // Ps_3.20 //	tasmAt vikalpa upaSame yateta svapna upamam lokam avekzamANaH // Ps_3.20 //
+   cakṣuḥ kim ākrośati cakṣuretacchrotrādi vākrośati kiṃ tadādi /	cakzuH kim AkroSati cakzuH etat Srotra Adi vA AkroSati kim tad Adi /
+   yaivaṃ kṣamā sāyatanānvavekṣā na kṣāntireṣā paramārthatastu // Ps_3.21 //	yA evam kzamA sa Ayatana anvavekzAH na kzAntiH ezA paramArTataH tu // Ps_3.21 //
+   vaktā vacaścaitadanityameva śrutirvikalpo 'pi ca yo mamāyam /	vaktA vacaH ca etat anityam eva SrutiH vikalpaH api ca yaH mama ayam /
+   anityabhāvapravikalpanaiṣā na kṣāntimetām paramāṃ vadanti // Ps_3.22 //	anitya BAva pravikalpanA ezA na kzAntim etAm paramAm vadanti // Ps_3.22 //
+   kartāpakārasya na kaścidasti naivāsti kaścitkriyāte ca yasya /	kartA apakArasya na kaScid asti na eva asti kaScid kriyAte ca yasya /
+   nairātmasaṃdarśanasiddhireṣā na kṣāntireṣāpi gataprakarṣā // Ps_3.23 //	nErAtma saMdarSana sidDiH ezA na kzAntiH ezA api gata prakarzAH // Ps_3.23 //
+   tattatpratītya prabhavanti bhāvā nindāpraśaṃsāsukhaduḥkhasaṃjñāḥ /	tat tat pratItya praBavanti BAvAH nindA praSaMsA suKa duHKa saMjQAH /
+   pratītyasiddheravatārabhūmirna kṣāntiratyantasamāhitaiṣā // Ps_3.24 //	pratItyasidDeH avatAra BUmiH na kzAntiH atyanta samAhitA ezA // Ps_3.24 //
+   yadyesā saṃmohamahāgraheṇa paryastacetā nanu nāhamevam /	yadi esA saMmoha mahA graheNa paryasta cetAH nanu na aham evam /
+   ityunnate cāvanate ca citte kṣāntiprakarṣasya kuto 'vakāśaḥ // Ps_3.25 //	iti unnate ca avanate ca citte kzAnti prakarzasya kutas avakASaH // Ps_3.25 //
+   pradhvaṃsinī varṇalavapratiśrudyantrādivaikaikaśa uccarantī /	praDvaMsinI varNa lava pratiSruD yantrAt i va eka ekaSas uccarantI /
+   kuryāṃ kathaṃ kasya ca kāṃ ca pīḍām eṣāpi na kṣāntiratiprakṛṣṭā // Ps_3.26	kuryAm kaTam kasya ca kAm ca pIxAm ezA api na kzAntiH ati prakRzwAH // Ps_3.26
+   yadyesā matpāpaparikṣayārthaṃ na vīkṣate svāmapi dharmapīḍām /	yadi esA mad pApa parikzaya arTam na vIkzate svAm api Darma pIxAm /
+   asmān na kalyāṇataraṃ hi mitram asāvapi kṣāntyupacārā eva // Ps_3.27 //	asmAt na kalyANataram hi mitram asO= api kzAnti upacArAH eva // Ps_3.27 //
+   karmasvatāṃ eva hi vīkṣamāṇastitikṣate tadguṇadarśanācca /	karmasva tAm eva hi vIkzamANaH titikzate tad guNa darSanAt ca /
+   naivaṃprakārāpi hi naiṣṭhikatvaṃ kṣāntirvikalpopahatā prayāti // Ps_3.28	na evaMprakArA api hi nEzWika tvam kzAntiH vikalpa upahatA prayAti // Ps_3.28
+   anityaduḥkhāśuciniḥsvabhāvatā mama kṣamante na tu tadviparyayāḥ /	anitya duHKa aSuci niHsvaBAva tA mama kzamante na tu tad viparyayAH /
+   iyaṃ vipakṣapraśamakṣamā kṣamā dvayapravṛtterna tu pāramārthikī // Ps_3.29	iyam vipakza praSama kzamA kzamA dvaya pravRtteH na tu pAramArTikI // Ps_3.29
+   ayatnatattvārthavicakṣaṇo janaḥ paropakāreṣu yataḥ pravartate /	ayatna tattva arTa vicakzaNaH janaH para upakArezu yatas pravartate /
+   kṣamā na caivaṃ samatāṃ sameti yā yataḥ kṣamaivaṃ na vikalpanakṣayā //	kzamA na ca evam sama tAm sameti yA yatas kzamA evam na vikalpana kzayAH //
+   Ps_3.30 //	Ps_3.30 //
+   nirodham āyānti yadā tvaśeṣatāḥ samādhikanyūnavikalpanakramāḥ /	niroDam AyAnti yadA tu aSeza tAH samADi kanyUna vikalpana kramAH /
+   anuttarāṃ kṣāntimamānagocarāṃ vadanti tāmadvāyamārgacāriṇāḥ // Ps_3.31 //	anuttarAm kzAntimamAna gocarAm vadanti tAmadvAya mArga cAriNAH // Ps_3.31 //
+   svataḥ parasmādubhayādahetuto yathā na bhāvāḥ prabhavanti ke cana /	svatas para smAt uBayAt ahetutaH yaTA na BAvAH praBavanti ke cana /
+   svataḥ parasmād ubhayād ahetutastathā na bhāvā vibhavanti ke cana //	svatas parasmAt uBayAt ahetutaH taTA na BAvAH viBavanti ke cana //
+   Ps_3.32 //	Ps_3.32 //
+   naṣṭād anaṣṭād ubhayāc na nobhayān na jātu kāryaṃ khalu vidyate kva cit /	nazwAt anazwAt uBayAt na na uBayAt na jAtu kAryam Kalu vidyate kva cit /
+   tathāpi kāryaṃ samudeti vastuno yetthaṃ kṣamā sā dvayavarjitā kṣamā //	taTA api kAryam samudeti vastunaH yA itTam kzamA sA dvaya varjitA kzamA //
+   Ps_3.33 //	Ps_3.33 //
+   sato 'sato vāsti na janma janmanā vinā nirodho 'pi na kasya cit kva cit /	sataH asataH vA asti na janma janmanA vinA niroDaH api na kasya cit kva cit /
+   svabhāvaśūnyāmiti bhāvakalpanāṃ vipaśyataḥ kṣāntirudeti naiṣṭhikī //	svaBAva SUnyAm iti BAva kalpanAm vipaSyataH kzAntiH udeti nEzWikI //
+   Ps_3.34 //	Ps_3.34 //
+   avāpya yāṃ vyākriyate sahasraśo jinairasau nāma jino bhaviṣyati /	avApya yAm vyAkriyate sahasraSas jinEH asO nAma jinaH Bavizyati /
+   pravartate lokahitakriyāvidhiḥ samāhitasyaiva ca tasya sarvadā // Ps_3.35	pravartate loka hita kriyA viDiH samAhitasya eva ca tasya sarvadA // Ps_3.35
+   yāvacca bhāvābhiniviṣṭabuddhiratra dvayaṃ tāvadupaiti mohāt /	yAvat ca BAva aBinivizwa budDiH atra dvayam tAvat upEti mohAt /
+   tathānimittaṃ ca vimokṣaheturdure bhavatyasya yathā kṣiteḥ kham // Ps_3.36	taTA animittam ca vimokza hetuH dure Bavati asya yaTA kziteH Kam // Ps_3.36
+   upaiti dharmapraṇidhānakarmasu prabhutvamṛddhāvadhimuktijanmasu /	upEti Darma praNiDAna karmasu praBu tvam RdDa avaDimukti janmasu /
+   tathā pariṣkāravidhau svacetasi prakarṣiṇi jñānabale tathāyuṣi // Ps_3.37	taTA parizkAra viDO sva cetasi prakarziNi jQAna bale taTA Ayuzi // Ps_3.37
+   avāpya caitadvaśitāmayaṃ dhanaṃ prakṛṣṭaṃ akṣiṣṇu parārthasādhanam /	avApya ca etat vaSitAmayam Danam prakRzwam akzizNu para arTa sADanam /
+   janasya kṛcchreṣu patiṣyataḥ sataḥ sa jāyate dhāraṇakāraṇaṃ vibhuḥ //	janasya kRcCrezu patizyataH sataH sa jAyate DAraNa kAraNam viBuH //
+   Ps_3.38 //	Ps_3.38 //
+   tasmāt parārthamahatīṃ dhuramudvahadbhiḥ kṣānterupāyavidhireṣa	tasmAt para arTa mahatIm Duram udvahadBiH kzAnteH upAya viDiH eza
+   sadānugamyaḥ /	sadA anugamyaH /
+   atra sthitasya hi bhavanti parārthacittāḥ sarvā<;ḥ>; kriyā	atra sTitasya hi Bavanti para arTa cittAH sarvA<;H>; kriyA
+   guṇaphalābharaṇābhirāmāḥ // Ps_3.39 //	guNa Pala ABaraNa aBirAmAH // Ps_3.39 //
+   asyāṃ hi bhaktirapi yā pravirūḍhamūlā tāmabhyasanti munayo munirājabhāve /	asyAm hi BaktiH api yA pravirUXa mUlA tAm aByasanti munayaH muni rAja BAve /
+   śraddhānuviddhamanasāṃ na hi dharmamārge dṛṣṭo manoratharathasya yato	SradDA anuvidDa manasAm na hi Darma mArge dRzwaH manoraTa raTasya yatas 
+   'kṣabhaṅgaḥ // Ps_3.40 //	akza BaFgaH // Ps_3.40 //
+   // kṣāntipāramitāsamāsaḥ //	// kzAnti pAramitA samAsaH //
+   4. vīryapāramitāsamāsaḥ	4. vIrya pAramitA samAsaH
+   sarvaṃsahe kṣāntibale ca rūḍhe sarvādbhutānyārabhate sa śauryāt /	sarvaMsahe kzAnti bale ca rUXe sarva adButAni AraBate sa SOryAt /
+   vīryeṇa kāryāntamahābalena yasmāt sa devānapi yātyatītya // Ps_4.1 //	vIryeNa kArya anta mahA balena yasmAt sa devAn api yAti atItya // Ps_4.1 //
+   sudṛśyapārāṇyapi laukikāni kāryāṇi nirvīryaduruttarāṇi /	su dRSya pArANi api lOkikAni kAryANi nirvIrya duruttarANi /
+   aprāpyarūpaṃ tu na kiṃ cid asti khedānabhijñena parākrameṇa // Ps_4.2 //	aprApya rUpam tu na kim cit asti Keda anaBijQena parAkrameNa // Ps_4.2 //
+   ārabdham evotsahate na hīna ārabhya madhyastu viṣādameti /	ArabDam eva utsahate na hInaH AraBya maDyaH tu vizAdam eti /
+   parārtham aśrāntaparākramāste nirvāṇamutsṛjya samārabhante // Ps_4.3 //	para arTam aSrAnta parAkramAH te nirvANam utsRjya samAraBante // Ps_4.3 //
+   prāyeṇa dainyopahato jano 'yaṃ svādhīnavīryo 'pi gurusvakāryaḥ /	prAyeNa dEnya upahataH janaH ayam svADIna vIryaH api guru sva kAryaH /
+   ahīnavīryasya tu merusāro 'pyakhedasādhyaḥ parakāryabhāraḥ // Ps_4.4 //	ahIna vIryasya tu meru sAraH api aKeda sADyaH para kArya BAraH // Ps_4.4 //
+   saṃsārakoṭyorubhayoḥ samānaiḥ prayāmasārairdivasairyadi syuḥ /	saMsAra kowyoH uBayoH samAnEH prayAma sArEH divasEH yadi syuH /
+   saṃvatsarāstatpracayātidīrghaiḥ kalpaiḥ samudrodakabindutulyaiḥ // Ps_4.5	saMvatsarAH tad pracaya ati dIrGEH kalpEH samudra udaka bindu tulyEH // Ps_4.5
+   utpādayeyaṃ yadi bodhicittam ekaikametena parākrameṇa /	utpAdayeyam yadi boDi cittam ekEkam etena parAkrameNa /
+   saṃbhāraśeṣaṃ cinuyāṃ tathāpi bhūyaḥsamutsāritakhedadainyaḥ // Ps_4.6 //	saMBAra Sezam cinuyAm taTA api BUyas samutsArita Keda dEnyaH // Ps_4.6 //
+   ekaikamevaṃ yadi bodhicittaṃ prāpyeta saṃbhāravidhiśca śeṣaḥ /	ekEkam evam yadi boDi cittam prApyeta saMBAra viDiH ca SezaH /
+   tathāpi bodhiṃ samudānayeyaṃ kṛpāsamutsāhitadhairyasāraḥ // Ps_4.7 //	taTA api boDim samudAnayeyam kRpA samutsAhita DErya sAraH // Ps_4.7 //
+   saṃsāraduḥkhaṃ svamacintayitvā saṃnāhadārḍhyaṃ yadacintyamevam /	saMsAra duHKam svam acintayitvA saMnAha dArXyam yat acintyam evam /
+   ādyaṃ samādānamidaṃ vadanti vīravratānāṃ karuṇātmakānām // Ps_4.8 //	Adyam samAdAnam idam vadanti vIra vratAnAm karuNa AtmakAnAm // Ps_4.8 //
+   padbhyāṃ atikramya kukūlakalpāṃ kṛtsnāṃ mahīmāyudhasaṃvṛtāṃ vā /	padByAm atikramya kukUla kalpAm kRtsnAm mahIm AyuDa saMvRtAm vA /
+   yaddraṣṭum apyutsahate munīndrān pātuṃ śivaṃ dharmarasāyanaṃ vā // Ps_4.9	yat drazwum api utsahate muni indrAn pAtum Sivam Darma rasAyanam vA // Ps_4.9
+   saṃsārapaṅkājjanatā mayeyam uddhṛtya nirvāṇasukhe niveṣyā /	saMsAra paFkAt janatA mayA iyam udDRtya nirvANa suKe nivezyAH /
+   utkṣepanikṣepavidhau padānāṃ yaccittamevaṃ ca samādadāti // Ps_4.10 //	utkzepa nikzepa viDO padAnAm yat cittam evam ca samAdadAti // Ps_4.10 //
+   yad vā hitārthaṃ kramate parasya puṇyāni vā lokahitāya cittam /	yat vA hita arTam kramate parasya puNyAni vA loka hitAya cittam /
+   parākramaḥ so 'kṣayavikramāṇāṃ śrīmatsamādānavidhau dvitīyaḥ // Ps_4.11 //	parAkramaH saH akzaya vikramANAm SrImat samAdAna viDO dvitIyaH // Ps_4.11 //
+   puṇyasya cotpādasamānakālaṃ saṃbuddhabhāve pariṇāmanaṃ yat /	puNyasya ca utpAda samAna kAlam saMbudDa BAve pariNAmanam yat /
+   tadakṣayatvaṃ samudāgamāya śubhaṃ samādānam udāharanti // Ps_4.12 //	tat akzaya tvam samudAgamAya SuBam samAdAnam udAharanti // Ps_4.12 //
+   mahatsu vāmbhaḥsu yathā niṣikto naivodabinduḥ kṣayamabhyupaiti /	mahatsu vA amBaHsu yaTA niziktaH na eva udabinduH kzayam aByupEti /
+   saṃbuddhabhāve pariṇāmitasya tathaiva puṇyasya na saṃkṣayo 'sti // Ps_4.13	saMbudDa BAve pariNAmitasya taTA eva puNyasya na saMkzayaH asti // Ps_4.13
+   tathā hi kāruṇyaviśuddhabuddhiḥ sarvajñabhāvāya phalantyamūni /	taTA hi kAruNya viSudDa budDiH sarvajQa BAvAya Palanti amUni /
+   puṇyāni lokasya carācarasyetyevaṃ sa tānyārabhate susattvaḥ // Ps_4.14 //	puNyAni lokasya carAcarasya iti evam sa tAni AraBate su sattvaH // Ps_4.14 //
+   mahātrisāhasragataṃ janaughaṃ nirvāpayedekadine na kaścit /	mahA tri sAhasra gatam jana oGam nirvApayet eka dine na kaScid /
+   kalpaṃ tathā naiva ca sattvadhātostenāpi kiṃ cit paripācitaṃ syāt //	kalpam taTA na eva ca sattva DAtoH tena api kim cit paripAcitam syAt //
+   Ps_4.15 //	Ps_4.15 //
+   śrutvāpi sattvākṣayatāṃ imāṃ yaḥ sattvānaśeṣān vininīṣureva /	SrutvA api sattva akzayatAm imAm yaH sattvAn aSezAn vininIzuH eva /
+   viṣādadoṣānavalīḍhavīryaḥ kastasya dūrastha ihārthasāraḥ // Ps_4.16 //	vizAda dozAn avalIXa vIryaH kaH tasya dUra sTaH iha arTasAraH // Ps_4.16 //
+   yaḥ puṇyarāśirjagatāṃ samagrastāvatpramāṇairdaśabhirjinasya /	yaH puNya rASiH jagatAm samagraH tAvat pramANEH daSaBiH jinasya /
+   nivṛttimāgacchati romakūpa ekaika ekaikasujātaromā // Ps_4.17 //	nivRttim AgacCati romakUpaH ekEkaH ekEka sujAta romA // Ps_4.17 //
+   śatena bhūyo guṇitena tena puṇyena romāspadasaṃśritena /	Satena BUyas guNitena tena puNyena roma Aspada saMSritena /
+   bhavatyanuvyañjanamekameva śeṣāṇi tasya prabhavanti kāye // Ps_4.18 //	Bavati anuvyaQjanam ekam eva SezANi tasya praBavanti kAye // Ps_4.18 //
+   tāvadguṇādeva ca puṇyarāśestasmād anuvyañjanasaṃpraviṣṭāt /	tAvat guNAt eva ca puNya rASeH tasmAt anuvyaQjana saMpravizwAt /
+   pratyekaśastasya jinatvaśaṃsi nirvartate lakṣaṇacitrakarma // Ps_4.19 //	pratyekaSaH tasya jinatu aSaMsi nirvartate lakzaNa citra karma // Ps_4.19 //
+   sallakṣaṇotpattinimittabhūtāt sahasrasaṃkhyāguṇitācca puṇyāt /	sat lakzaNa utpatti nimitta BUtAt sahasra saMKyA guNitAt ca puNyAt /
+   nirvartate tasya manojñavarṇā saṃpūrṇacandrasphuṭakāntirūrṇā // Ps_4.20 //	nirvartate tasya manojQa varNA saMpUrNa candra sPuwa kAnti H UrNA // Ps_4.20 //
+   ūrṇābhinirvṛttikarmaṃ ca puṇyaṃ śatapramāṇairguṇitaṃ sahasraiḥ /	UrNA aBinirvRtti karmam ca puNyam Sata pramANEH guNitam sahasrEH /
+   karoti tasyānavalokanīyaṃ chattarābhamuṣṇīṣalalāmaśīrṣam // Ps_4.21 //	karoti tasya anavalokanIyam Cattara ABam uzNIza lalAm a SIrzam // Ps_4.21 //
+   ayaṃ mayā puṇyanidhiḥ parārthaṃ saṃceya ityuttamabodhicitte /	ayam mayA puNya niDiH para arTam saMceyaH iti uttama boDi citte /
+   vīryonmukhe kena mukhena tasmiṃllayapravṛttirlabhatāṃ praveśam // Ps_4.22	vIrya unmuKe kena muKena tasmin= laya pravRttiH laBatAm praveSam // Ps_4.22
+   sarve 'pi sattvā yadi lokadhātau pratyekabuddhaiḥ sadṛśā bhaveyuḥ /	sarve api sattvAH yadi lokaDAtO pratyekabudDEH sadRSAH BaveyuH /
+   jñānena tebhyo 'bhyadhikaprabhāvaḥ kṣāntistha eko 'pi hi bodhisattvaḥ //	jQAnena teByaH aByaDika praBAvaH kzAnti sTaH ekaH api hi boDisattvaH //
+   Ps_4.23 //	Ps_4.23 //
+   tathaiva ca kṣāntibalasthitebhyo viśeṣaṃ āyātyavivartanīyaḥ /	taTA eva ca kzAnti bala sTiteByaH viSezam AyAti avivartanIyaH /
+   aśrāntavīryaḥ kuśalaprayoge yallaukike caiva taduttare ca // Ps_4.24 //	aSrAnta vIryaH kuSala prayoge yat lOkike ca eva tad uttare ca // Ps_4.24 //
+   tebhyaḥ puṇaścādhika eva dūraṃ ya ekajātipratibaddhabodhiḥ /	teByaH puNaH ca aDikaH eva dUram yaH eka jAti pratibadDa boDiH /
+   ka eva vādo dṛḍhavīryavatsu ye bodhimūle prathamaṃ niṣaṇṇāḥ // Ps_4.25 //	kaH eva vAdaH dRXa vIryavatsu ye boDi mUle praTamam nizaNNAH // Ps_4.25 //
+   tādṛgvidhajñānaviśuddhipūrṇaḥ syād yadyaśeṣena ca lokadhātuḥ /	tAdRgviDa jQAna viSudDi pUrNaH syAt yadi aSezena ca lokaDAtuH /
+   yāyāt kalāṃ so 'pi na bodhimūle sthitasya mārātikṛtāntyajāteḥ // Ps_4.26	yAyAt kalAm saH api na boDi mUle sTitasya mAra atikRta antya jAteH // Ps_4.26
+   tādṛgvidhajñānaviśuddhacittāḥ syuryadyaśeṣena ca sarvalokāḥ /	tAdRgviDa jQAna viSudDa cittAH syuH yadi aSezena ca sarva lokAH /
+   balapradeśasya muneratulyāḥ kalāpradeśairapi te samagrāḥ // Ps_4.27 //	bala pradeSasya muneH atulyAH kalA pradeSEH api te samagrAH // Ps_4.27 //
+   ityadbhutajñānasamudramekaḥ kṛpātmako nistarituṃ prayāti /	iti adButa jQAna samudram ekaH kRpA AtmakaH nistaritum prayAti /
+   avyāhatājñaḥ paracittacāre prajñāvabhāsaṃ ca nabho viśālam // Ps_4.28 //	avyAhata ajQaH para citta cAre prajQA avaBAsam ca naBaH viSAlam // Ps_4.28 //
+   sarveṣu sattveṣu ca tasya mātrā samānahārdā karuṇābhyudeti /	sarvezu sattvezu ca tasya mAtrA samAna hArdA karuNA aByudeti /
+   saṃbuddhadharmāśca tato 'vaśeṣāstasyādbhutāḥ saṃprabhavantyaśeṣāḥ //	saMbudDa DarmAH ca tatas avaSezAH tasya adButAH saMpraBavanti aSezAH //
+   Ps_4.29 //	Ps_4.29 //
+   ebhiḥ samādānaguṇairupetaḥ śuddhaśravaiḥ pelavasattvasattvaiḥ /	eBiH samAdAna guNEH upetaH SudDa SravEH pelava sattva sattvEH /
+   aṣṭābhiraṅgairiva tattvamārgo vīryaprakarṣādadhikaṃ vibhāti // Ps_4.30 //	azwABiH aFgEH iva tattva mArgaH vIrya prakarzAt aDikam viBAti // Ps_4.30 //
+   vīryaṃ tridhā yaḥ kuśalaprayogastasmācca vākkāyamanoviśeṣāḥ /	vIryam triDA yaH kuSala prayogaH tasmAt ca vAc kAya manaH viSezAH /
+   prasthānaviṣṭhānasamāhitasya vīryaprakarṣasya manomayasya // Ps_4.31 //	prasTAna vizWAna samAhitasya vIrya prakarzasya manaH mayasya // Ps_4.31 //
+   yo bodhicittapraṇayaḥ samaśca kṛpā ca nairātmagatau kṣamā ca /	yaH boDi citta praNayaH samaH ca kRpA ca nErAtma gatO kzamA ca /
+   caturvikalpo janasaṃgrahaśca sarveṣu dharmeṣvanavagrahaśca // Ps_4.32 //	catur vikalpaH jana saMgrahaH ca sarvezu Darmezu anavagrahaH ca // Ps_4.32 //
+   saṃsārapaṅke yadakhinnatā ca traidhātukasyaiva ca nopalabdhiḥ /	saMsAra paFke yat aKinna tA ca trEDAtukasya eva ca na upalabDiH /
+   sarvasvadānaṃ na ca tena mānaḥ samagraśikṣasya na śikṣayā ca // Ps_4.33 //	sarva sva dAnam na ca tena mAnaH samagra Sikzasya na SikzayA ca // Ps_4.33 //
+   parāpakārairavikāri dhairyaṃ cittasya cātyantamavikṣatiryā /	para apakArEH avikAri DEryam cittasya ca atyantam avikzatiH yA /
+   ārambhadārḍhayaṃ kuśalakriyāsu prītirvivekaikarasā ca citte // Ps_4.34 //	AramBa dArXayam kuSala kriyAsu prItiH viveka eka rasA ca citte // Ps_4.34 //
+   caturvidhadhyānasamāpanaṃ ca cittasya nidhyaptiranātmataśca /	caturviDa DyAna samApanam ca cittasya niDyaptiH anAtmataH ca /
+   atṛptatā ca śrutavistareṇa nyāyapraveśastadavekṣaṇācca // Ps_4.35 //	atRpta tA ca Sruta vistareNa nyAya praveSaH tad avekzaNAt ca // Ps_4.35 //
+   yā deśanā caiva yathāśrutānāṃ jñānaṃ ca dharmānabhilāpyatāyām /	yA deSanA ca eva yaTA SrutAnAm jQAnam ca DarmAn aBilApyatAyAm /
+   pañcasvabhijñāsu ca yatprabhutvam abhyāsamātrā ca taduttarāyām // Ps_4.36	paQcasu aBijQAsu ca yat praBu tvam aByAsa mAtrA ca tad uttarAyAm // Ps_4.36
+   yadṛddhipādeṣvabhinirhṛtatvaṃ paṭvī na cāyāsamayī kriyā ca /	yat RdDipAdezu aBinirhRta tvam pawvI na ca AyAsa mayI kriyA ca /
+   samyakprahāṇeṣu ca yaḥ prayogaḥ śubhāśubhādeva ca yā vimuktiḥ // Ps_4.37	samyak prahANezu ca yaH prayogaH SuBa aSuBAt eva ca yA vimuktiH // Ps_4.37
+   yatkauśalaṃ cendriyanirṇayeṣu nirindriyān paśyati yacca dharmān /	yat kOSalam ca indriya nirNayezu nirindriyAn paSyati yat ca DarmAn /
+   mārgasya saṃbhāravimārgaṇaṃ ca na cāsya kiṃ cid gamanaṃ kutaścit //	mArgasya saMBAra vimArgaNam ca na ca asya kim cit gamanam kutaScid //
+   Ps_4.38 //	Ps_4.38 //
+   ityevamādyaṃ pṛthucitravīryaṃ prasthānaviṣṭhānaviśeṣacitram /	iti evamAdyam pRTu citravIryam prasTAna vizWAna viSeza citram /
+   asyākṣayatvapratipūraṇārthaṃ prasthānakarmaiva viśeṣahetuḥ // Ps_4.39 //	asya akzaya tva pratipUraNa arTam prasTAna karma eva viSeza hetuH // Ps_4.39 //
+   nimittakarmasvapi na pravartate vitiṣṭhate jñānamaye ca karmaṇi /	nimitta karmasu api na pravartate vitizWate jQAna maye ca karmaNi /
+   kṛpāguṇādyan na jahāti saṃskṛtaṃ na coruvīryo 'pi patatyasaṃskṛte //	kRpA guNAt yat na jahAti saMskRtam na ca uru vIryaH api patati asaMskRte //
+   Ps_4.40 //	Ps_4.40 //
+   apūrvadharmaśrutiralparogatā durāsadetvaṃ śrutadharmadhāraṇam /	apUrva Darma SrutiH alpa roga tA durAsa detvam Sruta Darma DAraNam /
+   amānuṣebhyo 'pi parigrahodayaḥ samādhigotrapratilambha eva ca // Ps_4.41	amAnuzeByaH api parigraha udayaH samADi gotra pratilamBaH eva ca // Ps_4.41
+   vrajantyavandhyā yadaharniśaṃ kriyā guṇairna hāniṃ yadutpaiti mauśalīm /	vrajanti avanDyAH yat aharniSam kriyA guNEH na hAnim yat utpEti mOSalIm /
+   vivṛddha evotpalavacca yadguṇairmanuṣyadharmādadhikaprayojanaiḥ // Ps_4.42	vivRdDaH eva utpala vat ca yad guNEH manuzya DarmAt aDika prayojanEH // Ps_4.42
+   yaśo viśālam ca sukhaṃ sukhodayaṃ vinītakārpaṇyamanastvamuttamam /	yaSaH viSAlam ca suKam suKa udayam vinIta kArpaNya manaH tvam uttamam /
+   guṇāśca teṣāmiha dṛṣṭadhārmikā bhavanti vīryāditi ko 'tra vismayaḥ //	guNAH ca tezAm iha dRzwa DArmikAH Bavanti vIryAt iti kaH atra vismayaH //
+   Ps_4.43 //	Ps_4.43 //
+   trailokyapūjyamamitoruguṇaṃ saṃbuddhabhāvamapi yānti yadā /	trElokya pUjyam amita uru guNam saMbudDa BAvam api yAnti yadA /
+   vīryavyāpāśrayadṛḍhāḥ puruṣā na syād ataḥ ka iva vīryaparaḥ // Ps_4.44 //	vIrya vyApa ASraya dRXAH puruzAH na syAt atas kaH iva vIrya paraH // Ps_4.44 //
+   // vīryapāramitāsamāsaḥ //	// vIrya pAramitA samAsaH //
+   5. dhyānapāramitāsamāsaḥ	5. DyAna pAramitA samAsaH
+   atha dhyānavidhau yogaṃ kuryāj jñānavivṛddhaye /	aTa DyAna viDO yogam kuryAt jQAna vivRdDaye /
+   sukhaṃ hi kartuṃ lokānāṃ jñānālokādanugraham // Ps_5.1 //	suKam hi kartum lokAnAm jQAna AlokAt anugraham // Ps_5.1 //
+   prasīdatyadhikaṃ jñānaṃ dhyānānmanasi nirmale /	prasIdati aDikam jQAnam DyAnAt manasi nirmale /
+   śaradutsāritaghane nabhasīvendumaṇḍalam // Ps_5.2 //	Sarad utsArita Gane naBasi iva indu maNxalam // Ps_5.2 //
+   viśuddhaśīlaḥ kalyāṇaiḥ sahāyaiḥ sahitairhitaiḥ /	viSudDa SIlaH kalyANEH sahAyEH sahitEH hitEH /
+   alpakṛtyaḥ praśāntātma smṛtyadhiṣṭhānaveṣṭitaḥ // Ps_5.3 //	alpa kRtyaH praSAnta Atma smRti aDizWAna vezwitaH // Ps_5.3 //
+   nivasan vṛkṣamūleṣu śādvalāstīrṇabhūmiṣu /	nivasan vRkza mUlezu SAdvala AstIrNa BUmizu /
+   anupaskṛtaramyeṣu vanapuṣpasugandhiṣu // Ps_5.4 //	anupaskRta ramyezu vana puzpa suganDizu // Ps_5.4 //
+   dhyānasācivyadhīreṣu saṃtuṣṭajanaveśmasu /	DyAna sAcivya DIrezu saMtuzwa jana veSmasu /
+   jananirghoṣamūkatvād gambhīrāvasthiteṣviva // Ps_5.5 //	jana niH Goza mUka tvAt gamBIra avasTitezu iva // Ps_5.5 //
+   pratyaraṇyaniviṣṭeṣu śūnyeṣvāyataneṣu vā /	pratyaraNya nivizwezu SUnyezu Ayatanezu vA /
+   kuñjeṣu ca mahīdhrāṇāṃ siṃhanādānunādiṣu // Ps_5.6 //	kuQjezu ca mahIDrANAm siMhanAda anuna Adizu // Ps_5.6 //
+   yatra kva cana vā deśe saṃsargakleśavarjite /	yatra kva cana vA deSe saMsarga kleSa varjite /
+   paryaṅkena sukhāsīnaḥ śarīram ṛju dhārayan // Ps_5.7 //	paryaFkena suKa AsInaH SarIram Rju DArayan // Ps_5.7 //
+   upasthāpya smṛtimayīṃ rakṣāṃ abhimukhīṃ hṛdi /	upasTApya smRti mayIm rakzAm aBimuKIm hRdi /
+   kṛpayā kuvitarkāṇāṃ kṛtvevākṣaṇaghoṣaṇām // Ps_5.8 //	kRpayA kuvitarkANAm kRtvA iva akzaNa GozaNAm // Ps_5.8 //
+   prajñāparicayasyāyāṃ kālo me na tu nirvṛteḥ /	prajQA paricayasyAyAm kAlaH me na tu nirvRteH /
+   na hi sattvān anirvāpya svayaṃ nirvātum utsahe // Ps_5.9 //	na hi sattvAn anirvApya svayam nirvAtum utsahe // Ps_5.9 //
+   iti lokahitāvekṣī buddhabhāvagataspṛhaḥ /	iti loka hita avekzI budDa BAva gata spRhaH /
+   kuryāt sātatyayogena dhyānārambhasamudyamam // Ps_5.10 //	kuryAt sAtatya yogena DyAna AramBa samudyamam // Ps_5.10 //
+   na hi viśramya viśramya mathnannagnimavāpnuyāt /	na hi viSramya viSramya maTnan= agnim avApnuyAt /
+   sa eva yogo yoge 'pi viśeṣādhigamādṛte // Ps_5.11 //	saH eva yogaH yoge api viSeza aDigamAt Rte // Ps_5.11 //
+   ekatraiva ca badhnīyād dṛḍham ālambane manaḥ /	ekatra eva ca baDnIyAt dRXam Alambane manaH /
+   anyānyālambanagrāhaḥ kliśnātyevākulaṃ manaḥ // Ps_5.12 //	anyAni Alambana grAhaH kliSnAti eva Akulam manaH // Ps_5.12 //
+   vidarśanād vīryabalāllīyamānaṃ samuddharet /	vidarSanAt vIrya balAt lIyamAnam samudDaret /
+   uddhanyamānaṃ ca manaḥ praśamena nivārayet // Ps_5.13 //	udDanyamAnam ca manaH praSamena nivArayet // Ps_5.13 //
+   samyaggatamupekṣitaṃ samādhibalaniścalam /	samyak gatam upekzitam samADi bala niScalam /
+   tatrāpi vā tanmayaḥ syāt sugatajñānalabdhaye // Ps_5.14 //	tatra api vA tad mayaH syAt sugata jQAna labDaye // Ps_5.14 //
+   na ca dhyānasukhāsvādaḥ pāratantryamanukramet /	na ca DyAna suKa AsvAdaH pAratantryam anukramet /
+   na hi svasukhamātrārthamayam ārambhavistaraḥ // Ps_5.15 //	na hi sva suKa mAtra arTa mayam AramBa vistaraH // Ps_5.15 //
+   śarīrajīvitāpekṣī dainyopahatamānasaḥ /	SarIra jIvita apekzI dEnya upahata mAnasaH /
+   na kuryād vīryaśaithilyamapyādīpte svamūrdhani // Ps_5.16 //	na kuryAt vIrya SETilyam api AdIpte sva mUrDani // Ps_5.16 //
+   lakṣayitvā nimittāni manastasya samādhaye /	lakzayitvA nimittAni manaH tasya samADaye /
+   bhraśyamānaṃ prayuñjīta smṛtyāvahitayā punaḥ // Ps_5.17 //	BraSyamAnam prayuQjIta smRtyOvahitayA punar // Ps_5.17 //
+   mano nivaraṇebhyaśca vipakṣairvinivartayet /	manaH nivaraNeByaH ca vipakzEH vinivartayet /
+   svecchāprayātaṃ dviradam aṅkuśākarṣaṇairiva // Ps_5.18 //	sva icCA prayAtam dviradam aFkuSa AkarzaNEH iva // Ps_5.18 //
+   atha nīvaraṇavyādhināśaprasvasthamānasaḥ /	aTa nIvaraNa vyADi nASa prasvasTa mAnasaH /
+   dāridryādiva nirmukto mahato vyasanādiva // Ps_5.19 //	dAridryAt iva nirmuktaH mahataH vyasanAt iva // Ps_5.19 //
+   prītiyuktena manasā kāmadoṣān vicārayet /	prIti yuktena manasA kAma dozAn vicArayet /
+   tadviyogopalabhyāṃ ca parāṃ sukhaparamparām // Ps_5.20 //	tad viyoga upalaByAm ca parAm suKa paramparAm // Ps_5.20 //
+   vidyududdyotacapalāḥ phenāṃśukanibhātmakāḥ /	vidyut uddyota capalAH Pena aMSuka niBa AtmakAH /
+   svapnavat pelavāsvādā vañcanārthamivoditāḥ // Ps_5.21 //	svapna vat pelava AsvAdAH vaQcanA arTam iva uditAH // Ps_5.21 //
+   pitṛṇāmapi putreṣu putrāṇāṃ ca pitṛṣvapi /	pitRNAm api putrezu putrANAm ca pitRzu api /
+   prītisarvasvabhūteṣu suhṛtsu suhṛdāmapi // Ps_5.22 //	prIti sarvasva BUtezu suhRtsu suhRdAm api // Ps_5.22 //
+   guṇapracayabaddhasya vyūḍhesu samareṣvapi /	guNa pracaya badDasya vyUXesu samarezu api /
+   darśitasthairyasārasya snehasetorvidāriṇaḥ // Ps_5.23 //	darSita sTErya sArasya sneha setoH vidAriNaH // Ps_5.23 //
+   iha paryeṣṭiduḥkhasya paratra narakasya ca /	iha paryezwi duHKasya paratra narakasya ca /
+   hetubhūtā yataḥ kāmāḥ kāmayeta na tān ataḥ // Ps_5.24 //	hetu BUtAH yatas kAmAH kAmayeta na tAn atas // Ps_5.24 //
+   yadāśrayo vitarko 'pi prajñācakṣurnimīlanaḥ /	yad ASrayaH vitarkaH api prajQA cakzuH nimIlanaH /
+   ātmano 'pi parasyāpi vighātāya pravartate // Ps_5.25 //	AtmanaH api parasya api viGAtAya pravartate // Ps_5.25 //
+   ātmakāmairapi ca ye sarvathāpi vivarjitāḥ /	Atma kAmEH api ca ye sarvaTA api vivarjitAH /
+   parārthakāmastān kāmāṃstyaktvā kathamanusmaret // Ps_5.26 //	para arTa kAmaH tAn kAmAn= tyaktvA kaTam anusmaret // Ps_5.26 //
+   tṛptireṣāṃ na saṃprāptyā nāhanyahani sevayā /	tRptiH ezAm na saMprAptyA na ahani ahani sevayA /
+   naiva saṃnicayenāpi ko 'nyo vyādhirataḥ paraḥ // Ps_5.27 //	na eva saMnicayena api kaH anyaH vyADiH atas paraH // Ps_5.27 //
+   yadāsvādahato naiva svārthamapyavabudhyate /	yadAsvAda hataH na eva sva arTam api avabuDyate /
+   unmattapānapratimān kastān sahṛdayaḥ smaret // Ps_5.28 //	unmatta pAna pratimAn kaH tAn sahRdayaH smaret // Ps_5.28 //
+   ityevaṃ sarvato duṣṭān kāmāṃstasyānupaśyataḥ /	iti evam sarvatas duzwAn kAmAn= tasya anupaSyataH /
+   tataḥ saṃkucitaṃ cittaṃ naiṣkramye 'bhiprasīdati // Ps_5.29 //	tatas saMkucitam cittam nEzkramye aBiprasIdati // Ps_5.29 //
+   vivekajaṃ prītisukhaṃ tataḥ prasrabdhilabdhijam /	viveka jam prIti suKam tatas prasrabDi labDi jam /
+   prāpnoti cittasyaikāgryaṃ prathamadhyānasaṃjñitam // Ps_5.30 //	prApnoti cittasya ekAgryam praTama DyAna saMjQitam // Ps_5.30 //
+   sa vitarkavicārāṇāṃ kāmānāmiva duṣṭatām /	sa vitarka vicArANAm kAmAnAm iva duzwa tAm /
+   puṣyāṃstatpraśamānveṣī samādhiprītijaṃ sukham // Ps_5.31 //	puzyAn= tad praSama anvezI samADi prIti jam suKam // Ps_5.31 //
+   adhyātmasaṃprasādācca cittaikāgratayā ca tat /	aDyAtma saMprasAdAt ca citta ekAgra tayA ca tat /
+   dvitīyaṃ dhyānamityāhuradvitīyā maharṣayaḥ // Ps_5.32 //	dvitIyam DyAnam iti AhuH advitIyAH mahA RzayaH // Ps_5.32 //
+   utplavaṃ manaso dṛṣṭvā prīteratha virajya saḥ /	utplavam manasaH dRzwvA prIteH aTa virajya saH /
+   tṛtīyaṃ dhyānamāpnoti smṛtyupekṣāsamanvitam // Ps_5.33 //	tRtIyam DyAnam Apnoti smRti upekzA samanvitam // Ps_5.33 //
+   sukhabhogamapi tyaktvā sukhaduḥkhanirākṛtam /	suKa Bogam api tyaktvA suKa duHKa nirAkRtam /
+   viśuddhaṃ smṛtyupekṣābhyāṃ caturthaṃ dhyānamaśnute // Ps_5.34 //	viSudDam smRti upekzAByAm caturTam DyAnam aSnute // Ps_5.34 //
+   abhijñā labhate pañca sa ca tatrānugāminīḥ /	aBijQA laBate paQca sa ca tatra anugAminIH /
+   rājyastha iva dharmātmā hrīkīrtiśrīmatidyutīḥ // Ps_5.35 //	rAjya sTaH iva Darma AtmA hrI kIrti SrImati dyutIH // Ps_5.35 //
+   pratyekajinalabdhāśca śrāvakīyā vyatītya ca /	pratyeka jina labDAH ca SrAvakIyAH vyatItya ca /
+   tā bhavantyadhikā dūraṃ parārthasamudāgamāt // Ps_5.36 //	tAH Bavanti aDikAH dUram para arTa samudAgamAt // Ps_5.36 //
+   sa hi matsariṇastyāge śīle tadvikalānapi /	sa hi matsariNaH tyAge SIle tad vikalAn api /
+   kopanān kṣāntisauratye kusīdān vīryasaṃpadi // Ps_5.37 //	kopanAn kzAnti sOratye kusIdAn vIrya saMpadi // Ps_5.37 //
+   vikṣiptacetaso dhyāne prajñāyāṃ tannirākṛtān /	vikzipta cetasaH DyAne prajQAyAm tad nirAkRtAn /
+   niyojayati kāruṇyādaśrāntācāravikramaḥ // Ps_5.38 //	niyojayati kAruNyAt aSrAnta AcAra vikramaH // Ps_5.38 //
+   ato 'cyutābhirdīptābhirbhābhirlokāvabhāsanam /	atas acyutABiH dIptABiH BABiH loka avaBAsanam /
+   marīcibhirivādityāḥ kurute 'nantagocaram // Ps_5.39 //	marIciBiH iva AdityAH kurute ananta gocaram // Ps_5.39 //
+   atha pāpakṛtaḥ sattvān patato narakādiṣu /	aTa pApa kRtaH sattvAn patataH naraka Adizu /
+   kṣīṇapuṇyāyuṣaścaiva devāñchāśvatamāninaḥ // Ps_5.40 //	kzINa puNya AyuzaH ca eva devAn SASvata mAninaH // Ps_5.40 //
+   taistairduḥkhaviśeṣaiśca lokaṃ kāraṇayāhatam /	tEH tEH duHKa viSezEH ca lokam kAraNayA hatam /
+   tatra divyaprabhāveṇa cakṣuṣā sā vilokayan // Ps_5.41 //	tatra divya praBAveNa cakzuzA sA vilokayan // Ps_5.41 //
+   tīvramāyāti kāruṇyaṃ kāruṇyān na pramādyati /	tIvram AyAti kAruNyam kAruNyAt na pramAdyati /
+   parārtheṣvapramattaśca yātyacintyaprabhāvatām // Ps_5.42 //	para arTezu apramattaH ca yAti acintya praBAva tAm // Ps_5.42 //
+   athānyalokadhātusthān sampaśyati tathāgatān /	aTa anya loka DAtu sTAn sampaSyati taTAgatAn /
+   buddhakṣetraguṇavyūhān saṃghasyaiva ca saṃpadaḥ // Ps_5.43 //	budDa kzetra guNa vyUhAn saMGasya eva ca saMpadaH // Ps_5.43 //
+   bodhisattvarṣabhāṇāṃ ca viśuddhācāragocaram /	boDisattva RzaBANAm ca viSudDa AcAra gocaram /
+   sarvalokahitodarkaṃ śrīmaccaritamīkṣate // Ps_5.44 //	sarva loka hita udarkam SrImat caritam Ikzate // Ps_5.44 //
+   tatra ca praṇidhistasya sukhenaiva samṛdhyati /	tatra ca praNiDiH tasya suKena eva samRDyati /
+   parārthapariṇāmācca śīlasyaiva ca saṃpadaḥ // Ps_5.45 //	para arTa pariNAmAt ca SIlasya eva ca saMpadaH // Ps_5.45 //
+   atimānuṣayā śrutyā divyayārthaviśuddhayā /	atimAnuzayA SrutyA divyaya arTa viSudDayA /
+   śṛṇvannuccāvacā vāco vidūre 'pyavidūravat // Ps_5.46 //	SRNvan= uccAvacAH vAcaH vidUre api avidUra vat // Ps_5.46 //
+   kṛpādūracarairuktāḥ pāruṣyavirasākṣarāḥ /	kRpA dUra carEH uktAH pAruzya virasa akzarAH /
+   antardīptasya kopāgnerniścarantīrivārciṣaḥ // Ps_5.47 //	antar dIptasya kopa agneH niScarantIH iva arcizaH // Ps_5.47 //
+   apsarogītasacivān bhūṣaṇasvanaśībharān /	apsaraH gIta sacivAn BUzaNa sva naSIBarAn /
+   divyatūryaninādāṃśca vināśaikarasānapi // Ps_5.48 //	divya tUrya ninAdAn= ca vinASa eka rasAn api // Ps_5.48 //
+   niṣevyamāṇān rāgāndhairamitrānmitrārūpiṇaḥ /	nizevyamANAn rAga anDEH amitrAt mitrA rUpiNaH /
+   vīkṣya vrajati kāruṇyaṃ teṣāṃ vāñcanayā tayā // Ps_5.49 //	vIkzya vrajati kAruNyam tezAm vA aQcanayA tayA // Ps_5.49 //
+   bhayādduḥkhaviśeṣācca so 'vispaṣṭapadākṣaraiḥ /	BayAt duHKa viSezAt ca saH avispazwa pada akzarEH /
+   nārakairārtarasitairhṛdīvābhihatastataḥ // Ps_5.50 //	nArakEH Artara sitEH hRdi iva aBihataH tatas // Ps_5.50 //
+   paramālambate vīryaṃ majjāgatamahākṛpaḥ /	parama Alambate vIryam majjA gata mahA kRpaH /
+   tīkṣṇāgreṇa pratodena sadaśva iva coditaḥ // Ps_5.51 //	tIkzNa agreNa pratodena sat aSvaH iva coditaH // Ps_5.51 //
+   nānālokasthitebhyo 'tha jinebhyo dharmadeśanāḥ /	nAnA loka sTiteByaH aTa jineByaH Darma deSanAH /
+   śṛṇoti sarvasattvānāṃ nirvāṇakāṅkṣayākṣayāḥ // Ps_5.52 //	SRNoti sarva sattvAnAm nirvANa kAFkzaya akzayAH // Ps_5.52 //
+   tataḥ sa paracitteṣu vijñāyānuśayāśayān /	tatas sa para cittezu vijQAya anuSaya ASayAn /
+   puṇyāṅkurān ropayati jñānasādhanavānnavān // Ps_5.53 //	puNya aFkurAn ropayati jQAna sADanavAn navAn // Ps_5.53 //
+   smṛtvā pūrvanivāsaṃ ca kalpakoṭisahasraśaḥ /	smRtvA pUrva nivAsam ca kalpa kowi sahasraSas /
+   paśyan puṇyāni lokānāṃ tathendriyabalābalam // Ps_5.54 //	paSyan puNyAni lokAnAm taTA indriya bala abalam // Ps_5.54 //
+   tadāśrayavaśādṛddhyā so 'nekīkṛtavigrahaḥ /	tad ASraya vaSAt RdDyA saH anekIkRta vigrahaH /
+   avandhyakathanaṃ yāti yathābhājanadeśanāt // Ps_5.55 //	avanDya kaTanam yAti yaTA BAjana deSanAt // Ps_5.55 //
+   kva cid arkasahasradīptināpyavisaṃvāditakāntisaṃpadā /	kva cit arka sahasra dIptinA api avisaMvAdita kAnti saMpadA /
+   vapuṣā munirājalakṣaṇaḥ sphuṭacitreṇa samantalakṣmaṇā // Ps_5.56 //	vapuzA muni rAja lakzaNaH sPuwa citreNa samanta lakzmaNA // Ps_5.56 //
+   janayannayanotsavaṃ nṛṇāṃ vacasā hlādaviśeṣamācaran /	janayat nayana utsavam nRNAm vacasA hlAda viSezam Acaran /
+   sa karotyamṛtaprakāśanaṃ jinabhāvāya jinādhimuktiṣu // Ps_5.57 //	sa karoti amRta prakASanam jina BAvAya jina aDimuktizu // Ps_5.57 //
+   praśamottarayā muniśriyā kva cid atyārthaviśiṣṭaceṣṭayā /	praSama uttarayA muni SriyA kva cit atyArTa viSizwa cezwayA /
+   kurute muniśiṣyarūpabhṛdvinayaṃ tadvinayārhacetasām // Ps_5.58 //	kurute muni Sizya rUpa BRt vinayam tad vinaya arha cetasAm // Ps_5.58 //
+   abhisāritapādapaṅkajaḥ suracūḍāmaṇibhirmahendravat /	aBisArita pAda paFkajaH suracUxAmaNiBiH mahA indra vat /
+   dhanado dhanado yathā kva cit kuha cidbrahmavadadbhutadyutiḥ // Ps_5.59 //	DanadaH DanadaH yaTA kva cit kuha cit brahma vat adButa dyutiH // Ps_5.59 //
+   kva cid unmiṣitatrilocanaḥ śaśīlekhāmalamaulibhūṣaṇaḥ /	kva cit unmizita trilocanaH SaSI leKA amala mOli BUzaNaH /
+   amarādhipabhāsuradyutirbujagendraśriyamudvahan kva cit // Ps_5.60 //	amara aDipa BAsura dyutiH bujaga indra Sriyam udvahan kva cit // Ps_5.60 //
+   kuliśānalapiṅgalāṅguliḥ kuha cid guhyakarājarājavat /	kuliSa anala piFgala aFguliH kuha cit guhyaka rAja rAja vat /
+   amitājinalakṣmavān kva cid guṇaraśmirmunicandramā iva // Ps_5.61 //	amita ajina lakzmavAn kva cit guNa raSmiH muni candramAH iva // Ps_5.61 //
+   sphuṭakaustubharatnaraśmibhirvipuloraḥsthalabhāsuradyutiḥ /	sPuwa kOstuBa ratna raSmiBiH vipula uraH sTala BAsura dyutiH /
+   garuḍadhvajarājadṛk kva cit kuha ciccaiva halāyudhadyutiḥ // Ps_5.62 //	garuxaDvaja rAja dRS kva cit kuha cit ca eva halAyuDa dyutiH // Ps_5.62 //
+   sitaśaktiracintyaśaktimān kuha ciccāruśikhaṇḍivāhanaḥ /	sita SaktiH acintya SaktimAn kuha cit cAru SiKaNxivAhanaH /
+   udayāstanagendrabhūṣaṇaḥ śaśisūryāmalarūpavān kva cit // Ps_5.63 //	udaya astanaga indra BUzaNaH SaSi sUrya amala rUpavAn kva cit // Ps_5.63 //
+   kuha cid dhutabhuṅmarutvatāṃ vapuṣānyatra narāśrayāśinām /	kuha cit Duta Buj marutvatAm vapuzA anyatra nara ASraya ASinAm /
+   vāruṇadyutim udvahan kva cit kuha cinmanmathacāruvigrahaḥ // Ps_5.64 //	vAruNa dyutim udvahan kva cit kuha cit manmaTa cAru vigrahaH // Ps_5.64 //
+   lalitāṃ pramadānarākṛtiṃ naranārīratisaṃgalālasaḥ /	lalitAm pramadA nara AkRtim nara nArI rati saMga la alasaH /
+   kva cid eva tapodhanaśriyaṃ vidadhat kāmaviraktamānasaḥ // Ps_5.65 //	kva cit eva tapoDana Sriyam vidaDat kAma virakta mAnasaH // Ps_5.65 //
+   hṛdayāni harannṛṇāṃ kva cid guruśiṣyakṣitipālavṛttibhiḥ /	hRdayAni haran nRNAm kva cit guru Sizya kzitipAla vRttiBiH /
+   narakeṣvapi ca parabhāvato vidadhadduḥkhavimokṣaṇakṣaṇam // Ps_5.66 //	narakezu api ca para BAvataH vidaDat duHKa vimokzaNa kzaNam // Ps_5.66 //
+   jagatām adhimuktivistarairatha so 'nekavidhairviceṣṭitaiḥ /	jagatAm aDimukti vistarEH aTa saH anekaviDEH vicezwitEH /
+   karuṇāguṇasaṃtatastataḥ kurute lokahitaṃ tatastataḥ // Ps_5.67 //	karuNA guNa saMtataH tatas kurute loka hitam tatas tatas // Ps_5.67 //
+   samavāpya viśeṣasaṃpadaṃ vipulāṃ dhyānaguṇaśrayādimām /	samavApya viSeza saMpadam vipulAm DyAna guNa SrayAt imAm /
+   prayateta viśeṣavattaraṃ nidhicihneṣvavisaṃvadatsviva // Ps_5.68 //	prayateta viSezavattaram niDi cihnezu avisaMvadatsu iva // Ps_5.68 //
+   kuśale sthitirapyanūrjitā kim ahāniḥ śithilavratocitā /	kuSale sTitiH api anUrjitA kim ahAniH SiTila vrata ucitAH /
+   prayateta vivṛddhaye tataḥ parihāṇistu viparyayādataḥ // Ps_5.69 //	prayateta vivRdDaye tatas parihANiH tu viparyayAt atas // Ps_5.69 //
+   sulabhaśca samādhirudyamād anurakṣā punarasya duṣkarā /	sulaBaH ca samADiH udyamAt anurakzA punar asya duzkarAH /
+   sahasā vijigīṣuṇā yathā vijitasya praśamapratikriyā // Ps_5.70 //	sahasA vijigIzuNA yaTA vijitasya praSama pratikriyA // Ps_5.70 //
+   manasaḥ parivṛttilāghavaṃ paramaṃ tatra na viśvasedataḥ /	manasaH parivRtti lAGavam paramam tatra na viSva set atas /
+   anavāpya mahīmivācalām acalāṃ bhūmimabhīradurgamām // Ps_5.71 //	anavApya mahIm iva acalAm acalAm BUmim aBIra durgamAm // Ps_5.71 //
+   abhisaṃskṛta[mārgacāriṇaḥ] patanāntā hi samādhivistarāḥ /	aBisaMskRta[ mArga cAriNaH] patana antAH hi samADi vistarAH /
+   ata uttamamārgabhāvanām avalambeta vikalpavarjanāt // Ps_5.72 //	atas uttama mArga BAvanAm avalambeta vikalpa varjanAt // Ps_5.72 //
+   sucinityasukhātmakalpanaṃ kapaṭam saṃskṛtadambhasaṃbhavām /	suci nitya suKa Atma kalpanam kapawam saMskRta damBa saMBavAm /
+   samavekṣya na bhāvakalpanāpraṇayavyāpṛtamānaso bhavet // Ps_5.73 //	samavekzya na BAva kalpanA praNaya vyApRta mAnasaH Bavet // Ps_5.73 //
+   viśade 'pyupalambhasaṃbhave vrajati kleśaśaravyatām ataḥ /	viSade api upalamBa saMBave vrajati kleSa SaravyatAm atas /
+   vyatiyāti tu māragocaraṃ tamanarthaṃ praśamayya sarvathā // Ps_5.74 //	vyatiyAti tu mAra gocaram tam anarTam praSamayya sarvaTA // Ps_5.74 //
+   na hi niśrayadośaduṣito bhavati dhyānavidhirviśuddhaye /	na hi niSraya doSa duzitaH Bavati DyAna viDiH viSudDaye /
+   calatānugato hi niśrayaḥ sakhaṭuṅkastata eva kathyate // Ps_5.75 //	calatA anugataH hi niSrayaH sa KawuFkaH tatas eva kaTyate // Ps_5.75 //
+   vyavahāravidhiprasiddhaye pratipattadbhavatīti kathyate /	vyavahAra viDi prasidDaye pratipad tat Bavati iti kaTyate /
+   na hi kiṃ cid udeti kutra cit sadasatsaṃbhavayuktyasaṃbhavāt // Ps_5.76 //	na hi kim cit udeti kutra cit sat asat saMBava yukti asaMBavAt // Ps_5.76 //
+   gaganena samānamānasastribhavādapyu atha vītaniśrayaḥ /	gaganena samAna mAnasaH tri BavAt apyu aTa vIta niSrayaH /
+   avikalpitadhīraceṣṭito vacanenāpratiyatnaśobhinā // Ps_5.77 //	avikalpita DIra cezwitaH vacanena apratiyatna SoBinA // Ps_5.77 //
+   kurute sa ca laukikīṃ kriyāṃ jagadekāntahitānuvartinīm /	kurute sa ca lOkikIm kriyAm jagat ekAnta hita anuvartinIm /
+   na samādhibalācca hīyate vaśavartitvamavāpya cetasaḥ // Ps_5.78 //	na samADi balAt ca hIyate vaSa varti tvam avApya cetasaH // Ps_5.78 //
+   tataḥ paraṃ parahitatatparodyataiḥ samādhibhirvidhivihitaprayojanaiḥ /	tatas param para hita tad para udyatEH samADiBiH viDi vihita prayojanEH /
+   vivardhate ghanasamaye yathodadhiḥ saridvadhūsamupahṛtairnavāmbubhiḥ //	vivarDate Gana samaye yaTA udaDiH sarit vaDU samupahRtEH nava ambuBiH //
+   Ps_5.79 //	Ps_5.79 //
+   // dhyānapāramitāsamāsaḥ //	// DyAna pAramitA samAsaH //
+   6. prajñāpāramitāsamāsaḥ	6. prajQApAramitA samAsaH
+   puṇyāni dānaprabhṛtīnyamūni prajñāsanāthānyadhikaṃ vibhānti /	puNyAni dAna praBRtIni amUni prajQA sanATAni aDikam viBAnti /
+   hiraṇmayānīva vibhūṣaṇāni pratyuptaratnadyutibhāsvarāṇi // Ps_6.1 //	hiraNmayAni iva viBUzaNAni pratyupta ratna dyuti BAsvarANi // Ps_6.1 //
+   kriyāsu sāmarthyaguṇaṃ hi teṣāṃ prajñaiva vistāriṇamādadhāti /	kriyAsu sAmarTya guNam hi tezAm prajQA eva vistAriNam AdaDAti /
+   svārthapravṛttau viśadakramāṇāṃ yathā manaḥsaṃtatirindriyāṇāṃ // Ps_6.2 //	sva arTa pravRttO viSada kramANAm yaTA manaH saMtatiH indriyANAm // Ps_6.2 //
+   kriyāsvayogyāni śarīrayantrāṇyāyurviyuktāni yathā na bhānti /	kriyAsu ayogyAni SarIra yantrANi AyuH viyuktAni yaTA na BAnti /
+   tathaiva kāryāṇi na bhānti loke prajñāviyogena jadīkṛtāni // Ps_6.3 //	taTA eva kAryANi na BAnti loke prajQA viyogena jadIkRtAni // Ps_6.3 //
+   śraddhādikānāmapi cendriyāṇāṃ prajñāgraṇī buddhirivendriyāṇām /	SradDA AdikAnAm api ca indriyANAm prajQA agraNI budDiH iva indriyANAm /
+   guṇāguṇān vetti hi tatsanāthaḥ kleśakṣaye naipuṇametyataśca // Ps_6.4 //	guNa aguNAn vetti hi tad sanATaH kleSa kzaye nEpuNam etyataH ca // Ps_6.4 //
+   prajñāviyogāt phalalālasānāṃ naiva svatodānaviśuddhirasti /	prajQA viyogAt Pala lAlasAnAm na eva sva tas dAna viSudDiH asti /
+   tyāgaṃ parārthaṃ hi vadanti dānaṃ śeṣastu vṛddhyārthamiva prayogaḥ //	tyAgam para arTam hi vadanti dAnam SezaH tu vRdDyA arTam iva prayogaH //
+   Ps_6.5 //	Ps_6.5 //
+   prajñāsamunmīlitacakṣuṣastu dattvā svamāṃsānyapi bodhisattvāḥ /	prajQA samunmIlita cakzuzaH tu dattvA sva mAMsAni api boDisattvAH /
+   naivonnatiṃ nāvanatiṃ prayānti bhaiṣajyavṛkṣā iva nirviklapāḥ // Ps_6.6 //	na eva unnatim na avanatim prayAnti BEzajya vRkzAH iva nirviklapAH // Ps_6.6 //
+   evaṃ sa bhūmiṃ prathamāmupaiti lokottarasyārthavidhipratiṣṭhām /	evam sa BUmim praTamAm upEti loka uttarasya arTa viDi pratizWAm /
+   akrodhanaḥ prītisamṛddhacetā dānairmahadbhirjagadarthacetāḥ // Ps_6.7 //	akroDanaH prIti samRdDa cetAH dAnEH mahadBiH jagat arTa cetAH // Ps_6.7 //
+   prāyeṇa yasyāṃ balacakravartī bhavatyasaṃhāryamatiśca bodheḥ /	prAyeNa yasyAm bala cakravartI Bavati asaMhArya matiH ca boDeH /
+   prajñāguṇādeśitasatpatho 'tha karmeṇa bhūmiṃ vimalāmupaiti // Ps_6.8 //	prajQA guNa AdeSita sat paTaH aTa karmeNa BUmim vimalAm upEti // Ps_6.8 //
+   yasyāṃ prakṛtyaiva viśuddhaśīlaścaturmahādvīpapatiḥ sa bhūtvā /	yasyAm prakRtyA eva viSudDa SIlaH catur mahA dvIpa patiH sa BUtvA /
+   narendracūḍāmaṇisatkṛtājñaḥ sūryārhatāmeti yathā munīndraḥ // Ps_6.9 //	narendra cUxAmaNi satkRta ajQaH sUrya arha tAm eti yaTA muni indraH // Ps_6.9 //
+   tataḥ paraṃ kāmiṣu daivateṣu loke 'pi ca dvitrisahasrasaṃkhye /	tatas param kAmizu dEvatezu loke api ca dvi tri sahasra saMKye /
+   aiśvaryamāpnoti tataḥ paraṃ ca bhūmiṃ viśodhya prabhavāṃ prabhāyāḥ //	ESvaryam Apnoti tatas param ca BUmim viSoDya praBavAm praBAyAH //
+   Ps_6.10 //	Ps_6.10 //
+   śīlasya śuddhiḥ kuta eva tasya yaḥ prajñayā nāpahṛtāndhakāraḥ /	SIlasya SudDiH kutas eva tasya yaH prajQayA na apahRta anDakAraH /
+   prāyeṇa śīlāni hi tadviyogād āmarṣadoṣaiḥ kaluṣīkriyante // Ps_6.11 //	prAyeNa SIlAni hi tad viyogAt Amarza dozEH kaluzIkriyante // Ps_6.11 //
+   nātmārthamapyasti tu yasya śīlaṃ prājñasya tasyāsti kathaṃ parārtham /	na Atma arTam api asti tu yasya SIlam prAjQasya tasya asti kaTam para arTam /
+   yo dṛṣṭadoṣo bhavabandhanānāṃ lokān samastāṃstata ujjihīrṣuḥ // Ps_6.12 //	yaH dRzwa dozaH Bava banDanAnAm lokAn samastAn= tatas ujjihIrzuH // Ps_6.12 //
+   prajñāvipakṣairhṛdi soparāge kṣamāguṇaḥ kena dhṛtiṃ labheta /	prajQA vipakzEH hRdi sa uparAge kzamA guNaH kena DRtim laBeta /
+   guṇāguṇāavekṣaṇakātarākṣe khyāto guṇairvīrā iva kṣitīśe // Ps_6.13 //	guNa aguNa aavekzaNa kAtara akze KyAtaH guNEH vIrAH iva kzitISe // Ps_6.13 //
+   prajñānvitānāṃ tu parāpakārāḥ kṣamāguṇāḥ sthairyakarā bhavanti /	prajQA anvitAnAm tu para apakArAH kzamA guNAH sTErya karAH Bavanti /
+   bhadrātmakānāmiva vāraṇānāṃ karamāśrayā naikavidhā viṣeṣāḥ // Ps_6.14 //	Badra AtmakAnAm iva vAraNAnAm karam ASrayAH na ekaviDAH vizezAH // Ps_6.14 //
+   niṣkevalaṃ vīryamapi śramāya prajñāsanāthasya tu tasya kārye /	nizkevalam vIryam api SramAya prajQAsanATasya tu tasya kArye /
+   anuttaraḥ siddhiguṇo 'bhyudeti hartā tadutthasya pariśramasya // Ps_6.15	anuttaraH sidDi guNaH aByudeti hartA tad utTasya pariSramasya // Ps_6.15
+   yasmāt paraṃ sūkṣamataraṃ na kiṃ cid yannaipuṇānāṃ paramaḥ prakarṣaḥ /	yasmAt param sUkzamataram na kim cit yat nEpuNAnAm paramaH prakarzaH /
+   yatkāmadoṣādibhirāvṛtānāṃ manaḥpathaṃ naiva kadā cideti // Ps_6.16 //	yad kAma doza AdiBiH AvRtAnAm manaH paTam na eva kadA cit eti // Ps_6.16 //
+   tad dhyānamekāntasukhābhirāmaṃ kathaṃ pravekṣyantyastāṃ manāṃsi /	tat DyAnam ekAnta suKa aBirAmam kaTam pravekzyantyastAm manAMsi /
+   sthūlāni doṣopacayairmahadbhiḥ prajñotpathaṃ nyāyamivāśritānī // Ps_6.17	sTUlAni doza upacayEH mahadBiH prajQA utpaTam nyAyam iva ASritAnI // Ps_6.17
+   prajñānirudyogamaterhi dṛṣṭirnāyāti śuddhiṃ tadṛte na śīlam /	prajQA nirudyogamateH hi dRzwiH na AyAti SudDim tat Rte na SIlam /
+   samyakasmādhis tadṛte na labhyo duḥkhakṣayastadvirahāttathaiva // Ps_6.18	samyakasma ADiH tat Rte na laByaH duHKa kzayaH tad virahAt taTA eva // Ps_6.18
+   prājñastu doṣādbhayamīkṣamāṇaḥ sukhānubaddhaṃ ca sukhaṃ guṇebhyaḥ /	prAjQaH tu dozAt Bayam IkzamANaH suKa anubadDam ca suKam guNeByaH /
+   vihāya doṣāñjagadarthakāmo guṇābhirāmeṇa pathā prayāti // Ps_6.19 //	vihAya dozAn jagat arTa kAmaH guNa aBirAmeNa paTA prayAti // Ps_6.19 //
+   samudyatastena samādhimetya prāpnoti vākkāyamanoviśuddhīḥ /	samudyataH tena samADim etya prApnoti vAc kAya manaH viSudDIH /
+   ato 'navadyena balena yuktaḥ pravartate lokahitodayeṣu // Ps_6.20 //	atas anavadyena balena yuktaH pravartate loka hita udayezu // Ps_6.20 //
+   dānena cābhīpsitabhūyasaiva priyairadīnairvacanāmṛtaiśca /	dAnena ca aBIpsita BUyasA eva priyEH adInEH vacana amRtEH ca /
+   naiṣkāraṇorjasvalayā ca vṛttyā parārthacaryāsu samaṃ samantāt // Ps_6.21	nEzkAraNa Urja svalayA ca vRttyA para arTa caryAsu samam samantAt // Ps_6.21
+   sāmānyamartheṣu ca darśayitvā premṇā vaśīkṛtya manāṃsi teṣām /	sAmAnyam arTezu ca darSayitvA premNA vaSIkRtya manAMsi tezAm /
+   karoti nirvāṇasukhe pratiṣṭhāṃ prajñāguṇāvyāhatadharmacakraḥ // Ps_6.22 //	karoti nirvANa suKe pratizWAm prajQA guNa avyAhata Darma cakraH // Ps_6.22 //
+   prajñādyarogaiśca balairamībhiradhyāsitaṃ nābhyupayātumīsā /	prajQA Adya rogEH ca balEH amIBiH aDyAsitam na aByupayAtum IsA /
+   ajīvikādurgatimṛtyunindāśāradyadoṣāśrayaṇī bhayārtiḥ // Ps_6.23 //	ajIvikA durgati mRtyu nindA SAradya doza ASrayaNI Baya ArtiH // Ps_6.23 //
+   bhayāni sarvāṇi hi doṣajāni prajñā na doṣaiḥ sahavāsameti /	BayAni sarvANi hi doza jAni prajQA na dozEH sahavAsam eti /
+   śaradvyapoḍhābhragavākṣapakṣā bhā bhāskarasyeva tamaḥpratānaiḥ // Ps_6.24	Sarad vyapoXa aBra gavAkza pakzAH BAs BAskarasya iva tamaH pratAnEH // Ps_6.24
+   sahasraraśmerudaye 'pi yāni tamāṃsi rundhanti jagadgatāni /	sahasraraSmeH udaye api yAni tamAMsi runDanti jagat gatAni /
+   nāmaikaśeṣāṇi karoti tāni prajñāprabhāyāḥ prasaraprabhāvaḥ // Ps_6.25 //	nAma eka SezANi karoti tAni prajQA praBAyAH prasara praBAvaH // Ps_6.25 //
+   na tatra bhūyaḥ karaṇīyam asti yatra prabhā sā balatāmupaiti /	na tatra BUyas karaNIyam asti yatra praBA sA bala tAm upEti /
+   yugāntakālānalasaṃhṛte hi loke na dagdhavyakathāḥ prathante // Ps_6.26 //	yugAnta kAla anala saMhRte hi loke na dagDavya kaTAH praTante // Ps_6.26 //
+   jyotīṃṣi sarvāṇyapi saṃhitāni prajñāprabhāṃ nālamathopayātum /	jyotIMzi sarvANi api saMhitAni prajQA praBAm nAlam aTa upayAtum /
+   atastayā nāsti parātivṛddhirgarīyasī vāparihāṇijātiḥ // Ps_6.27 //	atas tayA na asti para ativRdDiH garIyasI vA aparihANi jAtiH // Ps_6.27 //
+   saṃpūrṇatāṃ yāti sukhena śikṣā śīlāya cittapraśamāya caiva /	saMpUrNa tAm yAti suKena SikzA SIlAya citta praSamAya ca eva /
+   prajñābhiyuktasya yatastato 'syāṃ sarvābhisāreṇa parākrameta // Ps_6.28 //	prajQA aBiyuktasya yatas tatas asyAm sarva aBisAreNa parAkrameta // Ps_6.28 //
+   yā skandhadhātvāyatanapravṛttau satyāśrayā pratyayitā parīkṣā /	yA skanDa DAtu Ayatana pravRttO satya ASrayA pratyayitA parIkzA /
+   kālatraye 'pyeṣa samāsayuktyā prajñāvadātairviṣayapraveśaḥ // Ps_6.29 //	kAla traye api eza samAsa yuktyA prajQA avadAtEH vizaya praveSaH // Ps_6.29 //
+   kīrtiṃ vitanvanti jinātmajānāṃ prajñāvadātāścaritapradeśāḥ /	kIrtim vitanvanti jina AtmajAnAm prajQA avadAtAH carita pradeSAH /
+   guṇadvīṣāmapyatiduṣkuhāṇāṃ romāñcitā vismayapāratantryāt // Ps_6.30 //	guNa dvIzAm api ati duzkuhANAm romAQcitAH vismaya pAratantryAt // Ps_6.30 //
+   prajñābalaṃ dīptataraprabhāvaṃ nālaṃ prasoḍhuṃ sabalo 'pi māraḥ /	prajQA balam dIptatara praBAvam nAlam prasoXum sa balaH api mAraH /
+   prajñāṃśavo vibhramayānti cakṣurna draṣṭum īśo hi yataḥ sa eva // Ps_6.31	prajQA aMSavaH viBrama yAnti cakzuH na drazwum ISaH hi yatas saH eva // Ps_6.31
+   kandarpanārācanipātasāhī prajñāmayaṃ varma vitatya citte /	kandarpa nArAca nipAta sAhI prajQA mayam varma vitatya citte /
+   vyūḍhāni rūpaprabhṛtīnyanekānyeko 'pi nirbhīrabhibhūya yāti // Ps_6.32 //	vyUXAni rUpa praBRtIni anekAni ekaH api nirBIH aBiBUya yAti // Ps_6.32 //
+   adhīrasātmyaṃ bhayaviklavaṃ vā mūḍhocitaṃ śokaparigrahaṃ vā /	aDIra sAtmyam Baya viklavam vA mUXa ucitam Soka parigraham vA /
+   svalpātmacitteṣvavagāḍhamūlaṃ roṣoparāgaṃ parijihmitaṃ vā // Ps_6.33 //	su alpa Atma cittezu avagAXa mUlam roza uparAgam parijihmitam vA // Ps_6.33 //
+   dīneṣu kārpaṇyamalīmasatvaṃ kṛtāspadaṃ rāgiṣu cāpalaṃ vā /	dInezu kArpaNya malIm asatvam kRta Aspadam rAgizu cApalam vA /
+   tejovihīneṣvalasatvasattvaṃ samuddhateṣvapraśamātmakatvam // Ps_6.34 //	tejaH vihInezu alasatva sattvam samudDatezu apraSama Atmaka tvam // Ps_6.34 //
+   tāṃstāṃśca līnānapi doṣaleśān pṛthagvidhiṣvāśrayagahvareṣu /	tAn= tAn= ca lInAn api doza leSAn pRTak viDizu ASraya gahvarezu /
+   samudbhavantyeva parākaroti prajñā pratijñeva jagaddhitārthā // Ps_6.35 //	samudBavanti eva parAkaroti prajQA pratijQA iva jagat hita arTAH // Ps_6.35 //
+   niveśya doṣakṣayadhīrasaumyāṃ bhavasya tasyopari dṛṣṭilakṣmīm /	niveSya doza kzaya DIra sOmyAm Bavasya tasya upari dRzwi lakzmIm /
+   svayaṃ munīndrairabhiṣicyate yat prahlādinā vyākaraṇāmṛtena // Ps_6.36 //	svayam muni indrEH aBizicyate yat prahlAdinA vyAkaraNa amRtena // Ps_6.36 //
+   ūrṇāprabhābhiśca mahāmunīnāṃ niśīthacandradyutihāsinībhiḥ /	UrNA praBABiH ca mahA munInAm niSITa candra dyuti hAsinIBiH /
+   yadājyadhārābhirivādhvaragnirvibhāti mūrdhanyabhiṣicyamānaḥ // Ps_6.37 //	yat A Ajya DArABiH iva aDvaragniH viBAti mUrDani aBizicyamAnaH // Ps_6.37 //
+   avāpya yasmān muniyauvarājyaṃ samaṃ samantād visṛtātmabhāvaḥ /	avApya yasmAt muni yOvarAjyam samam samantAt visRta Atma BAvaH /
+   lokasya duḥkhaṃ praśamatyayatnād rajo mahāmegha iva pravṛṣṭaḥ // Ps_6.38	lokasya duHKam praSamati ayatnAt rajaH mahA meGaH iva pravRzwaH // Ps_6.38
+   prajñāprabhāvopanataḥ sa sarvaḥ prabhāvisāraḥ sugatātmajānām /	prajQA praBAva upanataH sa sarvaH praBA visAraH sugata AtmajAnAm /
+   ko vismayo vātra sutapriyāyā mātuḥ samīyādyadiyaṃ vibhūtiḥ // Ps_6.39 //	kaH vismayaH vA atra suta priyAyAH mAtuH samIyAdyat iyam viBUtiH // Ps_6.39 //
+   daśaprakāro 'pi yadā munīnāṃ tadāśrayādeva balaprakarṣaḥ /	daSa prakAraH api yadA munInAm tad ASrayAt eva bala prakarzaH /
+   udetyasādhāraṇasundaraśca śeṣo 'pyasaṃkhyo guṇaratnarāśiḥ // Ps_6.40 //	udeti asADAraNa sundaraH ca SezaH api asaMKyaH guNa ratna rASiH // Ps_6.40 //
+   śāstrāṇi cakṣuḥpratimāni loke nidhānabhūtāṃśca kalāviśeṣān /	SAstrANi cakzuH pratimAni loke niDAna BUtAn= ca kalA viSezAn /
+   mantrān paritrāṇakṛto vicitrān dharmavyavasthāśca pṛthagviśeṣāḥ // Ps_6.41	mantrAn paritrANa kRtaH vicitrAn Darma vyavasTAH ca pRTak viSezAH // Ps_6.41
+   paryāyacitraṃ ca vimokṣamārgaṃ tattacca lokasya hitopapādi /	paryAya citram ca vimokza mArgam tat tat ca lokasya hita upapAdi /
+   yadbodhisattvāḥ pravidarśayanti prajñāprabhāvābhyudayaḥ sa sarvaḥ //	yat boDisattvAH pravidarSayanti prajQA praBAva aByudayaH sa sarvaH //
+   Ps_6.42 //	Ps_6.42 //
+   divyapratispardhibhirindriyārthairnarendrabhāve 'pi hi bodhisattvāḥ /	divya pratisparDiBiH indriya arTEH narendra BAve api hi boDisattvAH /
+   na yadvirūpāṃ prakṛtiṃ vrajanti prajñā guṇāmātyasanāthatā sā // Ps_6.43 //	na yat virUpAm prakRtim vrajanti prajQA guNa amAtya sanATa tA sA // Ps_6.43 //
+   paropakāraikarasā ca maitrī rāgoparāgaprativarjitā ca /	para upakAra ekarasA ca mEtrI rAga uparAga prativarjitA ca /
+   parasya duḥkheṣu parā dayā ca na śokabhārālasatāṃ gatā ca // Ps_6.44 //	parasya duHKezu parA dayA ca na Soka BAra alasa tAm gatA ca // Ps_6.44 //
+   anuddhātatvaṃ mudite 'pi citte tamonirārambhamupekṣitaṃ ca /	anudDAta tvam mudite api citte tamaH niH AramBam upekzitam ca /
+   te te guṇā<;ś>;cābhyadhikaṃ vibhānti prajñāniruddhapratipakṣamārgāḥ //	te te guNA<;S>;ca aByaDikam viBAnti prajQA nirudDa pratipakza mArgAH //
+   Ps_6.45 //	Ps_6.45 //
+   ko nāma lokasya parārthasādhurduḥkhaikahetūni tamāṃsi hanyāt /	kaH nAma lokasya para arTa sADuH duHKa eka hetUni tamAMsi hanyAt /
+   avyāhatā jñānaśayāśayeṣu prajñā na cet syādatisūryādīptiḥ // Ps_6.46 //	avyAhatA jQAna Saya ASayezu prajQA na ced syAt ati sUryAdIptiH // Ps_6.46 //
+   tatprāptaye śrutam aśītivikalpacitraṃ saṃceyam āśrayasahaṃ gurumabhyupetya	tad prAptaye Srutam aSIti vikalpa citram saMceyam ASraya saham gurum aByupetya
+   dvātriṃśatā tadadhigamya vivardhayeta samyaṅmanaḥ	dvAtriMSatA tat aDigamya vivarDayeta samyak manaH
+   samavadhānakṛtairviśeṣaiḥ // Ps_6.47 //	samavaDAna kRtEH viSezEH // Ps_6.47 //
+   alpaśruto 'ndha iva vetti na bhāvanāyā mārgaṃ vicintayati kāni ca	alpa SrutaH anDaH iva vetti na BAvanAyAH mArgam vicintayati kAni ca
+   tadvihīnaḥ /	tad vihInaH /
+   tasmācchrutaṃ prati yateta tadāśrayā hi prajñā samudbhavati	tasmAt Srutam prati yateta tad ASrayA hi prajQA samudBavati
+   cintanabhāvanābhyām // Ps_6.48 //	cintana BAvanAByAm // Ps_6.48 //
+   praśnairavigrahamukhaiśca kathāviśeṣairmīmāṃsayārthagativīkṣaṇayā svayaṃ	praSnEH avigraha muKEH ca kaTA viSezEH mImAMsayA arTa gati vIkzaNayA svayam
+   ca /	ca /
+   prajñāvivṛddhimabhitaḥ prayateta nityaṃ dhyānena tadguṇavivṛddhikareṇa	prajQA vivRdDim aBitas prayateta nityam DyAnena tad guNa vivRdDi kareNa
+   caiva // Ps_6.49 //	ca eva // Ps_6.49 //
+   prajñābhyupāyavidhireṣa samāsatastu dhyānaṃ tadarthaniyataḥ	prajQA aByupAya viDiH eza samAsatas tu DyAnam tad arTa niyataH
+   śrutivistaraśca /	Sruti vistaraH ca /
+   tābhyāṃ samudbhavati hi prabhavo guṇānāṃ prajñāprabhāsamudayo	tAByAm samudBavati hi praBavaH guNAnAm prajQA praBA samudayaH 
+   'gnirivāraṇībhyāṃ // Ps_6.50 //	agniH iva araNIByAm // Ps_6.50 //
+   vidvajjanācaritamārgasamāśrayācca saṃmohahetugahanāni vivarjayeta /	vidvat jana Acarita mArga samASrayAt ca saMmoha hetu gahanAni vivarjayeta /
+   tairāvṛto na hi vibhātyudayasthito 'pi toyāvalambijaladāntaritaḥ śaśīva //	tEH AvRtaH na hi viBAti udaya sTitaH api toya avalambi jalada antaritaH SaSI iva //
+   Ps_6.51 //	Ps_6.51 //
+   ālasyajṛmbhitamatitvam asatsahāyā nidrānivṛttiraviniścayaśīlatā ca /	Alasya jRmBitam ati tvam asat sahAyA nidrA nivRttiH aviniScaya SIla tA ca /
+   jñāne muneriva kutūhalitānivṛttirmithyābhimānaparisaṃkucitāśca pṛcchāḥ //	jQAne muneH iva kutUhalita anivRttiH miTyA aBimAna parisaMkucitAH ca pRcCAH //
+   Ps_6.52 //	Ps_6.52 //
+   dainyena cātmaparitāpasamudbhavena vidvajjanābhigamanādarakātaratvam /	dEnyena ca Atma paritApa samudBavena vidvat jana aBigamana Adaraka atara tvam /
+   mithyāvikalpapaṭutā vitathā ca dṛṣṭirmohāya tatpraśamanāya tu tadvipakṣāḥ	miTyA vikalpa pawu tA vitaTA ca dRzwiH mohAya tad praSamanAya tu tad vipakzAH
+   // Ps_6.53 //	// Ps_6.53 //
+   skandheṣu sāyatanadhātuṣu satyayuktyo<;r>; hetudbhaveṣu śucayānavinirṇaye	skanDezu sa Ayatana DAtuzu satya yuktyA U<;r>; hetudBavezu Suca yAna vinirNaye
+   ca /	ca /
+   dharmeṣu kauśalamaśeṣata eva yacca prajñāprayogaviṣayo 'ṣṭavikalpa eṣaḥ //	Darmezu kOSalam aSezatas eva yat ca prajQA prayoga vizayaH azwa vikalpaH ezaH //
+   Ps_6.54 //	Ps_6.54 //
+   niḥsāraphenanicayairaviśeṣi rūpaṃ tisro 'pi budbudalavā iva vedanāśca /	niHsAra Pena nicayEH aviSezi rUpam tisraH api budbuda lavAH iva vedanAH ca /
+   saṃjñāpi kāmaguṇaviprasṛtān satṛṣṇān bālān mṛgāniva vilobhayate marīciḥ //	saMjQA api kAma guNa viprasRtAn sa tRzNAn bAlAt mRgAn iva viloBayate marIciH //
+   Ps_6.55 //	Ps_6.55 //
+   saṃskārajātirapi tulyaguṇā kadalyā vijñānato 'pi na ca yuktatarāsti māyā /	saMskAra jAtiH api tulya guNA kadalyA vijQAnataH api na ca yuktatara asti mAyA /
+   yanniśrayādbhramati naikavikalpaceṣṭaṃ bhūtābhibhūtakuṇapapratimaṃ śarīram	yat niSrayAt Bramati na eka vikalpa cezwam BUta aBiBUta kuNapa pratimam SarIram
+   // Ps_6.56 //	// Ps_6.56 //
+   nātmā tadīyamapi cātra na kiṃ cid asti saṃghāta eṣa vividhāśūcisaṃnidhānaḥ	na AtmA tadIyam api ca atra na kim cit asti saMGAtaH eza viviDa aSUci saMniDAnaH
+   bālān pralambhayata eva ca sattvasaṃjñā svacchandaceṣṭa iva yantravidhau	bAlAn pralamBayataH eva ca sattva saMjQA svacCanda cezwaH iva yantra viDO
+   suyukte // Ps_6.57 //	su yukte // Ps_6.57 //
+   ātmā na cakṣurapi ca kṣaṇabhaṅguratvāt tadvan na cakṣuṣi na cātra yathaiva	AtmA na cakzuH api ca kzaNa BaFgura tvAt tadvat na cakzuzi na ca atra yaTA eva
+   cakṣuḥ /	cakzuH /
+   ādhyātmikāyatanaśeṣam aśeṣam evam ātmīyavastuviṣayo 'pi ca tadvivekī //	ADyAtmika Ayatana Sezam aSezam evam AtmIya vastu vizayaH api ca tad vivekI //
+   Ps_6.58 //	Ps_6.58 //
+   bāhyeṣu dhātuṣu śarīrasamāśritānāṃ nālpo 'pi lakṣaṇavirodhakṛto 'sti	bAhyezu DAtuzu SarIra samASritAnAm na alpaH api lakzaNa viroDa kRtaH asti
+   bhedaḥ /	BedaH /
+   vijñānadhāturapi ca kṣaṇikaḥ sa nātmā tasmātparo 'pi ca nabhaḥkusumaiḥ	vijQAna DAtuH api ca kzaNikaH sa na AtmA tasmAt paraH api ca naBaH kusumEH
+   samānaḥ // Ps_6.59 //	samAnaH // Ps_6.59 //
+   ityetadudbhavati kevalameva duḥkhaṃ tṛṣṇāvimūḍhamanaso vigmāttu tasyāḥ /	iti etat udBavati kevalam eva duHKam tRzNA vimUXa manasaH vigmAt tu tasyAH /
+   śāntiḥ parā bhavati tarṣaharastu mārgaḥ śīlaṃ samādhipariśuddhatayā ca	SAntiH parA Bavati tarza haraH tu mArgaH SIlam samADi pariSudDa tayA ca
+   dṛṣṭiḥ // Ps_6.60 //	dRzwiH // Ps_6.60 //
+   tattatpratītya bhavatīti viśuddhadṛṣṭirnāstyasti veti samupaiti sa naiva	tat tat pratItya Bavati iti viSudDa dRzwiH na asti asti vA iti samupEti sa na eva
+   kiṃ cit /	kim cit /
+   māyāmayaṃ jagadidaṃ pratibhāti tasya tasmāt sukhādiṣu bhavatyavikāradhīraḥ	mAyA mayam jagat idam pratiBAti tasya tasmAt suKa Adizu Bavati avikAra DIraH
+   // Ps_6.61 //	// Ps_6.61 //
+   āsīdbhaviṣyati ca yat tad apīdṛgeva kaḥ saṃbhavo yadasukhaṃ na bhaved	AsIt Bavizyati ca yat tat api IdRS eva kaH saMBavaH yat asuKam na Bavet 
+   bhavebhyaḥ /	BaveByaH /
+   evaṃ vyatītaviṣayeṣvapi vītarāgo naivābhinandati bhavāṃśca bhaviṣyato 'pi	evam vyatIta vizayezu api vIta rAgaH na eva aBinandati BavAn= ca BavizyataH api
+   // Ps_6.62 //	// Ps_6.62 //
+   ākārabhedaparuṣe puruṣo 'parādhī ko nāma gūḍhanakharasphuṭadṛṣṭicihne /	AkAra Beda paruze puruzaH aparADI kaH nAma gUXa naKara sPuwa dRzwi cihne /
+   tatpraiṣyavṛttikapaṭānyanucintya rajyed viśvāsameva ca yathocitamatra	tad prEzya vRtti kapawAni anucintya rajyet viSvAsam eva ca yaTocitam atra
+   yāyāt // Ps_6.63 //	yAyAt // Ps_6.63 //
+   evaṃ vimuktamatirapyanukampakastu kleśāntaraṃ jagadanāthamavekṣamāṇaḥ /	evam vimukta matiH api anukampakaH tu kleSa antaram jagat anATam avekzamANaH /
+   hīneṣu niṣpraṇayabuddhirudārabhāvān nirvātumicchati na buddhaguṇānalabdhvā	hInezu nizpraNaya budDiH udAra BAvAt nirvAtum icCati na budDa guNAn alabDvA
+   // Ps_6.64 //	// Ps_6.64 //
+   lokārthasādhanavidhāvasamartharūpaṃ yānadvayaṃ samavādhūya sa pūrvameva /	loka arTa sADana viDO= asamarTa rUpam yAna dvayam samavADUya sa pUrvam eva /
+   kāruṇyadeśitapatho munirājayānam ātasthivān parahitaikarasasvabhāvam //	kAruNya deSita paTaH muniH AjayAnam AtasTivAn para hita eka rasa svaBAvam //
+   Ps_6.65 //	Ps_6.65 //
+   hīnociteṣu na matirnamati praṇītā saṃtiṣṭhate mahati nāmahatī kadā cit /	hIna ucitezu na matiH namati praNItA saMtizWate mahati na amahatI kadA cit /
+   saṃsyandate śucibhireva śucisvabhāvaṃ tulyaistathānyadapi śāsvata eṣa	saMsyandate SuciBiH eva Suci svaBAvam tulyEH taTA anyat api SAsvataH eza
+   yogaḥ // Ps_6.66 //	yogaH // Ps_6.66 //
+   svapnopamāni vigaṇayya sukhāsukhāni saṃmohadoṣakṛpaṇāṃ janatāṃ ca teṣu /	svapna upamAni vigaNayya suKa asuKAni saMmoha doza kRpaNAm janatAm ca tezu /
+   ātmārtha eva gurutāṃ katham asya yāyād vyāpārabhāramavadhūya	Atma arTaH eva guru tAm kaTam asya yAyAt vyApAra BAram avaDUya
+   parārtharamyam // Ps_6.67 //	para arTa ramyam // Ps_6.67 //
+   yaḥ sarvalokahitakāraṇasarvaceṣṭastyaktvātmadṛṣṭiviṣayaṃ vitathābhimānam /	yaH sarva loka hita kAraNa sarva cezwaH tyaktvA Atma dRzwi vizayam vitaTa aBimAnam /
+   sarvatra śāntamatiradvayamārgacārī so 'tyadbhutaścaritanirvṛta eva loke //	sarvatra SAnta matiH advaya mArga cArI saH ati adButaH carita nirvRtaH eva loke //
+   Ps_6.68 //	Ps_6.68 //
+   prajñāviśuddhikaramuttamayānametat sarvajñatā tadudayā hi mahāmunīnām /	prajQA viSudDi karam uttama yAnam etat sarvajQa tA tad udayA hi mahA munInAm /
+   lokasya yā nayanatāmiva saṃprayāti dīptāṃśumaṇḍalatalotpatitā prabheva //	lokasya yA nayana tAm iva saMprayAti dIpta aMSu maNxala tala utpatitA praBA iva //
+   Ps_6.69 //	Ps_6.69 //
+   saṃsāradoṣabharanirmathito 'pi naiva prajñāvivecanatayā parikhīdyate yaḥ /	saMsAra doza Bara nirmaTitaH api na eva prajQA vivecana tayA pariKIdyate yaH /
+   nātmābhikhedapariviklavatāṃ sa yāti yānasya buddhaguṇasaṃjananasya loke //	na Atma aBiKeda pariviklava tAm sa yAti yAnasya budDa guNa saMjananasya loke //
+   Ps_6.70 //	Ps_6.70 //
+   paśyanti cābhutamayaṃ sugataprabhāvaṃ romāñcakañcukitasarvaśarīradeśāḥ /	paSyanti ca aButamayam sugata praBAvam romAQca kaQcukita sarva SarIra deSAH /
+   tadgāminaṃ pariharanti ca yānamārgaṃ kiṃ nāma kāraṇamṛte śaṭhaceṣṭitebhyaḥ	tad gAminam pariharanti ca yAna mArgam kim nAma kAraNam Rte SaWa cezwiteByaH
+   // Ps_6.71 //	// Ps_6.71 //
+   ko nāma mārakalinānabhibhūtacetāḥ saṃbuddhadharmaguṇaratnanidhānabhūtam /	kaH nAma mAra kalinA anaBiBUta cetAH saMbudDa Darma guNa ratna niDAna BUtam /
+   sarvajñayānamapayānam anarthapaṅkād ākroṣṭumarhati na cejjagato 'sya	sarvajQa yAnam apayAnam anarTa paFkAt Akrozwum arhati na ced jagataH asya
+   vairam // Ps_6.72 //	vEram // Ps_6.72 //
+   lokārthasādhanapare jinarājavaṃśe prajñānimīlitanayeṣu pariskhalatsu /	loka arTa sADana pare jinarAja vaMSe prajQA nimIli ta nayezu parisKalatsu /
+   cittaṃ narasya karuṇāmṛdu kasya na syāt tanmohadoṣaśamanāya dṛḍhaṃ ca	cittam narasya karuNA mRdu kasya na syAt tad moha doza SamanAya dRXam ca
+   vīryam // Ps_6.73 //	vIryam // Ps_6.73 //
+   prajñāyā janayati yaḥ parāṃ viśuddhiṃ nirmokṣaḥ kathamiva tasya dūrataḥ	prajQAyAH janayati yaH parAm viSudDim nirmokzaH kaTam iva tasya dUratas 
+   syāt /	syAt /
+   naivāsmātparataramasti śīlam anyat tattasmād bhajata vimokṣakāṅkṣiṇo hi //	na eva asmAt parataram asti SIlam anyat tat tasmAt Bajata vimokza kAFkziNaH hi //
+   Ps_6.74 //	Ps_6.74 //
+   // prajñāpāramitāsa[māsa]ścāyaṃ pāramitāsamāsaḥ //	// prajQApAramitA sa[mAsa]H ca ayam pAramitA samAsaH //
+   viśuddhamaunīndramanastaḍāgaprasūtasūtrāntasaroruhebhyaḥ /	viSudDa mOni indra manaH taxAga prasUta sUtra anta saroruheByaH /
+   ādāya śurabhramareṇa samyag madhūrjitaṃ pāramitāsamāse //	AdAya Sura BramareNa samyak maDu Urjitam pAramitA samAse //

@@ -1,0 +1,1580 @@
+   [GautAA 1,1 = GautSt I]	[GOtAAH 1,1  GOtSt I]
+   GautAA_1,1.1 / GautSt_1.1: vedo dharmamūlam |	GOtAAH-_1,1.1 / GOtSt_1.1: vedaH Darma-mUlam |
+   GautAA_1,1.2 / GautSt_1.2: tadvidāṃ ca smṛtiśīle |	GOtAAH-_1,1.2 / GOtSt-_1.2: tad-vidAm ca smRti-SIle |
+   GautAA_1,1.3 / GautSt_1.3: dṛṣṭo dharmavyatikramaḥ sāhasaṃ ca mahatāṃ |	GOtAAH-_1,1.3 / GOtSt-_1.3: dRzwaH Darma-vyatikramaH sAhasam ca mahatAm |
+   {VAR_St: na tu dṛṣṭārthe}	{VAR_St: na tu dRzwa-arTe}
+   GautAA_1,1.4 / GautSt_1.3: avaradaurbalyāt |	GOtAAH-_1,1.4 / GOtSt_1.3: avara-dOrbalyAt |
+   GautAA_1,1.5 / GautSt_1.4: tulyabalavirodhe vikalpaḥ |	GOtAAH-_1,1.5 / GOtSt_1.4: tulya-bala-viroDe vikalpaH |
+   GautAA_1,1.6 / GautSt_1.5: upanayanaṃ brāhmaṇasyāṣṭame |	GOtAAH-_1,1.6 / GOtSt-_1.5: upanayanam brAhmaNasya-azwame |
+   GautAA_1,1.7 / GautSt_1.6: navame pañcame vā kāmyam |	GOtAAH-_1,1.7 / GOtSt-_1.6: navame paQcame vA kAmyam |
+   GautAA_1,1.8 / GautSt_1.7: garbhādiḥ saṅkhyā varṣāṇām |	GOtAAH-_1,1.8 / GOtSt_1.7: garBa-AdiH saFKyA varzANAm |
+   GautAA_1,1.9 / GautSt_1.8: taddvitīyaṃ janma |	GOtAAH-_1,1.9 / GOtSt-_1.8: tad-dvitIyam janma |
+   GautAA_1,1.10 / GautSt_1.9: tad yasmāt sa ācāryaḥ |	GOtAAH-_1,1.10 / GOtSt-_1.9: tat yasmAt saH AcAryaH |
+   GautAA_1,1.11 / GautSt_1.10: vedānuvacanāc ca |	GOtAAH-_1,1.11 / GOtSt-_1.10: veda-anuvacanAt ca |
+   GautAA_1,1.12 / GautSt_1.11: ekādaśadvādaśayoḥ kṣatriyavaiśyayoḥ |	GOtAAH-_1,1.12 / GOtSt-_1.11: ekAdaSa-dvAdaSayoH kzatriya-vESyayoH |
+   GautAA_1,1.13 / GautSt_1.12: ā ṣoḍaśād brāhmaṇasyāpatitā sāvitrī |	GOtAAH-_1,1.13 / GOtSt-_1.12: A zoxaSAt brAhmaNasya-ApatitA sAvitrI |
+   GautAA_1,1.14a / GautSt_1.13: dvāviṃśate rājanyasya |	GOtAAH-_1,1.14aH / GOtSt-_1.13: dvAviMSate rAjanyasya |
+   GautAA_1,1.14b / GautSt_1.14: dvyadhikāyāvaiśyasya |	GOtAAH-_1,1.14B / GOtSt_1.14: dvi-aDikAya-avESyasya |
+   GautAA_1,1.15 / GautSt_1.15: mauñjījyāmaurvīsautryo mekhalāḥ krameṇa |	GOtAAH-_1,1.15 / GOtSt_1.15: mOQjIjyA-mOrvI-sOtryaH meKalAH krameNa |
+   GautAA_1,1.16 / GautSt_1.16: kṛṣṇarurubastājināni |	GOtAAH-_1,1.16 / GOtSt-_1.16: kRzNa-ruru-basta-ajinAni |
+   GautAA_1,1.17 / GautSt_1.17: vāsāṃsi śāṇakṣaumacīrakutapāḥ sarveṣām |	GOtAAH-_1,1.17 / GOtSt_1.17: vAsAMsi SANa-kzOma-cIra-kutapAH sarvezAm |
+   GautAA_1,1.18 / GautSt_1.18: kārpāsaṃ cāvikṛtam |	GOtAAH-_1,1.18 / GOtSt-_1.18: kArpAsam ca-avikRtam |
+   GautAA_1,1.19 / GautSt_1.19: kāṣāyam apy eke |	GOtAAH-_1,1.19 / GOtSt_1.19: kAzAyam api eke |
+   GautAA_1,1.20a / GautSt_1.20: vārkṣaṃ brāhmaṇasya |	GOtAAH-_1,1.20aH / GOtSt-_1.20: vArkzam brAhmaNasya |
+   GautAA_1,1.20b / GautSt_1.21: māñjiṣṭhahāridre itarayoḥ |	GOtAAH-_1,1.20B / GOtSt_1.21: mAQjizWa-hAridre itarayoH |
+   GautAA_1,1.21 / GautSt_1.22: bailvapālāśau brāhmaṇadaṇḍau |	GOtAAH-_1,1.21 / GOtSt_1.22: bElva-pAlASO brAhmaNa-daNxO |
+   GautAA_1,1.22 / GautSt_1.23: āśvatthapailavau śeṣe |	GOtAAH-_1,1.22 / GOtSt_1.23: ASvatTa-pElavO Seze |
+   GautAA_1,1.23 / GautSt_1.24: yajñiyo vā sarveṣām |	GOtAAH-_1,1.23 / GOtSt_1.24: yajQiyaH vA sarvezAm |
+   GautAA_1,1.24 / GautSt_1.25: apīḍitā yūpavakrāḥ saśalkāḥ |	GOtAAH-_1,1.24 / GOtSt_1.25: apIxitAH yUpa-vakrAH sa-SalkAH |
+   GautAA_1,1.25 / GautSt_1.26: mūrdhalalāṭanāsāgrapramāṇāḥ |	GOtAAH-_1,1.25 / GOtSt_1.26: mUrDa-lalAwa-nAsA-agra-pramANAH |
+   GautAA_1,1.26 / GautSt_1.27: muṇḍajaṭilaśikhājaṭāś ca |	GOtAAH-_1,1.26 / GOtSt_1.27: muNxa-jawila-SiKA-jawAH ca |
+   GautAA_1,1.27 / GautSt_1.28: dravyahasta ucchiṣṭo anidhāyācāmet |	GOtAAH-_1,1.27 / GOtSt_1.28: dravya-hastaH ucCizwaH aniDAya-AcAmet |
+   GautAA_1,1.28 / GautSt_1.29: dravyaśuddhiḥ	GOtAAH-_1,1.28 / GOtSt_1.29: dravya-SudDiH
+   parimārjanapradāhatakṣaṇanirṇejanānitaijasamārktikadāravatāntavānām |	parimArjana-pradAha-takzaNa-nirNejanAni-tEja-samArktika-dArava-ta-antavAnAm |
+   GautAA_1,1.29 / GautSt_1.30: taijasavadupalamaṇiśaṅkhamuktānām |	GOtAAH-_1,1.29 / GOtSt_1.30: tEjasa-vat-upala-maNi-SaFKa-muktAnAm |
+   {VAR_St: -śuktīnām}	{VAR_St: -SuktInAm}
+   GautAA_1,1.30 / GautSt_1.31: dāruvadasthibhūmyoḥ |	GOtAAH-_1,1.30 / GOtSt_1.31: dAru-vat-asTi-BUmyoH |
+   GautAA_1,1.31 / GautSt_1.32: āvapanaṃ ca bhūmeḥ |	GOtAAH-_1,1.31 / GOtSt-_1.32: Avapanam ca BUmeH |
+   GautAA_1,1.32 / GautSt_1.33: celavad rajjuvidalacarmaṇām |	GOtAAH-_1,1.32 / GOtSt_1.33: cela-vat rajju-vidala-carmaNAm |
+   GautAA_1,1.33 / GautSt_1.34: utsargo vātyantopahatānām |	GOtAAH-_1,1.33 / GOtSt-_1.34: utsargaH vA-atyanta-upahatAnAm |
+   GautAA_1,1.34 / GautSt_1.35: prāṅmukha udaṅmukho vā śaucam ārabheta |	GOtAAH-_1,1.34 / GOtSt-_1.35: prAFmuKaH udak-muKaH vA SOcam AraBeta |
+   GautAA_1,1.35 / GautSt_1.36: śucau deśe āsīno dakṣiṇaṃ bāhuṃ	GOtAAH-_1,1.35 / GOtSt_1.36: SucO deSe AsInaH dakziNam bAhum
+   jānvantarākṛtvā yajñopavītyā maṇibandhanāt pāṇī prakṣālya	jAnu-antara-akRtvA yajQopavItyA maNibanDanAt pANI prakzAlya
+   vāgyatohṛdayaspṛśas triś catur vāpa ācāmed |	vAgyataH-hRdaya-spRSaH tris catuH vApaH AcAmet |
+   GautAA_1,1.36 / GautSt_1.36: dviḥ parimṛjyate |	GOtAAH-_1,1.36 / GOtSt-_1.36: dvis parimRjyate |
+   {VAR_St: parimṛjyāt}	{VAR_St: parimRjya-at-}
+   GautAA_1,1.37 / GautSt_1.36: pādau cābhyukṣet |	GOtAAH-_1,1.37 / GOtSt_1.36: pAdO ca-aByukzet |
+   GautAA_1,1.38 / GautSt_1.36: khāni copaspṛśec śīrṣaṇyāni |	GOtAAH-_1,1.38 / GOtSt-_1.36: KAni ca-upaspRSet SIrzaNyAni |
+   GautAA_1,1.39 / GautSt_1.36: mūrdhani ca dadyāt |	GOtAAH-_1,1.39 / GOtSt_1.36: mUrDani ca dadyAt |
+   GautAA_1,1.40 / GautSt_1.37: suptvā bhuktvā kṣutvā ca punaḥ |	GOtAAH-_1,1.40 / GOtSt-_1.37: suptvA BuktvA kzutvA ca punar |
+   GautAA_1,1.41 / GautSt_1.38: dantaśliṣṭeṣu dantavad anyatra	GOtAAH-_1,1.41 / GOtSt-_1.38: danta-Slizwezu danta-vat anyatra
+   jihvābhimarśanāt |	jihvA-aBimarSanAt |
+   GautAA_1,1.42 / GautSt_1.39: prākcyuter ity eke |	GOtAAH-_1,1.42 / GOtSt-_1.39: prAk-cyuteH iti eke |
+   GautAA_1,1.43 / GautSt_1.40: cyuteśu āsrāvavad vidyān nigirann eva tac	GOtAAH-_1,1.43 / GOtSt_1.40: cyuteSu AsrAva-vat vidyAt nigiran eva tat-
+   śuciḥ |	SuciH |
+   GautAA_1,1.46 / GautSt_1.41: na mukhyā vipruṣa ucchiṣṭaṃ kurvanti na ced	GOtAAH-_1,1.46 / GOtSt_1.41: na muKyAH vipruzaH ucCizwam kurvanti na ced-
+   aṅgenipatanti |	aFgenipatanti |
+   GautAA_1,1.45 / GautSt_1.42: lepagandhāpakarṣaṇe śaucam amedhyasya |	GOtAAH-_1,1.45 / GOtSt_1.42: lepa-ganDa-apakarzaNe SOcam ameDyasya |
+   GautAA_1,1.46 / GautSt_1.43: tad adbhiḥ pūrvaṃ mṛdā ca |	GOtAAH-_1,1.46 / GOtSt-_1.43: tat adBiH pUrvam mRdA ca |
+   GautAA_1,1.47 / GautSt_1.44: mūtrapurīṣasnehavisraṃsanābhyavahārasaṃyogeṣu	GOtAAH-_1,1.47 / GOtSt_1.44: mUtra-purIza-sneha-visraMsana-aByavahAra-saMyogezu
+   ca |	ca |
+   {VAR_St: -snehu-}	{VAR_St: -snehu-}
+   GautAA_1,1.48 / GautSt_1.45: yatra cāmnāyo vidadhyāt |	GOtAAH-_1,1.48 / GOtSt-_1.45: yatra ca-AmnAyaH vidaDyAt |
+   GautAA_1,1.49a / GautSt_1.46: pāṇinā savyam upasaṅgṛhya anaṅguṣṭham adhīhi	GOtAAH-_1,1.49aH / GOtSt-_1.46: pANinA savyam upasaFgRhya anaFguzWam aDIhi
+   bho ity āmantrayed guruṃ |	Bo iti Amantrayet gurum |
+   {VAR_St: āmantrayeta}	{VAR_St: Amantrayeta}
+   GautAA_1,1.49b / GautSt_1.47: tatracakṣurmanaḥprāṇopasparśanaṃ darbhaiḥ |	GOtAAH-_1,1.49B / GOtSt_1.47: tatra-cakzuH-manaH-prANa-upasparSanam darBEH |
+   {VAR_St: tatracakṣurmanāḥ}	{VAR_St: tatra-cakzuH-manAH}
+   GautAA_1,1.49c / GautSt_1.48: prāṇopasparśanaṃ darbhaiḥ |	GOtAAH-_1,1.49t / GOtSt-_1.48: prANa-upasparSanam darBEH |
+   GautAA_1,1.50 / GautSt_1.49: prāṇāyāmās trayaḥ pañcadaśamātrāḥ |	GOtAAH-_1,1.50 / GOtSt_1.49: prANAyAmAH trayaH paQcadaSa-mAtrAH |
+   GautAA_1,1.51 / GautSt_1.50: prākkūleṣu āsanaṃ ca |	GOtAAH-_1,1.51 / GOtSt-_1.50: prAc-kUlezu Asanam ca |
+   {VAR_St: -tūleṣu}	{VAR_St: -tUla-izu}
+   GautAA_1,1.52 / GautSt_1.51: oṃ pūrvā vyāhṛtayaḥ pañca satyāntāḥ |	GOtAAH-_1,1.52 / GOtSt-_1.51: om pUrvAH vyAhRtayaH paQca satya-antAH |
+   GautAA_1,1.53 / GautSt_1.52: guroḥ pādopasaṃgrahaṇaṃ prātaḥ |	GOtAAH-_1,1.53 / GOtSt_1.52: guroH pAda-upasaMgrahaNam prAtar |
+   GautAA_1,1.54 / GautSt_1.53: brahmānuvacane cādyantayoḥ |	GOtAAH-_1,1.54 / GOtSt_1.53: brahma-anuvacane ca-Adi-antayoH |
+   GautAA_1,1.55 / GautSt_1.54: anujñāta upaviśet prāṅmukho dakṣiṇataḥ śiṣya	GOtAAH-_1,1.55 / GOtSt-_1.54: anujQAtaH upaviSet prAFmuKaH dakziNatas Sizya
+   udaṅmukhovā |	udak-muKa-uvAH |
+   GautAA_1,1.56 / GautSt_1.55: sāvitrī cānuvacanam |	GOtAAH-_1,1.56 / GOtSt-_1.55: sAvitrI ca-anuvacanam |
+   GautAA_1,1.57 / GautSt_1.56: ādito brahmaṇa ādāne |	GOtAAH-_1,1.57 / GOtSt-_1.56: Aditas brahmaNaH AdAne |
+   GautAA_1,1.58 / GautSt_1.57: oṃkāro anyatrāpi |	GOtAAH-_1,1.58 / GOtSt_1.57: oMkAraH anyatra-api |
+   GautAA_1,1.59 / GautSt_1.58: antara gamane punar upasadanam |	GOtAAH-_1,1.59 / GOtSt_1.58: antara gamane punar upasadanam |
+   {VAR_St: antarāgamane}	{VAR_St: antarAgamane}
+   GautAA_1,1.60 / GautSt_1.59: śvanakulasarpamaṇḍūkamārjārāṇāṃ try aham	GOtAAH-_1,1.60 / GOtSt-_1.59: Sva-nakula-sarpa-maNxUka-mArjArANAm tri aham
+   upavāsovipravāsaś ca |	upavAsaH-vipravAsaH ca |
+   GautAA_1,1.61 / GautSt_1.60: prāṇāyāmā ghṛtaprāśanaṃ cetareṣām |	GOtAAH-_1,1.61 / GOtSt-_1.60: prANAyAmAH GRtaprASanam ca-itarezAm |
+   GautAA_1,1.62 / GautSt_1.61: śmaśānābhyadhyayane caivam |	GOtAAH-_1,1.62 / GOtSt_1.61: SmaSAna-aByaDyayane ca-evam |
+   {VAR_St: śmaśānābhyadhyayanecaivam}	{VAR_St: SmaSAna-aByaDyayaneca-evam}
+   [GautAA 1,2 = GautSt II]	[GOtAAH 1,2  GOtSt II]
+   GautAA_1,2.1 / GautSt_2.1a: prāg upanayanāt kāmacāraḥ kāmavādaḥ	GOtAAH-_1,2.1 / GOtSt-_2.1a: prAk upanayanAt kAma-cAraH kAma-vAdaH
+   kāmabhakṣaḥ |	kAma-BakzaH |
+   {VAR_St: kāmacāravādabhakṣo}	{VAR_St: kAma-cAra-vAda-BakzaH-}
+   GautAA_1,2.2 / GautSt_2.1b: ahutāt |	GOtAAH-_1,2.2 / GOtSt_2.1b: ahutAt |
+   GautAA_1,2.3 / GautSt_2.1c: brahmacārī |	GOtAAH-_1,2.3 / GOtSt_2.1c: brahmacArI |
+   GautAA_1,2.4 / GautSt_2.1d: yathopapāditamūtrapurīṣo bhavati |	GOtAAH-_1,2.4 / GOtSt-_2.1d: yaTA-upapAdita-mUtra-purIzaH Bavati |
+   {VAR_St: -upapāda}	{VAR_St: -upapAda}
+   GautAA_1,2.5 / GautSt_2.2a: nāsyācamanakalpo vidyate |	GOtAAH-_1,2.5 / GOtSt_2.2a: na-asya-Acamana-kalpaH vidyate |
+   GautAA_1,2.6 / GautSt_2.2b: anyatrāpamārjanapradhāvanāvokṣaṇebhyaḥ |	GOtAAH-_1,2.6 / GOtSt_2.2b: anyatra-apamArjana-praDAvanO=-okzaNeByaH |
+   GautAA_1,2.7 / GautSt_2.3: na tadupasparśanād āśaucam |	GOtAAH-_1,2.7 / GOtSt_2.3: na tad-upasparSanAt ASOcam |
+   GautAA_1,2.8 / GautSt_2.4: na tv evainam agnihavanabaliharaṇayor niyuñjyāt	GOtAAH-_1,2.8 / GOtSt_2.4: na tu eva-enam agni-havana-bali-haraNayoH niyuQjyAt-
+   GautAA_1,2.9 / GautSt_2.5: na brahmābhivyāhārayed anyatra svadhāninayanāt	GOtAAH-_1,2.9 / GOtSt_2.5: na brahma-aBivyAhArayet anyatra svaDA-ninayanAt-
+   GautAA_1,2.10 / GautSt_2.6: upanayanādir niyamaḥ |	GOtAAH-_1,2.10 / GOtSt-_2.6: upanayana-AdiH niyamaH |
+   GautAA_1,2.11 / GautSt_2.7: uktaṃ brahmacaryam |	GOtAAH-_1,2.11 / GOtSt-_2.7: uktam brahmacaryam |
+   GautAA_1,2.12 / GautSt_2.8a: agnīndhanabhaikṣacaraṇe |	GOtAAH-_1,2.12 / GOtSt_2.8a: agni-inDana-BEkza-caraNe |
+   GautAA_1,2.13 / GautSt_2.8b: satyavacanam |	GOtAAH-_1,2.13 / GOtSt_2.8b: satya-vacanam |
+   GautAA_1,2.14 / GautSt_2.8c: apām upasparśanam |	GOtAAH-_1,2.14 / GOtSt_2.8c: apAm upasparSanam |
+   GautAA_1,2.15 / GautSt_2.9: eke godānādi |	GOtAAH-_1,2.15 / GOtSt_2.9: eke go-dAna-Adi |
+   GautAA_1.2.16 / GautSt_2.10: bahiḥsaṃdhyatvaṃ ca |	GOtAAH-_1.2.16 / GOtSt-_2.10: bahis-saMDya-tvam ca |
+   GautAA_1,2.17 / GautSt_2.11: tiṣṭhet pūrvām āsītottarāṃ sajyotiṣyā	GOtAAH-_1,2.17 / GOtSt-_2.11: tizWet pUrvAm AsIta-uttarAm sa-jyotizyA
+   jyotiṣodarśanād vāgyataḥ |	jyotizaH-darSanAt vAgyataH |
+   GautAA_1,2.18 / GautSt_2.12: nādityam īkṣeta |	GOtAAH-_1,2.18 / GOtSt-_2.12: na-Adityam Ikzeta |
+   GautAA_1,2.19 / GautSt_2.13:	GOtAAH-_1,2.19 / GOtSt-_2.13:
+   varjayenmadhumāṃsagandhamālyadivāsvapnābhyañjanayānopānacchatrakāmakrodhalobhamohavādavādanasnānadantadhāvanaharṣanṛtyagītaparivādabhayāni	varjayet-maDu-mAMsa-ganDa-mAlya-divAsvapna-aByaQjana-yAna-upAnat-Catra-kAma-kroDa-loBa-moha-vAda-vAdana-snAna-danta-DAvana-harza-nRtya-gIta-parivAda-Bay
+   {VAR_St: nṛtta}	{VAR_St: nRtta}
+   GautAA_1,2.20 / GautSt_2.14:	GOtAAH-_1,2.20 / GOtSt-_2.14:
+   gurudarśanekaṇṭhaprāvṛtāvasakthikāpāśrayaṇapādaprasāraṇāni |	guru-darSanekaNWa-prAvRta-avasakTika-apASrayaNa-pAda-prasAraNAni |
+   GautAA_1,2.21 / GautSt_2.15: niṣṭhīvitahasitaviṣkambhitāvasphotanāni |	GOtAAH-_1,2.21 / GOtSt_2.15: nizWIvita-hasita-vizkamBita-avasPotanAni |
+   {VAR_St: vijṛmbhitā-}	{VAR_St: vijRmBitA-}
+   GautAA_1,2.22 / GautSt_2.16: strīprekṣaṇālambhane maithunaśaṅkāyām |	GOtAAH-_1,2.22 / GOtSt-_2.16: strI-prekzaNa-AlamBane mETuna-SaFkAyAm |
+   GautAA_1,2.23 / GautSt_2.17: dyūtaṃ hīnasevām adattādānaṃ hiṃsām |	GOtAAH-_1,2.23 / GOtSt_2.17: dyUtam hIna-sevAm adatta-AdAnam hiMsAm |
+   GautAA_1,2.24 / GautSt_2.18: ācāryatatputrastrīdīkṣitanāmāni |	GOtAAH-_1,2.24 / GOtSt-_2.18: AcArya-tad-putra-strI-dIkzita-nAmAni |
+   GautAA_1,2.25a / GautSt_2.19: śuklavāco |	GOtAAH-_1,2.25aH / GOtSt_2.19: Sukla-vAcaH |
+   {VAR_St: śuktā vācaḥ}	{VAR_St: SuktAH vAcaH}
+   GautAA_1,2.25b / GautSt_2.20: madyaṃ nityaṃbrāhmaṇaḥ |	GOtAAH-_1,2.25B / GOtSt_2.20: madyam nityaMbrAhmaNaH |
+   GautAA_1,2.26 / GautSt_2.21: adhaḥśayyāsanī pūrvotthāyī jaghanyasaṃveśī |	GOtAAH-_1,2.26 / GOtSt-_2.21: aDas-SayyA-AsanI pUrva-utTAyI jaGanya-saMveSI |
+   GautAA_1,2.27 / GautSt_2.22: vāgbāhūdarasaṃyataḥ |	GOtAAH-_1,2.27 / GOtSt-_2.22: vAc-bAhu-udara-saMyataH |
+   GautAA_1,2.28 / GautSt_2.23: nāmagotre guroḥ samānato nirdiśet |	GOtAAH-_1,2.28 / GOtSt-_2.23: nAma-gotre guroH samAnatas nirdiSet |
+   GautAA_1,2.29 / GautSt_2.24: arcite śreyasi caivam |	GOtAAH-_1,2.29 / GOtSt-_2.24: arcite Sreyasi ca-evam |
+   GautAA_1,2.30 / GautSt_2.25: śayyāsanasthānāni vihāya pratiśravaṇam |	GOtAAH-_1,2.30 / GOtSt-_2.25: SayyA-Asana-sTAnAni vihAya pratiSravaNam |
+   GautAA_1,2.31 / GautSt_2.26: abhikramaṇaṃ vacanād adṛṣṭena |	GOtAAH-_1,2.31 / GOtSt_2.26: aBikramaNam vacanAt adRzwena |
+   GautAA_1,2.32 / GautSt_2.27: adhaḥsthānāsanas tiryagvātasevāyāṃ	GOtAAH-_1,2.32 / GOtSt_2.27: aDas-sTAna-AsanaH tiryak-vAta-sevAyAm
+   gurudarśanecottiṣṭhet |	guru-darSaneca-uttizWet |
+   {VAR_St: -āsanatiryag-}	{VAR_St: -Asana-tiryag-}
+   GautAA_1,2.33 / GautSt_2.28a: gacchantam anuvrajet |	GOtAAH-_1,2.33 / GOtSt_2.28a: gacCantam anuvrajet |
+   GautAA_1,2.34 / GautSt_2.28b: karma vijñāpyākhyāya |	GOtAAH-_1,2.34 / GOtSt_2.28b: karma vijQApya-AKyAya |
+   GautAA_1,2.35 / GautSt_2.29: āhuto 'dhyāyī |	GOtAAH-_1,2.35 / GOtSt-_2.29: AhutaH aDyAyI |
+   {VAR_St: āhūtādhyāyī}	{VAR_St: AhUta-aDyAyI}
+   GautAA_1,2.36 / GautSt_2.30: yuktaḥ priyahitayoḥ |	GOtAAH-_1,2.36 / GOtSt-_2.30: yuktaH priya-hitayoH |
+   GautAA_1,2.37 / GautSt_2.31: tadbhāryāputreṣu caivam |	GOtAAH-_1,2.37 / GOtSt-_2.31: tad-BAryA-putrezu ca-evam |
+   GautAA_1,2.38 / GautSt_2.32:	GOtAAH-_1,2.38 / GOtSt-_2.32:
+   nocchiṣṭāśanasnāpanaprasādhanapādaprakṣālanonmardanopasaṅgrahaṇāni |	na-ucCizwa-aSana-snApana-prasADana-pAda-prakzAlana-unmardana-upasaFgrahaNAni |
+   GautAA_1,2.39 / GautSt_2.33: viproṣyopasaṅgrahaṇaṃ gurubhāryāṇām |	GOtAAH-_1,2.39 / GOtSt_2.33: viprozya-upasaFgrahaNam guru-BAryANAm |
+   GautAA_1,2.40 / GautSt_2.34: naike yuvatīnāṃ vyavahāraprāptena |	GOtAAH-_1,2.40 / GOtSt_2.34: na-eke yuvatInAm vyavahAra-prAptena |
+   GautAA_1,2.41 / GautSt_2.35: sārvavarṇikabhaikṣyacaraṇam	GOtAAH-_1,2.41 / GOtSt-_2.35: sArvavarNika-BEkzya-caraNam
+   abhiśastapatitavarjam |	aBiSasta-patita-varjam |
+   {VAR_St: bhaikṣa-}	{VAR_St: BEkza-}
+   GautAA_1,2.42 / GautSt_2.36: ādimadhyānteṣu bhavacchabdaḥ prayojyo	GOtAAH-_1,2.42 / GOtSt_2.36: Adi-maDya-antezu Bavat-SabdaH prayojyaH-
+   varṇānukrameṇa |	varNa-anukrameNa |
+   GautAA_1,2.43 / GautSt_2.37: ācāryajñātiguruṣv alābhe 'nyatra |	GOtAAH-_1,2.43 / GOtSt_2.37: AcArya-jQAti-guruzu alABe anyatra |
+   {VAR_St: gurusveṣu}	{VAR_St: guru-sva-izu}
+   GautAA_1,2.44 / GautSt_2.38: teṣāṃ pūrvaṃ pūrvaṃ pariharet |	GOtAAH-_1,2.44 / GOtSt_2.38: tezAm pUrvam pUrvam pariharet |
+   GautAA_1,2.45 / GautSt_2.39: nivedya gurave 'nujñāto bhuñjīta |	GOtAAH-_1,2.45 / GOtSt_2.39: nivedya gurave anujQAtaH BuQjIta |
+   GautAA_1,2.46 / GautSt_2.40: asaṃnidhautadbhāryāputrasabrahmacāribhyaḥ |	GOtAAH-_1,2.46 / GOtSt_2.40: asaMniDOtat-BAryA-putra-sabrahmacAriByaH |
+   {VAR_St: -brahmacārisadbhaḥ}	{VAR_St: -brahmacAri-sadBaH}
+   GautAA_1,2.47 / GautSt_2.41: vāgyatas tṛpyannalolupyamānaḥ saṃnidhāyodakam	GOtAAH-_1,2.47 / GOtSt-_2.41: vAgyataH tRpyan=-alolupyamAnaH saMniDAya-udakam
+   GautAA_1,2.48 / GautSt_2.42: śiṣyaśiṣṭir avadhena |	GOtAAH-_1,2.48 / GOtSt-_2.42: Sizya-SizwiH avaDena |
+   GautAA_1,2.49 / GautSt_2.43: aśaktau rajjuveṇuvidalābhyāṃ tanubhyām |	GOtAAH-_1,2.49 / GOtSt-_2.43: aSaktO rajju-veNu-vidalAByAm tanuByAm |
+   {VAR_St: rajjuveṇuvadalā-}	{VAR_St: rajju-veNu-vadalA-}
+   GautAA_1,2.50 / GautSt_2.44: anyena ghnan(han) rājñā śāsyaḥ |	GOtAAH-_1,2.50 / GOtSt_2.44: anyena Gnan(han) rAjQA SAsyaH |
+   GautAA_1,2.51 / GautSt_2.45: dvādaśa varṣāṇy ekavede brahmacaryaṃ caret |	GOtAAH-_1,2.51 / GOtSt-_2.45: dvAdaSa varzANi eka-vede brahmacaryam caret |
+   GautAA_1,2.52 / GautSt_2.46: pratidvādaśa vā sarveṣu |	GOtAAH-_1,2.52 / GOtSt-_2.46: pratidvAdaSa vA sarvezu |
+   GautAA_1,2.53 / GautSt_2.47: grahaṇāntaṃ vā |	GOtAAH-_1,2.53 / GOtSt_2.47: grahaNa-antam vA |
+   GautAA_1,2.54 / GautSt_2.48: vidyānte gurur arthena nimantryaḥ |	GOtAAH-_1,2.54 / GOtSt_2.48: vidyA-ante guruH arTena nimantryaH |
+   GautAA_1,2.55 / GautSt_2.49: kṛtvānujñātasya vā snānam |	GOtAAH-_1,2.55 / GOtSt-_2.49: kRtvA-anujQAtasya vA snAnam |
+   GautAA_1,2.56a / GautSt_2.50: ācāryaḥ śreṣṭho gurūṇāṃ |	GOtAAH-_1,2.56aH / GOtSt_2.50: AcAryaH SrezWaH gurUNAm |
+   GautAA_1,2.56b / GautSt_2.51: mātety eke |	GOtAAH-_1,2.56B / GOtSt_2.51: mAtA-iti eke |
+   {VAR_St: matety eke}	{VAR_St: matA-iti eke}
+   [GautAA 1,3 = GautSt III]	[GOtAAH 1,3  GOtSt III]
+   GautAA_1,3.1 / GautSt_3.1: tasyāśramavikalpam eke bruvate |	GOtAAH-_1,3.1 / GOtSt_3.1: tasya-ASrama-vikalpam eke bruvate |
+   GautAA_1,3.2 / GautSt_3.2: brahmacārī gṛhastho bhikṣur vaikhānasaḥ |	GOtAAH-_1,3.2 / GOtSt-_3.2: brahmacArI gRhasTaH BikzuH vEKAnasaH |
+   GautAA_1,3.3 / GautSt_3.3: teṣāṃ gṛhastho yonir aprajanatvād itereṣām |	GOtAAH-_1,3.3 / GOtSt_3.3: tezAm gRhasTaH yoniH aprajana-tvAt iteH-ezAm |
+   GautAA_1,3.4 / GautSt_3.4: tatroktaṃ brahmacāriṇaḥ |	GOtAAH-_1,3.4 / GOtSt-_3.4: tatra-uktam brahmacAriNaH |
+   GautAA_1,3.5 / GautSt_3.5: ācāryādhīnatvam āntam |	GOtAAH-_1,3.5 / GOtSt_3.5: AcArya-aDIna-tvam Antam |
+   GautAA_1,3.6 / GautSt_3.6: guroḥ karmaśeṣeṇa japet |	GOtAAH-_1,3.6 / GOtSt_3.6: guroH karma-SezeNa japet |
+   GautAA_1,3.7a / GautSt_3.7: gurvabhāve tadapatyavṛttis |	GOtAAH-_1,3.7aH / GOtSt-_3.7: guru-aBAve tad-apatya-vRttiH |
+   {VAR_St: -apatye vṛttiḥ}	{VAR_St: -apatye vRttiH}
+   GautAA_1,3.7b / GautSt_3.8: tadabhāve vṛddhe sabrahmacāriṇy agnau vā |	GOtAAH-_1,3.7B / GOtSt-_3.8: tad-aBAve vRdDe sa-brahmacAriNi agnO vA |
+   GautAA_1,3.8 / GautSt_3.9: evaṃvṛtto brahmalokam āpnoti jitendriyaḥ |	GOtAAH-_1,3.8 / GOtSt-_3.9: evaMvRttaH brahma-lokam Apnoti jita-indriyaH |
+   {VAR_St: avāpnoti}	{VAR_St: avApnoti}
+   GautAA_1,3.9 / GautSt_3.10: uttareṣāṃ caitadavirodhi |	GOtAAH-_1,3.9 / GOtSt-_3.10: uttarezAm ca-etat-aviroDi |
+   {VAR_St: itareṣāṃ}	{VAR_St: itarezAM}
+   GautAA_1,3.10 / GautSt_3.11: anicayo bhikṣuḥ |	GOtAAH-_1,3.10 / GOtSt_3.11: anicayaH BikzuH |
+   GautAA_1,3.11 / GautSt_3.12: ūrdhvaretāḥ |	GOtAAH-_1,3.11 / GOtSt_3.12: UrDvaretAH |
+   GautAA_1,3.12 / GautSt_3.13: dhruvaśīlo varṣāsu |	GOtAAH-_1,3.12 / GOtSt_3.13: Druva-SIlaH varzAsu |
+   GautAA_1,3.13 / GautSt_3.14: bhikṣārthī grāmam iyāt |	GOtAAH-_1,3.13 / GOtSt-_3.14: BikzA-arTI grAmam iyAt |
+   GautAA_1,3.14 / GautSt_3.15: jaghanyam anivṛttaṃ caret |	GOtAAH-_1,3.14 / GOtSt_3.15: jaGanyam anivRttam caret |
+   GautAA_1,3.15 / GautSt_3.16: nivṛttāśīḥ |	GOtAAH-_1,3.15 / GOtSt_3.16: nivRtta-ASIH |
+   GautAA_1,3.16 / GautSt_3.17: vākcakṣuḥkarmasaṃyataḥ |	GOtAAH-_1,3.16 / GOtSt-_3.17: vAc-cakzuH-karma-saMyataH |
+   GautAA_1,3.17 / GautSt_3.18: kaupīnācchādanārthe vāso bibhṛyāt |	GOtAAH-_1,3.17 / GOtSt_3.18: kOpIna-AcCAdana-arTe vAsaH biBRyAt |
+   {VAR_St: -arthaṃ}	{VAR_St: -arTaM}
+   GautAA_1,3.18 / GautSt_3.19: prahīṇam eke nirṇijya |	GOtAAH-_1,3.18 / GOtSt-_3.19: prahINam eke nirNijya |
+   GautAA_1,3.19 / GautSt_3.20: nāviprayuktam oṣadhivanaspatīnām aṅgam	GOtAAH-_1,3.19 / GOtSt_3.20: na-aviprayuktam ozaDi-vanaspatInAm aFgam
+   upādadīta |	upAdadIta |
+   GautAA_1,3.20 / GautSt_3.21: na dvitīyām apartu rātriṃ grāme vaset |	GOtAAH-_1,3.20 / GOtSt_3.21: na dvitIyAm apartu rAtrim grAme vaset |
+   GautAA_1,3.21 / GautSt_3.22: muṇḍaḥ śikhī vā |	GOtAAH-_1,3.21 / GOtSt_3.22: muNxaH SiKI vA |
+   GautAA_1,3.22 / GautSt_3.23: varjeyed bījavadham |	GOtAAH-_1,3.22 / GOtSt_3.23: varjeyet bIja-vaDam |
+   GautAA_1,3.23 / GautSt_3.24: samo bhūteṣu hiṃsānugrahayoḥ |	GOtAAH-_1,3.23 / GOtSt-_3.24: samaH BUtezu hiMsA-anugrahayoH |
+   GautAA_1,3.24 / GautSt_3.25: anārambhī |	GOtAAH-_1,3.24 / GOtSt_3.25: anAramBI |
+   GautAA_1,3.25 / GautSt_3.26: vaikhānaso vane mūlaphalāśī tapaḥśīlaḥ |	GOtAAH-_1,3.25 / GOtSt-_3.26: vEKAnasaH vane mUla-Pala-ASI tapaH-SIlaH |
+   GautAA_1,3.26 / GautSt_3.27: śrāvaṇakenāgnim ādhāya |	GOtAAH-_1,3.26 / GOtSt-_3.27: SrAvaNakena-agnim ADAya |
+   {VAR_St: śrāmaṇakena}	{VAR_St: SrAmaNakena}
+   GautAA_1,3.27 / GautSt_3.28: agrāmyabhojī |	GOtAAH-_1,3.27 / GOtSt-_3.28: agrAmya-BojI |
+   GautAA_1,3.28 / GautSt_3.29: devapitṛmanuṣyabhūtarṣipūjakaḥ |	GOtAAH-_1,3.28 / GOtSt_3.29: deva-pitR-manuzya-BUta-Rzi-pUjakaH |
+   GautAA_1,3.29 / GautSt_3.30: sarvātithiḥ pratiṣiddhavarjam |	GOtAAH-_1,3.29 / GOtSt-_3.30: sarva-atiTiH pratizidDa-varjam |
+   GautAA_1,3.30 / GautSt_3.31: vaiṣkam apy upayuñjīta |	GOtAAH-_1,3.30 / GOtSt-_3.31: vA-ezkam api upayuQjIta |
+   {VAR_St: baiṣkam}	{VAR_St: bEzkam}
+   GautAA_1,3.31 / GautSt_3.32: na phālakṛṣṭam adhitiṣṭhet |	GOtAAH-_1,3.31 / GOtSt-_3.32: na PAlakRzwam aDitizWet |
+   GautAA_1,3.32 / GautSt_3.33: grāmaṃ ca na praviśet |	GOtAAH-_1,3.32 / GOtSt-_3.33: grAmam ca na praviSet |
+   GautAA_1,3.33 / GautSt_3.34: jaṭilaś cīrājinavāsāḥ |	GOtAAH-_1,3.33 / GOtSt_3.34: jawilaH cIra-ajina-vAsAH |
+   GautAA_1,3.34 / GautSt_3.35: nātisaṃvatsaraṃ bhuñjīta |	GOtAAH-_1,3.34 / GOtSt_3.35: na-ati-saMvatsaram BuQjIta |
+   {VAR_St: atisāṃvatsaraṃ}	{VAR_St: atisAMvatsaraM}
+   GautAA_1,3.35 / GautSt_3.36: ekāśramyaṃ tv ācāryāḥ	GOtAAH-_1,3.35 / GOtSt_3.36: ekASramyam tu AcAryAH
+   pratyakṣavidhānādgārhasthasya gārhasthasya |	pratyakza-viDAnAt-gArha-sTasya gArhasTasya |
+   {VAR_St: gārhasthyasya gārhasthyasya}	{VAR_St: gArhasTyasya gArhasTyasya}
+   [GautAA 1,4 = GautSt IV]	[GOtAAH 1,4  GOtSt IV]
+   GautAA_1,4.1 / GautSt_4.1: gṛhasthaḥ sadṛśīṃ bhāryāṃ	GOtAAH-_1,4.1 / GOtSt_4.1: gRhasTaH sadRSIm BAryAm
+   vindetānanyapūrvāṃyavīyasīm |	vindeta-ananya-pUrvAMyavIyasIm |
+   GautAA_1,4.2 / GautSt_4.2: asamānapravarair vivāhaḥ |	GOtAAH-_1,4.2 / GOtSt_4.2: asamAna-pravarEH vivAhaH |
+   GautAA_1,4.3a / GautSt_4.3: ūrdhvaṃ saptamāt pitṛbandhubhyo |	GOtAAH-_1,4.3aH / GOtSt_4.3: UrDvam saptamAt pitR-banDuByaH |
+   GautAA_1,4.3b / GautSt_4.4: bījinaś ca |	GOtAAH-_1,4.3B / GOtSt_4.4: bIjinaH ca |
+   GautAA_1,4.3c / GautSt_4.5: mātṛbandhubhyaḥ pañcamāt |	GOtAAH-_1,4.3t / GOtSt_4.5: mAtR-banDuByaH paQcamAt |
+   GautAA_1,4.4 / GautSt_4.6: brāhmo vidyācāritrabandhuśīlasaṃpannāya	GOtAAH-_1,4.4 / GOtSt_4.6: brAhmaH vidyA-cAritra-banDu-SIla-saMpannAya
+   dadyādācchādyālaṃkṛtām |	dadyAt-AcCAdya-alaMkRtAm |
+   GautAA_1,4.5 / GautSt_4.7: saṃyogamantraḥ prājāpatye saha dharmaś caryatām	GOtAAH-_1,4.5 / GOtSt-_4.7: saMyoga-mantraH prAjApatye saha DarmaH caryatAm
+   iti |	iti |
+   GautAA_1,4.6 / GautSt_4.8: ārṣe gomithunaṃ kanyāvate dadyāt |	GOtAAH-_1,4.6 / GOtSt-_4.8: Arze go-miTunam kanyAvate dadyAt |
+   GautAA_1,4.7 / GautSt_4.9: antarvedyṛtvije dānaṃ daivo 'laṃkṛtya |	GOtAAH-_1,4.7 / GOtSt_4.9: antar-vedI-Rtvije dAnam dEvaH alaMkRtya |
+   GautAA_1,4.8 / GautSt_4.10: icchantyāḥ svayaṃ saṃyogo gāndharvaḥ |	GOtAAH-_1,4.8 / GOtSt_4.10: icCantyAH svayam saMyogaH gAnDarvaH |
+   {VAR_St: icchantyā}	{VAR_St: icCantyA}
+   GautAA_1,4.9 / GautSt_4.11: vittenānatiḥ strīmatām āsuraḥ |	GOtAAH-_1,4.9 / GOtSt-_4.11: vittena-AnatiH strImatAm AsuraH |
+   GautAA_1,4.10 / GautSt_4.12: prasahyādānād rākṣasaḥ |	GOtAAH-_1,4.10 / GOtSt_4.12: prasahya-AdAnAt rAkzasaH |
+   GautAA_1,4.11 / GautSt_4.13: asaṃvijñātopasaṃgamāt paiśācaḥ |	GOtAAH-_1,4.11 / GOtSt-_4.13: asaMvijQAta-upasaMgamAt pESAcaH |
+   {VAR_St: -saṃgamanāt}	{VAR_St: -saMgamanAt-}
+   GautAA_1,4.12 / GautSt_4.14: catvāro dharmyāḥ prathamāḥ |	GOtAAH-_1,4.12 / GOtSt_4.14: catvAraH DarmyAH praTamAH |
+   GautAA_1,4.13 / GautSt_4.15: ṣaḍ ity eke |	GOtAAH-_1,4.13 / GOtSt_4.15: zaw iti eke |
+   GautAA_1,4.14 / GautSt_4.16: anulomānantaraikāntaradvyantarāsu	GOtAAH-_1,4.14 / GOtSt_4.16: anuloma-anantara-eka-antara-dvi-antarAsu
+   jñātāḥsavarṇāmbaṣṭhograniṣādadauṣmantapāraśavāḥ |	jQAtAH-savarNa-ambazWa-ugra-nizAda-dOzmanta-pAraSavAH |
+   {VAR_St: anulomāananta-;-dauṣyanta-}	{VAR_St: anuloma-aananta-;-dOzyanta-}
+   GautAA_1,4.15 / GautSt_4.17: pratilomās tu	GOtAAH-_1,4.15 / GOtSt_4.17: pratilomAH tu
+   sūtamāgadhāyogavakṛtavaidehakacaṇḍālāḥ |	sUta-mAgaDa-ayogavakRta-vEdehaka-caNxAlAH |
+   {VAR_St: pratilomāḥsūta-;āyogavakṣattṛ-}	{VAR_St: pratilomAH-sUta-;a-ayogavakzattR-}
+   GautAA_1,4.16 / GautSt_4.18: brāhmaṇy ajījanat putrān varṇebhya	GOtAAH-_1,4.16 / GOtSt_4.18: brAhmaNI ajIjanat putrAn varNeByaH-
+   ānupūrvyādbrāhmaṇasūtamāgadhacaṇḍālān |	AnupUrvyAt-brAhmaNa-sUta-mAgaDa-caNxAlAn |
+   GautAA_1,4.17a / GautSt_4.19: tebhya eva	GOtAAH-_1,4.17aH / GOtSt_4.19: teByaH eva
+   kṣatriyāmūrdhāvasikthakṣatriyadhīvarapulkasāṃs |	kzatriyA-mUrDa-avasikTa-kzatriya-DIvara-pulkasAn |
+   GautAA_1,4.17b / GautSt_4.20: tebhya eva	GOtAAH-_1,4.17B / GOtSt_4.20: teByaH eva
+   vaiśyābhṛjjakaṇṭhamāhiṣyavaiśyavaidehān |	vESya-ABRt-ja-kaNWa-mAhizya-vESya-vEdehAn |
+   GautAA_1,4.17c / GautSt_4.21: pāraśavayavanakaraṇaśūdrāñ śūdrety eke |	GOtAAH-_1,4.17t / GOtSt-_4.21: pAraSava-yavana-karaNa-SUdrAn SUdra-iti eke |
+   {VAR_St: bhṛjya}	{VAR_St: BRjya}
+   GautAA_1,4.18a / GautSt_4.22: varṇāntaragamanam utkarṣāpakarṣābhyāṃsaptame	GOtAAH-_1,4.18aH / GOtSt-_4.22: varNa-antara-gamanam utkarza-apakarzAByAMsaptame
+   GautAA_1,4.18b / GautSt_4.23: pañcame vācāryāḥ |	GOtAAH-_1,4.18B / GOtSt_4.23: paQcame vA-AcAryAH |
+   {VAR_St: saptamena;pañcamenācāryāḥ}	{VAR_St: saptamena;-paQcamena-AcAryAH}
+   GautAA_1,4.19 / GautSt_4.24: sṛṣṭyantarajātānāṃ ca |	GOtAAH-_1,4.19 / GOtSt-_4.24: sRzwi-antara-jAtAnAm ca |
+   {VAR_St: antarajānāṃ}	{VAR_St: antara-jAnAM}
+   GautAA_1,4.20 / GautSt_4.25: pratilomās tu dharmahīnāḥ |	GOtAAH-_1,4.20 / GOtSt_4.25: pratilomAH tu Darma-hInAH |
+   GautAA_1,4.21 / GautSt_4.26: śūdrāyāṃ ca |	GOtAAH-_1,4.21 / GOtSt-_4.26: SUdrAyAm ca |
+   GautAA_1,4.22 / GautSt_4.27: asamānāyāṃ tu śūdrāt patitavṛttiḥ |	GOtAAH-_1,4.22 / GOtSt-_4.27: asamAnAyAm tu SUdrAt patita-vRttiH |
+   {VAR_St: -yāṃ ca}	{VAR_St: -yAm ca}
+   GautAA_1,4.23 / GautSt_4.28: antyaḥ pāpiṣṭhaḥ |	GOtAAH-_1,4.23 / GOtSt_4.28: antyaH pApizWaH |
+   GautAA_1,4.24 / GautSt_4.29: punanti sādhavaḥ putrāḥ |	GOtAAH-_1,4.24 / GOtSt_4.29: punanti sADavaH putrAH |
+   GautAA_1,4.25 / GautSt_4.30: tripuruṣam ārṣāt |	GOtAAH-_1,4.25 / GOtSt-_4.30: tri-puruzam ArzAt |
+   GautAA_1,4.26a / GautSt_4.31: daśa daivād |	GOtAAH-_1,4.26aH / GOtSt_4.31: daSa dEvAt |
+   GautAA_1,4.26b / GautSt_4.32: daśaiva prājāpatyāt |	GOtAAH-_1,4.26B / GOtSt_4.32: daSa-eva prAjApatyAt |
+   GautAA_1,4.27 / GautSt_4.33: daśa pūrvān daśa parān ātmānaṃ cabrāhmīputro	GOtAAH-_1,4.27 / GOtSt_4.33: daSa pUrvAn daSa parAn AtmAnam ca-brAhmI-putraH-
+   brāhmīputraḥ |	brAhmI-putraH |
+   {VAR_St: daśāparān}	{VAR_St: daSa-aparAn}
+   [GautAA 1,5 = GautSt V]	[GOtAAH 1,5  GOtSt V]
+   GautAA_1,5.1 / GautSt_5.1: ṛtāv(ṛtu) upeyāt |	GOtAAH-_1,5.1 / GOtSt-_5.1: RtO=-(Rtu) upeyAt |
+   GautAA_1,5.2 / GautSt_5.2: sarvatra vā pratiṣiddhavarjam |	GOtAAH-_1,5.2 / GOtSt-_5.2: sarvatra vA pratizidDa-varjam |
+   GautAA_1,5.3 / GautSt_5.3: devapitṛmanuṣyabhūtarṣipūjakaḥ |	GOtAAH-_1,5.3 / GOtSt_5.3: deva-pitR-manuzya-BUta-Rzi-pUjakaH |
+   GautAA_1,5.4 / GautSt_5.4: nityasvādhyāyaḥ |	GOtAAH-_1,5.4 / GOtSt_5.4: nitya-svADyAyaH |
+   GautAA_1,5.5a / GautSt_5.5: pitṛbhyaś codakadānaṃ |	GOtAAH-_1,5.5aH / GOtSt_5.5: pitRByaH ca-udaka-dAnam |
+   GautAA_1,5.5b / GautSt_5.6: yathotsāham anyat |	GOtAAH-_1,5.5B / GOtSt-_5.6: yaTotsAham anyat |
+   GautAA_1,5.6 / GautSt_5.7: bhāryādir agnir dāyādir vā |	GOtAAH-_1,5.6 / GOtSt_5.7: BAryA-AdiH agniH dAyAdiH vA |
+   GautAA_1,5.7 / GautSt_5.8: tasmin gṛhyāṇi karmāṇi |	GOtAAH-_1,5.7 / GOtSt-_5.8: tasmin gRhyANi karmANi |
+   {VAR_St: omitt: karmāṇi}	{VAR_St: omitt: karmANi}
+   GautAA_1,5.8 / GautSt_5.9: devapitṛmanuṣyayajñāḥ svādhyāyaś ca balikarma |	GOtAAH-_1,5.8 / GOtSt_5.9: deva-pitR-manuzya-yajQAH svADyAyaH ca bali-karma |
+   GautAA_1,5.9 / GautSt_5.10: agnāv agnir dhanvantarir viśve devāḥ	GOtAAH-_1,5.9 / GOtSt_5.10: agnO agniH DanvantariH viSve devAH
+   prajāpatiḥsviṣṭakṛd iti homaḥ |	prajApatiH-svizwakRt iti homaH |
+   {VAR_St: homāḥ}	{VAR_St: homAH}
+   GautAA_1,5.10 / GautSt_5.11: digdevatābhyaś ca yathāsvam |	GOtAAH-_1,5.10 / GOtSt_5.11: diS-devatAByaH ca yaTAsvam |
+   GautAA_1,5.11 / GautSt_5.12: dvārṣu mahadbhyaḥ |	GOtAAH-_1,5.11 / GOtSt_5.12: dvArzu mahadByaH |
+   {VAR_St: marudbhyaḥ}	{VAR_St: marudByaH}
+   GautAA_1,5.12 / GautSt_5.13: gṛhadevatābhyaḥ praviśya |	GOtAAH-_1,5.12 / GOtSt_5.13: gRha-devatAByaH praviSya |
+   GautAA_1,5.13 / GautSt_5.14: brahmaṇe madhye |	GOtAAH-_1,5.13 / GOtSt_5.14: brahmaNe maDye |
+   - / GautSt_5.15: adbhya udakumbhe |	 / GOtSt_5.15: adByaH uda-kumBe |
+   GautAA_1,5.14a / GautSt_5.16: ākāśāyety antarikṣe	GOtAAH-_1,5.14aH / GOtSt-_5.16: AkASAya-iti antarikze
+   GautAA_1,5.14b balir utkṣepyaḥ |	GOtAAH-_1,5.14B baliH utkzepyaH |
+   GautAA_1,5.15 / GautSt_5.17: naktaṃcarebhyaś ca sāyam |	GOtAAH-_1,5.15 / GOtSt-_5.17: naktaMcareByaH ca sAyam |
+   GautAA_1,5.16 / GautSt_5.18: svastivācya bhikṣādānam appūrvam |	GOtAAH-_1,5.16 / GOtSt_5.18: svasti-vAcya BikzA-dAnam ap-pUrvam |
+   GautAA_1,5.17 / GautSt_5.19: dadātiṣu caivaṃ dharmyeṣu |	GOtAAH-_1,5.17 / GOtSt_5.19: dadAtizu ca-evam Darmyezu |
+   GautAA_1,5.18 / GautSt_5.20: samadviguṇasāhasrānantyāni	GOtAAH-_1,5.18 / GOtSt-_5.20: sama-dviguNa-sAhasra-AnantyAni
+   phalānyabrāhmaṇabrāhmaṇaśrotriyavedapāragebhyaḥ |	PalAni-abrAhmaNa-brAhmaNa-Srotriya-vedapArageByaH |
+   GautAA_1,5.19 / GautSt_5.21:	GOtAAH-_1,5.19 / GOtSt-_5.21:
+   gurvarthaniveśauṣadhārthavṛttikṣīṇayakṣyamāṇādhyayanādhvasaṃyogavaiśvajiteṣu	guru-arTa-niveSa-OzaDa-arTa-vRtti-kzINa-yakzyamANa-aDyayana-aDva-saMyoga-vESvajitezu
+   dravyasaṃvibhāgo bahirvedi |	dravya-saMviBAgaH bahis-vedi |
+   GautAA_1,5.20 / GautSt_5.22: bhikṣamāṇeṣu kṛtānnam itareṣu |	GOtAAH-_1,5.20 / GOtSt_5.22: BikzamANezu kRtAnnam itarezu |
+   GautAA_1,5.21 / GautSt_5.23: pratiśrutyāpy adharmasaṃyuktāya na dadyāt |	GOtAAH-_1,5.21 / GOtSt-_5.23: pratiSrutya-api aDarma-saMyuktAya na dadyAt |
+   {VAR_St: -yuktena}	{VAR_St: -yuktena}
+   GautAA_1,5.22 / GautSt_5.24:	GOtAAH-_1,5.22 / GOtSt-_5.24:
+   kruddhahṛṣṭabhītārtalubdhabālasthaviramūḍhamattonmattavākyānyanṛtānyapātakāni	krudDa-hRzwa-BIta-Arta-lubDa-bAla-sTaviramUXa-matta-unmatta-vAkyAni-anRtAnyapAtakAni
+   GautAA_1,5.23 / GautSt_5.25: bhojayet	GOtAAH-_1,5.23 / GOtSt_5.25: Bojayet-
+   pūrvamatithikumāravyādhitagarbhiṇīsvavāsinīsthavirāñ jaghanyāṃś |	pUrvam-atiTi-kumAra-vyADita-garBiNI-sva-vAsinI-sTavirAn jaGanyAn |
+   GautAA_1,5.24 / GautSt_5.26: ācāryapitṛsakhīnāṃ ca nivedya pacanakriyā |	GOtAAH-_1,5.24 / GOtSt-_5.26: AcArya-pitR-saKInAm ca nivedya pacana-kriyA |
+   GautAA_1,5.25 / GautSt_5.27: ṛtvigācāryaśvaśurapitṛvyamātulānām	GOtAAH-_1,5.25 / GOtSt_5.27: Rtvij-AcArya-SvaSura-pitRvya-mAtulAnAm
+   upasthānemadhuparkaḥ |	upasTAnemaDuparkaH |
+   GautAA_1,5.26 / GautSt_5.28: samvatsare punaḥ |	GOtAAH-_1,5.26 / GOtSt-_5.28: samvatsare punar |
+   GautAA_1,5.27 / GautSt_5.29: yajñavivāhayor arvāk |	GOtAAH-_1,5.27 / GOtSt-_5.29: yajQa-vivAhayoH arvAk |
+   GautAA_1,5.28 / GautSt_5.30: rājñaś ca śrotriyasya |	GOtAAH-_1,5.28 / GOtSt_5.30: rAjQaH ca Srotriyasya |
+   GautAA_1,5.29 / GautSt_5.31: aśrotriyasyāsanodake |	GOtAAH-_1,5.29 / GOtSt_5.31: aSrotriyasya-Asana-udake |
+   GautAA_1,5.30 / GautSt_5.32: śrotriyasya tu pādyam arghyam annaviśeṣāṃś	GOtAAH-_1,5.30 / GOtSt_5.32: Srotriyasya tu pAdyam arGyam anna-viSezAn=-
+   caprakārayet |	caprakArayet |
+   GautAA_1,5.31 / GautSt_5.33: nityaṃ vā saṃskāraviśiṣṭam |	GOtAAH-_1,5.31 / GOtSt_5.33: nityam vA saMskAra-viSizwam |
+   GautAA_1,5.32 / GautSt_5.34: madhyato 'nnadānam avaidye sādhuvṛtte |	GOtAAH-_1,5.32 / GOtSt_5.34: maDyatas anna-dAnam avEdye sADu-vRtte |
+   GautAA_1,5.33a / GautSt_5.35: viparīteṣutṛṇodakabhūmi |	GOtAAH-_1,5.33aH / GOtSt_5.35: viparIta-izu-tRNa-udaka-BUmi |
+   {VAR_St: viparīte tu}	{VAR_St: viparIte tu}
+   GautAA_1,5.33b / GautSt_5.36: svāgatam antataḥ |	GOtAAH-_1,5.33B / GOtSt-_5.36: svAgatam antatas |
+   GautAA_1,5.33c / GautSt_5.37: pūjānatyāśaś ca |	GOtAAH-_1,5.33t / GOtSt-_5.37: pUjA-natyASaH ca |
+   GautAA_1,5.34 / GautSt_5.38: śayyāsanāvasathānuvrajyopāsanāni	GOtAAH-_1,5.34 / GOtSt-_5.38: SayyA-Asana-AvasaTa-anuvrajya-upAsanAni
+   sadṛkśreyasoḥsamānāni |	sadRS-SreyasoH-samAnAni |
+   {VAR_St: samāni}	{VAR_St: samAni}
+   GautAA_1,5.35 / GautSt_5.39: alpaśo 'pi hīne |	GOtAAH-_1,5.35 / GOtSt_5.39: alpaSas api hIne |
+   GautAA_1,5.36 / GautSt_5.40: asamānagrāmo 'tithiraikarātriko	GOtAAH-_1,5.36 / GOtSt_5.40: asamAna-grAmaH atiTiH-EkarAtri-kaH-
+   'dhivṛkṣasūryopasthāyī |	aDi-vRkza-sUrya-upasTAyI |
+   GautAA_1,5.37 / GautSt_5.41: kuśalānāmayārogyāṇām anupraśnaḥ |	GOtAAH-_1,5.37 / GOtSt_5.41: kuSala-anAmaya-ArogyANAm anupraSnaH |
+   GautAA_1,5.38 / GautSt_5.42: antyaṃ śūdrasya |	GOtAAH-_1,5.38 / GOtSt_5.42: antyam SUdrasya |
+   GautAA_1,5.39 / GautSt_5.43: brāhmaṇasyānatithir abrāhmaṇaḥ |	GOtAAH-_1,5.39 / GOtSt_5.43: brAhmaNasya-anatiTiH abrAhmaNaH |
+   GautAA_1,5.40 / GautSt_5.43: yajñe saṃvṛtaś cet |	GOtAAH-_1,5.40 / GOtSt-_5.43: yajQe saMvRtaH ced |
+   {VAR_St: ayajñe saṃvṛttaś}	{VAR_St: ayajQe saMvRttaS}
+   GautAA_1,5.41 / GautSt_5.44: bhojanaṃ tu kṣatriyasyordhvaṃ brāhmanebhyaḥ |	GOtAAH-_1,5.41 / GOtSt_5.44: Bojanam tu kzatriyasya-UrDvam brAhmaneByaH |
+   GautAA_1,5.42 / GautSt_5.45: anyān bhṛtyaiḥ sahānṛśaṃsyārtham	GOtAAH-_1,5.42 / GOtSt_5.45: anyAn BRtyEH saha-AnRSaMsya-arTam
+   ānṛśaṃsyārtham |	AnRSaMsya-arTam |
+   {VAR_St: -ānṛśaṃsārtham ānṛśaṃsārtham}	{VAR_St: -A-nRSaMsa-arTam AnRSaMsa-arTam}
+   [GautAA 1,6 = GautSt VI]	[GOtAAH 1,6  GOtSt VI]
+   GautAA_1,6.1 / GautSt_6.2: pādopasamgrahaṇaṃ samavāye 'nvaham |	GOtAAH-_1,6.1 / GOtSt-_6.2: pAda-upasamgrahaNam samavAye anvaham |
+   GautAA_1,6.2 / GautSt_6.2: abhigamya tu viproṣya |	GOtAAH-_1,6.2 / GOtSt_6.2: aBigamya tu viprozya |
+   GautAA_1,6.3 / GautSt_6.3: mātṛpitṛtadbandhūnāṃ pūrvajānāṃ	GOtAAH-_1,6.3 / GOtSt_6.3: mAtR-pitR-tad-banDUnAm pUrva-jAnAm
+   vidyāgurūṇāṃtadgurūṇāṃ ca |	vidyA-gurUNAMtat-gurUNAm ca |
+   GautAA_1,6.4 / GautSt_6.4: saṃnipāte parasya |	GOtAAH-_1,6.4 / GOtSt-_6.4: saMnipAte parasya |
+   GautAA_1,6.5 / GautSt_6.5: svanāma procyāhamayam ity abhivādojñasamavāye |	GOtAAH-_1,6.5 / GOtSt-_6.5: sva-nAma procya-aham-ayam iti aBivAda-ujQa-samavAye |
+   {VAR_St: ajñasamavāye}	{VAR_St: ajQa-samavAye}
+   GautAA_1,6.6 / GautSt_6.6: strīpuṃyoge 'bhivādato 'niyamam eke |	GOtAAH-_1,6.6 / GOtSt-_6.6: strI-puMyoge aBivAdataH aniyamam eke |
+   GautAA_1,6.7 / GautSt_6.7: nāviproṣya strīṇām amātṛpitṛvyabhāryābhaginīnām	GOtAAH-_1,6.7 / GOtSt_6.7: na-aviprozya strINAm amAtR-pitRvya-BAryA-BaginInAm
+   GautAA_1,6.8 / GautSt_6.8: nopasaṃgrahaṇaṃ bhrātṛbhāryāṇāṃ svasṛṛṇām |	GOtAAH-_1,6.8 / GOtSt_6.8: na-upasaMgrahaNam BrAtR-BAryANAm svasRRNAm |
+   {VAR_St: śvaśurāśca?}	{VAR_St: SvaSurAH-ca?}
+   GautAA_1,6.9 / GautSt_6.9: ṛtvikchvaśurapitṛvyamātulānāṃ tu	GOtAAH-_1,6.9 / GOtSt-_6.9: Rtvij-SvaSura-pitRvya-mAtulAnAm tu
+   yavīyasāṃpratyutthānam abhivādyāḥ |	yavIyasAMpratyutTAnam aBivAdyAH |
+   {VAR_St: na}	{VAR_St: na}
+   GautAA_1,6.10 / GautSt_6.10: tathānyaḥ pūrvaḥ pauro 'śītikāvaraḥśūdro 'py	GOtAAH-_1,6.10 / GOtSt_6.10: taTA-anyaH pUrvaH pOraH aSItika-avaraH-SUdraH api-
+   apatyasamena |	apatya-samena |
+   GautAA_1,6.11 / GautSt_6.11: avaro 'py āryaḥ śūdreṇa |	GOtAAH-_1,6.11 / GOtSt_6.11: avaraH api AryaH SUdreNa |
+   GautAA_1,6.12 / GautSt_6.12: nāma vāsya varjayet |	GOtAAH-_1,6.12 / GOtSt-_6.12: nAma vA-asya varjayet |
+   {VAR_St: cāsya}	{VAR_St: ca-asya}
+   GautAA_1,6.13 / GautSt_6.13: rājñaś cājapaḥ preṣyaḥ |	GOtAAH-_1,6.13 / GOtSt_6.13: rAjQaH ca-AjapaH prezyaH |
+   GautAA_1,6.14 / GautSt_6.14: bho bhavann iti vayasyaḥ samāne 'hani jātaḥ |	GOtAAH-_1,6.14 / GOtSt_6.14: Bo Bavan iti vayasyaH samAne ahani jAtaH |
+   GautAA_1,6.15a / GautSt_6.15: daśavarśavṛddhaḥ pauraḥ |	GOtAAH-_1,6.15aH / GOtSt_6.15: daSa-varSa-vRdDaH pOraH |
+   GautAA_1,6.15b / GautSt_6.16: pañcabhiḥkalābharaḥ |	GOtAAH-_1,6.15B / GOtSt_6.16: paQcaBiH-kalA-BaraH |
+   GautAA_1,6.15c / GautSt_6.17: śrotriyaś cāraṇas tribhiḥ |	GOtAAH-_1,6.15t / GOtSt-_6.17: SrotriyaH cAraNaH triBiH |
+   GautAA_1,6.16 / GautSt_6.18: rājanyavaiśyakarmā vidyāhīnāḥ |	GOtAAH-_1,6.16 / GOtSt_6.18: rAjanya-vESya-karmA vidyA-hInAH |
+   GautAA_1,6.17 / GautSt_6.19: dīkṣitaś ca prāk krayāt |	GOtAAH-_1,6.17 / GOtSt-_6.19: dIkzitaH ca prAk krayAt |
+   GautAA_1,6.18 / GautSt_6.20: vittabandhukarmajātividyāvayāṃsi	GOtAAH-_1,6.18 / GOtSt-_6.20: vitta-banDu-karma-jAti-vidyA-vayAMsi
+   mānyāniparabalīyāṃsi |	mAnya-anipara-balIyAMsi |
+   GautAA_1,6.19 / GautSt_6.21: śrutaṃ tu sarvebhyo garīyaḥ |	GOtAAH-_1,6.19 / GOtSt-_6.21: Srutam tu sarveByaH garIyaH |
+   GautAA_1,6.20a / GautSt_6.22: tanmūlatvād dharmasya	GOtAAH-_1,6.20aH / GOtSt-_6.22: tad-mUla-tvAt Darmasya
+   GautAA_1,6.20b / GautSt_6.23: śruteś ca |	GOtAAH-_1,6.20B / GOtSt-_6.23: SruteH ca |
+   GautAA_1,6.21 / GautSt_6.24: cakridaśamīsthānugrāhyavadhūsnātakarājabhyaḥ	GOtAAH-_1,6.21 / GOtSt_6.24: cakri-daSamI-sTa-anugrAhya-vaDU-snAtaka-rAjaByaH
+   pathodānam |	paTA-udAnam |
+   GautAA_1,6.22 / GautSt_6.25: rājñā tu śrotriyāya śrotriyāya |	GOtAAH-_1,6.22 / GOtSt_6.25: rAjQA tu SrotriyAya SrotriyAya |
+   [GautAA 1,7 = GautSt VII]	[GOtAAH 1,7  GOtSt VII]
+   GautAA_1,7.1 / GautSt_7.1: āpatkalpo brāhmanasyābrāhmaṇād vidyopayogaḥ |	GOtAAH-_1,7.1 / GOtSt-_7.1: Apad-kalpaH brAhmanasya-abrAhmaNAt vidyA-upayogaH |
+   GautAA_1,7.2 / GautSt_7.2: anugamanaṃ śuśrūṣā |	GOtAAH-_1,7.2 / GOtSt_7.2: anugamanam SuSrUzA |
+   GautAA_1,7.3 / GautSt_7.3: samāpte brāhmaṇo guruḥ |	GOtAAH-_1,7.3 / GOtSt_7.3: samApte brAhmaNaH guruH |
+   GautAA_1,7.4 / GautSt_7.4: yājanādhyāpanapratigrahāḥ sarveṣām |	GOtAAH-_1,7.4 / GOtSt_7.4: yAjana-aDyApana-pratigrahAH sarvezAm |
+   GautAA_1,7.5 / GautSt_7.5: pūrvaḥ pūrvo guruḥ |	GOtAAH-_1,7.5 / GOtSt_7.5: pUrvaH pUrvaH guruH |
+   GautAA_1,7.6 / GautSt_7.6: tadalābhe kṣatravṛttiḥ |	GOtAAH-_1,7.6 / GOtSt-_7.6: tad-alABe kzatra-vRttiH |
+   {VAR_St: kṣatriya-}	{VAR_St: kzatriya-}
+   GautAA_1,7.7 / GautSt_7.7: tadalābhe vaiśyavṛttiḥ |	GOtAAH-_1,7.7 / GOtSt-_7.7: tad-alABe vESya-vRttiH |
+   GautAA_1,7.8 / GautSt_7.8: tasyāpaṇyam |	GOtAAH-_1,7.8 / GOtSt_7.8: tasya-apaNyam |
+   GautAA_1,7.9 / GautSt_7.9: gandharasakṛtānnatilaśānakṣaumājināni |	GOtAAH-_1,7.9 / GOtSt-_7.9: ganDa-rasa-kRtAn-na-tilaSAna-kzOma-ajinAni |
+   GautAA_1,7.10 raktanirṇikte vāsasī |	GOtAAH-_1,7.10 rakta-nirNikte vAsasI |
+   {VAR_St: -nikte}	{VAR_St: -nikte}
+   GautAA_1,7.11 / GautSt_7.11: kṣīraṃ savikāram |	GOtAAH-_1,7.11 / GOtSt-_7.11: kzIram sa-vikAram |
+   GautAA_1,7.12 / GautSt_7.12:	GOtAAH-_1,7.12 / GOtSt-_7.12:
+   mūlaphalapuṣpauṣadhamadhumāṃsatṛṇodakāpathyāni |	mUla-Pala-puzpa-OzaDa-maDu-mAMsa-tRNa-udaka-apaTyAni |
+   GautAA_1,7.13 / GautSt_7.13: paśavaś ca hiṃsāsaṃyoge |	GOtAAH-_1,7.13 / GOtSt_7.13: paSavaH ca hiMsA-saMyoge |
+   GautAA_1,7.14 / GautSt_7.14: puruśavaśākumārīvehataś ca nityam |	GOtAAH-_1,7.14 / GOtSt-_7.14: puru-Sava-SAkumArI-vehataH ca nityam |
+   GautAA_1,7.15 / GautSt_7.15: bhūmivrīhiyavājāvyaśvaṛṣabhadhenvanaḍuhaś	GOtAAH-_1,7.15 / GOtSt_7.15: BUmi-vrIhi-yava-aja-avi-aSva-RzaBa-Denu-anaxuhaH-
+   caike |	ca-eke |
+   GautAA_1,7.16 / GautSt_7.16: niyamas tu |	GOtAAH-_1,7.16 / GOtSt_7.16: niyamaH tu |
+   GautAA_1,7.17 / GautSt_7.17: rasānāṃ rasaiḥ |	GOtAAH-_1,7.17 / GOtSt_7.17: rasAnAm rasEH |
+   GautAA_1,7.18 / GautSt_7.18: paśūnāṃ ca |	GOtAAH-_1,7.18 / GOtSt_7.18: paSUnAm ca |
+   GautAA_1,7.19 / GautSt_7.19: na lavaṇakṛtānnayoḥ |	GOtAAH-_1,7.19 / GOtSt_7.19: na lavaNa-kRtAnnayoH |
+   GautAA_1,7.20 / GautSt_7.20: tilānāṃ ca |	GOtAAH-_1,7.20 / GOtSt_7.20: tilAnAm ca |
+   GautAA_1,7.21 / GautSt_7.21: samenāmena tu pakvasya saṃpratyarthe |	GOtAAH-_1,7.21 / GOtSt-_7.21: samena-Amena tu pakvasya saMprati-arTe |
+   GautAA_1,7.22 / GautSt_7.22: sarvathā vṛttir aśaktāv aśaudreṇa |	GOtAAH-_1,7.22 / GOtSt-_7.22: sarvaTA vRttiH aSaktO aSOdreNa |
+   {VAR_St: -thā tu}	{VAR_St: -TA tu}
+   GautAA_1,7.23 / GautSt_7.23: tad apy eke prāṇasaṃśaye |	GOtAAH-_1,7.23 / GOtSt-_7.23: tat api eke prANa-saMSaye |
+   GautAA_1,7.24 / GautSt_7.24: tadvarṇasaṃkarābhakṣyaniyamas tu |	GOtAAH-_1,7.24 / GOtSt-_7.24: tad-varNa-saMkara-aBakzya-niyamaH tu |
+   GautAA_1,7.25 / GautSt_7.25: prāṇasaṃśaye brāhmaṇo 'pi śastram ādadīta |	GOtAAH-_1,7.25 / GOtSt-_7.25: prANa-saMSaye brAhmaNaH api Sastram AdadIta |
+   GautAA_1,7.26 / GautSt_7.26: rājanyo vaiśyakarma |	GOtAAH-_1,7.26 / GOtSt_7.26: rAjanyaH vESya-karma |
+   {VAR_St: -karma vaiśyakarma}	{VAR_St: -karma vESya-karma}
+   [GautAA 1,8 = GautSt VIII]	[GOtAAH 1,8  GOtSt VIII]
+   GautAA_1,8.1 / GautSt_8.1: dvau loke dhṛtavratau rājā brāhmaṇaś ca	GOtAAH-_1,8.1 / GOtSt_8.1: dvO loke DRta-vratO rAjA brAhmaNaH ca
+   bahuśrutaḥ |	bahu-SrutaH |
+   GautAA_1,8.2 / GautSt_8.2: tayoś caturvidhasya	GOtAAH-_1,8.2 / GOtSt-_8.2: tayoH caturviDasya
+   manuṣyajātasyāntaḥsaṃjñānāmcalanapatanasarpaṇānām āyattaṃ jīvanam |	manuzya-jAtasya-antar-saMjQAnAm-calana-patana-sarpaNAnAm Ayattam jIvanam |
+   {VAR_St: -sarpāṇām}	{VAR_St: -sarpANAm-}
+   GautAA_1,8.3 / GautSt_8.3: prasūtirakṣaṇam asaṃkaro dharmaḥ |	GOtAAH-_1,8.3 / GOtSt_8.3: prasUti-rakzaNam asaMkaraH DarmaH |
+   GautAA_1,8.4 / GautSt_8.4: sa eva bahuśruto bhavati |	GOtAAH-_1,8.4 / GOtSt_8.4: saH eva bahu-SrutaH Bavati |
+   {VAR_St: eṣa}	{VAR_St: eza}
+   GautAA_1,8.5 / GautSt_8.5: lokavedavedāṅgavit |	GOtAAH-_1,8.5 / GOtSt_8.5: loka-veda-vedAFga-vid |
+   GautAA_1,8.6 / GautSt_8.6: vākovākyetihāsapurāṇakuśalaḥ |	GOtAAH-_1,8.6 / GOtSt-_8.6: vAkovAkya-itihAsa-purANa-kuSalaH |
+   GautAA_1,8.7 / GautSt_8.7: tadapekṣas tadvṛttiḥ |	GOtAAH-_1,8.7 / GOtSt-_8.7: tad-apekzaH tad-vRttiH |
+   GautAA_1,8.8 / GautSt_8.8: catvāriṃśat saṃskāraiḥ saṃskṛtaḥ |	GOtAAH-_1,8.8 / GOtSt-_8.8: catvAriMSat saMskArEH saMskRtaH |
+   {VAR_St: -riṃśatā}	{VAR_St: -riMSatA}
+   GautAA_1,8.9 / GautSt_8.9: triṣu karmasv abhirataḥ |	GOtAAH-_1,8.9 / GOtSt_8.9: trizu karmasu aBirataH |
+   GautAA_1,8.10 / GautSt_8.10: ṣaṭsu vā |	GOtAAH-_1,8.10 / GOtSt_8.10: zawsu vA |
+   GautAA_1,8.11 / GautSt_8.11: sāmayācārikeṣv abhivinītaḥ |	GOtAAH-_1,8.11 / GOtSt-_8.11: sa-AmayAcArikezu aBivinItaH |
+   GautAA_1,8.12 / GautSt_8.12: ṣaḍbhiḥ parihāryo rājñā |	GOtAAH-_1,8.12 / GOtSt_8.12: zaxBiH parihAryaH rAjQA |
+   GautAA_1,8.13 / GautSt_8.13: avadhyaś cābandhyaś cādaṇḍyaś	GOtAAH-_1,8.13 / GOtSt_8.13: avaDyaH ca-AbanDyaH ca-adaNxyaH-
+   cābahiṣkāryaścāparivādyaś cāparihāryaś ceti |	ca-abahizkAryaH-ca-aparivAdyaH ca-aparihAryaH ca-iti |
+   GautAA_1,8.14 / GautSt_8.14:	GOtAAH-_1,8.14 / GOtSt-_8.14:
+   garbhādhānapuṃsavanasīmantonnayanajātakarmanāmakaraṇānnaprāśanacaulopanayanam	garBADAna-puMsavana-sImantonnayana-jAta-karma-nAmakaraNa-anna-prASana-cOla-upanayanam
+   GautAA_1,8.15 / GautSt_8.15: catvāri vedavratāni |	GOtAAH-_1,8.15 / GOtSt_8.15: catvAri veda-vratAni |
+   GautAA_1,8.16 / GautSt_8.16a: snānaṃ sahadharmacāriṇīsaṃyogaḥ |	GOtAAH-_1,8.16 / GOtSt_8.16a: snAnam saha-Darma-cAriNI-saMyogaH |
+   GautAA_1,8.17 / GautSt_8.16b: pañcānāṃ yajñānām	GOtAAH-_1,8.17 / GOtSt_8.16b: paQcAnAm yajQAnAm
+   anuṣṭhānaṃdevapitṛmanuṣyabhūtabrāhmaṇām |	anuzWAnaM-deva-pitR-manuzya-BUta-brAhmaNAm |
+   GautAA_1,8.18 / GautSt_8.17: eteṣāṃ ca |	GOtAAH-_1,8.18 / GOtSt_8.17: etezAm ca |
+   GautAA_1,8.19 / GautSt_8.18: aṣṭakā pārvaṇaḥ śrāddham	GOtAAH-_1,8.19 / GOtSt_8.18: azwakA pArvaNaH SrAdDam
+   śrāvaṇyāgrahāyaṇīcaitryāśvayujīti sapta pākayajñasamsthāḥ |	SrAvaNyA-grahAyaNI-cEtrya-aSvayujI-iti sapta pAkayajQa-samsTAH |
+   GautAA_1,8.20 / GautSt_8.19: agnyādheyam agnihotraṃ	GOtAAH-_1,8.20 / GOtSt_8.19: agnyADeyam agni-hotram
+   darśapūrṇamāsāvāgrayaṇaṃ cāturmāsyāni nirūḍhapaśubandhaḥ sautrāmaṇīti	darSa-pUrNamAsO=-AgrayaNam cAturmAsyAni nirUXa-paSubanDaH sOtrAmaNI-iti
+   saptahaviryajñasamsthāḥ |	sapta-haviryajQa-samsTAH |
+   {VAR_St: -paurṇa-}	{VAR_St: -pOrNa-}
+   GautAA_1,8.21 / GautSt_8.20: agniṣṭomo 'tyagniṣṭoma ukthyaḥ ṣoḍaśīvājapeyo	GOtAAH-_1,8.21 / GOtSt_8.20: agnizwomaH atyagnizwomaH ukTyaH zoxaSI-ivA-japeyaH-
+   'tirātro 'ptoryāma iti sapta somasaṃsthāḥ |	atirAtraH aptoryAmaH iti sapta soma-saMsTAH |
+   GautAA_1,8.22 / GautSt_8.21: ity ete catvāriṃśatsaṃskārāḥ |	GOtAAH-_1,8.22 / GOtSt_8.21: iti ete catvAriMSat-saMskArAH |
+   GautAA_1,8.23 / GautSt_8.22: athāṣṭāv ātmaguṇāḥ |	GOtAAH-_1,8.23 / GOtSt_8.22: aTa-azwO Atma-guNAH |
+   GautAA_1,8.24 / GautSt_8.23: dayā sarvabhūteṣu kṣāntir anasūyā śaucam	GOtAAH-_1,8.24 / GOtSt-_8.23: dayA sarva-BUtezu kzAntiH anasUyA SOcam
+   anāyāsomaṅgalam akārpaṇyam aspṛheti |	anAyAsaH-maFgalam akArpaNyam aspRhA-iti |
+   GautAA_1,8.25 / GautSt_8.24: yasyaite catvāriṃśatsaṃskārā na cāṣṭāv	GOtAAH-_1,8.25 / GOtSt-_8.24: yasya-ete catvAriMSat-saMskArAH na ca-azwO=-
+   ātmaguṇāna sa brahmaṇaḥ sāyujyaṃ sālokyaṃ gacchati |	Atma-guNAna sa brahmaNaH sAyujyam sAlokyam gacCati |
+   GautAA_1,8.26 / GautSt_8.25: yasya tu khalu saṃskārāṇām ekadeśo 'py aṣṭāv	GOtAAH-_1,8.26 / GOtSt_8.25: yasya tu Kalu saMskArANAm eka-deSaH api azwO=-
+   ātmaguṇā atha sa brahmaṇaḥ sāyujyaṃ sālokyaṃ cagacchati |	Atma-guNAH aTa sa brahmaNaH sAyujyam sAlokyam cagacCati |
+   {VAR_St: catvāriṃśatsaṃs- ... gacchati gachati}	{VAR_St: catvAriMSat-saMs ... gacCati gaCati}
+   [GautAA 1,9 = GautSt IX]	[GOtAAH 1,9  GOtSt IX]
+   GautAA_1,9.1 / GautSt_9.1: sa vidhipūrvakaṃ snātvā bhāryām	GOtAAH-_1,9.1 / GOtSt_9.1: sa viDi-pUrvakam snAtvA BAryAm
+   adhigamyayathoktān gṛhasthadharmān prayuñjāna imāni vratāny anukarṣet |	aDigamya-yaTA-uktAn gRhasTa-DarmAn prayuQjAnaH imAni vratAni anukarzet |
+   {VAR_St: -pūrvaṃ}	{VAR_St: -pUrvaM}
+   GautAA_1,9.2 snātakaḥ |	GOtAAH-_1,9.2 snAtakaH |
+   GautAA_1,9.3 / GautSt_9.2: nityaṃ śuciḥ sugandhiḥ snānaśīlaḥ |	GOtAAH-_1,9.3 / GOtSt_9.2: nityam SuciH suganDiH snAna-SIlaH |
+   {VAR_St: -gandhaḥ}	{VAR_St: -ganDaH}
+   GautAA_1,9.4 / GautSt_9.3: sati vibhave na jīrṇamalavadvāsāḥ syāt |	GOtAAH-_1,9.4 / GOtSt-_9.3: sati viBave na jIrNa-malavat-vAsAH syAt |
+   GautAA_1,9.5 / GautSt_9.4: na raktam ulbaṇam anyadhṛtaṃ vāso bibhṛyāt |	GOtAAH-_1,9.5 / GOtSt-_9.4: na raktam ulbaNam anya-DRtam vAsaH biBRyAt |
+   GautAA_1,9.6 / GautSt_9.5: na sragupānahau |	GOtAAH-_1,9.6 / GOtSt_9.5: na sraj-upAnahO |
+   GautAA_1,9.7 / GautSt_9.6: nirṇiktam aśaktau |	GOtAAH-_1,9.7 / GOtSt_9.6: nirNiktam aSaktO |
+   GautAA_1,9.8 / GautSt_9.7: na rūḍhaśmaśrur akasmāt |	GOtAAH-_1,9.8 / GOtSt_9.7: na rUXa-SmaSruH akasmAt |
+   GautAA_1,9.9 / GautSt_9.8: nāgnim apaś ca yugapad dhārayet |	GOtAAH-_1,9.9 / GOtSt_9.8: na-agnim apaH ca yugapad DArayet |
+   GautAA_1,9.10 / GautSt_9.9: nāñjalinā pibet |	GOtAAH-_1,9.10 / GOtSt_9.9: na-aQjalinA pibet |
+   GautAA_1,9.11 / GautSt_9.10: na tiṣṭhann uddhṛtodakenācamet |	GOtAAH-_1,9.11 / GOtSt_9.10: na tizWan udDRta-udakena-Acamet |
+   GautAA_1,9.12 / GautSt_9.11: na śūdrāśucyekapāṇyāvarjitena |	GOtAAH-_1,9.12 / GOtSt_9.11: na SUdra-aSuci-eka-pANi-Avarjitena |
+   GautAA_1,9.13 / GautSt_9.12: na vāyvagniviprādityāpo devatā gāś ca	GOtAAH-_1,9.13 / GOtSt_9.12: na vAyu-agni-vipra-Aditya-apaH devatAH gAH ca
+   pratipaśyan vā mūtrapurīṣāmedhyān vyudasyet |	pratipaSyan vA mUtra-purIza-ameDyAn vyudasyet |
+   {VAR_St: -āni}	{VAR_St: -Ani}
+   GautAA_1,9.14 / GautSt_9.13: naitā devatāḥ prati pādau prasārayet |	GOtAAH-_1,9.14 / GOtSt_9.13: na-etAH devatAH prati pAdO prasArayet |
+   GautAA_1,9.15 / GautSt_9.14: na parṇaloṣṭāśmabhir mūtrapurīṣāpakarṣaṇaṃ	GOtAAH-_1,9.15 / GOtSt-_9.14: na parNa-lozwa-aSmaBiH mUtra-purIza-apakarzaNam
+   kuryāt |	kuryAt |
+   GautAA_1,9.16 / GautSt_9.15: na bhasmakeśanakhatuṣakapālamedhyāny	GOtAAH-_1,9.16 / GOtSt_9.15: na Basma-keSa-naKa-tuza-kapAla-meDyAni-
+   adhitiṣṭhet |	aDitizWet |
+   {VAR_St: -keśatuṣakapālāmedhyāny}	{VAR_St: -keSa-tuza-kapAla-ameDyAny}
+   GautAA_1,9.17 / GautSt_9.16: na mlecchāśucyadhārmikaiḥ saha saṃbhāṣeta |	GOtAAH-_1,9.17 / GOtSt_9.16: na mlecCa-aSuci-aDArmikEH saha saMBAzeta |
+   GautAA_1,9.18 / GautSt_9.17: saṃbhāṣya puṇyakṛto manasā dhyāyet |	GOtAAH-_1,9.18 / GOtSt-_9.17: saMBAzya puNya-kRtaH manasA DyAyet |
+   GautAA_1,9.19 / GautSt_9.18: brāhmaṇena vā saha saṃbhāṣeta |	GOtAAH-_1,9.19 / GOtSt_9.18: brAhmaNena vA saha saMBAzeta |
+   GautAA_1,9.20 / GautSt_9.19: adhenuṃ dhenubhavyeti brūyāt |	GOtAAH-_1,9.20 / GOtSt_9.19: aDenum Denu-BavyA-iti brUyAt |
+   GautAA_1,9.21 / GautSt_9.20: abhadraṃ bhadram iti |	GOtAAH-_1,9.21 / GOtSt_9.20: aBadram Badram iti |
+   GautAA_1,9.22 / GautSt_9.21: kapālaṃ bhagālam iti |	GOtAAH-_1,9.22 / GOtSt-_9.21: kapAlam BagAlam iti |
+   GautAA_1,9.23 / GautSt_9.22: maṇidhanur itīndradhanuḥ |	GOtAAH-_1,9.23 / GOtSt_9.22: maNi-DanuH iti-indraDanuH |
+   GautAA_1,9.24 / GautSt_9.23: gāṃ dhayantīṃ parasmai nācakṣīta |	GOtAAH-_1,9.24 / GOtSt_9.23: gAm DayantIm parasmE na-AcakzIta |
+   GautAA_1,9.25 / GautSt_9.24: na cainām vārayet |	GOtAAH-_1,9.25 / GOtSt_9.24: na ca-enAm vArayet |
+   GautAA_1,9.26 / GautSt_9.25: na mithunī bhūtvā śaucaṃ prati vilambeta |	GOtAAH-_1,9.26 / GOtSt_9.25: na miTunI BUtvA SOcam prati vilambeta |
+   GautAA_1,9.27 / GautSt_9.26: na ca tasmin śayane svādhyāyam adhīyīta |	GOtAAH-_1,9.27 / GOtSt_9.26: na ca tasmin Sayane svADyAyam aDIyIta |
+   GautAA_1,9.28 / GautSt_9.27: na cāpararātram adhītya punaḥ pratisaṃviśet |	GOtAAH-_1,9.28 / GOtSt_9.27: na ca-apararAtram aDItya punar pratisaMviSet |
+   GautAA_1,9.29 / GautSt_9.28: nākalpāṃ nārīm abhiramayet |	GOtAAH-_1,9.29 / GOtSt_9.28: na-akalpAm nArIm aBiramayet |
+   {VAR_St: nākalyāṃ}	{VAR_St: nAkalyAM}
+   GautAA_1,9.30 / GautSt_9.29: na rajasvalām |	GOtAAH-_1,9.30 / GOtSt_9.29: na rajasvalAm |
+   GautAA_1,9.31a / GautSt_9.30: na caināṃ śliṣyen |	GOtAAH-_1,9.31aH / GOtSt_9.30: na ca-enAm Slizyet |
+   GautAA_1,9.31b / GautSt_9.31: na kanyām |	GOtAAH-_1,9.31B / GOtSt_9.31: na kanyAm |
+   GautAA_1,9.32 / GautSt_9.32:	GOtAAH-_1,9.32 / GOtSt-_9.32:
+   agnimukhopadhamanavigṛhyavādabahirgandhamālyadhāraṇapāpīyasāvalekhanabhāryāsahabhojanāñjantyavekṣaṇakudvārapraveśanapādapādadhāvanāsandīsthabhojananadībāhutaraṇavṛkṣaviṣamārohaṇāvarohaṇaprāṇavyāyacchanāni	agni-muKa-upaDamana-vigRhya-vAda-bahis-ganDa-mAlya-DAraNa-pApIyasA-avaleKana-BAryA-sahaBojanAn-janti-avekzaNa-ku-dvAra-praveSana-pAda-pAda-DAvana-Asand
+   varjayet |	varjayet |
+   {VAR_St: ca}	{VAR_St: ca}
+   GautAA_1,9.33 / GautSt_9.33: na sandigdhāṃ nāvam adhirohet |	GOtAAH-_1,9.33 / GOtSt-_9.33: na sandigDAm nAvam aDirohet |
+   GautAA_1,9.34 / GautSt_9.34: sarvata evātmānaṃ gopāyet |	GOtAAH-_1,9.34 / GOtSt-_9.34: sarvatas eva-AtmAnam gopAyet |
+   GautAA_1,9.35 / GautSt_9.35: na prāvṛtya śiro 'hani paryaṭet |	GOtAAH-_1,9.35 / GOtSt_9.35: na prAvRtya SiraH ahani paryawet |
+   GautAA_1,9.36 / GautSt_9.36: prāvṛtya rātrau |	GOtAAH-_1,9.36 / GOtSt-_9.36: prAvRtya rAtrO |
+   {VAR_St: -tya tu}	{VAR_St: -tya tu}
+   GautAA_1,9.37 / GautSt_9.37: mūtroccāre ca |	GOtAAH-_1,9.37 / GOtSt_9.37: mUtra-uccAre ca |
+   GautAA_1,9.38 / GautSt_9.38: na bhūmāv anantardhāya |	GOtAAH-_1,9.38 / GOtSt_9.38: na BUmO anantarDAya |
+   GautAA_1,9.39 / GautSt_9.39: nārāc cāvasathāt |	GOtAAH-_1,9.39 / GOtSt_9.39: nArAt ca-AvasaTAt |
+   GautAA_1,9.40 / GautSt_9.40: na bhasmakarīṣakṛṣṭacchāyāpathikāmyeṣu |	GOtAAH-_1,9.40 / GOtSt_9.40: na Basma-karIza-kRzwa=-CAyA-paTikAmyezu |
+   GautAA_1,9.41 / GautSt_9.41: ubhe mūtrapurīṣe tu divā kuryād udaṅmukhaḥ |	GOtAAH-_1,9.41 / GOtSt-_9.41: uBe mUtra-purIze tu divA kuryAt udaFmuKaH |
+   {VAR_St: omitt: tu}	{VAR_St: omitt: tu}
+   GautAA_1,9.42 / GautSt_9.42: saṃdhyayoś ca |	GOtAAH-_1,9.42 / GOtSt-_9.42: saMDyayoH ca |
+   GautAA_1,9.43 / GautSt_9.43: rātrau dakṣiṇāmukhaḥ |	GOtAAH-_1,9.43 / GOtSt-_9.43: rAtrO dakziNAmuKaH |
+   {VAR_St: -trau tu}	{VAR_St: -trO tu}
+   GautAA_1,9.44 / GautSt_9.44: pālāśam āsanaṃ pāduke dantadhāvanam iti ca	GOtAAH-_1,9.44 / GOtSt_9.44: pAlASam Asanam pAduke dantaDAvanam iti ca
+   varjayet |	varjayet |
+   GautAA_1,9.45 / GautSt_9.45: sopānatkaraścāsanābhivādananamaskārān	GOtAAH-_1,9.45 / GOtSt_9.45: sa-upAnat-karaH-ca-Asana-aBivAdana-namaskArAn
+   varjayet |	varjayet |
+   {VAR_St: sopānatkaścāśanāsanābhi-}	{VAR_St: sa-upAnatkaH-ca-aSanAsanABi-}
+   GautAA_1,9.46 / GautSt_9.46: na pūrvāhṇamadhyaṃdināparāhṇān aphalān	GOtAAH-_1,9.46 / GOtSt_9.46: na pUrvAhNa-maDyaMdina-aparAhNAn aPalAn
+   kuryādyathāśakti dharmārthakāmebhyaḥ |	kuryAt-yaTASakti Darma-arTa-kAmeByaH |
+   GautAA_1,9.47 / GautSt_9.47: teṣu tu dharmottarah syāt |	GOtAAH-_1,9.47 / GOtSt-_9.47: tezu tu Darma-uttarah syAt |
+   GautAA_1,9.48 / GautSt_9.48: na nagnāṃ parayoṣitam īkṣeta |	GOtAAH-_1,9.48 / GOtSt-_9.48: na nagnAm para-yozitam Ikzeta |
+   GautAA_1,9.49 / GautSt_9.49: na padāsanam ākarṣet |	GOtAAH-_1,9.49 / GOtSt_9.49: na pada-Asanam Akarzet |
+   GautAA_1,9.50 / GautSt_9.50: na śiśnodarapāṇipādavākcakṣuścāpalāni kuryāt	GOtAAH-_1,9.50 / GOtSt-_9.50: na SiSna-udara-pANi-pAda-vAc-cakzuH-cApalAni kuryAt-
+   GautAA_1,9.51 / GautSt_9.51:	GOtAAH-_1,9.51 / GOtSt-_9.51:
+   chedanabhedanavilekhanavimardanāvasphoṭanāninākasmāt kuryāt |	Cedana-Bedana-vileKana-vimardana-avasPowanA-ninA-akasmAt kuryAt |
+   GautAA_1,9.52 / GautSt_9.52: nopari vatsatantīṃ gacchet |	GOtAAH-_1,9.52 / GOtSt-_9.52: na-upari vatsa-tantIm gacCet |
+   GautAA_1,9.53 / GautSt_9.53: na kulaṃkulaḥ syāt |	GOtAAH-_1,9.53 / GOtSt_9.53: na kulaMkulaH syAt |
+   GautAA_1,9.54 / GautSt_9.54: na yajñam avṛto gacchet |	GOtAAH-_1,9.54 / GOtSt_9.54: na yajQam avRtaH gacCet |
+   GautAA_1,9.55 / GautSt_9.55: darśanāya tu kāmam |	GOtAAH-_1,9.55 / GOtSt-_9.55: darSanAya tu kAmam |
+   GautAA_1,9.56 / GautSt_9.56: na bhakṣān utsaṅge bhakṣayet |	GOtAAH-_1,9.56 / GOtSt_9.56: na BakzAn utsaFge Bakzayet |
+   {VAR_St: bhakṣyān}	{VAR_St: BakzyAn-}
+   GautAA_1,9.57 / GautSt_9.57: na rātrau preṣyāhṛtam |	GOtAAH-_1,9.57 / GOtSt-_9.57: na rAtrO prezya-AhRtam |
+   GautAA_1,9.58 / GautSt_9.58:	GOtAAH-_1,9.58 / GOtSt-_9.58:
+   uddhṛtasnehavilapanapiṇyākamathitaprabhṛtīnicāttavīryāṇi nāśnīyāt |	udDRta-sneha-vilapana-piNyAka-maTita-praBRtI-nica-Atta-vIryANi na-aSnIyAt |
+   {VAR_St: -vilayana-}	{VAR_St: -vilayana-}
+   GautAA_1,9.59 / GautSt_9.59: sāyaṃprātas tv annam abhipūjitam anindan	GOtAAH-_1,9.59 / GOtSt-_9.59: sAyaMprAtar tu annam aBipUjitam anindan
+   bhuñjīta |	BuQjIta |
+   GautAA_1,9.60 / GautSt_9.60: na kadācid rātrau nagnaḥ svapet |	GOtAAH-_1,9.60 / GOtSt-_9.60: na kadAcid rAtrO nagnaH svapet |
+   GautAA_1,9.61 / GautSt_9.61: snāyād vā |	GOtAAH-_1,9.61 / GOtSt-_9.61: snAyAt vA |
+   GautAA_1,9.62 / GautSt_9.62: yac cātmavanto vṛddhāḥ	GOtAAH-_1,9.62 / GOtSt_9.62: yat ca-AtmavantaH vRdDAH
+   samyagvinītādambhalobhamohaviyuktā vedavida ācakṣate tat samācaret |	samyak-vinIta-adamBa-loBa-moha-viyuktAH veda-vidaH Acakzate tat samAcaret |
+   GautAA_1,9.63 / GautSt_9.63: yogakṣemārtham īśvaram adhigacchet |	GOtAAH-_1,9.63 / GOtSt-_9.63: yogakzema-arTam ISvaram aDigacCet |
+   GautAA_1,9.64 / GautSt_9.64: nānyam anyatra devagurudhārmikebhyaḥ |	GOtAAH-_1,9.64 / GOtSt_9.64: na-anyam anyatra deva-guru-DArmikeByaH |
+   GautAA_1,9.65 / GautSt_9.65:	GOtAAH-_1,9.65 / GOtSt-_9.65:
+   prabhūtaidhodakayavasakuśamālyopaniṣkramaṇamāryajana bhūyiṣṭham	praBUta-eDa-udaka-yavasa-kuSa-mAlya-upanizkramaNa-m-Arya-jana BUyizWam
+   analasasamṛddhaṃ dhārmikādhiṣṭhitaṃ niketanamāvasituṃ yateta |	analasa-samRdDam DArmika-aDizWitam niketanam-Avasitum yateta |
+   GautAA_1,9.66 / GautSt_9.66: praśastamaṅgalyadevatāyatanacatuṣpadam	GOtAAH-_1,9.66 / GOtSt_9.66: praSasta-maFgalya-devatA-Ayatana-catuzpadam
+   pradakṣiṇam āvarteta |	pradakziNam Avarteta |
+   {VAR_St: -catuṣpathādīn}	{VAR_St: -catuzpaTa-AdIn-}
+   GautAA_1,9.67 / GautSt_9.67: manasā vā tatsamagram ācāram anupālayed	GOtAAH-_1,9.67 / GOtSt_9.67: manasA vA tat-samagram AcAram anupAlayet-
+   āpatkalpaḥ |	Apad-kalpaH |
+   {VAR_St: omitt: tat}	{VAR_St: omitt: tat}
+   GautAA_1,9.68 / GautSt_9.68: satyadharmā |	GOtAAH-_1,9.68 / GOtSt-_9.68: satya-DarmAH |
+   GautAA_1,9.69 / GautSt_9.69: āryavṛttiḥ |	GOtAAH-_1,9.69 / GOtSt-_9.69: Arya-vRttiH |
+   GautAA_1,9.70 / GautSt_9.70: śiṣṭādhyāpakaḥ |	GOtAAH-_1,9.70 / GOtSt-_9.70: Sizwa-aDyApakaH |
+   GautAA_1,9.71 / GautSt_9.71: śaucaśiṣṭaḥ |	GOtAAH-_1,9.71 / GOtSt-_9.71: SOca-SizwaH |
+   GautAA_1,9.72 / GautSt_9.72: śrutinirataḥ syāt |	GOtAAH-_1,9.72 / GOtSt_9.72: Sruti-nirataH syAt |
+   GautAA_1,9.73 / GautSt_9.73: nityam ahiṃsro mṛdur dṛḍhakārī damadānaśīlaḥ	GOtAAH-_1,9.73 / GOtSt_9.73: nityam ahiMsraH mRduH dRXakArI dama-dAna-SIlaH
+   GautAA_1,9.74 / GautSt_9.74: evam ācāro mātāpitarau pūrvāparāṃś ca	GOtAAH-_1,9.74 / GOtSt_9.74: evam AcAraH mAtA-pitarO pUrva-aparAn ca
+   sambandhānduritebhyo mokṣayiṣyan snātakaḥ śaśvadbrahmalokān na cyavate na	sambanDAn-duriteByaH mokzayizyan snAtakaH SaSvat-brahma-lokAt na cyavate na
+   cyavate |	cyavate |
+   {VAR_St: pūrvāparān sambandhān}	{VAR_St: pUrva-aparAn sambanDAn-}
+   [GautAA 2,1 = GautSt X]	[GOtAAH 2,1  GOtSt X]
+   GautAA_2,1.1 / GautSt_10.1: dvijātīnām adhyayanam ijyā dānam |	GOtAAH-_2,1.1 / GOtSt_10.1: dvijAtInAm aDyayanam ijyA dAnam |
+   GautAA_2,1.2 / GautSt_10.2: brāhmanasyādhikāḥ pravacanayājanapratigrahāḥ |	GOtAAH-_2,1.2 / GOtSt_10.2: brAhmanasya-aDikAH pravacana-yAjana-pratigrahAH |
+   GautAA_2,1.3 / GautSt_10.3: pūrveṣu niyamas tu |	GOtAAH-_2,1.3 / GOtSt-_10.3: pUrvezu niyamaH tu |
+   GautAA_2,1.4 / GautSt_10.4: ācāryajñātipriyagurudhanavidyāniyameṣu	GOtAAH-_2,1.4 / GOtSt-_10.4: AcArya-jQAti-priya-guru-Dana-vidyA-niyamezu
+   brahmaṇaḥsaṃpradānam anyatra yathoktāt |	brahmaNaH-saMpradAnam anyatra yaTA-uktAt |
+   GautAA_2,1.5 / GautSt_10.5: kṛṣivāṇijye vāsvayaṃkṛte |	GOtAAH-_2,1.5 / GOtSt_10.5: kRzi-vANijye vA-asvayaMkRte |
+   {VAR_St: ca-}	{VAR_St: ca-}
+   GautAA_2,1.6 / GautSt_10.6: kusīdaṃ ca |	GOtAAH-_2,1.6 / GOtSt_10.6: kusIdam ca |
+   GautAA_2,1.7 / GautSt_10.7: rājño 'dhikaṃ rakṣaṇaṃ sarvabhūtānām |	GOtAAH-_2,1.7 / GOtSt_10.7: rAjQaH aDikam rakzaNam sarva-BUtAnAm |
+   GautAA_2,1.8 / GautSt_10.8: nyāyyadaṇḍatvam |	GOtAAH-_2,1.8 / GOtSt_10.8: nyAyya-daNxa-tvam |
+   GautAA_2,1.9 / GautSt_10.9: bibhṛyād brāhmaṇāñ śrotriyān |	GOtAAH-_2,1.9 / GOtSt_10.9: biBRyAt brAhmaNAn SrotriyAn |
+   GautAA_2,1.10 / GautSt_10.10: nirutsāhāṃś ca brāhmaṇān |	GOtAAH-_2,1.10 / GOtSt_10.10: nirutsAhAn ca brAhmaNAn |
+   {VAR_St: cābrāhma-}	{VAR_St: ca-abrAhma-}
+   GautAA_2,1.11 / GautSt_10.11: akarāṃś ca |	GOtAAH-_2,1.11 / GOtSt_10.11: akarAn ca |
+   GautAA_2,1.12 / GautSt_10.12: upakurvāṇāṃś ca |	GOtAAH-_2,1.12 / GOtSt-_10.12: upakurvANAn ca |
+   GautAA_2,1.13 / GautSt_10.13: yogaś ca vijaye |	GOtAAH-_2,1.13 / GOtSt-_10.13: yogaH ca vijaye |
+   GautAA_2,1.14 / GautSt_10.14: bhaye viśeṣeṇa |	GOtAAH-_2,1.14 / GOtSt_10.14: Baye viSezeNa |
+   GautAA_2,1.15 / GautSt_10.15: caryā ca rathadhanurbhyām |	GOtAAH-_2,1.15 / GOtSt-_10.15: caryA ca raTa-DanurByAm |
+   GautAA_2,1.16 / GautSt_10.16: saṅgrāme saṃsthānam anivṛttiś ca |	GOtAAH-_2,1.16 / GOtSt-_10.16: saFgrAme saMsTAnam anivRttiH ca |
+   GautAA_2,1.17 / GautSt_10.17: na doṣo hiṃsāyām āhave |	GOtAAH-_2,1.17 / GOtSt_10.17: na dozaH hiMsAyAm Ahave |
+   GautAA_2,1.18 / GautSt_10.18:	GOtAAH-_2,1.18 / GOtSt-_10.18:
+   anyatravyaśvasārathyāyudhakṛtāñjaliprakīrṇakeśaparāṅmukhopaviṣṭasthalavṛkṣādhirūḍhadūtagobrāhmaṇavādibhyaḥ	anyatravya-Sva-sAraTya-AyuDa-kRta-aQjali-prakIrNa-keSa-parAFmuKa-upavizwa-sTala-vRkza-aDirUXa-dUta-go-brAhmaNa-vAdiByaH
+   {VAR_St: -vṛkṣārūḍha-}	{VAR_St: -vRkza-ArUXa-}
+   GautAA_2,1.19 / GautSt_10.19: kṣatriyaś ced anyas tam upajīvet tadvṛttyā |	GOtAAH-_2,1.19 / GOtSt_10.19: kzatriyaH ced anyaH tam upajIvet tad-vRttyA |
+   GautAA_2,1.20 / GautSt_10.20: jetā labheta sāṃgrāmikaṃ vittam |	GOtAAH-_2,1.20 / GOtSt_10.20: jetA laBeta sAMgrAmikam vittam |
+   GautAA_2,1.21 / GautSt_10.21: vāhanaṃ tu rājñaḥ |	GOtAAH-_2,1.21 / GOtSt-_10.21: vAhanam tu rAjQaH |
+   GautAA_2,1.22 / GautSt_10.22: uddhāraś cāpṛthagjaye |	GOtAAH-_2,1.22 / GOtSt_10.22: udDAraH ca-apRTak-jaye |
+   {VAR_St: ca pṛthagjaye}	{VAR_St: ca pRTak-jaye}
+   GautAA_2,1.23 / GautSt_10.23: anyat tu yathārhaṃ bhājayed rājā |	GOtAAH-_2,1.23 / GOtSt_10.23: anyat tu yaTArham BAjayet rAjA |
+   GautAA_2,1.24 / GautSt_10.24: rājño balidānaṃ karṣakairdaśamam aṣṭamaṃ	GOtAAH-_2,1.24 / GOtSt_10.24: rAjQaH bali-dAnam karzakEH-daSamam azwamam
+   ṣaṣṭhaṃ vā |	zazWam vA |
+   {VAR_St: rājñe balir dānaṃ}	{VAR_St: rAjQe baliH dAnaM}
+   GautAA_2,1.25 / GautSt_10.25: paśuhiraṇyayor apy eke pañcāśadbhāgaḥ |	GOtAAH-_2,1.25 / GOtSt_10.25: paSu-hiraNyayoH api eke paQcASat-BAgaH |
+   GautAA_2,1.26 / GautSt_10.26: viṃśatibhāgaḥ śulkaḥ paṇye |	GOtAAH-_2,1.26 / GOtSt_10.26: viMSati-BAgaH SulkaH paNye |
+   GautAA_2,1.27 / GautSt_10.27:	GOtAAH-_2,1.27 / GOtSt-_10.27:
+   mūlaphalapuṣpauṣadhamadhumāṃsatṛnendhanānāṃṣaṣṭhaḥ |	mUla-Pala-puzpa-OzaDa-maDu-mAMsa-tRna-inDanAnAMzazWaH |
+   {VAR_St: ṣaṣṭhyaḥ}	{VAR_St: zazWyaH}
+   GautAA_2,1.28 / GautSt_10.28: tadrakṣaṇadharmitvāt |	GOtAAH-_2,1.28 / GOtSt-_10.28: tad-rakzaNa-Darmi-tvAt |
+   GautAA_2,1.29 / GautSt_10.29: teṣu tu nityayuktaḥ syāt |	GOtAAH-_2,1.29 / GOtSt-_10.29: tezu tu nitya-yuktaH syAt |
+   GautAA_2,1.30 / GautSt_10.30: adhikena vṛttiḥ |	GOtAAH-_2,1.30 / GOtSt_10.30: aDikena vRttiH |
+   GautAA_2,1.31 / GautSt_10.31: śilpino māsi māsy ekaikaṃ karma kuryuḥ |	GOtAAH-_2,1.31 / GOtSt-_10.31: SilpinaH mAsi mAsi ekEkam karma kuryuH |
+   GautAA_2,1.32 / GautSt_10.32: etenātmanopajīvino vyākhyātāḥ |	GOtAAH-_2,1.32 / GOtSt_10.32: etena-AtmanA-upajIvinaH vyAKyAtAH |
+   {VAR_St: -ātmanopajīvino}	{VAR_St: -a-AtmanA-upajIvinaH-}
+   GautAA_2,1.33 / GautSt_10.33: naucakrīvantaś ca |	GOtAAH-_2,1.33 / GOtSt_10.33: na-ocakrIvantaH ca |
+   GautAA_2,1.34 / GautSt_10.34: bhaktaṃ tebhyo dadyāt |	GOtAAH-_2,1.34 / GOtSt_10.34: Baktam teByaH dadyAt |
+   GautAA_2,1.35 / GautSt_10.35: paṇyaṃ vaṇigbhir arthāpacayena deyam |	GOtAAH-_2,1.35 / GOtSt_10.35: paNyam vaNigBiH arTa-apacayena deyam |
+   {VAR_St: arghāpa-}	{VAR_St: arGApa-}
+   GautAA_2,1.36 / GautSt_10.36: pranaṣṭam asvāmikam adhigamya rājñe	GOtAAH-_2,1.36 / GOtSt-_10.36: pranazwam asvAmikam aDigamya rAjQe
+   prabrūyuḥ |	prabrUyuH |
+   GautAA_2,1.37 / GautSt_10.37: vikhyāpya saṃvatsaraṃ rājñā rakṣyam |	GOtAAH-_2,1.37 / GOtSt-_10.37: viKyApya saMvatsaram rAjQA rakzyam |
+   GautAA_2,1.38 / GautSt_10.38: ūrdhvam adhigantuś caturthaṃ rājñaḥ śeṣaḥ |	GOtAAH-_2,1.38 / GOtSt_10.38: UrDvam aDigantuH caturTam rAjQaH SezaH |
+   GautAA_2,1.39 / GautSt_10.39: svāmī	GOtAAH-_2,1.39 / GOtSt-_10.39: svAmI
+   rikthakrayasaṃvibhāgaparigrahādhigameṣu |	rikTa-kraya-saMviBAga-parigraha-aDigamezu |
+   GautAA_2,1.40 / GautSt_10.40: brāhmaṇasyādhikaṃ labdham |	GOtAAH-_2,1.40 / GOtSt_10.40: brAhmaNasya-aDikam labDam |
+   GautAA_2,1.41 / GautSt_10.41: kṣatriyasya vijitam |	GOtAAH-_2,1.41 / GOtSt-_10.41: kzatriyasya vijitam |
+   GautAA_2,1.42 / GautSt_10.42: nirviṣṭaṃ vaiśyaśūdrayoḥ |	GOtAAH-_2,1.42 / GOtSt_10.42: nirvizwam vESya-SUdrayoH |
+   GautAA_2,1.43 / GautSt_10.43: nidhyadhigamo rājadhanam |	GOtAAH-_2,1.43 / GOtSt_10.43: niDi-aDigamaH rAja-Danam |
+   GautAA_2,1.44 / GautSt_10.44: brāhmaṇasyābhirūpasya |	GOtAAH-_2,1.44 / GOtSt-_10.44: brAhmaNasya-aBirUpasya |
+   {VAR_St: na brā-}	{VAR_St: na brA-}
+   GautAA_2,1.45 / GautSt_10.45: abrāhmaṇo 'py ākhyātā ṣaṣṭhaṃ labhetety eke	GOtAAH-_2,1.45 / GOtSt-_10.45: abrAhmaNaH api AKyAtA zazWam laBeta-iti eke
+   GautAA_2,1.46 / GautSt_10.46: caurahṛtam apajitya yathāsthānam gamayet |	GOtAAH-_2,1.46 / GOtSt_10.46: cOra-hRtam apajitya yaTAsTAnam gamayet |
+   {VAR_St: avajitya}	{VAR_St: avajitya}
+   GautAA_2,1.47 / GautSt_10.47: kośād vā dadyāt |	GOtAAH-_2,1.47 / GOtSt-_10.47: koSAt vA dadyAt |
+   GautAA_2,1.48 / GautSt_10.48a: rakṣyaṃ bāladhanam ā vyavahāraprāpaṇāt |	GOtAAH-_2,1.48 / GOtSt_10.48a: rakzyam bAla-Danam A vyavahAra-prApaNAt |
+   GautAA_2,1.49 / GautSt_10.48b: samāvṛtter vā |	GOtAAH-_2,1.49 / GOtSt-_10.48b: samAvRtteH vA |
+   GautAA_2,1.50 / GautSt_10.49: vaiśyasyādhikaṃ kṛṣivaṇikpāśupālyakusīdam |	GOtAAH-_2,1.50 / GOtSt-_10.49: vESyasya-aDikam kRzi-vaNij-pASupAlya-kusIdam |
+   GautAA_2,1.51 / GautSt_10.50: śūdraś caturtho varṇa ekajātiḥ |	GOtAAH-_2,1.51 / GOtSt-_10.50: SUdraH caturTaH varNaH eka-jAtiH |
+   GautAA_2,1.52 / GautSt_10.51: tasyāpi satyam akrodhaḥ śaucam |	GOtAAH-_2,1.52 / GOtSt_10.51: tasya-api satyam akroDaH SOcam |
+   GautAA_2,1.53 / GautSt_10.52: ācamanārthe pāṇipādaprakṣālanam evaike |	GOtAAH-_2,1.53 / GOtSt-_10.52: Acamana-arTe pANi-pAda-prakzAlanam eva-eke |
+   {VAR_St: ity eke}	{VAR_St: iti eke}
+   GautAA_2,1.54 / GautSt_10.53: śrāddhakarma |	GOtAAH-_2,1.54 / GOtSt-_10.53: SrAdDa-karma |
+   GautAA_2,1.55 / GautSt_10.54: bhṛtyabharaṇam |	GOtAAH-_2,1.55 / GOtSt_10.54: BRtya-BaraNam |
+   GautAA_2,1.56 / GautSt_10.55: svadāravṛttiḥ |	GOtAAH-_2,1.56 / GOtSt-_10.55: sva-dAra-vRttiH |
+   GautAA_2,1.57 / GautSt_10.56: paricaryā cottareṣām |	GOtAAH-_2,1.57 / GOtSt-_10.56: paricaryA ca-uttarezAm |
+   GautAA_2,1.58 / GautSt_10.57: tebhyo vṛttiṃ lipseta |	GOtAAH-_2,1.58 / GOtSt_10.57: teByaH vRttim lipseta |
+   (GautSt 10.58 see GautAA 2,1.60)	(GOtSt 10.58 see GOtAAH 2,1.60)
+   GautAA_2,1.59 tatra pūrvaṃ pūrvaṃ paricaret |	GOtAAH-_2,1.59 tatra pUrvam pUrvam paricaret |
+   GautAA_2,1.60 / GautSt_10.58: jīrṇāny upānacchatravāsaḥkūrcādīni |	GOtAAH-_2,1.60 / GOtSt_10.58: jIrNAni upAnat-Catra-vAsaH-kUrca-AdIni |
+   {VAR_St: -kūrcāni}	{VAR_St: -kUrcAni}
+   GautAA_2,1.61 / GautSt_10.59: ucchiṣṭāśanam |	GOtAAH-_2,1.61 / GOtSt-_10.59: ucCizwa-aSanam |
+   GautAA_2,1.62 / GautSt_10.60: śilpavṛttiś ca |	GOtAAH-_2,1.62 / GOtSt-_10.60: Silpa-vRttiH ca |
+   GautAA_2,1.63 / GautSt_10.61: yaṃ cāryam āśrayed bhartavyas tena kṣīṇo 'pi	GOtAAH-_2,1.63 / GOtSt_10.61: yam cAryam ASrayet BartavyaH tena kzINaH api
+   {VAR_St: āśrayīta}	{VAR_St: ASrayIta}
+   GautAA_2,1.64 / GautSt_10.62: tena cottaraḥ |	GOtAAH-_2,1.64 / GOtSt_10.62: tena ca-uttaraH |
+   GautAA_2,1.65 / GautSt_10.63: tadartho 'sya nicayaḥ syāt |	GOtAAH-_2,1.65 / GOtSt_10.63: tad-arTaH asya nicayaH syAt |
+   GautAA_2,1.66 / GautSt_10.64: anujñāto 'sya namaskāro mantraḥ |	GOtAAH-_2,1.66 / GOtSt-_10.64: anujQAtaH asya namaskAraH mantraH |
+   GautAA_2,1.67 / GautSt_10.65: pākayajñaiḥ svayaṃ yajetety eke |	GOtAAH-_2,1.67 / GOtSt-_10.65: pAkayajQEH svayam yajeta-iti eke |
+   GautAA_2,1.68 / GautSt_10.66: sarve cottarottaraṃ paricareyuḥ |	GOtAAH-_2,1.68 / GOtSt_10.66: sarve ca-uttarottaram paricareyuH |
+   GautAA_2,1.69 / GautSt_10.67: āryānāryayor vyatikṣepe karmaṇaḥ sāmyaṃ |	GOtAAH-_2,1.69 / GOtSt_10.67: Arya-anAryayoH vyatikzepe karmaNaH sAmyam |
+   {VAR_St: sāmyam}	{VAR_St: sAmyam}
+   [GautAA 2,2 = GautSt XI]	[GOtAAH 2,2  GOtSt XI]
+   GautAA_2,2.1 / GautSt_11.1: rājā sarvasyeṣṭe brāhmanavarjam |	GOtAAH-_2,2.1 / GOtSt_11.1: rAjA sarvasya-izwe brAhmana-varjam |
+   GautAA_2,2.2 / GautSt_11.2: sādhukārī sādhuvādī |	GOtAAH-_2,2.2 / GOtSt-_11.2: sADu-kArI sADu-vAdI |
+   {VAR_St: -rī syāt sā-}	{VAR_St: -rI syAt sA-}
+   GautAA_2,2.3 / GautSt_11.3: trayyām ānvīkṣikyā vābhivinītaḥ |	GOtAAH-_2,2.3 / GOtSt-_11.3: trayyAm AnvIkzikyA vA-aBivinItaH |
+   {VAR_St: -kṣikyāṃ cā-}	{VAR_St: -kzikyAm ca-a-}
+   GautAA_2,2.4 / GautSt_11.4: śucir jitendriyo guṇavatsahāyopāyasaṃpannaḥ |	GOtAAH-_2,2.4 / GOtSt-_11.4: SuciH jita-indriyaH guNavat-sahAya-upAya-saMpannaH |
+   GautAA_2,2.5 / GautSt_11.5: samaḥ prajāsu syāt |	GOtAAH-_2,2.5 / GOtSt_11.5: samaH prajAsu syAt |
+   GautAA_2,2.6 / GautSt_11.6: hitam āsāṃ kurvīta |	GOtAAH-_2,2.6 / GOtSt-_11.6: hitam AsAm kurvIta |
+   {VAR_St: hitaṃ cāsāṃ}	{VAR_St: hitam ca-AsAM}
+   GautAA_2,2.7 / GautSt_11.7: tam uparyāsīnam adhastād upāsīrann	GOtAAH-_2,2.7 / GOtSt_11.7: tam upari-AsInam aDastAt upAsIran=-
+   anyebrāhmaṇebhyaḥ |	anyebrAhmaNeByaH |
+   GautAA_2,2.8 / GautSt_11.8: te 'py enaṃ manyeran |	GOtAAH-_2,2.8 / GOtSt-_11.8: te api enam manyeran |
+   GautAA_2,2.9 / GautSt_11.9: varṇān āśramāṃś ca nyāyato 'bhirakṣet |	GOtAAH-_2,2.9 / GOtSt_11.9: varNAn ASramAn ca nyAyataH aBirakzet |
+   GautAA_2,2.10 / GautSt_11.10: calataś caitān svadharme sthāpayet |	GOtAAH-_2,2.10 / GOtSt_11.10: calataH ca-etAn svaDarme sTApayet |
+   {VAR_St: enān}	{VAR_St: enAn}
+   GautAA_2,2.11 / GautSt_11.11: dharmasya hy aṃśabhāg bhavatīti |	GOtAAH-_2,2.11 / GOtSt-_11.11: Darmasya hi aMSa-BAj Bavati-iti |
+   {VAR_St: vijñāyate}	{VAR_St: vijQAyate}
+   GautAA_2,2.12 / GautSt_11.12: brāhmanaṃ ca	GOtAAH-_2,2.12 / GOtSt_11.12: brAhmanam ca
+   purodadhītavidyābhijanavāgrūpavayaḥśīlasaṃpannaṃ nyāyavṛttaṃ tapasvinam |	purA-udaDIta-vidyA-aBijana-vAc-rUpa-vayaH-SIla-saMpannam nyAya-vRttam tapasvinam |
+   {VAR_St: purodadhīta}(purohita)	{VAR_St: purA-udaDIta}(-purohita)
+   GautAA_2,2.13 / GautSt_11.13: tatprasūtaḥ karmāṇi kurvīta |	GOtAAH-_2,2.13 / GOtSt-_11.13: tad-prasUtaH karmANi kurvIta |
+   GautAA_2,2.14 / GautSt_11.14: brahmaprasūtaṃ hi kṣattram ṛdhyate na	GOtAAH-_2,2.14 / GOtSt_11.14: brahma-prasUtam hi kzattram RDyate na
+   vyathata iti cavijñāyate |	vyaTate iti ca-vijQAyate |
+   {VAR_St: iti vijñāyate}	{VAR_St: iti vijQAyate}
+   GautAA_2,2.15 / GautSt_11.15: yāni ca daivotpātacintakāḥ prabrūyus	GOtAAH-_2,2.15 / GOtSt-_11.15: yAni ca dEva-utpAta-cintakAH prabrUyuH-
+   tānyādriyeta |	tAni-Adriyeta |
+   GautAA_2,2.16 / GautSt_11.16: tadadhīnam api hy eke yogakṣemaṃ pratijānate	GOtAAH-_2,2.16 / GOtSt-_11.16: tad-aDInam api hi eke yogakzemam pratijAnate
+   GautAA_2,2.17 / GautSt_11.17:	GOtAAH-_2,2.17 / GOtSt-_11.17:
+   śāntipuṇyāhasvastyayanāyuṣmanmaṅgalasaṃyuktānyābhyudayikāni	SAnti-puNya-aha-svastyayana-Ayuzmat-maFgala-saMyuktAni-A-aByudayikAni
+   vidveṣaṇasaṃvananābhicāradviṣadvyṛddhiyuktāni caśālāgnau kuryāt |	vidvezaNa-saMvanana-aBicAra-dvizat-vyRdDi-yuktAni caSAla-agnO kuryAt |
+   {VAR_St: āyuṣyamaṅgala-}	{VAR_St: Ayuzi-amaFgala-}
+   GautAA_2,2.18 / GautSt_11.18: yathoktam ṛtvijo 'nyāni |	GOtAAH-_2,2.18 / GOtSt-_11.18: yaTA-uktam RtvijaH anyAni |
+   GautAA_2,2.19 / GautSt_11.19: tasya ca vyavahāro vedo dharmaśāstrāṇy	GOtAAH-_2,2.19 / GOtSt_11.19: tasya ca vyavahAraH vedaH Darma-SAstrANi-
+   aṅgānyupavedāḥ purāṇam |	aFgAni-upavedAH purANam |
+   {VAR_St: omitt: ca; upavedāḥ}	{VAR_St: omitt: ca; upavedAH}
+   GautAA_2,2.20 / GautSt_11.20: deśajātikuladharmāś cāmnāyair aviruddhāḥ	GOtAAH-_2,2.20 / GOtSt_11.20: deSa-jAti-kula-DarmAH ca-AmnAyEH avirudDAH
+   pramāṇam |	pramANam |
+   GautAA_2,2.21 / GautSt_11.21: karṣakavaṇikpaśupālakusīdikāravaḥ sve sve	GOtAAH-_2,2.21 / GOtSt-_11.21: karzaka-vaNij-paSupAla-kusIdi-kA-ravaH sve sve
+   varge |	varge |
+   GautAA_2,2.22 / GautSt_11.22: tebhyo yathādhikāram arthān	GOtAAH-_2,2.22 / GOtSt_11.22: teByaH yaTA-aDikAram arTAn
+   pratyavahṛtyadharmavyavasthā |	pratyavahRtya-Darma-vyavasTA |
+   GautAA_2,2.23 / GautSt_11.23: nyāyādhigame tarko 'bhyupāyaḥ |	GOtAAH-_2,2.23 / GOtSt-_11.23: nyAya-aDigame tarkaH aByupAyaH |
+   GautAA_2,2.24 / GautSt_11.24: tenābhyūhya yathāsthānaṃ gamayet |	GOtAAH-_2,2.24 / GOtSt_11.24: tena-aByUhya yaTAsTAnam gamayet |
+   GautAA_2,2.25 / GautSt_11.25: vipratipattau traividyavṛddhebhyaḥ	GOtAAH-_2,2.25 / GOtSt_11.25: vipratipattO trEvidya-vRdDeByaH
+   pratyavahṛtyaniṣṭhāṃ gamayet |	pratyavahRtya-nizWAm gamayet |
+   GautAA_2,2.26 / GautSt_11.26: tathā hy asya niḥśreyasaṃ bhavati |	GOtAAH-_2,2.26 / GOtSt_11.26: taTA hi asya niHSreyasam Bavati |
+   GautAA_2,2.27 / GautSt_11.27: brahma kṣattreṇa saṃpṛktaṃ	GOtAAH-_2,2.27 / GOtSt_11.27: brahma kzattreNa saMpRktam
+   devapitṛmanuṣyāndhārayatīti vijñāyate |	deva-pitR-manuzyAn-DArayati-iti vijQAyate |
+   {VAR_St: pṛktaṃ}	{VAR_St: pRktaM}
+   GautAA_2,2.28 / GautSt_11.28: daṇḍo damanād ity āhus tenādāntān damayet |	GOtAAH-_2,2.28 / GOtSt-_11.28: daNxaH damanAt iti AhuH tena-AdAntAn damayet |
+   GautAA_2,2.29a / GautSt_11.29a: varṇāśramāḥ svasvadharmaniṣṭhāḥ pretya	GOtAAH-_2,2.29aH / GOtSt_11.29a: varNa-ASramAH sva-svaDarma-nizWAH pretya
+   karmaphalamanubhūya tataḥ śeṣena	karma-Palam-anuBUya tatas Sezena
+   viśiṣṭadeśajātikularūpāyuḥśrutacitravittasukhamedhaso |	viSizwa-deSa-jAti-kula-rUpa-AyuH-Sruta-citra-vitta-suKa-meDasaH |
+   {VAR_St: varṇā āśramāś ca svadharma-;-śrutavṛtta-}	{VAR_St: varNAH ASramAH ca svaDarma--;--Sruta-vRtta--}
+   GautAA_2,2.29b / GautSt_11.29b: janma pratipadyante |	GOtAAH-_2,2.29B / GOtSt_11.29b: janma pratipadyante |
+   {VAR_St: prapadyante}	{VAR_St: prapadyante}
+   GautAA_2,2.30 / GautSt_11.30: viṣvañco viparītā naśyanti |	GOtAAH-_2,2.30 / GOtSt_11.30: vizvaQcaH viparItAH naSyanti |
+   GautAA_2,2.31 / GautSt_11.31: tān ācāryopadeśo daṇḍaś ca pālayate |	GOtAAH-_2,2.31 / GOtSt_11.31: tAn AcArya-upadeSaH daNxaH ca pAlayate |
+   GautAA_2,2.32 / GautSt_11.32: tasmād rājācāryāv anindyāv anindyau |	GOtAAH-_2,2.32 / GOtSt-_11.32: tasmAt rAja-AcAryO anindyO anindyO |
+   [GautAA 2,3 = GautSt XII]	[GOtAAH 2,3  GOtSt XII]
+   GautAA_2,3.1 / GautSt_12.1: śūdro dvijātīn abhisaṃdhāyābhihatya	GOtAAH-_2,3.1 / GOtSt-_12.1: SUdraH dvijAtIn aBisaMDAya-aBihatya
+   cavāgdaṇḍapāruṣyābhyām aṅgamocyo yenopahanyāt |	ca-vAgdaNxa-pAruzyAByAm aFgamocyaH yena-upahanyAt |
+   {VAR_St: atisaṃdhāyābhihatya vāg-;aṅgaṃ mocyo}	{VAR_St: atisaMDAya-aBihatya vAc--;aFgam mocyaH-}
+   GautAA_2,3.2 / GautSt_12.2: āryastryabhigamane liṅgoddhāraḥ svaharaṇaṃ ca	GOtAAH-_2,3.2 / GOtSt-_12.2: Arya-strI-aBigamane liFga-udDAraH sva-haraNam ca
+   {VAR_St: sarvasvaharaṇaṃ ca}	{VAR_St: sarva-sva-haraNam ca}
+   GautAA_2,3.3 / GautSt_12.3: goptā ced vadho 'dhikaḥ |	GOtAAH-_2,3.3 / GOtSt-_12.3: goptA ced vaDaH aDikaH |
+   GautAA_2,3.4a / GautSt_12.4: atha hāsya vedam upaśṛṇvatas	GOtAAH-_2,3.4aH / GOtSt_12.4: aTa ha-asya vedam upaSRNvatas
+   trapujatubhyāṃśrotrapratipūraṇam |	trapu-jatuByAMSrotra-pratipUraNam |
+   GautAA_2,3.4b / GautSt_12.5: udāharaṇe jihvācchedo |	GOtAAH-_2,3.4B / GOtSt_12.5: udAharaNe jihvAcCedaH |
+   GautAA_2,3.4c / GautSt_12.6: dhāraṇeśarīrabhedaḥ |	GOtAAH-_2,3.4t / GOtSt-_12.6: DAraNeSarIra-BedaH |
+   GautAA_2,3.5 / GautSt_12.7: āsanaśayanavākpathiṣu samaprepsur daṇḍyaḥ |	GOtAAH-_2,3.5 / GOtSt-_12.7: Asana-Sayana-vAc-paTizu sama-prepsuH daNxyaH |
+   GautAA_2,3.6 / GautSt_12.8: śataṃ kṣatriyo brāhmaṇākrośe |	GOtAAH-_2,3.6 / GOtSt-_12.8: Satam kzatriyaH brAhmaNa-AkroSe |
+   - / GautSt_12.9: daṇḍapāruṣye dviguṇam |	 / GOtSt_12.9: daNxa-pAruzye dviguNam |
+   GautAA_2,3.7 / GautSt_12.10: adhyardhaṃ vaiśyaḥ |	GOtAAH-_2,3.7 / GOtSt_12.10: aDyarDam vESyaH |
+   GautAA_2,3.8 / GautSt_12.11: brāhmaṇas tu kṣatriye pañcāśat |	GOtAAH-_2,3.8 / GOtSt_12.11: brAhmaNaH tu kzatriye paQcASat |
+   GautAA_2,3.9 / GautSt_12.12: tadardhaṃ vaiśye |	GOtAAH-_2,3.9 / GOtSt-_12.12: tad-arDam vESye |
+   GautAA_2,3.10 / GautSt_12.13: na śūdre kiṃcit |	GOtAAH-_2,3.10 / GOtSt_12.13: na SUdre kiMcid |
+   GautAA_2,3.11 / GautSt_12.14: brāhmaṇarājanyavat kṣatriyavaiśyau |	GOtAAH-_2,3.11 / GOtSt_12.14: brAhmaNa-rAjanya-vat kzatriya-vESyO |
+   GautAA_2,3.12 / GautSt_12.15: aṣṭāpādyaṃ steyakilbiṣaṃ śūdrasya |	GOtAAH-_2,3.12 / GOtSt_12.15: azwApAdyam steya-kilbizam SUdrasya |
+   GautAA_2,3.13 / GautSt_12.16: dviguṇottarāṇītareṣāṃ prativarṇam |	GOtAAH-_2,3.13 / GOtSt_12.16: dviguNa-uttarANi-itarezAm prativarNam |
+   GautAA_2,3.14 / GautSt_12.17: viduṣo 'tikrame daṇḍabhūyastvam |	GOtAAH-_2,3.14 / GOtSt_12.17: viduzaH atikrame daNxa-BUyaH-tvam |
+   GautAA_2,3.15 / GautSt_12.18: phalaharitadhānyaśākādāne pañcakṛṣṇalam	GOtAAH-_2,3.15 / GOtSt-_12.18: Pala-harita-DAnya-SAka-AdAne paQca-kRzNalam
+   alpam |	alpam |
+   {VAR_St: alpe}	{VAR_St: alpe}
+   GautAA_2,3.16 / GautSt_12.19: paśupīḍite svāmidoṣaḥ |	GOtAAH-_2,3.16 / GOtSt_12.19: paSu-pIxite svAmi-dozaH |
+   GautAA_2,3.17 / GautSt_12.20: pālasaṃyukte tu tasmin |	GOtAAH-_2,3.17 / GOtSt_12.20: pAla-saMyukte tu tasmin |
+   GautAA_2,3.18 / GautSt_12.21: pathi kṣetre 'nāvṛte pālakṣetrikayoḥ |	GOtAAH-_2,3.18 / GOtSt_12.21: paTi kzetre anAvRte pAla-kzetrikayoH |
+   GautAA_2,3.19 / GautSt_12.22: pañca māṣā gavi |	GOtAAH-_2,3.19 / GOtSt_12.22: paQca mAzAH gavi |
+   GautAA_2,3.20 / GautSt_12.23: ṣaḍ uṣṭrakhare |	GOtAAH-_2,3.20 / GOtSt-_12.23: zaw uzwra-Kare |
+   GautAA_2,3.21 / GautSt_12.24: aśvamahiṣyor daśa |	GOtAAH-_2,3.21 / GOtSt_12.24: aSva-mahizyoH daSa |
+   {VAR_St: mahiṣayor}	{VAR_St: mahizayoH-}
+   GautAA_2,3.22 / GautSt_12.25: ajāviṣu dvau dvau |	GOtAAH-_2,3.22 / GOtSt-_12.25: ajAvizu dvO dvO |
+   GautAA_2,3.23 / GautSt_12.26: sarvavināśe śadaḥ |	GOtAAH-_2,3.23 / GOtSt-_12.26: sarva-vinASe SadaH |
+   GautAA_2,3.24 / GautSt_12.27: śiṣṭākaraṇe pratiṣiddhasevāyāṃ ca	GOtAAH-_2,3.24 / GOtSt-_12.27: Sizwa-akaraNe pratizidDa-sevAyAm ca
+   nityaṃcailapiṇḍād ūrdhvaṃ svaharaṇam |	nityaMcEla-piNxAt UrDvam sva-haraNam |
+   {VAR_St: cela}	{VAR_St: cela}
+   GautAA_2,3.25 / GautSt_12.28: go'gnyarthe tṛṇamedhān vīrudvanaspatīnāṃ	GOtAAH-_2,3.25 / GOtSt-_12.28: go-agni-arTe tRNameDAn vIruD-vanaspatInAm
+   capuṣpāṇi svavad ādadīta phalāni cāparivṛtānām |	capuzpANi sva-vat AdadIta PalAni ca-aparivRtAnAm |
+   GautAA_2,3.26 / GautSt_12.29: kusīdavṛddhir dharmyā viṃśatiḥ pañcamāṣikī	GOtAAH-_2,3.26 / GOtSt-_12.29: kusIda-vRdDiH DarmyA viMSatiH paQcamAzikI
+   māsam |	mAsam |
+   GautAA_2,3.27 / GautSt_12.30: nātisāṃvatsarīm eke |	GOtAAH-_2,3.27 / GOtSt_12.30: na-atisAMvatsarIm eke |
+   GautAA_2,3.28 / GautSt_12.31: cirasthāne dvaiguṇyaṃ prayogasya |	GOtAAH-_2,3.28 / GOtSt_12.31: cira-sTAne dvEguNyam prayogasya |
+   GautAA_2,3.29 / GautSt_12.32: bhuktādhir na vardhate |	GOtAAH-_2,3.29 / GOtSt_12.32: Bukta-ADiH na varDate |
+   GautAA_2,3.30 / GautSt_12.33: ditsato 'varuddhasya ca |	GOtAAH-_2,3.30 / GOtSt-_12.33: ditsataH avarudDasya ca |
+   GautAA_2,3.31 / GautSt_12.34: cakrakālavṛddhiḥ |	GOtAAH-_2,3.31 / GOtSt_12.34: cakra-kAla-vRdDiH |
+   GautAA_2,3.32 / GautSt_12.35: kāritākāyikāśikhādhibhogāś ca |	GOtAAH-_2,3.32 / GOtSt_12.35: kAritA-kAyikA-SiKA-aDiBogAH ca |
+   GautAA_2,3.33 / GautSt_12.36: kusīdaṃ paśūpajalomakṣetraśadavāhyeṣu	GOtAAH-_2,3.33 / GOtSt_12.36: kusIdam paSu-upaja-loma-kzetra-Sada-vAhyezu
+   nātipañcaguṇam |	na-ati-paQcaguNam |
+   GautAA_2,3.34 / GautSt_12.37: ajaḍāpaugaṇḍadhanaṃ daśavarṣabhuktaṃ paraiḥ	GOtAAH-_2,3.34 / GOtSt_12.37: ajaxa-apOgaNxa-Danam daSa-varza-Buktam parEH
+   saṃnidhaubhoktuḥ |	saMniDOBoktuH |
+   {VAR_St: -pogaṇḍa-}	{VAR_St: -pogaNxa-}
+   GautAA_2,3.35 / GautSt_12.38: na śrotriyapravrajitarājapurṣaiḥ |	GOtAAH-_2,3.35 / GOtSt_12.38: na Srotriya-pravrajita-rAja-purzEH |
+   {VAR_St: -rājanya-}	{VAR_St: -rAjanya-}
+   GautAA_2,3.36 / GautSt_12.39: paśubhūmistrīṇām anatibhogaḥ |	GOtAAH-_2,3.36 / GOtSt_12.39: paSu-BUmi-strINAm anatiBogaH |
+   GautAA_2,3.37 / GautSt_12.40: rikthabhāja ṛṇaṃ pratikuryuḥ |	GOtAAH-_2,3.37 / GOtSt_12.40: rikTa-BAjaH RNam pratikuryuH |
+   GautAA_2,3.38 / GautSt_12.41: prātibhāvyavaṇikśulkamadyadyūtadaṇḍāḥ	GOtAAH-_2,3.38 / GOtSt_12.41: prAtiBAvya-vaNij-Sulka-madya-dyUta-daNxAH
+   putrānnābhyābhaveyuḥ |	putrAn-na-aByABaveyuH |
+   {VAR_St: -daṇḍā na putrān adhyābhaveyuḥ}	{VAR_St: -daNxA na putrAn aDyABaveyuH}
+   GautAA_2,3.39 / GautSt_12.42: nidhyanvādhiyācitāvakrītādhayo naṣṭāh	GOtAAH-_2,3.39 / GOtSt_12.42: niDi-anvADi-yAcita-avakrIta-ADayaH nazwa-ah
+   sarvānaninditān puruṣāparādhena |	sarvAn-aninditAn puruza-aparADena |
+   {VAR_St: aninditānapuruṣa-}	{VAR_St: aninditAn-apuruza-}
+   GautAA_2,3.40 / GautSt_12.43: stenaḥ prakīrṇakeṣo musalī rājānam	GOtAAH-_2,3.40 / GOtSt_12.43: stenaH prakIrNa-kezaH musalI rAjAnam
+   iyātkarmācakṣānaḥ |	iyAt-karma-AcakzAnaH |
+   GautAA_2,3.41 / GautSt_12.44: pūto vadhamokṣābhyām |	GOtAAH-_2,3.41 / GOtSt-_12.44: pUtaH vaDa-mokzAByAm |
+   GautAA_2,3.42 / GautSt_12.45: aghnann enasvī rājā |	GOtAAH-_2,3.42 / GOtSt-_12.45: aGnan enasvI rAjA |
+   GautAA_2,3.43 / GautSt_12.46: na śārīro brāhmaṇadaṇḍaḥ |	GOtAAH-_2,3.43 / GOtSt-_12.46: na SArIraH brAhmaNa-daNxaH |
+   GautAA_2,3.44 / GautSt_12.47: karmaviyogavikhyāpanavivāsanāṅkakaraṇāni |	GOtAAH-_2,3.44 / GOtSt-_12.47: karma-viyoga-viKyApana-vivAsana-aFka-karaNAni |
+   GautAA_2,3.45 / GautSt_12.48: apravṛttau prāyaścittī saḥ |	GOtAAH-_2,3.45 / GOtSt-_12.48: apravRttO prAyaScittI saH |
+   {VAR_St: avṛttau}	{VAR_St: avRttO}
+   GautAA_2,3.46 / GautSt_12.49: corasamaḥ sacivo matipūrve |	GOtAAH-_2,3.46 / GOtSt_12.49: cora-samaH sacivaH mati-pUrve |
+   GautAA_2,3.47 / GautSt_12.50: pratigrahītāpy adharmasaṃyukte |	GOtAAH-_2,3.47 / GOtSt-_12.50: pratigrahItA-api aDarma-saMyukte |
+   GautAA_2,3.48 / GautSt_12.51: puruṣaśaktyaparādhānubandhavijñānād	GOtAAH-_2,3.48 / GOtSt-_12.51: puruza-Sakti-aparADa-anubanDa-vijQAnAt-
+   daṇḍaniyogaḥ |	daNxa-niyogaH |
+   GautAA_2,3.49 / GautSt_12.52: anujñānaṃ vā	GOtAAH-_2,3.49 / GOtSt_12.52: anujQAnam vA
+   vedavitsamavāyavacanādvedavitsamavāyavacanāt |	veda-vid-samavAya-vacanAt-veda-vid-samavAya-vacanAt |
+   [GautAA 2,4 = GautSt XIII]	[GOtAAH 2,4  GOtSt XIII]
+   GautAA_2,4.1 / GautSt_13.1: vipratipattau sākṣinimittā satyavyavasthā |	GOtAAH-_2,4.1 / GOtSt-_13.1: vipratipattO sAkzi-nimittA satya-vyavasTA |
+   GautAA_2,4.2 / GautSt_13.2: bahavaḥ syur aninditāḥ svakarmasu prātyayikā	GOtAAH-_2,4.2 / GOtSt_13.2: bahavaH syuH aninditAH sva-karmasu prAtyayikA
+   rājñāṃniṣprītyanabhitāpāś cānyatarasmin |	rAjQAMnizprIti-anaBitApAH ca-anyatarasmin |
+   {VAR_St: rājñā niṣ-}	{VAR_St: rAjQA niz-}
+   GautAA_2,4.3 / GautSt_13.3: api śūdrāḥ |	GOtAAH-_2,4.3 / GOtSt_13.3: api SUdrAH |
+   GautAA_2,4.4 / GautSt_13.4: brāhmaṇas tv abrāhmaṇavacanād anavarodhyo	GOtAAH-_2,4.4 / GOtSt_13.4: brAhmaNaH tu abrAhmaNa-vacanAt anavaroDyaH-
+   'nibaddhaścet |	anibadDaH-ced |
+   GautAA_2,4.5 / GautSt_13.5: nāsamavetāpṛṣṭāḥ prabrūyuḥ |	GOtAAH-_2,4.5 / GOtSt_13.5: na-asamaveta-ApRzwAH prabrUyuH |
+   {VAR_St: -tā apṛṣṭāḥ}	{VAR_St: -tAH apRzwAH}
+   GautAA_2,4.6 / GautSt_13.6: avacane 'nyathāvacane ca doṣiṇaḥ(doṣa-) syuḥ |	GOtAAH-_2,4.6 / GOtSt_13.6: avacane anyaTA-vacane ca doziNaH(doza-) syuH |
+   {VAR_St: avacaneca doṣiṇaḥ}	{VAR_St: avacaneca doziNaH}
+   GautAA_2,4.7 / GautSt_13.7: svargaḥ satyavacane viparyaye narakaḥ |	GOtAAH-_2,4.7 / GOtSt-_13.7: svargaH satya-vacane viparyaye narakaH |
+   GautAA_2,4.8 / GautSt_13.8: anibaddhair api vaktavyam |	GOtAAH-_2,4.8 / GOtSt_13.8: anibadDEH api vaktavyam |
+   GautAA_2,4.9 / GautSt_13.9: na pīḍākṛte nibandhaḥ |	GOtAAH-_2,4.9 / GOtSt_13.9: na pIxA-kRte nibanDaH |
+   GautAA_2,4.10 / GautSt_13.10: pramattokte ca |	GOtAAH-_2,4.10 / GOtSt-_13.10: pramatta-ukte ca |
+   {VAR_St: pramāda-}	{VAR_St: pramAda-}
+   GautAA_2,4.11 / GautSt_13.11: sākṣisabhyarājakartṛṣu doṣo	GOtAAH-_2,4.11 / GOtSt-_13.11: sAkzi-saBya-rAja-kartRzu dozaH-
+   dharmatantrapīḍāyām |	Darma-tantra-pIxAyAm |
+   GautAA_2,4.12 / GautSt_13.12: śapathenaike satyakarma |	GOtAAH-_2,4.12 / GOtSt-_13.12: SapaTena-eke satyakarma |
+   GautAA_2,4.13 / GautSt_13.13: taddevarājabrāhmaṇasaṃsadi syād abrāhmaṇānām	GOtAAH-_2,4.13 / GOtSt-_13.13: tad-devarAja-brAhmaNa-saMsadi syAt abrAhmaNAnAm
+   GautAA_2,4.14 / GautSt_13.14: kṣudrapaśvanṛte sākṣī daśa hanti |	GOtAAH-_2,4.14 / GOtSt-_13.14: kzudra-paSu-anRte sAkzI daSa hanti |
+   GautAA_2,4.15 / GautSt_13.15: gośvapuruṣabhūmiṣu daśaguṇottarān |	GOtAAH-_2,4.15 / GOtSt-_13.15: go-Sva-puruza-BUmizu daSaguNa-uttarAn |
+   {VAR_St: go 'śva-}	{VAR_St: gaH aSva-}
+   GautAA_2,4.16 / GautSt_13.16: sarvaṃ vā bhūmau |	GOtAAH-_2,4.16 / GOtSt-_13.16: sarvam vA BUmO |
+   GautAA_2,4.17 / GautSt_13.17: haraṇe narakaḥ |	GOtAAH-_2,4.17 / GOtSt-_13.17: haraNe narakaH |
+   GautAA_2,4.18 / GautSt_13.18: bhūmivad apsu |	GOtAAH-_2,4.18 / GOtSt-_13.18: BUmi-vat apsu |
+   GautAA_2,4.19 / GautSt_13.19: maithunasaṃyoge ca |	GOtAAH-_2,4.19 / GOtSt_13.19: mETuna-saMyoge ca |
+   GautAA_2,4.20 / GautSt_13.20: paśuvan madhusarpiṣoḥ |	GOtAAH-_2,4.20 / GOtSt-_13.20: paSu-vat maDu-sarpizoH |
+   GautAA_2,4.21 / GautSt_13.21: govad vastrahiraṇyadhānyabrahmasu |	GOtAAH-_2,4.21 / GOtSt-_13.21: go-vat vastra-hiraNya-DAnya-brahmasu |
+   GautAA_2,4.22 / GautSt_13.22: yāneṣu aśvavat |	GOtAAH-_2,4.22 / GOtSt_13.22: yAnezu aSva-vat |
+   GautAA_2,4.23 / GautSt_13.23: mithyāvacane yāpyo daṇḍyaś ca sākṣī |	GOtAAH-_2,4.23 / GOtSt_13.23: miTyA-vacane yApyaH daNxyaH ca sAkzI |
+   GautAA_2,4.24 / GautSt_13.24: nānṛtavacane doṣo jīvanaṃ cet tadadhīnam |	GOtAAH-_2,4.24 / GOtSt_13.24: na-anRta-vacane dozaH jIvanam ced tad-aDInam |
+   GautAA_2,4.25 / GautSt_13.25: na tu pāpīyaso jīvanam |	GOtAAH-_2,4.25 / GOtSt_13.25: na tu pApIyasaH jIvanam |
+   GautAA_2,4.26 / GautSt_13.26: rājā prāḍvivāko brāhmaṇo vā śāstravit |	GOtAAH-_2,4.26 / GOtSt_13.26: rAjA prAxvivAkaH brAhmaNaH vA SAstra-vid |
+   GautAA_2,4.27 / GautSt_13.27: prāḍvivākam adhyābhavet |	GOtAAH-_2,4.27 / GOtSt-_13.27: prAxvivAkam aDyABavet |
+   GautAA_2,4.28 / GautSt_13.28: saṃvatsaraṃ pratīkṣetāpratibhāyām |	GOtAAH-_2,4.28 / GOtSt-_13.28: saMvatsaram pratIkzeta-apratiBAyAm |
+   GautAA_2,4.29 / GautSt_13.29: dhenvanaḍutstrīprajananasaṃyuṃkte caśīghram	GOtAAH-_2,4.29 / GOtSt-_13.29: Denu-anaxut-strI-prajanana-saMyuMkte caSIGram
+   GautAA_2,4.30 / GautSt_13.30: ātyayike ca |	GOtAAH-_2,4.30 / GOtSt-_13.30: Atyayike ca |
+   GautAA_2,4.31 / GautSt_13.31: sarvadharmebhyo garīyaḥ prāḍvivāke	GOtAAH-_2,4.31 / GOtSt-_13.31: sarva-DarmeByaH garIyaH prAxvivAke
+   satyavacanaṃsatyavacanam |	satya-vacanaMsatya-vacanam |
+   [GautAA 2,5 = GautSt XIV]	[GOtAAH 2,5  GOtSt XIV]
+   GautAA_2,5.1 / GautSt_14.1: śāvam āśaucaṃ daśarātram	GOtAAH-_2,5.1 / GOtSt-_14.1: SAvam ASOcam daSa-rAtram
+   anṛtvig(ṛtvij)dīkṣitabrahmacāriṇāṃ sapiṇḍānām |	anRtvij-(Rtvij)-dIkzita-brahmacAriNAm sapiNxAnAm |
+   GautAA_2,5.2 / GautSt_14.2: ekādaśarātraṃ kṣatriyasya |	GOtAAH-_2,5.2 / GOtSt_14.2: ekAdaSa-rAtram kzatriyasya |
+   GautAA_2,5.4a / GautSt_14.3: dvādaśarātraṃ vaiśyasya |	GOtAAH-_2,5.4aH / GOtSt_14.3: dvAdaSa-rAtram vESyasya |
+   GautAA_2,5.4b / GautSt_14.4: ardhamāsam eke |	GOtAAH-_2,5.4B / GOtSt_14.4: arDa-mAsam eke |
+   GautAA_2,5.4 / GautSt_14.5: māsam śūdrasya |	GOtAAH-_2,5.4 / GOtSt_14.5: mAsam SUdrasya |
+   GautAA_2,5.5 / GautSt_14.6: tac ced antaḥ punar āpatec cheṣeṇa śudhyeran |	GOtAAH-_2,5.5 / GOtSt-_14.6: tat ced antar punar Apatet SezeNa SuDyeran |
+   GautAA_2,5.6 / GautSt_14.7: rātriśeṣe dvābhyām |	GOtAAH-_2,5.6 / GOtSt_14.7: rAtri-Seze dvAByAm |
+   GautAA_2,5.7 / GautSt_14.8: prabhāte tisṛbhiḥ |	GOtAAH-_2,5.7 / GOtSt-_14.8: praBAte tisRBiH |
+   GautAA_2,5.8 / GautSt_14.9: gobrāhmaṇahatānām anvakṣam |	GOtAAH-_2,5.8 / GOtSt-_14.9: go-brAhmaNa-hatAnAm anvakzam |
+   GautAA_2,5.9 / GautSt_14.10: rājakrodhāc ca |	GOtAAH-_2,5.9 / GOtSt-_14.10: rAja-kroDAt ca |
+   GautAA_2,5.10 / GautSt_14.11: yuddhe |	GOtAAH-_2,5.10 / GOtSt_14.11: yudDe |
+   GautAA_2,5.11 / GautSt_14.12:	GOtAAH-_2,5.11 / GOtSt-_14.12:
+   prāyānāśakaśastrāgniviṣodakodbandhanaprapatanaiś cecchatām |	prAyAna-aSaka-Sastra-agni-viza-udaka-udbanDana-prapatanEH ca-icCatAm |
+   GautAA_2,5.12 / GautSt_14.13: piṇḍanivṛttiḥ saptame pañcame vā |	GOtAAH-_2,5.12 / GOtSt-_14.13: piNxa-nivRttiH saptame paQcame vA |
+   GautAA_2,5.13 / GautSt_14.14: janane 'py evam |	GOtAAH-_2,5.13 / GOtSt-_14.14: janane api evam |
+   GautAA_2,5.14a / GautSt_14.15: mātāpitros(pitṛ) tat |	GOtAAH-_2,5.14aH / GOtSt-_14.15: mAtA-pitra-Us(pitR) tat |
+   GautAA_2,5.14b / GautSt_14.16: mātur vā |	GOtAAH-_2,5.14B / GOtSt_14.16: mAtuH vA |
+   GautAA_2,5.15 / GautSt_14.17: garbhamāsasamārātrīḥ sraṃsane garbhasya |	GOtAAH-_2,5.15 / GOtSt_14.17: garBa-mAsa-samArAtrIH sraMsane garBasya |
+   GautAA_2,5.16 / GautSt_14.18: tryahaṃ vā |	GOtAAH-_2,5.16 / GOtSt-_14.18: tri-aham vA |
+   GautAA_2,5.17 / GautSt_14.19: śrutvā cordhvaṃ daśamyāḥ pakṣiṇīm |	GOtAAH-_2,5.17 / GOtSt-_14.19: SrutvA ca-UrDvam daSamyAH pakziNIm |
+   GautAA_2,5.18 / GautSt_14.20: asapiṇḍe yonisaṃbandhe sahādhyāyini ca |	GOtAAH-_2,5.18 / GOtSt_14.20: asapiNxe yoni-saMbanDe sahADyAyini ca |
+   GautAA_2,5.19 / GautSt_14.21: sabrahmacāriṇy ekāham |	GOtAAH-_2,5.19 / GOtSt-_14.21: sabrahmacAriNi eka-aham |
+   GautAA_2,5.20 / GautSt_14.22: śrotriye copasaṃpanne |	GOtAAH-_2,5.20 / GOtSt_14.22: Srotriye ca-upasaMpanne |
+   GautAA_2,5.21 / GautSt_14.23: pretopasparśane daśarātram āśaucam	GOtAAH-_2,5.21 / GOtSt_14.23: preta-upasparSane daSa-rAtram ASOcam
+   abhisaṃdhāya cet |	aBisaMDAya ced |
+   GautAA_2,5.22 / GautSt_14.24: uktaṃ vaiśyaśūdrayoḥ |	GOtAAH-_2,5.22 / GOtSt-_14.24: uktam vESya-SUdrayoH |
+   GautAA_2,5.23 / GautSt_14.25: ārtavīr vā |	GOtAAH-_2,5.23 / GOtSt_14.25: ArtavIH vA |
+   GautAA_2,5.24 / GautSt_14.26: pūrvayoś ca |	GOtAAH-_2,5.24 / GOtSt-_14.26: pUrvayoH ca |
+   GautAA_2,5.25 / GautSt_14.27: tryahaṃ vā |	GOtAAH-_2,5.25 / GOtSt-_14.27: tri-aham vA |
+   GautAA_2,5.26 / GautSt_14.28: ācāryatatputrastrīyājyaśiṣyeṣu caivam |	GOtAAH-_2,5.26 / GOtSt_14.28: AcArya-tad-putra-strI-yAjya-Sizyezu ca-evam |
+   GautAA_2,5.27 / GautSt_14.29: avaraś ced varṇaḥ pūrvavarṇam upaspṛśet	GOtAAH-_2,5.27 / GOtSt_14.29: avaraH ced varNaH pUrva-varNam upaspRSet-
+   pūrvovāvaraṃ tatra śavoktam āśaucam |	pUrvovAvaram tatra Sava-uktam ASOcam |
+   {VAR_St: pūrvaṃ varṇam}	{VAR_St: pUrvam varNam}
+   GautAA_2,5.28 / GautSt_14.30:	GOtAAH-_2,5.28 / GOtSt-_14.30:
+   patitacaṇḍālasūtikodakyāśavaspṛṣṭitatspṛṣṭyupasparśanesacailodakopasparśanāc	patita-caNxAla-sUtikA-udakyA-Sava-spRzwi-tad-spRzwi-upasparSa-nesa-cElA-udaka-upasparSanAt-
+   chudhyet |	CuDyet |
+   {VAR_St: sacela-}	{VAR_St: sa-cela-}
+   GautAA_2,5.29 / GautSt_14.31: śavānugamane ca |	GOtAAH-_2,5.29 / GOtSt-_14.31: Sava-anugamane ca |
+   GautAA_2,5.30 / GautSt_14.32: śunaś ca |	GOtAAH-_2,5.30 / GOtSt_14.32: SunaH ca |
+   GautAA_2,5.31 / GautSt_14.32: yad upahanyād ity eke |	GOtAAH-_2,5.31 / GOtSt-_14.32: yat upahanyAt iti eke |
+   GautAA_2,5.32 / GautSt_14.34: udakadānaṃ sapiṇḍaiḥ kṛtacūḍasya |	GOtAAH-_2,5.32 / GOtSt-_14.34: udaka-dAnam sapiNxEH kRta-cUxasya |
+   {VAR_St: kṛtajaṭasya}	{VAR_St: kRtajawasya}
+   GautAA_2,5.33 / GautSt_14.35: tatstrīṇāṃ ca |	GOtAAH-_2,5.33 / GOtSt-_14.35: tad-strINAm ca |
+   GautAA_2,5.34 / GautSt_14.36: eke prattānām |	GOtAAH-_2,5.34 / GOtSt-_14.36: eke prattAnAm |
+   GautAA_2,5.35 / GautSt_14.37: adhaḥśayyāsanino brahmacāriṇaḥ sarve |	GOtAAH-_2,5.35 / GOtSt_14.37: aDas-SayyA-AsaninaH brahmacAriNaH sarve |
+   GautAA_2,5.36 / GautSt_14.38: na mārjayīran |	GOtAAH-_2,5.36 / GOtSt-_14.38: na mArjayIran |
+   GautAA_2,5.37 / GautSt_14.39: na māṃsaṃ bhakṣayeyur ā pradānāt |	GOtAAH-_2,5.37 / GOtSt-_14.39: na mAMsam BakzayeyuH A pradAnAt |
+   GautAA_2,5.38 / GautSt_14.40: prathamatṛtīyasaptamanavameṣūdakakriyā |	GOtAAH-_2,5.38 / GOtSt-_14.40: praTama-tRtIya-saptamanavamezu-udaka-kriyA |
+   {VAR_St: tṛtīyapañcama-}	{VAR_St: tRtIya-paQcama-}
+   GautAA_2,5.39 / GautSt_14.41: vāsasāṃ ca tyāgaḥ |	GOtAAH-_2,5.39 / GOtSt_14.41: vAsasAm ca tyAgaH |
+   GautAA_2,5.40 / GautSt_14.42: ante tv antyānām |	GOtAAH-_2,5.40 / GOtSt_14.42: ante tu antyAnAm |
+   {VAR_St: antye}	{VAR_St: antye}
+   GautAA_2,5.41 / GautSt_14.43: dantajanmādi mātāpitṛbhyām |	GOtAAH-_2,5.41 / GOtSt_14.43: danta-janma-Adi mAtA-pitRByAm |
+   GautAA_2,5.42 / GautSt_14.44: bāladeśāntaritapravrajitāsapiṇḍānāṃ sadyaḥ	GOtAAH-_2,5.42 / GOtSt_14.44: bAla-deSa-antarita-pravrajita-asapiNxAnAm sadyas-
+   śaucam |	SOcam |
+   GautAA_2,5.43 / GautSt_14.45: rājñāṃ ca kāryavirodhāt |	GOtAAH-_2,5.43 / GOtSt_14.45: rAjQAm ca kArya-viroDAt |
+   GautAA_2,5.44 / GautSt_14.46: brāhmaṇasya ca	GOtAAH-_2,5.44 / GOtSt_14.46: brAhmaNasya ca
+   svādhyāyanivṛttyarthamsvādhyāyanivṛttyartham |	svADyAya-nivRtti-arTam-svADyAya-nivRtti-arTam |
+   {VAR_St: svādhyāyānivṛtty-}	{VAR_St: svADyAya-anivRtty-}
+   [GautAA 2,6 = GautSt XV]	[GOtAAH 2,6  GOtSt XV]
+   GautAA_2,6.1 / GautSt_15.1: atha śrāddham |	GOtAAH-_2,6.1 / GOtSt_15.1: aTa SrAdDam |
+   GautAA_2,6.2 / GautSt_15.2: amāvāsyāyāṃ pitṛbhyo dadyāt |	GOtAAH-_2,6.2 / GOtSt-_15.2: amAvAsyAyAm pitRByaH dadyAt |
+   GautAA_2,6.3 / GautSt_15.3: pañcamīprabhṛtiṣu vāparapakṣasya |	GOtAAH-_2,6.3 / GOtSt_15.3: paQcamI-praBRtizu vA-apara-pakzasya |
+   {VAR_St: -prabhṛti vā-}	{VAR_St: -praBRti vA-}
+   GautAA_2,6.4 / GautSt_15.4: yathāśraddhaṃ sarvasmin vā |	GOtAAH-_2,6.4 / GOtSt-_15.4: yaTASradDam sarvasmin vA |
+   GautAA_2,6.5 / GautSt_15.5: dravyadeśabrāhmaṇasaṃnidhāne vā kālaniyamaḥ |	GOtAAH-_2,6.5 / GOtSt_15.5: dravya-deSa-brAhmaNa-saMniDAne vA kAla-niyamaH |
+   {VAR_St: vākālaniyamaḥ}	{VAR_St: vA-akAla-niyamaH}
+   GautAA_2,6.6 / GautSt_15.6: śaktitaḥ prakarṣed guṇasaṃskāravidhir annasya	GOtAAH-_2,6.6 / GOtSt-_15.6: Saktitas prakarzet guNa-saMskAra-viDiH annasya
+   {VAR_St: -vidhinānnasya}	{VAR_St: -viDinA-annasya}
+   GautAA_2,6.7 / GautSt_15.7: navāvarān bhojayed ayujaḥ |	GOtAAH-_2,6.7 / GOtSt_15.7: nava-avarAn Bojayet ayujaH |
+   GautAA_2,6.8 / GautSt_15.8: yathotsāhaṃ vā |	GOtAAH-_2,6.8 / GOtSt-_15.8: yaTotsAham vA |
+   GautAA_2,6.9 / GautSt_15.9: śrotriyān vāgrūpavayaḥśīlasaṃpannān |	GOtAAH-_2,6.9 / GOtSt_15.9: SrotriyAn vAc-rUpa-vayaH-SIla-saMpannAn |
+   GautAA_2,6.10 / GautSt_15.10: yuvabhyo dānaṃ prathamam |	GOtAAH-_2,6.10 / GOtSt_15.10: yuvaByaH dAnam praTamam |
+   GautAA_2,6.11 / GautSt_15.11: eke pitṛvat |	GOtAAH-_2,6.11 / GOtSt-_15.11: eke pitR-vat |
+   GautAA_2,6.12 / GautSt_15.12: na ca tena mitrakarma kuryāt |	GOtAAH-_2,6.12 / GOtSt_15.12: na ca tena mitra-karma kuryAt |
+   GautAA_2,6.13 / GautSt_15.13: putrābhāve sapiṇḍā mātṛsapiṇḍāḥ śiṣyāś ca	GOtAAH-_2,6.13 / GOtSt_15.13: putra-aBAve sapiNxAH mAtR-sapiNxAH SizyAH ca
+   dadyuḥ |	dadyuH |
+   GautAA_2,6.14a / GautSt_15.14: tadabhāva ṛtvigācāryau |	GOtAAH-_2,6.14aH / GOtSt-_15.14: tad-aBAva Rtvij-AcAryO |
+   - / GautSt_15.15: tilamāṣavrīhiyavodakadānair māsaṃ pitaraḥprīṇanti |	 / GOtSt_15.15: tila-mAza-vrIhi-yava-udaka-dAnEH mAsam pitaraH-prINanti |
+   matsyahariṇaruruśaśakūrmavarāhameṣamāṃsaiḥsaṃvatsarāṇi|gavyapayaḥpāyasair	matsya-hariNa-ruru-SaSa-kUrma-varAha-meza-mAMsEH-saMvatsara-aNi|gavya-payaH-pAyasEH-
+   dvādaśa varṣāṇi|vārdhrīṇasenamāṃsena kālaśākacchāgalohakhaḍgamāṃsair	dvAdaSa varzANi-|vArDrINa-sena-mAMsena kAla-SAka=-CAga-loha-Kaxga-mAMsEH-
+   madhumiśraiś cānantyam |	maDu-miSrEH ca-Anantyam |
+   GautAA_2,6.15 / GautSt_15.16: na bhojayet	GOtAAH-_2,6.15 / GOtSt_15.16: na Bojayet-
+   stenaklībapatitanāstikatadvṛttivīrahāgredidhiṣupatistrīgrāmayājakājāpālotsṛṣṭāgnimadyapakucarakūṭasākṣiprātihārikān	stena-klIba-patita-nAstika-tad-vRtti-vIra-hAgredi-Dizu-pati-strI-grAma-yAjaka-ajApAla-utsRzwa-agni-madya-pa-kucara-kUwa-sAkzi-prAtihArikAn
+   {VAR_St: -didhiṣūdidhiṣūpati-;-ajapāla-}	{VAR_St: -diDizu-udi-DizUpati-;-ajapAla-}
+   GautAA_2,6.16 / GautSt_15.17a: upapatiḥ |	GOtAAH-_2,6.16 / GOtSt_15.17a: upapatiH |
+   GautAA_2,6.17 / GautSt_15.17b: yasya ca saḥ |	GOtAAH-_2,6.17 / GOtSt_15.17b: yasya ca saH |
+   {VAR_St: yasya ca}	{VAR_St: yasya ca}
+   GautAA_2,6.18 / GautSt_15.18:	GOtAAH-_2,6.18 / GOtSt-_15.18:
+   kuṇḍāśisomavikrayyagāradāhigaradāvakīrṇigaṇapreṣyāgamyāgāmihiṃsraparivittiparivettṛparyāhitaparyādhātṛtyaktātmadurbālakunakhiśyāvadantaśvitripaunarbhavakitavājaparājapreṣyaprātirūpikaśūdrāpatinirākṛtikilāsikusīdivaṇikśilpopajīvijyāvāditratālanṛtyagītaśīlān	kuNxASi-soma-vikrayya-gAra-dAhi-gara-dAvakIrNi-gaNa-prezya-AgamyA-gAmi-hiMsra-parivitti-parivettR-paryAhita-paryADAtR-tyakta-Atma-durbAla-kunaKi-SyAv
+   {VAR_St: -parivitta-;śyāvadat-;nṛtta-}	{VAR_St: -parivitta--;SyAvat-at-;-nRtta-}
+   GautAA_2,6.19 / GautSt_15.19: pitrā(pitṛ) vākāmena vibhaktān |	GOtAAH-_2,6.19 / GOtSt-_15.19: pitrA(pitR) vA-akAmena viBaktAn |
+   {VAR_St: cākāmena}	{VAR_St: ca-akAmena}
+   GautAA_2,6.20 / GautSt_15.20: śiṣyāṃś caike sagotrāṃś ca |	GOtAAH-_2,6.20 / GOtSt_15.20: SizyAn ca-eke sagotrAn ca |
+   GautAA_2,6.21 / GautSt_15.21a: bhojayed ūrdhvaṃ tribhyaḥ |	GOtAAH-_2,6.21 / GOtSt_15.21a: Bojayet UrDvam triByaH |
+   GautAA_2,6.22 / GautSt_15.21b: guṇavantam |	GOtAAH-_2,6.22 / GOtSt_15.21b: guNavantam |
+   GautAA_2,6.23 / GautSt_15.22: sadyaḥ śrāddhī śūdrātalpagas tatpurīṣe	GOtAAH-_2,6.23 / GOtSt-_15.22: sadyas SrAdDI SUdrA-talpa-gaH tatpurIze
+   māsaṃnayati pitṛṛn |	mA-asaMnayati pitRRn |
+   GautAA_2,6.24 / GautSt_15.23: tasmāt tadaham brahmacārī ca syāt |	GOtAAH-_2,6.24 / GOtSt-_15.23: tasmAt tat-aham brahmacArI ca syAt |
+   {VAR_St: -aharbrahmacārī syāt}	{VAR_St: -aharbrahmacArI syAt-}
+   GautAA_2,6.25 / GautSt_15.24: śvacāṇḍālapatitāvekṣaṇe duṣṭam |	GOtAAH-_2,6.25 / GOtSt-_15.24: Sva-cANxAla-patita-avekzaNe duzwam |
+   {VAR_St: caṇdāla}	{VAR_St: caNdAla}
+   GautAA_2,6.26 / GautSt_15.25: tasmāt pariśrite dadyāt |	GOtAAH-_2,6.26 / GOtSt_15.25: tasmAt pariSrite dadyAt |
+   GautAA_2,6.27 / GautSt_15.26: tilair vā vikiret |	GOtAAH-_2,6.27 / GOtSt-_15.26: tilEH vA vikiret |
+   GautAA_2,6.28 / GautSt_15.27: paṅktipāvano vā śamayet |	GOtAAH-_2,6.28 / GOtSt_15.27: paFkti-pAvanaH vA Samayet |
+   GautAA_2,6.29 / GautSt_15.28: paṅktipāvanaḥ ṣaḍaṅgavij jyeṣṭhasāmikas	GOtAAH-_2,6.29 / GOtSt-_15.28: paFkti-pAvanaH zaxaFga-vid jyezWa-sAmikas
+   triṇāciketastrimadhus trisuparṇaḥ pañcāgniḥ snātako mantrabrāhmaṇavid	triNAciketaH-trimaDuH trisuparNaH paQca-agniH snAtakaH mantra-brAhmaNa-vid
+   dharmajñobrahmadeyānusaṃtāna iti |	Darma-jQaH-brahma-deya-anusaMtAnaH iti |
+   {VAR_St: jyeṣṭhasāmagas}	{VAR_St: jyezWasAma-gas}
+   GautAA_2,6.30 / GautSt_15.29: haviḥṣu caivam |	GOtAAH-_2,6.30 / GOtSt_15.29: haviHzu ca-evam |
+   GautAA_2,6.31 / GautSt_15.30: durbālādīn śrāddha ekaike |	GOtAAH-_2,6.31 / GOtSt_15.30: durbAla-AdIn SrAdDaH ekEke |
+   {VAR_St: -eke śrāddha evaike}	{VAR_St: -eke SrAdDaH eva-eke}
+   GautAA_2,6.32 akṛtānnaśrāddhe caivaṃ caivam |	GOtAAH-_2,6.32 akRta-anna-SrAdDe ca-evam ca-evam |
+   [GautAA 2,7 = GautSt XVI]	[GOtAAH 2,7  GOtSt XVI]
+   GautAA_2,7.1 / GautSt_16.1: śrāvaṇādi vārṣikaṃ	GOtAAH-_2,7.1 / GOtSt-_16.1: SrAvaNa-Adi vArzikam
+   proṣṭhapadīṃvopākṛtyādhīyīta cchandāṃsi |	prozWapadI-iMva-upAkRtya-aDIyIta cCandAMsi |
+   {VAR_St: śravaṇādi}	{VAR_St: SravaNa-Adi}
+   GautAA_2,7.2 / GautSt_16.2: ardhapañcamān māsān pañca dakṣiṇāyanaṃ vā |	GOtAAH-_2,7.2 / GOtSt_16.2: arDa-paQcamAn mAsAn paQca dakziNAyanam vA |
+   GautAA_2,7.3 / GautSt_16.3: brahmacāry utsṛṣṭalomā na māṃsaṃ bhuñjīta |	GOtAAH-_2,7.3 / GOtSt_16.3: brahmacArI utsRzwa-lomA na mAMsam BuQjIta |
+   GautAA_2,7.4 / GautSt_16.4: dvaimāsyo vā niyamaḥ |	GOtAAH-_2,7.4 / GOtSt_16.4: dvEmAsyaH vA niyamaH |
+   GautAA_2,7.5 / GautSt_16.5: nādhīyīta vāyau divā pāṃsuhare |	GOtAAH-_2,7.5 / GOtSt-_16.5: na-aDIyIta vAyO divA pAMsu-hare |
+   GautAA_2,7.6 / GautSt_16.6: karṇaśrāviṇi naktam |	GOtAAH-_2,7.6 / GOtSt-_16.6: karNa-SrAviNi naktam |
+   GautAA_2,7.7 / GautSt_16.7: vāṇabherīmṛdaṅgagartārtaśabdeṣu |	GOtAAH-_2,7.7 / GOtSt_16.7: vANa-BerI-mRdaFga-garta-Arta-Sabdezu |
+   GautAA_2,7.8 / GautSt_16.8: śvaśṛgālagardabhasaṃhrāde |	GOtAAH-_2,7.8 / GOtSt-_16.8: Sva-SRgAla-gardaBa-saMhrAde |
+   GautAA_2,7.9 / GautSt_16.9: rohitendradhanurnīhāreṣu |	GOtAAH-_2,7.9 / GOtSt_16.9: rohita-indraDanuH-nIhArezu |
+   {VAR_St: lohita-}	{VAR_St: lohita-}
+   GautAA_2,7.10 / GautSt_16.10: abhradarśane cāpartau(ṛtu) |	GOtAAH-_2,7.10 / GOtSt-_16.10: aBra-darSane ca-apaRtO(Rtu) |
+   GautAA_2,7.11 / GautSt_16.11: mūtrita uccārite |	GOtAAH-_2,7.11 / GOtSt_16.11: mUtritaH uccArite |
+   GautAA_2,7.12 / GautSt_16.12: niśāyāṃ saṃdhyodakeṣu |	GOtAAH-_2,7.12 / GOtSt_16.12: niSAyAm saMDyA-udakezu |
+   {VAR_St: niśāsaṃdhyā-}	{VAR_St: niSA-saMDyA-}
+   GautAA_2,7.13 / GautSt_16.13: varṣati ca |	GOtAAH-_2,7.13 / GOtSt_16.13: varzati ca |
+   GautAA_2,7.14 / GautSt_16.14: eke valīkasaṃtānām |	GOtAAH-_2,7.14 / GOtSt-_16.14: eke valIka-saMtAnAm |
+   GautAA_2,7.15 / GautSt_16.15: ācāryapariveṣaṇe |	GOtAAH-_2,7.15 / GOtSt_16.15: AcArya-parivezaNe |
+   GautAA_2,7.16 / GautSt_16.16: jyotiṣoś ca |	GOtAAH-_2,7.16 / GOtSt_16.16: jyotizoH ca |
+   GautAA_2,7.17 / GautSt_16.17: bhīto yānasthaḥ śayānaḥ prauḍhapādaḥ |	GOtAAH-_2,7.17 / GOtSt_16.17: BItaH yAna-sTaH SayAnaH prOXa-pAdaH |
+   GautAA_2,7.18 / GautSt_16.18: śmaśānagrāmāntamahāpathāśauceṣu |	GOtAAH-_2,7.18 / GOtSt-_16.18: SmaSAna-grAma-anta-mahApaTa-ASOcezu |
+   GautAA_2,7.19 / GautSt_16.19:	GOtAAH-_2,7.19 / GOtSt-_16.19:
+   pūtigandhāntaḥśavadivākīrtya(cāṇḍāla)śūdrasaṃnidhāne |	pUti-ganDa-antar-Sava-divAkIrti-a(cANxAla)-SUdra-saMniDAne |
+   GautAA_2,7.20 / GautSt_16.20: bhuktake codgāre |	GOtAAH-_2,7.20 / GOtSt_16.20: Buktake ca-udgAre |
+   GautAA_2,7.21 / GautSt_16.21: ṛgyajuṣaṃ ca sāmaśabdo yāvat |	GOtAAH-_2,7.21 / GOtSt-_16.21: Rc-yajuzam ca sAma-SabdaH yAvat |
+   GautAA_2,7.22 / GautSt_16.22: ākālikā nirghātabhūmikamparāhudarśanolkāḥ |	GOtAAH-_2,7.22 / GOtSt_16.22: AkAlikAH nirGAta-BUmi-kampa-rAhu-darSana-ulkAH |
+   GautAA_2,7.23 / GautSt_16.23: stanayitnuvarṣavidyutaś ca prāduṣkṛtāgniṣu |	GOtAAH-_2,7.23 / GOtSt-_16.23: stanayitnu-varza-vidyutaH ca prAduzkRta-agnizu |
+   GautAA_2,7.24 / GautSt_16.24: ahar ṛtau(ṛtu) |	GOtAAH-_2,7.24 / GOtSt_16.24: ahar RtO(Rtu) |
+   {VAR_St: apartau}	{VAR_St: apartO}
+   GautAA_2,7.25 / GautSt_16.25: vidyuti naktaṃ cāpararātrāt |	GOtAAH-_2,7.25 / GOtSt_16.25: vidyuti naktam ca-apararAtrAt |
+   GautAA_2,7.26 / GautSt_16.26: tribhāgādipravṛttau sarvam |	GOtAAH-_2,7.26 / GOtSt-_16.26: tri-BAga-Adi-pravRttO sarvam |
+   GautAA_2,7.27 / GautSt_16.27: ulkā vidyutsamety ekeṣām |	GOtAAH-_2,7.27 / GOtSt-_16.27: ulkA vidyut-samA-iti ekezAm |
+   GautAA_2,7.28 / GautSt_16.28: stanayitnur aparāhṇe |	GOtAAH-_2,7.28 / GOtSt_16.28: stanayitnuH aparAhNe |
+   GautAA_2,7.29 / GautSt_16.29: api pradoṣe |	GOtAAH-_2,7.29 / GOtSt_16.29: api pradoze |
+   GautAA_2,7.30 / GautSt_16.30: sarvaṃ naktam ārdharātrāt |	GOtAAH-_2,7.30 / GOtSt-_16.30: sarvam naktam ArDarAtrAt |
+   GautAA_2,7.31 / GautSt_16.31: ahaś cet sajyotiḥ |	GOtAAH-_2,7.31 / GOtSt_16.31: ahar ced sajyotiH |
+   GautAA_2,7.32 / GautSt_16.32: viṣayasthe ca rājñi(rājan) prete |	GOtAAH-_2,7.32 / GOtSt_16.32: vizaya-sTe ca rAjQi(rAjan) prete |
+   GautAA_2,7.33 / GautSt_16.33: viproṣya cānyonyena saha |	GOtAAH-_2,7.33 / GOtSt_16.33: viprozya ca-anyonyena saha |
+   GautAA_2,7.34 / GautSt_16.34:	GOtAAH-_2,7.34 / GOtSt-_16.34:
+   saṃkulopāhitavedasamāpticchardiśrāddhamanuṣyayajñabhojaneṣvahorātram |	saMkula-upAhita-veda-samApti=-Cardi-SrAdDa-manuzya-yajQa-Bojanezu-ahorAtram |
+   GautAA_2,7.35 / GautSt_16.35: amāvāsyāyāṃ ca |	GOtAAH-_2,7.35 / GOtSt-_16.35: amAvAsyAyAm ca |
+   GautAA_2,7.36 / GautSt_16.36: dvyahaṃ vā |	GOtAAH-_2,7.36 / GOtSt-_16.36: dvi-aham vA |
+   GautAA_2,7.37 / GautSt_16.37: kārtikī phālgunīyṣāḍhī paurṇamāsī |	GOtAAH-_2,7.37 / GOtSt-_16.37: kArtikI PAlgunIyza-AXI pOrNamAsI |
+   GautAA_2,7.38 / GautSt_16.38: tisro 'ṣṭakās trirātram |	GOtAAH-_2,7.38 / GOtSt_16.38: tisraH azwakAH tri-rAtram |
+   GautAA_2,7.39 / GautSt_16.39: antyām eke |	GOtAAH-_2,7.39 / GOtSt_16.39: antyAm eke |
+   GautAA_2,7.40 / GautSt_16.40: abhito vārṣikam |	GOtAAH-_2,7.40 / GOtSt_16.40: aBitas vArzikam |
+   GautAA_2,7.41 / GautSt_16.41: sarve varṣāvidyutstanayitnusaṃnipāte |	GOtAAH-_2,7.41 / GOtSt-_16.41: sarve varzA-vidyut-stanayitnu-saMnipAte |
+   {VAR_St: varṣa-}	{VAR_St: varza-}
+   GautAA_2,7.42 / GautSt_16.42: prasyandini |	GOtAAH-_2,7.42 / GOtSt-_16.42: prasyandini |
+   GautAA_2,7.43 / GautSt_16.43: ūrdhvaṃ bhojanād utsave |	GOtAAH-_2,7.43 / GOtSt_16.43: UrDvam BojanAt utsave |
+   GautAA_2,7.44 / GautSt_16.44: prādhītasya ca niśāyāṃ caturmuhūrtam |	GOtAAH-_2,7.44 / GOtSt-_16.44: prADItasya ca niSAyAm catur-muhUrtam |
+   GautAA_2,7.45 / GautSt_16.45: nityam eke nagare |	GOtAAH-_2,7.45 / GOtSt_16.45: nityam eke nagare |
+   GautAA_2,7.46 / GautSt_16.46: mānasam apy aśuciḥ |	GOtAAH-_2,7.46 / GOtSt_16.46: mAnasam api aSuciH |
+   GautAA_2,7.47 / GautSt_16.47: śrāddhinām(śrāddha) ākālikam |	GOtAAH-_2,7.47 / GOtSt-_16.47: SrAdDinAm-(SrAdDa) AkAlikam |
+   GautAA_2,7.48 / GautSt_16.48: akṛtānnaśrāddhikasaṃyoge 'pi |	GOtAAH-_2,7.48 / GOtSt-_16.48: akRta-anna-SrAdDika-saMyoge api |
+   {VAR_St: -yoge ca}	{VAR_St: -yoge ca}
+   GautAA_2,7.49 / GautSt_16.49: pratividyaṃ ca yān smaranti |	GOtAAH-_2,7.49 / GOtSt_16.49: pratividyam ca yAn smaranti |
+   {VAR_St: yān smaranti}	{VAR_St: yAn smaranti}
+   [GautAA 2,8 = GautSt XVII]	[GOtAAH 2,8  GOtSt XVII]
+   GautAA_2,8.1 / GautSt_17.1: praśastānāṃ svakarmasu dvijātīnāṃ brāhmaṇo	GOtAAH-_2,8.1 / GOtSt_17.1: praSastAnAm sva-karmasu dvijAtInAm brAhmaNaH-
+   bhuñjīta |	BuQjIta |
+   GautAA_2,8.2 / GautSt_17.2: pratigṛhṇīyāc ca |	GOtAAH-_2,8.2 / GOtSt-_17.2: pratigRhNIyAt ca |
+   GautAA_2,8.3 / GautSt_17.3:	GOtAAH-_2,8.3 / GOtSt-_17.3:
+   edhodakayavasamūlaphalamadhvabhayābhyudyataśayyāsanāvasathayānapayodadhidhānāśapharīpriyaṅgusragmārgaśākāny	eDa-udaka-yavasa-mUla-Palam-aDu-a-BayA-aByudyata-SayyA-Asana-AvasaTa-yAna-payodaDi-DA-nASa-ParI-priyaFgu-sraj-mArga-SAkAni-
+   apraṇodyāni sarveṣām |	apraNodyAni sarvezAm |
+   GautAA_2,8.4 / GautSt_17.4: pitṛdevagurubhṛtyabharaṇe 'py anyat |	GOtAAH-_2,8.4 / GOtSt-_17.4: pitR-deva-guru-BRtya-BaraNe api anyat |
+   {VAR_St: -ṇe cānyat}	{VAR_St: -Ne ca-anyat-}
+   GautAA_2,8.5 / GautSt_17.5: vṛttiś cen nāntareṇa śūdrāt |	GOtAAH-_2,8.5 / GOtSt-_17.5: vRttiH ced na-antareNa SUdrAt |
+   GautAA_2,8.6 / GautSt_17.6:	GOtAAH-_2,8.6 / GOtSt-_17.6:
+   paśupālakṣetrakarṣakakulasaṃgatakārayitṛparicārakāḥbhojyānnāḥ |	paSupAla-kzetra-karzaka-kula-saMgata-kArayitR-paricArakAH-Bojya-annAH |
+   GautAA_2,8.7 / GautSt_17.7: vaṇik cāśilpī |	GOtAAH-_2,8.7 / GOtSt-_17.7: vaNij ca-aSilpI |
+   GautAA_2,8.8 / GautSt_17.8: nityam abhojyam |	GOtAAH-_2,8.8 / GOtSt_17.8: nityam aBojyam |
+   GautAA_2,8.9 / GautSt_17.9: keśakīṭāvapannam |	GOtAAH-_2,8.9 / GOtSt_17.9: keSa-kIwa-avapannam |
+   GautAA_2,8.10 / GautSt_17.10: rajasvalākṛṣṇaśakunipadopahatam |	GOtAAH-_2,8.10 / GOtSt_17.10: rajasvalA-kRzNa-Sakuni-pada-upahatam |
+   GautAA_2,8.11 / GautSt_17.11: bhrūṇaghnāvekṣitam |	GOtAAH-_2,8.11 / GOtSt_17.11: BrUNa-Gna-avekzitam |
+   {VAR_St: bhrūṇaghnā prekṣitam}	{VAR_St: BrUNa-GnA prekzitam}
+   (GautSt 17.12 see GautAA 2,8.13)	(GOtSt 17.12 see GOtAAH 2,8.13)
+   GautAA_2,8.12 / GautSt_17.13: bhāvaduṣṭam |	GOtAAH-_2,8.12 / GOtSt-_17.13: BAva-duzwam |
+   GautAA_2,8.13 / GautSt_17.12: gavopaghrātam |	GOtAAH-_2,8.13 / GOtSt-_17.12: gavA-upaGrAtam |
+   GautAA_2,8.14 / GautSt_17.14: śuktaṃ kevalam adadhi |	GOtAAH-_2,8.14 / GOtSt-_17.14: Suktam kevalam adaDi |
+   GautAA_2,8.15 / GautSt_17.15: punaḥ siddham |	GOtAAH-_2,8.15 / GOtSt_17.15: punar sidDam |
+   GautAA_2,8.16 / GautSt_17.16: paryuṣitam aśākabhakṣasnehamāṃsamadhūni |	GOtAAH-_2,8.16 / GOtSt-_17.16: paryuzitam aSAka-Bakza-sneha-mAMsa-maDUni |
+   {VAR_St: -bhakṣya-}	{VAR_St: -Bakzya-}
+   GautAA_2,8.17 / GautSt_17.17:	GOtAAH-_2,8.17 / GOtSt-_17.17:
+   utsṛṣṭapuṃścalyabhiśastānapadeśyadaṇḍikatakṣakadaryabandhanikacikitsakamṛgayvaniṣucāryucchiṣṭabhojigaṇavidviṣāṇānām	utsRzwa-puMScalI-a-BiSasta-anapadeSya-daNxika-takzaka-darya-banDa-nika-cikitsaka-mRgayvanizu-cArI-ucCizwa-Boji-gaNa-vidvizANAnAm
+   GautAA_2,8.18 / GautSt_17.18: apaṅktyānāṃ prāgdurvālāt |	GOtAAH-_2,8.18 / GOtSt-_17.18: apaFktyAnAm prAk-durvAlAt |
+   {VAR_St: apāṅkty-}	{VAR_St: apAFkty-}
+   GautAA_2,8.19 / GautSt_17.19: vṛthānnācamanotthānavyapetāni |	GOtAAH-_2,8.19 / GOtSt-_17.19: vRTA-anna-Acamana-utTAna-vyapetAni |
+   GautAA_2,8.20 / GautSt_17.20: samāsamābhyāṃ viṣamasame pūjātaḥ |	GOtAAH-_2,8.20 / GOtSt-_17.20: sama-asamAByAm vizama-same pUjAtaH |
+   GautAA_2,8.21 / GautSt_17.21: anarcitaṃ ca |	GOtAAH-_2,8.21 / GOtSt-_17.21: anarcitam ca |
+   GautAA_2,8.22 / GautSt_17.22: goś ca kṣīram anirdaśāyāḥ sūtake |	GOtAAH-_2,8.22 / GOtSt_17.22: goH ca kzIram anirdaSAyAH sUtake |
+   GautAA_2,8.23 / GautSt_17.23: ajāmahiṣyoś ca |	GOtAAH-_2,8.23 / GOtSt-_17.23: ajA-mahizyoH ca |
+   GautAA_2,8.24 / GautSt_17.24: nityam āvikam apeyam auṣṭram aikaśaphaṃ ca |	GOtAAH-_2,8.24 / GOtSt_17.24: nityam Avikam apeyam Ozwram EkaSaPam ca |
+   GautAA_2,8.25 / GautSt_17.25: syandinīyamasūsaṃdhinīnāṃ ca |	GOtAAH-_2,8.25 / GOtSt-_17.25: syandinI-yamasU-saMDinInAm ca |
+   GautAA_2,8.26 / GautSt_17.26: vivatsāyāś ca |	GOtAAH-_2,8.26 / GOtSt_17.26: vivatsAyAH ca |
+   GautAA_2,8.27 / GautSt_17.27: pañcanakhāś	GOtAAH-_2,8.27 / GOtSt_17.27: paQcanaKAH-
+   cāśalyakaśaśaśvāvidgodhākhaḍgakacchapāḥ |	ca-aSalyaka-SaSa-SvAviD-goDA-Kaxga-kacCapAH |
+   GautAA_2,8.28 / GautSt_17.28:	GOtAAH-_2,8.28 / GOtSt-_17.28:
+   ubhayatodatkeśyalomaikaśaphakalaviṅkaplavacakravākahaṃsāḥ |	uBaya-todat-keSya-loma-eka-SaPa-kalaviFka-plava-cakravAka-haMsAH |
+   GautAA_2,8.29 / GautSt_17.29: kākakaṅkagṛdhraśyenā jalajā	GOtAAH-_2,8.29 / GOtSt-_17.29: kAka-kaFka-gRDra-SyenA jalajA
+   raktapādatuṇḍāgrāmyakukkuṭasūkarāḥ |	rakta-pAda-tuNxA-grAmya-kukkuwa-sUkarAH |
+   {VAR_St: -sūkarau}	{VAR_St: -sUkarO}
+   GautAA_2,8.30 / GautSt_17.30: dhenvanaḍuhau ca |	GOtAAH-_2,8.30 / GOtSt_17.30: Denu-anaxuhO ca |
+   GautAA_2,8.31 / GautSt_17.31: apannadannavasannavṛthāmāṃsāni |	GOtAAH-_2,8.31 / GOtSt-_17.31: apannadan=-avasanna-vRTA-mAMsAni |
+   {VAR_St: apannadāvasanna-}	{VAR_St: apannada-avasanna-}
+   GautAA_2,8.32 / GautSt_17.32: kisalayakyākulaśunaniryāsāḥ |	GOtAAH-_2,8.32 / GOtSt_17.32: kisalaya-kyAku-laSuna-niryAsAH |
+   (VAR_AA: kimpāku for kyāku)	(VAR_AA: kimpAku foH kyAku)
+   GautAA_2,8.33 / GautSt_17.33: lohitā vraścanāḥ |	GOtAAH-_2,8.33 / GOtSt_17.33: lohitAH vraScanAH |
+   {VAR_St: -canāś ca}	{VAR_St: -canAH ca}
+   GautAA_2,8.34 / GautSt_17.34:	GOtAAH-_2,8.34 / GOtSt-_17.34:
+   nicudārubakabalākāśukamadguṭiṭṭibhamāndhālanaktacarāabhakṣyāḥ |	nicu-dAru-baka-balAkA-Suka-madgu-wiwwiBa-mAnDAla-nakta-carAa-BakzyAH |
+   {VAR_St: balākaśuka-;-māndhālā naktaṃcarā}	{VAR_St: balAka-Suka--;-mAnDAlA naktaMcarA}
+   GautAA_2,8.35 / GautSt_17.35: bhakṣyāḥ pratudaviṣkirajālapādāḥ |	GOtAAH-_2,8.35 / GOtSt_17.35: BakzyAH pratuda-vizkira-jAla-pAdAH |
+   {VAR_St: -viṣkirājāla-}	{VAR_St: -vizkirA-jAla-}
+   GautAA_2,8.36 / GautSt_17.36: matsyāś cāvikṛtāḥ |	GOtAAH-_2,8.36 / GOtSt_17.36: matsyAH ca-avikRtAH |
+   GautAA_2,8.37 / GautSt_17.37: vadhyāś ca dharmārthe |	GOtAAH-_2,8.37 / GOtSt_17.37: vaDyAH ca Darma-arTe |
+   GautAA_2,8.38 / GautSt_17.38:	GOtAAH-_2,8.38 / GOtSt-_17.38:
+   vyālahatādṛṣṭadoṣavākpraśastānabhyukṣyopayuñjītopayuñjīta |	vyAla-hata-adRzwa-doza-vAc-praSastAn-aByukzya-upayuQjIta-upayuQjIta |
+   {VAR_St: -praśastāny}	{VAR_St: -praSastAni-}
+   [GautAA 2,9 = GautSt XVIII]	[GOtAAH 2,9  GOtSt XVIII]
+   GautAA_2,9.1 / GautSt_18.1: asvatantrā dharme strī |	GOtAAH-_2,9.1 / GOtSt-_18.1: asvatantrA Darme strI |
+   GautAA_2,9.2 / GautSt_18.2: nāticared bhartāram(bhartṛ) |	GOtAAH-_2,9.2 / GOtSt_18.2: na-aticaret BartAram-(BartR) |
+   GautAA_2,9.3 / GautSt_18.3: vākcakṣuḥkarmasaṃyatā |	GOtAAH-_2,9.3 / GOtSt-_18.3: vAc-cakzuH-karma-saMyatA |
+   GautAA_2,9.4 / GautSt_18.4: apatir apatyalipsur devarāt |	GOtAAH-_2,9.4 / GOtSt-_18.4: apatiH apatya-lipsuH devarAt |
+   GautAA_2,9.5 / GautSt_18.5: guruprasūtā nartum(ṛtu) atīyāt |	GOtAAH-_2,9.5 / GOtSt-_18.5: guru-prasUtA na-Rtum-(Rtu) atIyAt |
+   GautAA_2,9.6 / GautSt_18.6: piṇḍagotrarṣisaṃbandhebhyo yonimātrād vā |	GOtAAH-_2,9.6 / GOtSt_18.6: piNxa-gotra-Rzi-saMbanDeByaH yoni-mAtrAt vA |
+   GautAA_2,9.7 / GautSt_18.7: nādevarād ity eke |	GOtAAH-_2,9.7 / GOtSt-_18.7: na-adevarAt iti eke |
+   GautAA_2,9.8 / GautSt_18.8: nātidvitīyam |	GOtAAH-_2,9.8 / GOtSt_18.8: na-ati-dvitIyam |
+   GautAA_2,9.9 / GautSt_18.9: janayitur apatyam |	GOtAAH-_2,9.9 / GOtSt_18.9: janayituH apatyam |
+   GautAA_2,9.10 / GautSt_18.10: samayād anyasya |	GOtAAH-_2,9.10 / GOtSt-_18.10: samayAt anyasya |
+   {VAR_St: anyatra}	{VAR_St: anyatra}
+   GautAA_2,9.11 / GautSt_18.11: jīvataś ca kṣetre |	GOtAAH-_2,9.11 / GOtSt-_18.11: jIvataH ca kzetre |
+   GautAA_2,9.12 / GautSt_18.12: parasmāt tasya |	GOtAAH-_2,9.12 / GOtSt_18.12: parasmAt tasya |
+   GautAA_2,9.13 / GautSt_18.13: dvayor vā |	GOtAAH-_2,9.13 / GOtSt-_18.13: dvayoH vA |
+   GautAA_2,9.14 / GautSt_18.14: rakṣaṇāt tu bhartur(bhartṛ) eva |	GOtAAH-_2,9.14 / GOtSt_18.14: rakzaNAt tu BartuH-(BartR) eva |
+   GautAA_2,9.15 / GautSt_18.15: śrūyamāṇe 'bhigamanam |	GOtAAH-_2,9.15 / GOtSt_18.15: SrUyamANe aBigamanam |
+   {VAR_St: naṣṭe bhartari ṣaḍvārṣikaṃkṣapaṇaṃ śrūyamāṇe}	{VAR_St: nazwe Bartari zaz-vArzi-kaMkzapaNam SrUyamANe}
+   GautAA_2,9.16 / GautSt_18.16: pravrajite tu nivṛttiḥ prasaṅgāt |	GOtAAH-_2,9.16 / GOtSt-_18.16: pravrajite tu nivRttiH prasaFgAt |
+   GautAA_2,9.17 / GautSt_18.17: dvādaśa varṣāṇi brāhmaṇasya vidyāsaṃbandhe |	GOtAAH-_2,9.17 / GOtSt-_18.17: dvAdaSa varzANi brAhmaNasya vidyA-saMbanDe |
+   GautAA_2,9.18 / GautSt_18.18: bhrātari(bhrātṛ) caivam jyāyasi	GOtAAH-_2,9.18 / GOtSt-_18.18: BrAtari(BrAtR) ca-evam jyAyasi
+   yavīyānkanyāgnyupayameṣu |	yavIyAn-kanyA-agni-upayamezu |
+   GautAA_2,9.19 / GautSt_18.19: ṣaḍ ity eke |	GOtAAH-_2,9.19 / GOtSt_18.19: zaw iti eke |
+   GautAA_2,9.20 / GautSt_18.20: trīn kumāry ṛtūn atītya	GOtAAH-_2,9.20 / GOtSt-_18.20: trIn kumArI RtUn atItya
+   svayaṃyujyetāninditenotsṛjya pitryān alaṃkārān |	svayaMyujyeta-aninditena-utsRjya pitryAn alaMkArAn |
+   {VAR_St: yuñjītā-}	{VAR_St: yuQjItA-}
+   GautAA_2,9.21 / GautSt_18.21: pradānaṃ prāg ṛtoḥ(ṛtu) |	GOtAAH-_2,9.21 / GOtSt-_18.21: pradAnam prAk RtoH(Rtu) |
+   GautAA_2,9.22 / GautSt_18.22: aprayacchan doṣī |	GOtAAH-_2,9.22 / GOtSt-_18.22: aprayacCan dozI |
+   GautAA_2,9.23 / GautSt_18.23: prāg vāsasaḥ pratipatter ity eke |	GOtAAH-_2,9.23 / GOtSt-_18.23: prAk vAsasaH pratipatteH iti eke |
+   {VAR_St: vāsaḥ}	{VAR_St: vAsaH}
+   GautAA_2,9.24 / GautSt_18.24: dravyādānaṃ vivāhasiddhyarthaṃ	GOtAAH-_2,9.24 / GOtSt_18.24: dravya-AdAnam vivAha-sidDi-arTam
+   dharmatantrasaṃyogeca śūdrāt |	Darma-tantra-saMyogeca SUdrAt |
+   GautAA_2,9.25 / GautSt_18.25: anyatrāpi śūdrād bahupaśor hīnakarmaṇaḥ |	GOtAAH-_2,9.25 / GOtSt_18.25: anyatra-api SUdrAt bahu-paSoH hIna-karmaNaH |
+   GautAA_2,9.26 / GautSt_18.26: śatagor anāhitāgneḥ |	GOtAAH-_2,9.26 / GOtSt-_18.26: SatagoH anAhitAgneH |
+   GautAA_2,9.27 / GautSt_18.27: sahasragoś cāsomapāt |	GOtAAH-_2,9.27 / GOtSt-_18.27: sahasragoH ca-asomapAt |
+   GautAA_2,9.28 / GautSt_18.28: saptamīṃ cābhuktvāanicayāya |	GOtAAH-_2,9.28 / GOtSt-_18.28: saptamIm ca-aBuktvAa-nicayAya |
+   GautAA_2,9.29 / GautSt_18.29: apy ahīnakarmabhyaḥ |	GOtAAH-_2,9.29 / GOtSt_18.29: api ahIna-karmaByaH |
+   GautAA_2,9.30 / GautSt_18.30: ācakṣīta rājñā pṛṣṭaḥ |	GOtAAH-_2,9.30 / GOtSt-_18.30: AcakzIta rAjQA pRzwaH |
+   GautAA_2,9.31 / GautSt_18.31: tena hi bhartavyaḥ śrutaśīlasaṃpannaś cet |	GOtAAH-_2,9.31 / GOtSt_18.31: tena hi BartavyaH Sruta-SIla-saMpannaH ced |
+   GautAA_2,9.32 / GautSt_18.32: dharmatantrapīḍāyām tasyākaraṇe doṣo |	GOtAAH-_2,9.32 / GOtSt-_18.32: Darma-tantra-pIxAyAm tasya-akaraNe dozaH |
+   {VAR_St: akaranedoṣaḥ; doṣo doṣaḥ}	{VAR_St: akara-neda-UzaH; dozaH dozaH}
+   [GautAA 3,1 = GautSt XIX]	[GOtAAH 3,1  GOtSt XIX]
+   GautAA_3,1.1 / GautSt_19.1: ukto varṇadharmaś cāśramadharmaś ca |	GOtAAH-_3,1.1 / GOtSt-_19.1: uktaH varNa-DarmaH ca-ASrama-DarmaH ca |
+   {VAR_St: -dharma āśrama-}	{VAR_St: -DarmaH ASrama-}
+   GautAA_3,1.2 / GautSt_19.2: atha khalv ayaṃ puruṣo yāpyena karmaṇā lipyate	GOtAAH-_3,1.2 / GOtSt_19.2: aTa Kalu ayam puruzaH yApyena karmaNA lipyate
+   yathaitad ayājyayājanam abhakṣyabhakṣaṇam avadyavadanaṃśiṣṭasyākriyā	yaTA-etat ayAjya-yAjanam aBakzya-BakzaNam avadya-vadanaMSizwasya-akriyA
+   pratiṣiddhasevanam iti |	pratizidDa-sevanam iti |
+   GautAA_3,1.3 / GautSt_19.3: tatra prāyaścittaṃ kuryāt na kuryād iti	GOtAAH-_3,1.3 / GOtSt-_19.3: tatra prAyaScittam kuryAt na kuryAt iti
+   mīmāṃsante |	mImAMsante |
+   GautAA_3,1.4 / GautSt_19.4: na kuryād ity āhuḥ |	GOtAAH-_3,1.4 / GOtSt_19.4: na kuryAt iti AhuH |
+   GautAA_3,1.5 / GautSt_19.5: na hi karma kṣīyata iti |	GOtAAH-_3,1.5 / GOtSt_19.5: na hi karma kzIyate iti |
+   GautAA_3,1.6 / GautSt_19.6: kuryād ity aparam |	GOtAAH-_3,1.6 / GOtSt-_19.6: kuryAt iti aparam |
+   GautAA_3,1.7 / GautSt_19.7: punaḥstomeneṣṭvā punaḥ savanam āyāntīti	GOtAAH-_3,1.7 / GOtSt_19.7: punar-stomena-izwvA punar savanam AyAnti-iti
+   vijñāyate |	vijQAyate |
+   GautAA_3,1.8 / GautSt_19.8: vrātyastomaiś ceṣṭvā |	GOtAAH-_3,1.8 / GOtSt-_19.8: vrAtya-stomEH ca-izwvA |
+   GautAA_3,1.9 / GautSt_19.9: tarati sarvaṃ pāpmānaṃ tarati	GOtAAH-_3,1.9 / GOtSt_19.9: tarati sarvam pApmAnam tarati
+   brahmahatyāṃyo,aśvamedhena yajate |	brahmahatyA-aMyaH-,aSvameDena yajate |
+   {VAR_St: yajata iti ca}	{VAR_St: yajate iti ca}
+   GautAA_3,1.10 / GautSt_19.10: agniṣṭutābhiśasyamānaṃ yājayed iti ca |	GOtAAH-_3,1.10 / GOtSt_19.10: agnizwutA-aBiSasyamAnam yAjayet iti ca |
+   GautAA_3,1.11 / GautSt_19.11: tasya niṣkrayaṇāni japas tapo homa upavāso	GOtAAH-_3,1.11 / GOtSt_19.11: tasya nizkrayaNAni japaH tapaH homaH upavAsaH-
+   dānam |	dAnam |
+   GautAA_3,1.12 / GautSt_19.12: upaniṣado vedāntaḥ sarvacchandaḥsu saṃhitā	GOtAAH-_3,1.12 / GOtSt-_19.12: upanizadaH vedAntaH sarva=-CandaHsu saMhitA
+   madhūnyaghamarṣaṇam atharvaśiro rudrāḥ puruṣasūktaṃ rājatarauhine	maDUni-aGamarzaNam aTarvaSiraH rudrAH puruzasUktam rAjata-rOhine
+   sāmanībṛhadrathantare puruṣagatir mahānāmnyo mahāvairājaṃ	sAmanI-bRhat-raTantare puruza-gatiH mahAnAmnyaH mahA-vErAjam
+   mahādivākīrtyaṃjyeṣṭhasāmnām anyatamad bahiṣpavamānaṃ kūṣmāṇḍāni	mahAdiva-AkIrti-aMjyezWa-sAmnAm anyatamat bahizpavamAnam kUzmANxAni
+   pāvamānyaḥsāvitrī ceti pāvamānāni |	pAvamAnyaH-sAvitrI ca-iti pAvamAnAni |
+   {VAR_St: rājanarauhiṇe;iti pāvanāni}	{VAR_St: rAjana-rOhiNeH-iti pAvanAni}
+   GautAA_3,1.13 / GautSt_19.13: payovratatā śākabhakṣatā	GOtAAH-_3,1.13 / GOtSt-_19.13: payaH-vratatA SAka-Bakza-tA
+   phalabhakṣatāprasṛtayāvako hiraṇyaprāśanaṃ ghṛtaprāśanaṃ somapānam	Pala-BakzatA-prasRta-yAvakaH hiraNyaprASanam GRta-prASanam soma-pAnam
+   itimedhyāni |	iti-meDyAni |
+   {VAR_St: prasṛtiyāvako}	{VAR_St: prasRti-yAvakaH-}
+   GautAA_3,1.14 / GautSt_19.14: sarve śiloccayāḥ sarvāḥ sravantyaḥ puṇyā	GOtAAH-_3,1.14 / GOtSt_19.14: sarve SiloccayAH sarvAH sravantyaH puNyA
+   hradāstīrthāny ṛṣinivāsā goṣṭhapariskandhā iti deśāḥ |	hradAH-tIrTAni Rzi-nivAsAH gozWa-pariskanDAH iti deSAH |
+   {VAR_St: ṛṣinivāsagoṣṭha-}	{VAR_St: Rzi-nivAsa-gozWa-}
+   GautAA_3,1.15 / GautSt_19.15: brahmacaryaṃ satyavacanaṃ	GOtAAH-_3,1.15 / GOtSt_19.15: brahmacaryam satya-vacanam
+   savaneṣūdakopasparśanamārdravastratādhaḥśāyitānāśaka iti tapāṃsi(tapas) |	savanezu-udaka-upasparSanam-Ardra-vastra-tA-aDas-SAyita-anASakaH iti tapAMsi(-tapas) |
+   GautAA_3,1.16 / GautSt_19.16: hiraṇyaṃ gaur vāso 'śvo bhūmis tilā ghṛtam	GOtAAH-_3,1.16 / GOtSt_19.16: hiraNyam gOH vAsaH aSvaH BUmiH tilAH GRtam
+   annam itideyānīti |	annam iti-deyAni-iti |
+   {VAR_St: iti deyāni}	{VAR_St: iti deyAni}
+   GautAA_3,1.17 / GautSt_19.17: saṃvatsaraḥ ṣaṇmāsāś catvāras trayo vā	GOtAAH-_3,1.17 / GOtSt_19.17: saMvatsaraH zaz-mAsAH catvAraH trayaH vA
+   dvauvaikaś caturviṃśatyaho dvādaśāhaḥ ṣaḍahas tryaho 'horātra itikālāḥ |	dvOva-ekaH caturviMSati-aho dvAdaSa-ahaH zaz-ahar tri-ahaH ahorAtraH iti-kAlAH |
+   {VAR_St: trayo dvāv ekaś}	{VAR_St: trayaH dvO ekaS}
+   GautAA_3,1.18 / GautSt_19.18: etāny evānādeśe vikalpena kriyeran |	GOtAAH-_3,1.18 / GOtSt-_19.18: etAni eva-anAdeSe vikalpena kriyeran |
+   GautAA_3,1.19 / GautSt_19.19: enaḥsu(enas) guruṣu gurūṇi laghuṣu laghūni |	GOtAAH-_3,1.19 / GOtSt_19.19: enaH-su(enas) guruzu gurUNi laGuzu laGUni |
+   GautAA_3,1.20 / GautSt_19.20: kṛcchrātikṛcchrau cāndrāyaṇam iti	GOtAAH-_3,1.20 / GOtSt-_19.20: kRcCra-atikRcCrO cAndrAyaNam iti
+   sarvaprāyaścittaṃ |	sarva-prAyaScittam |
+   {VAR_St: sarvaprāyaścittam}	{VAR_St: sarva-prAyaScittam}
+   [GautAA 3,2 = GautSt XX]	[GOtAAH 3,2  GOtSt XX]
+   GautAA_3,2.1 / GautSt_20.1: tyajet pitaraṃ(pitṛ) rājaghātakaṃ	GOtAAH-_3,2.1 / GOtSt-_20.1: tyajet pitaraM(pitR) rAja-GAtakam
+   śūdrayājakaṃśūdrārthayājakaṃ vedaviplāvakaṃ bhrūṇahanaṃ yaś	SUdra-yAja-kaMSUdra-arTa-yAjakam veda-viplAvakam BrUNa-hanam yaH-
+   cāntyāvasāyibhiḥsaha saṃvased antyāvasāyinyāṃ ca |	ca-antyAvasAyiBiH-saha saMvaset antyAvasAyinyAm ca |
+   {VAR_St: -antāvasāyibhiḥ;saṃvasedantāvasāyinyām}	{VAR_St: -antAvasAyiBiH;-saMvaset-antAvasAyinyAm}
+   GautAA_3,2.2 / GautSt_20.2: tasya vidyāgurūn yonisaṃbandhāṃś ca	GOtAAH-_3,2.2 / GOtSt_20.2: tasya vidyA-gurUn yoni-saMbanDAn ca
+   saṃnipātyasarvāṇy udakādīni pretakāryāṇi kuryuḥ |	saMnipAtya-sarvANi udaka-AdIni pretakAryANi kuryuH |
+   {VAR_St: pretakarmāṇi}	{VAR_St: preta-karmANi}
+   GautAA_3,2.3 / GautSt_20.3: pātraṃ cāsya viparyasyeyuḥ |	GOtAAH-_3,2.3 / GOtSt_20.3: pAtram ca-asya viparyasyeyuH |
+   GautAA_3,2.4 / GautSt_20.4: dāsaḥ karmakaro vāvakarād amedhyapātram	GOtAAH-_3,2.4 / GOtSt_20.4: dAsaH karmakaraH vA-avakarAt ameDya-pAtram
+   ānīyadāsīghaṭāt pūrayitvā dakṣiṇāmukho yadā viparyasyed amukam	AnIya-dAsI-GawAt pUrayitvA dakziNAmuKaH yadA viparyasyet amukam
+   anudakaṃkaromi iti nāmagrāham |	anudakaMkaromi iti nAmagrAham |
+   {VAR_St: dakṣiṇāmukhaḥ padā;viparyasyed amum}	{VAR_St: dakziNAmuKaH padA;-viparyasyet amum}
+   GautAA_3,2.5 / GautSt_20.5: taṃ sarve 'nvālabheran prācīnāvītino	GOtAAH-_3,2.5 / GOtSt_20.5: tam sarve anvAlaBeran prAcInAvItinaH-
+   muktaśikhāḥ |	mukta-SiKAH |
+   GautAA_3,2.6 / GautSt_20.6: vidyāguravo(guru) yonisaṃbandhāś ca vīkṣeran |	GOtAAH-_3,2.6 / GOtSt_20.6: vidyA-guravaH-(guru) yoni-saMbanDAH ca vIkzeran |
+   GautAA_3,2.7 / GautSt_20.7: apa upaspṛśya grāmaṃ praviśanti |	GOtAAH-_3,2.7 / GOtSt_20.7: apaH upaspRSya grAmam praviSanti |
+   GautAA_3,2.8 / GautSt_20.8: ata uttaraṃ tena saṃbhāṣya tiṣṭhed ekarātraṃ	GOtAAH-_3,2.8 / GOtSt-_20.8: atas uttaram tena saMBAzya tizWet eka-rAtram
+   japansāvitrīm ajñānapūrvam |	japan-sAvitrIm ajQAna-pUrvam |
+   {VAR_St: ata ūrdhvaṃ}	{VAR_St: atas UrDvaM}
+   GautAA_3,2.9 / GautSt_20.9: jñānapūrvaṃ ca trirātram |	GOtAAH-_3,2.9 / GOtSt-_20.9: jQAna-pUrvam ca tri-rAtram |
+   {VAR_St: -pūrvaṃ cet}	{VAR_St: -pUrvam ced-}
+   GautAA_3,2.10 / GautSt_20.10: yas tu prāyaścittena śudhyet tasmiñ	GOtAAH-_3,2.10 / GOtSt_20.10: yaH tu prAyaScittena SuDyet tasmin-
+   śuddheśātakumbhamayaṃ pātraṃ puṇyatamād dhradāt pūrayitvā sravantībhyovā	SudDeSAta-kumBa-mayam pAtram puNyatamAt DradAt pUrayitvA sravantIByaH-vA
+   tata enam apa upasparśayeyuḥ |	tatas enam apaH upasparSayeyuH |
+   GautAA_3,2.11 / GautSt_20.11: athāsmai tatpātram dadyus tatapratigṛhya	GOtAAH-_3,2.11 / GOtSt-_20.11: aTa-asmE tat-pAtram dadyuH tata-pratigRhya
+   japecśāntā dyauḥ śāntā pṛthivī śāntaṃ śivam antarikṣaṃ yo rocanastābhamam	japet-SAntA dyOH SAntA pRTivI SAntam Sivam antarikzam yaH rocanaH-tABamam
+   gṛhṇāmiiti |	gRhNAm-iiti |
+   {VAR_St: rocanas tam iha gṛh-}	{VAR_St: rocanaH tam iha gRh-}
+   GautAA_3,2.12a / GautSt_20.12: etair yajurbhiḥ pāvamānībhis	GOtAAH-_3,2.12aH / GOtSt-_20.12: etEH yajurBiH pAvamAnIBiH-
+   taratsamandībhiḥkūṣmāṇḍaiś cājyaṃ juhuyād |	taratsa-mandIBiH-kUzmANxEH ca-Ajyam juhuyAt |
+   GautAA_3,2.12b / GautSt_20.13a: hiraṇyaṃ brāhmaṇāyadadyāt |	GOtAAH-_3,2.12B / GOtSt_20.13a: hiraNyam brAhmaNAyadadyAt |
+   GautAA_3,2.13 / GautSt_20.13b: gāṃ vā |	GOtAAH-_3,2.13 / GOtSt_20.13b: gAm vA |
+   GautAA_3,2.14 / GautSt_20.14: ācāryāya ca |	GOtAAH-_3,2.14 / GOtSt-_20.14: AcAryAya ca |
+   GautAA_3,2.15 / GautSt_20.15: yasya tu prāṇāntikaṃ prāyaścittaṃ sa	GOtAAH-_3,2.15 / GOtSt-_20.15: yasya tu prANAntikam prAyaScittam sa
+   mṛtaḥśudhyet |	mRtaH-SuDyet |
+   {VAR_St: prāyaścittaṃ mṛtaḥ}	{VAR_St: prAyaScittam mRtaH}
+   GautAA_3,2.16 / GautSt_20.16: sarvāṇy eva tasminn udakādīni pretakarmāṇi	GOtAAH-_3,2.16 / GOtSt-_20.16: sarvANi eva tasmin udaka-AdIni preta-karmANi
+   kuryuḥ |	kuryuH |
+   GautAA_3,2.17 / GautSt_20.17: etad eva śāntyudakaṃ	GOtAAH-_3,2.17 / GOtSt_20.17: etat eva SAntyudakam
+   sarveṣūpapātakeṣusarveṣūpapātakeṣu |	sarvezu-upapAtaka-izu-sarvezu-upapAtakezu |
+   {VAR_St: upapātakeṣu upapātakeṣu}	{VAR_St: upapAtakezu upapAtakezu}
+   [GautAA 3,3 = GautSt XXI]	[GOtAAH 3,3  GOtSt XXI]
+   GautAA_3,3.1 / GautSt_21.1:	GOtAAH-_3,3.1 / GOtSt-_21.1:
+   brahmahasurāpagurutalpagamātṛpitṛyonisaṃbandhāgastenanāstikaninditakarmābhyāsipatitātyāgyapatitatyāginaḥ	brahma-hasuH-Apa-guru-talpa-ga-mAtR-pitR-yoni-saMbanDa-Agastena-nAstika-nindita-karma-aByAsi-patitA-tyAgya-patita-tyAginaH
+   patitāḥ |	patitAH |
+   {VAR_St: brahmahāsurāpa--saṃbandhaga-}	{VAR_St: brahma-hA-asura-apa---saMbanDa-ga-}
+   GautAA_3,3.2 / GautSt_21.2: pātakasaṃyojakāś ca |	GOtAAH-_3,3.2 / GOtSt_21.2: pAtaka-saMyojakAH ca |
+   GautAA_3,3.3 / GautSt_21.3: taiś cābdaṃ samācaran |	GOtAAH-_3,3.3 / GOtSt_21.3: tEH ca-abdam samAcaran |
+   GautAA_3,3.4 / GautSt_21.4: dvijātikarmabhyo hāniḥ patanam |	GOtAAH-_3,3.4 / GOtSt-_21.4: dvijAti-karmaByaH hAniH patanam |
+   GautAA_3,3.5 / GautSt_21.5: tathā paratra cāsiddhiḥ |	GOtAAH-_3,3.5 / GOtSt-_21.5: taTA paratra ca-asidDiH |
+   {VAR_St: omitt: tathā}	{VAR_St: omitt: taTA}
+   GautAA_3,3.6 / GautSt_21.6: tam eke narakam |	GOtAAH-_3,3.6 / GOtSt_21.6: tam eke narakam |
+   GautAA_3,3.7 / GautSt_21.7: trīṇi prathamāny anirdeśyāny anu |	GOtAAH-_3,3.7 / GOtSt_21.7: trINi praTamAni anirdeSyAni anu |
+   {VAR_St: anirdeśyāni manuḥ}	{VAR_St: anirdeSyAni manuH}
+   GautAA_3,3.8 / GautSt_21.8: na strīṣv agurutalpaṃ patatīty eke |	GOtAAH-_3,3.8 / GOtSt_21.8: na strIzu aguru-talpam patati-iti eke |
+   {VAR_St: agurutalpaḥ}	{VAR_St: agurutalpaH}
+   GautAA_3,3.9 / GautSt_21.9: bhrūṇahani hīnavarṇasevāyāṃ ca strīpatati |	GOtAAH-_3,3.9 / GOtSt_21.9: BrUNa-hani hIna-varNa-sevAyAm ca strIpatati |
+   {VAR_St: hīnaśevāyāṃ}	{VAR_St: hIna-SevAyAM}
+   GautAA_3,3.10 / GautSt_21.10: kauṭasākṣyaṃ rājagāmi paiśunam	GOtAAH-_3,3.10 / GOtSt-_21.10: kOwa-sAkzyam rAja-gAmi pESunam
+   guroranṛtābhiśaṃsanaṃ mahāpātakasamāni |	guroH-anRta-aBiSaMsanam mahApAtaka-samAni |
+   {VAR_St: -śaṃsanaṃ pātakasamāni}	{VAR_St: -SaMsanam pAtaka-samAni}
+   GautAA_3,3.11 / GautSt_21.11: apaṅktyānāṃ	GOtAAH-_3,3.11 / GOtSt-_21.11: apaFktyAnAm
+   prāgdurbālādgohantṛbrahmaghnatanmātrakṛdavakīrṇipatitasāvitrīkeṣūpapātakam	prAk-durbAlAt-go-hantR-brahma-Gna-tanmAtra-kRt-avakIrNi-patita-sAvitrIkezu-upapAtakam
+   {VAR_St: apāṅkty-;-brahmojbhaktanmantra-}	{VAR_St: apAFkti--;-brahma-ujBaktan-mantra-}
+   GautAA_3,3.12 / GautSt_21.12: ajñānād andhyāpanād	GOtAAH-_3,3.12 / GOtSt-_21.12: ajQAnAt anDyApanAd
+   ṛtvigācāryaupatanīyasevāyāṃ ca heyau |	Rtvij-AcArya-OpatanIya-sevAyAm ca heyO |
+   {VAR_St: ajñānādhyāpanād}	{VAR_St: ajQAna-aDyApanAt-}
+   GautAA_3,3.13 / GautSt_21.13: anyatra hānāt patati |	GOtAAH-_3,3.13 / GOtSt_21.13: anyatra hAnAt patati |
+   GautAA_3,3.14 / GautSt_21.14: tasya ca pratigrahītety eke |	GOtAAH-_3,3.14 / GOtSt-_21.14: tasya ca pratigrahIta-iti eke |
+   GautAA_3,3.15 / GautSt_21.15: na karhicin mātāpitror(mātṛpitṛ) avṛttiḥ |	GOtAAH-_3,3.15 / GOtSt-_21.15: na karhicit mAtA-pitroH-(mAtR-pitR) avRttiH |
+   GautAA_3,3.16 / GautSt_21.16: dāyaṃ tu na bhajeran |	GOtAAH-_3,3.16 / GOtSt_21.16: dAyam tu na Bajeran |
+   GautAA_3,3.17 / GautSt_21.17: brāhmanābhiśaṃsane doṣas tāvān |	GOtAAH-_3,3.17 / GOtSt_21.17: brAhmana-aBiSaMsane dozaH tAvAn |
+   GautAA_3,3.18 / GautSt_21.18: dvir anenasi |	GOtAAH-_3,3.18 / GOtSt_21.18: dvis anenasi |
+   GautAA_3,3.19 / GautSt_21.19: durbalahiṃsāyāṃ ca vimocane śaktaś cet |	GOtAAH-_3,3.19 / GOtSt_21.19: durbala-hiMsAyAm ca vimocane SaktaH ced |
+   {VAR_St: cāvimocane}	{VAR_St: ca-avimocane}
+   GautAA_3,3.20 / GautSt_21.20: abhikruddhāvagoraṇaṃ brāhmaṇasya	GOtAAH-_3,3.20 / GOtSt_21.20: aBikrudDa-avagoraNam brAhmaNasya
+   varṣaśatamasvargyam |	varza-Satam-asvargyam |
+   {VAR_St: -avagoraṇe}	{VAR_St: -ava-goraNe}
+   GautAA_3,3.21 / GautSt_21.21: nighāte sahasram |	GOtAAH-_3,3.21 / GOtSt_21.21: niGAte sahasram |
+   GautAA_3,3.22 / GautSt_21.22: lohitadarśane yāvatas tatpraskandya	GOtAAH-_3,3.22 / GOtSt_21.22: lohita-darSane yAvataH tad-praskandya
+   pāṃsūnsaṃgṛhṇīyāt |	pAMsUn-saMgRhNIyAt |
+   {VAR_St: saṃgṛhṇīyāt}	{VAR_St: saMgRhNIyAt}
+   [GautAA 3,4 = GautSt XXII]	[GOtAAH 3,4  GOtSt XXII]
+   GautAA_3,4.1 / GautSt_22.1: prāyaścittam |	GOtAAH-_3,4.1 / GOtSt-_22.1: prAyaScittam |
+   GautAA_3,4.2 / GautSt_22.2: agnau saktir brahmaghnas trir avacchātasya |	GOtAAH-_3,4.2 / GOtSt_22.2: agnO saktiH brahma-GnaH tris avacCAtasya |
+   GautAA_3,4.3 / GautSt_22.3: lakṣyaṃ vā syāt janye śastrabhṛtām |	GOtAAH-_3,4.3 / GOtSt_22.3: lakzyam vA syAt janye SastraBRtAm |
+   GautAA_3,4.4 / GautSt_22.4: khaṭvāṅgakapālapāṇir vā dvādaśa	GOtAAH-_3,4.4 / GOtSt_22.4: KawvAFga-kapAla-pANiH vA dvAdaSa
+   saṃvatsarānbrahmacārī bhaikṣāya grāmaṃ praviśet karmācakṣāṇaḥ |	saMvatsarAn-brahmacArI BEkzAya grAmam praviSet karma-AcakzANaH |
+   GautAA_3,4.5 / GautSt_22.5: patho 'pakrāmet saṃdarśanād āryasya |	GOtAAH-_3,4.5 / GOtSt-_22.5: paTaH apakrAmet saMdarSanAt Aryasya |
+   GautAA_3,4.6 / GautSt_22.6: sthānāsanābhyāṃ viharan	GOtAAH-_3,4.6 / GOtSt-_22.6: sTAna-AsanAByAm viharan
+   savaneṣūdakopasparśīśudhyet |	savanezu-udaka-upasparSI-SuDyet |
+   GautAA_3,4.7 / GautSt_22.7: prāṇalābhe vā tannimitte brāhmaṇasya |	GOtAAH-_3,4.7 / GOtSt-_22.7: prANa-lABe vA tad-nimitte brAhmaNasya |
+   GautAA_3,4.8 / GautSt_22.8: dravyāpacaye tryavaraṃ pratirāddhaḥ |	GOtAAH-_3,4.8 / GOtSt_22.8: dravya-apacaye tri-avaram pratirAdDaH |
+   {VAR_St: -caye vā}	{VAR_St: -caye vA}
+   GautAA_3,4.9 / GautSt_22.9: aśvamedhāvabhṛthe vā |	GOtAAH-_3,4.9 / GOtSt_22.9: aSvameDa-avaBRTe vA |
+   GautAA_3,4.10 / GautSt_22.10: anyayajñe 'py agniṣṭudantaś cet |	GOtAAH-_3,4.10 / GOtSt_22.10: anya-yajQe api agnizwut-antaH ced |
+   GautAA_3,4.11 / GautSt_22.11: sṛṣṭaś ced brāhmaṇavadhe 'hatvāpi |	GOtAAH-_3,4.11 / GOtSt-_22.11: sRzwaH ced brAhmaNa-vaDe ahatvA-api |
+   GautAA_3,4.12 / GautSt_22.12: ātreyyāś caivam |	GOtAAH-_3,4.12 / GOtSt_22.12: AtreyyAH ca-evam |
+   {VAR_St: ātreyīṃ}	{VAR_St: AtreyIM}
+   GautAA_3,4.13 / GautSt_22.13: garbhe cāvijñāte |	GOtAAH-_3,4.13 / GOtSt_22.13: garBe ca-avijQAte |
+   {VAR_St: brāhmaṇasya}	{VAR_St: brAhmaNasya}
+   GautAA_3,4.14 / GautSt_22.14: rājanyavadhe ṣaḍvārṣikaṃ prākṛtaṃ	GOtAAH-_3,4.14 / GOtSt_22.14: rAjanya-vaDe zaz-vArzikam prAkRtam
+   brahmacaryamṛṣabhaikasahasrāś ca gā dadyāt |	brahmacaryam-RzaBa-eka-sahasrAH ca gAH dadyAt |
+   GautAA_3,4.15 / GautSt_22.15: vaiśye tu traivārṣikam ṛṣabhaikaśatāś ca	GOtAAH-_3,4.15 / GOtSt_22.15: vESye tu trEvArzikam RzaBa-eka-SatAH ca
+   gādadyād |	gAdadyAt |
+   {VAR_St: omitt: tu}	{VAR_St: omitt: tu}
+   GautAA_3,4.16 / GautSt_22.16: śūdre saṃvatsaram ṛṣabhaikādaśāś ca gā	GOtAAH-_3,4.16 / GOtSt-_22.16: SUdre saMvatsaram RzaBa-ekAdaSAH ca gA
+   dadyāt |	dadyAt |
+   GautAA_3,4.17 / GautSt_22.17: anātreyyāṃ caivam |	GOtAAH-_3,4.17 / GOtSt-_22.17: anAtreyyAm ca-evam |
+   GautAA_3,4.18 / GautSt_22.18: gāṃ ca vaiśyavat |	GOtAAH-_3,4.18 / GOtSt_22.18: gAm ca vESya-vat |
+   GautAA_3,4.19 / GautSt_22.19:	GOtAAH-_3,4.19 / GOtSt-_22.19:
+   maṇḍūkanakulakākabimbadaharamūṣakaśvahiṃsāsuca |	maNxUka-nakula-kAka-bimba-dahara-mUzaka-Sva-hiMsA-su-ca |
+   {VAR_St: -mūṣika-}	{VAR_St: -mUzika-}
+   GautAA_3,4.20 / GautSt_22.20: asthanvatām sahasraṃ hatvā |	GOtAAH-_3,4.20 / GOtSt_22.20: asTanvatAm sahasram hatvA |
+   GautAA_3,4.21 / GautSt_22.21: anasthimatām anaḍudbhāre(anaḍuh) ca |	GOtAAH-_3,4.21 / GOtSt_22.21: anasTimatAm anaxudBAre(a-naxuh) ca |
+   GautAA_3,4.22 / GautSt_22.22: api vāsthanvatām ekaikasmin kiṃcid dadyāt |	GOtAAH-_3,4.22 / GOtSt_22.22: api vA-asTanvatAm ekEkasmin kiMcid dadyAt |
+   GautAA_3,4.23 / GautSt_22.23: ṣaṇḍhe palālabhāraḥ sīsamāṣaś ca |	GOtAAH-_3,4.23 / GOtSt_22.23: zaNXe palAla-BAraH sIsamAzaH ca |
+   GautAA_3,4.24 / GautSt_22.24: varāhe ghṛtadhaṭaḥ |	GOtAAH-_3,4.24 / GOtSt-_22.24: varAhe GRta-DawaH |
+   {VAR_St: ghṛtaghaṭaḥ}	{VAR_St: GRta-GawaH}
+   GautAA_3,4.25 / GautSt_22.25: sarpe lohadaṇḍaḥ |	GOtAAH-_3,4.25 / GOtSt-_22.25: sarpe loha-daNxaH |
+   GautAA_3,4.26 / GautSt_22.26: brahmabandhvāṃ calanāyāṃ nīlaḥ |	GOtAAH-_3,4.26 / GOtSt_22.26: brahmabanDvAm calanAyAm nIlaH |
+   {VAR_St: jīlaḥ}	{VAR_St: jIlaH}
+   GautAA_3,4.27 / GautSt_22.27: vaiśikena kiṃcit |	GOtAAH-_3,4.27 / GOtSt-_22.27: vESikena kiMcid |
+   GautAA_3,4.28 / GautSt_22.28: talpānnadhanalābhavadheṣu pṛthagvarṣāṇi |	GOtAAH-_3,4.28 / GOtSt-_22.28: talpa-anna-Dana-lABa-vaDezu pRTak-varzANi |
+   GautAA_3,4.29 / GautSt_22.29: dve paradāre |	GOtAAH-_3,4.29 / GOtSt_22.29: dve para-dAre |
+   GautAA_3,4.30 / GautSt_22.30: trīṇi śrotriyasya |	GOtAAH-_3,4.30 / GOtSt_22.30: trINi Srotriyasya |
+   GautAA_3,4.31 / GautSt_22.31: dravyalābhe cotsargaḥ |	GOtAAH-_3,4.31 / GOtSt_22.31: dravya-lABe ca-utsargaH |
+   GautAA_3,4.32 / GautSt_22.32: yathāsthānaṃ vā gamayet |	GOtAAH-_3,4.32 / GOtSt_22.32: yaTAsTAnam vA gamayet |
+   GautAA_3,4.33 / GautSt_22.33: pratiṣiddhamantrayoge sahasravākaś cet |	GOtAAH-_3,4.33 / GOtSt-_22.33: pratizidDa-mantra-yoge sahasravAkaH ced |
+   GautAA_3,4.34 / GautSt_22.34: agnyutsādinirākṛtyupapātakeṣu caivam |	GOtAAH-_3,4.34 / GOtSt-_22.34: agni-utsAdi-nirAkRti-upapAtakezu ca-evam |
+   GautAA_3,4.35 / GautSt_22.35: strī yāticāriṇī guptā piṇḍaṃ tu labheta |	GOtAAH-_3,4.35 / GOtSt-_22.35: strI yAti-cAriNI guptA piNxam tu laBeta |
+   {VAR_St: strīcāticāriṇī}	{VAR_St: strI-cAti-cAriNI}
+   GautAA_3,4.36 / GautSt_22.36: amānuṣīṣu govarjaṃ strīkṛte kūṣmāṇḍair	GOtAAH-_3,4.36 / GOtSt-_22.36: amAnuzIzu go-varjam strI-kRte kUzmANxEH-
+   ghṛtahomoghṛtahomaḥ |	GRta-homaH-GRta-homaH |
+   [GautAA 3,5 = GautSt XXIII]	[GOtAAH 3,5  GOtSt XXIII]
+   GautAA_3,5.1 / GautSt_23.1: surāpasya brāhmaṇasyoṣṇām āsiñceyuḥ surām	GOtAAH-_3,5.1 / GOtSt-_23.1: surApasya brAhmaNasya-uzNAm AsiQceyuH surAm
+   āsyemṛtaḥ śudhyet |	AsyemRtaH SuDyet |
+   GautAA_3,5.2 / GautSt_23.2: amatyā pāne payo ghṛtam udakaṃ vāyuṃ	GOtAAH-_3,5.2 / GOtSt_23.2: amatyA pAne payaH GRtam udakam vAyum
+   pratitryahaṃtaptāni sa kṛcchras tato 'sya saṃskāraḥ |	pratitri-ahaMtaptAni sa kRcCraH tatas asya saMskAraH |
+   GautAA_3,5.3 / GautSt_23.3: mūtrapurīṣaretasāṃ ca prāśane |	GOtAAH-_3,5.3 / GOtSt_23.3: mUtra-purIza-retasAm ca prASane |
+   GautAA_3,5.4 / GautSt_23.5: śvāpadoṣṭrakharāṇāṃ cāṅgasya |	GOtAAH-_3,5.4 / GOtSt-_23.5: SvApada-uzwra-KarANAm ca-aFgasya |
+   GautAA_3,5.5 / GautSt_23.5: grāmyakukkuṭasūkarayoś ca |	GOtAAH-_3,5.5 / GOtSt-_23.5: grAmya-kukkuwa-sUkarayoH ca |
+   GautAA_3,5.6 / GautSt_23.6: gandhāghrāṇe surāpasya prāṇāyāmā ghṛtaprāśanaṃ	GOtAAH-_3,5.6 / GOtSt_23.6: ganDa-AGrANe surApasya prANAyAmAH GRta-prASanam
+   ca |	ca |
+   GautAA_3,5.7 / GautSt_23.7: pūrvaiś ca daṣṭasya |	GOtAAH-_3,5.7 / GOtSt-_23.7: pUrvEH ca dazwasya |
+   GautAA_3,5.8 / GautSt_23.8: tapte lohaśayane gurutalpagaḥ śayīta |	GOtAAH-_3,5.8 / GOtSt_23.8: tapte loha-Sayane guru-talpa-gaH SayIta |
+   GautAA_3,5.9 / GautSt_23.9: sūrmīṃ vā śliṣyejjvalantīm |	GOtAAH-_3,5.9 / GOtSt_23.9: sUrmIm vA Slizyet-jvalantIm |
+   {VAR_St: vāśliṣyet}	{VAR_St: vA-ASlizyet}
+   GautAA_3,5.10 / GautSt_23.10: liṅgaṃ vā savṛṣaṇam utkṛtya añjalāv	GOtAAH-_3,5.10 / GOtSt-_23.10: liFgam vA sa-vRzaNam utkRtya aQjalOv
+   ādhāyadakṣiṇāpratīcīṃ vrajed ajihmam ā śarīranipātāt |	ADAya-dakziNA-pratIcIm vrajet ajihmam A SarIra-nipAtAt |
+   {VAR_St: vā utpāṭya}	{VAR_St: vA utpAwya}
+   GautAA_3,5.11 / GautSt_23.11: mṛtaḥ śudhyet |	GOtAAH-_3,5.11 / GOtSt_23.11: mRtaH SuDyet |
+   GautAA_3,5.12 / GautSt_23.12: sakhīsayonisagotrāśiṣyabhāryāsu sunuṣāyāṃ	GOtAAH-_3,5.12 / GOtSt-_23.12: saKI-sayoni-sagotra-aSizya-BAryAsu sunuzAyAm
+   gavi cagurutalpasamaḥ |	gavi ca-guru-talpa-samaH |
+   {VAR_St: sakhi- ... gavi ca talpasamaḥ}	{VAR_St: saKi ... gavi ca talpa-samaH}
+   GautAA_3,5.13 / GautSt_23.13: avakara ity eke |	GOtAAH-_3,5.13 / GOtSt_23.13: avakaraH iti eke |
+   GautAA_3,5.14 / GautSt_23.14: śvabhir ādayed rājā nihīnavarṇagamane	GOtAAH-_3,5.14 / GOtSt-_23.14: SvaBiH Adayet rAjA nihIna-varNa-gamane
+   striyaṃprakāśam |	striyaMprakASam |
+   {VAR_St: śvabhiḥ khādayed}	{VAR_St: SvaBiH KAdayet-}
+   GautAA_3,5.15 / GautSt_23.15: pumāṃsaṃ ghātayet(han) |	GOtAAH-_3,5.15 / GOtSt-_23.15: pumAMsam GAtayet(han) |
+   {VAR_St: khādayet}	{VAR_St: KAdayet-}
+   GautAA_3,5.16 / GautSt_23.16: yathoktaṃ vā |	GOtAAH-_3,5.16 / GOtSt-_23.16: yaTA-uktam vA |
+   GautAA_3,5.17 / GautSt_23.17: gardabhenāvakīrṇī nirṛtiṃ catuṣpathe yajet |	GOtAAH-_3,5.17 / GOtSt-_23.17: gardaBena-avakIrNI nirRtim catuzpaTe yajet |
+   {VAR_St: yajeta}	{VAR_St: yajeta}
+   GautAA_3,5.18 / GautSt_23.18: tasyājinam ūrdhvabālaṃ paridhāya	GOtAAH-_3,5.18 / GOtSt_23.18: tasya-ajinam UrDva-bAlam pariDAya
+   lohitapatraḥ saptagṛhān bhakṣaṃ caretkarmācakṣāṇaḥ |	lohita-patraH sapta-gRhAn Bakzam caret-karma-AcakzANaH |
+   {VAR_St: ūrdhvavālaṃ....lohitapātraḥ..bhaikṣaṃ}	{VAR_St: UrDvavAlaM....-lohita-pAtraH..BEkzaM}
+   GautAA_3,5.19 / GautSt_23.19: saṃvatsareṇa śudhyet |	GOtAAH-_3,5.19 / GOtSt-_23.19: saMvatsareNa SuDyet |
+   GautAA_3,5.20 / GautSt_23.20: retaḥskandane bhaye roge svapne	GOtAAH-_3,5.20 / GOtSt_23.20: retaH-skandane Baye roge svapne
+   'gnīndhanabhaikṣacaraṇāni saptarātram akṛtvājyahomaḥ samidho	agni-inDana-BEkza-caraNAni sapta-rAtram akRtvA-Ajya-homaH samiDo
+   vāretasyābhyām |	vAretasyAByAm |
+   {VAR_St: samidhor}	{VAR_St: samiDoH-}
+   GautAA_3,5.21 / GautSt_23.21: sūryābhyudito brahmacārī tiṣṭhed(sthā)	GOtAAH-_3,5.21 / GOtSt-_23.21: sUrya-aByuditaH brahmacArI tizWet-(sTA)
+   aharabhuñjāno 'bhyastamitaś ca rātriṃ japan sāvitrīm |	ahar-aBuQjAnaH aByastamitaH ca rAtrim japan sAvitrIm |
+   GautAA_3,5.22 / GautSt_23.22: aśuciṃ dṛṣṭvā ādityam īkṣeta prāṇāyāmaṃ	GOtAAH-_3,5.22 / GOtSt_23.22: aSucim dRzwvA Adityam Ikzeta prANAyAmam
+   kṛtvā |	kRtvA |
+   GautAA_3,5.23 / GautSt_23.23: abhojyabhojane 'medhyaprāśane vā	GOtAAH-_3,5.23 / GOtSt_23.23: aBojya-Bojane ameDya-prASane vA
+   niṣpurīṣībhāvaḥ |	nizpurIzIBAvaH |
+   GautAA_3,5.24 / GautSt_23.24: trirātrāvaram abhojanam |	GOtAAH-_3,5.24 / GOtSt-_23.24: tri-rAtra-avaram aBojanam |
+   GautAA_3,5.25 / GautSt_23.25: saptarātraṃ vā svayaṃśīrṇāny	GOtAAH-_3,5.25 / GOtSt-_23.25: sapta-rAtram vA svayaMSIrNa-ani-
+   upabhuñjānaḥphalāny anatikrāman |	upaBuQjAnaH-PalAni anatikrAman |
+   {VAR_St: upayuñjānaḥ}	{VAR_St: upayuQjAnaH}
+   GautAA_3,5.26 / GautSt_23.26: prākpañcanakhebhyaś chardanaṃ ghṛtaprāśanaṃ	GOtAAH-_3,5.26 / GOtSt-_23.26: prAk-paQcanaKeByaH Cardanam GRta-prASanam
+   ca |	ca |
+   GautAA_3,5.27 / GautSt_23.27: ākrośānṛtahiṃsāsu trirātraṃ paramaṃ tapaḥ |	GOtAAH-_3,5.27 / GOtSt-_23.27: AkroSa-anRta-hiMsAsu tri-rAtram paramam tapaH |
+   GautAA_3,5.28 / GautSt_23.28: satyavākye vāruṇīmānavībhir homaḥ |	GOtAAH-_3,5.28 / GOtSt-_23.28: satya-vAkye vAruNI-mAnavIBiH homaH |
+   {VAR_St: vāruṇībhirmāna-}	{VAR_St: vAruNIBiH-mAna-}
+   GautAA_3,5.29 / GautSt_23.29: vivāhamaithunanarmārtasaṃyogeṣv adoṣam eke	GOtAAH-_3,5.29 / GOtSt-_23.29: vivAha-mETuna-narma-Arta-saMyogezu adozam eke
+   'nṛtam |	anRtam |
+   GautAA_3,5.30 / GautSt_23.30: na tu khalu gurvartheṣu |	GOtAAH-_3,5.30 / GOtSt_23.30: na tu Kalu guru-arTezu |
+   GautAA_3,5.31 / GautSt_23.31: sapta puruṣānitaś ca parataś ca hanti	GOtAAH-_3,5.31 / GOtSt-_23.31: sapta puruzAn-itas ca paratas ca hanti
+   manasāpiguror(guru) anṛtaṃ vadann alpeṣv apy artheṣu |	manasA-api-guroH-(guru) anRtam vadan alpezu api arTezu |
+   {VAR_St: yasmāt sapta}	{VAR_St: yasmAt sapta}
+   GautAA_3,5.32 / GautSt_23.32: antyāvasāyinīgamane kṛcchrābdaḥ |	GOtAAH-_3,5.32 / GOtSt_23.32: antyAvasAyinI-gamane kRcCra-abdaH |
+   {VAR_St: antāvasāyinī-}	{VAR_St: antAvasAyinI-}
+   GautAA_3,5.33 / GautSt_23.33: amatyā dvādaśarātraḥ |	GOtAAH-_3,5.33 / GOtSt_23.33: amatyAH dvAdaSa-rAtraH |
+   GautAA_3,5.34 / GautSt_23.34: udakyāgamane trirātras |	GOtAAH-_3,5.34 / GOtSt-_23.34: udakyA-gamane tri-rAtraH |
+   {VAR_St: trirātraḥ}	{VAR_St: tri-rAtraH}
+   [GautAA 3,6 = GautSt XXIV]	[GOtAAH 3,6  GOtSt XXIV]
+   GautAA_3,6.1 / GautSt_24.1: rahasyaṃ prāyaścittam avikhyātadoṣasya |	GOtAAH-_3,6.1 / GOtSt-_24.1: rahasyam prAyaScittam aviKyAta-dozasya |
+   GautAA_3,6.2 / GautSt_24.2: caturṛcaṃ taratsamandīty apsu japed	GOtAAH-_3,6.2 / GOtSt_24.2: catur-Rcam taratsamandI-iti apsu japet-
+   apratigrāhyaṃpratijighṛkṣan pratigṛhya vā |	apratigrAhyaMpratijiGRkzan pratigRhya vA |
+   GautAA_3,6.3 / GautSt_24.3: abhojyaṃ bubhukṣamāṇaḥ pṛthivīm āvapet |	GOtAAH-_3,6.3 / GOtSt_24.3: aBojyam buBukzamANaH pRTivIm Avapet |
+   GautAA_3,6.4 / GautSt_24.4: ṛtvantarāramaṇa udakopasparśanāc chuddhim eke	GOtAAH-_3,6.4 / GOtSt_24.4: Rtu-antarAramaNaH udaka-upasparSanAt SudDim eke
+   GautAA_3,6.5 / GautSt_24.5: strīṣu |	GOtAAH-_3,6.5 / GOtSt-_24.5: strIzu |
+   {VAR_St: eke strī-}	{VAR_St: eke strI-}
+   GautAA_3,6.6 / GautSt_24.6: payovrato vā daśarātraṃ ghṛtena dvitīyam	GOtAAH-_3,6.6 / GOtSt_24.6: payaH-vrataH vA daSa-rAtram GRtena dvitIyam
+   adbhistṛtīyaṃ divādiṣv ekabhaktiko jalaklinnavāsā lomāni nakhāni	adBiH-tRtIyam divAdizu eka-BaktikaH jala-klinna-vAsAH lomAni naKAni
+   tvacammāṃsaṃ śoṇitaṃ snāyvasthi majjānam iti homā ātmano mukhe mṛtyor	tvacam-mAMsam SoNitam snAyu-asTi majjAnam iti homAH AtmanaH muKe mRtyoH-
+   āsyejuhomīty antataḥ sarveṣāṃ prāyaścittaṃ bhrūṇahatyāyāḥ |	Asyejuhomi-iti antatas sarvezAm prAyaScittam BrUNa-hatyAyAH |
+   {VAR_St: iti homātmamukhe ...ity antaḥ}	{VAR_St: iti homa-Atma-muKe ...iti antaH}
+   - / GautSt_24.7: athānyat |	 / GOtSt-_24.7: aTa-anyat |
+   GautAA_3,6.7 / GautSt_24.8: ukto niyamaḥ |	GOtAAH-_3,6.7 / GOtSt-_24.8: uktaH niyamaH |
+   GautAA_3,6.8 / GautSt_24.9: agne tvaṃ pārayeti (RV 1,189.2)	GOtAAH-_3,6.8 / GOtSt_24.9: agne tvam pAraya-iti (RV 1,189.2)
+   mahāvyāhṛtibhirjuhuyāt kūṣmāṇḍaiś cājyam |	mahAvyAhRtiBiH-juhuyAt kUzmANxEH ca-Ajyam |
+   GautAA_3,6.9 / GautSt_24.10: tadvrata eva vā	GOtAAH-_3,6.9 / GOtSt-_24.10: tat-vrataH eva vA
+   brahmahatyāsurāpānasteyagurutalpeṣuprāṇāyāmais tānto 'ghamarṣaṇaṃ japan	brahmahatyA-surA-pAna-steya-guru-talpA-izu-prANAyAmEH tAntaH aGamarzaNam japan
+   samam aśvamedhāvabhṛthenedaṃca prāyaścittam |	samam aSvameDa-avaBRTena-idaMca prAyaScittam |
+   {VAR_St: japet; omitt: idaṃ ca prāyaścittam}	{VAR_St: japet; omitt: idam ca prAyaScittam}
+   GautAA_3,6.10 / GautSt_24.11: sāvitrīṃ vā sahasrakṛtva āvartayan	GOtAAH-_3,6.10 / GOtSt-_24.11: sAvitrIm vA sahasra-kRtvas Avartayan
+   punītehaivātmānam |	punIta-iha-eva-AtmAnam |
+   GautAA_3,6.11 / GautSt_24.12: antarjale vāghamarṣaṇaṃ trir	GOtAAH-_3,6.11 / GOtSt_24.12: antar-jale vA-aGamarzaNam tris-
+   āvartayansarvapāpebhyo vimucyate |	Avartayan-sarva-pApeByaH vimucyate |
+   {VAR_St: mucyate mucyate}	{VAR_St: mucyate mucyate}
+   [GautAA 3,7 = GautSt XXV]	[GOtAAH 3,7  GOtSt XXV]
+   GautAA_3,7.1 / GautSt_25.1: tad āhuḥ katidhāvakīrṇī praviśatīti |	GOtAAH-_3,7.1 / GOtSt-_25.1: tat AhuH katiDA-avakIrNI praviSati-iti |
+   GautAA_3,7.2 / GautSt_25.2: marutaḥ prāṇenendre balena	GOtAAH-_3,7.2 / GOtSt_25.2: marutaH prANena-indre balena
+   bṛhaspatiṃbrahmavarcasenāgnim evetareṇa sarveṇeti |	bRhaspatiMbrahmavarcasena-agnim eva-itareNa sarveNa-iti |
+   {VAR_St: prāṇair indraṃ}	{VAR_St: prANEH indraM}
+   GautAA_3,7.3 / GautSt_25.3: so 'māvāsyāyāṃ niśy agnim	GOtAAH-_3,7.3 / GOtSt-_25.3: saH amAvAsyAyAm niSi agnim
+   upasamādhāyaprāyaścittājyāhutīr juhoti |	upasamADAya-prAyaScitta-Ajya-AhutIH juhoti |
+   {VAR_St: -āhutī juhoti}	{VAR_St: -A-AhutI juhoti}
+   GautAA_3,7.4 / GautSt_25.4: kāmāvakīrṇo 'smy avakīrṇo 'smi kāmakāmāyasvāhā	GOtAAH-_3,7.4 / GOtSt-_25.4: kAma-avakIrNaH asmi avakIrNaH asmi kAma-kAmAyasvAhA
+   | kāmābhidugdho 'smi abhidugdho 'smi kāmakāmāya svāhetisamidham ādhāya	| kAma-aBidugDaH asmi aBidugDaH asmi kAma-kAmAya svAhA-iti-samiDam ADAya
+   anuparyukṣya yajñavāstu kṛtvopotthāyasamāsiñcatu ity etayā trir	anuparyukzya yajQavAstu kRtvA-upotTAyasamAsiQcatu iti etayA tris-
+   upatiṣṭheta |	upatizWeta |
+   {VAR_St: saṃ mā siñcantu ... upatiṣṭhet}	{VAR_St: sam mA siQcantu ... upatizWet-}
+   GautAA_3,7.5 / GautSt_25.5: traya ime lokā eṣāṃ lokānām abhijityā	GOtAAH-_3,7.5 / GOtSt_25.5: trayaH ime lokAH ezAm lokAnAm aBijityA
+   abhikrāntyāiti |	aBikrAntyAiti |
+   {VAR_St: abhijityā eṣāṃ lokānām}	{VAR_St: aBijityE ezAm lokAnAm-}
+   GautAA_3,7.6 / GautSt_25.6: etad evaikeṣām karmādhikṛtya yo 'prayata iva	GOtAAH-_3,7.6 / GOtSt-_25.6: etat eva-ekezAm karma-aDikRtya yaH aprayataH iva
+   syāt saitthaṃ juhuyād ittham anumantrayeta varo dakṣiṇeti	syAt sEtTam juhuyAt itTam anumantrayeta varaH dakziNA-iti
+   prāyaścittamaviśeṣāt |	prAyaScittam-aviSezAt |
+   {VAR_St: yo 'pūta;ittham abhimantrayeta}	{VAR_St: yaH apUta;itTam aBimantrayeta}
+   GautAA_3,7.7 / GautSt_25.7: anārjavapaiśunapratiṣiddhācārānādyaprāśaneṣu	GOtAAH-_3,7.7 / GOtSt_25.7: anArjava-pESuna-pratizidDa-AcAra-an-Adya-prASanezu
+   śūdrāyāṃ ca retaḥ siktvā(sic) ayonau(yoni) ca doṣavati ca karmaṇy	SUdrAyAm ca retaH siktvA-a(sic) ayonO(yoni) ca dozavati ca karmaNi-
+   apisaṃdhipūrve 'bliṅgābhir apa upaspṛśed vāruṇībhir anyair vāpavitraiḥ |	apisaMDi-pUrve abliFgABiH apaH upaspRSet vAruNIBiH anyEH vA-apavitrEH |
+   {VAR_St: doṣavati karmaṇy abhisandhipūrve 'pi}	{VAR_St: dozavati karmaNi aBisanDi-pUrve api}
+   GautAA_3,7.8 / GautSt_25.8: pratiṣiddhavāṅmanasāpacāre vyāhṛtayaḥ	GOtAAH-_3,7.8 / GOtSt_25.8: pratizidDa-vAc-manasA-apacAre vyAhRtayaH
+   pañcasatyāntāḥ |	paQca-satya-antAH |
+   {VAR_St: omitt: satyāntāḥ}	{VAR_St: omitt: satya-antAH}
+   GautAA_3,7.9 / GautSt_25.9: sarvāsv apo vācāmed ahaś ca mādityāś ca	GOtAAH-_3,7.9 / GOtSt-_25.9: sarvAsu apaH vA-AcAmet ahar ca mAdityAH ca
+   punātuiti prātā rātriś ca mā varuṇaś ca punātv iti sāyam |	punAtu-iti prAtA rAtriH ca mA varuNaH ca punAtu iti sAyam |
+   GautAA_3,7.10 / GautSt_25.10: aṣṭo vā samidha ādadhyād devakṛtasyeti	GOtAAH-_3,7.10 / GOtSt_25.10: azwaH vA samiDaH AdaDyAt deva-kRtasya-iti
+   hutvāeva sarvasmād enaso mucyate |	hutvA-aA-iva sarvasmAt enasaH mucyate |
+   {VAR_St: mucyate}	{VAR_St: mucyate}
+   {VAR_St: aṣṭau}	{VAR_St: azwO}
+   [GautAA 3,8 = GautSt XXVI]	[GOtAAH 3,8  GOtSt XXVI]
+   GautAA_3,8.1 / GautSt_26.1: athātaḥ kṛcchrān vyākhyāsyāmaḥ |	GOtAAH-_3,8.1 / GOtSt-_26.1: aTa-atas kRcCrAn vyAKyAsyAmaH |
+   {VAR_St: athātas trīnkṛcchrān}	{VAR_St: aTa-atas trIn-kRcCrAn-}
+   GautAA_3,8.2 / GautSt_26.2: haviṣyān prātar āśān bhuktvā tisro	GOtAAH-_3,8.2 / GOtSt_26.2: havizyAn prAtar ASAn BuktvA tisraH-
+   rātrīrnāśnīyāt |	rAtrIH-na-aSnIyAt |
+   GautAA_3,8.3 / GautSt_26.3: athāparaṃ try ahaṃ naktaṃ bhuñjīta |	GOtAAH-_3,8.3 / GOtSt_26.3: aTa-aparam tri aham naktam BuQjIta |
+   GautAA_3,8.4 / GautSt_26.4: athāparaṃ try ahaṃ na kaṃcana yāceta |	GOtAAH-_3,8.4 / GOtSt_26.4: aTa-aparam tri aham na kaMcana yAceta |
+   GautAA_3,8.5 / GautSt_26.5: athāparaṃ try aham upavaset |	GOtAAH-_3,8.5 / GOtSt_26.5: aTa-aparam tri aham upavaset |
+   GautAA_3,8.6 / GautSt_26.6: tiṣṭhed(sthā) ahani rātrāv āsīta kṣiprakāmaḥ |	GOtAAH-_3,8.6 / GOtSt_26.6: tizWet-(sTA) ahani rAtrO AsIta kzipra-kAmaH |
+   GautAA_3,8.7 / GautSt_26.7: satyaṃ vadet |	GOtAAH-_3,8.7 / GOtSt-_26.7: satyam vadet |
+   GautAA_3,8.8 / GautSt_26.8: anāryair na saṃbhāṣeta |	GOtAAH-_3,8.8 / GOtSt_26.8: anAryEH na saMBAzeta |
+   GautAA_3,8.9 / GautSt_26.9: rauravayaudhājape nityaṃ prayuñjīta(prayuj) |	GOtAAH-_3,8.9 / GOtSt-_26.9: rOrava-yODa-ajape nityam prayuQjIta(-prayuj) |
+   {VAR_St: -dhājaye}	{VAR_St: -DAjaye}
+   GautAA_3,8.10 / GautSt_26.10: anusavanam udakopasparśanam āpo hi	GOtAAH-_3,8.10 / GOtSt_26.10: anusavanam udaka-upasparSanam ApaH hi
+   ṣṭhetitisṛbhiḥ pavitravatībhir mārjayīta(mṛj) hiraṇyavarṇāḥ	zWetitisRBiH pavitravatIBiH mArjayIta(-mRj) hiraNya-varNAH
+   śucayaḥ(śuci)pāvakā ity aṣṭābhiḥ |	SucayaH(-Suci)pAvakAH iti azwABiH |
+   {VAR_St: hiraṇyavarṇā ity aṣṭābhiḥ}	{VAR_St: hiraNya-varNAH iti azwABiH}
+   GautAA_3,8.11 / GautSt_26.11: athodakatarpaṇam |	GOtAAH-_3,8.11 / GOtSt_26.11: aTa-udaka-tarpaNam |
+   GautAA_3,8.12 / GautSt_26.12: namo 'hamāya mohamāya maṃhamāya dhanvate	GOtAAH-_3,8.12 / GOtSt-_26.12: namaH ahamAya mohamAya maMhamAya Danvate
+   tāpasāyapunarvasave namaḥ | namo mauñjyāyorvyāya vasuvindāya	tApasAya-punarvasave namaH | namaH mOQjyAya-urvyAya vasu-vindAya
+   sārvavindāyanamaḥ | namaḥ pārāya supārāya mahāpārāya vārayiṣṇave namaḥ |	sArvavindAya-namaH | namaH pArAya su-pArAya mahA-pArAya vArayizNave namaH |
+   namorudrāya paśupataye mahate devāya	namaH-rudrAya paSupataye mahate devAya
+   tryambakāyaikacarāyādhipatayeharāya(hari) śarvāyeśānāyogrāya vajriṇe	tryambakAya-eka-carAya-aDipatayA-IharAya(-hari) SarvAya-ISAnAya-ugrAya vajriNe
+   ghṛṇine kapardine namaḥ | namaḥ sūryāyādityāya namaḥ | namo nīlagrīvāya	GRNine kapardine namaH | namaH sUryAya-AdityAya namaH | namaH nIlagrIvAya
+   śitikaṇṭhāya namaḥ | namaḥ kṛṣṇāya piṅgalāya namaḥ | namo jyeṣṭhāya	SitikaNWAya namaH | namaH kRzNAya piFgalAya namaH | namaH jyezWAya
+   vṛddhāyendrāyaharikeśāyordhvaretase namaḥ | namaḥ satyāya pāvakāya	vRdDAya-indrAya-harikeSAya-UrDvaretase namaH | namaH satyAya pAvakAya
+   pāvakavarṇāyakāmāya kāmarūpiṇe namaḥ | namo dīptāya dīptarūpiṇe namaḥ |	pAvaka-varNAya-kAmAya kAmarUpiNe namaH | namaH dIptAya dIpta-rUpiNe namaH |
+   namastīkṣṇāya tīkṣṇarūpiṇe namaḥ | namaḥ sobhyāya supuruṣāyamahāpuruṣāya	namaH-tIkzNAya tIkzNa-rUpiNe namaH | namaH soByAya su-puruzAya-mahApuruzAya
+   madhyamapuruṣāyottamapuruṣāya brahmacāriṇe namaḥ | namaścandralalāṭāya	maDyama-puruzAya-uttama-puruzAya brahmacAriNe namaH | namaH-candralalAwAya
+   kṛttivāsase namaḥ |	kRttivAsase namaH |
+   {VAR_St:	{VAR_St:
+   namohamāya;dhūnvate;urmyāya;sarvavindāya;pārayiṣṇave;haraye;jyeṣṭhāyaśreṣṭhāya	na-moha-mAya;-DUnvate;urmyAya;-sarva-vindAya;-pArayizNave;-haraye;-jyezWAya-SrezWAya
+   vṛddhāya;-vāsase nama iti}	vRdDAya;-vAsase namaH iti}
+   GautAA_3,8.13 / GautSt_26.13: etad evādityopasthānam |	GOtAAH-_3,8.13 / GOtSt-_26.13: etat eva-Aditya-upasTAnam |
+   GautAA_3,8.14 / GautSt_26.14: etā evājyāhutayaḥ |	GOtAAH-_3,8.14 / GOtSt_26.14: etAH eva-Ajya-AhutayaH |
+   GautAA_3,8.15 / GautSt_26.15: dvādaśarātrasyānte caruṃ śrapayitvā(śrā)	GOtAAH-_3,8.15 / GOtSt-_26.15: dvAdaSa-rAtrasya-ante carum SrapayitvA-a(SrA)
+   etābhyodevatābhyo juhuyāt |	etAByaH-devatAByaH juhuyAt |
+   GautAA_3,8.16 / GautSt_26.16: agnaye(agni) svāhā somāya	GOtAAH-_3,8.16 / GOtSt-_26.16: agnaye(agni) svAhA somAya
+   svāhāgniṣomābhyāmindrāgnibhyām indrāya viśvebhyo devebhyo brahmaṇe	svAhA-agnizomAByAm-indra-agniByAm indrAya viSveByaH deveByaH brahmaNe
+   prajāpataye 'gnayesviṣṭakṛta iti |	prajApataye agnayesu-izwakRtaH iti |
+   GautAA_3,8.17 / GautSt_26.17: tato brāhmaṇatarpaṇam |	GOtAAH-_3,8.17 / GOtSt_26.17: tatas brAhmaNa-tarpaNam |
+   GautAA_3,8.18 / GautSt_26.18: etenaivātikṛcchro vyākhyātaḥ |	GOtAAH-_3,8.18 / GOtSt-_26.18: etena-eva-atikRcCraH vyAKyAtaH |
+   GautAA_3,8.19 / GautSt_26.19: yāvat sakṛd ādadīta(ādā) tāvad aśnīyāt |	GOtAAH-_3,8.19 / GOtSt-_26.19: yAvat sakRt AdadIta-(AdA) tAvat aSnIyAt |
+   GautAA_3,8.20 / GautSt_26.20: abbhakṣas tṛtīyaḥ sa kṛcchrātikṛcchraḥ |	GOtAAH-_3,8.20 / GOtSt_26.20: abBakzaH tRtIyaH sa kRcCrAtikRcCraH |
+   GautAA_3,8.21 / GautSt_26.21: prathamaṃ caritvā śuciḥ pūtaḥ karmaṇyo	GOtAAH-_3,8.21 / GOtSt-_26.21: praTamam caritvA SuciH pUtaH karmaNyaH-
+   bhavati |	Bavati |
+   GautAA_3,8.22 / GautSt_26.22: dvitīyaṃ caritvā yatkiṃcid anyan	GOtAAH-_3,8.22 / GOtSt_26.22: dvitIyam caritvA yat-kiMcid anyan
+   mahāpātakebhyaḥpāpaṃ kurute tasmāt pramucyate |	mahApAtakeByaH-pApam kurute tasmAt pramucyate |
+   GautAA_3,8.23 / GautSt_26.23: tṛtīyaṃ caritvā sarvasmād enaso mucyate |	GOtAAH-_3,8.23 / GOtSt_26.23: tRtIyam caritvA sarvasmAt enasaH mucyate |
+   {VAR_St: sarvameno vyapohati}	{VAR_St: sarvam-enaH vyapohati}
+   GautAA_3,8.24 / GautSt_26.24: athaitāṃs trīn kṛcchrāṃś caritvā sarveṣu	GOtAAH-_3,8.24 / GOtSt_26.24: aTa-etAn trIn kRcCrAn caritvA sarvezu
+   vedeṣusnāto bhavati sarvair devair jñāto bhavati |	veda-izu-snAtaH Bavati sarvEH devEH jQAtaH Bavati |
+   GautAA_3,8.25 / GautSt_26.25: yaś caivaṃ veda |	GOtAAH-_3,8.25 / GOtSt-_26.25: yaH ca-evam veda |
+   {VAR_St: yaś caivaṃ veda}	{VAR_St: yaH ca-evam veda}
+   [GautAA 3,9 = GautSt XXVII]	[GOtAAH 3,9  GOtSt XXVII]
+   GautAA_3,9.1 / GautSt_27.1: athātaś cāndrāyaṇam |	GOtAAH-_3,9.1 / GOtSt-_27.1: aTa-atas cAndrAyaNam |
+   GautAA_3,9.2 / GautSt_27.2: tasyokto vidhiḥ kṛcchre |	GOtAAH-_3,9.2 / GOtSt_27.2: tasya-uktaH viDiH kRcCre |
+   GautAA_3,9.3 / GautSt_27.3: vapanaṃ vrataṃ caret |	GOtAAH-_3,9.3 / GOtSt_27.3: vapanam vratam caret |
+   {VAR_St: vrataṃ cet}	{VAR_St: vratam ced-}
+   GautAA_3,9.4 / GautSt_27.4: śvobhūtāṃ paurṇamāsīm upavaset |	GOtAAH-_3,9.4 / GOtSt-_27.4: SvoBUtAm pOrNamAsIm upavaset |
+   GautAA_3,9.5 / GautSt_27.5: āpyāyasva (RV 1,91.17) saṃ te payāṃsi (RV	GOtAAH-_3,9.5 / GOtSt-_27.5: ApyAyasva (RV 1,91.17) sam te payAMsi (RV
+   1,91.18) navonava (RV 10,85.19) iti caitābhis tarpaṇam ājyahomo haviṣaś	1,91.18) navaH-navaH (RV 10,85.19) iti ca-etABiH tarpaNam Ajya-homaH havizaH-
+   cānumantraṇamupasthānaṃ candramasaḥ |	ca-anumantraNam-upasTAnam candramasaH |
+   GautAA_3,9.6 / GautSt_27.6: yad devā devaheḍanam iti catasṛbhirjuhuyāt |	GOtAAH-_3,9.6 / GOtSt-_27.6: yat devAH deva-hexanam iti catasRBiH-juhuyAt |
+   {VAR_St: catasṛbhir ājyaṃ}	{VAR_St: catasRBiH AjyaM}
+   GautAA_3,9.7 / GautSt_27.7: devakṛtasyeti cānte samidbhiḥ |	GOtAAH-_3,9.7 / GOtSt-_27.7: deva-kRtasya-iti ca-ante samidBiH |
+   GautAA_3,9.8 / GautSt_27.8: oṃ bhūr bhuvaḥ svas tapaḥ satyaṃ yaśaḥ śrīr	GOtAAH-_3,9.8 / GOtSt-_27.8: om BUH BuvaH svar tapaH satyam yaSaH SrIH-
+   ūrgiḍaujas tejo varcaḥ puruṣo dharmaḥ śiva ity etair	Urgixa-ojaH tejaH varcaH puruzaH DarmaH SivaH iti etEH-
+   grāsānumantraṇaṃpratimantraṃ manasā |	grAsa-anumantraNaMpratimantram manasA |
+   {VAR_St: tejaḥ puruṣo}	{VAR_St: tejaH puruzaH-}
+   GautAA_3,9.9 / GautSt_27.9: namaḥ svāheti vā sarvān |	GOtAAH-_3,9.9 / GOtSt_27.9: namaH svAhA-iti vA sarvAn |
+   GautAA_3,9.10 / GautSt_27.10: grāsapramāṇam āsyāvikāreṇa |	GOtAAH-_3,9.10 / GOtSt-_27.10: grAsa-pramANam Asya-avikAreNa |
+   GautAA_3,9.11 / GautSt_27.11:	GOtAAH-_3,9.11 / GOtSt-_27.11:
+   carubhaikṣasaktukaṇayāvakaśākapayodadhighṛtamūlaphalodakānihavīṃsyuttarottaraṃ	caru-BEkza-saktu-kaNa-yAvaka-SAka-payaH-daDi-GRta-mUla-Pala-udakAn-ihavIMsi-uttarottaram
+   praśastāni |	praSastAni |
+   GautAA_3,9.12 / GautSt_27.12: paurṇamāsyāṃ pañcadaśa grāsān	GOtAAH-_3,9.12 / GOtSt_27.12: pOrNamAsyAm paQcadaSa grAsAn
+   bhuktvāekāpacayenāparapakṣam aśnīyāt |	BuktvA-aeka-apacayena-apara-pakzam aSnIyAt |
+   GautAA_3,9.13 / GautSt_27.13: amāvāsyāyām upoṣyaikopacayenapūrvapakṣam |	GOtAAH-_3,9.13 / GOtSt-_27.13: amAvAsyAyAm upozya-eka-upacayena-pUrva-pakzam |
+   {VAR_St: ekoccayena}	{VAR_St: eka-uccayena}
+   GautAA_3,9.14 / GautSt_27.14: viparītam ekeṣām |	GOtAAH-_3,9.14 / GOtSt_27.14: viparItam ekezAm |
+   GautAA_3,9.15 / GautSt_27.15: evaṃ cāndrāyaṇo māsaḥ |	GOtAAH-_3,9.15 / GOtSt_27.15: evam cAndrAyaNaH mAsaH |
+   {VAR_St: eṣa}	{VAR_St: eza}
+   GautAA_3,9.16 / GautSt_27.16: evam āptvā vipāpo vipāpmā sarvam	GOtAAH-_3,9.16 / GOtSt-_27.16: evam AptvA vipApaH vipApmA sarvam
+   eno(enas)hanti |	eno(ena-s)hanti |
+   {VAR_St: etam}	{VAR_St: etam}
+   GautAA_3,9.17 / GautSt_27.17: dvitīyam āptvā daśa pūrvān daśa parān	GOtAAH-_3,9.17 / GOtSt_27.17: dvitIyam AptvA daSa pUrvAn daSa parAn
+   ātmānaṃcaikaviṃśaṃ paṅktiṃ ca punāti |	AtmAnaMca-ekaviMSam paFktim ca punAti |
+   {VAR_St: daśāparān}	{VAR_St: daSa-aparAn}
+   GautAA_3,9.18 / GautSt_27.18: saṃvatsaraṃ cāptvā candramasaḥ salokatām	GOtAAH-_3,9.18 / GOtSt-_27.18: saMvatsaram ca-AptvA candramasaH salokatAm
+   āpnotisalokatām āpnoti |	Apnoti-salokatAm Apnoti |
+   {VAR_St: āpnoty āpnoti}	{VAR_St: Apnoti Apnoti}
+   [GautAA 3,10 = GautSt XXVIII]	[GOtAAH 3,10  GOtSt XXVIII]
+   GautAA_3,10.1 / GautSt_28.1: ūrdhavaṃ pituḥ(pitṛ) putrā rikthaṃ bhajeran |	GOtAAH-_3,10.1 / GOtSt_28.1: UrDavam pituH(pitR) putrAH rikTam Bajeran |
+   GautAA_3,10.2 / GautSt_28.2: nivṛtte rajasi mātur(mātṛ) jīvaticecchati |	GOtAAH-_3,10.2 / GOtSt_28.2: nivRtte rajasi mAtuH-(mAtR) jIvati-cecCati |
+   {VAR_St: vecchati}	{VAR_St: vA-icCati}
+   GautAA_3,10.3 / GautSt_28.3: sarvaṃ vā pūrvajasyetarān bibhṛyāt pitṛvat |	GOtAAH-_3,10.3 / GOtSt-_28.3: sarvam vA pUrvajasya-itarAn biBRyAt pitR-vat |
+   GautAA_3,10.4 / GautSt_28.4: vibhāge tu dharmavṛddhiḥ |	GOtAAH-_3,10.4 / GOtSt_28.4: viBAge tu Darma-vRdDiH |
+   GautAA_3,10.5 / GautSt_28.5: viṃśatibhāgo jyeṣṭhasya mithunam	GOtAAH-_3,10.5 / GOtSt-_28.5: viMSati-BAgaH jyezWasya miTunam
+   ubhayatodadyukto rathogovṛṣaḥ |	uBaya-ta-udadyuktaH raTogo-vRzaH |
+   GautAA_3,10.6 / GautSt_28.6: kāṇakhorakūṭavaṇetā madhyamasyānekāścet |	GOtAAH-_3,10.6 / GOtSt_28.6: kANa-Kora-kUwa-vaNetAH maDyamasya-anekAH-ced |
+   {VAR_St: -kūṭavaṇṭā;anekaś cet}	{VAR_St: -kUwavaNwA;anekaH cet}
+   GautAA_3,10.7 / GautSt_28.7: avir dhānyāyasī gṛhamano yuktaṃ	GOtAAH-_3,10.7 / GOtSt_28.7: aviH DAnya-AyasI gRha-manaH yuktam
+   catuṣpādaṃcaikaikaṃ yavīyasaḥ |	catuzpAdaMca-ekEkam yavIyasaH |
+   {VAR_St: catuṣpadāṃ}	{VAR_St: catuzpadAM}
+   GautAA_3,10.8 / GautSt_28.8: samadhā cetaratsarvam |	GOtAAH-_3,10.8 / GOtSt-_28.8: samaDA ca-itarat-sarvam |
+   {VAR_St: samadhetarat-}	{VAR_St: samaDA-itarat-}
+   - / GautSt_28.9: dvyaṃśī vā pūrvajasya |	 / GOtSt-_28.9: dvi-aMSI vA pUrvajasya |
+   - / GautSt_28.10: ekaikam itareṣām |	 / GOtSt-_28.10: ekEkam itarezAm |
+   GautAA_3,10.9 / GautSt_28.11: ekaikaṃ vā dhanarūpaṃ kāmyaṃ pūrvaḥ	GOtAAH-_3,10.9 / GOtSt-_28.11: ekEkam vA Dana-rUpam kAmyam pUrvaH
+   pūrvolabhate |	pUrvolaBate |
+   {VAR_St: labheta}	{VAR_St: laBeta}
+   GautAA_3,10.10 / GautSt_28.12: daśakaṃ paśūnām |	GOtAAH-_3,10.10 / GOtSt_28.12: daSakam paSUnAm |
+   {VAR_St: daśataṃ}	{VAR_St: daSataM}
+   GautAA_3,10.11 / GautSt_28.13: naikaśaphadvipadām |	GOtAAH-_3,10.11 / GOtSt_28.13: na-ekaSaPa-dvipadAm |
+   GautAA_3,10.12 / GautSt_28.14: ṛṣabho 'dhiko jyeṣṭhasya |	GOtAAH-_3,10.12 / GOtSt-_28.14: RzaBaH aDikaH jyezWasya |
+   GautAA_3,10.13 / GautSt_28.15: ṛṣabhaṣoḍaśā jyaiṣṭhineyasya |	GOtAAH-_3,10.13 / GOtSt-_28.15: RzaBa-zoxaSA jyEzWineyasya |
+   GautAA_3,10.14 / GautSt_28.16: samadhā vājyaiṣṭhineyena yavīyasām |	GOtAAH-_3,10.14 / GOtSt-_28.16: samaDA vA-AjyEzWinA-iyena yavIyasAm |
+   GautAA_3,10.15 / GautSt_28.17: pratimātṛ vā svasvavarge bhāgaviśeṣaḥ |	GOtAAH-_3,10.15 / GOtSt-_28.17: pratimAtR vA sva-sva-varge BAga-viSezaH |
+   {VAR_St: svavarge}	{VAR_St: sva-varge}
+   GautAA_3,10.16 / GautSt_28.18: pitotsṛjet putrikāṃ anapatyo	GOtAAH-_3,10.16 / GOtSt-_28.18: pitA-utsRjet putrikAm anapatyaH-
+   'gniṃprajāpatiṃ ceṣṭvāsmadartham apatyam iti saṃvādya |	agniMprajApatim ca-izwvA-asmad-arTam apatyam iti saMvAdya |
+   {VAR_St: pitrut-}	{VAR_St: pitrut-}
+   GautAA_3,10.17 / GautSt_28.19: abhisaṃdhimātrāt putrikety ekeṣām |	GOtAAH-_3,10.17 / GOtSt_28.19: aBisaMDi-mAtrAt putrikA-iti ekezAm |
+   GautAA_3,10.18 / GautSt_28.20: tatsaṃśayān nopayacched abhrātṛkām |	GOtAAH-_3,10.18 / GOtSt-_28.20: tad-saMSayAt na-upayacCet aBrAtRkAm |
+   GautAA_3,10.19 / GautSt_28.21: piṇḍagotrarṣisaṃbandhā rikthaṃ bhajeran	GOtAAH-_3,10.19 / GOtSt_28.21: piNxa-gotra-Rzi-saMbanDAH rikTam Bajeran
+   strīvānapatyasya |	strI-iva-an-apatyasya |
+   {VAR_St: cānapatyasya}	{VAR_St: ca-anapatyasya}
+   GautAA_3,10.20 / GautSt_28.22: bījaṃ vā lipseta |	GOtAAH-_3,10.20 / GOtSt_28.22: bIjam vA lipseta |
+   GautAA_3,10.21 / GautSt_28.23: devaravatyām anyajātam abhāgam |	GOtAAH-_3,10.21 / GOtSt_28.23: devaravatyAm anya-jAtam aBAgam |
+   GautAA_3,10.22 / GautSt_28.24: strīdhanaṃ duhitṛṛṇām aprattānām	GOtAAH-_3,10.22 / GOtSt_28.24: strIDanam duhitRRNAm aprattAnAm
+   apratiṣṭhitāṇāṃ ca |	apratizWitANAm ca |
+   GautAA_3,10.23 / GautSt_28.25: bhaginīśulkaḥ sodaryāṇām ūrdhvaṃ	GOtAAH-_3,10.23 / GOtSt_28.25: BaginI-SulkaH sodaryANAm UrDvam
+   mātuḥ(mātṛ) |	mAtuH(mAtR) |
+   GautAA_3,10.24 / GautSt_28.26: pūrvaṃ caike |	GOtAAH-_3,10.24 / GOtSt-_28.26: pUrvam ca-eke |
+   GautAA_3,10.25 / GautSt_28.27: asaṃsṛṣṭivibhāgaḥ pretānāṃ jyeṣṭhasya |	GOtAAH-_3,10.25 / GOtSt-_28.27: asaMsRzwi-viBAgaH pretAnAm jyezWasya |
+   GautAA_3,10.26 / GautSt_28.28: saṃsṛṣṭini prete saṃsṛṣṭī rikthabhāk |	GOtAAH-_3,10.26 / GOtSt-_28.28: saMsRzwini prete saMsRzwiH rikTa-BAj |
+   GautAA_3,10.27 / GautSt_28.29: vibhaktajaḥ pitryam eva |	GOtAAH-_3,10.27 / GOtSt_28.29: viBakta-jaH pitryam eva |
+   GautAA_3,10.28 / GautSt_28.30: svayam arjitam avaidyebhyo vaidyaḥ kāmaṃ na	GOtAAH-_3,10.28 / GOtSt_28.30: svayam arjitam avEdyeByaH vEdyaH kAmam na
+   dadyāt |	dadyAt |
+   GautAA_3,10.29 / GautSt_28.31: avaidyāḥ samaṃ vibhajeran |	GOtAAH-_3,10.29 / GOtSt_28.31: avEdyAH samam viBajeran |
+   GautAA_3,10.30 / GautSt_28.32:	GOtAAH-_3,10.30 / GOtSt-_28.32:
+   putrāaurasakṣetrajadattakṛtrimagūḍhotpannāpaviddhā rikthabhājaḥ |	putrAa-Orasa-kzetraja-datta-kRtrima-gUXa-utpanna-apavidDAH rikTa-BAjaH |
+   GautAA_3,10.31 / GautSt_28.33:	GOtAAH-_3,10.31 / GOtSt-_28.33:
+   kānīnasahoḍhapaunarbhavaputrikāputrasvayaṃdattakrītā gotrabhājaḥ |	kAnIna-sahoXa-pOnarBava-putrikA-putra-svayaMdatta-krItAH gotra-BAjaH |
+   GautAA_3,10.32 / GautSt_28.34: caturthāṃśina aurasādyabhāve |	GOtAAH-_3,10.32 / GOtSt_28.34: caturTa-aMSinaH Orasa-Adi-aBAve |
+   GautAA_3,10.33 / GautSt_28.35: brāhmaṇasya rājanyāputro jyeṣṭho	GOtAAH-_3,10.33 / GOtSt_28.35: brAhmaNasya rAjanyAputraH jyezWaH-
+   guṇasaṃpannastulyabhāk |	guNa-saMpannaH-tulya-BAj |
+   GautAA_3,10.34 / GautSt_28.36: jyeṣṭhāṃśahīnam anyat |	GOtAAH-_3,10.34 / GOtSt_28.36: jyezWa-aMSa-hInam anyat |
+   GautAA_3,10.35 / GautSt_28.37: rājanyāvaiśyāputrasamavāye yathā	GOtAAH-_3,10.35 / GOtSt-_28.37: rAjanyA-vESyA-putra-samavAye yaTA
+   sabrāhmaṇīputreṇa |	sa-brAhmaNI-putreNa |
+   GautAA_3,10.36 / GautSt_28.38: kṣatriyāc cet |	GOtAAH-_3,10.36 / GOtSt_28.38: kzatriyAt ced |
+   GautAA_3,10.37 / GautSt_28.39: śūdrāputro 'py anapatyasya śuśrūṣuś cel	GOtAAH-_3,10.37 / GOtSt-_28.39: SUdrA-putraH api anapatyasya SuSrUzuH cel
+   labhatevṛttimūlam antevāsividhinā |	laBatevRtti-mUlam antevAsi-viDinA |
+   {VAR_St: labheta}	{VAR_St: laBeta}
+   GautAA_3,10.38 / GautSt_28.40: savarṇāputro 'py anyāyyavṛtto na	GOtAAH-_3,10.38 / GOtSt-_28.40: savarNA-putraH api anyAyi-a-vRttaH na
+   labhetaikeṣām |	laBeta-ekezAm |
+   GautAA_3,10.39 / GautSt_28.41: śrotriyā brāhmaṇasyānapatyasya rikthaṃ	GOtAAH-_3,10.39 / GOtSt-_28.41: SrotriyAH brAhmaNasya-anapatyasya rikTam
+   bhajeran |	Bajeran |
+   GautAA_3,10.40 / GautSt_28.42: rājetareṣām |	GOtAAH-_3,10.40 / GOtSt_28.42: rAjA-itarezAm |
+   GautAA_3,10.41 / GautSt_28.43: jaḍaklībau bhartavyau |	GOtAAH-_3,10.41 / GOtSt_28.43: jaxa-klIbO BartavyO |
+   GautAA_3,10.42 / GautSt_28.44: apatyaṃ jaḍasya bhāgārham |	GOtAAH-_3,10.42 / GOtSt_28.44: apatyam jaxasya BAga-arham |
+   GautAA_3,10.43 / GautSt_28.45: śūdrāputravat pratilomāsu |	GOtAAH-_3,10.43 / GOtSt-_28.45: SUdrA-putra-vat pratilomAsu |
+   GautAA_3,10.44 / GautSt_28.46: udakayogakṣemakṛtānneṣv avibhāgaḥ |	GOtAAH-_3,10.44 / GOtSt-_28.46: udaka-yogakzema-kRta-annezu aviBAgaH |
+   GautAA_3,10.45 / GautSt_28.47: strīṣu ca saṃyuktāṣu |	GOtAAH-_3,10.45 / GOtSt_28.47: strIzu ca saMyuktAzu |
+   GautAA_3,10.46 / GautSt_28.48: anājñāte daśāvaraiḥ śiṣṭair ūhavidbhir	GOtAAH-_3,10.46 / GOtSt_28.48: anAjQAte daSa-avarEH SizwEH Uha-vidBiH-
+   alubdhaiḥ praśastaṃ kāryam |	alubDEH praSastam kAryam |
+   {VAR_St: ūhavadbhir}	{VAR_St: UhavadBiH-}
+   GautAA_3,10.47 / GautSt_28.49: catvāraś caturṇāṃ pāragā vedānāṃ prāg	GOtAAH-_3,10.47 / GOtSt_28.49: catvAraH caturNAm pAragA vedAnAm prAk-
+   uttamāttraya āśramiṇaḥ pṛthag dharmavidas traya etān daśāvarān pariṣad ity	uttamAt-trayaH ASramiNaH pRTak Darma-vidaH trayaH etAn daSa-avarAn parizad iti-
+   ācakṣate |	Acakzate |
+   {VAR_St: traya ity etān}	{VAR_St: trayaH iti etAn-}
+   GautAA_3,10.48 / GautSt_28.50: asambhave tv eteṣāṃ śrotriyo	GOtAAH-_3,10.48 / GOtSt_28.50: asamBave tu etezAm SrotriyaH-
+   vedavicchiṣṭovipratipattau yad āha |	veda-vid-SizwaH-vipratipattO yat Aha |
+   GautAA_3,10.49 / GautSt_28.51: yato 'yam aprabhavo bhūtānāṃ	GOtAAH-_3,10.49 / GOtSt-_28.51: yatas ayam apraBavaH BUtAnAm
+   hiṃsānugrahayogeṣu |	hiMsA-anugraha-yogezu |
+   GautAA_3,10.50 / GautSt_28.52: dharmiṇāṃ viśeṣeṇa svargaṃ lokaṃ dharmavid	GOtAAH-_3,10.50 / GOtSt_28.52: DarmiNAm viSezeNa svargam lokam Darma-vid
+   āpnotijñānābhiniveśābhyām |	Apnoti-jQAna-aBiniveSAByAm |
+   GautAA_3,10.51 iti dharmo dharmaḥ |	GOtAAH-_3,10.51 iti DarmaH DarmaH |

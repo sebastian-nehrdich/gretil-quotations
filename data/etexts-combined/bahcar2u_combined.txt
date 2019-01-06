@@ -1,0 +1,729 @@
+   dvitīya ucchvāsaḥ	dvitIyaH ucCvAsaH
+   atimbhīre bhūpe kūpa iva janasya niravatārasya /	atimBIre BUpe kUpaH iva janasya niravatArasya /
+   dadhati samīhitasiddhiṃ guṇavantaḥ pārthivā ghaṭakāḥ // 2.1 //	daDati samIhita-sidDim guNavantaH pArTivAH GawakAH // 2.1 //
+   rāgiṇi naline lakṣmīṃ divaso nidadhāti dinakaraprabhavām /	rAgiNi naline lakzmIm divasaH nidaDAti dinakara-praBavAm /
+   anapekṣitaguṇadoṣaḥ paropakāraḥ satāṃ vyasanam // 2.2 //	anapekzita-guNa-dozaH para-upakAraH satAm vyasanam // 2.2 //
+   atha tatrānavaratādhyayanadhvanimukharāṇi, bhasmapuṇḍrakapāṇḍuralalāṭaiḥ	aTa tatra-anavarata-aDyayana-Dvani-muKa-rANi, Basma-puNxraka-pANxura-lalAwEH
+   kapilaśikhājālajaṭilaiḥ kṛśānubhiriva	kapila-SiKA-jAla-jawilEH kRSAnuBiH-iva
+   kratulobhāgatairbaṭubhiradhyāsyamānāni,	kratu-loBA-gatEH-bawuBiH-aDyAsyamAnAni,
+   sekasukumārasomakedārikāharitāyamānapraghanāni,	seka-sukumAra-soma-kedArikA-haritAyamAna-praGanAni,
+   kṛṣṇājinavikīrṇaśuṣyatpuroḍāśīyaśyāmākataṇḍulāni,	kRzNa-ajina-vikIrNa-Suzyat-puroxASIya-SyAmAka-taNxulAni,
+   bālikāvikīryamāṇanīvārabalīni,	bAlikA-vikIryamANa-nIvAra-balIni,
+   śuciśiṣyaśatānīyamānaharitakuśapūlīpalāśasamindhi, indhanago	Suci-Sizya-SatAnIyamAna-harita-kuSa-pUlI-palASa-saminDi, inDana-go
+   mayapiṇḍakūṭasaṃkaṭāni, āmikṣīyakṣīrakṣāriṇīnāmagnihotradhenūnāṃ	maya-piNxa-kUwa-saMkawAni, AmikzIya-kzIra-kzAriNInAm-agni-hotra-DenUnAm
+   khuravalayairvilikhitājiravitardikāni,	Kura-valayEH-viliKita-ajira-vitardikAni,
+   kamaṇḍalavyamṛtpiṇḍamardanavyagrayatijanāni,	kamaNxalavyamRd-piNxa-mardana-vyagra-yati-janAni,
+   vaitānavedīśaṅkavyānāmaudumbarīṇāṃ śākhānāṃ rāśibhiḥ pavitritaparyantāni	vEtAna-vedI-SaFkavyAnAm-OdumbarINAm SAKAnAm rASiBiH pavitrita-paryantAni
+   vaiśvadevapiṇḍapāṇḍuritapradeśāni,	vESvadeva-piNxa-pANxurita-pradeSAni,
+   havirdhūmadhūsaritāṅgaṇaviṭapikisalayāni,	haviH-DUma-DU-sarita-aFgaNa-viwapi-ki-salayAni,
+   vatsīyabālakalālitalalattaralatarṇakāni,	vatsIya-bAla-kalAlita-lalat-tarala-tarNakAni,
+   krīḍatkṛṣṇasāracchāgaśāvakaprakaṭitapaśubandhaprabandhāni,	krIxat-kRzNasAra=-CAga-SAvaka-prakawita-paSu-banDa-prabanDAni,
+   śukasārikārabdhādhyayanadīyamānopādhyāyaviśrāntisukhāni,	Suka-sArika-ArabDa-aDyaya-nadIyamAna-upADyAya-viSrAnti-suKAni,
+   sākṣāttrayītapovanānīva ciradṛṣṭānāṃ bāndhavānāṃ prīyamāṇo	sAkzAt-trayI-tapaH-vanAni-iva cira-dRzwAnAm bAnDavAnAm prIyamANaH-
+   bhramanbhavanāni, bāṇaḥ sukhamatiṣṭhat /	Braman-BavanAni, bANaH suKam-atizWat /
+   tatrasthasya cāsya kadācitkusumasamayayugamupasaṃharannajṛmbhata	tatrasTasya ca-asya kadAcid-kusuma-samaya-yugam-upasaMharan=-ajRmBata
+   grīṣmābhidhānaḥ samutphullamallikādhavalāṭṭahāso mahākālaḥ /	grIzma-aBiDAnaH samutPulla-mallikA-Davala-awwahAsaH mahAkAlaH /
+   pratyagranirjitasyāstamupagatavato vasantasāmantasya bālāpatyeṣviva	pratyagra-nirjitasya-astam-upagatavataH vasanta-sAmantasya bAla-apatyezu-iva
+   payaḥpāyiṣu navodyāneṣu darśitasneho mṛdurabhūt /	payaH-pAyizu nava-udyAnezu darSita-snehaH mRduH-aBUt /
+   abhinavoditaśca sarvasyāṃ pṛthivyāṃ	aBinava-uditaH-ca sarvasyAm pRTivyAm
+   sakalakusumabandhanamokṣamakarotpratapannuṣṇasamayaḥ /	sakala-kusuma-banDana-mokzam-akarot-pratapan=-uzNa-samayaH /
+   svayamṛturājasyābhiṣekārdrāścāmarakalāpā ivāgṛhyanta kāminīcikuracayāḥ	svayam-Rtu-rAjasya-aBizeka-ArdrAH-cAmara-kalApAH iva-agRhyanta kAminI-cikura-cayAH
+   kusumāyudhena, himadagdhasakalakamalinīkopeneva himālayābhimukhīṃ	kusumAyuDena, hima-dagDa-sakala-kamalinI-kopena-iva himAlaya-aBimuKIm
+   yātrāmadādaṃśumālī /	yAtrA-madAt-aMSumAlI /
+   atha lalāṭantape tapati tapane	aTa lalAwantape tapati tapane
+   candanalikhitalalāṭikāpuṇḍrakairalakacīracīvarasaṃvītaiḥ	candana-liKita-lalAwikA-puNxrakEH-alaka-cIra-cIvara-saMvItEH
+   svedodabindumuktākṣavalayavāhibhirdinakarārādhananiyamā ivāgṛhyanta	sveda-uda-bindu-muktA-akza-valaya-vAhiBiH-dinakara-ArADana-niyamAH iva-agRhyanta
+   lalanālalāṭendudyutibhiḥ /	lalanA-lalAwa-indu-dyutiBiH /
+   candanadhūsarābhirasūryampaśyābhiḥ kumudinībhiriva divasamasupyata	candana-DUsarABiH-asUryampaSyABiH kumudinIBiH-iva divasam-asupyata
+   sundarībhiḥ /	sundarIBiH /
+   nidrālasā ratnālokamapi nāsahanta dṛśaḥ, kimuta jaraṭhamātapam /	nidrA-alasAH ratna-Alokam-api na-asahanta dRSaH, kim-uta jaraWam-Atapam /
+   aśiśirasamayena cakravākamithunābhinanditāḥ sarita iva tanimānamānīyanta	aSiSira-samayena cakravAka-miTuna-aBinanditAH saritaH iva tanimAnam-AnIyanta
+   soḍupāḥ śarvaryaḥ /	soxupAH SarvaryaH /
+   abhinavapaṭupāṭalāmodasurabhiparimalaṃ na kevalaṃ jalam, janasya	aBinava-pawu-pAwala-Amoda-suraBi-parimalam na kevalam jalam, janasya
+   pavanamapi pātumabhūdabhilāṣo divasakarasantāpāt /	pavanam-api pAtum-aBUt-aBilAzaH divasakara-santApAt /
+   krameṇa ca kharakhagamayūkhe khaṇḍitaśaiśave, śuṣyatsarasi, sīdatsretasi,	krameNa ca Kara-Kaga-mayUKe KaNxita-SESave, Suzyat-sarasi, sIdat-sretasi,
+   mandanirjhare jhillikājhāṅkāriṇi,	manda-nirJare JillikA-JAFka-ariNi,
+   kātarakapotakūjitānubandhabadhiritaviśve, śvasatpatattriṇi,	kAtara-kapota-kUjita-anubanDa-baDirita-viSve, Svasat-patat-triNi,
+   karīrṣakaṣamaruti, viralavīrudhi,	karIrza-kaza-maruti, virala-vIruDi,
+   rudhirakutūhalikesarikiśorakalihyamānakaṭhoradhātakīstabake,	ruDira-kutUhali-kesari-kiSorakalihyamAna-kaWora-DAtakI-stabake,
+   tāmyatstamberamayūthavamathutimyanmahāmahīdhāranitambe,	tAmyat-stamberam-ayUTa-vamaTu-timyat-mahA-mahIDAra-nitambe,
+   dinakaradūyamānadviradadīnadānāśyānadānaśyāmikālīnamūkamadhulihi,	dinakara-dUyamAna-dvirada-dIna-dAna-aSyAna-dAna-SyAmikA-AlIna-mUka-maDulihi,
+   lohitāyamānamandārasindūritasīmni,	lohitAyamAna-mandAra-sindUrita-sImni,
+   salilasyandasaṃdohasaṃdehamuhyanmahāmahiṣaviṣāṇakoṭivilikhyamānasphuṭatsphāṭikadṛṣadi,	salila-syanda-saMdoha-saMdeha-muhyat-mahA-mahiza-vizANa-kowi-viliKya-mAna-sPuwat-sPAwika-dRzadi,
+   gharmamarmaritagarmuti, taptapāṃśukukūlakātaravikire,	Garma-marmarita-garmuti, tapta-pAMSu-kukUla-kAtara-vikire,
+   vivaraśaraṇaśvāvidhe,	vivara-SaraNa-SvAviDe,
+   taṭārjunakurarakūjājvaravivartamānottānaśapharaśārapaṅkaśeṣapalpalāmbhasi,	tawa-arjuna-kurara-kUja-ajvara-vivartamAna-uttAna-SaPara-SAra-paFka-Seza-palpala-amBasi,
+   dāvajanitajagannīrājane, rajanīrājayakṣmaṇi, kaṭhorībhavati nidāghakāle	dAva-janita-jagat-nIra-ajane, rajanIrAjayakzmaNi, kaWorIBavati nidAGa-kAle
+   pratidiśamājīkamānā ivoṣareṣu prapāvāṭakuṭīpaṭalaprakaṭaluṇṭhakāḥ,	pratidiSam-AjI-kamAnAH iva-Uzarezu prapAvAwa-kuwI-pawala-prakawa-luNWakAH,
+   prapakvakapikacchūgucchacchaṭācchoṭanacāpalairakāṇjakaṇḍūlā iva karṣantaḥ	prapakva-kapikacCU-gucCat-SawAt-Sowana-cApalEH-akANja-kaNxUlAH iva karzantaH
+   śarkarilāḥ karkarasthalīḥ, sthūladṛṣaccūrṇamucaḥ,	SarkarilAH karkara-sTalIH, sTUla-dRzat-cUrNa-mucaH,
+   mucukundakandaladalanadanturāḥ,	mucukunda-kandala-dalana-danturAH,
+   saṃtatatapanatāpamukharacīrīgaṇamukhaśīkaraśīkyamānatanavaḥ,	saMtata-tapana-tApa-muKara-cIrI-gaNa-muKa-SIkara-SIkyamAna-tanavaH,
+   taruṇatarataraṇitāpatarale taranta iva taraṅgiṇi	taruNatara-taraNi-tApa-tarale tarantaH iva taraFgiNi
+   mṛgatṛṣṇikātaraṅgiṇīnāmalīkavāriṇi,	mRgatRzNikA-taraFgiNInAmalIka-vAriNi,
+   śuṣyacchamīmarmaramāravamārgalaṅghanalāghavajavajaṅghālāḥ,	Suzyat-SamImarmarama-Arava-mArga-laFGana-lAGava-java-jaFGAlAH,
+   raiṇavāvartamaṇḍalīrecakarāsarasarabhasārabdhanartanārambhārabhaṭīnaṭāḥ,	rENava-Avarta-maNxalI-recaka-rAsa-rasa-raBasa-ArabDa-nartana-AramBAra-BawI-nawAH,
+   dāvadagdhasthalīmaṣīmilanamalināḥ śikṣitakṣapaṇakavṛttaya iva	dAva-dagDa-sTalI-mazI-milana-malinAH Sikzita-kzapaNaka-vRttayaH iva
+   vanamayūrapicchacayānuccinvantaḥ, saprayāṇaguñjā iva	vana-mayUra-picCa-cayAn-uccinvantaH, sa-prayANa-guQjAH iva
+   śiñjānajaratkarañjamañjarībījajālakaiḥ saprarīhā	SiQjAn-ajarat-karaQja-maQjarI-bIja-jAlakEH sa-prarIhA
+   ivātapāturavanamahiṣanāsānikuñjasthūlaniḥśvāsaiḥ, sāpatyā	iva-Atapa-Atura-vana-mahiza-nAsA-nikuQja-sTUla-niHSvAsEH, sa-apatyA
+   ivoḍḍīyamānajavanavātahariṇaparipāṭīpeṭakaiḥ, sabhrukuṭaya iva	iva-uxxIyamAna-javana-vAta-hariNa-paripAwI-pewakEH, sa-BrukuwayaH iva
+   dahyamānakhaladhānabusakūṭakuṭiladhūmakoṭibhiḥ, sāvīcivīcaya iva	dahyamAna-Kala-DAna-busa-kUwa-kuwila-DUma-kowiBiH, sAvIci-vIcayaH iva
+   mahoṣmamuktibhiḥ, lomaśā iva śīryamāṇaśālmaliphalatūlatantubhiḥ, dadruṇā	mahA-Uzma-muktiBiH, lomaSAH iva SIryamANa-SAlmali-Pala-tUla-tantuBiH, dadruNA
+   iva śuṣkapatraprakarākṛṣṭibhiḥ, śirālā iva tṛṇaveṇīvikaraṇaiḥ ucchmaśrava	iva Suzka-patra-prakara-AkRzwiBiH, SirAlAH iva tRNa-veNI-vikaraNEH ucCmaSrava
+   iva dhūyamānanavayavaśūkaśakalaśaṅkubhiḥ, daṃṣṭrālā iva	iva DUyamAna-nava-yava-SUka-Sakala-SaFkuBiH, daMzwrAlAH iva
+   calitaśalalasūcīśataiḥ, jihvālā iva vaiśvānaraśikhābhiḥ,	calita-Salala-sUcI-SatEH, jihvA-AlAH iva vESvAnara-SiKABiH,
+   utsarpatsarpakañcukaiścūḍālā iva brahnastambharasābhyavaharaṇāya	utsarpat-sarpa-kaQcukEH-cUxAlAH iva brahna-stamBa-rasa-aByavaharaNAya
+   kavalagrahamivoṣṇaiḥ kamalavanamadhubhirabhyasyantaḥ	kavala-graham-iva-uzNEH kamala-vana-maDuBiH-aByasyantaH
+   sakalasalilocchoṣaṇagharmaghoṣaṇāghorapaṭahairiva	sakala-salila-ucCozaNa-Garma-GozaNA-Gora-pawahEH-iva
+   śuṣkaveṇuvanāsphoṭanapaṭuravaistribhuvanabibhīṣikāmudbhāvayantaḥ,	Suzka-veNu-vana-AsPowana-pawu-ravEH-triBuvana-biBIzikAm-udBAvayantaH,
+   cyutacapalacāṣapakṣaśreṇīśāritasṛtayaḥ,	cyuta-capala-cAza-pakza-SreNI-SArita-sRtayaH,
+   tviṣimanmayūkhalatālātaploṣakalmāṣavapuṣa iva	tvizimat-mayUKa-latA-lA-ta-ploza-kalmAza-vapuzaH iva
+   sphuṭitaguñjāphalasphuliṅgāṅgārāṅkitāṅgāḥ,	sPuwita-guQjA-Pala-sPuliFga-aFgAra-aFkita-aFgAH,
+   giriguhāgambhīrabhāṅkārabhīṣaṇabhrāntayaḥ,	giri-guhA-gamBIra-BAFkAra-BIzaNa-BrAntayaH,
+   bhuvanabhasmīkaraṇābhicāracarupacanacaturāḥ, rudhirāhutibhiriva	Buvana-BasmIkaraNa-aBicAra-caru-pacana-caturAH, ruDira-AhutiBiH-iva
+   pāribhadradrumastabakavṛṣṭibhistarpayantastāravānvanavibhāvasūn,	pAriBadra-druma-stabaka-vRzwiBiH-tarpayantaH-tAravAn-vana-viBAva-sUn,
+   aśiśiraśikatātārakitaraṃhasaḥ,	aSiSira-Sika-tA-tArakita-raMhasaH,
+   taptaśailavilīyamānaśilājaturasalavaliptadiśaḥ,	tapta-SEla-vilIyamAna-SilAjatu-rasa-lava-lipta-diSaH,
+   dāvadahanapacyamānacaṭakāṇḍakhaṇḍakhacitatarukoṭarakīṭapaṭalapuṭapākagandakaṭavaḥ,	dAva-dahana-pacyamAna-cawakANxa-KaNxa-Kacita-taru-kowara-kIwa-pawala-puwapAka-ganda-kawavaH,
+   prāvartantonmattā mātariśvānaḥ /	prAvartanta-unmattAH mAtariSvAnaH /
+   sarvataśca bhūribhastrāsahasrasaṃdhukṣaṇakṣubhitā iva	sarvatas-ca BUri-BastrA-sahasra-saMDukzaNa-kzuBitAH iva
+   jaraṭhājagaragambhīragalaguhāvāhivāyavaḥ, kvacitsvacchandatṛṇacāriṇo	jaraWA-jagara-gamBIra-gala-guhA-vAhi-vAyavaH, kvacid-svacCanda-tRNa-cAriNaH-
+   hariṇāḥ, vkacittarutalavivaravivartino babhravaḥ, vkacijjaṭāvalambinaḥ	hariNAH, vkacittaru-tala-vivara-vivartinaH baBravaH, vkacit-jawA-avalambinaH
+   kapilāḥ vkacicchakunikulakulāyapātinaḥ śyenāḥ,	kapilAH vkacid-Sakuni-kula-kulAya-pAtinaH SyenAH,
+   vkacidvilīnalākṣārasalohitacchavayo 'dharāḥ,	vkacit-vilIna-lAkzA-rasa-lohita=-CavayaH aDarAH,
+   vkacidāsāditaśakunipakṣakṛtapaṭugatayo viśikhāḥ,	vkacit-AsAdita-Sakuni-pakza-kRta-pawu-gatayaH viSiKAH,
+   vkaciddagdhaniḥśeṣajanmahetavo nirvāṇāḥ, vkacitkusumavāsitāmbarasurabhayo	vkacit-dagDa-niHSeza-janma-hetavaH nirvANAH, vkacid-kusuma-vAsita-ambara-suraBayo
+   rāgiṇaḥ, kvacitsadhūmodgārā mandarucayaḥ, kvacitsakalajagadgrāsaghasmarāḥ	rAgiNaH, kvacid-sa-DUma-udgArAH manda-rucayaH, kvacid-sakala-jagat-grAsa-GasmarAH
+   sabhasmakāḥ, kvacidveṇuśikharalagnamūrtayo 'tyantavṛddhāḥ,	sa-BasmakAH, kvacid-veNu-SiKara-lagna-mUrtayaH atyanta-vRdDAH,
+   kvacidacalopayuktaśilājatavaḥ, kṣayiṇaḥ kvacitsarvarasabhujaḥ pīvānaḥ,	kvacid-acala-upayukta-SilAjatavaH, kzayiNaH kvacid-sarva-rasa-BujaH pIvAnaH,
+   kvaciddagdhaguggulavo raudrāḥ,	kvacid-dagDa-guggulavaH rOdrAH,
+   kvacijjvalitanetradahanadagdhasakusumaśaramadanāḥ kṛtasthāṇusthitayaḥ,	kvacid-jvalita-netra-dahana-dagDa-sa-kusuma-Sara-madanAH kRta-sTANu-sTitayaH,
+   caṭulaśikhānartanārambhārabhaṭīnaṭāḥ kvacicchuṣkakāsārasṛtibhiḥ	cawula-SiKA-nartana-AramBAra-BawI-nawAH kvacid-Suzka-kAsAra-sRtiBiH
+   sphuṭannīrasanīvārabījalājavarṣibhirjvālāñjalibhirarcayanta iva	sPuwat-nIrasa-nIvAra-bIja-lAja-va-rziBiH-jvAlAQjaliBiH-arcayantaH iva
+   gharmaghṛṇim, aghṛṇā iva	Garma-GRNim, aGRNAH iva
+   haṭhahūyamānakaṭhorasthalakamaṭhavasāvisragandhagṛdhnavaḥ, svamapi	haWa-hUyamAna-kaWora-sTalaka-maWa-vasA-visra-ganDa-gRDnavaH, svam-api
+   dhūmamambhodasamudbhūtibhiyeva bhakṣayantaḥ satilāhutaya iva sphuṭad	DUmam-amBoda-samudBUtiBiyA-iva BakzayantaH sa-tila-AhutayaH iva sPuwa-d
+   bahalabālakīṭapaṭalāḥ kakṣeṣu, śvitriṇa iva	bahala-bAla-kIwa-pawalAH kakzezu, SvitriNaH iva
+   ploṣavicaṭadvalkaladhavalaśambūkaśuktayaḥ, śuṣkeṣu saraḥsu, svedina iva	ploza-vicawat-valkala-Davala-SambUka-SuktayaH, Suzkezu saraHsu, svedinaH iva
+   vilīyamānamadhupaṭalagolagalitamadhūcchiṣṭavṛṣṭayaḥ kānaneṣu, khalataya	vilIyamAna-maDu-pawala-gola-galita-maDUcCizwa-vRzwayaH kAnanezu, Kalataya
+   iva pariśīryamāṇaśikhāsaṃhatayo mahoṣareṣu, gṛhītaśilākavalā iva	iva pariSIryamANa-SiKA-saMhatayaH mahA-uza-rezu, gRhIta-SilA-kavalAH iva
+   jvalitasūryamaṇiśakaleṣu śiloccayeṣu, pratyadṛśyanta dāruṇā dāvānagnayaḥ /	jvalita-sUrya-maNi-Sakalezu Siloccayezu, pratyadRSyanta dAruNAH dAvAn-agnayaH /
+   tathābhūte ca tasminnatyūgre grīṣmasamaye kadācidasya svagṛhāvasthitasya	taTABUte ca tasmin=-atyUgre grIzma-samaye kadAcid-asya sva-gRha-avasTitasya
+   bhuktavato 'parāhṇasamaye brātrā pāraśavaścandrasenanāmā	BuktavataH aparAhNa-samaye brAtrA pAraSavaH-candrasena-nAmA
+   praviśyākathayat--"eṣa khalu devasya catuḥsamudrādhipateḥ	praviSya-akaTayat--"eza Kalu devasya catur-samudra-aDipateH
+   sakalarājacakracūḍāmaṇiśreṇīśāṇakoṇakaṣaṇanirmalīkṛtacaraṇanakhamaṇeḥ	sakala-rAja-cakra-cUxAmaNi-SreNI-SANa-koNa-kazaNa-nirmalIkRta-caraNa-naKa-maNeH
+   sarvacakravartināṃ dhaureyasyamahārājādhirājaparameśvaraśrīharṣadevasya	sarva-cakravartinAm DOreyasya-mahA-rAja-aDirAja-parameSvara-SrI-harza-devasya
+   bhrātrā kṛṣṇanāmnā bhavatāmantikaṃ prajñātatamo dīrghādhvagaḥ prahito	BrAtrA kRzNa-nAmnA BavatAm-antikam prajQAtatamaH dIrGa-aDvagaH prahitaH-
+   dvāramadhyāste' iti /	dvAram-aDyAste-a iti /
+   so 'bravīt--"āyuṣman! avilambitaṃ praveśayainam' iti /	saH abravIt---"Ayuzman! avilambitam praveSaya-enam-a iti /
+   atha tenānīyamānam, atidūragamanagurujaḍajaṅghākāṇḍam,	aTa tena-AnIyamAnam, ati-dUra-gamana-guru-jaxa-jaFGA-kANxam,
+   kārdamikacelacīrikāniyamitoccaṇḍacaṇḍātakam,	kArdamika-cela-cIrikA-niyamita-uccaNxa-caNxAtakam,
+   pṛṣṭhapreṅkhatpaṭaccarakarpaṭaghaṭitagalagranthim,	pRzWa-preFKat-pawaccara-karpawa-Gawita-gala-granTim,
+   atinibiḍasūtrabandhanimnitāntarālakṛtalekhavyavacchedayā lekhamālikayā	ati-nibixa-sUtra-banDa-nimnita-antarAla-kRta-leKa-vyavacCedayA leKamAlikayA
+   parikalitamūrdhānam, praviśantaṃ lekhahārakamadrākṣīt /	parikalita-mUrDAnam, praviSantam leKa-hArakam-adrAkzIt /
+   aprākṣīcca dūrādeva--"bhadra,	aprAkzIt-ca dUrAt-eva---"Badra,
+   bhadramaśeṣabhuvananiṣkāraṇabandhostatrabhavataḥ kṛṣṇasya? iti /	Badram-aSeza-Buvana-nizkAraNa-banDoH-tatraBavataH kRzNasya? iti /
+   sa "bhadram' ityuktvā praṇamya nātidūre samupāviśat /	sa "Badram-a iti-uktvA praNamya na-ati-dUre samupAviSat /
+   viśrāntaścābravīt--"eṣa khalu svāminā mānanīyasya lekhaḥ prahitaḥ' iti	viSrAntaH-ca-abravIt---"eza Kalu svAminA mAnanIyasya leKaH prahitaH-a iti
+   vimucyā rpayat /	vimucyAH rpayat /
+   bāṇastu sādaraṃ gṛhītvā svayamevāvācayat--"mekhalakātsaṃdiṣṭamvadhārya	bANaH-tu sa-Adaram gRhItvA svayam-eva-avAcayat--"-meKalakAt-saMdizwamvaDArya
+   phalapratibandhī dhīmatā pariharaṇīyaḥ kālātipāta ityetāvadatrārthajātam /	Pala-pratibanDI DImatA pariharaNIyaH kAla-atipAtaH iti-etAvat-atra-arTa-jAtam /
+   itaradvārtāsaṃvādanamātrakam' /	itarat-vArtA-saMvAdana-mAtrakam-a /
+   avadhṛtalekhārthaśca samutsāritaparijanaḥ saṃdeśaṃ pṛṣṭavān /	avaDRta-leKA-arTaH-ca samutsArita-parijanaH saMdeSam pRzwavAn /
+   mekhalakastvavādīt--"evamāha medhāvinaṃ svāmī--jānātyeva mānyo	meKalakaH-tu-avAdIt--"evam-Aha meDAvinam svAmI---jAnAti-eva mAnyaH-
+   yathaikagotratā vā, samānajñānatā vā, samānajātitā vā, sahasaṃvardhanaṃ	yaTA-eka-gotra-tA vA, samAna-jQAna-tA vA, samAna-jAtitAH vA, saha-saMvarDanam
+   vā, ekadeśanivāso vā, darśanābhyāso vā, parasparānurāga, śravaṇaṃ vā,	vA, eka-deSa-nivAsaH vA, darSana-aByAsaH vA, paraspara-anurAga, SravaNam vA,
+   parokṣopakārakaraṇaṃ vā, samānaśīlatā vā, snehasya hetavaḥ /	parokza-upakAra-karaNam vA, samAna-SIla-tA vA, snehasya hetavaH /
+   tvayi tu vinā kāraṇenādṛṣṭe 'pi pratyāsanne bandhāviva baddhapakṣapātaṃ	tvayi tu vinA kAraNena-adRzwe api pratyAsanne banDO=-iva badDa-pakzapAtam
+   kimapisnihyati me hṛdayaṃ dūrasthe 'pīndoriva kumudākare /	kim-apisnihyati me hRdayam dUra-sTe api-indoH-iva kumuda-Akare /
+   yato bhavantamantareṇānyathā cānyathā cāyaṃ cakravartī durjanairgrāhita	yatas Bavantam-antareNa-anyaTA ca-anyaTA ca-ayam cakravartI durjanEH-grAhita
+   āsīt /	AsIt /
+   na ca tattathānasantyeva te yeṣāṃ satāmapi satāṃ na vidyante	na ca tat-taTA-anasanti-eva te yezAm satAm-api satAm na vidyante
+   mitrodāsīnaśatravaḥ /	mitra-udAsIna-SatravaH /
+   śiśucāpalāparācīnacetovṛttitayā ca bhavataḥ kenacidasahiṣṇunā	SiSu-cApala-apara-AcIna-cetaH-vRtti-tayA ca BavataH kenacid-asahizNunA
+   yatkiñcidasadṛśamudīritam, itaro lokastathaiva tadgṛhṇāti vakti ca /	yat-kiQcit-a-sadRSam-udIritam, itaraH lokaH-taTA-eva tat-gRhNAti vakti ca /
+   salilānīva gatānugatikāni lolāni khalu bhavantyavivekināṃ manāṃsi /	salilAni-iva gata-anugatikAni lolAni Kalu Bavanti-avivekinAm manAMsi /
+   bahumukhaśravaṇaniścalīkṛtaniścayaśca kiṃ karotu pṛthivīpatiḥ /	bahu-muKa-SravaNa-niScalIkRta-niScayaH-ca kim karotu pRTivIpatiH /
+   tattvānveṣibhiścāsmābhirdūrasthito 'pi pratyakṣīkṛto 'si /	tattva-anveziBiH-ca-asmABiH-dUra-sTitaH api pratyakzIkRtaH asi /
+   vijñaptaścakravartī tvadartham-yathā prāyeṇa prathame vayasi sarvaṃsyaiva	vijQaptaH-cakravartI tvad-arTam--yaTA prAyeNa praTame vayasi sarvaMsya-eva
+   cāpalaiḥ śaiśavamaparādhoti /	cApalEH SESavam-aparADoti /
+   tatheti ca svāminā pratipannam /	taTA-iti ca svAminA pratipannam /
+   ato bhavatā rājakagulamakṛtakālakṣepamāgantavyam /	atas BavatA rAjaka-gulam-akRta-kAla-kzepam-Agantavyam /
+   avakeśīvādṛṣṭaparameśvaro bandhumadhyamadhivasannapi na me bahumataḥ /	avakeSI-iva-adRzwa-parameSvaraH banDu-maDyam-aDivasan=-api na me bahu-mataH /
+   na ca sevārvaṣamyaviṣādinā parameśvaropasarpaṇabhīruṇā vā bhavatā	na ca sevArvazami-a-viza-AdinA parameSvara-upasarpaNa-BIruNA vA BavatA
+   bhavitavyam /	Bavitavyam /
+   yato yadyapi-- svecchopajātaviṣayo 'pi na yāti vaktuṃ dehauti	yatas yadi-api- sva-icCA-upajAta-vizayaH api na yAti vaktum dehOti
+   mārgaṇaśataiśca dadāti duḥkham /	mArgaNa-SatEH-ca dadAti duHKam /
+   mohātsamākṣipati jīvanamapyakāṇḍe karṣṭa manobhava iveśvaradurvidagdhaḥ //	mohAt-samAkzipati jIvanam-api-akANxe karzwa manoBavaH iva-ISvara-durvidagDaH //
+   tathāpyanye te bhūpatayaḥ, anya evāyam /	taTA-api-anye te BUpatayaH, anyaH eva-ayam /
+   nyakkṛtanṛganalaniṣadhanahuṣāmbarīṣadaśarathadilīpanābhāragabharatabhagīrathayayātiramṛtamayaḥ	nyakkRta-nRga-nala-nizaDa-nahuza-ambarI-zadaSaraTa-dilIpanABa-Araga-Barata-BagIraTa-yayAtiH-amRta-mayaH
+   svāmī /	svAmI /
+   nāsyāhaṅkārakālakūṭaviṣadigdhaduṣṭā dṛṣṭayaḥ, na	na-asya-ahaFkAra-kAlakUwa-viza-digDa-duzwAH dRzwayaH, na
+   garvagaragurugalagrahagadagadgadā giraḥ,	garvagara-guru-gala-graha-gada-gadgadAH giraH,
+   nātismayoṣmāpasmāravismṛtasthairyāṇi sthānakāni,	na-ati-smaya-Uzma-apasmAra-vismRta-sTEryANi sTAnakAni,
+   noddāmadarpadāhajvaravegaviklavā vikārāḥ,	na-uddAma-darpa-dAha-jvara-vega-viklavAH vikArAH,
+   nābhimānamahāsannipātanirmitāhgabhaṅgāni gatāni, na	na-aBimAna-mahA-sannipAta-nirmita-Ahga-BaFgAni gatAni, na
+   madārditavakrīkṛtauṣṭhaniṣṭhyūtaniṣṭhurākṣarāṇi jalpitāni /	mada-ardita-vakrIkRta-ozWa-nizWyUta-nizWura-akzarANi jalpitAni /
+   tathā ca--asya vimaleṣu sādhuṣu ratnabuddhiḥ, na śilāśakaleṣu /	taTA ca--asya vimalezu sADuzu ratna-budDiH, na SilA-Sakalezu /
+   muktādhavaleṣu guṇeṣu prasādhanadhīḥ, nābharaṇabhāreṣu /	muktA-Davalezu guNezu prasADana-DIH, na-ABaraNa-BArezu /
+   dānavatsu karmasu sādhanaśraddhā, na karikīṭeṣu /	dAnavatsu karmasu sADana-SradDA, na kari-kIwezu /
+   sarvāgresare yaśasi mahāprītiḥ, na jīvitajarattṛṇe /	sarva-agresare yaSasi mahA-prItiH, na jIvita-jarat-tRNe /
+   gṛhītakarāsvāśāsu prasādhnābhiyogaḥ na nijakalatradharmaputrikāsu /	gRhIta-karAsu-ASAsu prasADna-aBiyogaH na nija-kalatra-Darma-putrikAsu /
+   guṇavati dhanuṣi sahāyabuddhiḥ, na piṇḍopajīvini sevakajane /	guNavati Danuzi sahAya-budDiH, na piNxa-upajIvini sevaka-jane /
+   api ca--asya mitropakaraṇamātmā, bhṛtyopakaraṇaṃ prabhutvam,	api ca--asya mitra-upakaraNam-AtmA, BRtya-upakaraNam praBu-tvam,
+   paṇḍitopakaraṇaṃ vaidagdhyam, bāndhavopakaraṇaṃ lakṣmīḥ,	paNxita-upakaraNam vEdagDyam, bAnDava-upakaraNam lakzmIH,
+   kṛpaṇopakaraṇamaiśvaryam, dvijopakaraṇaṃ sarvasvam,	kRpaNa-upakaraNam-ESvaryam, dvija-upakaraNam sarva-svam,
+   sukṛtasaṃsmaraṇopakaraṇaṃ hṛdayam, dharmopakaraṇamāyuḥ, sāhasopakaraṇaṃ	su-kRta-saMsmaraNa-upakaraNam hRdayam, Darma-upakaraNam-AyuH, sAhasa-upakaraNam
+   śarīram asilatopakaraṇaṃ pṛthivī, vinodopakaraṇaṃ rājakam,	SarIram asilatA-upakaraNam pRTivI, vinoda-upakaraNam rAjakam,
+   pratāpopakaraṇaṃ pratipakṣaḥ /	pratApa-upakaraNam pratipakzaH /
+   nāsyālpapuṇyairavāpyate sarvātiśāyisukharasaprasūtiḥ pādapallavacchāyā'	na-asya-alpa-puNyEH-avApyate sarva-atiSAyi-suKa-rasa-prasUtiH pAda-pallava=-CAyA-a
+   iti /	iti /
+   śrutvā ca tameva candrasenaṃ samādiśat--"kṛtakaśipuṃ viśrāntasukhinamenaṃ	SrutvA ca tam-eva candrasenam samAdiSat--"-kRtakaSipum viSrAnta-suKinam-enam
+   kāraya' iti /	kAraya-a iti /
+   atha gate tasmin, paryaste ca vāsare,	aTa gate tasmin, paryaste ca vAsare,
+   saṃghaṭṭamānaraktapaṅkajasaṃpuṭapīyamāna eva kṣayiṇi kṣāmatāṃ vrajati	saMGawwamAna-rakta-paFkaja-saMpuwa-pIyamAnaH eva kzayiNi kzAma-tAm vrajati
+   bālavāyasāsyāruṇe 'parāhṇātape, śithilitanijavājijave	bAla-vAyasa-asya-aruNe aparAhNa-Atape, SiTilita-nija-vAji-jave
+   japāpīḍapāṭalimnyastācalaśikharaskhalite khañjatīva	japa-ApIxa-pAwalimni-asta-acala-SiKara-sKalite KaQjati-iva
+   kamalinīkaṇṭakakṣatapādapallave pataṅge, puraḥ parāpatati	kamalinI-kaNwaka-kzata-pAda-pallave pataFge, puras parApatati
+   preṅkhadandhakāraleśalambālake śaśivirahaśokaśyāma iva śyāmāmukhe,	preFKat-anDa-kAra-leSa-lambAlake SaSi-viraha-Soka-SyAmaH iva SyAmA-muKe,
+   kṛtasaṃdhyopāsanaḥ śayanīyamagāt /	kRta-saMDyA-upAsanaH SayanIyam-agAt /
+   acintayaccaikākī--kiṃ karomi /	acintayat-ca-ekAkI--kim karomi /
+   anyathā sambhāvito 'smi rājñā /	anyaTA samBAvitaH asmi rAjQA /
+   nirnimittabandhunā ca saṃdiṣṭamevaṃ kṛṣṇena /	nirnimitta-banDunA ca saMdizwam-evam kRzNena /
+   kaṣṭā ca sevā /	kazwA ca sevA /
+   viṣamaṃ bhṛtyatvam /	vizamam BRtya-tvam /
+   atigambhīraṃ mahadrājakulam /	ati-gamBIram mahat-rAja-kulam /
+   na ca me tatra pūrvajapuruṣapravartitā prītiḥ, na kulakramāgatā gatiḥ,	na ca me tatra pUrva-ja-puruza-pravartitA prItiH, na kula-krama-AgatA gatiH,
+   nopakārasmaraṇānurodhaḥ, na bālasevāsnehaḥ, na gotragauravam, na	na-upakAra-smaraNa-anuroDaH, na bAla-sevA-snehaH, na gotra-gOravam, na
+   pūrvadarśanadākṣiṇyam, na prajñāsaṃvibhāgopapralobhanam, na	pUrva-darSana-dAkziNyam, na prajQA-saMviBAga-upapraloBa-nam, na
+   vidyātiśayakutuhalam, nākārasaundaryādaraḥ, na sevākākukauśalam, na	vidyA-atiSaya-kutuhalam, na-AkAra-sOndarI-AdaraH, na sevA-kAku-kOSalam, na
+   vidvadgoṣṭhībandhavaidagdhyam, na vittavyayavaśīkaraṇam, na	vidvat-gozWI-banDa-vEdagDyam, na vitta-vyaya-vaSIkaraNam, na
+   rājavallabhaparicayaḥ /	rAja-vallaBa-paricayaH /
+   avaśyaṃ gantavyañca /	avaSyam gantavyaQca /
+   sarvathā bhagavānbhavānīpatirbhuvanapatirgatasya me śaraṇam, sarvaṃ	sarvaTA BagavAn-BavAnI-patiH-Buvana-patiH-gatasya me SaraNam, sarvam
+   sāmpratamācariṣyati, ityavadhāryaṃ gamanāya matimakarot /	sAmpratam-Acarizyati, iti-avaDAryam gamanAya matim-akarot /
+   athānyasminnahanyutthāya, prātareva snātvā, dhṛtadhavaladukūlavāsāḥ,	aTa-anyasmin=-ahani-utTAya, prAtar-eva snAtvA, DRta-Davala-dukUla-vAsAH,
+   gṛhītākṣamālaḥ, prāsthānikāni sūktāni mantrapadāni ca bahuśaḥ samāvartya	gRhIta-akzamAlaH, prAsTAnikAni sUktAni mantra-padAni ca bahuSas samAvartya
+   devadevasya virūpākṣasya kṣīrasnapanapuraḥsarāṃ	devadevasya virUpAkzasya kzIra-snapana-puraHsarAm
+   surabhikusumadhūpagandhadhvajabalivilepanapradīpakabahulāṃ vidhāya	suraBi-kusuma-DUpa-ganDa-Dvaja-bali-vilepana-pradIpaka-bahulAm viDAya
+   paramayā bhaktyā pūjām,	paramayA BaktyA pUjA-m,
+   prathamahutataralatilatvagvighaṭanacaṭulamukharaśikhāśekharaṃ	praTama-huta-tarala-tila-tvac-viGawana-cawula-muKara-SiKA-SeKaram
+   prājyājyāhutipravardhitadakṣiṇārciṣaṃ bhagavantamāśuśukṣaṇiṃ hutvā, dattvā	prAjya-Ajya-Ahuti-pravarDita-dakziNa-arcizam Bagavantam-ASu-SukzaNim hutvA, dattvA
+   dyumnaṃ yathāvidyamānaṃ dvijebhyaḥ, pradakṣiṇīkṛtya prāṅmukhīṃ naicikīm,	dyumnam yaTA-vidyamAnam dvijeByaH, pradakziNIkRtya prAc-muKIm nEcikIm,
+   śuvalāṅgarāgaḥ, śuklamālyaḥ, śuklavāsāḥ,	Suvala-aFgarAgaH, Sukla-mAlyaH, Sukla-vAsAH,
+   rocanācitradūrvāgrapallavagrathitagirikarṇikākusumakṛtakarṇapūraḥ,	rocanA-citra-dUrvA-agra-pallava-graTita-girikarNikA-kusuma-kRta-karNapUraH,
+   śikhāsaktasiddhārthakaḥ, pituḥ kanīyasyā svasrā mātreva snehārdrahṛdayayā	SiKA-sakta-sidDArTakaH, pituH kanIyasyA svasrA mAtR-A-iva sneha-Ardra-hRdayayA
+   śvetavāsasā sākṣādiva bhagavatyā mahāśvetayā mālatyākhyayā	Sveta-vAsasA sAkzAt-iva BagavatyA mahA-SvetayA mAlati-AKyayA
+   kṛtasakalagamanamaṅgalaḥ, dattāśīrvādo bāndhavavṛddhābhiḥ, abhinanditaḥ	kRta-sakala-gamana-maFgalaH, datta-aSIrvAdaH bAnDava-vRdDABiH, aBinanditaH
+   parijanajaratībhiḥ vanditacaraṇairabhyanujñāto gurubhiḥ,	parijana-jaratIBiH vandita-caraNEH-aByanujQAtaH guruBiH,
+   abhivāditairāghrātaḥ śirasi kulavṛddhaiḥ, vardhitagamanotsāhaḥ śakunaiḥ,	aBivAditEH-AGrAtaH Sirasi kula-vRdDEH, varDita-gamana-utsAhaH SakunEH,
+   mauhūrtikamatena kṛtanakṣatradohadaḥ, śobhane muhūrte	mOhUrtika-matena kRta-nakzatra-doha-daH, SoBane muhUrte
+   haritagomayopaliptājirasthaṇḍilasthāpitamasitetarakusumamālāparikṣiptakaṇḍaṃ	harita-gomaya-upalipta-ajira-sTaNxila-sTApitam-asita-itara-kusuma-mAlA-parikzipta-kaNxam
+   dattapiṣṭapañcāṅgulapāṇḍuraṃ mukhanihitanavacūtapallavaṃ	datta-pizwa-paQca-aFgula-pANxuram muKa-nihita-nava-cUta-pallavam
+   pūrṇakalaśamīkṣamāṇaḥ praṇamya kuladevatābhyaḥ	pUrNa-kalaSam-IkzamANaH praNamya kula-devatAByaH
+   kusumaphalapāṇibhirapratirathaṃ japadbhirnijardvijairanugamyamānaḥ,	kusuma-Pala-pANiBiH-apratiraTam japadBiH-nija-rdvijEH-anugamyamAnaH,
+   prathamacalitadakṣiṇacaraṇaḥ, prītikūṭānniragāt /	praTama-calita-dakziNa-caraNaH, prIti-kUwAt-niragAt /
+   prathame 'hani tu ghamakālakaṣṭaṃ nirudakaṃ niṣpatrapādapaviṣamaṃ	praTame ahani tu Gama-kAla-kazwam nirudakam nizpatra-pAdapa-vizamam
+   pathikajananamaskriyamāṇapraveśapādapotkīrṇakātyāyanīpratiyātanaṃ	paTika-jana-namaskriyamANa-praveSa-pAdapa-utkIrNa-kAtyAyanI-pratiyAtanam
+   śuṣkamapi pallavitamiva tṛṣitaśvāpadakulalambitalolajihvālatāsahasraiḥ	Suzkam-api pallavitam-iva tRzita-SvApada-kula-lambita-lola-jihvA-latA-sahasrEH
+   pulakitamivācchabhallagolāṅgūlalihyamānamadhugolacalitasaraghāsaṃghātaiḥ,	pulakitam-iva-acCaBalla-golAFgUla-lihyamAna-maDu-gola-calita-saraGA-saMGAtEH,
+   romāñcitamiva dagdhasthalīrūḍhasthūlābhīrukandalaśataiḥ,	romAQcitam-iva dagDa-sTalI-rUXa-sTUlA-BIru-kandala-SatEH,
+   śanaiścaṇḍikāyatanakānanamatikramya mallakūṭanāmānaṃ grāmamagāt /	SanEs-caNxikA-Ayatana-kAnanam-atikramya mallakUwa-nAmAnam grAmam-agAt /
+   tatra ca hṛdayanirviśeṣeṇa bhrātrā suhṛdā ca jagatpatināmnā	tatra ca hRdaya-nirviSezeNa BrAtrA suhRdA ca jagatpati-nAmnA
+   saṃpāditasaparyaḥ sukhamavasat /	saMpAdita-saparyaH suKam-avasat /
+   athāparedyuruttīrya bhagavatīṃ bhāgīrathīṃ yaṣṭigṛhakanāmni vanagrāmake	aTa-aparedyus-uttIrya BagavatIm BAgIraTIm yazwi-gRhaka-nAmni vana-grAmake
+   niśāmanayat /	niSAm-anayat /
+   anyasmindivase skandhāvāramupamaṇipuramanvajiravati kṛtasanniveśaṃ	anyasmin-divase skanDAvAram-upamaNipuram-anvajiravati kRta-sanniveSam
+   samāsasāda /	samAsasAda /
+   atiṣṭhacca nātidūre rājabhavanasya /	atizWat-ca na-ati-dUre rAja-Bavanasya /
+   nivartitasnānāśanavyatikaro viśrāntaśca mekhalakena saha yāmamātrāvaśeṣe	nivartita-snAna-aSana-vyatikaraH viSrAntaH-ca meKalakena saha yAma-mAtra-avaSeze
+   divase bhuktavati bhūbhuji prakhyātānāṃ kṣitibhujāṃ bahūñśibirasaṃni	divase Buktavati BUBuji praKyAtAnAm kzitiBujAm bahUn-SibirasaMni
+   veśānvīkṣamāṇaḥ śanaiḥ śanaiḥ paṭṭabandhārthamupasthāpitaiśca	veSAn-vIkzamANaH SanEs SanEs pawwabanDa-arTam-upasTApitEH-ca
+   ḍiṇḍimādhirohaṇāyāhṛtaiścābhinavabaddhaiśca vikṣepopārjitaiśca	xiNxima-aDirohaNAya-AhRtEH-ca-aBinava-badDEH-ca vikzepa-upArjitEH-ca
+   kauśalikāgataiśca prathamadarśanakutūhalopanītaiśca	kOSalikA-gatEH-ca praTama-darSana-kutUhala-upanItEH-ca
+   nāgavīthīpālapreṣitaiśca pallīparivṛḍhaḍhaukitaiśca	nAga-vITIpAla-prezitEH-ca pallI-parivRXa-XOkitEH-ca
+   svecchāyuddhakrīḍākautukākāritaiśca dūtasaṃpreṣaṇapreṣitaiśca	sva-icCA-yudDa-krIxA-kOtuka-AkAritEH-ca dUta-saMprezaNa-prezitEH-ca
+   dīyamānaiścācchidyamānaiśca mucchamānaiśca yāmāvasthāpitaiśca	dIyamAnEH-ca-AcCidyamAnEH-ca mucCamAnEH-ca yAma-avasTApitEH-ca
+   sarvadvīpavijigīṣayā giribhiriva	sarva-dvIpa-vijigIzayA giriBiH-iva
+   sāgarasetubandhanārthamekīkṛtairdhvajapaṭapaṭupaṭahaśaṅkhacāmarāṅgarāgaramaṇīyaiḥ	sAgara-setu-banDana-arTam-ekIkRtEH-Dvaja-pawa-pawu-pawaha-SaFKa-cAmara-aFgarAga-ramaNIyEH
+   puṣyābhiṣekadivasairiva kalpitairvāraṇendraiḥ śyāmāyamānam,	puzya-aBizeka-divasEH-iva kalpitEH-vAraNa-indrEH SyAmAyamAnam,
+   anavaratacalitakhurapuṭaprahatamṛdaṅgaiśca nartayadbhiriva	anavarata-calita-Kura-puwa-prahata-mRdaFgEH-ca nartayadBiH-iva
+   rājalakṣmīmupahasadbhiriva sṛkvipuṭaprasṛtaphenāṭṭahāsena javajaḍajaṅghāṃ	rAja-lakzmIm-upahasadBiH-iva sRkvipuwa-prasRta-Pena-awwahAsena java-jaxa-jaFGAm
+   hariṇajātimākārayadbhiriva	hariNa-jAtim-AkArayadBiH-iva
+   saṃghaṭṭahetorharṣaheṣitenoccairuccaiḥśravasamutpatadbhiriva	saMGawwa-hetoH-harza-hezitena-uccEs-uccEHSrava-samutpatadBiH-iva
+   divasakararathaturagaruṣā yakṣāyamāṇamaṇḍanacāmaramālaigaganatalaṃ	divasakara-raTa-turagaruzA yakzAyamANa-maNxana-cAmara-mAlA-Egagana-talam
+   turaṅgaistaraṅgāyamāṇam, anyatra preṣitaiśca preṣyamāṇaiśca	turaFgEH-taraFgAyamANam, anyatra prezitEH-ca prezyamANEH-ca
+   preṣitapratinivṛttaiśca bahuyojanagamanagaṇanasakhyākṣarāvalībhiriva	prezita-pratinivRttEH-ca bahu-yojana-gamana-gaNana-saKyA-akzara-AvalIBiH-iva
+   varāṭikāvalībhirghaṭitamukhamaṇḍanakaistārakitairiva	varAwikA-valIBiH-Gawita-muKa-maNxanakEH-tArakitEH-iva
+   saṃdhyātapacchedairaruṇacāmarikāracitakarṇapūraiḥ saraktotpalairiva	saMDyA-Atapa=-CedEH-aruNa-cAmarikA-racita-karNapUrEH sa-rakta-utpalEH-iva
+   raktaśāliśāleyairanavaratajhaṇajhaṇāyamānacārucāmīkaraghurughurukamāli	raktaSAli-SAleyEH-anavarata-JaNa-JaNAyamAna-cAru-cAmIkara-GuruGurukamAli
+   kairjatkarañjavanairiva raṇitaśūṣkabījakośīśataiḥ	kEH-jat-karaQja-vanEH-iva raNita-SUzka-bIja-koSI-SatEH
+   śravaṇopāntapreṅkhatpañcarāgavarṇorṇācitrasūtrajūṭajaṭājālaiḥ	SravaNa-upAnta-preFKat-paQca-rAga-varNa-UrNA-citra-sUtra-jUwa-jawA-jAlEH
+   kapikapolakapilaiḥ kramelakakulaiḥ kapilāyamānam, anaytra	kapi-kapola-kapilEH kramelaka-kulEH kapilAyamAnam, anaytra
+   śarajjaladharairiva sadyaḥsrutapayaḥpaṭaladhavalatanubhiḥ kalpapādapairiva	Sarad-jalaDarEH-iva sadyas-sruta-payaH-pawala-Davala-tanuBiH kalpa-pAdapEH-iva
+   muktāphalajālakajāyamānālokaluptacchāyāmaṇḍalairnārāyaṇanābhipuṇḍarīkairi	muktAPala-jAlaka-jAyamAna-Aloka-lupta=-CAyA-maNxalEH-nArAyaNa-nABi-puNxarIkEH-i
+   vāśliṣṭagaruḍapakṣaiḥ kṣīrododdeśairiva dyotamānavikaṭavidrumadaṇḍaiḥ	vASlizwa-garuxa-pakzEH kzIroda-uddeSEH-iva dyotamAna-vikawa-vidruma-daNxEH
+   śeṣaphaṇāphalakairivoparisphuratsphītamāṇikyakhaṇḍaiḥ	Seza-PaNA-PalakEH-iva-upari-sPurat-sPIta-mANikya-KaNxEH
+   śvetagaṅgāpulinairiva rājahaṃsopasevitairabhibhavadbhiriva	Sveta-gaFgA-pulinEH-iva rAjahaMsa-upasevitEH-aBiBavadBiH-iva
+   nidāghasamayamupahasadbhiriva vivasvataḥ pratāpamāpibadbhirivātapaṃ	nidAGa-samayam-upahasadBiH-iva vivasvataH pratApam-Api-badBiH-iva-Atapam
+   candralokamayamiva jīvalokaṃ janayadbhiḥ kumudamayamiva kālaṃ	candra-loka-mayam-iva jIva-lokam janayadBiH kumuda-mayam-iva kAlam
+   kurvadbhirjyotsnāmayamivavāsaraṃ viracayadbhiḥ phenamayīmiva divaṃ	kurvadBiH-jyotsnA-mayam-iva-vAsaram viracayadBiH Pena-mayIm-iva divam
+   darśayadbhirakālakamudīsahasrāṇīvasṛjadbhirupahasadbhiriva śātakratavīṃ	darSayadBiH-akAlaka-mudI-sahasrANI-vasRjadBiH-upahasadBiH-iva SAtakratavIm
+   śriyaṃ śvetāyamānairātapatrakhaṇḍaiḥ śvetadvīpāyamānam,	Sriyam SvetAyamAnEH-Atapatra-KaNxEH SvetadvIpAyamAnam,
+   kṣaṇadṛṣṭanaṣṭāṣṭadiṅmukhaṃ ca muṣṇadbhiriva bhuvanamākṣepotkṣepadolāyituṃ	kzaNa-dRzwa-nazwa-azwa-diFmuKam ca muzNadBiH-iva Buvanam-Akzepa-utkzepa-dolAyitum
+   dinaṃ gatāgatānīva kārayadbhirutsārayadbhiriva	dinam gatAgatAni-iva kArayadBiH-utsArayadBiH-iva
+   kunṛpatisamparkakalaṅkakālīṃ kāleyīṃ sthitiṃ	ku-nRpati-samparka-kalaFka-kAlIm kAleyIm sTitim
+   vikacaviśadakāśavanapāṇḍuradaśadiśaṃ	vikaca-viSada-kASa-vana-pANxura-daSa-diSam
+   śaratsamayamivopapādayadbhirbisatantumayamivāntarikṣamāvirbhāvayadbhi ḥ	Sarad-samayam-iva-upapAdayadBiH-bisa-tantum-ayam-iva-antarikzam-AvirBAvayadhi H
+   śaśikararucīnā calatāṃ cāmarāṇāṃ sahasrairdelāyamānam, api ca	SaSi-kara-rucInA calatAm cAmarANAm sahasrEH-delAyamAnam, api ca
+   haṃsayūthāymānaṃ karikarṇaśaṅkheḥ, kalpalatāvanāyamānaṃ kadalikābhiḥ,	haMsa-yUTAymAnam kari-karNa-SaFKeH, kalpa-latA-avanAyamAnam kadalikABiH,
+   māṇikyavṛkṣakavanāyamānaṃ māyūrātapatreḥ, mandākinīpravāhāyamāṇamaṃśukaiḥ,	mANikya-vRkza-kavanAyamAnam mAyUra-AtapatreH, mandAkinI-pravAhAyamANam-aMSukEH,
+   kṣīrodāyamānaṃ kṣaumaiḥ, kadalīvanāyamānaṃ marakatamayūkhaiḥ,	kzIrodAyamAnam kzOmEH, kadalI-ivanAyamAnam marakatamayUKEH,
+   janyamānānyadivasamiva pajharāgabālātapaiḥ,	janyamAnAni-adivasam-iva paJarAga-bAla-AtapEH,
+   utpadyamānāparāmbaramivendranīlaprabāpaṭalaiḥ, ārabhyamāṇāpūrvaniśamiva	utpadyamAnA-apara-ambaram-iva-indranIla-prabApawalEH, AraByamANa-apUrva-niSam-iva
+   mahānīlamayūkhāndhakāraiḥ syandamānānekakālindīsahasramiva	mahAnIla-mayUKa-anDakArEH syandamAna-aneka-kAlindI-sahasram-iva
+   gāruḍamaṇiprabhāpratānaiḥ aṅgārakitamiva puṣparāgaraśmibhiḥ,	gAruxa-maNi-praBA-pratAnEH aFgArakitam-iva puzparAga-raSmiBiH,
+   kaiścitpraveśamalabhamānairadhomukhaiścaraṇanakhapatitavadanapratibimbanibhena	kEScid-praveSam-alaBamAnEH-aDomuKEH-caraNa-naKa-patita-vadana-pratibimba-niBena
+   lajjayā svāṅgānīva viśadbhiḥ kaiścidaṅgulīlikhitāyāḥ	lajjayA sva-aFgAni-iva viSadBiH kEScid-aFgulI-liKitAyAH
+   kṣitervikīryamāṇakaranakhakiraṇakadambavyājena sevācāmarāṇīvārpayadbhiḥ	kziteH-vikIryamANa-kara-naKa-kiraNa-kadamba-vyAjena sevA-cAmarANi-iva-arpayadBiH
+   kaiściduraḥsthaladolāyamānendranīlataralaprabhāpaṭṭaiḥ	kEScid-uraHsTala-dolAyamAna-indranIla-tarala-praBA-pawwEH
+   svāmikopapraśamanāya kaṇṭhabaddhakṛpāṇapaṭṭairiva	svAmi-kopa-praSamanAya kaNWa-badDa-kRpANa-pawwEH-iva
+   kaiściducchvāsasaurabhabhrāmyadbhramarapaṭalānvakāritamukhairapahṛtalakṣmīśokadhṛtalambaśmaśrubhirivānyaiḥ	kEScid-ucCvAsa-sOraBa-BrAmyat-Bramara-pawala-anvakArita-muKEH-apahRta-lakzmI-Soka-DRta-lamba-SmaSruBiH-iva-anyEH
+   śekharoḍḍīyamānamadhupamaṇḍalaiḥ	SeKara-uxxIyamAna-maDupa-maNxalEH
+   praṇāmaviḍambanābhayapalāyamānamaulibhiriva nirjitairapi	praNAma-vixambana-aBaya-palAyamAna-mOliBiH-iva nirjitEH-api
+   susaṃmānitairivānanyaśaraṇairantarāntarā niṣpatatāṃ praviśatāṃ	su-saMmAnitEH-iva-ananya-SaraNEH-antarA-antarA nizpatatAm praviSatAm
+   cāntarapratīhārāṇāmanumārgapradhānitānekārthijanasahasrāṇāmanuyāyinaḥ	ca-antara-pratIhArANAm-anumArga-praDAnita-an-eka-arTi-jana-sahasrANAm-anuyAyinaH
+   puruṣā naśrāntaiḥ punaḥ punaḥ pṛcchadbhiḥ "bhadra! adya bhaviṣyati bhuktvā	puruzAH na-SrAntEH punar punar pRcCadBiH "Badra! adya Bavizyati BuktvA
+   sthāne dāsyati darśanaṃ parameśvaraḥ, niṣpatiṣyati vā bāhyāṃ kakṣām' iti	sTAne dAsyati darSanam parameSvaraH, nizpatizyati vA bAhyAm kakzAma iti
+   darśanāśayā divasaṃ nayadbhirbhujanirjitaiḥ śatrumahāsāmantaiḥ	darSana-ASayAH divasam nayadBiH-Buja-nirjitEH Satru-mahA-sAmantEH
+   samantādāsevyamānam, anyaiśca	samantAt-AsevyamAnam, anyEH-ca
+   pratāpānurāgāgatairnānādeśajairmahāmahopālaiḥ	pratApa-anurAga-AgatEH-nAnA-deSa-jEH-mahA-mahopAlEH
+   pratipālayadbhirnarapatidarśanakālamadhyāsyamānam, ekāntopaviṣṭaiśca	pratipAlayadBiH-narapati-darSana-kAla-m-aDyAsyamAnam, ekAnta-upavizwEH-ca
+   jainairārhataiḥ pāśupataiḥ pārāśaribhirvarṇibhiḥ sarvadeśajanmabhiśca	jEnEH-ArhatEH pASupatEH pArASariBiH-varNiBiH sarva-deSa-janmaBiH-ca
+   janapadaiḥ sarvāmbhodhivelāvanavalayavāsibhiśca mlecchajātibhiḥ	janapadEH sarva-amBoDi-velA-vana-valaya-vAsiBiH-ca mlecCa-jAtiBiH
+   sarvadeśāntarāgataiśca dūtamaṇḍalairupāsyamānam sarvaprajānirmāṇabhūmimiva	sarva-deSa-antara-AgatEH-ca dUta-maNxalEH-upAsyamAnam sarva-prajA-nirmANa-BUmim-iva
+   prajāpatīnāṃ, lokatrayasāroccayaracitaṃ caturthamiva lokam,	prajApatInAn, lokatraya-sAra-uccaya-racitam caturTam-iva lokam,
+   mahābhārataśatairapyakathanīyasamṛddhisaṃbhāram, kṛtayugasahasrairiva	mahABArata-SatEH-api-akaTanIya-samRdDi-saMBAram, kRta-yuga-sahasrEH-iva
+   kalpitasanniveśam svarvārbudairiva vihātarāmaṇīyakam,	kalpita-sanniveSam svarvArbudEH-iva vihAta-rAmaNIyakam,
+   rājalakṣmokoṭibhiriva kṛtaparigrahaṃ rājadvāramagamat /	rAja-lakzmaH-kowiBiH-iva kRta-parigraham rAja-dvAram-agamat /
+   abhavaccāsya jātavismayasya manasi--"kathamivedamiyatpramāṇaṃ prāṇijātaṃ	aBavat-ca-asya jAta-vismayasya manasi--"kaTam-iva-idam-iyat-pramANam prANi-jAtam
+   janayatāṃ prajāsṛjāṃ nāsītpariśramaḥ, mahābhūtānāṃ vā parikṣayaḥ, paramāṇū	janayatAm prajA-asRjAm na-AsIt-pariSramaH, mahABUtAnAm vA parikzayaH, paramANU
+   nāṃ vā vicchedaḥ, kālasya vāntaḥ, āyuṣo vā vyuparamaḥ, ākṛtīnāṃ vā	nAm vA vicCedaH, kAlasya vAntaH, AyuzaH vA vyuparamaH, AkRtInAm vA
+   parisamāptiḥ' iti /	parisamAptiH-a iti /
+   mekhalakastu dūrādeva dvārapalalokena pratyabhijñāyamānaḥ "tiṣṭhatu	meKalakaH-tu dUrAt-eva dvAra-pala-lokena pratyaBijQAyamAnaH "tizWatu
+   tāvatkṣaṇamātramatraiva puṇyabāgī' iti tamabhidhāyāpratihataḥ puraḥ	tAvat-kzaNa-mAtram-atra-eva puNya-bAgI-a iti tam-aBiDAya-apratihataH puras-
+   prāviśat /	prAviSat /
+   atha sa muhūrtādiva prāṃśunā, karṇikāragaureṇa,	aTa sa muhUrtAt-iva prAMSunA, karNikAra-gOreNa,
+   vīdhrakañcukacchannavapuṣā,	vIDra-kaQcuka=-Canna-vapuzA,
+   samunmiṣanmāṇikyapadakabandhabandhuravastabandhakṛśāvalagnena,	samunmizat-mANikya-padaka-banDa-banDura-vasta-banDa-kRSO=-alagnena,
+   himaśailaśilāviśālavakṣasā, haravṛṣakakudakūṭavikaṭāṃsataṭena, urasā	himaSEla-SilA-viSAla-vakzasA, hara-vRzaka-kudakUwa-vikawa-aMsa-tawena, urasA
+   capalahṛṣīkahariṇakulasaṃyamanapāśamiva hāraṃ bibhratā, "kathayataṃ yadi	capala-hRzIka-hariNa-kula-saMyamana-pASam-iva hAram biBratA, "kaTayatam yadi
+   somavaṃśasaṃbhavaḥ sūryavaśasaṃbhavo vā bhūpatirabhūdevaṃvidhaḥ' iti	soma-vaMSa-saMBavaH sUrya-vaSa-saMBavaH vA BUpatiH-aBUt-evaMviDaH-a iti
+   praṣṭumānītābhyāṃ somasūryābhyāmiva śravaṇagatābhyāṃ maṇikuṇḍalābyāṃ	prazwum-AnItAByAm soma-sUryAByAm-iva SravaNa-gatAByAm maNi-kuNxalAbyAm
+   samudbhāsamānena,	samudBAsamAnena,
+   vahadvadanalāvaṇyavisaraveṇikākṣipyamāṇairadhikāragauravāddīyamānamāgerṇeva	vahat-vadana-lAvaNya-visara-veNikA-kzipyamANEH-aDikAra-gOravAt-dIyamAna-m-AgerNA-iva
+   dinakṛtaḥ kiraṇaiḥ prasādalabdhayā vikacapuṇḍarokamuṇḍamālayeva dīrghayā	dinakRtaH kiraNEH prasAda-labDayA vikaca-puNxa-roka-muNxa-mAlayA-iva dIrGayA
+   dṛṣṭyā dūrādevānandayatā, naiṣṭhuryādhiṣṭhāne 'pi pratiṣṭhitena pade pade	dRzwyA dUrAt-eva-AnandayatA, nEzWurya-aDizWAne api pratizWitena pade pade
+   praśrayamivāvanamreṇa, maulinā pāṇḍuramuṣṇīṣamudvahatā, vāmena	praSrayam-iva-avanamreNa, mOlinA pANxuram-uzNIzam-udvahatA, vAmena
+   sthūlamuktāphalacchuraṇadanturatsaruṃ karakisalayena kalayatā kṛpāṇam,	sTUla-muktAPala=-CuraNa-dantura-tsarum kara-kisalayena kalayatA kRpANam,
+   itareṇāpanītataralatāṃ tāḍinīmiva latāṃ śāta kaumbhīṃ vetrayaṣṭimunmṛṣṭāṃ	itareNa-apanIta-tara-latAm tAxinIm-iva latAm SAta kOmBIm vetra-yazwim-unmRzwAm
+   dhārayatā puruṣeṇānugamyamāno nirgatyāvocat--"eṣa khalu	DArayatA puruzeNa-anugamyamAnaH nirgatya-avocat---"eza Kalu
+   mahāpratīhārāṇāmanantaraścakṣuṣyo devasya pāriyātranāmā dauvārikaḥ /	mahA-pratIhArANAm-anantaraH-cakzuzyaH devasya pAriyAtra-nAmA dOvArikaH /
+   samanugṛhṇātvenamanurūpayā pratipattyā kalyāṇābhiniveśī' iti /	samanugRhNAtu-enam-anurUpayA pratipattyA kalyANa-aBiniveSI-a iti /
+   dauvārikastu samupasṛtya kṛtapraṇāmo madhurayā girā savinayamabhāṣata--	dOvArikaH-tu samupasRtya kRta-praNAmaH maDurayA girA sa-vinayam-aBAzata--
+   "āgacchata /	"a-AgacCata /
+   praviśata devadarśanāya /	praviSata deva-darSanAya /
+   kṛtaprasādo devaḥ' iti /	kRta-prasAdaH devaH-a iti /
+   bāṇastu "dhanyo 'smi, yadevamanugrāhyaṃ māṃ devo manyate' ityuktvā	bANaH-tu "DanyaH asmi, yat-evam-anugrAhyam mAm devaH manyate-a iti-uktvA
+   tenopadiśyamānamārgaḥ prāviśadabhyantaram /	tena-upadiSyamAna-mArgaH prAviSat-aByantaram /
+   atha vanāyujaiḥ, āraṭṭajaiḥ, bhāradvājaiḥ, sindhudeśajaiḥ, pārasīkaiśca,	aTa vanAyu-jEH, Arawwa-jEH, BAradvAjEH, sinDu-deSa-jEH, pArasIkEH-ca,
+   śoṇaiśca, śyāmaiśca, śvetaiśca, piñjaraiśca, haridbhiśca,	SoNEH-ca, SyAmEH-ca, SvetEH-ca, piQjarEH-ca, haridBiH-ca,
+   tittirikalmāṣaiśca, pañcabhadraiśca, mallikākṣaṃśca, kṛttikāpiñjaraiśca,	tittiri-kalmAzEH-ca, paQcaBadrEH-ca, mallikA-akzan=-ca, kRttikA-piQjarEH-ca,
+   āyatanirmāṃsamukhaiḥ, anutkaṭakarṇakośaiḥ,	Ayata-nirmAMsa-muKEH, anutkawa-karNa-koSEH,
+   suvṛttaślakṣṇasughaṭitaghaṇṭikābandhaiḥ, yūpānupūrvīvakrāyatodagragrīvaiḥ,	su-vRtta-SlakzNa-su-Gawita-GaNwikA-banDEH, yUpa-AnupUrvI-vakra-Ayata-udagra-grIvEH,
+   upacayaśvasatsvandhasaṃdhibhiḥ, nirbhugnoraḥsthalaiḥ	upacaya-Sva-satsu-anDa-saMDiBiH, nirBugna-uraH-sTalEH
+   asthūlapraguṇaprasṛtairlohapīṭhakaṭhinakhuramaṇḍalaiḥ,	asTUla-praguNa-prasRtEH-loha-pIWa-kaWina-Kura-maNxalEH,
+   atijvatruṭanabhayādanirmitāntrāṇīvodarāṇi vṛttāni dhārayadbhiḥ, udyaddro	ati-jva-truwana-BayAt-anirmita-antrANi-iva-udarANi vRttAni DArayadBiH, udyaddro
+   ṇīvibhajyamānapṛthujaghanaiḥ, jagatīdolāyamānabālapallavaiḥ,	NI-viBajyamAna-pRTu-jaGanEH, jagatI-dolAyamAna-bAla-pallavEH,
+   kathamapyubhayato nikhātadṛḍhabhūripāśasaṃyamananiyantritaiḥ, āyatairapi	kaTam-api-uBayatas niKAta-dRXa-BUri-pASa-saMyamana-niyantritEH, AyatEH-api
+   paścātpāśabandhaparavaśaprasāritaikāṅghribhirāyatatarairivopalakṣyamāṇaiḥ,	paScAt-pASa-banDa-para-vaSa-prasArita-eka-aFGriBiH-AyatatarEH-iva-upalakzyamANEH,
+   bahuguṇasūtragrathitagrīvāgaṇḍakaiḥ, āmīlitalocanaiḥ,	bahu-guNa-sUtra-graTita-grIvA-gaNxakEH, AmIlita-locanEH,
+   dūrvārasaśyāmalaphenalavaśabalān daśanagṛhītamuktān pharapharitatvacaḥ	dUrvA-rasa-SyAmala-Pena-lava-SabalAn daSana-gRhIta-muktAn Para-Parita-tvacaH
+   kaṇḍūjuṣaḥ pradeśān prajālayadbhiḥ, sālasavalitavāladhibhiḥ,	kaNxU-juzaH pradeSAn prajAlayadBiH, sAlasa-valita-vAlaDiBiH,
+   ekaśaphaviśrāntiśramasrastaśithilitajaghanārdhaiḥ, nidrayā	eka-SaPa-viSrAnti-Srama-srasta-SiTilita-jaGana-arDEH, nidrayA
+   pradhyāyadbhiśca, skhalitahuṅkāramandamandaśabdāyamānaiśca,	praDyAyadBiH-ca, sKalita-huFkAra-manda-manda-SabdAyamAnEH-ca,
+   tāḍitakhūradharaṇīraṇitamukharaśikharaśuralikhitakṣmātalairghāsamabhilaṣadbhiśca,	tAxita-KUra-DaraNI-raNita-muKara-SiKara-Sura-liKita-kzmA-talEH-GAsam-aBilazadBiH-ca,
+   tāḍitakhūradharaṇīraṇitamukharaśikharakhuralikhitakṣmātalairghāsamabhilaṣadbhiśca,	tAxita-KUra-DaraNI-raNita-muKara-SiKara-Kura-liKita-kzmA-talEH-GAsam-aBilazadBiH-ca,
+   prakīryamāṇayavasagrāsarasamatsarasamudbhūtakṣobhaiśca,	prakIryamANa-yavasa-grAsa-rasa-matsara-samudBUta-kzoBEH-ca,
+   prakupitacaṇḍacaṇḍālahuṅkārakātaratarataralatārakaiśca,	prakupita-caNxa-caNxAla-huFkAraka-ataratara-tarala-tArakEH-ca,
+   kuṅkumapramṛṣṭipiñjarāṅgatayā	kuFkuma-pramRzwi-piQjara-aFga-tayA
+   satatasannihitanīrājanānalarakṣyamāṇairivoparivitatavitānaiḥ,	satata-sannihita-nIrAjana-anala-rakzyamANEH-iva-upari-vitata-vitAnEH,
+   puraḥpūjitābhimatadaivataiḥ, bhūpālavallabhaisturaṅgairāracitāṃ mandurāṃ	puras-pUjita-aBimata-dEvatEH, BUpAla-vallaBEH-turaFgEH-AracitAm mandurAm
+   vilokayan, kutūhalākṣiptahṛdayaḥ kiñcidantaramatikrānto	vilokayan, kutUhala-Akzipta-hRdayaH kiQcid-antaram-atikrAntaH-
+   hastavāmenātyuccatayā niravakāśamivākāśaṃ kurvāṇam, mahatā kadalīvanena	hasta-vAmena-ati-uccatayA niravakASam-iva-AkASam kurvANam, mahatA kadalI-vanena
+   parivṛtaparyantaṃ sarvato	parivRta-paryantam sarvatas-
+   madhukaramayībhirmadasrutibhirnadībhirivāpatantībhirāpūryamāṇam,	maDukara-mayIBiH-mada-srutiBiH-nadIBiH-iva-ApatantIBiH-ApUryamANam,
+   āśāmukhavisarpiṇā bakulavanānāmiva vikasatāmāmodeva limpantaṃ	ASA-muKa-visarpiNA bakula-vanAnAm-iva vikasatAm-Amodeva limpantam
+   ghrāṇendriyaṃ dūrādavyaktamibhadhiṣṇyāgāramapaśyat /	GrANa-indriyam dUrAt-avyaktam-iBa-DizNya-AgAram-apaSyat /
+   apṛcchacca--"atra devaḥ kiṅkaroti?' iti /	apRcCat-ca--"atra devaH kiFkaroti?-a iti /
+   asāvakathayat--"eṣa khalu devasyaupavāhyo vāhyaṃ hṛdayaṃ jātyantarita ātmā	asO=-akaTayat--"eza Kalu devasya-OpavAhyaH vAhyam hRdayam jAti-antaritaH AtmA
+   bahiścarāḥ prāṇā vikramakrīḍāsuhṛddarpaśāta iti yathārthanāmā vāraṇapatiḥ	bahiScarAH prANAH vikrama-krIxA-suhRd-darpa-SAtaH iti yaTArTa-nAmA vAraNa-patiH
+   tasyāvasthānamaṇḍapo 'yaṃ mahān dṛśyate' iti /	tasya-avasTAna-maNxapaH ayam mahAn dRSyate-a iti /
+   sa tamavādīt--"bhadra! śrūyate darpaśātaḥ yadyevamadoṣo vā paśyāmi	sa tam-avAdIt---"Badra! SrUyate darpa-SAtaH yadi-evam-adozaH vA paSyAmi
+   tāvadvāraṇendrameva /	tAvat-vAraNa-indram-eva /
+   ator'hasi māmatra prāpayitum /	ator-ahasi mAm-atra prApayitum /
+   atiparavānasmi kūtūhalena' iti /	ati-paravAn-asmi kUtUhalena-a iti /
+   so 'bhāṣata--"bhavatvevam /	saH aBAzata---"-Bava-tu-evam /
+   āgacchatu bhavān /	AgacCatu BavAn /
+   ko doṣaḥ /	kaH dozaH /
+   paśyatu tāvadvāraṇendram' iti /	paSyatu tAvat-vAraNa-indram-a iti /
+   gatvā ca taṃ pradeśaṃ dūrādeva gabhbhīragalagarjitairviyati	gatvA ca tam pradeSam dUrAt-eva gaBBIra-gala-garjitEH-viyati
+   cātakakadambakairbhuvi ca bhavananīlakaṇṭhakulaiḥ	cAtaka-kadambakEH-Buvi ca Bavana-nIla-kaNWa-kulEH
+   kalakekākalakalamukharamukhaiḥ kriyamāṇākālakolāhalam,	kala-kekAkalakala-muKara-muKEH kriyamANA-kAla-kolAhalam,
+   vikacakadambasaṃvādimadasurāsaurabhabharitabhuvanam,	vikaca-kadamba-saMvAdi-mada-surA-sOraBa-Barita-Buvanam,
+   kāyavantamivākālameghakālam, aviralamadhubindupiṅgalapajhajālakitāṃ	kAyavantam-iva-akAla-meGa-kAlam, avirala-maDu-bindu-piFga-la-paJajAlakitAm
+   sarasīmivātyavagāḍhāṃ daśāṃ caturthīmutsṛjantam,	sarasIm-iva-atyavagAXAm daSAm caturTIm-utsRjantam,
+   anavaratamavataṃsaśaṅkairāmandrakarṇatāladundubhidhvanibhiḥ	anavaratam-avataMsa-SaFkEH-Amandra-karNa-tAla-dunduBi-DvaniBiH
+   pañcamīpraveśamaṅgalārambhamiva sūcayantam /	paQcamI-praveSa-maFgala-AramBam-iva sUcayantam /
+   aviratacalanacitratripadīlalitalāsyalayairdelāyamānadīrghadehābhogavattayā	avirata-calana-citratripadI-lalita-lAsya-layEH-delAyamAna-dIrGa-deha-aBogavat-tayA
+   medinīvidalanabhayena bhāramiva laghayantam, digbhittitaṭeṣu kāyamiva	medinI-vidalana-Bayena BAram-iva laGayantam, diS-Bitti-tawezu kAyam-iva
+   kaṇḍūyamānam, āhavāyodastahastatayā digvāraṇānivāhvayamānam,	kaNxUyamAnam, AhavAya-udasta-hasta-tayA diS-vAraNAn-iva-AhvayamAnam,
+   brahnastambhamiva sthūlaniśitadantena karapatreṇa pāṭayantam, amāntaṃ	brahna-stamBam-iva sTUla-niSita-dantena kara-patreNa pAwayantam, amAntam
+   bhuvanābyantare bahiriva nirgantumīhamānam;	Buvana-Abi-antare bahis-iva nirgantum-IhamAnam;
+   sarvataḥsarasakisalayalatālāsibhirleśikaiściraparicayopacitairvanairi va	sarvatas-sarasa-kisalayala-tAlAsiBiH-leSikEH-cira-paricaya-upacitEH-vanEri va
+   vikṣiptaṃ, saśaivalabisavisaraśabalasalilaiḥ sarobhiriva	vikziptaM, sa-SEvala-bisa-visara-Sabala-salilEH saroBiH-iva
+   cādhoraṇairādhīyamānanidāghasamayasamucitopacārānandam, api ca	ca-aDoraNEH-ADIyamAna-nidAGa-samaya-samucita-upacAra-Anandam, api ca
+   pratigajadānapavanādānadūrotkṣiptenānekasamaravijayagaṇanālekhābhiri va	pratigaja-dAna-pavana-AdAna-dUra-utkziptena-aneka-samara-vijaya-gaNanA-leKABiri va
+   valivalayarājibhistanīyasībhistaraṅgitodareṇātisthavīyasā	vali-valaya-rAji-BistanIyasIBiH-taraFgita-udareNa-ati-sTavIyasA
+   hastārgaladaṇḍenārgalayantamiva sakalaṃ sakulaśailasamudradvīpakānanaṃ	hasta-argala-daNxena-argalayantam-iva sakalam sa-kula-SEla-samudra-dvIpa-ka-Ananam
+   kakubhāṃ cakravālam, ekaṃ karāntarārpitenotpalāśena	kakuBAm cakravAlam, ekam kara-antara-arpitena-utpalASena
+   kadalīdaṇḍenāntargataśīkarasicyamānamūlam, muktapallavamivāparaṃ	kadalI-daNxena-antargata-SIkara-sicyamAna-mUlam, mukta-pallavam-iva-aparam
+   līlāvalambinā mṛṇālajālakena samararasoccaromāñcakaṇṭakitamiva	lIlA-avalambinA mRNAla-jAlakena samara-rasa-ucca-raH-mAQca-kaNwakitam-iva
+   dantamāṇḍamudvahantam, visarpantyā ca dantakāṇḍayugalasya kāntyā	dantam-ANxam-udvahantam, visarpantyA ca danta-kANxa-yugalasya kAntyA
+   saraḥkrīḍāsvā ditāni kumudavanānīva bahudhā vamantam, nijayaśorāśimiva	saraH-krIxAsvA ditAni kumuda-vanAni-iva bahuDA vamantam, nija-yaSaH-rASim-iva
+   diśāmarpayantam, kukarikīṭapāṭanadurvidagdhān siṃhānivopahasantam,	diSAm-arpayantam, kukari-kIwa-pAwana-durvidagDAn siMhAn-iva-upahasantam,
+   kalpadrumadukūlamukhapaṭamiva cātmanaḥ kalayantam,	kalpadruma-dukUla-muKa-pawam-iva ca-AtmanaH kalayantam,
+   hastakāṇḍadaṇḍoddharaṇalīlāsu ca lakṣyamāṇena raktāṃśukasukumāratareṇa	hasta-kANxa-daNxa-udDaraNa-lIlAsu ca lakzyamANena rakta-aMSuka-sukumAratareNa
+   tālunā kavalitāni raktapajhavanānīva varṣantam,	tAlunA kavalitAni rakta-paJavanAni-iva varzantam,
+   abhinavakisalayarāśīnivodgirantam, kamalakavalapītaṃ madhurasamiva	aBinava-kisalaya-rASIn-iva-udgirantam, kamala-kavala-pItam maDura-sam-iva
+   svabhāvapiṅgalena vamantaṃ cakṣuṣāṃ,	svaBAva-piFgalena vamantam cakzuzA-aM,
+   cūtacampakalavalīlavaṅgakakkolavantyelālatāmiśritāni sasahakārāṇi	cUta-campa-kalava-lI-lavaFga-kakkolavanti-elAlatA-miSritAni sa-sahakArANi
+   karpūrapūritāni pārijātakavanānīvopabhukāni punaḥpuna karaṭābhyāṃ	karpUra-pUritAni pArijAtaka-vanAni-iva-upaBukAni punar-puna karawAByAm
+   bahalamadāmodavyājena visṛjantam, aharniśaṃ	bahala-mada-Amoda-vyAjena visRjantam, aharniSam
+   vibhramakṛtahastasthitibhirardhakhaṇḍitapuṇḍrekṣukāṇḍakaṇḍūyanalikhitairalikulavācālitairdānapaṭṭakairvilabhamānamiva	viBrama-kRta-hasta-sTitiBiH-arDa-KaNxita-puNxra-ikzu-kANxa-kaNxUyana-liKitEH-ali-kulavAcAlitEH-dAna-pawwakEH-vilaBamAnam-iva
+   sarvakānanāni karipatīnām, aviralodabindusyandinā himaśilāśakalamayena	sarva-kAnanAni karipatI-nAm, avirala-uda-bindu-syandinA hima-SilA-Sakala-mayena
+   vibhramanakṣatramālāguṇena śiśirīkriyamāṇam,	viBrama-nakzatra-mAlA-guNena SiSirI-kriyamANam,
+   sakalavāraṇendrādhipatyapaṭṭabandhabandhuramivoccaistarāṃ śiro dadhānam,	sakala-vAraNa-indra-ADipatya-pawwa-banDa-banDuram-iva-uccEstarAm SiraH daDAnam,
+   muhurmuhuḥ sthagitāpāvṛtadiṅmukhābyāṃ karṇatālatālavṛntābhyāṃ	muhur-muhur sTagita-apAvRta-diFmuKa-AbyAm karNa-tAla-tAlavRntAByAm
+   vījayantamiva bhartṛbhaktyā dantaparyaṅkikāsthitāṃ rājalakṣmīm,	vIjayantam-iva BartR-BaktyA danta-paryaFkikA-sTitAm rAja-lakzmIm,
+   āyatavaṃśakramāgatena gajādhipatyacihnena cāmareṇeva calatā vāladhinā	Ayata-vaMSa-krama-Agatena gaja-ADipatya-cihnena cAmareNa-iva calatA vAlaDinA
+   virājamānam, svacchaśiśiraśīkaracchalena digvijayapītāḥ sarita iva	virAjamAnam, svacCa-SiSira-SIkara=-Calena digvijaya-pItAH saritaH iva
+   punaḥpunarmukhena muñcantam,	punar-punar-muKena muQcantam,
+   kṣaṇamavadhānadānaniḥspandīkṛtasakalāvayavānāmanyadviradaḍiṇḍimākarṇanāṅgavalanānāmante	kzaNam-avaDAna-dAna-niHspandIkRta-sakala-avayavAnAm-anyat-virada-xiNxima-AkarNana-aFga-valanAnAm-ante
+   dīrghaphūtkāraiḥ paribhavaduḥkhamivāvedayantam,	dIrGa-PUtkArEH pariBava-duHKam-iva-Avedayantam,
+   alabdhayuddhamivātmānamanuśocantam, ārohādhirūḍhiparibhavena	alabDa-yudDam-iva-AtmAnam-anuSocantam, Aroha-aDirUXi-pariBavena
+   lajjamānamivāṅgulīlikhitamahītalam, madaṃ muñcantam,	lajjamAnam-iva-aFgulI-liKita-mahI-talam, madam muQcantam,
+   avajñāgṛhītamuktakavalakupitārohāraṭanānurodhena	avajQA-gRhIta-mukta-kavala-kupita-Aroha-Arawana-anuroDena
+   madatandrīnimīlitanetratribhāgam, kathaṃ kathamapi	mada-tandrI-nimIlita-netra-tri-BAgam, kaTam kaTam-api
+   mandamandamanādarādādadānaṃ kavalān,	manda-mandam-anAdarAt-AdadAnam kavalAn,
+   ardhajagdhatamālapallavasrutaśyāmalarasena prabhūtatayā madapravāhamiva	arDa-jagDa-tamAla-pallava-sruta-SyAmala-rasena praBUta-tayA mada-pravAham-iva
+   mukhenāpyutsṛjantam, calantamiva darpeṇa, śvasantamiva śauryeṇa,	muKena-api-utsRjantam, calantam-iva darpeNa, Svasantam-iva SOryeNa,
+   mūrcchantamiva madena, truṭyantamiva tāruṇyena, dravantamiva dānena,	mUrcCantam-iva madena, truwi-antam-iva tAruNyena, dravantam-iva dAnena,
+   valgantamiva balena, mādyantamiva mānena, udyantamivotsāhena, tāmyantamiva	valgantam-iva balena, mA-Adyantam-iva mAnena, udyantam-iva-utsAhena, tAmyantam-iva
+   tejasā, limpantamiva lāvaṇyena, siñcantamiva saubhāgyena, snigdhaṃ	tejasA, limpantam-iva lAvaNyena, siQcantam-iva sOBAgyena, snigDam
+   nakheṣu, paruṣaṃ romaviṣaye, guruṃ mukhe, sacchiṣyaṃ vinaye, mṛduṃ śirasi,	naKezu, paruzam roma-vizaye, gurum muKe, sat-Sizyam vinaye, mRdum Sirasi,
+   dṛḍhaṃ paricayeṣu, hrasvaṃ skandhabandhe, dīrghamāyuṣi, daridramudare,	dRXam paricayezu, hrasvam skanDa-banDe, dIrGam-Ayuzi, daridram-udare,
+   satatapravṛrtta dāne, balabhadraṃ madalīlāsu, kulakalatramāyattatāsu,	satata-pravRrtta dAne, balaBadram mada-lIlA-asu, kula-kalatram-Ayat-tatAsu,
+   jinaṃ kṣamāsu, vahnivarṣaṃ krodhamokṣeṣu, garuḍhaṃ nāgoddhṛtiṣu, nāradaṃ	jinam kzamAsu, vahni-varzam kroDa-mokza-izu, garuXam nAga-udDRtizu, nAradam
+   kalahakutūhaleṣu, śuṣkāśanipātamavaskandeṣu, makaraṃ vāhinīkṣobheṣu,	kalaha-kutUhala-izu, Suzka-aSani-pAtam-avaskanda-izu, makaram vAhinI-kzoBezu,
+   āśīviṣaṃ daśanakarmasu, varuṇaṃ hastapāśākṛṣṭiṣu,	ASIvizam daSana-karmasu, varuNam hasta-pASa-AkRzwizu,
+   yamavāgurāmarātisaṃveṣṭaneṣu, kālaṃ pariṇatiṣu, rāhuṃ tīkṣṇakaragrahaṇeṣu,	yama-vAgurA-mara-ati-saMvezwanezu, kAlam pariNatizu, rAhum tIkzNa-kara-grahaNezu,
+   lohitāṅgaṃ vakracāreṣu, alātacakraṃ maṇḍalabrāntivijñāneṣu,	lohita-aFgam vakra-cAra-izu, alAta-cakram maNxala-brAnti-vijQAna-izu,
+   manorathasaṃpādakaṃ cindāmaṇiparvataṃ vikramasya,	manoraTa-saMpAdakam cindAmaNi-parvatam vikramasya,
+   dantamuktāśailastambhanivāsaprāsādamabhimānasya,	danta-muktA-SEla-stamBa-nivAsa-prAsAdam-aBimAnasya,
+   ghaṇṭācāmaramaṇḍanamanoharamicchāsaṃcaraṇavimānaṃ manasvitāyāḥ,	GaNwA-cAmara-maNxana-manoharam-icCA-saMcaraNa-vimAnam manasvitAyAH,
+   madadhārādurdināndhakāraṃ gandhodakadhārāgṛhaṃ krodhasya,	mada-DArA-durdina-anDakAram ganDa-udaka-DArA-gRham kroDasya,
+   sakāñcanapratimaṃ mahāniketanamahaṅkārasya, sagaṇḍaśailaprasravaṇaṃ	sa-kAQcana-pratimam mahA-niketanam-ahaFkArasya, sa-gaNxa-SEla-prasravaNam
+   krīḍāparvatamavalepasya, sadantatoraṇaṃ vajramandiraṃ darpasya,	krIxA-parvatam-avalepasya, sa-danta-toraNam vajra-mandiram darpasya,
+   uccakumbhakūṭāṭṭālakavikaṭaṃ saṃcārigiridurgaṃ rājyasya,	ucca-kumBa-kUwa-awwAlaka-vikawam saMcAri-giri-durgam rAjyasya,
+   kṛtānekabāṇavivarasahasraṃ lohaprākāraṃ pṛthivyāḥ,	kRta-aneka-bANa-vivara-sahasram loha-prAkAram pRTivyAH,
+   śilīmukhaśatajhāṅkāritaṃ pārijātapādapaṃ bhūnandanasya, tathā ca	SilImuKa-Sata-JAFkAritam pArijAta-pAdapam BUnandanasya, taTA ca
+   saṃgītagṛhaṃ karṇatālatāṇḍavānām, āpānamaṇḍapaṃ madhupamaṇḍalānām,	saMgIta-gRham karNa-tAla-tANxavAnAm, ApAna-maNxapam maDupa-maNxalAnAm-,
+   antaḥpuraṃ śṛṅgārābharaṇānām, madanotsavaṃ madalīlālāsyānām,	antaHpuram SRFgAra-ABaraNAnAm, madana-utsavam mada-lIlAlAsyAnAm,
+   akṣuṇṇapradoṣaṃ nakṣatramālāmaṇḍalānām, akālaprāvṛṭkālaṃ	akzuNNa-pradozam nakzatra-mAlA-maNxalAnAm, akAla-prAvRz-kAlam
+   madamahānadīpūraplavānām, alīkaśaratsamayaṃ saptacchadavanaparimalānām,	mada-mahA-nadI-pUra-plavAnAm, alIka-Sarad-samayam saptacCada-vana-parimalAnAm-,
+   apūrvahimāgamaṃ śīkaranīhārāṇām, mithyājaladharaṃ garjitāḍambarāṇāṃ	apUrva-hima-Agamam SIkara-nIhArANAm, miTyA-jala-Daram garjita-AxambarANAm
+   darpaśātamapaśyat /	darpa-SAtam-apaSyat /
+   āsīccāsya cetasi--"nūnamasya, nirmāṇe girayo grāhitāḥ paramāṇutām /	AsIt-ca-asya cetasi--"nUnam-asya, nirmANe girayaH grAhitAH parama-aNu-tAm /
+   kuto 'nyathā gauravamidam /	kutas anyaTA gOravam-idam /
+   āścaryametat /	AScaryam-etat /
+   vindhyasya dantāvādivarāhasya karaḥ' iti vismayamānamevaṃ dauvāriko	vinDyasya dantO=-Adi-varAhasya karaH-a iti vismayamAnam-evam dOvArikaH-
+   'bravīt-- "paśya,-- mityaivālikhitāṃ manorathaśatairniḥśeṣanaṣṭāṃ priyaṃ	abravIt-- "paSya,- mityA-eva-AliKitAm manoraTa-SatEH-niHSeza-nazwAm priyam
+   cintāsādhanakalpanākuladhiyāṃ bhūyo vane vidviṣām /	cintA-sADana-kalpanA-kula-DiyAm BUyas vane vidvizAm /
+   āyātaḥ kathamapyayaṃ smṛtipathaṃ śūnyībhavaccetasāṃ nāgendraḥ sahate na	AyAtaH kaTam-api-ayam smRti-paTam SUnyIBavat-cetasAm nAga-indraH sahate na
+   mānasagatānāśāgajendrānapi //	mAnasa-gatAn-ASA-gaja-indrAn-api //
+   tadehi /	tat-ehi /
+   punarapyenaṃ drakṣyasi /	punar-api-enam drakzyasi /
+   paśya tāvaddevam' ityabhidhīyamānaśca tena	paSya tAvat-devam-a iti-aBiDIyamAnaH-ca tena
+   madajalapaṅkilakapolapaṭṭapatitāṃ mattāmiva madaparimalena mukulitāṃ	mada-jala-paFkila-kapola-pawwa-patitAm mattAm-iva mada-parimalena mukulitAm
+   kathamapi tasmād dṛṣṭimākṛṣya tenaiva dauvārikeṇopadiśyamānavartmā	kaTam-api tasmAt dRzwim-AkRzya tena-eva dOvArikeNa-upadiSyamAna-vartmA
+   samatikramya bhūpālakulasahasrasaṃkṛlāni trīṇi kakṣāntarāṇi caturthe	samatikramya BUpAla-kula-sahasra-saMkRlAni trINi kakza-antarANi caturTe
+   muktāsthānamaṇḍapasya purastādajire sthitam, dūrādūrdhvasthitena prāṃśūnā	muktA-sTAna-maNxapasya purastAt-ajire sTitam, dUrAt-UrDva-sTitena prAMSUnA
+   karṇikāragaureṇa vyāyāmavyāyatavapuṣā śastriṇā maulena	karNikAra-gOreNa vyAyAma-vyAyata-vapuzA SastriNA mOlena
+   śarīraparivārakalokena paṅktisthitena kārtasvarastambhamaṇḍaleneva	SarIra-parivAraka-lokena paFkti-sTitena kArtasvara-stamBa-maNxalena-iva
+   parivṛtam, āsannopaviṣṭaviśiṣṭeṣṭalokam, haricandanarasaprakṣālite	parivRtam, Asanna-upavizwa-viSizwa-izwa-lokam, haricandana-rasa-prakzAlite
+   tuṣāraśīkaraśītalatale dantapāṇḍurapāde śaśimaya iva	tuzAra-SIkara-SItala-tale danta-pANxura-pAde SaSi-mayaH iva
+   muktāśailaśilāpaṭṭaśayane samupaviṣṭam, śayanīyaparyantavinyaste	muktA-SEla-SilA-pawwa-Sayane samupavizwam, SayanIya-paryanta-vinyaste
+   samarpitasakalavigrahabhāraṃ bhuje, diṅmukhavisarpiṇi dehaprabhāvitāne	samarpita-sakala-vigraha-BAram Buje, diFmuKa-visarpiNi deha-praBA-vitAne
+   vitatamaṇimayūkhe gharmasamayasubhage sarasīva mṛdumṛṇālajālajaṭilajale	vitata-maNi-mayUKe Garma-samaya-suBage sarasi-iva mRdu-mRNAla-jAla-jawila-jale
+   sarājakaṃ ramamāṇam, tejasaḥ paramāṇubhiriva kevarlarnirmitam,	sa-rAjakam ramamANam, tejasaH paramANuBiH-iva kevarlarnirmitam,
+   anicchantamapi baladāropatayitumiva siṃhāsanam, sarvāvayaveṣu	anicCantam-api baladAra-upatayitum-iva siMhAsanam, sarva-avayavezu
+   sarvalakṣaṇairgṛhītam, gṛhītabrahnacaryamāliṅgitaṃ rājalakṣamyā,	sarva-lakzaNEH-gRhItam, gRhIta-brahna-caryam-AliFgitam rAja-lakzamyA,
+   pratipannāsidhārādhāraṇavratamavisaṃvādinaṃ rājarṣim,	pratipad-na-asi-DArA-DAraNa-vratam-avisaMvAdinam rAjarzi-m,
+   viṣamarājamārgavinihitapadaskhalanabhiyeva sulagnaṃ dharme,	vizama-rAjamArga-vinihita-pada-sKala-na-BiyA-iva su-lagnam Darme,
+   sakalabhūpālaparityaktena bhīteneva labdhavācā sarvātmanā satyena	sakala-BUpAla-parityaktena BItena-iva labDa-vAcA sarva-AtmanA satyena
+   sevyamānam,	sevyamAnam,
+   āsannavāravilāsinīpratiyātanābhiścaraṇanakhapātinībhirdigbhiriva	Asanna-vAra-vilAsinI-pratiyAtanABiH-caraNa-naKa-pAtinIBiH-digBiH-iva
+   daśabhirvigrahāvarjitābhiḥ praṇamyamānam,	daSaBiH-vigraha-AvarjitABiH praNamyamAnam,
+   dīrghairdigantapātibhirdṛṣṭipātairlokapālānāṃ kṛtākṛtamiva	dIrGEH-diS-antapAtiBiH-dRzwi-pAtEH-lokapAlAnAm kRta-akRtam-iva
+   pratyavekṣamāṇam, maṇipādapīṭhapṛṣṭhapratiṣṭhitakareṇoparigamanābhyanujñāṃ	pratyavekzamANam, maNi-pAda-pIWa-pRzWa-pratizWita-kareNa-upari-gamana-aByanujQAm
+   mṛgyamāṇamiva divasakareṇa,	mRgyamANam-iva divasa-kareNa,
+   bhūṣaṇaprabhāsamutsāraṇabaddhaparyantamaṇḍalena pradakṣiṇīkriyamāṇamiva	BUzaNa-praBA-samutsAraNa-badDa-paryanta-maNxalena pradakziNIkriyamANam-iva
+   divasena, apramaṇamadbhirgiribhirapi dūyamānaṃ, śauryoṣmaṇā	divasena, apramaNam-adBiH-giriBiH-api dUyamAnan, SOrya-UzmaNA
+   phenāyamānamiva candanadhavalaṃ lāvaṇyajaladhimudvahantamekarājyorjityena,	PenAyamAnam-iva candana-Davalam lAvaNya-jalaDim-udvahantam-eka-rAjyoH-jityena,
+   nijapratibimbānyapi nṛpacakracūḍāmaṇidhṛtānyasahamānamivadarpaduḥkhāsikayā	nija-pratibimbAni-api nRpa-cakra-cUxAmaNi-DRta-ani-a-sahamAnam-iva-darpa-duHKa-AsikayA
+   cāmarānilanibhena bahudheva śvasantīṃ rājalakṣmīṃ dadhānam, sakalamiva	cAmara-anila-niBena bahuDA-iva SvasantIm rAja-lakzmIm daDAnam, sakalam-iva
+   catuḥsamudralāvaṇyamādāyotthitayā śriyā samupaśliṣṭam,	catur-samudra-lAvaNyam-AdAya-utTitayA SriyA samupaSlizwam,
+   ābharaṇamaṇikiraṇaprabhājālajāyamānānīndradhanuḥsahasrāṇīndraprābhṛtaprahitāni	ABaraNa-maNi-kiraNa-praBA-jAla-jAyamAnAni-indraDanuH-sahasrANi-indra-prABRta-prahitAni
+   vilabhamānamiva rājñāṃ saṃbhāṣaṇeṣu parityaktamapi madhu varṣaṃntam,	vilaBamAnam-iva rAjQAm saMBAzaNezu parityaktam-api maDu varzaMntam,
+   kāvyakathāsvapītamapyamṛtamudvamantam, visrambhabhāṣiteṣvanākṛṣṭamapi	kAvya-kaTAsu-apItam-api-amRtam-udvamantam, visramBa-BAzitezu-anAkRzwam-api
+   hṛdayaṃ darśayantam, prasādeṣu niścalāmapi śriyaṃ śthāne śthāne	hRdayam darSayantam, prasAdezu niScalAm-api Sriyam STAne STAne
+   śthāpayantam, vīragoṣṭhoṣu pulakitena kapolasthalenānurāgasaṃdeśamivopāṃśu	STApayantam, vIra-gozWozu pulakitena kapola-sTalena-anurAga-saMdeSam-iva-upAMSu
+   raṇaśriyaḥ śṛṇvantam, atikrāntasubhaṭakalahālāpeṣu snehavṛṣṭimiva	raNa-SriyaH SRNvantam, atikrAnta-su-Bawa-kalaha-AlApezu sneha-vRzwim-iva
+   dṛṣṭimiṣṭe kṛpāṇe pātayantam, parihāsasmiteṣu gurupratāpabhītasya	dRzwim-izwe kRpANe pAtayantam, parihAsa-smitezu guru-pratApa-BItasya
+   rājakasya svacchamāśayamivadaśanāṃśubhiḥ kathayantam,	rAjakasya svacCam-ASayam-iva-daSana-aMSuBiH kaTayantam,
+   sakalalokahṛdayasthitamapi nyāye tiṣṭhantam, agocare guṇānāmabhūmau	sakala-loka-hRdaya-sTitam-api nyAye tizWantam, agocare guNAnAm-aBUmO
+   saubhāgyānāmaviṣaye varapradānānāmaśakya āśiṣāmamārge manorathānāmatidūre	sOBAgyAnAm-avizaye vara-pradAnAnAm-aSakyaH ASizAma-mArge manoraTAnAm-atidUre
+   daivasyādiśyupamānānāmasādhye dharmasyādṛṣṭapūrve lakṣmyā mahattve	dEvasya-AdiSyupamAnAnAm-asADye Darmasya-adRzwa-pUrve lakzmyA mahat-tve
+   sthitam, aruṇapādapallavena sugatamantharoruṇā	sTitam, aruNa-pAda-pallavena sugata-manTara-UruNA
+   vajrāyudhaniṣṭhuraprakoṣṭhapṛṣṭhena vṛṣaskandhena bhāsvadbimbādhareṇa	vajra-AyuDa-nizWura-prakozWa-pRzWena vRza-skanDena BAsvat-bimba-aDareNa
+   prasannāvalokitena candramukhena kṛṣṇakeśena vapuṣā	prasanna-avalokitena candra-muKena kRzNa-keSena vapuzA
+   sarvadevatāvatāramivaikatra darśayantam, api ca	sarva-devatA-avatAram-iva-ekatra darSayantam, api ca
+   māṃsalamayūkhamālāmalinitamahītale mahati mahārhe	mAMsala-mayUKa-mAlA-malinita-mahI-tale mahati mahArhe
+   māṇikyamālāmaṇḍitamekhale mahānīlamaye pādapīṭhe kalikālaśirasīva salīlaṃ	mANikya-mAlA-maNxita-meKale mahAnIla-maye pAda-pIWe kali-kAla-Sirasi-iva sa-lIlam
+   vinyastavāmacaraṇam, ākrāntakāliyaphaṇācakavālaṃ bālamiva puṇḍarīkākṣam,	vinyasta-vAma-caraNam, AkrAnta-kAliya-PaNa-Acaka-vAlam bAlam-iva puNxarIkAkzam,
+   kṣaumapāṇḍureṇa caraṇanakhadodhitipratānena prasaratā mahīṃ	kzOma-pANxureNa caraNa-naKa-doDiti-pratAnena prasaratA mahIm
+   mahādevīpaṭṭabandheneva mahimānamāropayantam,	mahAdevI-pawwa-banDena-iva mahimAnam-Aropayantam,
+   apraṇatalokapālakopenevātilohitau sakalanṛpatimaulimālāsvatipītaṃ	apraNata-lokapAla-kopena-iva-ati-lohitO sakala-nRpati-mOli-mAlAsu-ati-pItam
+   pajharāgaratnātapamiva vamantau sarvatejasvimaṇaaḍalāstamayasaṃdhyāmiva	paJa-rAga-ratna-Atapam-iva vamantO sarva-tejasvi-maNaa-xalA-astamaya-saMDyAm-iva
+   dhārayantāvaśeṣarājakakusumaśekharamadhurasasrotāṃsīva sravantau	DArayanta-avaSeza-rAjaka-kusuma-SeKara-maDu-rasa-srotAMsi-iva sravantO
+   samastasāmantasīmantottaṃsasraksaurabhabhrāntairbhramaramaṇḍalairamitrottamāṅgairiva	samasta-sAmanta-sImanta-uttaMsa-sraj-sOraBa-BrAntEH-Bramara-maNxalEH-amitra-uttamAFgEH-iva
+   muhūrtamapyavirahitau savāhanatatparāyāḥ śriyo	muhUrtam-api-avirahitO sa-vAhana-tatparAyAH SriyaH-
+   vikacaraktapaṅkajavanavāsabhavanānīva kalpayantau	vikaca-rakta-paFkaja-vana-vAsa-BavanAni-iva kalpayantO
+   jalajaśaṅkhamīnamakarasanāthatalatayā kathitacaturambhodhibhogacihnāviva	jalaja-SaFKamInam-aka-rasa-nATa-tala-tayA kaTita-catur-amBoDi-Boga-cihnO=-iva
+   caramau dadhānam, diṅnāgadantamusahābyāmiva	caramO daDAnam, diS-nAgadanta-m-usahAbyAm-iva
+   vikaṭamakaramukhapratibandhabandhurābhyāmudvelalāvaṇyayodhipravāhābhyāmi	vikawa-makara-muKa-pratibanDa-banDurAByAm-udvela-lAvaNya-yoDi-pravAhAByAmi
+   va phenāhitaśobhābyāṃ kalācandanadrumābhyāmiva	va Pena-Ahita-SoBA-AbyAm kalA-candana-drumAByAm-iva
+   bhogimaṇḍalaśiroratnaraśmirajyamānamūlābhyāṃ	Bogi-maNxala-SiraH-ratna-raSmi-rajyamAna-mUlAByAm
+   hṛdayāropitabhūbhāradhāraṇamāṇikyastambhābyāmūrudaṇḍābhyāṃ virājamānam,	hRdaya-Aropita-BU-BAra-DAraNa-mANikya-stamBa-AbyAm-Uru-daNxAByAm virAjamAnam,
+   amṛtaphenapiṇḍapāṇḍunā mekhalāmaṇimayūkhakhacitena nitambabimbavyāsaṅginā	amRta-Pena-piNxa-pANxunA meKalA-maNi-mayUKa-Kacitena nitamba-bimba-vyAsaFginA
+   vimalapayodhautena netrasūtraniveśaśobhinādharavāsasā vāsukinirmokeṇeva	vimala-payaH-DOtena netra-sUtra-niveSa-SoBinA-aDara-vAsasA vAsuki-nirmokeNa-iva
+   mandaraṃ dyotamānam, aghanena satārāgaṇenoparikṛtena dvitīyāmbareṇa	mandaram dyotamAnam, aGanena sa-tArA-gaNena-upari-kRtena dvitIya-ambareNa
+   bhuvanābhogamiva bhāsamānam,	Buvana-ABogam-iva BAsamAnam,
+   ibhapatidaśanamusalasahasrollekhakaṭhinamasṛṇenāparyāptāmbaraprathimnā	iBapati-daSana-musala-sahasra-ulleKa-kaWina-masRNena-aparyApta-ambara-praTimnA
+   vividhavāhinīsaṃkṣobhakalakalasaṃmardasahiṣṇunā kailāsamiva mahatā	viviDa-vAhinI-saMkzoBa-kalakala-saMmarda-sahizNunA kElAsam-iva mahatA
+   sphaṭikataṭenoruṇoraḥkapāṭena virājamānam,	sPawika-tawena-UruNa-uraH-kapAwena virAjamAnam,
+   śrīsarasvatyorurovadanopabhogavibhāgasūtreṇeva pātitena śeṣeṇeva ca	SrI-sarasvatyA-UruraH-vadana-upaBoga-viBAga-sUtreNa-iva pAtitena SezeNa-iva ca
+   tadbhujastambhavinyastasamastabhūbhāralabdhaviśrāntisukhaprasuptena	tad-Buja-stamBa-vinyasta-samasta-BU-BAra-labDa-viSrAnti-suKa-prasuptena
+   hāradaṇḍena parivalitakandharam /	hAra-daNxena parivalita-kanDaram /
+   jīvitāvadhigṛhītasarvasvamahādānadīkṣācīreṇeva hāramuktāphalānāṃ	jIvita-a=-aDi-gRhIta-sarva-sva-mahA-dAna-dIkzA-cIreNa-iva hAra-muktAPalAnAm
+   kiraṇanikareṇa prāvṛtavakṣaḥsthalam, ajajigīṣayā bālairbhujairivāparaiḥ	kiraNa-nikareNa prAvRta-vakzaH-sTalam, ajajigIzayA bAlEH-BujEH-iva-aparEH
+   prarohadbhirbāhūpadhānaśāyinyāḥ śriyāḥ	prarohadBiH-bAhu-upaDAna-SAyinyAH SriyAH
+   karṇotpalamadhurasadhārāsaṃtānairiva galadbhirbhujajanmanaḥ pratāpasya	karNa-utpala-maDu-rasa-DArA-saMtAnEH-iva galadBiH-Buja-janmanaH pratApasya
+   nirgamanamārgairivāvirbhavadbhiruraṇaiḥ	nirgamana-mArgEH-iva-AvirBavadBiH-uraNEH
+   keyūraratnakiraṇadaṇḍairubhayataḥprasāritamaṇimayapakṣavitānamiva	keyUra-ratna-kiraNa-daNxEH-uBayatas-prasArita-maNi-maya-pakza-vitAnam-iva
+   māṇikyamahīdharam, sakalalokālokamārgārgalena	mANikya-mahIDaram, sakala-loka-Aloka-mArga-argalena
+   caturudadhiparikṣepakhātaśātakumbhaśilāprākāreṇasarvarājahaṃsabandhavajrapañjareṇa	catur-udaDi-parikzepa-KAta-SAtakumBa-SilA-prAkAreNa-sarva-rAja-haMsa-banDa-vajra-paQjareNa
+   bhuvanalakṣmīpraveśamaṅgalamahāmaṇitoraṇenātidīrghadordaṇḍayugalena diśāṃ	Buvana-lakzmI-praveSa-maFgala-mahA-maNi-toraNena-atidIrGa-dos-daNxa-yugalena diSAm
+   dikpālānāṃ ca yugapadāyatimapaharantam, sodaryalakṣmīcumbanalobhena	dikpAlAnAm ca yugapadAyatim-apaharantam, sodarya-lakzmI-cumbana-loBena
+   kaustubhamaṇeriva mukhāvayavatāṃ gatasyādharasya galatā rāgeṇa	kOstuBa-maNeH-iva muKa-avayava-tAm gatasya-aDarasya galatA rAgeNa
+   pārijātapallavaraseneva siñcantaṃ diṅmukhāni, antarāntarā	pArijAta-pallava-rasena-iva siQcantam diFmuKAni, antarA-antarA
+   suhṛtparihāsasmitaiḥ prakīryamāṇavimaladaśanaśikhāpratānaiḥ	suhRd-parihAsa-smitEH prakIryamANa-vimala-daSana-SiKA-pratAnEH
+   prakṛtimūḍhāyārājaśriyāḥ prajñālokamiva darśayantam,	prakRti-mUXAya-arAja-SriyAH prajQA-lokam-iva darSayantam,
+   mukhajanitendusandehāgatāni kumudinīvanānīva preṣayantam,	muKa-janita-indu-sandeha-AgatAni kumudinI-vanAni-iva prezayantam,
+   sphuṭasphaṭikadhavaladaśanapaṅktikṛtakumudavanaśaṅkāpraviṣṭāṃ	sPuwa-sPawika-Davala-daSana-paFkti-kRta-kumuda-vana-SaFkA-pravizwAm
+   śarajjyotsnāmiva visarjayantam, madirāmṛtapārijātagandhagarbheṇa	Sarad-jyotsnAm-iva visarjayantam, madirA-amRta-pArijAta-ganDa-garBeNa
+   bharitasakalakakubhā mukhāmodenāmṛtamathanadivasamiva sṛjantam,	Barita-sakala-kakuBA muKa-Amodena-amRta-maTana-divasam-iva sRjantam,
+   vikacamukhakamalakarṇikākośenānavaratamāpīyamānaśvāsasaurabhami	vikaca-muKa-kamala-karNikA-koSena-anavaratam-ApIyamAna-SvAsa-sOraBam-i
+   vādhomukhena nāsāvaṃśena, cakṣuṣaḥ kṣorasnigdhasya dhavalimnā	vA-aDomuKena nAsA-=-aMSena, cakzuzaH kzora-snigDasya DavalimnA
+   diṅmukhānyapūrvavadanacandrodayodvelakṣīrodotplāvitānīva kurvāṇam,	diFmuKAni-apUrva-vadana-candra-udaya-udvela-kzIra-uda-utplAvitAni-iva kurvANam,
+   vimalakapolaphalakapratibimbatāṃ cāmaragrāhiṇīṃ vigrahiṇīmiva	vimala-kapola-Palaka-pratibimba-tAm cAmara-grAhiNIm vigrahiNIm-iva
+   mukhanivāsinīṃ sarasvatīṃ dadhānam, aruṇena cūḍāmaṇiśociṣā	muKa-nivAsinIm sarasvatIm daDAnam, aruNena cUxAmaNi-SocizA
+   sarasvatīrṣyākupitalakṣmīprasādanalagnena caraṇālaktakeneva	sarasvati-IrzyA-kupita-lakzmI-prasAdana-lagnena caraNa-alaktakena-iva
+   lohitāyatalalāṭataṭam, āpāṭalāṃśutantrīsaṃtānavalayinīṃ	lohita-Ayata-lalAwa-tawam, ApAwala-aMSu-tantrI-saMtAna-valayinIm
+   kuṇḍalamaṇikuṭilakoṭibālavīṇāmanavaratacalitacaraṇānāṃ	kuNxala-maNi-kuwila-kowi-bAla-vINA-mana-varata-calita-caraNAnAm
+   vādayatāmupavīṇayatāmiva svaravyākaraṇavivekaviśāradam,	vAdayatAm-upavINayatAm-iva svara-vyAkaraNa-viveka-viSAradam,
+   śravaṇāvataṃsamadhukarakulānāṃ kalakvaṇitamākarṇayantam,	SravaNa-avataMsa-maDukara-kulAnAm kala-kvaNitam-AkarNayantam,
+   utphullamālatīmayena rājalakṣmayāḥ kacagrahalīlālagnena	utPulla-mAlatI-mayena rAja-lakzmayAH kaca-graha-lIlA-lagnena
+   nakhajyotsnāvalayeneva mukhaśaśipariveṣamaṇḍalena muṇḍamālāguṇena	naKa-jyotsnA-valayena-iva muKa-SaSi-pariveza-maNxalena muNxa-mAlA-guNena
+   parikalitakeśāntam, śikhaṇḍābharaṇabhuvā muktāphalālokena	parikalita-keSAntam, SiKaNxa-ABaraNa-BuvA muktAPala-Alokena
+   marakatamaṇikiraṇakalāpena cānyonyasaṃvalanavṛjinena	marakata-maNi-kiraNa-kalApena ca-anyonya-saMvalana-vRjinena
+   prayāgapravāhaveṇikāvāriṇevāgatya svayamabhiṣicyamānam,	prayAga-pravAha-veNikA-vAriNA-iva-Agatya svayam-aBizicyamAnam,
+   śramajalavilīnabahalakṛṣṇāgurupaṅkatilakakalaḍkakalpitena kālimnā	Srama-jala-vilIna-bahala-kRzNa-aguru-paFka-tilaka-ka-laxka-kalpitena kAlimnA
+   prārthanācāṭucaturacaraṇapatanaśataśyāmikākiṇaeneva	prArTanA-cAwu-catura-caraNa-patana-Sata-SyAmi-kA-kiNaena-iva
+   nīlāyamānalalāṭendulekhābhiḥ kṣubhitamānasodgatairutkalikākalāpairiva	nIlAyamAna-lalAwa-indu-leKABiH kzuBita-mAnasa-udgatEH-utkalikA-kalApEH-iva
+   hārairullasadbhiravaṣṭabhyamānābhirvilāsavalganacajulairṃbhrūlatākalpairīṣyrayā	hArEH-ullasadBiH-avazwaByamAnABiH-vilAsa-valgana-cajulEH-MBrU-latA-kalpEH-IzyrayA
+   śriyamiva tarjayantībhirāyāmibhiḥ	Sriyam-iva tarjayantIBiH-AyAmiBiH
+   svasitairaviralaparimalairmalayamārutamayaiḥ	svasitEH-avirala-parimalEH-malaya-mAruta-mayEH
+   pāśairivākarṣantībhirvikaṭabakulāvalīvarāṭakaveṣṭitamukhairbṛhadbhiḥ	pASEH-iva-AkarzantIBiH-vikawa-bakula-AvalI-varAwaka-vezwita-muKEH-bRhadBiH
+   stanakalaśaiḥ svadārasaṃtoṣarasamivāśeṣamuddharantībhiḥ	stana-kalaSEH sva-dAra-saMtoza-rasam-iva-aSezam-udDarantIBiH
+   kucotkampikāvikārapreṅkhitānāṃ hārataralamaṇīnāṃ raśmibhirākṛṣya	kuca-utkampikA-vikAra-preFKitAnAm hAra-tarala-maNInAm raSmiBiH-AkRzya
+   hṛdayamiva haṭhātpraveśayantībhiḥ prabhāmucāmābharaṇamaṇīnāṃ mayūkhaiḥ	hRdayam-iva haWAt-praveSayantIBiH praBAmucAm-ABaraNa-maNInAm mayUKEH
+   prasāritairbahubhiriva bāhubirāliṅgantībhirjṛ	prasAritEH-bahuBiH-iva bAhu-biH-AliFgantIBiH-jR
+   mbhānubandhabandhuravadanāravindāvaraṇīkṛtairuttānaiḥ karakisalayaiḥ	mBa-anubanDa-banDura-vadana-aravinda-AvaraNIkRtEH-uttAnEH kara-kisalayEH
+   sarabhasapradhāvitāni mānasānīva	saraBasa-praDAvitAni mAnasAni-iva
+   nirundhatībhirmadanāndhamadhukarakulakīryamāṇakarṇakusumarajaḥkaṇakūṇitakoṇāni	nirunDatIBiH-madana-anDa-maDukara-kula-kIryamANa-karNa-kusuma-rajaH-kaNa-kUNita-koNAni
+   kusumaśaraśaranikaraprahāramūrcchāmukulitānīva locanāni caturaṃ	kusuma-Sara-Sara-nikara-prahAra-mUrcCA-mukulitAni-iva locanAni caturam
+   saṃcārayantībhiranyonyamatsarādāvirbhavadbhahghuramukuṭivibhramakṣiptaiḥ	saMcArayantIBiH-anyonya-matsarAt-AvirBavat-BahGura-mukuwi-viBrama-kziptEH
+   kaṭākṣaiḥ karṇendīvarāṇīva tāḍayantībhiranimeṣadarśanasukharasarāśiṃ	kawAkzEH karNa-indIvarANi-iva tAxayantIBiH-animeza-darSana-suKa-rasa-rASim
+   mantharitapakṣmaṇā cakṣuṣā pītamiva komalakapolapālīpratibimbitaṃ	manTarita-pakzmaNA cakzuzA pItam-iva komala-kapola-pAlI-pratibimbitam
+   vahantībhirabhilāṣalīlānirnimittasmitaiścandrodayāniva madanasahāyakāya	vahantIBiH-aBilAza-lIlA-niH-nimitta-smitEH-candra-udayAn-iva madana-sahAyakAya
+   saṃpādayantībhiraṅgabhahgavalanānyonyaghaṭitottānakaraveṇikābhiḥ	saMpAdayantIBiH-aFga-Bahga-valana-anyonya-Gawita-uttAna-kara-veNikABiH
+   sphuṭanamukharāṅgulīkāṇḍakuṇḍalīkriyamāṇanakhadīdhitinivahanibhenākiñcitkarakāmakārmukāṇīva	sPuwana-muKara-aFgulI-kANxa-kuNxalI-kriyamANa-naKa-dIDiti-nivaha-niBena-akiQcid-kara-kAma-kArmukANi-iva
+   ruṣā bhañjantībhirvāravilāsinībhirvilupyamānasaubhāgyamiva sarvataḥ,	ruzA BaQjantIBiH-vAra-vilAsinIBiH-vilupyamAna-sOBAgyam-iva sarvatas-,
+   sparśasvinnavepamānakarakisalayagalitacaraṇāravindāṃ caraṇagrāhiṇīṃ	sparSasvinna-vepa-mAna-kara-kisalaya-galita-caraNa-aravindAm caraNa-grAhiNIm
+   vihasya koṇenalīlālasaṃ śirasi tāḍayantam, anavaratakarakalitakoṇatayā	vihasya koNenalIlAlasam Sirasi tAxayantam, anavarata-kara-kalita-koNa-tayA
+   cātmanaḥ priyāṃ vīṇāmiva śriyamapi śikṣayantam, niḥsneha iti dhanaiḥ,	ca-AtmanaH priyAm vINAm-iva Sriyam-api Sikzayantam, niHsnehaH iti DanEH,
+   anāśrayaṇīya iti doṣaiḥ, nigraharuciritīndriyaiḥ, durupasarpa iti kalinā,	anASrayaNIyaH iti dozEH, nigraha-ruciH-iti-indriyEH, durupasarpaH iti kalinA,
+   nīrasa iti vyasanaiḥ, bhīrurityayaśasā, durgrahacittavṛttiriti cittabhuvā,	nIrasaH iti vyasanEH, BIruH-iti-ayaSasA, durgraha-citta-vRttiH-iti citta-BuvA,
+   strīpara iti sarasvatyā, ṣaṇḍha iti parakalatraiḥ, kāṣṭhāmuniriti	strI-paraH iti sarasvatyA, zaNXaH iti para-kalatrEH, kAzWAmuniH-iti
+   yatibhiḥ, dhūrta iti veśyābhiḥ, neya iti suhṛdbhiḥ, karmakara iti vipraiḥ,	yatiBiH, DUrtaH iti veSyABiH, neyaH iti suhRdBiH, karmakaraH iti viprEH,
+   susahāya iti śatruyodhaiḥ, ekamapyanekadhā gṛhyamāṇam,	su-sahAyaH iti Satru-yoDEH, ekam-api-anekaDA gRhyamANam,
+   śantanormahāvāhinīpatim, bhīṣmājjitakāśitamam, droṇāccāpalālasam,	SantanoH-mahA-vAhinIpatim, BIzmAt-jita-kASitamam, droNAt-ca-apalAla-sam,
+   guruputrādamoghamārgaṇam, karṇānmitrapriyam, yudhiṣṭhirādbahukṣamam,	guru-putrAt-amoGa-mArgaNam, karNAt-mitra-priyam, yuDizWirAt-bahu-kzamam,
+   bhīmādanekanāgāyutabalam, dhanañjayānmahābhārataraṇayogyam, kāraṇamiva	BImAt-aneka-nAga-ayuta-balam, DanaQjayAt-mahABAra-taraNa-yogyam, kAraNam-iva
+   kṛtayugasya, bījamiva vibudhasargasya, utpattidvīpamiva darpasya,	kRta-yugasya, bIjam-iva vibuDa-sargasya, utpatti-dvIpam-iva darpasya,
+   ekāgāramiva karuṇāyāḥ, prātiveśikamiva puruṣottamasya, khaniparvatamiva	eka-AgAram-iva karuNAyAH, prAtiveSikam-iva puruzottamasya, Kani-parvatam-iva
+   parākramasya, sarvavidyāsaṃgītagṛhamiva sarasvatyāḥ,	parAkramasya, sarva-vidyA-saMgIta-gRham-iva sarasvatyAH,
+   dvitīyāmṛtamanthanadivasamiva lakṣmīsamutthānasya, baladarśanamiva	dvitIya-amRta-manTana-divasam-iva lakzmI-samutTAnasya, bala-darSanam-iva
+   vaidagdhyasya, ekasthānamiva sthitīnām, sarvasvakathanamiva kānteḥ,	vEdagDyasya, eka-sTAnam-iva sTitI-nAm, sarva-sva-kaTanam-iva kAnteH,
+   apavargamiva rūpaparamāṇusargasya, sakaladuścaritapratāyaścittamiva	apavargam-iva rUpa-paramANu-sargasya, sakala-duScarita-pratAyaH-cittam-iva
+   rājyasya, sarvabalasandohāvaskandamiva kandarpasya, upāyamiva	rAjyasya, sarva-bala-sandoha-avaskandam-iva kandarpasya, upAyam-iva
+   purandaradarśanasya, āvartanamiva dharmasya, kanyāntaḥpuramiva kalānām,	purandara-darSanasya, Avartanam-iva Darmasya, kanyA-antaHpuram-iva kalAnAm,
+   paramapramāṇamiva saubhāgyasya rājasargasamāptyavabhṛthasnānadivasamiva	parama-pramANam-iva sOBAgyasya rAja-sarga-samApti-avaBRTa-snAna-divasam-iva
+   sarvaprajāpatīnām, gambhīraṃ ca, prasannaṃ ca, trāsajananaṃ ca, ramaṇīyaṃ	sarva-prajApatI-nAm, gamBIram ca, prasannam ca, trAsa-jananam ca, ramaNIyam
+   ca, kautukajananaṃ ca, puṇyaṃ ca, cakravarttinaṃ harṣamadrākṣīt /	ca, kOtuka-jananam ca, puNyam ca, cakravarttinam harzam-adrAkzIt /
+   dṛṣṭvā cānugṛhīta iva nigṛhīta iva sābhilāṣa iva tṛpta iva romāñcamucā	dRzwvA ca-anugRhItaH iva nigRhItaH iva sa-aBilAzaH iva tRptaH iva romAQca-mucA
+   mukhena muñcannānandabāṣpavāribindūndūrādeva vismayasmeraḥ	muKena muQcan=-Ananda-bAzpa-vAri-bindu-un-dUrAt-eva vismaya-smeraH
+   samacintayat--"so 'yaṃ sujanmā, sugṛhītanāmā, tejasāṃ rāśiḥ,	samacintayat--"saH ayam su-janmA, su-gRhIta-nAmA, tejasAm rASiH,
+   caturudadhikedārakuṭumbī, bhoktā brahnastambhaphalasya,	catur-uD-aDi-kedAra-kuwumbI, BoktA brahna-stamBa-Palasya,
+   sakalādirājacaritajayajyeṣṭhamallo devaḥ parameśvaro harṣaḥ /	sakala-Adi-rAja-carita-jaya-jyezWa-mallaH devaH parameSvaraH harzaH /
+   etena ca khalu rājanvatī pṛthvī /	etena ca Kalu rAjanvatI pRTvI /
+   nāsyahareriva vṛṣavirodhīni bālacaritāni, na paśupateriva	na-asi-ahareH-iva vRza-viroDIni bAla-caritAni, na paSupateH-iva
+   dakṣajanodvegakārīṇyeśvayavilāsatāni, na śatakratoriva gautravināśapiśunāḥ	dakza-jana-udvega-kArINyeSvaya-vilAsa-tAni, na SatakratoH-iva gOtra-vinASa-piSunAH
+   pravādāḥ na yamasyevātivallabhāni daṇḍagrahaṇāni, na varuṇasyeva	pravAdAH na yamasya-iva-ati-vallaBAni daNxa-grahaNAni, na varuNasya-iva
+   nistriṃśagrāhasahasrarakṣitā ratnālayāḥ, na dhanadasyeva niṣphalāḥ	nistriMSa-grAha-sahasra-rakzitAH ratna-AlayAH, na Danadasya-iva nizPalAH
+   sannidhilābhāḥ, na jinasyevārthavādaśūnyāni darśanāni, na candramasa iva	sanniDi-lABAH, na jinasya-iva-arTa-vAda-SUnyAni darSanAni, na candramasaH iva
+   bahuladoṣopahatāḥ śriyaḥ /	bahula-doza-upahatAH SriyaH /
+   citramidamatyamaraṃ rājatvam /	citram-idam-ati-amaram rAja-tvam /
+   api cāsya tyāgasyārthinaḥ, prajñāyāḥ śāstrāṇi, kavitvasya vācaḥ, sattvasya	api ca-asya tyAgasya-arTinaH, prajQAyAH SAstrANi, kavi-tvasya vAcaH, sattvasya
+   sāhasasthānāni, utsāhasya vyāpārāḥ kīrterdihmukhāni, anurāgasya	sAhasa-sTAnAni, utsAhasya vyApArAH kIrteH-dihmuKAni, anurAgasya
+   lokahṛdayāni, guṇagaṇasya saṃkhyā, kauśalasya kalā, na paryāpto viṣayaḥ /	loka-hRdayAni, guNa-gaNasya saMKyA, kOSalasya kalA, na paryAptaH vizayaH /
+   asmiṃśca rājani yatīnāṃ yogapaṭṭakāḥ, pustakarmaṇāṃ pārthivavigṛhāḥ,	asmin=-ca rAjani yatInAm yoga-pawwakAH, pusta-karmaNAm pArTiva-vigRhAH,
+   ṣaṭpadānāṃ dānagrahaṇakalahāḥ, vṛttānāṃ pādacchedāḥ, aṣṭapadānāṃ	zawpadAnAm dAna-grahaNa-kalahAH, vRttAnAm pAda=-CedAH, azwa-padAnAm
+   caturaṅgakalpanā, pannagānāṃ dvijagurudveṣāḥ, vākyavidāmadhikaraṇavicārāḥ,	caturaFga-kalpanA, pannagAnAm dvija-guru-dvezAH, vAkya-vidAm-aDikaraNa-vicArAH,
+   iti samupasṛtya copavītī svastiśabdamakarot /	iti samupasRtya ca-upavItI svasti-Sabdam-akarot /
+   athottare nātidūre rājadhiṣṇyasya gajaparicārako	aTa-uttare na-ati-dUre rAja-DizNyasya gaja-paricArakaH-
+   madhuramaparavakramucceragāyat-- "karikalabha vimuñca lolatāṃ cara	maDuram-aparavakram-uccera-gAyat- "kari-kalaBa vimuQca lola-tAm cara
+   vinayavratamānatānanaḥ /	vinaya-vratam-AnatA-AnanaH /
+   mṛgapatinakhakoṭibhaṅguro gururupari kṣamate na te 'ṅkuśaḥ' //	mRgapati-naKa-kowi-BaFguraH guruH-upari kzamate na te aFkuSaH-a //
+   rājā tu tacchru tvā dṛṣṭvā ca taṃ giriguhāgatasiṃhabṛṃhitagambhīreṇa	rAjA tu tat-Sru tvA dRzwvA ca tam giri-guhA-gata-siMha-bRMhita-gamBIreNa
+   svareṇa pūrayanniva nabhobhāgamapṛcchat--"eṣa sa bāṇaḥ?' iti /	svareNa pUrayan=-iva naBaH-BAgam-apRcCat--"eza sa bANaH?-a iti /
+   "yathā'jñāpayati devaḥ /	"yaTA-ajQApayati devaH /
+   so 'yam' iti vijñāpito dauvārikeṇa "na tāvadenamakṛtaprasādaḥ paśyāmi' iti	saH ayam-a iti vijQApitaH dOvArikeNa "na tAvat-enam-akRta-prasAdaH paSyAmi-a iti
+   tiryaṅnīladhavalāṃśukadhārāṃ tiraskariṇīmiva	tiryak-nIla-Davala-aMSuka-DArAm tiraskariNIm-iva
+   bhramayannapāṅganīyamānataralatārakasyāyāminīṃ cakṣuṣaḥ prabhāṃ parivṛtya	Bramayat-=-apAFganIyamAna-tarala-tArakasya-AyAminIm cakzuzaH praBAm parivRtya
+   preṣṭhasya pṛṣṭhato niṣaṇṇasya mālavarājasūnorakathayat--"mahānayaṃ	prezWasya pRzWatas nizaNNasya mAlava-rAja-sUnoH-akaTayat--"-mahAnayam
+   bhujaṅgaḥ' iti /	BujaFgaHa iti /
+   tūṣṇīṃbhāvena tvagamitanarendravacasi tasminmūke ca rājaloke muhūrtamiva	tUzNIMBAvena tvac-amita-narendra-vacasi tasmin-mUke ca rAja-loke muhUrtam-iva
+   tūṣṇīṃ sthitvā bāṇo vyajñāpayat--"deva! avijñātatattva iva, aśraddadhāna	tUzNIm sTitvA bANaH vyajQApayat--"deva! avijQAta-tattvaH iva, aSraddaDAna
+   iva, neya iva, aviditalokavṛttānta iva ca kasmādevamājñāpayasi? svairiṇo	iva, neyaH iva, avidita-loka-vRttAntaH iva ca kasmAt-evam-AjQApayasi? svEriNaH-
+   vicitrāśca lokasya svabhāvāḥ pravādāśca /	vicitrAH-ca lokasya svaBAvAH pravAdAH-ca /
+   mahadbhistu thārthadarśibhirbhavitavyam /	mahadBiH-tu TArTa-darSiBiH-Bavitavyam /
+   nārhasi māmanyathā saṃbhāvayitumaviśiṣṭamiva /	na-arhasi mAm-anyaTA saMBAvayitum-aviSizwam-iva /
+   brāhnaṇo 'smi jātaḥ somapāyināṃ vaṃśe vātsyāyanānām /	brAhnaNaH asmi jAtaH soma-pAyinAm vaMSe vAtsyAyanAnAm /
+   yathākālamupanayanādayāḥ kṛtāḥ saṃskārāḥ /	yaTAkAlam-upanayana-AdayAH kRtAH saMskArAH /
+   samyakpaṭhitaḥ sāḍgo vedaḥ /	samyak-paWitaH sAxgaH vedaH /
+   śrutāni ce yathāśaktiḥ śāktrāṇi /	SrutAni ce yaTASaktiH SAktrANi /
+   dāraparigrahādabhyagāriko 'smi /	dAra-parigrahAt-aByagArikaH asmi /
+   kā me bhujaṅgatā /	kA me BujaFga-tA /
+   lokadvayāvirodhibhistu cāpalaiḥ śaiśavaśūnyamāsīt /	loka-dvaya-aviroDiBiH-tu cApalEH SESava-SUnyam-AsIt /
+   atrānapalāpo 'smi /	atra-anapalApaH asmi /
+   anenaiva ca gṛhītavipratīsāramiva me hṛdayam /	anena-eva ca gRhIta-vipratIsAram-iva me hRdayam /
+   idānīṃ tu sugata iva śāntamanasi manāviva kartari varṇāśramavyavasthānāṃ	idAnIm tu sugataH iva SAnta-manasi manO=-iva kartari varNa-ASrama-vyavasTAnAm
+   samavartinīva ca sākṣāddaṇḍabhṛti deve śāsati	samavartinI-iva ca sAkzAt-daNxa-BRti deve SAsati
+   saptāmburāśiraśanāśeṣadvīpamālinīṃ mahīṃ ka ivāviśaṅkaḥ	sapta-amburA-SiH-aSana-aSeza-dvIpa-mAlinIm mahIm kaH iva-aviSaFkaH
+   sarvavyasanabandhoravinyasya manasāpyabhinayaṃ kalpayiṣyati /	sarva-vyasana-banDoravinyasya manasA-api-aBinayam kalpayizyati /
+   āsatāṃ ca tāvanmānuṣyakopetāḥ /	AsatAm ca tAvat-mAnuzyaka-upetAH /
+   tvatprabhāvādalayo 'pi bhītā iva madhu pibanti /	tvad-praBAvAt-alayaH api BItAH iva maDu pibanti /
+   rathāṅganāmāno 'pi lajjanta ivābhyanuvṛttivyasanaiḥ priyāṇām /	raTAFga-nAmAnaH api lajjantaH iva-aByanuvRtti-vyasanEH priyANAm /
+   kapayo 'pi cakitā iva capalāyante /	kapayaH api cakitAH iva capalAyante /
+   śarāravo 'pi sānukrośā iva śvāpadagaṇāḥ piśitāni bhuñjate /	SarAravaH api sa-anukroSAH iva SvApada-gaNAH piSitAni BuQjate /
+   sarvathā kālena māṃ jñāsyati svāmī svayameva /	sarvaTA kAlena mAm jQAsyati svAmI svayam-eva /
+   anapācīnacittavṛttigrāhiṇyo hi bhavanti prajñāvatāṃ prakṛtayaḥ'	anapAcIna-citta-vRtti-grAhiNyaH hi Bavanti prajQAvatAm prakRtayaH-a
+   ityabhidhāya tūṣṇīmabhūt /	iti-aBiDAya tUzNIm-aBUt /
+   bhūpatirapi "evamasmābhiḥ śrutam' ityabhidhāya tūṣṇīmevābhavat /	BUpatiH-api "evam-asmABiH Srutam-a iti-aBiDAya tUzNIm-eva-aBavat /
+   saṃbhāṣaṇāsanadānādinā tu prasādena nainamanvagrahīt /	saMBAzaNa-Asana-dAna-AdinA tu prasAdena na-enam-anu-agrahIt /
+   kevalamamṛtavṛṣṭibhiḥ snapayanniva snehagarbheṇa dṛṣṭipātamātreṇāntargatāṃ	kevalam-amRta-vRzwiBiH snapayan=-iva sneha-garBeNa dRzwi-pAta-mAtreNa-antargatAm
+   prītimakathayat /	prItim-akaTayat /
+   astābhilāṣiṇi ca lambamāne savitari visarjitarājaloko 'bhyantaraṃ prāviśat	asta-aBilAziNi ca lambamAne savitari visarjita-rAja-lokaH aByantaram prAviSat-
+   bāṇo 'pi nirgatya dhautārakūṭakomalātapatviṣi nirvāti vāsare,	bANaH api nirgatya DOtArakUwa-komala-Atapa-tvizi nirvAti vAsare,
+   āstācalakūṭakirīṭe niculamañjarībhāṃsi tejāṃsi muñcati viyanmuci	Asta-acala-kUwa-kirIwe nicula-maQjarI-BAMsi tejAMsi muQcati viyat-muci
+   marīcimālini,	marIci-mAlini,
+   atiromandhamantharakurahgakuṭumbakādhyāsyamānamradiṣṭhagoṣṭhīnapṛṣṭhāsvaraṇyasthalīṣu,	atiromanDa-manTara-kurahga-kuwumbaka-aDyAsya-mAnam-ra-dizWa-gozWIna-pRzWAsu-araNya-sTalIzu,
+   śokākulakokakāminīkūjitakaruṇāsu	Soka-Akula-koka-kAminI-kUjita-karuNAsu
+   taraṅgiṇītaṭoṣuvāsaviṭapopaviṣṭavācāṭacaṭakacakravāleṣvālavālāvarj	taraFgiNI-tawa-Uzu-vAsa-viwapa-upavizwa-vAcAwa-cawaka-cakravAlezu-Ala-vAlA-varj
+   itasekajalakuṭeṣu niṣkuṭeṣu, divasavihṛtipratyāgataṃ prasrutastanaṃ	ita-seka-jala-kuwezu nizkuwezu, divasa-vihRti-pratyAgatam prasruta-stanam
+   stanandhaye dhayati dhenuvargamudgatakṣoraṃ kṣudhitatarṇakavrāte, krameṇa	stananDaye Dayati Denu-varga-mudga-ta-kzoram kzuDita-tarNaka-vrAte, krameNa
+   cāstadharādharadhātudhunīpūraplāvita iva lohitāya mānamahasi majjati	ca-astaDara-aDara-DAtuDunIpUra-plAvitaH iva lohitAya mAna-mahasi majjati
+   sandhyāsindhupānapātre pātaṅge maṇḍale, kaṇaṇḍalujalaśuciśayacaraṇeṣu	sanDyA-sinDu-pAna-pAtre pAtaFge maNxale, kaNaNxalu-jala-Suci-Saya-caraNezu
+   caityapraṇatipareṣu pārāśariṣu, yajñapātrapavitrapāṇau	cEtya-praNati-parezu pArASarizu, yajQa-pAtra-pavitra-pANO
+   prakīrṇabarhiṣyuttejasi jātavedasi havīṃṣi vaṣaṭkurvanti yāyajūkajane,	prakIrNa-barhizI-uttejasi jAtavedasi havIMzi vazawkurvanti yAyajUka-jane,
+   nidrāvidrāṇadropaṇakulakalilakulāyeṣu kāpeyavikalakapikuleṣvārāmataruṣu	nidrA-vidrANa-dropaNa-kula-kalila-kulAyezu kApeya-vikala-kapikulezu-ArAma-taruzu
+   nirjigamiṣati jarattarukoṭarakuṭīkuṭumbini kauśikakule,	nirjigamizati jarat-taru-kowara-kuwI-kuwumbini kOSika-kule,
+   munikarasahasraprakīrṇasandhyāvandanodabindunikara iva danturayati	muni-kara-sahasra-prakIrNa-sanDyA-vandana-uda-bindu-nikaraH iva danturayati
+   tārāpathasthalīṃ sthavīyasi tārakānikurambe ambarāśrayiṇi	tArApaTa-sTalIm sTavIyasi tArakA-nikurambe ambara-ASrayiNi
+   śarvarīśabarīśikhaṇḍe khaṇḍaparaśukaṇṭhakāle kavalayati bāle jyotiḥ śeṣaṃ	SarvarI-SabarI-SiKaNxe KaNxa-paraSu-kaNWa-kAle kavalayati bAle jyotiH Sezam
+   sāndhyamandhakārāvatāre, timiratarjananirgatāsu	sAnDyam-anDakAra-avatAre, timira-tarjana-nirgatAsu
+   dahanapraviṣṭadinakarakaraśākhāsviva sphurantīṣu dīpalekhāsu,	dahana-pravizwa-dinakara-kara-SAKAsu-iva sPurantIzu dIpa-leKAsu,
+   ararasampuṭasaṃkrīḍanakathitāvṛttiṣviva gopureṣu, śayanopajoṣajuṣi	arara-sampuwa-saMkrIxana-kaTita-avRttizu-iva gopurezu, Sayana-upajoza-juzi
+   jaratīkathitakathe śikhayiṣamāṇe śiśujane, jaranmahiṣamaṣīmalīmasatamasi	jaratI-kaTita-kaTe SiKayizamANe SiSu-jane, jaran-mahiza-mazI-malIm-asatamasi
+   janitapuṇyajana prajāgare vijṛmbhamāṇe bhīṣaṇatame tamīmukhe,	janita-puNya-jana prajAgare vijRmBamANe BIzaNatame tamImuKe,
+   mukharitavitatajyadhanuṣi varṣati	muKarita-vitata-jya-Danuzi varzati
+   śaranikaramanavaratamaśeṣasaṃsāraśemuṣīmuṣi makaradhvaje,	Sara-nikaram-anavaratam-aSeza-saMsAra-SemuzI-muzi makaraDvaje,
+   ratākalpārambhaśobhini śambhalīsubhāṣitabhāji bhajati bhūṣāṃ bhujiṣyājane,	ratAkalpa-AramBa-SoBini SamBalI-su-BAzita-BAji Bajati BUzAm Bujizya-ajane,
+   sairandhrībadhyamānaraśanājālajalpākajaghanāsu janīṣu,	sEranDrI-baDyamAna-raSanA-jAla-jalpAka-jaGanAsu janIzu,
+   vaśikaviśikhāvihāriṇīṣvananyajānuplavāsu pracalitāsvabhisārikāsu,	vaSika-viSiKA-vihAriNIzu-ananya-jAnuplavAsu pracalitAsu-aBisArikAsu,
+   viralobhavati varaṭānāṃ veśantaśāyinīnāṃ mañjuni mañjīraśiñjitajaḍe	viraloBavati varawAnAm veSanta-SAyinInAm maQjuni maQjIra-SiQjita-jaxe
+   jalpite, nidrāvidrāṇadrāghīyasi drāvayatīva ca virahihṛdayāni	jalpite, nidrA-vidrANa-drAGIyasi drAvayati-iva ca virahi-hRdayAni
+   sārasarasite, bhāvivāsaravījāṅkuranikara iva ca vikīryamāṇe jagati	sArasa-rasite, BAvi-vA-saravIja-aFkura-nikaraH iva ca vikIryamANe jagati
+   pradīpaprakare nivāsasthānamagāt /	pradIpa-prakare nivAsa-sTAnam-agAt /
+   akarocca cetasi--"atidakṣiṇaḥ khalu devo harṣaḥ,	akarot-ca cetasi--"ati-dakziNaH Kalu devaH harzaH,
+   yadevamanokabālacaritacāpalocitakaulīnakopito 'pi manasā snihyatyeva mayi	yat-evam-anoka-bAla-carita-cApa-locita-kOlIna-kopitaH api manasA snihyati-eva mayi
+   yadyahamakṣigataḥ syām na me darśanena prasādaṃ kuryāt /	yadi-aham-akzi-gataH syAm na me darSanena prasAdam kuryAt /
+   icchati tu māṃ guṇavantam /	icCati tu mAm guNavantam /
+   upadiśanti hi vinayamanurūpapratipattyupapādanena vācā vināpi bhartavyānāṃ	upadiSanti hi vinayam-anurUpa-pratipatti-upapAdanena vAcA vinA-api BartavyAnAm
+   svāminaḥ /	svAminaH /
+   api ca ghiṅmāṃ svadoṣāndhamānasamanādarapīḍitamevamatiguṇavati	api ca GiFmAm sva-doza-anDa-mAna-samanAdara-pIxitam-evam-atiguNavati
+   rājanyanyathā cānyathā ca cintayantam /	rAjani-anyaTA ca-anyaTA ca cintayantam /
+   sarvathā tathā karomi, yathā yathāvasthitaṃ jānāti māmayaṃ kālena'	sarvaTA taTA karomi, yaTA yaTA-avasTitam jAnAti mAm-ayam kAlena-a
+   ityevamavadhārya cāparedyurniṣkramya kaṭakātsuhṛdāṃ bāndhavānāṃ ca	iti-evam-avaDArya ca-aparedyus-nizkramya kawakAt-suhRdAm bAnDavAnAm ca
+   bhavaneṣu tāvadatiṣṭhat, yāvadasyasvayameva gṛhītasvabhāvaḥ pṛthivīpatiḥ	Bavanezu tAvat-atizWat, yAvat-asyasvayam-eva gRhIta-svaBAvaH pRTivIpatiH
+   prasādavānabhūt /	prasAdavAn-aBUt /
+   aviśacca punarapi narapatibhavanam /	aviSat-ca punar-api narapati-Bavanam /
+   svalpaireva cāhobhiḥ paramaprītena prasādajanmano mānasya premṇo	su-alpEH-eva ca-ahoBiH parama-prItena prasAda-janmanaH mAnasya premNaH-
+   visrambhasya draviṇasya narmaṇaḥ prabhāvasya ca parāṃ koṭimānīyata	visramBasya draviNasya narmaNaH praBAvasya ca parAm kowim-AnIyata
+   narendreṇeti /	narendreNa-iti /
+   iti śrīmahākavibāṇabhaṭṭakṛte harṣañcarite rājadarśanaṃ nāma dvitīya	iti SrI-mahAkavi-bANa-Bawwa-kRte harzaQcarite rAjadarSanam nAma dvitIya
+   ucchvāsaḥ /	ucCvAsaH /

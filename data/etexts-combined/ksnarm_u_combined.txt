@@ -1,0 +1,860 @@
+   Kṣemendra: Narmamālā	Kzema-indra: Narma-mAlA
+   prathamaḥ parihāsaḥ	praTamaH parihAsaH
+   yenedaṃ svecchayā sarvaṃ māyayā mohitaṃ jagat /	yena-idam sva-icCayA sarvam mAyayA mohitam jagat /
+   sa jayatyajitaḥ śrīmān kāyasthaḥ parameśvaraḥ // KNarm_1.1 //	sa jayati-ajitaH SrImAn kAyasTaH parameSvaraH // KNarm_1.1 //
+   asti svastimatāmagryaṃ maṇḍitaṃ budhamaṇḍalaiḥ /	asti svastimatAm-agryam maNxitam buDa-maNxalEH /
+   khaṇḍitākhaṇḍalāvāsadarpaṃ kaśmīramaṇḍalam // KNarm_1.2 //	KaNxita-AKaNxala-AvAsa-darpam kaSmIra-maNxalam // KNarm_1.2 //
+   yasmin prājyabhujastambhastambhitāhitavikramaḥ /	yasmin prAjya-Buja-stamBa-stamBita-Ahita-vikramaH /
+   trivikrama iva śrīmānananto balijinnṛpaḥ // KNarm_1.3 //	trivikramaH iva SrImAn-anantaH bali-jit-nRpaH // KNarm_1.3 //
+   tena prajopasargeṣu vāriteṣu vivekinā /	tena prajA-upasargezu vAritezu vivekinA /
+   durniyogiṣu .. .. .. nīteṣu smṛtiśeṣatām // KNarm_1.4 //	durniyogizu .. .. .. nItezu smRti-Seza-tAm // KNarm_1.4 //
+   vidagdhacūḍāmaṇinā kenacitkeliśālinā /	vidagDa-cUxAmaNinA kenacid-keli-SAlinA /
+   vidvadgoṣṭhīgariṣṭhena kaścitsahṛdayo janaḥ // KNarm_1.5 //	vidvat-gozWI-garizWena kaScid-sahRdayaH janaH // KNarm_1.5 //
+   hāsāyātītakāyasthacaritaṃ kartumīritaḥ /	hAsAya-atIta-kAyasTa-caritam kartum-IritaH /
+   karoti tatprasaṅgena durācāraviḍambanām // KNarm_1.6 //	karoti tad-prasaFgena durAcAra-vixambanAm // KNarm_1.6 //
+   kṛtaviśvaprapañcāya namo māyāvidhāyine /	kRta-viSva-prapaQcAya namaH mAyA-viDAyine /
+   utpattisthitisaṃhārakāriṇe purahāriṇe // KNarm_1.7 //	utpatti-sTiti-saMhAra-kAriNe pura-hAriNe // KNarm_1.7 //
+   vyāpine janmahīnāya nirguṇāya kalābhṛte /	vyApine janma-hInAya nirguNAya kalA-BRte /
+   sarvādhikāriṇe sarvakālakūṭāśanāya te // KNarm_1.8 //	sarva-aDikAriNe sarva-kAlakUwa-aSanAya te // KNarm_1.8 //
+   purā hateṣu daityeṣu viṣṇunā prabhaviṣṇunā /	purA hatezu dEtyezu vizNunA praBavizNunA /
+   duḥkhito dīrghavairāgyastadgehagaṇanāpatiḥ // KNarm_1.9 //	duHKitaH dIrGa-vErAgyaH-tad-geha-gaNanA-patiH // KNarm_1.9 //
+   gatvā vaitaraṇītīraṃ tapo vārṣasahasrakam /	gatvA vEtaraNI-tIram tapaH vArza-sahasrakam /
+   svamūtraculakāhāraḥ suravairāccakāra saḥ // KNarm_1.10 //	sva-mUtra-culaka-AhAraH sura-vErAt-cakAra saH // KNarm_1.10 //
+   tuṣṭastametya varadaḥ kaliḥ sākṣādabhāṣata /	tuzwaH-tam-etya vara-daH kaliH sAkzAt-aBAzata /
+   sarvadevavināśāya gaccha vatsa mahītalam // KNarm_1.11 //	sarva-deva-vinASAya gacCa vatsa mahI-talam // KNarm_1.11 //
+   anena kalamāstreṇa maddattena prahāriṇā /	anena kalama-astreNa mad-dattena prahAriNA /
+   vicchinnadīpakusumāndhūpahīnānnirambarān // KNarm_1.12 //	vicCinna-dIpa-kusumAn-DUpa-hInAn-nirambarAn // KNarm_1.12 //
+   bhraṣṭālayāndhūliliptānhāhābhūtānśvabhirvṛtān /	Brazwa-AlayAn-DUli-liptAn-hAhA-BUtAn-SvaBiH-vRtAn /
+   kariṣyasi surānsarvānbhaktapānīyakāṅkṣiṇaḥ // KNarm_1.13 //	karizyasi surAn-sarvAn-Bakta-pAnIya-kAFkziNaH // KNarm_1.13 //
+   jagati brāhmaṇānāṃ ca vṛtticchede tvayā kṛte /	jagati brAhmaNAnAm ca vRtti=-Cede tvayA kRte /
+   yajñacchedādvinaṅkṣyanti divi devā na saṃśayaḥ // KNarm_1.14 //	yajQa=-CedAt-vinaFkzyanti divi devAH na saMSayaH // KNarm_1.14 //
+   daityakṣaye kṛte yasmādbhavatā divi roditam /	dEtya-kzaye kRte yasmAt-BavatA divi roditam /
+   tasmāttvaṃ diviro nāma bhuvi khyāto bhaviṣyasi // KNarm_1.15 //	tasmAt-tvam diviraH nAma Buvi KyAtaH Bavizyasi // KNarm_1.15 //
+   maṣī sakalamā yasya kālī kavalitākhilā /	mazI sakalamA yasya kAlI kavalita-aKilAH /
+   sadā sakalamāyasya tasya sarvārthasiddhidā // KNarm_1.16 //	sadA sakala-mAyasya tasya sarva-arTa-sidDi-dA // KNarm_1.16 //
+   tvadvaṃśe 'tra bhaviṣyanti daityā divirarūpiṇaḥ /	tvad-vaMSe atra Bavizyanti dEtyAH divira-rUpiNaH /
+   yairiyaṃ labdhavibhavaiḥ pṛthivī na bhaviṣyati // KNarm_1.17 //	yEH-iyam labDa-viBavEH pRTivI na Bavizyati // KNarm_1.17 //
+   ityuktvāntarhite tasminkalau kalmaṣamānasaḥ /	iti-uktvA-antarhite tasmin-kalO kalmaza-mAnasaH /
+   yāti kāle suvipule mahīmavatatāra saḥ // KNarm_1.18 //	yAti kAle su-vipule mahIm-avatatAra saH // KNarm_1.18 //
+   saunikena prajāto 'tha bhūtale marmaghātinā /	sOnikena prajAtaH aTa BU-tale marma-GAtinA /
+   sa *kuddālikabhāryāyāṃ jagadunmūlanavrataḥ // KNarm_1.19 //	sa *kuddAlika-BAryAyAm jagat-unmUlana-vrataH // KNarm_1.19 //
+   tīkṣṇaistadanvaye jātaiḥ sarvavṛttivilopibhiḥ /	tIkzNEH-tad-anvaye jAtEH sarva-vRtti-vilopiBiH /
+   rūkṣairna kasyacinmitraiḥ pāpaiḥ sarvāpahāribhiḥ // KNarm_1.20 //	rUkzEH-na kasyacid-mitrEH pApEH sarva-apahAriBiH // KNarm_1.20 //
+   kalpāntairiva sarvatra grastasthāvarajaṅgamaiḥ /	kalpa-antEH-iva sarvatra grasta-sTAvara-jaFgamEH /
+   maṣīviliptasarvāṅgaiḥ kālenāliṅgitairiva // KNarm_1.21 //	mazI-vilipta-sarva-aFgEH kAlena-AliFgitEH-iva // KNarm_1.21 //
+   adhogatairmṛdutaraiḥ stabdhairabhyudgataiḥ kṣaṇāt /	aDas-gatEH-mRdutarEH stabDEH-aByudgatEH kzaNAt /
+   purīṣairiva kāyasthaiḥ kāyasthairdoṣakāribhiḥ // KNarm_1.22 //	purIzEH-iva kAyasTEH kAyasTEH-doza-kAriBiH // KNarm_1.22 //
+   sevākāle bahumukhairlubdhakairbahubāhubhiḥ /	sevA-kAle bahu-muKEH-lubDakEH-bahu-bAhuBiH /
+   vañcane bahumāyaiśca bahurūpaiḥ surāribhiḥ // KNarm_1.23 //	vaQcane bahu-mAyEH-ca bahu-rUpEH surAriBiH // KNarm_1.23 //
+   vyāptāsu nagaragrāmapurapattanabhūmiṣu /	vyAptAsu nagara-grAma-pura-pattana-BUmizu /
+   tasminkāle maṣīliptakalamena khamullikhan // KNarm_1.24 //	tasmin-kAle mazI-lipta-kalamena Kam-ulliKan // KNarm_1.24 //
+   nanarta kartarīhasto bhūrjaprāvaraṇaḥ kaliḥ /	nanarta kartarI-hastaH BUrja-prAvaraNaH kaliH /
+   bhastrākakṣyābhidhāno 'yaṃ sarvabhakṣo mahāsuraḥ /	BastrA-kakzyA-aBiDAnaH ayam sarva-BakzaH mahA-asuraH /
+   jāto jagatkṣayāyeti piśācanicayā jaguḥ // KNarm_1.25 //	jAtaH jagat-kzayAya-iti piSAca-nicayAH jaguH // KNarm_1.25 //
+   devāpahāriṇā tena goghāsalavaṇacchidā /	deva-apahAriNA tena go-GAsa-lavaNa=-CidA /
+   bhujyate pīyate bhūri divireṇa divāniśam // KNarm_1.26 //	Bujyate pIyate BUri divireNa divAniSam // KNarm_1.26 //
+   bhaktyā bhagavato viṣṇostrailokyākramaṇe purā /	BaktyA BagavataH vizNoH-trElokya-AkramaNe purA /
+   dharmaḥ prayāto dravatāṃ maṣīrūpeṇa tiṣṭhati // KNarm_1.27 //	DarmaH prayAtaH dravatAm mazI-rUpeNa tizWati // KNarm_1.27 //
+   devanāgamanuṣyāṇāṃ nityanaimittikacchidaḥ /	deva-nAga-manuzyANAm nitya-nEmittika=-CidaH /
+   tasya kāyasthanāthasya trailokyākramaṇe punaḥ // KNarm_1.28 //	tasya kAyasTa-nATasya trElokya-AkramaNe punar // KNarm_1.28 //
+   kaliḥ prayāto dravatāṃ maṣīrūpeṇa tiṣṭhati /	kaliH prayAtaH dravatAm mazI-rUpeNa tizWati /
+   yathā svargapradā gaṅgā tathaiṣā narakapradā // KNarm_1.29 //	yaTA svarga-pradA gaFgA taTA-ezA naraka-pradA // KNarm_1.29 //
+   vyathitaḥ prathitairgrāmairnigaḍairlaguḍaistathā /	vyaTitaH praTitEH-grAmEH-nigaxEH-laguxEH-taTA /
+   bhayādvairāgyamāpannaḥ sa babhūva mahāvratī // KNarm_1.30 //	BayAt-vErAgyam-ApannaH sa baBUva mahAvratI // KNarm_1.30 //
+   bhagnavyatho 'tha santyajya vrataṃ prāyāddigantaram /	Bagna-vyaTaH aTa santyajya vratam prAyAt-digantaram /
+   kālena vismṛto 'bhyetya bhūrjajño 'līkaniḥspṛhaḥ // KNarm_1.31 //	kAlena vismRtaH aByetya BUrja-jQaH alIka-niHspRhaH // KNarm_1.31 //
+   kramādgrāmaniyogena nagare gaṇanāpateḥ /	kramAt-grAma-niyogena nagare gaNanA-pateH /
+   dambhasambhāvitaḥ prāpa gṛhakṛtyaṃ vidhervaśāt // KNarm_1.32 //	damBa-samBAvitaH prApa gRha-kRtyam viDeH-vaSAt // KNarm_1.32 //
+   tasyānujīvibhiḥ krūrairanuvartanajīvibhiḥ /	tasya-anujIviBiH krUrEH-anuvartana-jIviBiH /
+   vasuhīnā vasumatī kṛtā prakaṭataskaraiḥ // KNarm_1.33 //	vasu-hInA vasumatI kRtA prakawa-taskarEH // KNarm_1.33 //
+   dambhadhvajo niṣprapañco lubdhakaḥ kalamākaraḥ /	damBa-DvajaH nizprapaQcaH lubDakaH kalama-AkaraH /
+   sūcīmukho bhūrjagupto mahīmaṇḍaśca duḥsahāḥ // KNarm_1.34 //	sUcImuKaH BUrjaguptaH mahI-maNxaH-ca duHsahAH // KNarm_1.34 //
+   daityāvatārāḥ saptaite tanmāhātmyānniyoginaḥ /	dEtya-avatArAH saptA-ete tad-mAhAtmyAn-niyoginaH /
+   luṇṭhyā vadhyāśca pūjyā ye sarva ityavadanmadāt // KNarm_1.35 //	luNWyAH vaDyAH-ca pUjyAH ye sarve iti-avadat-madAt // KNarm_1.35 //
+   upatāpo vajrapātaḥ parigho dvārabhañjakaḥ /	upatApaH vajrapAtaH pariGaH dvAraBaQjakaH /
+   dhūmaketuḥ kapimukhaḥ kukṣibhedo gṛholmukaḥ // KNarm_1.36 //	DUmaketuH kapimuKaH kukzi-BedaH gRha-ulmukaH // KNarm_1.36 //
+   aṣṭau piśācāstasyaite bhaṭamukhyāḥ puraḥsarāḥ /	azwO piSAcAH-tasya-ete Bawa-muKyAH puraHsarAH /
+   martyalokavināśāya babhramuryaṣṭipāṇayaḥ // KNarm_1.37 //	martya-loka-vinASAya baBramuH-yazwi-pANayaH // KNarm_1.37 //
+   sa vṛtaḥ sevakaśataiḥ sadā dambhaharārcane /	sa vRtaH sevaka-SatEH sadA damBa-hara-arcane /
+   stotraṃ paṭhati hāheti kurvansāsruvilocanaḥ // KNarm_1.38 //	stotram paWati hAhA-iti kurvan-sa-asru-vilocanaH // KNarm_1.38 //
+   sugirā cittahāriṇyā paśyantyā dṛśyamānayā /	sugirA citta-hAriNyA paSyantyAH dRSyamAnayA /
+   hyaḥ kiyanto mayā dattāḥ prāyasthā vijayeśvare // KNarm_1.39 //	hyaH kiyantaH mayA dattAH prAya-sTAH vijayeSvare // KNarm_1.39 //
+   jayatyullāsitānantamahimā parameśvaraḥ /	jayati-ullAsita-ananta-mahimA parameSvaraH /
+   ādau sthitānāmupari prayāntvete trisaptatiḥ // KNarm_1.40 //	AdO sTitAnAm-upari prayAntu-ete trisaptatiH // KNarm_1.40 //
+   yaḥ sphītaḥ śrīdayābodhaparamānandasampadā /	yaH sPItaH SrIdayA-boDa-parama-Ananda-sampadA /
+   prāyasthāne mṛtā bhaṭṭāḥ kṛṣyantāṃ gulphadāmabhiḥ // KNarm_1.41 //	prAya-sTAne mRtAH BawwAH kRzyantAm gulPa-dAmaBiH // KNarm_1.41 //
+   vidyoddyotitamāhātmyaḥ sa jayatyaparājitaḥ /	vidyA-uddyotita-mAhAtmyaH sa jayati-aparAjitaH /
+   {nirdhāmadhūmakartāro} grāmānyāntu niyoginaḥ // KNarm_1.42 //	{nirDAma-DUma-kartAro} grAmAn-yAntu niyoginaH // KNarm_1.42 //
+   sarvānandasvarūpāya sarvamaṅgalyahetave /	sarva-Ananda-svarUpAya sarva-maFgalya-hetave /
+   sarvasvaharaṇaṃ kṛtvā vadhyā daṇḍaniṣedhinaḥ // KNarm_1.43 //	sarva-sva-haraNam kRtvA vaDyAH daNxa-nizeDinaH // KNarm_1.43 //
+   sarvakleśāpahartre ca cidrūpabrahmaṇe namaḥ /	sarva-kleSa-apahartre ca cit-rUpa-brahmaNe namaH /
+   pīḍitāḥ prasravantyeva prajā guggulubījavat // KNarm_1.44 //	pIxitAH prasravanti-eva prajAH guggulu-bIja-vat // KNarm_1.44 //
+   ityādistotramukharo ghaṇṭābadhiritākhilaḥ /	ityAdi-stotra-muKaraH GaNwA-baDirita-aKilaH /
+   samādiśyāviśaccāśu niyoginibiḍāṃ sabhām // KNarm_1.45 //	samAdiSya-aviSat-ca-ASu niyogi-nibixAm saBAm // KNarm_1.45 //
+   marīcaḥ prathitasthānamāsthito janaduṣkṛtaiḥ /	marIcaH praTita-sTAnam-AsTitaH jana-duzkRtEH /
+   dadarśa dūrādāyāntaṃ kāryadūtaṃ niyoginam // KNarm_1.46 //	dadarSa dUrAt-AyAntam kArya-dUtam niyoginam // KNarm_1.46 //
+   padāla[gnā]śivaṃ devagṛhoccāṭanacākrikam /	padAla-[gnA]-Sivam devagRha-uccAwana-cAkrikam /
+   susūkṣmadalavinyāsavibhāgonnataṭuppikam // KNarm_1.47 //	su-sUkzma-dala-vinyAsa-viBAga-unnata-wuppikam // KNarm_1.47 //
+   atasīkusumacchāyaṃ mṛdusparśāṅgarakṣikam /	atasI-kusuma=-CAyam mRdu-sparSa-aFga-rakzikam /
+   jātyakastūrikāmodasthūlatūlapaṭīvṛtam // KNarm_1.48 //	jAtya-kastUrikA-Amoda-sTUla-tUla-pawI-vRtam // KNarm_1.48 //
+   hastāṅgulīnyastahaimatriguṇāvartavālikam /	hasta-aFgulI-nyasta-hEma-triguNa-Avarta-vAlikam /
+   dūrādhvaklamasocchvāsātkurvāṇaṃ vikṛtīrmukhe // KNarm_1.49 //	dUra-aDva-klamasA-ucCvAsAt-kurvANam vikRtIH-muKe // KNarm_1.49 //
+   dṛṣṭvā piśunamāyāntaṃ taṃ bhāgavatamantike /	dRzwvA piSunam-AyAntam tam BAgavatam-antike /
+   utthāya harṣādālambya pāṇau pārśve nyaveśayat // KNarm_1.50 //	utTAya harzAt-Alambya pANO pArSve nyaveSayat // KNarm_1.50 //
+   %% iti gṛhakṛtyādhipatiḥ /	%% iti gRha-kRtya-aDipatiH /
+   piśunebhyo namastebhyo yatprasādānniyoginaḥ /	piSuneByaH namaH-teByaH yad-prasAdAt-niyoginaH /
+   dūrasthā api jāyante sahasraśrotracakṣuṣaḥ // KNarm_1.51 //	dUra-sTAH api jAyante sahasra-Srotra-cakzuzaH // KNarm_1.51 //
+   so 'bravīttvāmahaṃ śrutvā sthitaṃ śaktimatāṃ dhuri /	saH abravIt-tvAm-aham SrutvA sTitam SaktimatAm Duri /
+   prāpto devagṛhādeṣa rāśimārgapradarśakaḥ // KNarm_1.52 //	prAptaH devagRhAt-eza rASi-mArga-pradarSakaH // KNarm_1.52 //
+   vastrālaṅkāraratnādi yatkiṃciddevaveśmasu /	vastra-alaFkAra-ratna-Adi yat-kiMcid-deva-veSmasu /
+   vidyamānamaśeṣaṃ tatkariṣye prakaṭaṃ tava // KNarm_1.53 //	vidyamAnam-aSezam tat-karizye prakawam tava // KNarm_1.53 //
+   vijayeśvaravārāhamārtaṇḍādiṣu vidyate /	vijayeSvara-vArAha-mArtaNxa-Adizu vidyate /
+   tvadbhāgyopacayādrāśirapoṣyaparipūrakaḥ // KNarm_1.54 //	tvad-BAgya-upacayAt-rASiH-apozya-paripUrakaH // KNarm_1.54 //
+   abhīrurapavādeṣu niḥśaṅkaḥ pātakeṣu ca /	aBIruH-apavAdezu niHSaFkaH pAtakezu ca /
+   tatra tīkṣṇo bhṛśaṃ śaśvatkriyatāṃ paripālakaḥ // KNarm_1.55 //	tatra tIkzNaH BRSam SaSvat-kriyatAm paripAlakaH // KNarm_1.55 //
+   sa cāsti bhuvi vikhyātaḥ kāyastho bhavatā samaḥ /	sa ca-asti Buvi viKyAtaH kAyasTaH BavatA samaH /
+   vinā dhanaṃ vināyāsaṃ sarvasvaharaṇaṃ vinā // KNarm_1.56 //	vinA Danam vinA-AyAsam sarva-sva-haraNam vinA // KNarm_1.56 //
+   brahmahatyā na gaṇyante govadheṣu kathaiva kā /	brahmahatyA na gaNyante go-vaDezu kaTA-eva kA /
+   prabhubhaktikṛtā yena mūlādunmūlyate janaḥ // KNarm_1.57 //	praBu-Bakti-kRtA yena mUlAt-unmUlyate janaH // KNarm_1.57 //
+   anye 'pi santi sarvatra tadvidhastu na labhyate /	anye api santi sarvatra tadviDaH-tu na laByate /
+   nītaḥ svajanako yena nidhanaṃ bandhane dhanī // KNarm_1.58 //	nItaH sva-janakaH yena niDanam banDane DanI // KNarm_1.58 //
+   yadi nāma bhavatpuṇyaiḥ sa sameṣyati madgirā /	yadi nAma Bavat-puNyEH sa samezyati mad-girA /
+   tatsvagehaṃ nidhānānāṃ viddhi svacchandamandiram // KNarm_1.59 //	tad-sva-geham niDAnAnAm vidDi svacCanda-mandiram // KNarm_1.59 //
+   iti bruvāṇamasakṛtkarṇe vihitasaṃvidam /	iti bruvANam-asakRt-karNe vihita-saMvidam /
+   mahattamastamavadattūrṇamānīyatāmiti // KNarm_1.60 //	mahattamaH-tam-avadat-tUrNam-AnIyatAm-iti // KNarm_1.60 //
+   tataḥ sa satvaraṃ dvitrairādarāya gatāgataiḥ /	tatas sa sa-tvaram dvitrEH-AdarAya gatAgatEH /
+   tamānināya niścitya pāpinaṃ paripālakam // KNarm_1.61 //	tam-AninAya niScitya pApinam paripAlakam // KNarm_1.61 //
+   %% iti cākrikaḥ puṃścalako vā /	%% iti cAkrikaH puMScalakaH vA /
+   kāṣṭhastabdhonnatagrīvaḥ saniḥspandordhvalocanaḥ /	kAzWa-stabDa-unnata-grIvaH sa-niHspanda-UrDva-locanaH /
+   kāmalāharitacchāyaśiraḥśāṭakakañcukaḥ // KNarm_1.62 //	kAmalA-harita=-CAya-SiraH-SAwaka-kaQcukaH // KNarm_1.62 //
+   lambamānena mahatāmedhyakroḍānukāriṇā /	lambamAnena mahatA-ameDya-kroxa-anukAriNA /
+   *udareṇa dareṇeva vyāptaḥ piśitaveśmanā // KNarm_1.63 //	*udareNa dareNa-iva vyAptaH piSita-veSmanA // KNarm_1.63 //
+   tīvradarpo mahākopaḥ prāṇahṛnniṣpratikriyaḥ /	tIvra-darpaH mahA-kopaH prANa-hRd-nizpratikriyaH /
+   sopadravaḥ sopatāpaḥ sannipāta iva jvaraḥ // KNarm_1.64 //	sa-upadravaH sa-upatApaH sannipAtaH iva jvaraH // KNarm_1.64 //
+   sa mahāntaṃ samāsādya duḥsahaṃ daṃśanaṃ viṭam /	sa mahAntam samAsAdya duHsaham daMSanam viwam /
+   līlayaiva vaśīkṛtya lebhe devagṛhānbahūn // KNarm_1.65 //	lIlayA-eva vaSIkRtya leBe deva-gRhAn-bahUn // KNarm_1.65 //
+   tato mūrtairivāyāsaiḥ sahasaiva puraḥsaraiḥ /	tatas mUrtEH-iva-AyAsEH sahasA-eva puraHsarEH /
+   argha velāṃ yayau kartumasaṅkhyaiḥ parivāritaḥ // KNarm_1.66 //	arGa velAm yayO kartum-asaFKyEH parivAritaH // KNarm_1.66 //
+   kācaro 'yaṃ hiraṇyākṣaḥ pūrvavairamanusmaran /	kAcaraH ayam hiraNyAkzaH pUrva-vEram-anusmaran /
+   devānavāptaḥ saṃhartumiti taṃ bubudhe janaḥ // KNarm_1.67 //	devAn-avAptaH saMhartum-iti tam bubuDe janaH // KNarm_1.67 //
+   bhayātpalāyya yāteṣu dhanikeṣu surālayāt /	BayAt-palAyya yAtezu Danikezu surAlayAt /
+   tamayuḥ punarakṣīṇā devāgāranivāsinaḥ // KNarm_1.68 //	tam-ayuH punar-akzINAH devAgAra-nivAsinaH // KNarm_1.68 //
+   bhaṭairargalitadvārakavāṭasphoṭanākulaiḥ /	BawEH-argalita-dvAra-kavAwa-sPowana-AkulEH /
+   prārabdhe gṛhabhāṇḍādiviluṇṭhanamahotsave // KNarm_1.69 //	prArabDe gRha-BANxa-Adi-viluNWana-mahA-utsave // KNarm_1.69 //
+   sahasā hṛtavastrāṇāṃ gṛhiṇīnāṃ samāyayau /	sahasA hRta-vastrANAm gRhiNInAm samAyayO /
+   santrastabālakānāṃ ca karuṇo rodanadhvaniḥ // KNarm_1.70 //	santrasta-bAlakAnAm ca karuNaH rodana-DvaniH // KNarm_1.70 //
+   %% iti paripālakaḥ /	%% iti paripAlakaH /
+   athāyayau cirāvāptabahuharṣaskhaladgatiḥ /	aTa-AyayO cira-avApta-bahu-harza-sKalat-gatiH /
+   kṛśaḥ śanaiścarākāro dhūsaraḥ kṣutkṣatodaraḥ // KNarm_1.71 //	kRSaH SanEScara-AkAraH DUsaraH kzuD-kzata-udaraH // KNarm_1.71 //
+   bahucchidraśiraḥśāṭalaḍatparyantatūstakaḥ /	bahu=-Cidra-SiraH-SAwa-laxat-paryanta-tu-ustakaH /
+   śatacakralikāsyūtamalaliptāṅgarakṣakaḥ // KNarm_1.72 //	Sata-cakralikA-syUta-mala-lipta-aFga-rakzakaH // KNarm_1.72 //
+   śīrṇajīrṇapaṭīguptakakṣyāniyamitāñcalaḥ /	SIrNa-jIrNa-pawI-gupta-kakzyA-niyamita-aQcalaH /
+   yācitānītasaṃśuṣkapāda[tra]vyathitaḥ khalaḥ // KNarm_1.73 //	yAcita-AnIta-saMSuzka-pAda[tra]-vyaTitaH KalaH // KNarm_1.73 //
+   lekhādhikārī niḥsvo 'pi lekhasaṃskāragarvitaḥ /	leKa-aDikArI niHsvaH api leKa-saMskAra-garvitaH /
+   paripālakanirdiṣṭo vāyubhakṣa ivoragaḥ // KNarm_1.74 //	paripAlaka-nirdizwaH vAyuBakzaH iva-uragaH // KNarm_1.74 //
+   tadgehinī śīrṇavastrakha[ṇḍā]vṛtakaṭītaṭā /	tad-gehinI SIrNa-vastra-Ka[NxA]-vRta-kawI-tawA /
+   kajjalāliptanāsāgrā laḍanmṛtkarṇabhūṣaṇā // KNarm_1.75 //	kajjala-Alipta-nAsA-agrA laxat-mRd-karNa-BUzaNAH // KNarm_1.75 //
+   kṣudhitāpatyakupitā śūrpārdhāvṛtamastakā /	kzuDita-apatya-kupitA SUrpa-arDa-AvRta-mastakAH /
+   samutthāya saśūtkāraṃ kaṣantī bahuśaḥ sphijau // KNarm_1.76 //	samutTAya sa-SUtkAram kazantI bahuSas sPijO // KNarm_1.76 //
+   patyau cirātprāptapade hṛṣṭādāya yatastataḥ /	patyO cirAt-prApta-pade hRzwa-AdAya yatas-tatas /
+   ..kṣepāpūpadhūpādyairgaṇādhipamapūjayat // KNarm_1.77 //	..kzepa-apUpa-DUpa-AdyEH-gaNADipam-apUjayat // KNarm_1.77 //
+   so 'pyanekārthasandeśānākarṇyāvahitaḥ prabhoḥ /	saH api-aneka-arTa-sanda-ISAn-AkarNya-avahitaH praBoH /
+   dāpyaprasāritakaro lekhānaskhalito 'likhat // KNarm_1.78 //	dApya-prasArita-karaH leKAn-asKalitaH aliKat // KNarm_1.78 //
+   dhāvatkalamacītkāratāraḥ kapirivāhataḥ /	DAvat-kalama-cItkAra-tAraH kapiH-iva-AhataH /
+   dīnārāngaṇayannāśu dadau lekhaśatadvayam // KNarm_1.79 //	dInArAn-gaNayan=-ASu dadO leKa-Sata-dvayam // KNarm_1.79 //
+   paripālakapādānāṃ yatkiṃcidupayujyate /	paripAlaka-pAdAnAm yat-kiMcid-upayujyate /
+   darvī bṛsī paṭalikā kuṇḍabhāṇḍakaraṇḍikā // KNarm_1.80 //	darvI bRsI pawalikA kuNxa-BANxa-karaNxikA // KNarm_1.80 //
+   ityādilekhadānena prasiddhiṃ paramāṃ gataḥ /	ityAdi-leKa-dAnena prasidDim paramAm gataH /
+   so 'cireṇābhavatpuṣṭaḥ pūrṇapāṇirmadoddhataḥ // KNarm_1.81 //	saH acireNa-aBavat-puzwaH pUrNa-pANiH-mada-udDataH // KNarm_1.81 //
+   lekhapattrāṇi vigalallocanaḥ parivācayan /	leKa-pattrANi vigalat-locanaH parivAcayan /
+   cakāra vikṛtīstāstā nānābhrūnetrakuñcanaiḥ // KNarm_1.82 //	cakAra vikRtIH-tAH-tAH nAnA-BrU-netra-kuQcanEH // KNarm_1.82 //
+   %% iti lekhakopādhyāyaḥ /	%% iti leKakopa-aDyAyaH /
+   tato gṛhītamadhyasthacchattrabhaṅgavyavasthayā (?) /	tatas gRhIta-maDya-sTa=-Cattra-BaFga-vyavasTayA (?) /
+   āyayau gañjadiviro bhaṭṭabhāgavatārthitaḥ // KNarm_1.83 //	AyayO gaQja-diviraH Bawwa-BAgavata-arTitaH // KNarm_1.83 //
+   sa prāyasthakhalīkārānmānī santyaktakarpaṭaḥ /	sa prAya-sTa-KalIkArAt-mAnI santi-akta-karpawaH /
+   śiraḥśāṭakavinyāsaśvitritārdhalalāṭabhūḥ // KNarm_1.84 //	SiraH-SAwaka-vinyAsa-Svitrita-arDa-lalAwa-BUH // KNarm_1.84 //
+   sarvadevagṛhagrāmarāśisaṃhāratatparaḥ /	sarva-deva-gRha-grAma-rASi-saMhAra-tatparaH /
+   rajjuśeṣīkṛtāśeṣanirjara..ripālakaḥ // KNarm_1.85 //	rajju-SezIkRta-aSeza-nirjara..ripAlakaH // KNarm_1.85 //
+   sa prāpya pradadau dīrghāṃ śaratṣaṇmāsakalpanām /	sa prApya pradadO dIrGAm Sara-tzaz-mAsa-kalpanAm /
+   yasyā madhye 'sti likhitaṃ sārdhaṃ lakṣacatuṣṭayam // KNarm_1.86 //	yasyAH maDye asti liKitam sArDam lakza-catuzwayam // KNarm_1.86 //
+   svārthopāyaṃ tataḥ pṛṣṭastena svīkārasaṃvidā /	sva-arTa-upAyam tatas pRzwaH-tena svIkAra-saMvidA /
+   uvāca bhāgasantoṣātkiṃcitsadbhāvamāsthitaḥ // KNarm_1.87 //	uvAca BAga-santozAt-kiMcid-sadBAvam-AsTitaH // KNarm_1.87 //
+   asmindevagṛhe te te prasiddhāḥ paripālakāḥ /	asmin-devagRhe te te prasidDAH paripAlakAH /
+   vikrītanijasarvasvāḥ prayātā madvirodhinaḥ // KNarm_1.88 //	vikrIta-nija-sarva-svAH prayAtAH mad-viroDinaH // KNarm_1.88 //
+   bhavato 'dya tu kartavyā snehādupakṛtirmayā /	BavataH adya tu kartavyA snehAt-upakRtiH-mayA /
+   kulācāryaḥ sa bhagavāneko hi gururāvayoḥ // KNarm_1.89 //	kula-AcAryaH sa BagavAn-ekaH hi guruH-AvayoH // KNarm_1.89 //
+   svīkṛtairiha dānena pañcaṣaiścākrikāśivaiḥ /	svIkRtEH-iha dAnena paQcazEH-ca-akrikA-SivEH /
+   bhujyate nikhilaṃ devadravyaṃ bhuktiśca pārṣadī // KNarm_1.90 //	Bujyate niKilam deva-dravyam BuktiH-ca pArzadI // KNarm_1.90 //
+   vikrītaśeṣaṃ yatkiñcidvidyate suramaṇḍale /	vikrIta-Sezam yat-kiQcid-vidyate sura-maNxale /
+   tanmatenaiva tatsarvaṃ bhujyate nijavattvayā // KNarm_1.91 //	tad-matena-eva tat-sarvam Bujyate nija-vat-tvayA // KNarm_1.91 //
+   tathā hi tāmrajaḥ pūrvaṃ mahān nīto ghaṭo mayā /	taTA hi tAmra-jaH pUrvam mahAn nItaH GawaH mayA /
+   bhaktitastacchatāṃśena kṛtā ghaṇṭā surālaye // KNarm_1.92 //	BaktitaH-tat-Sata-aMSena kRtA GaNwA surAlaye // KNarm_1.92 //
+   kālena ghaṇṭāṃ vikrīya tadaṃśena kṛtā ghaṭī /	kAlena GaNwAm vikrIya tad-aMSena kRtA GawI /
+   krameṇa bhakṣitā sāpi kṛtā śeṣeṇa ghaṇṭikā // KNarm_1.93 //	krameNa BakzitA sA-api kRtA SezeNa GaNwikA // KNarm_1.93 //
+   ciraṃ sañcūrṇitā sāpi kṛtā sūkṣmajhilīmalī /	ciram saQcUrNitA sA-api kRtA sUkzma-JilImalI /
+   iti kṛtvā tataḥ stokaghaṇṭāṃśaḥ paripālitaḥ // KNarm_1.94 //	iti kRtvA tatas stoka-GaNwA-aMSaH paripAlitaH // KNarm_1.94 //
+   evaṃ caturbhujā luṇṭhiḥ kriyate śivapūjayā /	evam caturBujA luNWiH kriyate Siva-pUjayA /
+   santi dhānyasahasrāṇi kriyatāṃ bhavatātra tu /	santi DAnya-sahasrANi kriyatAm BavatA-atra tu /
+   krayavikrayikā nāma tato vijñapyase mayā // KNarm_1.95 //	kraya-vikrayikA nAma tatas vijQapyase mayA // KNarm_1.95 //
+   ityupāyaśataistaistaistaduktaiḥ paripālakaḥ /	iti-upAya-SatEH-tEH-tEH-tad-uktEH paripAlakaH /
+   *jaraṭhākhurivākṣoṭaṃ śūnyaṃ cakre surālayam // KNarm_1.96 //	*jaraWa-AKuH-iva-akzowam SUnyam cakre surAlayam // KNarm_1.96 //
+   %% iti gañjadiviraḥ /	%% iti gaQja-diviraH /
+   athānyarāśipravaṇaḥ pravīṇaḥ sādhuluṇṭhane /	aTa-anya-rASi-pravaNaH pravINaH sADu-luNWane /
+   āpatpraśamanaṃ prāpa grāmaṃ tasmānniyogavit // KNarm_1.97 //	Apad-praSamanam prApa grAmam tasmAt-niyoga-vid // KNarm_1.97 //
+   tasyāvaskarasaṃchannamahārauravasodare /	tasya-avaskara-saMCanna-mahArOrava-sodare /
+   khaṇḍasphuṭitanāsāgravāridhānīmahādhane // KNarm_1.98 //	KaNxa-sPuwita-nAsA-agra-vAri-DAnI-mahADane // KNarm_1.98 //
+   dāmaprotajaraddvāraskhalatkhaḍakhaḍārave /	dAma-prota-jarat-dvAra-sKalat-Kaxa-Kaxa-Arave /
+   yasya sthitirabhūdgehe kukuṭṭīkoṭarodare // KNarm_1.99 //	yasya sTitiH-aBUt-gehe kukuwwI-kowara-udare // KNarm_1.99 //
+   dagdhakambalikākhaṇḍakṛtamuṇḍāvaguṇṭhanaḥ /	dagDa-kambalikA-KaNxa-kRta-muNxa-avaguNWanaH /
+   śvajagdhajīrṇaśīrṇāgropānatkhañjaḥ śanairvrajan // KNarm_1.100 //	Sva-jagDa-jIrNa-SIrNa-agra-upAnat-KaQjaH SanEs-vrajan // KNarm_1.100 //
+   karpaṭītilamṛddarbhapavitrārghasamudgakaiḥ /	karpawI-tila-mRd-darBa-pavitra-arGa-samudgakEH /
+   dārupāttrīṃ vahanpūrṇāṃ bhagnāmākhuvikhaṇḍitām // KNarm_1.101 //	dAru-pAttrIm vahan-pUrNAm BagnAm-AKu-viKaNxitAm // KNarm_1.101 //
+   snāyī japoccalatkūrcaḥ sadācārapade sthitaḥ /	snAyI japa-uccalat-kUrcaH sat-AcAra-pade sTitaH /
+   dinārdhamapaṭhatstotraṃ gatvā yaḥ suramandiram // KNarm_1.102 //	dina-arDam-apaWat-stotram gatvA yaH sura-mandiram // KNarm_1.102 //
+   gopradakṣiṇakṛdviprapraṇato dvādaśīvrataḥ /	go-pradakziNa-kRt-vipra-praNataH dvAdaSI-vrataH /
+   dadau dīnajane mārge yatnenaikakapardikām // KNarm_1.103 //	dadO dIna-jane mArge yatnena-ekakapardikAm // KNarm_1.103 //
+   tasyaiva daivādāyātakāryasyāśu niyoginaḥ /	tasya-eva dEvAt-AyAta-kAryasya-ASu niyoginaH /
+   upaskaraṇabhāṇḍādiparipūrṇamabhūdgṛham // KNarm_1.104 //	upaskaraNa-BANxa-Adi-paripUrNam-aBUt-gRham // KNarm_1.104 //
+   śiśire yasya nāṅgāraṃ pradaduḥ prātiveśminaḥ /	SiSire yasya na-aFgAram pradaduH prAtiveSminaH /
+   ayācitaṃ dadustasya vastrālaṅkaraṇepsitam // KNarm_1.105 //	ayAcitam daduH-tasya vastra-alaFkaraNa-Ipsitam // KNarm_1.105 //
+   tataḥ sudhādhavalitaṃ tasya sammārjitāṅganam /	tatas suDA-Davalitam tasya sammArjita-aFganam /
+   bahudāsamabhūdgehaṃ sindūrodaramandiram // KNarm_1.106 //	bahu-dAsam-aBUt-geham sindUra-udara-mandiram // KNarm_1.106 //
+   miṣṭabhojanasañjātanavalāvaṇyasacchaviḥ /	mizwa-Bojana-saQjAta-nava-lAvaNya-sa=-CaviH /
+   tasyābhūttaruṇī bhāryā di[nai]rapsarasaḥ samā // KNarm_1.107 //	tasya-aBUt-taruNI BAryA di[nE]rapsarasaH samAH // KNarm_1.107 //
+   tato 'pi vrajato grāmaṃ karaṇḍaśayanādikam /	tatas api vrajataH grAmam karaNxa-Sayana-Adikam /
+   niryayau purataśchattraṃ kalaśaṃ tāmrakuṇḍakam // KNarm_1.108 //	niryayO puratas-Cattram kalaSam tAmra-kuNxakam // KNarm_1.108 //
+   śaktiḥ patadgraho ghaṇṭā tāmrapātramupānahau /	SaktiH patadgrahaH GaNwA tAmra-pAtram-upAnahO /
+   karikā bhagavatpādā bhūrjabhastrātha sruksruvau // KNarm_1.109 //	karikA Bagavat-pAdAH BUrja-BastrA-aTa sruc-sruvO // KNarm_1.109 //
+   akṣasūtraṃ maṣībhāṇḍaṃ darpaṇaḥ snānaśāṭikā /	akza-sUtram mazI-BANxam darpaNaH snAna-SAwikA /
+   sampuṭīṭuppikākhaḍgāḥ pāduke mantrapustikā // KNarm_1.110 //	sampuwI-wuppikA-KaxgAH pAduke mantra-pustikA // KNarm_1.110 //
+   nakṣatrapattrikā khaḍgapatraṃ lohitakambalaḥ /	nakzatrapattrikA Kaxga-patram lohita-kambalaH /
+   pavitrasūtrakaṃ tantrī sūcī kalamakartarī // KNarm_1.111 //	pavitra-sUtrakam tantrI sUcI kalama-kartarI // KNarm_1.111 //
+   vacā jatumayī rakṣā kṣurikā yogapaṭṭakaḥ /	vacA jatu-mayI rakzA kzurikA yogapawwakaH /
+   stotramantrāṇi gaṅgāmṛdbilvamucchiṣṭaphālakam // KNarm_1.112 //	stotra-mantrANi gaFgA-mRd-bilvam-ucCizwa-PAlakam // KNarm_1.112 //
+   ityekīkṛtya tasyāgre bhāṇḍopaskaraṇaṃ yayau /	iti-ekIkRtya tasya-agre BANxa-upaskaraNam yayO /
+   itastataḥ samānītamapunardānacetasā // KNarm_1.113 //	itas-tatas samAnItamapunar-dAna-cetasA // KNarm_1.113 //
+   uccaiḥkṛtalatāpāṇirbhāṭakānītaghoṭakaḥ /	uccEs-kRta-latA-pANiH-BAwaka-AnIta-GowakaH /
+   jhāṅkārapārṣṇiprahatirvadanenāñcatā muhuḥ // KNarm_1.114 //	JAFkAra-pArzNi-prahatiH-vadanena-aQcatA muhur // KNarm_1.114 //
+   santarjayanniva janaṃ jyo..rtamiva kurvatā /	santarjayan=-iva janam jyo..rtam-iva kurvatA /
+   śithilasthūlavasanaḥ sa yayau puramutphalan // KNarm_1.115 //	SiTila-sTUla-vasanaH sa yayO puram-utPalan // KNarm_1.115 //
+   praviveśa tato grāmaṃ sudhautasitakarpaṭaḥ /	praviveSa tatas grAmam su-DOta-sita-karpawaH /
+   kṣayāya grāmyamatsyānāṃ vṛddho baka ivāgataḥ // KNarm_1.116 //	kzayAya grAmya-matsyAnAm vRdDaH bakaH iva-AgataH // KNarm_1.116 //
+   atha bhojanacaryādivyapadeśaiḥ sahasraśaḥ /	aTa Bojana-caryA-Adi-vyapadeSEH sahasraSas /
+   tasya yakṣeśvarasyeva nidhānānyāyayuḥ puraḥ // KNarm_1.117 //	tasya yakza-ISvarasya-iva niDAnAni-AyayuH puras // KNarm_1.117 //
+   yogī haraṇacintāsu prayogī bhūrjayojane /	yogI haraNa-cintAsu prayogI BUrja-yojane /
+   viyogī nijadārāṇāṃ bhogī narakasampadām // KNarm_1.118 //	viyogI nija-dArANAm BogI naraka-sampadAm // KNarm_1.118 //
+   nopayogī phalotpattau doṣodyogī tu kevalam /	na-upayogI Pala-utpattO doza-udyogI tu kevalam /
+   aśo[kaḥ] satataṃ rogī niyogī jayati prabhuḥ // KNarm_1.119 //	aSo[kaH] satatam rogI niyogI jayati praBuH // KNarm_1.119 //
+   vṛkṣārohasahasreṣu prāyaḥklāntaśateṣu ca /	vRkza-Aroha-sahasrezu prAyas-klAnta-Satezu ca /
+   grāme tasya vipanneṣu narakapratimābhavat // KNarm_1.120 //	grAme tasya vipannezu naraka-pratimA-aBavat // KNarm_1.120 //
+   gavāṃ daṇḍāya yaścakre nidhanāvadhibandhanam /	gavAm daNxAya yaH-cakre niDana-avaDi-banDanam /
+   kā nāma gaṇanā tasya nṛṣu sarvāparādhiṣu // KNarm_1.121 //	kA nAma gaNanA tasya nRzu sarva-aparADizu // KNarm_1.121 //
+   sarvasvaharaṇaṃ bandho nigraho gṛhabhañjanam /	sarva-sva-haraNam banDaH nigrahaH gRha-BaQjanam /
+   iti tasya mukhādghoraṃ na cacāla vacaḥ sadā // KNarm_1.122 //	iti tasya muKAt-Goram na cacAla vacaH sadA // KNarm_1.122 //
+   pañcaṣāḥ satataṃ tasya karabhā iva bhārikāḥ /	paQcazAH satatam tasya karaBAH iva BArikAH /
+   ghṛtamākṣikadīnāramaricārdrakasaindhavam // KNarm_1.123 //	GRta-mAkzika-dInAra-marica-Ardraka-sEnDavam // KNarm_1.123 //
+   mudgakambalamāyūropānanmeṣavihaṅgamam /	mudga-kambala-mAyUra-upAnat-meza-vihaFgamam /
+   bisadrākṣāmadhughaṭākṣoṭaparyaṅkapīṭhikam // KNarm_1.124 //	bisa-drAkzA-maDu-Gawa-akzowa-paryaFka-pIWikam // KNarm_1.124 //
+   kāṃsyatāmrāyasānekagṛhopaskaraṇādikam /	kAMsya-tAmra-Ayasa-aneka-gRha-upaskaraNa-Adikam /
+   ninyustattadaviśrāntā gṛhaṃ yaccāvadadvacaḥ // KNarm_1.125 //	ninyuH-tad-tat-aviSrAntAH gRham yat-ca-avadat-vacaH // KNarm_1.125 //
+   daṇḍatyājanalekhāṃśca sa prāptānsvāmino 'ntikāt /	daNxa-tyAjana-leKAn=-ca sa prAptAn-svAminaH antikAt /
+   sādhikṣepaṃ sathūtkāraṃ cakāra tilaśo nakhaiḥ // KNarm_1.126 //	sa-aDikzepam sa-Tu-utkAram cakAra tilaSas naKEH // KNarm_1.126 //
+   nityaṃ māṃsaghṛtāhāraḥ sa rājapuruṣe sthite /	nityam mAMsa-GRta-AhAraH sa rAja-puruze sTite /
+   bhuṅkte vilavaṇaṃ dambhādeko mudgapaladvayam // KNarm_1.127 //	BuFkte vilavaNam damBAt-ekaH mudga-pala-dvayam // KNarm_1.127 //
+   %% iti mārgapatirvyāpāriko vā /	%% iti mArgapatiH-vyApArikaH vA /
+   nirasya mūladiviraṃ cauryāṇāmacikitsakam /	nirasya mUla-diviram cOryANAm-acikitsakam /
+   cakāra vārikaṃ so 'tha cikitsācaturaṃ param // KNarm_1.128 //	cakAra vArikam saH aTa cikitsA-caturam param // KNarm_1.128 //
+   sa mukto bandhanāttena kṣipraṃ dvādaśavārṣikāt /	sa muktaH banDanAt-tena kzipram dvAdaSa-vArzikAt /
+   lilekha kūṭakapaṭaṃ prakaṭākṣarakovidaḥ // KNarm_1.129 //	lileKa kUwa-kapawam prakawa-akzara-kovidaH // KNarm_1.129 //
+   kṛttāṅguṣṭhaḥ sa vāmena pāṇinā diviro rahaḥ /	kRtta-aFguzWaH sa vAmena pANinA diviraH rahaH /
+   khala..sya gṛhaṃ gatvā vidadhe bhūrjayojanam // KNarm_1.130 //	Kala..sya gRham gatvA vidaDe BUrja-yojanam // KNarm_1.130 //
+   gṛhītvā madyakalaśaṃ sa jānuyugalāntare /	gRhItvA madya-kalaSam sa jAnu-yugala-antare /
+   muhurmuhuḥ parimitaṃ pibanbahutaraṃ śanaiḥ // KNarm_1.131 //	muhur-muhur parimitam piban-bahutaram SanEs // KNarm_1.131 //
+   lilekha cīrīcītkāratāraṃ kalamarekhayā /	lileKa cIrI-cItkAra-tAram kalama-reKayA /
+   antyāṅgulyā sanirghoṣaṃ lālayotpuṃsitākṣaraḥ // KNarm_1.132 //	antya-aFgulyA sa-nirGozam lAlayA-utpuMsita-akzaraH // KNarm_1.132 //
+   vilumpanvipragodevanityanaimittikavyayam /	vilumpan-vipra-go-deva-nitya-nEmittika-vyayam /
+   śrīcarmakāraguruṇā rugṇanāthena bhāṣitam // KNarm_1.133 //	SrI-carmakAra-guruNA rugNanATena BAzitam // KNarm_1.133 //
+   śivabhaktibharākrandaṃ muhurgāyankharasvaraḥ /	Siva-Bakti-Bara-Akrandam muhur-gAyan-Kara-svaraH /
+   yūkāḥ piṣannakhāgreṇa muhuruccitya kambalāt // KNarm_1.134 //	yUkAH pizannaKa-agreNa muhur-uccitya kambalAt // KNarm_1.134 //
+   muhurniḥśvasya niḥśvasya nindansaṃsāraceṣṭitam /	muhur-niHSvasya niHSvasya nindan-saMsAra-cezwitam /
+   vyayena sa samīkurvanpraveśaṃ harṣanirbharaḥ // KNarm_1.135 //	vyayena sa samIkurvan-praveSam harza-nirBaraH // KNarm_1.135 //
+   āviṣṭa iva vetālaścakampe madyaghūrṇitaḥ /	AvizwaH iva vetAlaH-cakampe madya-GUrNitaH /
+   utsaratpaṭalīmiśrakaṅkāvalayamālitaḥ // KNarm_1.136 //	utsarat-pawalI-miSra-kaFkA-valaya-mAlitaH // KNarm_1.136 //
+   sthūlabhūrjaphaḍatkārasphāravādyarasākulaḥ /	sTUla-BUrja-PaxatkAra-sPAra-vAdya-rasa-AkulaH /
+   karparīcchidraniryātavyāvalgivṛṣaṇadvayaḥ // KNarm_1.137 //	karparIcCidra-niryAta-vyAvalgi-vRzaNa-dvayaH // KNarm_1.137 //
+   luṭhatpūrṇamaṣībhāṇḍacchaṭācchuritavigrahaḥ /	luWat-pUrNa-mazI-BANxa=-CawA-AcCurita-vigrahaH /
+   nanarta diviraḥ kṣībo nagno bhagnabṛsīghaṭaḥ // KNarm_1.138 //	nanarta diviraH kzIbaH nagnaH Bagna-bRsI-GawaH // KNarm_1.138 //
+   dhūsaro maladigdhāṅgaḥ sa piśāca ivotthitaḥ /	DUsaraH mala-digDa-aFgaH sa piSAcaH iva-utTitaH /
+   janajīvāpahāreṇa nananda madanirbharaḥ // KNarm_1.139 //	jana-jIva-apahAreNa nananda mada-nirBaraH // KNarm_1.139 //
+   kakṣākuṭṭanasaṅghaṭṭaṭāṃkārā..jakāriṇaḥ /	kakzA-kuwwana-saFGawwawAMkAra-a..ja-kAriNaH /
+   skandhavādyarasaḥ ko 'pi tasyābhūnnirjane ciram // KNarm_1.140 //	skanDa-vAdya-rasaH kaH api tasya-aBUt-nirjane ciram // KNarm_1.140 //
+   %% iti grāmadiviraḥ /	%% iti grAma-diviraH /
+   vyāpṛto 'pyaniśaṃ tena divireṇāpahāriṇā /	vyApRtaH api-aniSam tena divireNa-apahAriNA /
+   vātenevānalaḥ sārdhaṃ jajvāla janakānanam // KNarm_1.141 //	vAtena-iva-analaH sArDam jajvAla jana-kAnanam // KNarm_1.141 //
+   acirādatha saṃvṛtte gṛhe tasya mahādhane /	acirAt-aTa saMvRtte gRhe tasya mahADane /
+   alaṅkṛtā mālyavatī tāmbūladalanavratā // KNarm_1.142 //	alaFkRtA mAlyavatI tAmbUla-dalana-vratA // KNarm_1.142 //
+   gṛhiṇī darpaṇaparā rājamārgāvalokinī /	gRhiNI darpaNa-parA rAjamArga-avalokinI /
+   babhāra tadvirahitā bhūpālalalanāmadam // KNarm_1.143 //	baBAra tad-virahitAH BUpAla-lala-nA-madam // KNarm_1.143 //
+   hāro bhārāyate hematāṭaṅkaṃ me na vallabham /	hAraH BArAyate hema-tAwaFkam me na vallaBam /
+   dhigvaṇigvanitāyogyāṃ gurvīṃ kanakasūtrikām // KNarm_1.144 //	Dik-vaNij-vanitA-yogyAm gurvIm kanaka-sUtrikAm // KNarm_1.144 //
+   ekaivaikāvalī kāntā laliteyaṃ priyā mama /	ekA-eva-eka-AvalI kAntA lalitA-iyam priyA mama /
+   iti darpagirā tasyā nābhavat kasya vismayaḥ // KNarm_1.145 //	iti darpa-girA tasyAH na-aBavat kasya vismayaH // KNarm_1.145 //
+   aho bhagavatī kāryasarvasiddhipradā maṣī /	aho BagavatI kArya-sarva-sidDi-pradA mazI /
+   aho prabalavānko 'pi kalamaḥ kamalāśrayaḥ // KNarm_1.146 //	aho prabalavAn-kaH api kalamaH kamala-ASrayaH // KNarm_1.146 //
+   yā papau yācitaṃ cāmaṃ bhagnasyūtāśmabhājane /	yA papO yAcitam ca-Amam Bagna-syUta-aSma-BAjane /
+   tayaiva pīyate raupyapātre kastūrikāmadhu // KNarm_1.147 //	tayA-eva pIyate rOpya-pAtre kastUrikA-maDu // KNarm_1.147 //
+   ityadhastāṃ samālokya harmye kāyasthasundarīm /	iti-aDas-tAm samAlokya harmye kAyasTa-sundarIm /
+   tatprātiveśmikasutāḥ kulīnā jaguraṅganāḥ // KNarm_1.148 //	tad-prAtiveSmika-sutAH kulInAH jaguH-aFganAH // KNarm_1.148 //
+   [iti] narmamālāyāṃ prathamaḥ parihāsaḥ //	[iti] narma-mAlAyAm praTamaH parihAsaH //
+   dvitīyaḥ parihāsaḥ	dvitIyaH parihAsaH
+   sāpi bālakuraṅgākṣī yauvanena pramāthinā /	sA-api bAla-kuraFga-akzI yOvanena pramATinA /
+   bhidyamāneva darpeṇa na dadarśa vasundharām // KNarm_2.1 //	BidyamAnA-iva darpeNa na dadarSa vasunDarAm // KNarm_2.1 //
+   śvaśrūjanaviruddhā sā taruṇaprātiveśmikā /	SvaSrU-jana-virudDA sA taruNa-prAtiveSmikAH /
+   parihāsakathāśīlā gītavādyānurāgiṇī // KNarm_2.2 //	parihAsa-kaTA-SIlA gIta-vAdya-anurAgiNI // KNarm_2.2 //
+   cārusaurabhaliptāṅgī na sā jagrāha kañcukam /	cAru-sOraBa-lipta-aFgI na sA jagrAha kaQcukam /
+   darśayantī stanābhogamardhasrastaśiroṃśukā // KNarm_2.3 //	darSayantI stana-ABogam-arDa-srasta-SiroMSukAH // KNarm_2.3 //
+   jṛmbhamāṇā parāvṛttya sācīkṛtavilocanā /	jRmBamANA parAvRttya sAcIkRta-vilocanA /
+   janamaikṣata lolākṣī valitatrivalīlatā // KNarm_2.4 //	janam-Ekzata lola-akzI valita-trivalI-latA // KNarm_2.4 //
+   ayatnasādhyāṃ tāṃ vīkṣya viṭā lalitalocanām /	ayatna-sADyAm tAm vIkzya viwAH lalita-locanAm /
+   babhramustadgṛhopānte nirvyāpāragatāgatāḥ // KNarm_2.5 //	baBramuH-tad-gRha-upAnte nirvyApAra-gata-AgatAH // KNarm_2.5 //
+   ciraṃ tadarthinaścitravastra*veṣavibhūṣitāḥ /	ciram tad-arTinaH-citra-vastra*veza-viBUzitAH /
+   sugandhitailatāmbūladhūpādivyayakāriṇaḥ // KNarm_2.6 //	suganDi-tEla-tAmbUla-DUpa-Adi-vyaya-kAriNaH // KNarm_2.6 //
+   niyogidhanabaddhāśāḥ strīratnaprāptisotsukāḥ /	niyogi-Dana-badDa-ASAH strI-ratna-prApti-sa-utsukAH /
+   sasmitākṣinikocādivikāraśatakāriṇaḥ // KNarm_2.7 //	sa-smita-akzi-nikoca-Adi-vikAra-Sata-kAriNaH // KNarm_2.7 //
+   tajjñairapyaparijñātapadāśchidrapratīkṣiṇaḥ /	tad-jQEH-api-aparijQAta-padAH-Cidra-pratIkziNaH /
+   daṃśakāmā bhujaṅgāste līlākuṭilagāminaḥ // KNarm_2.8 //	daMSa-kAmAH BujaFgAH-te lIlA-kuwila-gAminaH // KNarm_2.8 //
+   śūnyāṃ devakuṭīṃ gatvā prasiddhāḥ pāradārikāḥ /	SUnyAm devakuwIm gatvA prasidDAH pAradArikAH /
+   dvitrāstatsaṅgamopāyaṃ prātiveśmyā vyacintayan // KNarm_2.9 //	dvitrAH-tad-saFgama-upAyam prAtiveSmyA vyacintayan // KNarm_2.9 //
+   eko 'vadattatra viṭaḥ sulabhaiṣā na saṃśayaḥ /	ekaH avadat-tatra viwaH sulaBA-ezA na saMSayaH /
+   khalvāṭaṃ tundilaṃ vṛddhaṃ svapatiṃ sahate katham // KNarm_2.10 //	KalvAwam tundilam vRdDam sva-patim sahate kaTam // KNarm_2.10 //
+   nityapravāsinaṃ lubdhamīrṣyāluṃ suratāsaham /	nitya-pravAsinam lubDam-IrzyAlum surata-asaham /
+   mattacchāgamadāmodaṃ bahalaṣṭhīvinaṃ śaṭham // KNarm_2.11 //	mad-ta=-CAgamada-Amodam baha-lazWIvinam SaWam // KNarm_2.11 //
+   sutoparodhovandhyāyā nāsyā na ca vayaḥkṣayaḥ /	suta-uparoDaH-vanDyAyAH na-asyAH na ca vayaH-kzayaH /
+   na ca duḥkhābhibhūtāsau rāgadagdhā na lakṣyate // KNarm_2.12 //	na ca duHKa-aBiBUtA-asO rAga-dagDA na lakzyate // KNarm_2.12 //
+   etairhi doṣairnāyānti duḥśīlā api yoṣitaḥ /	etEH-hi dozEH-na-AyAnti duHSIlAH api yozitaH /
+   aparaḥ prāha bhavatā sābhiprāyaṃ vicintitam /	aparaH prAha BavatA sa-aBiprAyam vicintitam /
+   pratyāsattyā paricaye kintu yatno vidhīyatām // KNarm_2.13 //	pratyAsattyA paricaye kintu yatnaH viDIyatAm // KNarm_2.13 //
+   vivāhayajñatīrthādidevayātrotsavairvinā /	vivAha-yajQa-tIrTa-Adi-deva-yAtrA-utsavEH-vinA /
+   na labhyate paricayaḥ paradāropasarpaṇe // KNarm_2.14 //	na laByate paricayaH para-dAra-upasarpaNe // KNarm_2.14 //
+   suciraṃ prekṣaṇaṃ lolakuntalottālanaṃ muhuḥ /	su-ciram prekzaNam lola-kuntala-uttAlanam muhur /
+   tatsambaddhāḥ sāpadeśāḥ kathāstyāgaprakāśanam // KNarm_2.15 //	tad-sambadDAH sa-apadeSAH kaTAH-tyAga-prakASanam // KNarm_2.15 //
+   bhogasaubhāgyayaśasāṃ prasiddhipratipādanam /	Boga-sOBAgya-yaSasAm prasidDi-pratipAdanam /
+   mandamandaṃ vacaḥ svairaṃ tadvākyaśravaṇādaraḥ // KNarm_2.16 //	manda-mandam vacaH svEram tad-vAkya-SravaNa-AdaraH // KNarm_2.16 //
+   tanmukhanyastanayanaṃ cumbanāliṅganaṃ śiśoḥ /	tad-muKa-nyasta-nayanam cumbana-AliFganam SiSoH /
+   śilpasampādanaṃ cāsyā vastrālaṅkara*ṇekṣitam // KNarm_2.17 //	Silpa-sampAdanam ca-asyAH vastra-alaFkara-*NA-Ikzitam // KNarm_2.17 //
+   jāte paricaye mālyatāmbūlādisamarpaṇam /	jAte paricaye mAlya-tAmbUla-Adi-samarpaNam /
+   bhittau nipīḍanaṃ gāḍhaṃ vijane paricumbanam // KNarm_2.18 //	BittO nipIxanam gAXam vijane paricumbanam // KNarm_2.18 //
+   guhyasparśo ratiśceti śīlavidhvaṃsayuktayaḥ /	guhya-sparSaH ratiH-ca-iti SIla-viDvaMsa-yuktayaH /
+   itthaṃ kā nāma na mayā kṛtā śīlaparāṅmukhī // KNarm_2.19 //	itTam kA nAma na mayA kRtA SIla-parAFmuKI // KNarm_2.19 //
+   niyogibhāryā labhyaiva sarvadā gamanonmukhī /	niyogi-BAryA laByA-eva sarvadA gamana-unmuKI /
+   %% iti pāradārikaḥ /	%% iti pAradArikaH /
+   athāvadattṛtīyo 'pi svādhīnaṃ sarvameva naḥ /	aTa-avadat-tRtIyaH api svADInam sarvam-eva naH /
+   kintvatra vidhivaimukhyād vighnaḥ samupalakṣyate // KNarm_2.20 //	kintu-atra viDi-vEmuKyAt viGnaH samupalakzyate // KNarm_2.20 //
+   yo 'yaṃ tīkṣṇākṣapaṭale citraguptaviceṣṭitaḥ /	yaH ayam tIkzNa-akza-pawale citragupta-vicezwitaH /
+   niḥśeṣajīvanātaṅkavidhāyī nirguṭāntakaḥ // KNarm_2.21 //	niHSeza-jIvana-AtaFka-viDAyI nirguwa-antakaH // KNarm_2.21 //
+   bhārakocchṛṅkhalāyāsakhaṇḍalekhyādiyuktibhiḥ /	BAraka-ucCRFKala-AyAsa-KaNxa-leKya-Adi-yuktiBiH /
+   nirguṭāḥ prāpitā yena gopālapaśupālatām // KNarm_2.22 //	nirguwAH prApitAH yena gopAla-paSupAla-tAm // KNarm_2.22 //
+   na kālo yadi nāmāsau tat kiṃ jīvanahṛnnṛṇām /	na kAlaH yadi nAma-asO tat kim jIvana-hRt-nRNAm /
+   pakṣā .. .. .. .. .. ścettatkimekāṅganāśanaḥ // KNarm_2.23 //	pakzAH .. .. .. .. .. Scet-tat-kim-eka-aFga-nASanaH // KNarm_2.23 //
+   kiyanto 'dya mṛtāḥ kutra pṛcchanniti muhurmuhuḥ /	kiyantaH adya mRtAH kutra pRcCan=-iti muhur-muhur /
+   mṛtajīvī śvatulyo 'sau bhuṅkte kāpālikavratam // KNarm_2.24 //	mRta-jIvI Sva-tulyaH asO BuFkte kApAlika-vratam // KNarm_2.24 //
+   haraṇodyatahasto 'sau sādhūnāmapi vartane /	haraNa-udyata-hastaH asO sADUnAm-api vartane /
+   sadoṣairdīyate 'smābhirna[ra]kāya tilāñjaliḥ // KNarm_2.25 //	sa-dozEH-dIyate asmABiH-na[ra]kAya tila-aQjaliH // KNarm_2.25 //
+   yadyapyasau snuṣākāmī kalyapālakulojjvalaḥ /	yadi-api-asO snuzA-kAmI kalyapAla-kula-ujjvalaH /
+   tathāpi sarvaḥ sarvajñaḥ paradoṣānudarśane // KNarm_2.26 //	taTA-api sarvaH sarvajQaH para-doza-anudarSane // KNarm_2.26 //
+   athavāstyeva me mitraṃ śaktimānrājavallabhaḥ /	aTavA-asti-eva me mitram SaktimAn-rAja-vallaBaH /
+   vāṅmātreṇaiva naḥ sarvaṃ saṃrakṣiṣyati jīvanam // KNarm_2.27 //	vAc-mAtreNa-eva naH sarvam saMrakzizyati jIvanam // KNarm_2.27 //
+   agāradāhino dhenustrīśiśubrāhmaṇāntakāḥ /	agAra-dAhinaH Denu-strI-SiSu-brAhmaNa-antakAH /
+   bahavo rakṣitāstena digvārtāmātrasevakāḥ // KNarm_2.28 //	bahavaH rakzitAH-tena diS-vArtA-mAtra-sevakAH // KNarm_2.28 //
+   %% iti jīvanadiviraḥ /	%% iti jIvana-diviraH /
+   gṛhaṃ niyogikāntāyāḥ praviśatyatinirbharam /	gRham niyogi-kAntAyAH praviSati-ati-nirBaram /
+   eṣā śramaṇikā nityaṃ kuṭṭanī vajrayoginī // KNarm_2.29 //	ezA SramaNikA nityam kuwwanI vajra-yoginI // KNarm_2.29 //
+   yā mātā vaśyayogānāṃ jārāṇāṃ siddhadūtikā /	yA mAtA vaSya-yogAnAm jArANAm sidDa-dUtikAH /
+   naropapattidīkṣāsu strīṇāṃ samayadevatā // KNarm_2.30 //	nara-upapatti-dIkzAsu strINAm samaya-devatAH // KNarm_2.30 //
+   arundhatīmapi kṣipraṃ pratārayati līlayā /	arunDatIm-api kzipram pratArayati lIlayA /
+   purāṇapuṃścalī sā hi jāhnavīṃ manyate tṛṇam // KNarm_2.31 //	purANa-puMScalI sA hi jAhnavIm manyate tRNam // KNarm_2.31 //
+   sā samīhitamasmākamacireṇa vidhāsyati /	sA samIhitam-asmAkam-acireNa viDAsyati /
+   ityuktvā te yayurdhūrtā vṛddhaśramaṇikāgṛham // KNarm_2.32 //	iti-uktvA te yayuH-DUrtAH vRdDa-SramaNikA-gRham // KNarm_2.32 //
+   śramaṇikā /	SramaNikA /
+   kadācidatha tāmeva harmye hariṇalocanām /	kadAcid-aTa tAm-eva harmye hariNa-locanAm /
+   sattrabhojanapūrṇāṅgaḥ punarāyātayauvanaḥ // KNarm_2.33 //	sattra-Bojana-pUrNa-aFgaH punar-AyAta-yOvanaH // KNarm_2.33 //
+   nirdagdhacandanasphāratilakaḥ pṛthujūṭabhṛt /	nirdagDa-candana-sPAra-tilakaH pRTu-jUwa-BRt /
+   māyūropānadāmandamandarārāvagarvitaḥ // KNarm_2.34 //	mAyUra-upAnadA-manda-mandara-ArAva-garvitaH // KNarm_2.34 //
+   kakṣāntasaṃvṛtapaṭo brāhmaṇānapi na spṛśan /	kakzA-anta-saMvRta-pawaH brAhmaNAn-api na spRSan /
+   re re dāsīsutetyādi janaṃ kopena bhartsayan // KNarm_2.35 //	re re dAsI-sutA-ityAdi janam kopena Bartsayan // KNarm_2.35 //
+   malapatraṃ vahanmūrkho dadarśa maṭhadaiśikaḥ /	mala-patram vahan-mUrKaH dadarSa maWa-dESikaH /
+   sahasā vismayāviṣṭo daṣṭo makaraketunā // KNarm_2.36 //	sahasA vismaya-AvizwaH dazwaH makara-ketunA // KNarm_2.36 //
+   niyogigṛhabālānāmupādhyāyamupetya saḥ /	niyogi-gRha-bAlAnAm-upADyAyam-upetya saH /
+   āyayau māsamūlyena nityamakṣaraśikṣakaḥ // KNarm_2.37 //	AyayO mAsa-mUlyena nityam-akzara-SikzakaH // KNarm_2.37 //
+   labdhapraveśastāmeva dhyāyandhū[rtaḥ] papāṭha saḥ /	labDa-praveSaH-tAm-eva DyAyan-DU[rtaH] papAWa saH /
+   jānannapi lipiṃ sarvāmoṃkāramalikhacchanaiḥ // KNarm_2.38 //	jAnan=-api lipim sarvAm-oMkAram-aliKat-SanEs // KNarm_2.38 //
+   kautukādgṛhanārībhirvṛtastasthau tadunmukhaḥ /	kOtukAt-gRha-nArIBiH-vRtaH-tasTO tad-unmuKaH /
+   upādhyāyo 'pi dīnāragaṇanāṃ vidadhaddhiyā // KNarm_2.39 //	upADyAyaH api dInAra-gaNanAm vidaDat-DiyA // KNarm_2.39 //
+   aṣṭāvatārastotreṇa sarvajña iva garvitaḥ /	azwa-avatAra-stotreNa sarvajQaH iva garvitaH /
+   daiśikaṃ pāṭhayāmīti so 'bhūdadhikamuddhataḥ // KNarm_2.40 //	dESikam pAWayAmi-iti saH aBUt-aDikam-udDataH // KNarm_2.40 //
+   pāntu no bhagavatpādā jaghanyajanavatsalāḥ /	pAntu naH Bagavat-pAdAH jaGanya-jana-vatsalAH /
+   paralokasya hantāro gamane kṣemakāriṇaḥ // KNarm_2.41 //	para-lokasya hantAraH gamane kzema-kAriNaH // KNarm_2.41 //
+   bhābhūto kuṅkumārdrau ^ ^ ^ ^ ^ _ rainaisaddṛśau	BABUtaH kuFkuma-ArdrO ^ ^ ^ ^ ^ _ rEnA-esat-dRSO
+   _ _ _ _ ^ _ _ ^ ^ ^ musimusi lakṣaṇau phenaparvau /	_ _ _ _ ^ _ _ ^ ^ ^ musi-musi lakzaNO Pena-parvO /
+   _ _ _ _ ^ _ _ maṇikanakadharau divyagandhānuliptau	_ _ _ _ ^ _ _ maNi-kanaka-DarO divya-ganDa-anuliptO
+   saṅgrāmeṇa praviṣṭau palupa ^ ^ ^ nau labhyatāṃ rājyalakṣmīḥ // KNarm_2.42	saFgrAmeNa pravizwO palupa ^ ^ ^ nO laByatAm rAjya-lakzmIH // KNarm_2.42
+   gaṅgāyamunayorbilvavṛṣabhaṃ *pūrṇakumbhayoḥ /	gaFgA-yamunayoH-bilva-vRzaBam *pUrNa-kumBayoH /
+   pañcacandana lī paṭṭabandhaṃ bhaviṣyati (?) // KNarm_2.43 //	paQcacandana lI pawwabanDam Bavizyati (?) // KNarm_2.43 //
+   ityādi dattvā bālānāṃ nityaṃ phalahakeṣu saḥ /	ityAdi dattvA bAlAnAm nityam Pala-hakezu saH /
+   varṣaṃ tiṣṭhati niḥśaṃko gaṇayanmāsavetanam // KNarm_2.44 //	varzam tizWati niHSaMkaH gaNayan-mAsa-vetanam // KNarm_2.44 //
+   kartanaṃ likhanaṃ sūcīpaṭṭikāvānamauṣadham /	kartanam liKanam sUcI-pawwikA-vAnam-OzaDam /
+   kurvanna *vetti purataḥ sthitānno vā kumārakān // KNarm_2.45 //	kurvan-na *vetti puratas sTitAn-naH vA kumArakAn // KNarm_2.45 //
+   upādhyāyetyabhihito vakti krodhāgninā jvalan /	upADyAya-iti-aBihitaH vakti kroDa-agninA jvalan /
+   gāndharvikaścarmakṛdvā kiṃ tavāsmīti niṣṭhuraḥ // KNarm_2.46 //	gAnDarvikaH-carmakRt-vA kim tava-asmi-iti nizWuraH // KNarm_2.46 //
+   %% iti dārkopādhyāyaḥ /	%% iti dArka-upADyAyaH /
+   sasmitaṃ sasmitālāpaṃ muhurgoṣṭhīvidhāyinam /	sa-smitam sa-smita-AlApam muhur-gozWI-viDAyinam /
+   niyogikāntā paśyantī daiśikaṃ nācalat tataḥ // KNarm_2.47 //	niyogikAntA paSyantI dESikam na-acalat tatas // KNarm_2.47 //
+   sa bhāṣāṃ buddhyamāno 'pi tattatstrībhirudāhṛtām /	sa BAzAm budDyamAnaH api tad-tad-strIBiH-udAhRtAm /
+   kiṃ bhaṇantīti papraccha prollasadbhrūlato muhuḥ // KNarm_2.48 //	kim BaNanti-iti papracCa prollasat-BrU-lataH muhur // KNarm_2.48 //
+   sa tābhirnarmasotprāsasādhikṣepaviḍambanaiḥ /	sa tABiH-narmasA-utprAsa-sADi-kzepa-vixambanEH /
+   āyāsyamāno mattābhirabhūtprahasitānanaḥ // KNarm_2.49 //	AyAsyamAnaH mattABiH-aBUt-prahasita-AnanaH // KNarm_2.49 //
+   nāyaṃ kiñcinmahābhāgo jānāti na ca budhyate /	na-ayam kiQcid-mahABAgaH jAnAti na ca buDyate /
+   iti no bhejire lajjā vivastrā api tasya tāḥ // KNarm_2.50 //	iti naH Bejire lajjA vivastrAH api tasya tAH // KNarm_2.50 //
+   ṛṣyaśṛṅgavrataḥ so 'tha vi .. .. .. .. .. .. .. /	RzyaSRFga-vrataH saH aTa vi .. .. .. .. .. .. .. /
+   tāsāṃ goṣṭhīrasābhijñaḥ stanau pasparśa pāṇinā // KNarm_2.51 //	tAsAm gozWI-rasa-aBijQaH stanO pasparSa pANinA // KNarm_2.51 //
+   sa bījāśva ivotsṛṣṭo vaḍavāmaṇḍale yuvā /	sa bIja-aSvaH iva-utsRzwaH vaxavA-maNxale yuvA /
+   siṣeve lalanāḥ sarvāḥ proṣitasya niyoginaḥ // KNarm_2.52 //	sizeve lalanAH sarvAH prozitasya niyoginaH // KNarm_2.52 //
+   bhrātṛjāyāṃ svasāraṃ ca tāṃ ca bhāryāṃ mṛgīdṛśam /	BrAtR-jAyAm svasAram ca tAm ca BAryAm mRgI-dRSam /
+   anyāścāsya sadā svairamakāmayata daiśikaḥ // KNarm_2.53 //	anyAH-ca-asya sadA svEram-akAmayata dESikaH // KNarm_2.53 //
+   tāstena jāraguruṇā kṛtadīkṣā varāṅganāḥ /	tAH-tena jAra-guruNA kRta-dIkzAH vara-aFganAH /
+   babhūvuḥ sarvagāminyo nirvikalpavrate sthitāḥ // KNarm_2.54 //	baBUvuH sarva-gAminyaH nirvikalpa-vrate sTitAH // KNarm_2.54 //
+   %% iti maṭhadaiśikaḥ /	%% iti maWa-dESikaH /
+   tayā śramaṇikādūtyā tataste 'pi kṛtodyamāḥ /	tayA SramaNikA-dUtyA tatas-te api kRta-udyamAH /
+   dhūrtāḥ svādhīnatāṃ prāptāṃ svairiṇīṃ tāṃ siṣevire // KNarm_2.55 //	DUrtAH svADIna-tAm prAptAm svEriNIm tAm sizevire // KNarm_2.55 //
+   athādhikārī taruṇīṃ sotkaṇṭhastāṃ smaranpriyām /	aTa-aDikArI taruNIm sa-utkaNWaH-tAm smaran-priyAm /
+   bhṛtavastro viveśāśu mithyāgrāmacikitsayā // KNarm_2.56 //	BRta-vastraH viveSa-ASu miTyA-grAma-cikitsayA // KNarm_2.56 //
+   sa sevārthaṃ samānītaghṛtamākṣikasarpiṣā /	sa sevA-arTam samAnIta-GRta-mAkzika-sarpizA /
+   bhārikairdhanikairbhītyā nagaraṃ samapūrayat // KNarm_2.57 //	BArikEH-DanikEH-BItyA nagaram samapUrayat // KNarm_2.57 //
+   prāptaṃ vilokya sucirāttaṃ dṛṣṭānekakāmukā /	prAptam vilokya su-cirAt-tam dRzwa-aneka-kAmukAH /
+   pīvaraṃ grāmyamāsannarogaṃ pūrṇamivāmbunā // KNarm_2.58 //	pIvaram grAmyam-Asanna-rogam pUrNam-iva-ambunA // KNarm_2.58 //
+   tāṃ ca meṣaghṛtāmikṣākilāṭamadhusampadam /	tAm ca meza-GRta-AmikzA-kilAwa-maDu-sampadam /
+   rurodaikena netreṇa jahāsānyena tadvadhūḥ // KNarm_2.59 //	ruroda-ekena netreNa jahAsa-anyena tad-vaDUH // KNarm_2.59 //
+   idaṃ suruciraṃ vastraṃ krītamābharaṇañca te /	idam su-ruciram vastram krItam-ABaraNaQca te /
+   tasyetivādino dṛptā sā cakre sarvamaśrutam // KNarm_2.60 //	tasya-iti-vAdinaH dRptA sA cakre sarvam-aSrutam // KNarm_2.60 //
+   sā śirovedanāvyājanibaddhābhyaṅgapaṭṭikā /	sA SiraH-vedanA-vyAja-nibadDa-aByaFga-pawwikA /
+   stanantī sasvanaṃ patyurnābhavatpārśvavartinī // KNarm_2.61 //	stanantI sa-svanam patyuH-na-aBavat-pArSva-vartinI // KNarm_2.61 //
+   tato vācāla[vā]cālamālākalakalākule /	tatas vAcAla-[vA]cAla-mAlA-kalakalA-Akule /
+   gṛhe tasyābhavadvyagragrāma[dā]se mahotsavaḥ // KNarm_2.62 //	gRhe tasya-aBavat-vyagra-grAma[-dA]se mahA-utsavaH // KNarm_2.62 //
+   dinānte bahubhaktāśī lohitāsavadurmadaḥ /	dina-ante bahu-Bakta-ASI lohita-Asava-durmadaH /
+   niyogī śayane tasthau kumbhakarṇa ivāparaḥ // KNarm_2.63 //	niyogI Sayane tasTO kumBakarNaH iva-aparaH // KNarm_2.63 //
+   atha kṛcchrādivābhyetya rātriśeṣe tadaṅganā /	aTa kRcCrAt-iva-aByetya rAtri-Seze tad-aFganA /
+   āliṅgane samudvignā cumbane valitānanā // KNarm_2.64 //	AliFgane samudvignA cumbane valita-AnanAH // KNarm_2.64 //
+   rundhānā jaghanasparśamūrusvastikaniścalā /	runDAnA jaGana-sparSam-Uru-svastika-niScalAH /
+   gṛhavyāpārakhinneva nidrāṃ cakre mudhaiva sā // KNarm_2.65 //	gRha-vyApAra-KinnA-iva nidrAm cakre muDA-eva sA // KNarm_2.65 //
+   tataḥ prabhāte prasṛte bhūrjabhāṇḍādike puraḥ /	tatas praBAte prasRte BUrja-BANxa-Adike puras /
+   vadantī sarvagātreṣu śūlaṃ sāpyakarotklamam // KNarm_2.66 //	vadantI sarva-gAtrezu SUlam sA-api-akarot-klamam // KNarm_2.66 //
+   athāhūtaḥ parijanairvaidyo madyāmiṣapriyaḥ /	aTa-AhUtaH parijanEH-vEdyaH madya-Amiza-priyaH /
+   nidhiṃ hastagataṃ daivānmanyamānaḥ samāyayau // KNarm_2.67 //	niDim hasta-gatam dEvAt-manyamAnaH samAyayO // KNarm_2.67 //
+   %% sabhārtṛkā /	%% saBArtRkA /
+   namo vidyāvihīnāya vaidyāyāvadyakāriṇe /	namaH vidyA-vihInAya vEdyAya-avadya-kAriNe /
+   nihatānekalokāya *sarpāyevāpamṛtyave // KNarm_2.68 //	nihata-aneka-lokAya *sarpAya-iva-apamRtyave // KNarm_2.68 //
+   bhrānto gṛhaśataṃ tūrṇaṃ bhārākrānta ivocchvasan /	BrAntaH gRha-Satam tUrNam BAra-AkrAntaH iva-ucCvasan /
+   lalāṭasvedasalilaṃ pāṇinā vikṣipanmuhuḥ // KNarm_2.69 //	lalAwa-sveda-salilam pANinA vikzipan-muhur // KNarm_2.69 //
+   vahannauṣadhasaṅketanāmasaṃyogacīrikām /	vahan=-OzaDa-saFketa-nAma-saMyoga-cIrikAm /
+   kṛtāntādhikṛtasyāgrādyaḥ prāyastha ivāgataḥ // KNarm_2.70 //	kRtAnta-aDikRtasya-agra-AdyaH prAya-sTaH iva-AgataH // KNarm_2.70 //
+   cikitsako 'rthaprāṇānāṃ vyādhīnāmacikitsakaḥ /	cikitsakaH arTa-prANAnAm vyADInAm-acikitsakaH /
+   ājīvamīśvaraḥ śūlī yena na tyajyate janaḥ // KNarm_2.71 //	AjIvam-ISvaraH SUlI yena na tyajyate janaH // KNarm_2.71 //
+   sa vaidyaḥ kālakūṭo vā vyālo vetāla eva vā /	sa vEdyaH kAlakUwaH vA vyAlaH vetAlaH eva vA /
+   bhūyasā yāti māṃsena yaḥ kṣipramanukūlatām // KNarm_2.72 //	BUyasA yAti mAMsena yaH kzipram-anukUla-tAm // KNarm_2.72 //
+   sa vaidya eva kupito vāyurāyuḥkṣayaṅkaraḥ /	sa vEdyaH eva kupitaH vAyuH-AyuH-kzayaFkaraH /
+   hastasparśena trimalakṣālakaḥ kṣapitendriyaḥ // KNarm_2.73 //	hasta-sparSena tri-malakzAlakaH kzapita-indriyaH // KNarm_2.73 //
+   kṛcchrasannyāsakṛtpuṃsāṃ prāṇācāryaḥ kimucyate /	kRcCra-sannyAsa-kRt-puMsAm prANa-AcAryaH kim-ucyate /
+   sthitaṃ bhuktaṃ nu pītaṃ nu vaidyeneti pralāpinaḥ // KNarm_2.74 //	sTitam Buktam nu pItam nu vEdyena-iti pralApinaH // KNarm_2.74 //
+   yā .. vidhatte yatnena bhiṣagārtopajīvakaḥ /	yAH .. viDatte yatnena Bizaj-Arta-upajIvakaH /
+   nagarotsavayātrāsu vivāheṣvatibhojanāt /	nagara-utsava-yAtrAsu vivAhezu-ati-BojanAt /
+   janatā yāti yanmāndyaṃ tadvaidyasya śaneḥ phalam // KNarm_2.75 //	janatA yAti yat-mAndyam tad-vEdyasya SaneH Palam // KNarm_2.75 //
+   guhyāṅgasparśakṛtstrīṇāṃ bahvāśī jīvitāpahaḥ /	guhya-aFga-sparSa-kRt-strINAm bahu-ASI jIvita-apahaH /
+   nṛṇāṃ tridoṣakṛtsatyaṃ vaidya eva na tu jvaraḥ // KNarm_2.76 //	nRNAm tridoza-kRt-satyam vEdyaH eva na tu jvaraH // KNarm_2.76 //
+   vidyāvirahitā vaidyāḥ kāyasthāḥ prabhaviṣṇavaḥ /	vidyA-virahitAH vEdyAH kAyasTAH praBavizNavaH /
+   durācārāśca guravaḥ prajānāṃ kṣayahetavaḥ // KNarm_2.77 //	durAcArAH-ca guravaH prajAnAm kzaya-hetavaH // KNarm_2.77 //
+   upasṛtya sa pasparśa stanau tasyāḥ susaṃhatau /	upasRtya sa pasparSa stanO tasyAH su-saMhatO /
+   kaṭhinau satatasparśau khalaḥ khalatarāviva // KNarm_2.78 //	kaWinO satata-sparSO KalaH Kala-tarO=-iva // KNarm_2.78 //
+   laṅghanaṃ sahate naiṣā hitaṃ śūle na vṛṃhaṇam /	laFGanam sahate na-ezA hitam SUle na vRMhaNam /
+   karotu mama cintāsu sarvāhāraṃ mayā saha // KNarm_2.79 //	karotu mama cintAsu sarva-AhAram mayA saha // KNarm_2.79 //
+   jaḍā hyasyāḥ sthitā buddhirdhātuśca viṣamaḥ sthitaḥ /	jaxAH hi-asyAH sTitA budDiH-DAtuH-ca vizamaH sTitaH /
+   {tasmātsnigdhā dadhi} pūrvamatra yojyaṃ saśarkaram // KNarm_2.80 //	{tasmAt-snigDA daDi} pUrvam-atra yojyam sa-Sarkaram // KNarm_2.80 //
+   ityukte vaidyanāthena strībhiḥ tūrṇaṃ sasambhramam /	iti-ukte vEdyanATena strIBiH tUrNam sa-samBramam /
+   āhūtaḥ pādapatanairjyotirgaṇaka āyayau // KNarm_2.81 //	AhUtaH pAda-patanEH-jyotiH-gaNakaH AyayO // KNarm_2.81 //
+   %% vaidyaḥ /	%% vEdyaH /
+   jyotiḥśāstravide tasmai namo 'stu jñānacakṣuṣe /	jyotiHSAstra-vide tasmE namaH astu jQAna-cakzuze /
+   varṣaṃ pṛcchatyavarṣaṃ vā dhīvarānyo vinaṣṭadhīḥ // KNarm_2.82 //	varzam pRcCati-avarzam vA DIvarAn-yaH vinazwa-DIH // KNarm_2.82 //
+   grahanakṣatratārāṇāṃ saṃkhyāne 'pyakṛtaśramaḥ /	graha-nakzatra-tArANAm saMKyAne api-akRta-SramaH /
+   atītānāgatajñānadambhāya malapatrabhṛt // KNarm_2.83 //	atIta-anAgata-jQAna-damBAya mala-patra-BRt // KNarm_2.83 //
+   tava varṣatrayīmadhye kaścidvittavyayo bhavet /	tava varza-trayI-maDye kaScid-vitta-vyayaH Bavet /
+   jvaraśca netrapīḍā ca lābhāṃśo 'pyavicintitaḥ // KNarm_2.84 //	jvaraH-ca netra-pIxA ca lABa-aMSaH api-avicintitaH // KNarm_2.84 //
+   na kaścidupakāraṃ te manyate śatravaśca te /	na kaScid-upakAram te manyate SatravaH-ca te /
+   santi tebhyo bhayaṃ deharakṣāyāṃ naiva bādhate // KNarm_2.85 //	santi teByaH Bayam deha-rakzAyAm na-eva bADate // KNarm_2.85 //
+   durbalo dṛśyase bhrātaryūṣaṃ na kuruṣe katham /	durbalaH dRSyase BrAtar-yUzam na kuruze kaTam /
+   apyasti kāmalā nūnaṃ tāṃ mantreṇa nudāmyaham // KNarm_2.86 //	api-asti kAmalA nUnam tAm mantreNa nudAmi-aham // KNarm_2.86 //
+   iti sādhāraṇajñānamantravaidyakamiśritam /	iti sADAraNa-jQAna-mantra-vEdyaka-miSritam /
+   jyotiḥśāstraṃ vigaṇayanyo muṣṇāti jaḍāśayān // KNarm_2.87 //	jyotiHSAstram vigaNayan-yaH muzNAti jaxASayAn // KNarm_2.87 //
+   prāṅniyogivadhūvṛttaṃ jānannapi janaśrutam /	prAc-niyogi-vaDU-vRttam jAnan=-api jana-Srutam /
+   dhūrto dhūlipaṭe cakre rāśicakraṃ mudhaiva saḥ // KNarm_2.88 //	DUrtaH DUli-pawe cakre rASi-cakram muDA-eva saH // KNarm_2.88 //
+   kṣipte niyoginā tatra dīnārakusumotkare /	kzipte niyoginA tatra dInAra-kusuma-utkare /
+   dambhastabdhaściraṃ tasthau svāṅgulīgaṇanāparaḥ // KNarm_2.89 //	damBa-stabDaH-ciram tasTO sva-aFgulI-gaNanA-paraH // KNarm_2.89 //
+   tato 'vadanmandamandaṃ protkṣiptabhrūlato muhuḥ /	tatas avadat-manda-mandam protkzipta-BrU-lataH muhur /
+   iyamāpāṇḍuramukhī ratikāmena pīḍitā // KNarm_2.90 //	iyam-ApANxura-muKI rati-kAmena pIxitA // KNarm_2.90 //
+   durnivāraśca nārīṇāṃ piśāco ratirāgakṛt /	durnivAraH-ca nArINAm piSAcaH rati-rAga-kRt /
+   punaḥ śūnyagṛhe snātā guhyakena nirambarā /	punar SUnya-gRhe snAtA guhyakena nirambarAH /
+   gṛhītetyatra paśyāmi cakre śukrasamāgamāt // KNarm_2.91 //	gRhItA-iti-atra paSyAmi cakre Sukra-samAgamAt // KNarm_2.91 //
+   %% iti gaṇakaḥ /	%% iti gaNakaH /
+   tataḥ prayāte gaṇake cintite śukrapūjane /	tatas prayAte gaNake cintite Sukra-pUjane /
+   niryatpalālapūlīkaḥ pādato dhūlidhūsaraḥ // KNarm_2.92 //	niryad-palAla-pUlIkaH pAdataH DUli-DUsaraH // KNarm_2.92 //
+   dāmabaddhakaṭirgrāmyaḥ śīrṇaniṣka .. .. lakaḥ /	dAma-badDa-kawiH-grAmyaH SIrNa-nizka .. .. lakaH /
+   visṛṣṭaṃ tatsahāyena dadau lekhaṃ niyoginaḥ // KNarm_2.93 //	visRzwam tad-sahAyena dadO leKam niyoginaH // KNarm_2.93 //
+   eḍikāvyapadeśena gāvaḥ pādairhṛtā daśa /	exikA-vyapadeSena gAvaH pAdEH-hRtAH daSa /
+   tāsāṃ madhyān mṛtāḥ pañca pañca śeṣāḥ sthitāḥ khale // KNarm_2.94 //	tAsAm maDyAt mRtAH paQca paQca SezAH sTitAH Kale // KNarm_2.94 //
+   tanmuktaye tvarāyātāḥ sahanto 'pi dinatrayam /	tad-muktaye tvarA-AyAtAH sahantaH api dina-trayam /
+   tadabhāve 'pi lābhaste grāme daṇḍaḥ patiṣyati // KNarm_2.95 //	tad-aBAve api lABaH-te grAme daNxaH patizyati // KNarm_2.95 //
+   ghṛtanāḍīnimittena yaścāsau bandhane dhṛtaḥ /	GRta-nAxI-nimittena yaH-ca-asO banDane DRtaH /
+   so 'pi vipro nirāhārastīkṣṇaḥ pañcatvamāgataḥ // KNarm_2.96 //	saH api vipraH nirAhAraH-tIkzNaH paQcatvam-AgataH // KNarm_2.96 //
+   pādāntike ca prahitaṃ tasya pradhanapatrakam /	pAda-antike ca prahitam tasya praDana-patrakam /
+   baddhaṃ mayā tatkalatraṃ mudritaṃ sakalaṃ gṛham // KNarm_2.97 //	badDam mayA tad-kalatram mudritam sakalam gRham // KNarm_2.97 //
+   yānskandhakanimittena prāyasthānparipālakaḥ /	yAn-skanDaka-nimittena prAya-sTAn-paripAlakaH /
+   pradadau māsavṛttyaiva te mayā tadgṛhe dhṛtāḥ // KNarm_2.98 //	pradadO mAsa-vRttyA-eva te mayA tad-gRhe DRtAH // KNarm_2.98 //
+   dhānyarāśiḥ prabhūto 'sti tūrṇamāgamyatāmiha /	DAnya-rASiH praBUtaH asti tUrNam-AgamyatAm-iha /
+   tātparyamiti vijñaptāḥ pādā jyeṣṭhārkavāsare // KNarm_2.99 //	tAtparyam-iti vijQaptAH pAdAH jyezWa-arka-vAsare // KNarm_2.99 //
+   %% khvāśapatiḥ tūṇarakṣako /	%% KvASa-patiH tUNa-rakzakaH /
+   vācayannityasau lekhaṃ tasya karmaṇyatāṃ *tataḥ /	vAcayan=-iti-asO leKam tasya karmaNya-tAm *tatas /
+   praśaśaṃsa sahāyasya niyogī harṣanirbharaḥ // KNarm_2.100 //	praSaSaMsa sahAyasya niyogI harza-nirBaraH // KNarm_2.100 //
+   so 'bhūtpūrvataraṃ bauddhastato dambhāya vaiṣṇavaḥ /	saH aBUt-pUrvataram bOdDaH-tatas damBAya vEzNavaH /
+   rakṣārthamatha bhāryāyā jātakaulāgamādaraḥ // KNarm_2.101 //	rakzA-arTam-aTa BAryAyAH jAta-kOla-Agama-AdaraH // KNarm_2.101 //
+   ānināya guruṃ garvadambhalobhaniketanam /	AninAya gurum garva-damBa-loBa-niketanam /
+   māyākuhakalaulyānāṃ dīkṣāsamayamaṇḍalam // KNarm_2.102 //	mAyA-kuhaka-lOlyAnAm dIkzA-samaya-maNxalam // KNarm_2.102 //
+   namaste gurunāthāya dhanadārāpahāriṇe /	namaH-te guru-nATAya Dana-dAra-apahAriNe /
+   kṣobhiṇe sarvabhakṣāya yakṣāyeva kṣapāśine // KNarm_2.103 //	kzoBiNe sarva-BakzAya yakzAya-iva kzapA-Sine // KNarm_2.103 //
+   *bhālanyastārdhasindūrapattrikāpuṣpagucchakaḥ /	*BAla-nyasta-arDa-sindUrapattrikA-puzpa-gucCakaH /
+   bi[ndū]pabindunityārdramahālālāṭakarparaḥ // KNarm_2.104 //	bi[ndU]pabindu-nitya-Ardra-mahA-lAlAwa-karparaH // KNarm_2.104 //
+   karṇamūlaśikhāmātragrathitasvalpajūṭikaḥ /	karNa-mUla-SiKA-mAtragraTita-svalpa-jUwikaH /
+   kuṅkumāṅkitakarṇāgraḥ kācarākṣo mahāhanuḥ // KNarm_2.105 //	kuFkuma-aFkita-karNa-agraH kAcara-akzaH mahA-hanuH // KNarm_2.105 //
+   khalvāṭo viralaśmaśrurdīrghavākpraskhalankvacit /	KalvAwaH virala-SmaSruH-dIrGa-vAc-prasKalan-kvacid /
+   bibhrāṇo vadanaṃ vṛddhamahiṣībhagavibhramam // KNarm_2.106 //	biBrANaH vadanam vRdDa-mahizI-Baga-viBramam // KNarm_2.106 //
+   kṣaṇātpibati yo madyaghaṭaṃ ghaṭaghaṭāravaiḥ /	kzaNAt-pibati yaH madya-Gawam Gawa-Gawa-AravEH /
+   tasya kaṇṭhapraṇālasya sthaulyaṃ kenopamīyatām // KNarm_2.107 //	tasya kaNWa-praNAlasya sTOlyam kena-upamIyatAm // KNarm_2.107 //
+   madyamāṃsadurāmodamalinaṃ yogapaṭṭakam /	madya-mAMsa-durAmoda-malinam yoga-pawwakam /
+   dadhānaḥ stanasampūrṇaṃ vakṣasā *rākṣasākṛtiḥ // KNarm_2.108 //	daDAnaH stana-sampUrNam vakzasA *rAkzasa-AkRtiH // KNarm_2.108 //
+   sindūrapūrṇagambhīranābhirandhropaśobhitaḥ /	sindUra-pUrNa-gamBIra-nABi-ranDra-upaSoBitaH /
+   lopikāpūpa*śapharāmikṣābhṛtamahodaraḥ // KNarm_2.109 //	lopikA-pUpa*SaPara-AmikzA-BRta-mahodaraH // KNarm_2.109 //
+   madhumāṃsakṛtājīrṇapratyagrāmodaduḥsahān /	maDu-mAMsa-kRta-ajIrNa-pratyagra-Amoda-duHsahAn /
+   dhūmodgāra*gaḍatkārānmuñcanmegha ivākulaḥ // KNarm_2.110 //	DUma-udgAra*-gaxatkArAt-muQcan-meGaH iva-AkulaH // KNarm_2.110 //
+   gururgurutarāvidyāvadyamadyamadāndhadhīḥ /	guruH-gurutara-avidyA-vadya-madya-mada-anDa-DIH /
+   ahaṃkāra ivākāramāgataḥ pratyadṛśyata // KNarm_2.111 //	ahaMkAraH iva-AkAram-AgataH pratyadRSyata // KNarm_2.111 //
+   ākāreṇa gururguruśca vacasā kausīdyamaurkhyairgurur	AkAreNa guruH-guruH-ca vacasA kOsIdya-mOrKyEH-guruH-
+   meḍhreṇātigurustathāsyakuharaśmaśrūdarasphigguruḥ /	meXreNa-ati-guruH-taTA-Asya-kuhara-SmaSru-udara-sPik-guruH /
+   veśyākāminiyogivañcanaguruḥ sadvṛttaśūnyo guruś	veSyA-kAmi-niyogi-vaQcana-guruH sat-vRtta-SUnyaH guru-H-
+   citraṃ sarvaguruḥ śivoditamahāśikṣāsu nityaṃ laghuḥ // KNarm_2.112 //	citram sarva-guruH Siva-udita-mahA-SikzAsu nityam laGuH // KNarm_2.112 //
+   api nāma sa jāyeta pavitracaritaḥ kṣitau /	api nAma sa jAyeta pavitra-caritaH kzitO /
+   aśaucanidhayo yena guravo nopasevitāḥ // KNarm_2.113 //	aSOca-niDayaH yena guravaH na-upasevitAH // KNarm_2.113 //
+   ahaṃpūrvikayā sarve patitāstasya pādayoḥ /	ahaMpUrvikayA sarve patitAH-tasya pAdayoH /
+   cakruḥ śirobhirbhūkampaluṭhatpiṭharakabhramam // KNarm_2.114 //	cakruH SiroBiH-BUkampa-luWat-piWaraka-Bramam // KNarm_2.114 //
+   rakṣāyai nijabhāryāyāḥ sampadāṃ ca vivṛddhaye /	rakzAyE nija-BAryAyAH sampadAm ca vivRdDaye /
+   niyoginā yāgavidhau vijñapto bhagavānguruḥ // KNarm_2.115 //	niyoginA yAga-viDO vijQaptaH BagavAn-guruH // KNarm_2.115 //
+   likhitvā kuṅkumenāśu svalpasambhāracīrikām /	liKitvA kuFkumena-ASu su-alpa-samBAra-cIrikAm /
+   hṛṣṭaḥ prātaḥ sameṣyāmītyuktvā prāyātsahānugaiḥ // KNarm_2.116 //	hRzwaH prAtar samezyAmi-iti-uktvA prAyAt-saha-anugEH // KNarm_2.116 //
+   %% guruḥ /	%% guruH /
+   śvaśuro yāgasambhāre yatnāhūto niyoginā /	SvaSuraH yAga-samBAre yatna-AhUtaH niyoginA /
+   *pāpī dharmādhikaraṇadiviro 'tha samāyayau // KNarm_2.117 //	*pApI Darma-aDikaraNa-diviraH aTa samAyayO // KNarm_2.117 //
+   tasmai namo 'stu nagarācāryavaryāya bhogine /	tasmE namaH astu nagara-AcArya-varyAya Bogine /
+   yasya haste sthitā bhūmiḥ saśailavanakānanā // KNarm_2.118 //	yasya haste sTitA BUmiH sa-SEla-vana-kAnanA // KNarm_2.118 //
+   karoti praśrayaṃ vakti madhuraṃ diviraḥ puraḥ /	karoti praSrayam vakti maDuram diviraH puras /
+   jaracchagalaśṛṅgābhāṃ na ca tyajati vakratām // KNarm_2.119 //	jarat-Cagala-SRFga-ABAm na ca tyajati vakra-tAm // KNarm_2.119 //
+   kalamāṅkitakarṇena bhūrjapatrakapāṇinā /	kalama-aFkita-karNena BUrja-patraka-pANinA /
+   āsthānadivireṇeyaṃ grastā bhagavatī mahī // KNarm_2.120 //	AsTAna-divireNa-iyam grastA BagavatI mahI // KNarm_2.120 //
+   mithyā mahāvarāheṇa daityeṣvāḍambaraḥ kṛtaḥ /	miTyA mahAvarAheNa dEtyezu-AxambaraH kRtaH /
+   āsthānadivirairgrastā yadiyaṃ noddhṛtā kṣitiḥ // KNarm_2.121 //	AsTAna-divirEH-grastA yat-iyam na-udDRtA kzitiH // KNarm_2.121 //
+   utthāya veśyāśayanātprabhāte madyaghūrṇitaḥ /	utTAya veSyA-SayanAt-praBAte madya-GUrNitaH /
+   dhanārthī diviraḥ śastamukhaṃ draṣṭuṃ pratīkṣate // KNarm_2.122 //	Dana-arTI diviraH Sasta-muKam drazwum pratIkzate // KNarm_2.122 //
+   nūnaṃ niśi bhagāpānaṃ karoti diviraḥ sadā /	nUnam niSi Baga-apAnam karoti diviraH sadA /
+   prātaḥ prātarmṛdā vaktraṃ kṣālayatyanyathā katham // KNarm_2.123 //	prAtar prAtar-mRdA vaktram kzAlayati-anyaTA kaTam // KNarm_2.123 //
+   snāto mṛddarbhatilabhṛtkaroti suciraṃ japam /	snAtaH mRd-darBa-tila-BRt-karoti su-ciram japam /
+   diviraḥ kūṭasaṃketapaṭīpātrāṇi cintayan // KNarm_2.124 //	diviraH kUwa-saMketa-pawI-pAtrANi cintayan // KNarm_2.124 //
+   vipraṃ puraḥ samāyāntaṃ thūtkṛtya tvaritaḥ punaḥ /	vipram puras samAyAntam TUtkRtya tvaritaH punar /
+   praviśya gehaṃ niryāti śaṅkamānaḥ parābhavam // KNarm_2.125 //	praviSya geham niryAti SaFkamAnaH parABavam // KNarm_2.125 //
+   śrīkāmo gomayabhrāntyā vandate śvaśakṛtpathi /	SrI-kAmaH gomaya-BrAntyA vandate Sva-SakRt-paTi /
+   puraścāptāṃ siddhikāmaścaṇḍālīṃ sakaraṇḍakām // KNarm_2.126 //	puras-ca-AptAm sidDi-kAmaH-caNxAlIm sa-karaNxakAm // KNarm_2.126 //
+   suprabhātatarāyātaiḥ sakaṣṭaśaṭilairvṛtaḥ /	su-praBAtatara-AyAtEH sa-kazwa-SawilEH-vRtaH /
+   āsthānaṃ yāti kalayanbhṛṣṭamāṃsaṃ sapānakam // KNarm_2.127 //	AsTAnam yAti kalayan-BRzwa-mAMsam sa-pAnakam // KNarm_2.127 //
+   bhūrja*peṭalaḍatklinnamaṣī subhṛtabhājanaḥ /	BUrja*-pewa-laxat-klinna-mazI su-BRta-BAjanaH /
+   kathayanniva gandhena bhāvinīṃ narakasthitim // KNarm_2.128 //	kaTayan=-iva ganDena BAvinIm naraka-sTitim // KNarm_2.128 //
+   maṣīviṣārdrayā nighnansādhūnkalamadaṃṣṭrayā /	mazI-viza-ArdrayA niGnan-sADUn-kalama-daMzwrayA /
+   āsthānajaladherantardiviro makarāyate // KNarm_2.129 //	AsTAna-jalaDeH-antar-diviraH makarAyate // KNarm_2.129 //
+   tanmaṣīvipruṣastasya dṛśyante kalamacyutāḥ /	tad-mazI-vipruzaH-tasya dRSyante kalama-cyutAH /
+   bhuvo viluṇṭhyamānāyāḥ sāñjanāśrukaṇā iva // KNarm_2.130 //	BuvaH viluNWyamAnAyAH sa-aQjana-aSru-kaNAH iva // KNarm_2.130 //
+   adhomukhā vimānebhyaḥ patanto divi rodanam /	aDomuKAH vimAneByaH patantaH divi rodanam /
+   kurvanti pitarastasya yo bhuṅkte divirodanam // KNarm_2.131 //	kurvanti pitaraH-tasya yaH BuFkte divirodanam // KNarm_2.131 //
+   jāmātuḥ śrīmato dṛṣṭvā sa gṛhaṃ harṣanirbharaḥ /	jAmAtuH SrImataH dRzwvA sa gRham harza-nirBaraH /
+   acintayatkadāsyāpi ṣaṭirdaivādbhavediti // KNarm_2.132 //	acintayat-kadA-asya-api zawiH-dEvAt-Bavet-iti // KNarm_2.132 //
+   %% āsthānadiviraḥ /	%% AsTAna-diviraH /
+   tatsaṅgatyāpyadṛśyanta bhūrjabhaṭṭā bhayaṅkarāḥ /	tad-saFgatyA-api-adRSyanta BUrja-BawwAH BayaFkarAH /
+   tadgṛhe kalayanto 'ntastasya sthāvaraviplavam // KNarm_2.133 //	tad-gRhe kalayantaH antar-tasya sTAvara-viplavam // KNarm_2.133 //
+   saṃharanti sadā lokānye sasthāvarajaṅgamān /	saMharanti sadA lokAn-ye sa-sTAvara-jaFgamAn /
+   tebhyaḥ pralayakāribhyo bhaṭṭebhyo 'stu namo namaḥ // KNarm_2.134 //	teByaH pralaya-kAriByaH BawweByaH astu namaH namaH // KNarm_2.134 //
+   ṣaṭīpāśasamākṛṣṭaḥ prāpto 'dhikaraṇaṃ bhayāt /	zawI-pASa-samAkRzwaH prAptaH aDikaraNam BayAt /
+   sādhurnigīryate bhaṭṭairmatsyairiva jale baliḥ // KNarm_2.135 //	sADuH-nigIryate BawwEH-matsyEH-iva jale baliH // KNarm_2.135 //
+   bhaṭṭairbhaṭṭaiḥ sadiviraiḥ śaṭīnipatito janaḥ /	BawwEH-BawwEH sa-divirEH SawI-nipatitaH janaH /
+   mucyate nāsthiśeṣo 'pi raktakṣībairiva śvabhiḥ // KNarm_2.136 //	mucyate na-asTi-SezaH api rakta-kzIbEH-iva SvaBiH // KNarm_2.136 //
+   brāhmaṇyādye hatā naiva rāmeṇa brahmarākṣasāḥ /	brAhmaNI-Adye hatAH na-eva rAmeNa brahmarAkzasAH /
+   āsthānabhaṭṭāste manye sadā khādanti mānuṣān // KNarm_2.137 //	AsTAna-BawwAH-te manye sadA KAdanti mAnuzAn // KNarm_2.137 //
+   kṛtaḥ parājito jetā jayī yaiśca parājitaḥ /	kRtaH parAjitaH jetA jayI yEH-ca parAjitaH /
+   teṣāṃ svatantravacasāṃ vacasā kena jīvyate // KNarm_2.138 //	tezAm svatantra-vacasAm vacasA kena jIvyate // KNarm_2.138 //
+   ante narakapālairye vṛtā vetālatāṃ gatāḥ /	ante nara-kapAlEH-ye vRtAH vetAla-tAm gatAH /
+   ṣaṭyantaḥkṛtahṛdghaṇṭā bhaṭṭāste kasya nāntakāḥ // KNarm_2.139 //	zawI-antar-kRta-hRd-GaNwAH BawwAH-te kasya na-antakAH // KNarm_2.139 //
+   paśyannandho vadanmūkaḥ śṛṇvaṃśca badhiro 'dhamaḥ /	paSyan=-anDaH vadan-mUkaH SRNvan=-ca baDiraH aDamaH /
+   utkocena vinā bhaṭṭaściraṃ nidrāyate śaṭhaḥ // KNarm_2.140 //	utkocena vinA BawwaH-ciram nidrAyate SaWaH // KNarm_2.140 //
+   utkocabhakṣaṇaṃ chidraśikṣaṇaṃ sādhutakṣaṇam /	utkoca-BakzaNam Cidra-SikzaNam sADu-takzaNam /
+   ṣaṭisandhukṣaṇaṃ kūṭarakṣaṇaṃ bhaṭṭalakṣaṇam // KNarm_2.141 //	zawi-sanDukzaNam kUwa-rakzaNam Bawwa-lakzaNam // KNarm_2.141 //
+   carmakṛnnartakībhrātā saṅgatyā nartako 'bhavat /	carmakRt-nartakI-BrAtA saFgatyA nartakaH aBavat /
+   so 'tha gāruḍakalpajñaḥ prayātaḥ sasyapālatām // KNarm_2.142 //	saH aTa gAruxa-kalpa-jQaH prayAtaH sasya-pAla-tAm // KNarm_2.142 //
+   so 'pi grāmagaṇeśasya prāptaḥ prāsādapālatām /	saH api grAma-gaNeSasya prAptaH prAsAda-pAla-tAm /
+   sandhivigrahakāyasthacākrikāsevako 'dhamaḥ // KNarm_2.143 //	sanDi-vigraha-kAyasTa-cAkrikA-sevakaH aDamaH // KNarm_2.143 //
+   bhaṭṭatvamāptavāndūto *draṅgadeśagatāgatāt /	Bawwa-tvam-AptavAn-dUtaH *draFga-deSa-gata-AgatAt /
+   tasya putrāśca pautrāśca sarve 'dhikaraṇadvijāḥ // KNarm_2.144 //	tasya putrAH-ca pOtrAH-ca sarve aDikaraNa-dvijAH // KNarm_2.144 //
+   kuto 'nyathā bhavatyeṣāṃ vacaścarmakṛtāmiva /	kutas anyaTA Bavati-ezAm vacaH-carmakRtAm-iva /
+   kakṣe sumahatī bhastrā śaṭidīnārabhājanam // KNarm_2.145 //	kakze su-mahatI BastrA Sawi-dInAra-BAjanam // KNarm_2.145 //
+   iti adhikaraṇabhaṭṭāḥ sātikā vā /	iti aDikaraNa-BawwAH sAtikAH vA /
+   iti narmamālāyāṃ dvitīyaḥ parihāsaḥ //	iti narma-mAlAyAm dvitIyaH parihAsaH //
+   tṛtīyaḥ parihāsaḥ	tRtIyaH parihAsaH
+   atha yāgotsave tasminsarve divirabāndhavāḥ /	aTa yAga-utsave tasmin-sarve divira-bAnDavAH /
+   alaṅkṛtāśca lalanā niyogigṛhamāyayuḥ // KNarm_3.1 //	alaFkRtAH-ca lalanA niyogi-gRham-AyayuH // KNarm_3.1 //
+   khaṭikā karaṇī haimī pārato ratnamūṭikā /	KawikA karaNI hEmI pAratas ratnamUwikA /
+   sindūrādyā rajobhedāḥ pañcaraṅgakasūtrakam // KNarm_3.2 //	sindUra-AdyAH rajaH-BedAH paQca-raFgaka-sUtrakam // KNarm_3.2 //
+   śālicūrṇaṃ sitacchatraṃ śvetavastraṃ vitānakam /	SAli-cUrNam sita=-Catram Sveta-vastram vitAnakam /
+   nārācāḥ kṣurikā sūtraṃ darpaṇaṃ vīrakartarī // KNarm_3.3 //	nArAcAH kzurikA sUtram darpaNam vIrakartarI // KNarm_3.3 //
+   patākā vyajanaṃ kūrcaḥ puṣpalakṣāṇi ṣoḍaśa /	patAkAH vyajanam kUrcaH puzpa-lakzANi zoxaSa /
+   vārdhanīkalaśau tāmrau tilāstailaṃ mṛgājinam // KNarm_3.4 //	vArDanI-kalaSO tAmrO tilAH-tElam mRga-ajinam // KNarm_3.4 //
+   sruksruvau samidho darbhā lājāḥ siddhārtakā ghṛtam /	sruc-sruvO samiDaH darBAH lAjAH sidDArtakAH GRtam /
+   bilvapūgaphalākṣoṭajātīphalayavākṣatam // KNarm_3.5 //	bilva-pUga-Pala-akzowa-jAtIPala-yava-akzatam // KNarm_3.5 //
+   dhūpakuṅkumakarpūrakautukauṣadhicandanam /	DUpa-kuFkuma-karpUra-kOtuka-ozaDi-candanam /
+   pādukāpīṭhaparyaṅkaghaṇṭikāghaṭakuṇḍakam // KNarm_3.6 //	pAdukA-pIWa-paryaFka-GaNwikA-Gawa-kuNxakam // KNarm_3.6 //
+   madyamāṃsasurāpūpapalāṇḍuśapharaudanam /	madya-mAMsa-surA-pUpa-palANxu-SaPara-odanam /
+   piṣṭabhṛṣṭarasasvacchabhakṣyarocakamodakam // KNarm_3.7 //	pizwa-BRzwa-rasa-su-acCa-Bakzya-rocaka-modakam // KNarm_3.7 //
+   caṭakāpūrṇapātrāṇi kṣīriṇī kṛsarā dadhi /	cawakA-pUrNa-pAtrANi kzIriNI kRsarA daDi /
+   daśa kṛṣṇā daśa śvetāśchāgā meṣāścaturdaśa // KNarm_3.8 //	daSa kRzNAH daSa SvetAH-CAgAH mezAH-caturdaSa // KNarm_3.8 //
+   bhastrā cetyādisambhāraścīrikālikhitaṃ kṣaṇāt /	BastrA ca-iti-Adi-samBAraH-cIrikA-liKitam kzaNAt /
+   sajjīkṛtaṃ śrīsacivairbhogamitrairniyoginaḥ (?) // KNarm_3.9 //	sajjIkRtam SrI-sacivEH-Boga-mitrEH-niyoginaH (?) // KNarm_3.9 //
+   tato nityāvadhānena bhagaliṅgavibhūṣitam /	tatas nitya-avaDAnena Baga-liFga-viBUzitam /
+   cakāra maṇḍalaṃ śiṣyaḥ sindūrāntaritāntaram // KNarm_3.10 //	cakAra maNxalam SizyaH sindUra-antarita-antaram // KNarm_3.10 //
+   athātmārāmatādambhamīlitāghūrṇitekṣaṇaḥ /	aTa-Atma-ArAma-tA-damBa-mIlita-AGUrNita-IkzaNaH /
+   gururgṛhītaḥ śiṣyābhyāṃ savyadakṣiṇahastayoḥ // KNarm_3.11 //	guruH-gRhItaH SizyAByAm savya-dakziNa-hastayoH // KNarm_3.11 //
+   śatamātreṇānuyātaḥ śiṣyāṇāmāyayau śanaiḥ /	Sata-mAtreNa-anuyAtaH SizyANAm-AyayO SanEs /
+   luṇṭhiṃ kartumivātyugro nagarādhipatiḥ svayam // KNarm_3.12 //	luNWim kartum-iva-ati-ugraH nagara-aDipatiH svayam // KNarm_3.12 //
+   carmakṛtsaunikaścakrī dhīvaro haṭṭatāpasaḥ /	carmakRt-sOnikaH-cakrI DIvaraH hawwa-tApasaH /
+   vṛddhaveśyā kalyapālo madyabhaṭṭo jaradviṭaḥ // KNarm_3.13 //	vRdDaveSyA kalyapAlaH madya-BawwaH jarat-viwaH // KNarm_3.13 //
+   pañca nāraṅgakā rugṇāstriṭāṅkāro 'tha pācakaḥ /	paQca nAraFgakAH rugNAH-triwAFkAraH aTa pAcakaH /
+   gobhakṣo bhairavācāryaḥ kulācāryo 'tha vāyakaḥ // KNarm_3.14 //	go-BakzaH BErava-AcAryaH kula-AcAryaH aTa vAyakaH // KNarm_3.14 //
+   cūlikākṛtarudrākṣo ghaṭilaśchinnanāsikaḥ /	cUlikA-kRta-rudrAkzaH GawilaH-Cinna-nAsikaH /
+   mahāvratī bhagamukhaḥ śaivācāryastrighaṇṭikaḥ // KNarm_3.15 //	mahAvratI Baga-muKaH SEva-AcAryaH-tri-GaNwikaH // KNarm_3.15 //
+   nagno velāvratī maunī stotrakṛjjānughaṇṭikaḥ /	nagnaH velAvratI mOnI stotra-kRt-jAnu-GaNwikaH /
+   dvitrāśconmattavanitāḥ śvabhiḥ parivṛtāstathā // KNarm_3.16 //	dvitrAH-ca-unmatta-vanitAH SvaBiH parivRtAH-taTA // KNarm_3.16 //
+   gūthaliptastathonmatto mantravādī rasāyanī /	gUTa-liptaH-taTA-unmattaH mantra-vAdI rasAyanI /
+   indrajālī latāveśī vijñānī kāmatāttvikaḥ // KNarm_3.17 //	indrajAlI latA-veSI vijQAnI kAma-tAttvikaH // KNarm_3.17 //
+   bhaṭṭāścānye gurordhūrtāḥ pānabhojanasevakāḥ /	BawwAH-ca-anye guroH-DUrtAH pAna-Bojana-sevakAH /
+   viviśuḥ svinnanaivedyāmodavaktrodakākulāḥ // KNarm_3.18 //	viviSuH svinna-nEvedya-Amoda-vaktra-udaka-AkulAH // KNarm_3.18 //
+   athāmapakvasaṃhārakāriṇaḥ sarvahāriṇaḥ /	aTa-Ama-pakva-saMhAra-kAriNaH sarva-hAriNaH /
+   mattā gurubhaṭṭāścakrustiladhūpaghṛtakṣayam // KNarm_3.19 //	mattAH guru-BawwAH-cakruH-tila-DUpa-GRta-kzayam // KNarm_3.19 //
+   eko dvau bahavaḥ paścānninyuste bhastrayā tathā /	ekaH dvO bahavaH paScAt-ninyuH-te BastrayA taTA /
+   śālicūrṇayavākṣoṭabilvārghaghṛtacandanam // KNarm_3.20 //	SAli-cUrNa-yava-akzowa-bilva-arGa-GRta-candanam // KNarm_3.20 //
+   %% iti gurubhaṭṭāḥ	%% iti guru-BawwAH
+   tataḥ svabhaginī raṇḍā bālaiva vrataśālinī /	tatas sva-BaginI raNxA bAlA-eva vrata-SAlinI /
+   dhṛtā niyoginā yāgaparicaryāvidhau guroḥ // KNarm_3.21 //	DRtA niyoginA yAga-paricaryA-viDO guroH // KNarm_3.21 //
+   jayatyakhaṇḍaśītāṃśumaṇḍaladyutitaskarī /	jayati-aKaNxa-SItAMSu-maNxala-dyuti-taskarI /
+   puṇḍarīkamukhī raṇḍā navayauvanamaṇḍitā // KNarm_3.22 //	puNxarIka-muKI raNxA nava-yOvana-maNxitAH // KNarm_3.22 //
+   madaśauṇḍaṃ samuddaṇḍacaṇḍaṃ sukhakaraṇḍakam /	mada-SONxam samuddaNxa-caNxam suKa-karaNxakam /
+   vinā caṇḍaratodghṛṣṭaṃ raṇḍā khaṇḍitamānasā // KNarm_3.23 //	vinA caNxa-rata-udGRzwam raNxA KaNxita-mAnasA // KNarm_3.23 //
+   vistīrṇaśroṇipulinā pīvarorukucasthalī /	vistIrNa-SroNi-pulinA pIvara-Uru-kuca-sTalI /
+   hariṇīhārinayanā raṇḍā netrarasāyanam // KNarm_3.24 //	hariNI-hAri-nayanAH raNxA netra-rasAyanam // KNarm_3.24 //
+   raṇḍā skandhadvayāsaktamuktakeśī virājate /	raNxA skanDa-dvaya-Asakta-mukta-keSI virAjate /
+   netrotpalamukhāmbhojabhṛṅgavyāpteva padminī // KNarm_3.25 //	netra-utpala-muKa-amBoja-BRFga-vyAptA-iva padminI // KNarm_3.25 //
+   niḥsūtraruciraḥ kaṇṭhaḥ suvarṇasubhago bhagaḥ /	niHsUtra-ruciraH kaNWaH suvarNa-suBagaH BagaH /
+   raṇḍāyāḥ karṇapāśau ca nirābharaṇasundarau // KNarm_3.26 //	raNxAyAH karNa-pASO ca nirABaraNa-sundarO // KNarm_3.26 //
+   puṣpatāmbūlarahitā raṇḍā santyaktabhūṣaṇā /	puzpa-tAmbUla-rahitA raNxA santi-akta-BUzaNAH /
+   lāvaṇyenātimātreṇa saṃvibhakteva vedhasā // KNarm_3.27 //	lAvaNyena-atimAtreNa saMviBaktA-iva veDasA // KNarm_3.27 //
+   hāreṇa kiṃ sumadhyāyāḥ sukeśyāḥ kusumena kim /	hAreNa kim su-maDyAyAH sukeSyAH kusumena kim /
+   kimañjanenāyatākṣyā raṇḍāyā maṇḍanena kim // KNarm_3.28 //	kim-aQjanena-Ayata-akzyAH raNxAyAH maNxanena kim // KNarm_3.28 //
+   kiṃ dharmo yatra no raṇḍā dhiksukhaṃ raṇḍayā vinā /	kim DarmaH yatra naH raNxA Dik-suKam raNxayA vinA /
+   raṇḍāhīno 'stu mā mokṣaḥ prauḍhairityuditaṃ viṭaiḥ // KNarm_3.29 //	raNxA-hInaH astu mA mokzaH prOXEH-iti-uditam viwEH // KNarm_3.29 //
+   raṇḍā vilokya taruṇaṃ karoti bhrukuṭiṃ mṛṣā /	raNxA vilokya taruNam karoti Brukuwim mRzA /
+   kaṇṭhagrahaṃ cintayantī manasā tu prahṛṣyati // KNarm_3.30 //	kaNWa-graham cintayantI manasA tu prahRzyati // KNarm_3.30 //
+   saṃsmarantī ratisukhaṃ pīvarorukucasthalī /	saMsmarantI rati-suKam pIvara-Uru-kuca-sTalI /
+   raṇḍā bhagasthalīṃ rātrau mṛdnātyucchvāsinī sadā // KNarm_3.31 //	raNxA Baga-sTalIm rAtrO mRdnAti-ucCvAsinI sadA // KNarm_3.31 //
+   vīkṣate taruṇaṃ tiryakkāntaṃ subhagamānatā /	vIkzate taruNam tiryak-kAntam suBaga-m-AnatA /
+   sravantī nirbharaṃ reto raṇḍā dhenuḥ payo yathā // KNarm_3.32 //	sravantI nirBaram retaH raNxA DenuH payaH yaTA // KNarm_3.32 //
+   gauraḥ supīvaro dhatte raṇḍāyā muṇḍito bhagaḥ /	gOraH su-pIvaraH Datte raNxAyAH muNxitaH BagaH /
+   merorarkahayollīḍhaśaṣpahemataṭabhramam // KNarm_3.33 //	meroH-arka-haya-ullIXa-Sazpa-hema-tawa-Bramam // KNarm_3.33 //
+   turagādyācitānītastabdhadīrghadhvajo naraḥ /	turagAt-yAcita-AnIta-stabDa-dIrGa-DvajaH naraH /
+   yadi nāma rate śakto raṇḍāṃ toṣayituṃ na vā // KNarm_3.34 //	yadi nAma rate SaktaH raNxAm tozayitum na vA // KNarm_3.34 //
+   śrāddheṣu mugdhaviprāṇāṃ jaṭināṃ ca tapasvinām /	SrAdDezu mugDa-viprANAm jawinAm ca tapasvinAm /
+   vaśe patati dhanyānāṃ raṇḍā rasataraṅgiṇī // KNarm_3.35 //	vaSe patati DanyAnAm raNxA rasa-taraFgiNI // KNarm_3.35 //
+   cūlikānyastakusumaḥ karṇe kṛtapavitrakaḥ /	cUlikA-nyasta-kusumaH karNe kRta-pavitrakaH /
+   yuvā raṇḍāpriyo vipraḥ kandarpeṇopamīyate // KNarm_3.36 //	yuvA raNxA-priyaH vipraH kandarpeNa-upamIyate // KNarm_3.36 //
+   udañcadgurudaṇḍasya caṇḍasya brahmacāriṇaḥ /	udaQcat-guru-daNxasya caNxasya brahmacAriNaH /
+   raṇḍā dadāti satataṃ śraddhayā mṛtabhojanam // KNarm_3.37 //	raNxA dadAti satatam SradDayA mRta-Bojanam // KNarm_3.37 //
+   tameva tīrthayātrāsu paścānnayati sarvadā /	tam-eva tIrTa-yAtrAsu paScAt-nayati sarvadA /
+   vahantī khaḍgapātreṇa balidhūpasamudgikām // KNarm_3.38 //	vahantI Kaxga-pAtreNa bali-DUpa-samudgikAm // KNarm_3.38 //
+   parasparaprārthanayā sumuṇḍitabhagadhvajau /	paraspara-prArTanayA su-muNxita-Baga-DvajO /
+   bhūkampakāriṇau rātrau tau raṇḍābrahmacāriṇau // KNarm_3.39 //	BUkampa-kAriNO rAtrO tO raNxA-brahmacAriNO // KNarm_3.39 //
+   divā dambhanidhānāya namastīrthopasevine /	divA damBa-niDAnAya namaH-tIrTa-upasevine /
+   rātrau raṇḍābhagāpānakṣībāya brahmacāriṇe // KNarm_3.40 //	rAtrO raNxA-Baga-apAna-kzIbAya brahmacAriNe // KNarm_3.40 //
+   raṇḍā jaṭābhṛtāṃ bhītyā gauḍalāṭatapasvinām /	raNxA jawABRtAm BItyA gOxa-lAwa-tapasvinAm /
+   dadāti .. rjitāṃ prītyā talliptoru .. vāsakṛt // KNarm_3.41 //	dadAti .. rjitAm prItyA tad-lipta-uru .. vA-asakRt // KNarm_3.41 //
+   gatvā gurugṛhaṃ raṇḍā patyuḥ parvadine satī /	gatvA guru-gRham raNxA patyuH parva-dine satI /
+   kaṣantī kaṭimā .. bhī raṇḍā nirdayamohanaiḥ // KNarm_3.42 //	kazantI kawimA .. BiH raNxA nirdaya-mohanEH // KNarm_3.42 //
+   raṇḍā tattanmṛtoddhāradīkṣādivratakāriṇī /	raNxA tad-tad-mRtodDAra-dIkzA-Adi-vrata-kAriNI /
+   dadāti niśi niḥśaṅkā kāmasattraṃ tapasvinām // KNarm_3.43 //	dadAti niSi niHSaFkA kAma-sattram tapasvinAm // KNarm_3.43 //
+   liṅgārcanāpadeśena dattvā veśmani tālakam /	liFga-arcana-apadeSena dattvA veSmani tAlakam /
+   karoti carmaliṅgena raṇḍā kaṇḍūvikhaṇḍanam // KNarm_3.44 //	karoti carma-liFgena raNxA kaNxU-viKaNxanam // KNarm_3.44 //
+   tayopacaryamāṇo 'tha mṛgākṣyā gururākulaḥ /	tayA-upacaryamANaH aTa mRga-akzyAH guruH-AkulaH /
+   śiṣyāśca tāṃ papurnetraiḥ kṣudhārtāḥ kṣīriṇīmiva // KNarm_3.45 //	SizyAH-ca tAm papuH-netrEH kzuDA-ArtAH kzIriNIm-iva // KNarm_3.45 //
+   %% [iti] raṇḍā /	%% [iti] raNxA /
+   tataḥ praviviśuste te dīkṣāsamayino narāḥ /	tatas praviviSuH-te te dIkzA-samayinaH narAH /
+   baddhanetrapaṭā mithyāmohenevāndhakāritāḥ // KNarm_3.46 //	badDa-netra-pawAH miTyA-mohena-iva-anDa-kAritAH // KNarm_3.46 //
+   atha vyajijñapadbhūminyastajānuḥ kṛtāñjaliḥ /	aTa vyajijQapat-BUmi-nyasta-jAnuH kRtAQjaliH /
+   guruṃ niyoginaḥ {śraddhāśuddhāntaṃ} haṭṭatāpasaḥ // KNarm_3.47 //	gurum niyoginaH {SradDA-SudDa-antaM} hawwa-tApasaH // KNarm_3.47 //
+   ihaiva suciraṃ nātha yāgavyagre tvayi sthite /	iha-eva su-ciram nATa yAga-vyagre tvayi sTite /
+   pratīkṣante pare śiṣyā yāgotsavasamutsukāḥ // KNarm_3.48 //	pratIkzante pare SizyAH yAga-utsava-samutsukAH // KNarm_3.48 //
+   ya eṣa prathito loke gṛhakṛtye mahattamaḥ /	yaH eza praTitaH loke gRha-kRtye mahattamaH /
+   kṛtayāgasamārambhaḥ sa bhavantamudīkṣate // KNarm_3.49 //	kRta-yAga-samAramBaH sa Bavantam-udIkzate // KNarm_3.49 //
+   brahmahatyādi pāpaṃ yanniḥsaṃkhyaṃ tasya vidyate /	brahmahatyA-Adi pApam yat-niHsaMKyam tasya vidyate /
+   ekaghaṇṭāṭanatkāramātreṇa bhavatā hṛtam // KNarm_3.50 //	eka-GaNwA-awanatkAra-mAtreNa BavatA hRtam // KNarm_3.50 //
+   manyate sa tṛṇaṃ sarvaṃ sarvasaṃhārapātakam /	manyate sa tRNam sarvam sarva-saMhAra-pAtakam /
+   yato mūrdhni tvayā hastastasya pañcaphaṇo dhṛtaḥ // KNarm_3.51 //	yatas mUrDni tvayA hastaH-tasya paQca-PaNaH DRtaH // KNarm_3.51 //
+   tvatprasādātsamuttīrṇāṃ sa kāmapi daśāṃ śritaḥ /	tvad-prasAdAt-samuttIrNAm sa kAm-api daSAm SritaH /
+   śaṅkarāyatanebhyo 'pi śaivaḥ sarvaṃ jahāra yat // KNarm_3.52 //	SaFkara-AyataneByaH api SEvaH sarvam jahAra yat // KNarm_3.52 //
+   sarvasvaharaṇaṃ dharmasatkāryaṃ brāhmaṇakṣayaḥ /	sarva-sva-haraNam Darma-sat-kAryam brAhmaNa-kzayaH /
+   yattasya nirvikalpasya tattavaiva vijṛmbhitam // KNarm_3.53 //	yat-tasya nirvikalpasya tat-tava-eva vijRmBitam // KNarm_3.53 //
+   [iti] *gṛhakṛtyamahattamaḥ svakaṣaṇakāmikāro vā /	[iti] *gRha-kRtya-mahattamaH sva-kazaNa-kAmikAraH vA /
+   tvāmiyaṃ nātha gaṇikā nimantrayitumāgatā /	tvAm-iyam nATa gaNikA nimantrayitum-AgatA /
+   ghaṭīpratiṣṭhā gehe 'syāḥ kriyatāṃ śiṣyavatsala // KNarm_3.54 //	GawI-pratizWA gehe asyAH kriyatAm Sizya-vatsala // KNarm_3.54 //
+   vitīrṇairbhavatā nityaṃ vaśīkaraṇacūrṇakaiḥ /	vitIrNEH-BavatA nityam vaSIkaraNa-cUrNakEH /
+   asthiśeṣāḥ kṛtāste te yayā dhanikakāmukāḥ // KNarm_3.55 //	asTi-SezAH kRtAH-te te yayA Danika-kAmukAH // KNarm_3.55 //
+   śmaśānakośaśapathaiḥ kṣīṇajihvākarādharā /	SmaSAna-koSa-SapaTEH kzINa-jihvA-kara-aDarA /
+   tvadrakṣārakṣitaivaiṣā kāmukacchadmacāriṇī // KNarm_3.56 //	tvad-rakzA-rakzitA-eva-ezA kAmuka=-Cadma-cAriNI // KNarm_3.56 //
+   tailonmṛṣṭe manāksneho vadane na tu cakṣuṣi /	tEla-unmRzwe manAk-snehaH vadane na tu cakzuzi /
+   veśyāyāḥ kṣīṇavitteṣu saṃkoco nāntyajātiṣu // KNarm_3.57 //	veSyAyAH kzINa-vittezu saMkocaH na-antya-jAtizu // KNarm_3.57 //
+   yadi sadbhāvinī *vaiśyā yadi kālaḥ kṛpāparaḥ /	yadi sat-BAvinI *vESyA yadi kAlaH kRpA-aparaH /
+   acauro yadi kāyasthastadveśyāpyanurāgiṇī // KNarm_3.58 //	acOraH yadi kAyasTaH-tad-veSyA-api-anurAgiNI // KNarm_3.58 //
+   %% veśyā /	%% veSyA /
+   cakṣurvaidyo 'yamāyātastapasvī sarvasaṃśrayaḥ /	cakzuH-vEdyaH ayam-AyAtaH-tapasvI sarva-saMSrayaH /
+   kiṃśāruvartibhiryena sarvamandhīkṛtaṃ jagat // KNarm_3.59 //	kiMSAru-vartiBiH-yena sarvam-anDIkRtam jagat // KNarm_3.59 //
+   grīṣme 'kṣikopabāhulyādasya lagne śaratphale /	grIzme akzi-kopa-bAhulyAt-asya lagne Sarad-Pale /
+   sampūrṇaḥ kriyatāṃ yāgaḥ pāṇḍuvallīnirantaraḥ // KNarm_3.60 //	sampUrNaH kriyatAm yAgaH pANxu-vallI-nirantaraH // KNarm_3.60 //
+   %% iti cakṣurvaidyaḥ /	%% iti cakzuH-vEdyaH /
+   nāpitaḥ śalyahartāyaṃ nṛṇāṃ yenopajīvinā /	nApitaH Salya-hartA-ayam nRNAm yena-upajIvinA /
+   nītānyaṇḍāni durlepaiḥ sthūlasthālīpramāṇatām // KNarm_3.61 //	nItAni-aNxAni durlepEH sTUla-sTAlI-pramANa-tAm // KNarm_3.61 //
+   prākpratiṣṭhāpitā yena cāmuṇḍāmuṇḍakārthinā /	prAc-pratizWApitAH yena cAmuNxA-muNxaka-arTinA /
+   *yo 'sau tasyāstvayā varṣadine yāgaṃ samīhate // KNarm_3.62 //	*yaH asO tasyAH-tvayA varza-dine yAgam samIhate // KNarm_3.62 //
+   mūlyena mahatā dhīmānnāsāsaṃśleṣaṇāya yaḥ /	mUlyena mahatA DImAn-nAsA-saMSlezaNAya yaH /
+   māṃsapeṣīmapi chittvā dadāti svavadhūbhagāt // KNarm_3.63 //	mAMsa-pezIm-api CittvA dadAti sva-vaDU-BagAt // KNarm_3.63 //
+   %% śalyahartā /	%% Salya-hartA /
+   ayañca taruṇībhāryo vaṇigvṛddho mahādhanaḥ /	ayaQca taruNI-BAryaH vaNij-vRdDaH mahADanaH /
+   maithune śaktidāridryādvājīkaraṇamicchati // KNarm_3.64 //	mETune Sakti-dAridryAt-vAjIkaraNam-icCati // KNarm_3.64 //
+   lālinā srutanetreṇa vṛddhena śvāsakāsinā /	lAlinA sruta-netreNa vRdDena SvAsakAsinA /
+   ślathapralambaśiśnena taruṇī ramate katham // KNarm_3.65 //	SlaTa-pralamba-SiSnena taruNI ramate kaTam // KNarm_3.65 //
+   ārūḍho 'pi rate yatnādutthānopahatadhvajaḥ /	ArUXaH api rate yatnAt-utTAna-upahata-DvajaH /
+   vṛddhaḥ prāpnoti no nidrāmṛṇaṃ dhyāyannivādhanaḥ // KNarm_3.66 //	vRdDaH prApnoti naH nidrAm-RNam DyAyan=-iva-aDanaH // KNarm_3.66 //
+   niṣpīḍitāntrasaṃkāśaśiśno 'pi suratotsukaḥ /	nizpIxita-antra-saMkASa-SiSnaH api surata-utsukaH /
+   hastaṃ dattvā bhage vṛddho nidhānamiva rakṣati // KNarm_3.67 //	hastam dattvA Bage vRdDaH niDAnam-iva rakzati // KNarm_3.67 //
+   māṃsakṣīraghṛtāhāraṃ kṛtvā vṛddho ratāśayā /	mAMsa-kzIra-GRta-AhAram kRtvA vRdDaH rata-ASayA /
+   rātrau vamati tatsarvaṃ bhajate vā viṣūcikām // KNarm_3.68 //	rAtrO vamati tat-sarvam Bajate vA vizUcikAm // KNarm_3.68 //
+   śuṣkacarmopamaṃ vṛddhaṃ madhuparke kṣaṇaṃ patim /	Suzka-carma-upamam vRdDam maDuparke kzaNam patim /
+   sajane taruṇī dṛṣṭvā hrītā yāti rasātalam // KNarm_3.69 //	sa-jane taruNI dRzwvA hrItA yAti rasAtalam // KNarm_3.69 //
+   etena vṛddhavaṇijā dravyairvṛddhaviṭoditaiḥ /	etena vRdDa-vaNijA dravyEH-vRdDa-viwa-uditEH /
+   liptaliṅgena satataṃ dagdhevāyāsitā vadhūḥ // KNarm_3.70 //	lipta-liFgena satatam dagDA-iva-AyAsitA vaDUH // KNarm_3.70 //
+   sa eṣa bahunikṣepasaṃbhakṣaṇakṛtakṣaṇaḥ /	saH eza bahu-nikzepa-saMBakzaNa-kRtakzaNaH /
+   draviṇāvaskarakṣetraṃ vaṇigvāsarataskaraḥ // KNarm_3.71 //	draviNa-avaskara-kzetram vaNij-vAsara-taskaraH // KNarm_3.71 //
+   nṛtyati vyādhikāleṣu kuṭilaḥ kalipannagaḥ /	nRtyati vyADi-kAlezu kuwilaH kali-panna-gaH /
+   ajñātatṛṇakāṣṭhādivikrayī dravyanāmabhiḥ // KNarm_3.72 //	ajQAta-tRNa-kAzWa-Adi-vikrayI dravya-nAmaBiH // KNarm_3.72 //
+   taruṇākāṅkṣiṇīṃ vṛddhaḥ priyāmavicalekṣaṇaḥ /	taruNa-AkAFkziNIm vRdDaH priyAm-avicala-IkzaNaH /
+   so 'yaṃ nirīkṣate dūrānmṛṣṭaṃ bhojyamivāturaḥ // KNarm_3.73 //	saH ayam nirIkzate dUrAt-mRzwam Bojyam-iva-AturaH // KNarm_3.73 //
+   tasmātpauṣpikamāsādya kriyatāṃ mantrasaṃpadā /	tasmAt-pOzpikam-AsAdya kriyatAm mantra-saMpadA /
+   gṛhiṇī rāgiṇī yena labdhaśakteḥ prajāyate // KNarm_3.74 //	gRhiNI rAgiNI yena labDa-SakteH prajAyate // KNarm_3.74 //
+   %% vṛddhavaṇik /	%% vRdDa-vaNij /
+   ityādiśiṣyairāhvānaṃ śrutvā tena niveditam /	iti-Adi-SizyEH-AhvAnam SrutvA tena niveditam /
+   sarvaṃ karomītyavadadbhrūvikārākulo guruḥ // KNarm_3.75 //	sarvam karomi-iti-avadat-BrU-vikAra-AkulaH guruH // KNarm_3.75 //
+   tato dinānte vipulāṃ kṛtvāgre śivakuṇḍikām /	tatas dina-ante vipulAm kRtvA-agre Siva-kuNxikAm /
+   guruṇā saha te śiṣyāḥ papurbhuktottaraṃ ciram // KNarm_3.76 //	guruNA saha te SizyAH papuH-Bukta-uttaram ciram // KNarm_3.76 //
+   niyogilalanāḥ sarvāste ca tanmitrabāndhavāḥ /	niyogi-lalanAH sarvAH-te ca tad-mitra-bAnDavAH /
+   kapāleṣu taducchiṣṭaṃ *vamitvā bahuśaḥ papuḥ // KNarm_3.77 //	kapAlezu tat-ucCizwam *vamitvA bahuSas papuH // KNarm_3.77 //
+   kaścidgātuṃ pravṛtto 'tha kaścidroditi sasvanam /	kaScid-gAtum pravRttaH aTa kaScid-roditi sa-svanam /
+   kaścidvyāghūrṇate kaścitplavate kṛtaśūtkṛtiḥ // KNarm_3.78 //	kaScid-vyAGUrNate kaScid-plavate kRta-SUtkRtiH // KNarm_3.78 //
+   kaścidatyantavaikalyaṃ nāṭayanbhaktisambhavam /	kaScid-atyanta-vEkalyam nAwayan-Bakti-samBavam /
+   niśceṣṭastiṣṭhati ciraṃ saṃprāptaḥ śavatāmiva // KNarm_3.79 //	niScezwaH-tizWati ciram saMprAptaH SavatAm-iva // KNarm_3.79 //
+   kaścidvilolasragdāmabhūṣito madanirbharaḥ /	kaScid-vilola-sraj-dAma-BUzitaH mada-nirBaraH /
+   kṛtakaṇṭhagrahaḥ puṃsāṃ cucumba lalanā api // KNarm_3.80 //	kRta-kaNWa-grahaH puMsAm cucumba lalanAH api // KNarm_3.80 //
+   tataḥ kṣībo guruḥ kiṃ citsvakāvyaṃ deśabhāṣayā /	tatas kzIbaH guruH kim cit-su-a-kAvyam deSa-BAzayA /
+   vīṇāvaṃśaravodagraṃ kocchikāvādyakṛjjagau // KNarm_3.81 //	vINA-=-aMSa-rava-udagram kocCikA-vAdya-kRt-jagO // KNarm_3.81 //
+   athaikabhujamānandādudyamyaikena pāṇinā /	aTa-eka-Bujam-AnandAt-udyamya-ekena pANinA /
+   gururnanarta dvābhyāṃ ca śanairutthāya cāsanāt // KNarm_3.82 //	guruH-nanarta dvAByAm ca SanEs-utTAya ca-AsanAt // KNarm_3.82 //
+   tataḥ śiṣyāḥ samuttasthuraṭṭahāsaninādinaḥ /	tatas SizyAH samuttasTuH-awwahAsa-ninAdinaH /
+   kṛtāṅganāpariṣvaṅgā visrastakaṭikarpaṭāḥ // KNarm_3.83 //	kRta-aFganA-parizvaFgAH visrasta-kawi-karpawAH // KNarm_3.83 //
+   śanaiḥ prayāte rātryardhe vinaṣṭe dīpamaṇḍale /	SanEs prayAte rAtrI-arDe vinazwe dIpa-maNxale /
+   nirvibhāgo 'bhavatteṣāṃ raticakramahotsavaḥ // KNarm_3.84 //	nirviBAgaH aBavat-tezAm rati-cakra-mahA-utsavaH // KNarm_3.84 //
+   prabhāte gururutthāya tvarayā kalaśapradaḥ /	praBAte guruH-utTAya tvarayA kalaSa-pradaH /
+   kṛtavadvidadhe sarvaṃ śiṣyairanyairnimantritaḥ // KNarm_3.85 //	kRta-vat-vidaDe sarvam SizyEH-anyEH-nimantritaH // KNarm_3.85 //
+   jvarādikāle vaidyānāṃ śaratkāle niyoginām /	jvara-Adi-kAle vEdyAnAm Sarad-kAle niyoginAm /
+   puṣpakāle gurūṇāṃ ca hemapūrṇā vasundharā // KNarm_3.86 //	puzpa-kAle gurUNAm ca hema-pUrNA vasunDarA // KNarm_3.86 //
+   athāviśatpṛthuśvāsaḥ kampamānaḥ sphuṭanniva /	aTa-AviSat-pRTu-SvAsaH kampamAnaH sPuwan=-iva /
+   pārśvāvalokī puruṣaḥ paramāpto niyoginaḥ // KNarm_3.87 //	pArSva-avalokI puruzaH parama-AptaH niyoginaH // KNarm_3.87 //
+   so 'bravīdadya rātryardhe gṛhakṛtyamahattamaḥ /	saH abravIt-adya rAtrI-arDe gRha-kRtya-mahattamaH /
+   rājarāśidhanaṃ bhūri hṛtvā yātaḥ sahānugaḥ // KNarm_3.88 //	rAja-rASi-Danam BUri hRtvA yAtaH saha-anugaH // KNarm_3.88 //
+   anuktvāpasṛte tasmiṃstatsambandhiniyoginām /	anuktvA-apasRte tasmin=-tad-sambanDi-niyoginAm /
+   palāyanavyatikaraḥ ko 'pi jāto gṛhe gṛhe // KNarm_3.89 //	palAyana-vyatikaraH kaH api jAtaH gRhe gRhe // KNarm_3.89 //
+   capeṭotsphoṭitamukhastvatsvāmī bandhanaṃ bhaṭaiḥ /	capewa-utsPowita-muKaH-tvad-svAmI banDanam BawEH /
+   nītaḥ patatpurīṣo 'gre sa tāvatparipālakaḥ // KNarm_3.90 //	nItaH patat-purIzaH agre sa tAvat-paripAlakaH // KNarm_3.90 //
+   yāvanno*lluñcitaśmaśrurbaddhvā tvamapi nīyase /	yAvat-na-u*lluQcita-SmaSruH-badDvA tvam-api nIyase /
+   tāvadrājabhaye ghore nītirasmin vidhīyatām // KNarm_3.91 //	tAvat-rAja-Baye Gore nItiH-asmin viDIyatAm // KNarm_3.91 //
+   iti bruvāṇe tanmitre taiḥ śiṣyaiḥ sahite gurau /	iti bruvANe tat-mitre tEH SizyEH sahite gurO /
+   tūrṇaṃ prayāte niḥśvasya niyogī duḥkhito 'vadat // KNarm_3.92 //	tUrNam prayAte niHSvasya niyogI duHKitaH avadat // KNarm_3.92 //
+   aho nu kāladaurātmyādghoratā kiyatī kaleḥ /	aho nu kAla-dOrAtmyAt-Gora-tA kiyatI kaleH /
+   sādhavaḥ sarvathā naṣṭāḥ kaṣṭaṃ dharmo 'stamāgataḥ // KNarm_3.93 //	sADavaH sarvaTA nazwAH kazwam DarmaH astam-AgataH // KNarm_3.93 //
+   ityuktvā sānugo yāvatpalāyanakṛtodyamaḥ /	iti-uktvA sa-anugaH yAvat-palAyana-kRta-udyamaH /
+   sa susrāva bhayānmūtraṃ tāvadetya bhaṭairvṛtaḥ // KNarm_3.94 //	sa susrAva BayAt-mUtram tAvat-etya BawEH-vRtaH // KNarm_3.94 //
+   sa rājñā hṛtasarvasvaḥ praklinno bandhane ciram /	sa rAjQA hRta-sarva-svaH praklinnaH banDane ciram /
+   dhanena veśyayā svasrā mocito niragāttataḥ // KNarm_3.95 //	Danena veSyayA svasrA mocitaH niragAt-tatas // KNarm_3.95 //
+   tato vibhavahīno 'sau jāpī svapnanirīkṣakaḥ /	tatas viBava-hInaH asO jApI svapna-nirIkzakaH /
+   babhūva sarvapraṇataścāṭukāraḥ priyaṃvadaḥ // KNarm_3.96 //	baBUva sarva-praNataH-cAwu-kAraH priyaMvadaH // KNarm_3.96 //
+   yo 'bhūdabhyutthitastabdho niyogī liṅgasannibhaḥ /	yaH aBUt-aByutTita-stabDaH niyogI liFga-sanniBaH /
+   adhikāraparibhraṃśātsa vṛddhavṛṣaṇāyate // KNarm_3.97 //	aDikAra-pariBraMSAt-sa vRdDa-vRzaNAyate // KNarm_3.97 //
+   adhikāramadāndhānāṃ dṛṣṭikopavatāṃ sadā /	aDikAra-mada-anDAnAm dRzwi-kopavatAm sadA /
+   netranairmalyajananaṃ bandhanaṃ paramāñjanam // KNarm_3.98 //	netra-nErmalya-jananam banDanam parama-aQjanam // KNarm_3.98 //
+   yaḥ pādapatitānārtānpūjyānapyavamanyate /	yaH pAda-patitAn-ArtAn-pUjyAn-api-avamanyate /
+   bhraṣṭādhikāraścaraṇau śakṛlliptau sa vandate // KNarm_3.99 //	Brazwa-aDikAraH-caraNO SakRt-liptO sa vandate // KNarm_3.99 //
+   aho bata muhūrtena bhavanti na bhavanti ca /	aho bata muhUrtena Bavanti na Bavanti ca /
+   palāladahanajvālācapalā diviraśriyaḥ // KNarm_3.100 //	palAla-dahana-jvAlA-capalAH divira-SriyaH // KNarm_3.100 //
+   svayamutthāya yātāyāṃ jāyāyāṃ nirdhano 'tha saḥ /	svayam-utTAya yAtAyAm jAyAyAm nirDanaH aTa saH /
+   babhrāma laulyanilayaḥ piṇḍārthī bandhuveśmasu // KNarm_3.101 //	baBrAma lOlya-nilayaH piNxa-arTI banDu-veSmasu // KNarm_3.101 //
+   rūkṣaḥ kṛśo 'timalinaḥ syūtadagdhapaṭaccaraḥ /	rUkzaH kRSaH ati-malinaH syUta-dagDa-pawaccaraH /
+   piśāca iva duṣprekṣyo dinaireva babhūva saḥ // KNarm_3.102 //	piSAcaH iva duzprekzyaH dinEH-eva baBUva saH // KNarm_3.102 //
+   tuṣāgnikuṇḍikātāpadagdhasphigvṛṣaṇodaraḥ /	tuzA-agni-kuNxikA-tApa-dagDa-sPic-vRzaNa-udaraH /
+   vātaśūlāpanodāya jānugrathitadāmakaḥ // KNarm_3.103 //	vAta-SUla-apanodAya jAnu-graTita-dAmakaH // KNarm_3.103 //
+   devadvijadhana*grāsajātakoṣṭhagalagrahaḥ /	deva-dvija-Dana*-grAsa-jAta-kozWa-galagrahaH /
+   kṣutkṣāmakukṣiḥ śuṣkāsyaḥ patito 'vaskare bhraman // KNarm_3.104 //	kzuD-kzAma-kukziH Suzka-AsyaH patitaH avaskare Braman // KNarm_3.104 //
+   śvajagdhajānucaraṇaḥ prasravadbhūriśoṇitaḥ /	Sva-jagDa-jAnu-caraNaH prasravat-BUri-SoNitaH /
+   kṛpārdrocchiṣṭabhugdattabhaktagolakanirvṛtaḥ // KNarm_3.105 //	kRpA-Ardra-ucCizwa-Buj-datta-Bakta-golaka-nirvRtaH // KNarm_3.105 //
+   dagdhārdhakarpaṭīniryatsakeśavṛṣaṇadvayaḥ /	dagDa-arDa-karpawI-niryatsa-keSa-vRzaNa-dvayaH /
+   bhasmapralipta*śīrṣāṃsavakṣaḥpārśvo gatatrapaḥ // KNarm_3.106 //	Basma-pralipta*-SIrza-aMsa-vakzaH-pArSvaH gata-trapaH // KNarm_3.106 //
+   pralapankāñcikākāṅkṣī kenaciddattamaṇḍakaḥ /	pralapan-kAQcika-AkAFkzI kenacid-datta-maNxakaH /
+   prapāpālikayā ḍombabhrāntyā pāne tiraskṛtaḥ // KNarm_3.107 //	prapApAlikayA xomba-BrAntyA pAne tiraskRtaH // KNarm_3.107 //
+   rajasvalāpalālena channāṅgastuhināgame /	rajasvalA-palAlena Canna-aFgaH-tuhina-Agame /
+   śarāvakarparādānakalahe yācakārbhakaiḥ /	SarAva-karpara-AdAna-kalahe yAcaka-arBakEH /
+   vahnipātraprahāreṇa dagdhabhrūśmaśrulocanaḥ // KNarm_3.108 //	vahni-pAtra-prahAreNa dagDa-BrU-SmaSru-locanaH // KNarm_3.108 //
+   caṇḍālaiḥ pretakāryeṣu laguḍairāhato 'sakṛt /	caNxAlEH preta-kAryezu laguxEH-AhataH asakRt /
+   paṅkaśāyī sa cukrośa sattratīrthāgravartmasu // KNarm_3.109 //	paFka-SAyI sa cukroSa sattra-tIrTa-agra-vartmasu // KNarm_3.109 //
+   nṛpurīṣapraṇāle 'tha patito 'sāvadhomukhaḥ /	nR-purIza-praNAle aTa patitaH asO=-aDomuKaH /
+   uccaiḥkṛtakaṭiḥ prāṇānutsasarja narādhamaḥ // KNarm_3.110 //	uccEs-kRta-kawiH prANAn-utsasarja nara-aDamaH // KNarm_3.110 //
+   iti daurgatyatapasā prayātaḥ so 'sthiśeṣatāṃ /	iti dOrgatya-tapasA prayAtaH saH asTi-Seza-tAm /
+   saśarīraḥ svayaṃ prāpto narakaṃ narakaṇṭakaḥ // KNarm_3.111 //	sa-SarIraH svayam prAptaH narakam narakaNwakaH // KNarm_3.111 //
+   evaṃ krameṇa śānteṣu niyogidivirāgniṣu /	evam krameNa SAntezu niyogi-divira-agnizu /
+   modate gatasantāpaḥ santoṣasubhago janaḥ // KNarm_3.112 //	modate gata-santApaH santoza-suBagaH janaH // KNarm_3.112 //
+   iti diviraniyogivrātaduśceṣṭitānāṃ	iti divira-niyogi-vrAta-duScezwitAnAm
+   kusṛticaritacarcā narmamālā kṛteyam /	kusRti-carita-carcA narma-mAlA kRtA-iyam /
+   api sujanavinodāyombhitā hāsyasiddhyai	api su-jana-vinodAya-umBi-tAH hAsya-sidDyE
+   kathayati phalabhūtaṃ sarvalokopadeśam // KNarm_3.113 //	kaTayati Pala-BUtam sarva-loka-upadeSam // KNarm_3.113 //
+   iti narmamālāyāṃ tṛtīyaḥ parihāsaḥ //	iti narmamAlAyAm tRtIyaH parihAsaH //
+   samāpteyaṃ narmamālā /	samAptA-iyam narma-mAlA /
+   kṛtirvyāsadāsāparanāmnaḥ kṣemendrasyeti śivam //	kRtiH-vyAsa-dAsApara-nAmnaH kzemendrasya-iti Sivam //

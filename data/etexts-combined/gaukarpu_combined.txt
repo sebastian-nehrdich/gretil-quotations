@@ -1,0 +1,452 @@
+   atha gauḍapādīyakārikāḥ	aTa gOxapAdIya-kArikAH
+   (bahiṣ[S:]bahiḥ)prajño vibhur viśvo hy antaḥprajñas tu taijasaḥ /	(bahiz[-S:]-bahis-)prajQaH viBuH viSvaH hi antar-prajQaH tu tEjasaH /
+   ghanaprajñas tathā prājña eka eva tridhā (smṛtaḥ [B:]sthitaḥ) // 1.1 //	GanaprajQaH taTA prAjQaH ekaH eva triDA (smRtaH [B:]-sTitaH) // 1.1 //
+   dakṣiṇākṣimukhe viśvo manasy antas tu taijasaḥ /	dakziNa-akzi-muKe viSvaH manasi antar tu tEjasaH /
+   ākāśe ca hṛdi prājñas tridhā dehe vyavasthitaḥ // 1.2 //	AkASe ca hRdi prAjQaH triDA dehe vyavasTitaH // 1.2 //
+   viśvo hi sthūlabhuṅ nityaṃ taijasaḥ praviviktabhuk /	viSvaH hi sTUla-Buj nityam tEjasaH pravivikta-Buj /
+   ānandabhuk tathā prājñas tridhā bhogaṃ nibodhata // 1.3 //	Ananda-Buj taTA prAjQaH triDA Bogam niboData // 1.3 //
+   sthūlaṃ tarpayate viśvaṃ praviviktaṃ tu taijasam /	sTUlam tarpayate viSvam praviviktam tu tEjasam /
+   ānandaś ca tathā prājñaṃ tridhā tṛptiṃ nibodhata // 1.4 //	AnandaH ca taTA prAjQam triDA tRptim niboData // 1.4 //
+   triṣu dhāmasu yad bhojyaṃ bhoktā yaś ca prakīrtitaḥ /	trizu DAmasu yat Bojyam BoktA yaH ca prakIrtitaH /
+   vedaitad ubhayaṃ yas tu sa bhuñjāno na lipyate // 1.5 //	veda-etat uBayam yaH tu sa BuQjAnaH na lipyate // 1.5 //
+   prabhavaḥ sarva(bhāvānāṃ [B:]bhūtānāṃ) satām iti viniścayaḥ /	praBavaH sarva-(BAvAnAm [B:]BUtAnAM) satAm iti viniScayaH /
+   sarvaṃ janayati prāṇaś cetoaṃśūn puruṣaḥ pṛthak // 1.6 //	sarvam janayati prANaH cetaH-aMSUn puruzaH pRTak // 1.6 //
+   vibhūtiṃ prasavaṃ tv anye manyante sṛṣṭicintakāḥ /	viBUtim prasavam tu anye manyante sRzwi-cintakAH /
+   svapnamāyā(sa[B:]sva)rūpeti sṛṣṭir anyair vikalpitā // 1.7 //	svapna-mAyA(sa[B:]sva)rUpA-iti sRzwiH anyEH vikalpitAH // 1.7 //
+   icchāmātraṃ prabhoḥ sṛṣṭir iti sṛṣṭau viniścitāḥ /	icCA-mAtram praBoH sRzwiH iti sRzwO viniScitAH /
+   kālāt prasūtiṃ bhūtānāṃ manyante kālacintakāḥ // 1.8 //	kAlAt prasUtim BUtAnAm manyante kAla-cintakAH // 1.8 //
+   bhogārthaṃ sṛṣtir ity anye krīḍārtham iti cāpare /	Boga-arTam sRztiH iti anye krIxA-arTam iti ca-apare /
+   devasyaiṣa svabhāvo 'yam āptakāmasya kā spṛhā // 1.9 //	devasya-eza svaBAvaH ayam Apta-kAmasya kA spRhA // 1.9 //
+   nivṛtteḥ sarvaduḥkhānām īśānaḥ prabhur avyayaḥ /	nivRtteH sarva-duHKAnAm ISAnaH praBuH avyayaH /
+   advaitaḥ sarvabhāvānāṃ devas turyo vibhuḥ smṛtaḥ // 1.10 //	advEtaH sarva-BAvAnAm devaH turyaH viBuH smRtaH // 1.10 //
+   kāryakāraṇabaddhau tāv iṣyete viśvataijasau /	kArya-kAraNa-badDO tO izyete viSva-tEjasO /
+   prājñaḥ kāraṇabaddhas tu (dvau tau [B:]dve tu) turye na sidhyataḥ // 1.11	prAjQaH kAraNa-badDaH tu (dvO tO [B:]dve tu) turye na siDyataH // 1.11
+   nātmānaṃ na (parāṃś [S:]paraṃ) caiva na satyaṃ nāpi cānṛtam /	na-AtmAnam na (parAn [S:]-paraM) ca-eva na satyam na-api ca-anRtam /
+   prājñaḥ kiṃcana saṃvetti (turyaṃ tat [B:]turīyaḥ) sarvadṛk sadā // 1.12 //	prAjQaH kiMcana saMvetti (turyam tat [B:]turIyaH) sarva-dRS sadA // 1.12 //
+   dvaitasyāgrahaṇaṃ tulyam ubhayoḥ prājñaturyayoḥ /	dvEtasya-agrahaNam tulyam uBayoH prAjQa-turyayoH /
+   bījanidrāyutaḥ prājñaḥ sā ca turye na vidyate // 1.13 //	bIja-nidrA-yutaH prAjQaH sA ca turye na vidyate // 1.13 //
+   svapnanidrāyutāv ādyau prājñas tv asvapnanidrayā /	svapna-nidrA-yutO AdyO prAjQaH tu asvapna-nidrayA /
+   na nidrāṃ naiva ca svapnaṃ turye paśyanti niścitāḥ // 1.14 //	na nidrAm na-eva ca svapnam turye paSyanti niScitAH // 1.14 //
+   anyathā gṛhṇataḥ svapno nidrā tattvam ajānataḥ /	anyaTA gRhNataH svapnaH nidrA tattvam ajAnataH /
+   viparyāse tayoḥ kṣīṇe turīyaṃ padam aśnute // 1.15 //	viparyAse tayoH kzINe turIyam padam aSnute // 1.15 //
+   anādimāyayā supto yadā jīvaḥ prabudhyate /	anAdi-mAyayA suptaH yadA jIvaH prabuDyate /
+   ajam anidram asvapnam advaitaṃ budhyate tadā // 1.16 //	ajam anidram asvapnam advEtam buDyate tadA // 1.16 //
+   prapañco yadi vidyeta nivarteta na saṃśayaḥ /	prapaQcaH yadi vidyeta nivarteta na saMSayaH /
+   māyāmātram idaṃ dvaitam advaitaṃ paramārthataḥ // 1.17 //	mAyA-mAtram idam dvEtam advEtam paramArTataH // 1.17 //
+   vikalpo vinivarteta kalpito yadi kenacit /	vikalpaH vinivarteta kalpitaH yadi kenacid /
+   upadeśād ayaṃ vādo jñāte dvaitaṃ na vidyate // 1.18 //	upadeSAt ayam vAdaH jQAte dvEtam na vidyate // 1.18 //
+   viśvasyātvavivakṣāyām ādisāmānyam utkaṭam /	viSvasya-Atu-a-vivakzAyAm Adi-sAmAnyam utkawam /
+   mātrāsaṃpratipattau syād āptisāmānyam eva ca // 1.19 //	mAtrA-saMpratipattO syAt Apti-sAmAnyam eva ca // 1.19 //
+   taijasasyotvavijñāne utkarṣo dṛśyate sphuṭam /	tEjasasya-utva-vijQAne utkarzaH dRSyate sPuwam /
+   mātrāsaṃpratipattau syād ubhayatvaṃ tathāvidham // 1.20 //	mAtrA-saMpratipattO syAt uBaya-tvam taTAviDam // 1.20 //
+   makārabhāve prājñasya mānasāmānyam utkaṭam /	makAra-BAve prAjQasya mAna-sAmAnyam utkawam /
+   mātrāsaṃpratipattau tu layasāmānyam eva ca // 1.21 //	mAtrA-saMpratipattO tu laya-sAmAnyam eva ca // 1.21 //
+   triṣu dhāmasu (yat [B:]yas) tulyaṃ sāmānyaṃ vetti niścitaḥ /	trizu DAmasu (yat [B:]yas) tulyam sAmAnyam vetti niScitaH /
+   sa pūjyaḥ sarvabhūtānāṃ vandyaś caiva mahāmuniḥ // 1.22 //	sa pUjyaH sarva-BUtAnAm vandyaH ca-eva mahA-muniH // 1.22 //
+   akāro nayate viśvam ukāraś cāpi taijasam /	akAraH nayate viSvam ukAraH ca-api tEjasam /
+   makāraś ca punaḥ prājñaṃ nāmātre vidyate gatiḥ // 1.23 //	makAraH ca punar prAjQam na-ama-atre vidyate gatiH // 1.23 //
+   oṃkāraṃ pādaśo vidyāt pādā mātrā na saṃśayaḥ /	oMkAram pAdaSas vidyAt pAdAH mAtrA na saMSayaH /
+   oṃkāraṃ pādaśo jñātvā na kiṃcid api cintayet // 1.24 //	oMkAram pAdaSas jQAtvA na kiMcid api cintayet // 1.24 //
+   yuñjīta praṇave cetaḥ praṇavo brahma nirbhayam /	yuQjIta praNave cetaH praNavaH brahma nirBayam /
+   praṇave nityayuktasya na bhayaṃ vidyate kvacit // 1.25 //	praNave nitya-yuktasya na Bayam vidyate kvacid // 1.25 //
+   praṇavo hy aparaṃ brahma praṇavaś ca (paraḥ [B:,S:]paraṃ) smṛtaḥ /	praNavaH hi aparam brahma praNavaH ca (paraH [B:,S:]-paran) smRtaH /
+   apūrvo 'nantaro 'bāhyo anaparaḥ praṇavo 'vyayaḥ // 1.26 //	apUrvaH anantaraH abAhyaH anaparaH praNavaH avyayaH // 1.26 //
+   sarvasya praṇavo hy ādir madhyam antas tathaiva ca /	sarvasya praNavaH hi AdiH maDyam antar taTA-eva ca /
+   evaṃ hi praṇavaṃ jñātvā vyaśnute tad anantaram // 1.27 //	evam hi praNavam jQAtvA vyaSnute tat anantaram // 1.27 //
+   praṇavaṃ hīśvaraṃ vidyāt sarvasya hṛdi saṃsthitam /	praNavam hi-ISvaram vidyAt sarvasya hRdi saMsTitam /
+   sarvavyāpinam oṃkāraṃ matvā dhīro na śocati // 1.28 //	sarva-vyApinam oMkAram matvA DIraH na Socati // 1.28 //
+   amātro 'nantamātraś ca dvaitasyopaśamaḥ śivaḥ /	amAtraH ananta-mAtraH ca dvEtasya-upaSamaH SivaH /
+   oṃkāro vidito yena sa munir netaro janaḥ // 1.29 //	oMkAraH viditaH yena sa muniH na-itaraH janaH // 1.29 //
+   [col: iti (māṇḍūkyopaniṣadarthāviṣkaraṇaparāyāṃ gauḍapādīyakārikāyāṃ	[col: iti (mANxUkya-upanizad-arTa-AvizkaraNa-parAyAm gOxapAdIya-kArikAyAm
+   prathamam āgamaprakaraṇam	praTamam Agama-prakaraNam
+   [B:]gaudapādīye āgamaśāstre āgamākhyaṃ prathamaṃ prakaraṇaṃ samāptam)	[B:]ga-OdapAdIye AgamaSAstre Agama-AKyam praTamam prakaraNam samAptam)
+   :col]	:col]
+   (atha gauḍapādīyakārikāyāṃ vaitathyākhyaṃ dvitīyaṃ prakaraṇam [K:]dvitīyaṃ	(aTa gOxapAdIya-kArikAyAm vEtaTya-AKyam dvitIyam prakaraNam [K:]dvitIyam
+   prakaraṇam	prakaraNam
+   [S:]vaitathyaprakaraṇam)	[S:]-vEtaTya-prakaraNam)
+   vaitathyaṃ sarvabhāvānāṃ svapne āhur manīṣiṇaḥ /	vEtaTyam sarva-BAvAnAm svapne AhuH manIziNaH /
+   antaḥsthānāt tu bhāvānāṃ saṃvṛtatvena hetunā // 2.1 //	antar-sTAnAt tu BAvAnAm saMvRta-tvena hetunA // 2.1 //
+   adīrghatvāc ca kālasya gatvā deśān na paśyati /	adIrGa-tvAt ca kAlasya gatvA deSAt na paSyati /
+   pratibuddhaś ca vai sarvas tasmin deśe na vidyate // 2.2 //	pratibudDaH ca vE sarvaH tasmin deSe na vidyate // 2.2 //
+   abhāvaś ca rathādīnāṃ śrūyate nyāyapūrvakam /	aBAvaH ca raTa-AdInAm SrUyate nyAya-pUrvakam /
+   vaitathyaṃ tena vai prāptaṃ svapne āhuḥ prakāśitam // 2.3 //	vEtaTyam tena vE prAptam svapne AhuH prakASitam // 2.3 //
+   antaḥsthānāt tu bhedānāṃ (tasmāj [B:]tathā) jāgarite smṛtam /	antar-sTAnAt tu BedAnAm (tasmAt [B:]taTA) jAgarite smRtam /
+   yathā tatra tathā svapne (saṃvṛtatvena [B:]saṃvṛtatvaṃ na) bhidyate // 2.4	yaTA tatra taTA svapne (saMvRta-tvena [B:]-saMvRta-tvam na) Bidyate // 2.4
+   (svapnajāgaritasthāne [B,S:]svapnajāgarite sthāne) hy ekam āhur manīṣiṇaḥ	(svapna-jAgarita-sTAne [B,S:]-svapna-jAgarite sTAne) hi ekam AhuH manIziNaH
+   bhedānāṃ hi samatvena prasiddhenaiva hetunā // 2.5 //	BedAnAm hi samatvena prasidDena-eva hetunA // 2.5 //
+   ādāv ante ca yan nāsti vartamāne 'pi tat tathā /	AdO ante ca yat na-asti vartamAne api tat taTA /
+   vitathaiḥ sadṛśāḥ santo avitathā iva lakṣitāḥ // 2.6 //	vitaTEH sadRSAH santaH avitaTAH iva lakzitAH // 2.6 //
+   saprayojanatā teṣāṃ svapne (vipratipadyate [B:]api pratipadyate) /	sa-prayojana-tA tezAm svapne (vipratipadyate [B:]-api pratipadyate) /
+   tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // 2.7 //	tasmAt Adi-antavat-tvena miTyA-eva Kalu te smRtAH // 2.7 //
+   (apūrvaṃ [B:]apūrvāḥ) sthāni(dharmo [B:]dharmā) hi yathā svarganivāsinām /	(a-pUrvam [B:]a-pUrvAH) sTAni(-DarmaH [B:]DarmA) hi yaTA svarga-nivAsinAm /
+   tān ayaṃ prekṣate gatvā yathaiveha suśikṣitaḥ // 2.8 //	tAn ayam prekzate gatvA yaTA-eva-iha su-SikzitaH // 2.8 //
+   svapnavṛttāv api tv antaś cetasā kalpitaṃ tv asat /	svapna-vRttO api tu antar cetasA kalpitam tu asat /
+   bahiś cetogṛhītaṃ sad dṛṣṭaṃ vaitathyam etayoḥ // 2.9 //	bahis cetaH-gRhItam sat dRzwam vEtaTyam etayoH // 2.9 //
+   jāgradvṛttāv api tv antaś cetasā kalpitaṃ tv asat /	jAgrat-vRttO api tu antar cetasA kalpitam tu asat /
+   bahiś cetogṛhītaṃ sad yuktaṃ vaitathyam etayoḥ // 2.10 //	bahis cetaH-gRhItam sat yuktam vEtaTyam etayoH // 2.10 //
+   ubhayor api vaitathyaṃ bhedānāṃ sthānayor yadi /	uBayoH api vEtaTyam BedAnAm sTAnayoH yadi /
+   ka etān budhyate bhedān ko vai teṣāṃ vikalpakaḥ // 2.11 //	kaH etAn buDyate BedAn kaH vE tezAm vikalpakaH // 2.11 //
+   kalpayaty ātmanātmānam ātmā devaḥ svamāyayā /	kalpayati AtmanA-AtmAnam AtmA devaH sva-mAyayA /
+   sa eva budhyate bhedān iti vedāntaniścayaḥ // 2.12 //	saH eva buDyate BedAn iti vedAnta-niScayaH // 2.12 //
+   vikaroty aparān bhāvān antaś citte (vyavasthitān [B:]avyavasthitān) /	vikaroti aparAn BAvAn antar citte (vyavasTitAn [B:]a-vyavasTitAn) /
+   niyatāṃś ca bahiś citte evaṃ kalpayate prabhuḥ // 2.13 //	niyatAn ca bahis citte evam kalpayate praBuH // 2.13 //
+   citta(kālā hi [B:]kālāś ca) ye 'ntas tu dvayakālāś ca ye bahiḥ /	citta(kAlAH hi [B:]kAlAH ca) ye antar tu dvaya-kAlAH ca ye bahis /
+   kalpitā eva te sarve viśeṣo nānyahetukaḥ // 2.14 //	kalpitAH eva te sarve viSezaH na-anya-hetukaH // 2.14 //
+   avyaktā eva ye 'ntas tu sphuṭā eva ca ye bahiḥ /	avyaktAH eva ye antar tu sPuwAH eva ca ye bahis /
+   kalpitā eva te sarve viśeṣas tv indriyāntare // 2.15 //	kalpitAH eva te sarve viSezaH tu indriya-antare // 2.15 //
+   jīvaṃ kalpayate pūrvaṃ tato bhāvān pṛthagvidhān /	jIvam kalpayate pUrvam tatas BAvAn pRTagviDAn /
+   bāhyān ādhyātmikāṃś caiva yathāvidyas tathāsmṛtiḥ // 2.16 //	bAhyAn ADyAtmikAn ca-eva yaTA-vidyaH taTA-asmRtiH // 2.16 //
+   aniścitā yathā rajjur andhakāre vikalpitā /	aniScitAH yaTA rajjuH anDakAre vikalpitA /
+   sarpadhārādibhir bhāvais tadvad ātmā vikalpitaḥ // 2.17 //	sarpa-DArA-AdiBiH BAvEH tadvat AtmA vikalpitaH // 2.17 //
+   niścitāyāṃ yathā rajjvāṃ vikalpo vinivartate /	niScitAyAm yaTA rajjvAm vikalpaH vinivartate /
+   rajjur eveti cādvaitaṃ tadvad ātmaviniścayaḥ // 2.18 //	rajjuH eva-iti ca-advEtam tadvat Atma-viniScayaH // 2.18 //
+   prāṇādibhir (anantaiś ca [B,S:]anantais tu) $ bhāvair etair vikalpitaḥ /	prANa-AdiBiH (anantEH ca [B,S:]anantEH tu) $ BAvEH etEH vikalpitaH /
+   māyaiṣā tasya devasya (yayā saṃmohitaḥ [B,S:]yayāyaṃ mohitaḥ) svayam //	mAyA-ezA tasya devasya (yayA saMmohitaH [B,S:]yayA-ayam mohitaH) svayam //
+   (prāṇa [B:]prāṇā) iti prāṇavido bhūtānīti ca tadvidaḥ /	(prANaH [B:]-prANA) iti prANa-vidaH BUtAni-iti ca tad-vidaH /
+   guṇā iti guṇavidas tattvānīti ca tadvidaḥ // 2.20 //	guNAH iti guNa-vidaH tattvAni-iti ca tad-vidaH // 2.20 //
+   pādā iti pādavido viṣayā iti tadvidaḥ /	pAdAH iti pAda-vidaH vizayAH iti tad-vidaH /
+   lokā iti lokavido devā iti ca tadvidaḥ // 2.21 //	lokAH iti loka-vidaH devAH iti ca tad-vidaH // 2.21 //
+   vedā iti vedavido yajñā iti ca tadvidaḥ /	vedAH iti veda-vidaH yajQAH iti ca tad-vidaH /
+   bhokteti ca bhoktṛvido bhojyam iti ca tadvidaḥ // 2.22 //	BoktA-iti ca BoktR-vidaH Bojyam iti ca tad-vidaH // 2.22 //
+   sūkṣma iti sūkṣmavidaḥ sthūla iti ca tadvidaḥ /	sUkzmaH iti sUkzma-vidaH sTUlaH iti ca tad-vidaH /
+   mūrta iti mūrtavido amūrta iti ca tadvidaḥ // 2.23 //	mUrtaH iti mUrta-vidaH amUrtaH iti ca tad-vidaH // 2.23 //
+   kāla iti kālavido diśa iti ca tadvidaḥ /	kAlaH iti kAla-vidaH diSaH iti ca tad-vidaH /
+   vādā iti vādavido bhuvanānīti tadvidaḥ // 2.24 //	vAdAH iti vAda-vidaH BuvanAni-iti tad-vidaH // 2.24 //
+   mana iti manovido buddhir iti ca tadvidaḥ /	manaH iti manaH-vidaH budDiH iti ca tad-vidaH /
+   cittam iti cittavido dharmādharmau ca tadvidaḥ // 2.25 //	cittam iti citta-vidaH Darma-aDarmO ca tad-vidaH // 2.25 //
+   pañcaviṃśaka ity eke ṣaḍviṃśa iti cāpare /	paQcaviMSakaH iti eke zaxviMSaH iti ca-apare /
+   ekatriṃśaka ity āhur ananta iti cāpare // 2.26 //	ekatriMSakaH iti AhuH anantaH iti ca-apare // 2.26 //
+   lokāṃl lokavidaḥ prāhur āśramā iti tadvidaḥ /	lokAn loka-vidaH prAhuH ASramAH iti tad-vidaH /
+   strīpuṃnapuṃsakaṃ laiṅgāḥ parāparam athāpare // 2.27 //	strI-puMnapuMsakam lEFgAH para-aparam aTa-apare // 2.27 //
+   sṛṣṭir iti sṛṣṭivido laya iti ca tadvidaḥ /	sRzwiH iti sRzwi-vidaH layaH iti ca tad-vidaH /
+   sthitir iti sthitividaḥ (sarve [B:]sarvaṃ) ceha tu sarvadā // 2.28 //	sTitiH iti sTiti-vidaH (sarve [B:]-sarvan) ca-iha tu sarvadA // 2.28 //
+   yaṃ bhāvaṃ darśayed yasya taṃ bhāvaṃ sa tu paśyati /	yam BAvam darSayet yasya tam BAvam sa tu paSyati /
+   taṃ cāvati sa bhūtvāsau tadgrahaḥ samupaiti tam // 2.29 //	tam ca-avati sa BUtvA-asO tad-grahaH samupEti tam // 2.29 //
+   etair eṣo apṛthagbhāvaiḥ pṛthag eveti lakṣitaḥ /	etEH ezaH apRTagBAvEH pRTak eva-iti lakzitaH /
+   evaṃ yo veda tattvena kalpayet so 'viśaṅkitaḥ // 2.30 //	evam yaH veda tattvena kalpayet saH aviSaFkitaH // 2.30 //
+   svapnamāye yathā dṛṣṭe gandharvanagaraṃ yathā /	svapna-mAye yaTA dRzwe ganDarvanagaram yaTA /
+   tathā viśvam idaṃ dṛṣṭaṃ vedānteṣu vicakṣaṇaiḥ // 2.31 //	taTA viSvam idam dRzwam vedAntezu vicakzaNEH // 2.31 //
+   na nirodho na cotpattir na baddho na ca sādhakaḥ /	na niroDaH na ca-utpattiH na badDaH na ca sADakaH /
+   na mumukṣur na vai mukta ity eṣā paramārthatā // 2.32 //	na mumukzuH na vE muktaH iti ezA paramArTa-tA // 2.32 //
+   bhāvair asadbhir evāyam advayena ca kalpitaḥ /	BAvEH asadBiH eva-ayam advayena ca kalpitaH /
+   bhāvā apy advayenaiva tasmād advayatā śivā // 2.33 //	BAvAH api advayena-eva tasmAt advayatA SivAH // 2.33 //
+   (nātma[B:]nānya)bhāvena nānedaṃ na svenāpi kathaṃcana /	(nA-Atma[-B:]nAnya)BAvena nAnA-idam na svena-api kaTaMcana /
+   na pṛthaṅ nāpṛthak kiṃcid iti tattvavido viduḥ // 2.34 //	na pRTak na-apRTak kiMcid iti tattva-vidaH viduH // 2.34 //
+   vītarāgabhayakrodhair munibhir vedapāragaiḥ /	vIta-rAga-Baya-kroDEH muniBiH vedapAragEH /
+   nirvikalpo hy ayaṃ dṛṣṭaḥ prapañcopaśamo 'dvayaḥ // 2.35 //	nirvikalpaH hi ayam dRzwaH prapaQca-upaSamaH advayaH // 2.35 //
+   tasmād evaṃ viditvainam advaite yojayet smṛtim /	tasmAt evam viditvA-enam advEte yojayet smRtim /
+   advaitaṃ samanuprāpya jaḍaval lokam ācaret // 2.36 //	advEtam samanuprApya jaxa-vat lokam Acaret // 2.36 //
+   niḥstutir nirnamaskāro niḥsvadhākāra eva ca /	niHstutiH nirnamaskAraH niHsvaDAkAraH eva ca /
+   calācalaniketaś ca yatir yādṛcchiko bhavet // 2.37 //	calAcala-niketaH ca yatiH yAdRcCikaH Bavet // 2.37 //
+   tattvam ādhyātmikaṃ dṛṣṭvā tattvaṃ dṛṣṭvā tu bāhyataḥ /	tattvam ADyAtmikam dRzwvA tattvam dRzwvA tu bAhyatas /
+   tattvībhūtas tadārāmas tattvād apracyuto bhavet // 2.38 //	tattvIBUtaH tad-ArAmaH tattvAt apracyutaH Bavet // 2.38 //
+   [col: iti (gauḍapādīyakārikāyāṃ [B:]gauḍapādīye āgamaśāstre	[col: iti (gOxapAdIya-kArikAyAm [B:]-gOxapAdIye Agama-SAstre
+   [S:]gauḍapādīyakārikāsu)vaitathyākhyaṃ	[S:]-gOxapAdIya-kArikA-su)vEtaTya-AKyam
+   dvitīyaṃ (prakaraṇam [B:]prakaraṇaṃ samāptam) :col]	dvitIyam (prakaraNam [B:]-prakaraNam samAptam) :col]
+   atha gauḍapādīyakārikāsv advaitākhyaṃ tṛtīyaṃ prakaraṇam | oṃ	aTa gOxapAdIya-kArikAsu advEta-AKyam tRtIyam prakaraNam | om
+   upāsanāśrito dharmo jāte brahmaṇi vartate /	upAsana-ASritaH DarmaH jAte brahmaNi vartate /
+   prāg utpatter ajaṃ sarvaṃ tenāsau kṛpaṇaḥ smṛtaḥ // 3.1 //	prAk utpatteH ajam sarvam tena-asO kRpaNaH smRtaH // 3.1 //
+   ato vakṣyāmy akārpaṇyam ajāti samatāṃ gatam /	atas vakzyAmi akArpaNyam ajAti sama-tAm gatam /
+   yathā na jāyate kiṃcij jāyamānaṃ samantataḥ // 3.2 //	yaTA na jAyate kiMcid jAyamAnam samantataH // 3.2 //
+   ātmā hy ākāśavaj jīvair ghaṭākāśair ivoditaḥ /	AtmA hi AkASa-vat jIvEH Gawa-AkASEH iva-uditaH /
+   ghaṭādivac ca saṃghātair jātāv etan nidarśanam // 3.3 //	Gawa-Adi-vat ca saMGAtEH jAtO etat nidarSanam // 3.3 //
+   ghaṭādiṣu pralīneṣu ghaṭākāśādayo yathā /	Gawa-Adizu pralInezu Gawa-AkASa-AdayaH yaTA /
+   ākāśe saṃpralīyante tadvaj jīvā ihātmani // 3.4 //	AkASe saMpralIyante tadvat jIvAH iha-Atmani // 3.4 //
+   yathaikasmin ghaṭākāśe rajodhūmādibhir yute /	yaTA-ekasmin Gawa-AkASe rajaH-DUma-AdiBiH yute /
+   na sarve saṃprayujyante tadvaj jīvāḥ sukhādibhiḥ // 3.5 //	na sarve saMprayujyante tadvat jIvAH suKa-AdiBiH // 3.5 //
+   rūpakāryasamākhyāś ca bhidyante tatra tatra vai /	rUpa-kArya-samAKyAH ca Bidyante tatra tatra vE /
+   ākāśasya na bhedo 'sti tadvaj jīveṣu nirṇayaḥ // 3.6 //	AkASasya na BedaH asti tadvat jIvezu nirNayaH // 3.6 //
+   nākāśasya ghaṭākāśo vikārāvayavau yathā /	na-AkASasya Gawa-AkASaH vikAra-avayavO yaTA /
+   naivātmanaḥ sadā jīvo vikārāvayavau tathā // 3.7 //	na-eva-AtmanaH sadA jIvaH vikAra-avayavO taTA // 3.7 //
+   yathā bhavati bālānāṃ gaganaṃ malinaṃ malaiḥ /	yaTA Bavati bAlAnAm gaganam malinam malEH /
+   tathā bhavaty abuddhānām ātmāpi malino malaiḥ // 3.8 //	taTA Bavati abudDAnAm AtmA-api malinaH malEH // 3.8 //
+   maraṇe saṃbhave caiva gatyāgamanayor api /	maraNe saMBave ca-eva gati-AgamanayoH api /
+   (sthitau [B:]sthitaḥ) sarvaśarīreṣu (ākāśenā[K,S:]cākāśenā)vilakṣaṇaḥ	(sTitO [B:]-sTitaH) sarva-SarIrezu (a-AkASena-a[K,S:]ca-AkASenA)-vilakzaNaH
+   [CHECK!] // 3.9 //	[SHECK!] // 3.9 //
+   saṃghātāḥ svapnavat (sarve [K: ,S:]sarve) ātmamāyāvisarjitāḥ [CHECK!] /	saMGAtAH svapna-vat (sarve [K: ,S:]-sarve) Atma-mAyA-visarjitAH [SHECK!] /
+   ādhikye sarvasāmye vā nopapattir hi vidyate // 3.10 //	ADikye sarva-sAmye vA na-upapattiH hi vidyate // 3.10 //
+   rasādayo hi ye kośā vyākhyātās taittirīyake /	rasa-AdayaH hi ye koSAH vyAKyAtAH tEttirIyake /
+   teṣāṃ ātmā paro jīvaḥ (khaṃ yathā [B:]sayathā) saṃprakāśitaḥ // 3.11 //	tezAm AtmA paraH jIvaH (Kam yaTA [B:]sa-yaTA) saMprakASitaH // 3.11 //
+   dvayor dvayor madhujñāne paraṃ brahma prakāśitam /	dvayoH dvayoH maDu-jQAne param brahma prakASitam /
+   pṛthivyām udare caiva yathākāśaḥ prakāśitaḥ // 3.12 //	pRTivyAm udare ca-eva yaTA-AkASaH prakASitaH // 3.12 //
+   jīvātmanor ananyatvam abhedena praśasyate /	jIvAtmanoH ananya-tvam aBedena praSasyate /
+   nānātvaṃ nindyate yac ca tad evaṃ hi samañjasam // 3.13 //	nAnAtvam nindyate yat ca tat evam hi samaQjasam // 3.13 //
+   jīvātmanoḥ pṛthaktvaṃ yat prāg utpatteḥ prakīrtitam /	jIvAtmanoH pRTaktvam yat prAk utpatteH prakIrtitam /
+   bhaviṣyadvṛttyā gauṇaṃ tan mukhyatvaṃ (hi na [B:]na hi) yujyate // 3.14 //	Bavizyat-vRttyA gONam tat muKya-tvam (hi na [B:]na hi) yujyate // 3.14 //
+   mṛllohavisphuliṅgādyaiḥ sṛṣṭir yā coditānyathā /	mRd-loha-visPuliFga-AdyEH sRzwiH yA coditA-anyaTA /
+   upāyaḥ so 'vatārāya nāsti bhedaḥ kathaṃcana // 3.15 //	upAyaH saH avatArAya na-asti BedaH kaTaMcana // 3.15 //
+   āśramās trividhā hīna $ madhyamotkṛṣṭadṛṣṭayaḥ /	ASramAH triviDA hInaH $ maDyama-utkRzwa-dRzwayaH /
+   upāsanopadiṣṭeyaṃ tadartham anukampayā // 3.16 //	upAsana-upadizwA-iyam tad-arTam anukampayA // 3.16 //
+   svasiddhāntavyavasthāsu dvaitino niścitā dṛḍham /	sva-sidDAnta-vyavasTAsu dvEtinaH niScitA dRXam /
+   parasparaṃ virudhyante tair ayaṃ na virudhyate // 3.17 //	parasparam viruDyante tEH ayam na viruDyate // 3.17 //
+   advaitaṃ paramārtho hi dvaitaṃ tadbheda ucyate /	advEtam parama-arTaH hi dvEtam tad-BedaH ucyate /
+   teṣām ubhayathā dvaitaṃ tenāyaṃ na virudhyate // 3.18 //	tezAm uBayaTA dvEtam tena-ayam na viruDyate // 3.18 //
+   māyayā bhidyate hy etan nānyathājaṃ kathaṃcana /	mAyayA Bidyate hi etat na-anyaTA-Ajam kaTaMcana /
+   tattvato bhidyamāne hi martyatām amṛtaṃ vrajet // 3.19 //	tattvataH BidyamAne hi martyatAm amRtam vrajet // 3.19 //
+   ajātasyaiva bhāvasya jātim icchanti vādinaḥ /	ajAtasya-eva BAvasya jAtim icCanti vAdinaH /
+   ajāto hy amṛto bhāvo martyatāṃ katham eṣyati // 3.20 //	ajAtaH hi amRtaH BAvaH martyatAm kaTam ezyati // 3.20 //
+   na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /	na Bavati amRtam martyam na martyam amRtam taTA /
+   prakṛter anyathābhāvo na kathaṃcid bhaviṣyati // 3.21 //	prakRteH anyaTA-BAvaH na kaTaMcid Bavizyati // 3.21 //
+   svabhāvenāmṛto yasya bhāvo gacchati martyatām /	svaBAvena-amRtaH yasya BAvaH gacCati martyatAm /
+   kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // 3.22 //	kRtakena-amRtaH tasya kaTam sTAsyati niScalaH // 3.22 //
+   bhūtato 'bhūtato vāpi sṛjyamāne samā śrutiḥ /	BUtataH aBUtatas vA-api sRjyamAne samA SrutiH /
+   niścitaṃ yuktiyuktaṃ ca yat tad bhavati netarat // 3.23 //	niScitam yukti-yuktam ca yat tat Bavati na-itarat // 3.23 //
+   neha nāneti cāmnāyād indro māyābhir ity api /	na-iha nAnA-iti ca-AmnAyAt indraH mAyABiH iti api /
+   ajāyamāno bahudhā māyayā jāyate tu saḥ // 3.24 //	ajAyamAnaH bahuDA mAyayA jAyate tu saH // 3.24 //
+   saṃbhūter apavādāc ca saṃbhavaḥ pratiṣidhyate /	saMBUteH apavAdAt ca saMBavaH pratiziDyate /
+   ko (nv [K,B,S:]tv) enaṃ janayed iti kāraṇaṃ pratiṣidhyate [CHECK!] // 3.25	kaH (nu [K,B,S:]tv) enam janayet iti kAraNam pratiziDyate [SHECK!] // 3.25
+   sa eṣa neti netīti vyākhyātaṃ nihnute yataḥ /	saH eza na-iti na-iti-iti vyAKyAtam nihnute yatas /
+   sarvam agrāhyabhāvena hetunājaṃ prakāśate // 3.26 //	sarvam agrAhya-BAvena hetunA-Ajam prakASate // 3.26 //
+   sato hi māyayā janma yujyate na tu tattvataḥ /	sataH hi mAyayA janma yujyate na tu tattvataH /
+   tattvato jāyate yasya jātaṃ tasya hi jāyate // 3.27 //	tattvataH jAyate yasya jAtam tasya hi jAyate // 3.27 //
+   asato māyayā janma tattvato naiva yujyate /	asataH mAyayA janma tattvataH na-eva yujyate /
+   vandhyāputro na tattvena māyayā vāpi jāyate // 3.28 //	vanDyA-putraH na tattvena mAyayA vA-api jAyate // 3.28 //
+   yathā svapne dvayābhāsaṃ spandate māyayā manaḥ /	yaTA svapne dvaya-ABAsam spandate mAyayA manaH /
+   tathā jāgraddvayābhāsaṃ spandate māyayā manaḥ // 3.29 //	taTA jAgrat-dvaya-ABAsam spandate mAyayA manaH // 3.29 //
+   advayaṃ ca dvayābhāsaṃ manaḥ svapne na saṃśayaḥ /	advayam ca dvaya-ABAsam manaH svapne na saMSayaH /
+   advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // 3.30 //	advayam ca dvaya-ABAsam taTA jAgrat na saMSayaH // 3.30 //
+   manodṛśyam idaṃ dvaitaṃ yat kiṃcit sacarācaram /	manaH-dRSyam idam dvEtam yat kiMcid sacarAcaram /
+   manaso hy amanībhāve dvaitaṃ naivopalabhyate // 3.31 //	manasaH hi amanIBAve dvEtam na-eva-upalaByate // 3.31 //
+   ātmasatyānubodhena na saṃkalpayate yadā /	Atma-satya-anuboDena na saMkalpayate yadA /
+   amanastāṃ tadā yāti grāhyābhāve (tad agraham [B:]tadagrahāt) // 3.32 //	amanaH-tAm tadA yAti grAhya-aBAve (tat agraham [B:]-tada-graha-at) // 3.32 //
+   akalpakam ajaṃ jñānaṃ jñeyābhinnaṃ pracakṣate /	akalpakam ajam jQAnam jQeya-aBinnam pracakzate /
+   brahma jñeyam ajaṃ nityam ajenājaṃ vibudhyate // 3.33 //	brahma jQeyam ajam nityam ajena-Ajam vibuDyate // 3.33 //
+   nigṛhītasya manaso nirvikalpasya dhīmataḥ /	nigRhItasya manasaH nirvikalpasya DImataH /
+   pracāraḥ sa tu vijñeyaḥ suṣupte 'nyo na tatsamaḥ // 3.34 //	pracAraH sa tu vijQeyaH suzupte anyaH na tad-samaH // 3.34 //
+   līyate hi suṣupte tan nigṛhītaṃ na līyate /	lIyate hi suzupte tat nigRhItam na lIyate /
+   tad eva nirbhayaṃ brahma jñānālokaṃ samantataḥ // 3.35 //	tat eva nirBayam brahma jQAna-Alokam samantataH // 3.35 //
+   ajam anidram asvapnam anāmakam arūpakam /	ajam anidram asvapnam anAmakam arUpakam /
+   sakṛdvibhātaṃ sarvajñaṃ nopacāraḥ kathaṃcana // 3.36 //	sakRt-viBAtam sarvajQam na-upacAraH kaTaMcana // 3.36 //
+   sarvābhilāpavigataḥ $ sarvacintāsamutthitaḥ /	sarva-aBilApa-vigataH $ sarva-cintA-samutTitaH /
+   supraśāntaḥ sakṛjjyotiḥ samādhir acalo 'bhayaḥ // 3.37 //	su-praSAntaH sakRjjyotiH samADiH acalaH aBayaH // 3.37 //
+   graho na tatra notsargaś cintā yatra na vidyate /	grahaH na tatra na-utsargaH cintA yatra na vidyate /
+   ātmasaṃsthaṃ tadā jñānam ajāti samatāṃ gatam // 3.38 //	Atma-saMsTam tadA jQAnam ajAti sama-tAm gatam // 3.38 //
+   asparśayogo (vai nāma [B:]nāmaiṣa) durdarśaḥ sarvayogibhiḥ /	asparSa-yogaH (vE nAma [B:]nAma-eza) durdarSaH sarva-yogiBiH /
+   yogino bibhyati hy asmād abhaye bhayadarśinaḥ // 3.39 //	yoginaH biByati hi asmAt aBaye Baya-darSinaH // 3.39 //
+   manaso nigrahāyattam abhayaṃ sarvayogiṇām /	manasaH nigraha-Ayattam aBayam sarva-yogiNAm /
+   duḥkhakṣayaḥ prabodhaś cāpy akṣayā śāntir eva ca // 3.40 //	duHKa-kzayaH praboDaH ca-api akzayA SAntiH eva ca // 3.40 //
+   utseka udadher yadvat $ kuśāgreṇaikabindunā /	utsekaH udaDeH yadvat $ kuSa-agreNa-eka-bindunA /
+   manaso nigrahas tadvad bhaved aparikhedataḥ // 3.41 //	manasaH nigrahaH tadvat Bavet apariKedataH // 3.41 //
+   upāyena nigṛhṇīyād vikṣiptaṃ kāmabhogayoḥ /	upAyena nigRhNIyAt vikziptam kAma-BogayoH /
+   suprasannaṃ laye caiva yathā kāmo layas tathā // 3.42 //	su-prasannam laye ca-eva yaTA kAmaH layaH taTA // 3.42 //
+   duḥkhaṃ sarvam anusmṛtya (kāma[S:]kāya)bhogān nivartayet /	duHKam sarvam anusmRtya (kAma[-S:]kAya)-BogAn nivartayet /
+   ajaṃ sarvam anusmṛtya jātaṃ naiva tu paśyati // 3.43 //	ajam sarvam anusmRtya jAtam na-eva tu paSyati // 3.43 //
+   laye saṃbodhayec cittaṃ vikṣiptaṃ śamayet punaḥ /	laye saMboDayet cittam vikziptam Samayet punar /
+   sakaṣāyaṃ (vijānīyāt sama [B:]vijānīyāc chama)prāptaṃ na cālayet // 3.44	sa-kazAyam (vijAnIyAt samaH [B:]vijAnIyAt Sama)-prAptam na cAlayet // 3.44
+   nāsvādayet sukhaṃ tatra niḥsaṅgaḥ prajñayā bhavet /	na-AsvAdayet suKam tatra niHsaFgaH prajQayA Bavet /
+   niścalaṃ niścarat cittam ekīkuryāt prayatnataḥ // 3.45 //	niScalam niScarat cittam ekIkuryAt prayatnataH // 3.45 //
+   yadā na līyate cittaṃ na ca vikṣipyate punaḥ /	yadA na lIyate cittam na ca vikzipyate punar /
+   aniṅganam anābhāsaṃ niṣpannaṃ brahma tat tadā // 3.46 //	aniFganam anABAsam nizpannam brahma tat tadA // 3.46 //
+   svasthaṃ śāntaṃ sanirvāṇam akathyaṃ sukham uttamam /	svasTam SAntam sa-nirvANam akaTyam suKam uttamam /
+   ajam ajena jñeyena sarvajñaṃ paricakṣate // 3.47 //	ajam ajena jQeyena sarvajQam paricakzate // 3.47 //
+   na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /	na kaScid jAyate jIvaH saMBavaH asya na vidyate /
+   etat tad uttamaṃ satyaṃ yatra kiṃcin na jāyate // 3.48 //	etat tat uttamam satyam yatra kiMcid na jAyate // 3.48 //
+   [col: iti (gauḍapādīyakārikāyām advaitākhyaṃ [B:]gauḍapādīye āgamaśāstre	[col: iti (gOxapAdIya-kArikAyAm advEta-AKyam [B:]-gOxapAdIye Agama-SAstre
+   'dvaitākhyaṃ) tṛtīyaṃ	advEta-AKyan) tRtIyam
+   (prakaraṇam || oṃ tat sat || [B:]prakaraṇaṃ samāptam) :col]	(prakaraNam || om tat sat || [B:]-prakaraNam samAptam) :col]
+   athālātaśāntyākhyaṃ caturthaprakaraṇam	aTa-alAta-SAnti-AKyam caturTa-prakaraNam
+   jñānenākāśakalpena dharmān yo gaganopamān /	jQAnena-AkASa-kalpena DarmAn yaH gagana-upamAn /
+   jñeyābhinnena saṃbuddhas taṃ vande dvipadāṃ varam // 4.1 //	jQeya-aBinnena saMbudDaH tam vande dvipadAm varam // 4.1 //
+   asparśayogo vai nāma sarvasattvasukho hitaḥ /	asparSa-yogaH vE nAma sarva-sattva-suKaH hitaH /
+   avivādo aviruddhaś ca deśitas taṃ namāmy aham // 4.2 //	avivAdaH avirudDaH ca deSitaH tam namAmi aham // 4.2 //
+   bhūtasya jātim icchanti vādinaḥ kecid eva hi /	BUtasya jAtim icCanti vAdinaH kecid eva hi /
+   abhūtasyāpare dhīrā vivadantaḥ parasparam // 4.3 //	aBUtasya-apare DIrAH vivadantaH parasparam // 4.3 //
+   bhūtaṃ na jāyate kiṃcid abhūtaṃ naiva jāyate /	BUtam na jAyate kiMcid aBUtam na-eva jAyate /
+   vivadanto (dvayā [B:]advayā) hy evam ajātiṃ khyāpayanti te // 4.4 //	vivadantaH (dvayAH [B:]a-dvayA) hi evam ajAtim KyApayanti te // 4.4 //
+   khyāpyamānām ajātiṃ tair anumodāmahe vayam /	KyApyamAnAm ajAtim tEH anumodAmahe vayam /
+   vivadāmo na taiḥ sārdham avivādaṃ nibodhata // 4.5 //	vivadAmaH na tEH sArDam avivAdam niboData // 4.5 //
+   ajātasyaiva dharmasya jātim icchanti vādinaḥ /	ajAtasya-eva Darmasya jAtim icCanti vAdinaH /
+   ajāto hy amṛto dharmo martyatāṃ katham eṣyati // 4.6 //	ajAtaH hi amRtaH DarmaH martyatAm kaTam ezyati // 4.6 //
+   na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā /	na Bavati amRtam martyam na martyam amRtam taTA /
+   prakṛter anyathābhāvo na kathaṃcid bhaviṣyati // 4.7 //	prakRteH anyaTA-BAvaH na kaTaMcid Bavizyati // 4.7 //
+   svabhāvenāmṛto yasya dharmo gacchati martyatām /	svaBAvena-amRtaH yasya DarmaH gacCati martyatAm /
+   kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // 4.8 //	kRtakena-amRtaH tasya kaTam sTAsyati niScalaH // 4.8 //
+   sāṃsiddhikī svābhāvikī (sahajā [B:]sahajāpy) akṛtā ca yā /	sAMsidDikI svABAvikI (sahajA [B:]-sahajA-apy) akRtA ca yA /
+   prakṛtiḥ seti vijñeyā svabhāvaṃ na jahāti yā // 4.9 //	prakRtiH sA-iti vijQeyA svaBAvam na jahAti yA // 4.9 //
+   jarāmaraṇanirmuktāḥ sarve dharmāḥ svabhāvataḥ /	jarA-maraNa-nirmuktAH sarve DarmAH svaBAvataH /
+   jarāmaraṇam icchantaś cyavante tanmanīṣayā // 4.10 //	jarA-maraNam icCantaH cyavante tad-manIzayA // 4.10 //
+   kāraṇaṃ yasya vai kāryaṃ kāraṇaṃ tasya jāyate /	kAraNam yasya vE kAryam kAraNam tasya jAyate /
+   jāyamānaṃ katham ajaṃ bhinnaṃ nityaṃ kathaṃ ca tat // 4.11 //	jAyamAnam kaTam ajam Binnam nityam kaTam ca tat // 4.11 //
+   kāraṇād (yady [B:]yad) ananyatvam ataḥ kāryam ajaṃ (tava [B:]yadi) /	kAraNAt (yadi [B:]yad) ananya-tvam atas kAryam ajam (tavaH [B:]yadi) /
+   jāyamānād dhi vai kāryāt kāraṇaṃ te kathaṃ dhruvam // 4.12 //	jAyamAnAt Di vE kAryAt kAraNam te kaTam Druvam // 4.12 //
+   ajād vai jāyate yasya dṛṣṭāntas tasya nāsti vai /	ajAt vE jAyate yasya dRzwAntaH tasya na-asti vE /
+   jātāc ca jāyamānasya (na vyavasthā [B:]navyavasthā) prasajyate // 4.13 //	jAtAt ca jAyamAnasya (na vyavasTA [B:]na-vyavasTA) prasajyate // 4.13 //
+   hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca /	hetoH AdiH Palam yezAm AdiH hetuH Palasya ca /
+   hetoḥ phalasya cānādiḥ kathaṃ tair upavarṇyate // 4.14 //	hetoH Palasya ca-anAdiH kaTam tEH upavarNyate // 4.14 //
+   hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca /	hetoH AdiH Palam yezAm AdiH hetuH Palasya ca /
+   tathā janma bhavet teṣāṃ putrāj janma pitur yathā // 4.15 //	taTA janma Bavet tezAm putrAt janma pituH yaTA // 4.15 //
+   saṃbhave hetuphalayor eṣitavyaḥ kramas tvayā /	saMBave hetu-PalayoH ezitavyaH kramaH tvayA /
+   yugapat saṃbhave yasmād asaṃbandho viṣāṇavat // 4.16 //	yugapad saMBave yasmAt asaMbanDaH vizANa-vat // 4.16 //
+   phalād utpadyamānaḥ san na te hetuḥ prasidhyati /	PalAt utpadyamAnaH san na te hetuH prasiDyati /
+   aprasiddhaḥ kathaṃ hetuḥ phalam utpādayiṣyati // 4.17 //	aprasidDaH kaTam hetuH Palam utpAdayizyati // 4.17 //
+   yadi hetoḥ phalāt siddhiḥ phalasiddhiś ca hetutaḥ /	yadi hetoH PalAt sidDiH Pala-sidDiH ca hetutaH /
+   katarat (pūrvaniṣpannaṃ [B:]pūrvam utpannaṃ) yasya siddhir apekṣayā //	katarat (pUrva-nizpannam [B:]-pUrvam utpannan) yasya sidDiH apekzayA //
+   aśaktir aparijñānaṃ kramakopo 'tha vā punaḥ /	aSaktiH aparijQAnam krama-kopaH aTa vA punar /
+   evaṃ hi sarvathā buddhair ajātiḥ paridīpitā // 4.19 //	evam hi sarvaTA budDEH ajAtiH paridIpitAH // 4.19 //
+   bījāṅkurākhyo dṛṣṭāntaḥ sadā sādhyasamo hi (saḥ [B:]naḥ) /	bIja-aFkura-AKyaH dRzwAntaH sadA sADya-samaH hi (saH [B:]naH) /
+   na (hi [B:]ca) sādhyasamo hetuḥ siddhau sādhyasya yujyate // 4.20 //	na (hi [B:]ca) sADya-samaH hetuH sidDO sADyasya yujyate // 4.20 //
+   pūrvāparāparijñānam ajāteḥ paridīpakam /	pUrva-apara-aparijQAnam ajAteH paridIpakam /
+   jāyamānād dhi vai dharmāt kathaṃ pūrvaṃ na gṛhyate // 4.21 //	jAyamAnAt Di vE DarmAt kaTam pUrvam na gRhyate // 4.21 //
+   svato vā parato vāpi na kiṃcid vastu jāyate /	svatas vA paratas vA-api na kiMcid vastu jAyate /
+   sad asat sadasad vāpi na kiṃcid vastu jāyate // 4.22 //	sat asat sat-asat vA-api na kiMcid vastu jAyate // 4.22 //
+   hetur na jāyate (anādeḥ [B:]anādiḥ) phalaṃ (cāpi [B:]vāpi) svabhāvataḥ /	hetuH na jAyate (anAdeH [B:]ana-AdiH) Palam (ca-api [B:]vApi) svaBAvataH /
+   ādir na vidyate yasya tasya (hy ādir [B:]jātir) na vidyate // 4.23 //	AdiH na vidyate yasya tasya (hi AdiH [B:]jAtir) na vidyate // 4.23 //
+   prajñapteḥ sanimittatvam anyathā dvayanāśataḥ /	prajQapteH sa-nimitta-tvam anyaTA dvaya-nASataH /
+   saṃkleśasyopalabdheś ca paratantrāstitā matā // 4.24 //	saMkleSasya-upalabDeH ca paratantra-astitAH matA // 4.24 //
+   prajñapteḥ sanimittatvam iṣyate yuktidarśanāt /	prajQapteH sa-nimitta-tvam izyate yukti-darSanAt /
+   nimittasyānimittatvam iṣyate bhūtadarśanāt // 4.25 //	nimittasya-animitta-tvam izyate BUta-darSanAt // 4.25 //
+   cittaṃ na saṃspṛśaty arthaṃ nārthābhāsaṃ tathaiva ca /	cittam na saMspRSati arTam na-arTa-ABAsam taTA-eva ca /
+   abhūto hi yataś cārtho nārthābhāsas tataḥ pṛthak // 4.26 //	aBUtaH hi yatas ca-arTaH na-arTa-ABAsaH tatas pRTak // 4.26 //
+   nimittaṃ na sadā cittaṃ saṃspṛśaty adhvasu triṣu /	nimittam na sadA cittam saMspRSati aDvasu trizu /
+   animitto viparyāsaḥ kathaṃ tasya bhaviṣyati // 4.27 //	animittaH viparyAsaH kaTam tasya Bavizyati // 4.27 //
+   tasmān na jāyate cittaṃ cittadṛśyaṃ na jāyate /	tasmAt na jAyate cittam citta-dRSyam na jAyate /
+   tasya paśyanti ye jātiṃ khe vai paśyanti te padam // 4.28 //	tasya paSyanti ye jAtim Ke vE paSyanti te padam // 4.28 //
+   ajātaṃ jāyate yasmād ajātiḥ prakṛtis tataḥ /	ajAtam jAyate yasmAt ajAtiH prakRtiH tatas /
+   prakṛter anyathābhāvo na kathaṃcid bhaviṣyati // 4.29 //	prakRteH anyaTA-BAvaH na kaTaMcid Bavizyati // 4.29 //
+   anāder antavattvaṃ ca saṃsārasya na setsyate /	anAdeH antavat-tvam ca saMsArasya na setsyate /
+   anantatā cādimato mokṣasya na bhaviṣyati // 4.30 //	ananta-tA ca-AdimataH mokzasya na Bavizyati // 4.30 //
+   ādāv ante ca yan nāsti vartamāne 'pi tat tathā /	AdO ante ca yat na-asti vartamAne api tat taTA /
+   vitathaiḥ sadṛśāḥ santo avitathā iva lakṣitāḥ // 4.31 //	vitaTEH sadRSAH santaH avitaTAH iva lakzitAH // 4.31 //
+   saprayojanatā teṣāṃ svapne (vipratipadyate [B:]api pratipadyate) /	sa-prayojana-tA tezAm svapne (vipratipadyate [B:]-api pratipadyate) /
+   tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // 4.32 //	tasmAt Adi-antavat-tvena miTyA-eva Kalu te smRtAH // 4.32 //
+   sarve dharmā mṛṣā svapne kāyasyāntarnidarśanāt /	sarve DarmAH mRzA svapne kAyasya-antar-nidarSanAt /
+   saṃvṛte 'smin pradeśe vai bhūtānāṃ darśanaṃ kutaḥ // 4.33 //	saMvRte asmin pradeSe vE BUtAnAm darSanam kutas // 4.33 //
+   na yuktaṃ darśanaṃ gatvā kālasyāniyamād gatau /	na yuktam darSanam gatvA kAlasya-aniyamAt gatO /
+   pratibuddhaś ca vai sarvas tasmin deśe na vidyate // 4.34 //	pratibudDaH ca vE sarvaH tasmin deSe na vidyate // 4.34 //
+   mitrādyaiḥ saha saṃmantrya (saṃbuddho [B:]prabuddho) na prapadyate /	mitra-AdyEH saha saMmantrya (saMbudDaH [B:]-prabudDaH-) na prapadyate /
+   gṛhītaṃ cāpi yat kiṃcit pratibuddho na paśyati // 4.35 //	gRhItam ca-api yat kiMcid pratibudDaH na paSyati // 4.35 //
+   svapne cāvastukaḥ kāyaḥ pṛthag anyasya darśanāt /	svapne ca-avastukaH kAyaH pRTak anyasya darSanAt /
+   yathā kāyas tathā sarvaṃ cittadṛśyam avastukam // 4.36 //	yaTA kAyaH taTA sarvam citta-dRSyam avastukam // 4.36 //
+   grahaṇāj jāgaritavat taddhetuḥ svapne iṣyate /	grahaNAt jAgarita-vat tad-hetuH svapne izyate /
+   tad(dhetutvāt tu [B:]dhetutvāc ca) tasyaiva saj jāgaritam iṣyate // 4.37	tad-(Detu-tvAt tu [B:]Detu-tvAt ca) tasya-eva sat jAgaritam izyate // 4.37
+   utpādasyāprasiddhatvād ajaṃ sarvam udāhṛtam /	utpAdasya-aprasidDa-tvAt ajam sarvam udAhRtam /
+   na ca bhūtād abhūtasya saṃbhavo 'sti kathaṃcana // 4.38 | B: 4.40 //	na ca BUtAt aBUtasya saMBavaH asti kaTaMcana // 4.38 | B: 4.40 //
+   asaj jāgarite dṛṣṭvā svapne paśyati tanmayaḥ /	asat jAgarite dRzwvA svapne paSyati tad-mayaH /
+   asat svapne 'pi dṛṣṭvā ca pratibuddho na paśyati // 4.39 | B: 4.38 //	asat svapne api dRzwvA ca pratibudDaH na paSyati // 4.39 | B: 4.38 //
+   nāsty asaddhetukam asat sad asaddhetukaṃ tathā /	na-asti asat-hetukam asat sat asat-hetukam taTA /
+   sac ca saddhetukaṃ nāsti saddhetukam asat kutaḥ // 4.40 | B: 4.41 //	sat ca sat-hetukam na-asti sat-hetukam asat kutas // 4.40 | B: 4.41 //
+   viparyāsād yathā jāgrad acintyān bhūtavat spṛśet /	viparyAsAt yaTA jAgrat acintyAn BUta-vat spRSet /
+   tathā svapne viparyāsād dharmāṃs tatraiva paśyati // 4.41 | B: 4.39 //	taTA svapne viparyAsAt DarmAn tatra-eva paSyati // 4.41 | B: 4.39 //
+   upalambhāt samācārād astivastutvavādinām /	upalamBAt samAcArAt astivastu-tva-vAdinAm /
+   jātis tu deśitā buddhair ajātes trasatāṃ sadā // 4.42 //	jAtiH tu deSitAH budDEH ajAteH trasatAm sadA // 4.42 //
+   ajātes trasatāṃ teṣām upalaṃbhād viyanti ye /	ajAteH trasatAm tezAm upalaMBAt viyanti ye /
+   jātidoṣā na setsyanti doṣo 'py alpo bhaviṣyati // 4.43 //	jAti-dozAH na setsyanti dozaH api alpaH Bavizyati // 4.43 //
+   upalambhāt samācārān māyāhastī yathocyate /	upalamBAt samAcArAt mAyA-hastI yaTA-ucyate /
+   upalambhāt samācārād asti vastu tathocyate // 4.44 //	upalamBAt samAcArAt asti vastu taTA-ucyate // 4.44 //
+   jātyābhāsaṃ calābhāsaṃ vastvābhāsaṃ tathaiva ca /	jAti-ABAsam cala-ABAsam vastu-ABAsam taTA-eva ca /
+   ajācalam avastutvaṃ vijñānaṃ śāntam advayam // 4.45 //	ajAcalam avastu-tvam vijQAnam SAntam advayam // 4.45 //
+   evaṃ na jāyate cittam evaṃ dharmā ajāḥ smṛtāḥ /	evam na jAyate cittam evam DarmAH ajAH smRtAH /
+   evam eva vijānanto na patanti viparyaye // 4.46 //	evam eva vijAnantaH na patanti viparyaye // 4.46 //
+   ṛjuvakrādikābhāsam (alātaspanditaṃ [B:]alātaṃ spanditaṃ) yathā /	Rju-vakra-Adika-ABAsam (alAta-spanditam [B:]alAtam spanditaM) yaTA /
+   grahaṇagrāhakābhāsaṃ (vijñānaspanditaṃ [B:]vijñānaṃ spanditaṃ) tathā //	grahaNa-grAhaka-ABAsam (vijQAna-spanditam [B:]vijQAnam spanditaM) taTA //
+   aspandamānam (alātam [B:]ālātam) anābhāsam ajaṃ yathā /	aspandamAnam (alAtam [B:]AlAtam) anABAsam ajam yaTA /
+   aspandamānaṃ vijñānam anābhāsam ajaṃ tathā // 4.48 //	aspandamAnam vijQAnam anABAsam ajam taTA // 4.48 //
+   alāte spandamāne vai nābhāsā anyatobhuvaḥ /	alAte spandamAne vE na-ABAsA anyatas-BuvaH /
+   na tato 'nyatra nispandān nālātaṃ praviśanti te // 4.49 //	na tatas anyatra nispandAn na-alAtam praviSanti te // 4.49 //
+   na nirgatā alātāt te dravyatvābhāvayogataḥ /	na nirgatA alAtAt te dravya-tva-aBAva-yogataH /
+   vijñāne 'pi tathaiva syur ābhāsasyāviśeṣataḥ // 4.50 //	vijQAne api taTA-eva syuH ABAsasya-aviSezataH // 4.50 //
+   vijñāne spandamāne vai nābhāsā anyatobhuvaḥ /	vijQAne spandamAne vE na-ABAsA anyatas-BuvaH /
+   na tato 'nyatra nispandān na vijñānaṃ viśanti te // 4.51 //	na tatas anyatra nispandAt na vijQAnam viSanti te // 4.51 //
+   na nirgatās te vijñānād dravyatvābhāvayogataḥ /	na nirgatAH te vijQAnAt dravya-tva-aBAva-yogataH /
+   kāryakāraṇatābhāvād yato 'cintyāḥ sadaiva te // 4.52 //	kArya-kAraNa-tA-BAvAt yatas acintyAH sadA-eva te // 4.52 //
+   dravyaṃ dravyasya hetuḥ syād anyad anyasya caiva hi /	dravyam dravyasya hetuH syAt anyat anyasya ca-eva hi /
+   dravyatvam anyabhāvo vā dharmāṇāṃ nopapadyate // 4.53 //	dravya-tvam anya-BAvaH vA DarmANAm na-upapadyate // 4.53 //
+   evaṃ na cittajā dharmāś cittaṃ vāpi na dharmajam /	evam na citta-jAH DarmAH cittam vA-api na Darmajam /
+   evaṃ hetuphalājātiṃ praviśanti manīṣiṇaḥ // 4.54 //	evam hetu-PalA-jAtim praviSanti manIziNaH // 4.54 //
+   yāvad dhetuphalāveśas tāvad dhetuphalodbhavaḥ /	yAvat Detu-Pala-AveSaH tAvat Detu-Pala-udBavaH /
+   kṣīṇe hetuphalāveśe nāsti hetuphalodbhavaḥ // 4.55 //	kzINe hetu-Pala-AveSe na-asti hetu-Pala-udBavaH // 4.55 //
+   yāvad dhetuphalāveśaḥ saṃsāras tāvad āyataḥ /	yAvat Detu-Pala-AveSaH saMsAraH tAvat AyataH /
+   kṣīṇe hetuphalāveśe (saṃsāraṃ na prapadyate [B:]saṃsāro nopapadyate) //	kzINe hetu-Pala-AveSe (saMsAram na prapadyate [B:]saMsAraH na-upapadyate) //
+   saṃvṛtyā jāyate sarvaṃ śāśvataṃ (nāsti tena [B:]tena nāsti) vai /	saMvRtyA jAyate sarvam SASvatam (nA-asti tena [B:]tena nAsti) vE /
+   (sad[B:]sva)bhāvena hy ajaṃ sarvam ucchedas tena nāsti vai // 4.57 //	(sat-[B:]-sva)-BAvena hi ajam sarvam ucCedaH tena na-asti vE // 4.57 //
+   dharmā ye iti jāyante (jāyante [B:]saṃvṛtyā) te na tattvataḥ /	DarmAH ye iti jAyante (jAyante [B:]-saMvRtyA) te na tattvataH /
+   janma māyopamaṃ teṣāṃ sā ca māyā na vidyate // 4.58 //	janma mAyA-upamam tezAm sA ca mAyA na vidyate // 4.58 //
+   yathā māyāmayād bījāj jāyate tanmayo 'ṅkuraḥ /	yaTA mAyA-mayAt bIjAt jAyate tad-mayaH aFkuraH /
+   nāsau nityo na cocchedī tadvad dharmeṣu yojanā // 4.59 //	na-asO nityaH na ca-ucCedI tadvat Darmezu yojanAH // 4.59 //
+   nājeṣu sarvadharmeṣu śāśvatāśāśvatābhidhā /	na-ajezu sarva-Darmezu SASvata-aSASvata-aBiDA /
+   yatra varṇā na vartante vivekas tatra nocyate // 4.60 //	yatra varNAH na vartante vivekaH tatra na-ucyate // 4.60 //
+   yathā svapne dvayābhāsaṃ cittaṃ calati māyayā /	yaTA svapne dvaya-ABAsam cittam calati mAyayA /
+   tathā jāgrad dvayābhāsaṃ cittaṃ calati māyayā // 4.61 //	taTA jAgrat dvaya-ABAsam cittam calati mAyayA // 4.61 //
+   advayaṃ ca dvayābhāsaṃ cittaṃ svapne na saṃśayaḥ /	advayam ca dvaya-ABAsam cittam svapne na saMSayaH /
+   advayaṃ ca dvayābhāsaṃ (tathā [B:]cittaṃ) jāgran na saṃśayaḥ // 4.62 //	advayam ca dvaya-ABAsam (taTA [B:]cittaM) jAgrat na saMSayaH // 4.62 //
+   svapnadṛk pracaran svapne dikṣu vai daśasu sthitān /	svapna-dRS pracaran svapne dikzu vE daSasu sTitAn /
+   aṇḍajān svedajān vāpi jīvān paśyati yān sadā // 4.63 //	aNxa-jAn sveda-jAn vA-api jIvAn paSyati yAn sadA // 4.63 //
+   svapnadṛkcittadṛśyās te na vidyante tataḥ pṛthak /	svapna-dRS-citta-dRSyAH te na vidyante tatas pRTak /
+   tathā taddṛśyam evedaṃ svapnadṛkcittam iṣyate // 4.64 //	taTA tat-dRSyam eva-idam svapna-dRS-cittam izyate // 4.64 //
+   carañ jāgarite jāgrad dikṣu vai daśasu sthitān /	caran jAgarite jAgrat dikzu vE daSasu sTitAn /
+   aṇḍajān svedajān vāpi jīvān paśyati yān sadā // 4.65 //	aNxa-jAn sveda-jAn vA-api jIvAn paSyati yAn sadA // 4.65 //
+   jāgraccittekṣaṇīyās te na vidyante tataḥ pṛthak /	jAgrat-citta-IkzaNIyAH te na vidyante tatas pRTak /
+   tathā taddṛśyam evedaṃ jāgrataś cittam iṣyate // 4.66 //	taTA tat-dRSyam eva-idam jAgrataH cittam izyate // 4.66 //
+   ubhe hy anyoanyadṛśye te kiṃ tad astīti cocyate /	uBe hi anyoanya-dRSye te kim tat asti-iti ca-ucyate /
+   lakṣaṇāśūnyam ubhayaṃ tanmatenaiva gṛhyate // 4.67 //	lakzaNa-aSUnyam uBayam tat-matena-eva gRhyate // 4.67 //
+   yathā svapnamayo jīvo jāyate mriyate 'pi ca /	yaTA svapna-mayaH jIvaH jAyate mriyate api ca /
+   tathā jīvā amī sarve bhavanti na bhavanti ca // 4.68 //	taTA jIvAH amI sarve Bavanti na Bavanti ca // 4.68 //
+   yathā māyāmayo jīvo jāyate mriyate 'pi ca /	yaTA mAyA-mayaH jIvaH jAyate mriyate api ca /
+   tathā jīvā amī sarve bhavanti na bhavanti ca // 4.69 //	taTA jIvAH amI sarve Bavanti na Bavanti ca // 4.69 //
+   yathā nirmitako jīvo jāyate mriyate 'pi ca /	yaTA nirmitakaH jIvaH jAyate mriyate api ca /
+   tathā jīvā amī sarve bhavanti na bhavanti ca // 4.70 //	taTA jIvAH amI sarve Bavanti na Bavanti ca // 4.70 //
+   na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate /	na kaScid jAyate jIvaH saMBavaH asya na vidyate /
+   etat tad uttamaṃ satyaṃ yatra kiṃcin na jāyate // 4.71 //	etat tat uttamam satyam yatra kiMcid na jAyate // 4.71 //
+   cittaspanditam evedaṃ grāhyagrāhakavad dvayam /	citta-spanditam eva-idam grAhya-grAhaka-vat dvayam /
+   cittaṃ nirviṣayaṃ nityam asaṅgaṃ tena kīrtitam // 4.72 //	cittam nirvizayam nityam asaFgam tena kIrtitam // 4.72 //
+   yo 'sti kalpitasaṃvṛtyā paramārthena nāsty asau /	yaH asti kalpita-saMvRtyA parama-arTena na-asti asO /
+   (paratantrābhisaṃvṛtyā [B:]paratantro 'bhisaṃvṛtyā) syān nāsti	(paratantra-aBisaMvRtyAH [B:]paratantraH aBisaMvRtyA) syAt na-asti
+   paramārthataḥ // 4.73 //	paramArTataH // 4.73 //
+   ajaḥ kalpitasaṃvṛtyā paramārthena nāpy ajaḥ /	ajaH kalpita-saMvRtyA parama-arTena na-api ajaH /
+   (paratantrābhiniṣpattyā [B:]paratantro 'bhiniṣpattyā) saṃvṛtyā jāyate tu	(paratantra-aBinizpattyA [B:]paratantraH aBinizpattyA) saMvRtyA jAyate tu
+   saḥ // 4.74 //	saH // 4.74 //
+   abhūtābhiniveśo 'sti dvayaṃ tatra na vidyate /	aBUta-aBiniveSaH asti dvayam tatra na vidyate /
+   dvayābhāvaṃ sa buddhvaiva nirnimitto na jāyate // 4.75 //	dvaya-aBAvam sa budDvA-eva nirnimittaH na jAyate // 4.75 //
+   yadā na labhate hetūn uttamādhamamadhyamān /	yadA na laBate hetUn uttama-aDama-maDyamAn /
+   tadā na jāyate cittaṃ hetvabhāve phalaṃ kutaḥ // 4.76 //	tadA na jAyate cittam hetu-aBAve Palam kutas // 4.76 //
+   animittasya cittasya yānutpattiḥ samādvayā /	animittasya cittasya yA-an-utpattiH samA-dvayAH /
+   ajātasyaiva sarvasya cittadṛśyaṃ hi tad yataḥ // 4.77 //	ajAtasya-eva sarvasya citta-dRSyam hi tat yatas // 4.77 //
+   buddhvānimittatāṃ satyāṃ hetuṃ pṛthag an(āpnuvan [B:]āpnuvat) /	budDvA-nimitta-tAm satyAm hetum pRTak an(Apnuvan [B:]Apnuvat) /
+   vītaśokaṃ (tathā[B:]tadā)kāmam abhayaṃ padam aśnute // 4.78 //	vIta-Sokam (taTA-a[B:]ta-dA)-kAmam aBayam padam aSnute // 4.78 //
+   abhūtābhiniveśād dhi sadṛśe tat pravartate /	aBUta-aBiniveSAt Di sadRSe tat pravartate /
+   vastvabhāvaṃ sa buddhvaiva niḥsaṅgaṃ vinivartate // 4.79 //	vastu-aBAvam sa budDvA-eva niHsaFgam vinivartate // 4.79 //
+   nivṛttasyāpravṛttasya niścalā hi tadā sthitiḥ /	nivRttasya-apravRttasya niScalA hi tadA sTitiH /
+   viṣayaḥ sa hi buddhānāṃ tat sāmyam ajam advayam // 4.80 //	vizayaH sa hi budDAnAm tat sAmyam ajam advayam // 4.80 //
+   ajam anidram asvapnaṃ prabhātaṃ bhavati svayam /	ajam anidram asvapnam praBAtam Bavati svayam /
+   sakṛdvibhāto hy evaiṣa dharmo (dhātusvabhāvataḥ [B:]dhātuḥ svabhāvataḥ) //	sakRt-viBAtaH hi eva-eza DarmaH (DAtu-svaBAvataH [B:]DAtuH svaBAvataH) //
+   sukham āvriyate nityaṃ duḥkhaṃ vivriyate sadā /	suKam Avriyate nityam duHKam vivriyate sadA /
+   yasya kasya ca dharmasya graheṇa bhagavān asau // 4.82 //	yasya kasya ca Darmasya graheNa BagavAn asO // 4.82 //
+   asti nāsty asti nāstīti nāsti nāstīti vā punaḥ /	asti na-asti asti na-asti-iti na-asti na-asti-iti vA punar /
+   calasthirobhayābhāvair āvṛṇoty eva bāliśaḥ // 4.83 //	cala-sTira-uBaya-aBAvEH AvRNoti eva bAliSaH // 4.83 //
+   koṭyaś catasra etās tu grahair yāsāṃ (sadāvṛtaḥ [K:]sahāvṛtaḥ) /	kowyaH catasraH etAH tu grahEH yAsAm (sat-AvRtaH [K:]-saha-AvRtaH) /
+   bhagavān ābhir aspṛṣṭo yena dṛṣṭaḥ sa sarvadṛk // 4.84 //	BagavAn ABiH aspRzwaH yena dRzwaH sa sarva-dRS // 4.84 //
+   prāpya sarvajñatāṃ kṛtsnāṃ brāhmaṇyaṃ padam advayam /	prApya sarvajQa-tAm kRtsnAm brAhmaNyam padam advayam /
+   anāpannādimadhyāntaṃ kim ataḥ param īhate // 4.85 //	anApanna-Adi-maDya-antam kim atas param Ihate // 4.85 //
+   viprāṇāṃ vinayo hy eṣa śamaḥ prākṛta ucyate /	viprANAm vinayaH hi eza SamaH prAkRtaH ucyate /
+   damaḥ prakṛtidāntatvād evaṃ vidvāñ śamaṃ vrajet // 4.86 //	damaH prakRti-dAnta-tvAt evam vidvAn Samam vrajet // 4.86 //
+   savastu sopalambhaṃ ca dvayaṃ laukikam iṣyate /	sa-vastu sa-upalamBam ca dvayam lOkikam izyate /
+   avastu sopalambhaṃ ca śuddhaṃ laukikam iṣyate // 4.87 //	avastu sa-upalamBam ca SudDam lOkikam izyate // 4.87 //
+   avastv anupalambhaṃ ca lokottaram iti smṛtam /	avastu anupalamBam ca lokottaram iti smRtam /
+   jñānaṃ jñeyaṃ ca vijñeyaṃ sadā buddhaiḥ prakīrtitam // 4.88 //	jQAnam jQeyam ca vijQeyam sadA budDEH prakIrtitam // 4.88 //
+   jñāne ca trividhe jñeye krameṇa vidite svayam /	jQAne ca triviDe jQeye krameNa vidite svayam /
+   sarvajñatā hi sarvatra bhavatīha mahādhiyaḥ // 4.89 //	sarvajQa-tA hi sarvatra Bavati-iha mahA-ADiyaH // 4.89 //
+   heyajñeyāpyapākyāni vijñeyāny agra(yāṇataḥ [B:]yānataḥ) /	heya-jQeyApya-pAkyAni vijQeyAni agra(yANataH [B:]yAnataH) /
+   teṣām anyatra vijñeyād upalambhas triṣu smṛtaḥ // 4.90 //	tezAm anyatra vijQeyAt upalamBaH trizu smRtaH // 4.90 //
+   prakṛtyākāśavaj jñeyāḥ sarve dharmā anādayaḥ /	prakRti-AkASa-vat jQeyAH sarve DarmAH anAdayaH /
+   vidyate na hi nānātvaṃ teṣāṃ kvacana kiṃcana // 4.91 //	vidyate na hi nAnAtvam tezAm kvacana kiMcana // 4.91 //
+   ādibuddhāḥ prakṛtyaiva sarve dharmāḥ suniścitāḥ /	Adi-budDAH prakRtyA-eva sarve DarmAH su-niScitAH /
+   yasyaivaṃ bhavati kṣāntiḥ so 'mṛtatvāya kalpate // 4.92 //	yasya-evam Bavati kzAntiH saH amRta-tvAya kalpate // 4.92 //
+   ādiśāntā hy anutpannāḥ prakṛtyaiva sunirvṛtāḥ /	Adi-SAntAH hi anutpannAH prakRtyA-eva su-nirvRtAH /
+   sarve dharmāḥ samābhinnā ajaṃ sāmyaṃ viśāradam // 4.93 //	sarve DarmAH samABinnAH ajam sAmyam viSAradam // 4.93 //
+   vaiśāradyaṃ tu vai nāsti bhede vicaratāṃ sadā /	vESAradyam tu vE na-asti Bede vicaratAm sadA /
+   bhedanimnāḥ pṛthagvādās tasmāt te kṛpaṇāḥ smṛtāḥ // 4.94 //	Beda-nimnAH pRTak-vAdAH tasmAt te kRpaNAH smRtAH // 4.94 //
+   aje sāmye tu ye kecid bhaviṣyanti suniścitāḥ /	aje sAmye tu ye kecid Bavizyanti su-niScitAH /
+   te hi loke mahājñānās tac ca loko na gāhate // 4.95 //	te hi loke mahA-jQAnAH tat ca lokaH na gAhate // 4.95 //
+   ajeṣv ajam asaṃkrāntaṃ dharmeṣu jñānam iṣyate /	ajezu ajam asaMkrAntam Darmezu jQAnam izyate /
+   yato na kramate jñānam asaṅgaṃ tena kīrtitam // 4.96 //	yatas na kramate jQAnam asaFgam tena kIrtitam // 4.96 //
+   aṇumātre 'pi vaidharmye jāyamāne 'vipaścitaḥ /	aNu-mAtre api vEDarmye jAyamAne avipaScitaH /
+   asaṅgatā sadā nāsti kim utāvaraṇacyutiḥ // 4.97 //	asaFga-tA sadA na-asti kim uta-AvaraNa-cyutiH // 4.97 //
+   alabdhāvaraṇāḥ sarve dharmāḥ prakṛtinirmalāḥ /	alabDa-AvaraNAH sarve DarmAH prakRti-nirmalAH /
+   ādau buddhās tathā muktā budhyante iti nāyakāḥ // 4.98 //	AdO budDAH taTA muktAH buDyante iti nAyakAH // 4.98 //
+   kramate na hi buddhasya jñānaṃ dharmeṣu (tāpinaḥ ([B,K:]tāyinaḥ) /	kramate na hi budDasya jQAnam Darmezu (tApinaH ([B,K:]tAyinaH) /
+   (sarve dharmās [B:]sarvadharmās) tathā jñānaṃ naitad buddhena bhāṣitam //	(sarve DarmAH [B:]-sarva-DarmAs) taTA jQAnam na-etat budDena BAzitam //
+   durdarśam atigambhīram ajaṃ sāmyaṃ viśāradam /	durdarSam ati-gamBIram ajam sAmyam viSAradam /
+   buddhvā padam anānātvaṃ namas kurmo yathābalam // 4.100 //	budDvA padam anAnAtvam namaH kurmaH yaTAbalam // 4.100 //
+   [col: iti (gauḍapādācāryakṛtā māṇḍūkyopaniṣadkārikāḥ saṃpūrṇāḥ	[col: iti (gOxa-pAda-AcArya-kRtAH mANxUkya-upanizad-kArikAH saMpUrNAH
+   [B:]gauḍapādīye āgamaśāstre	[B:]-gOxapAdIye Agama-SAstre
+   'lātaśāntyākhyaṃ caturthaṃ prakaraṇaṃ samāptam) :col]	alAta-SAnti-AKyam caturTam prakaraNam samAptam) :col]

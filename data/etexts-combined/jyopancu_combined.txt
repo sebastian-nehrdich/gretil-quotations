@@ -1,0 +1,963 @@
+   kaviśekharetibirudavatā jyotirīśvareṇa viracitaḥ	kavi-SeKarA-iti-biH-udavatA jyotiH-ISvareNa viracitaH
+   pañcasāyakaḥ /	paQca-sAyakaH /
+   prathamaḥ sāyakaḥ /	praTamaH sAyakaH /
+   maṅgalācaraṇam /	maFgala-AcaraNam /
+   ratiparimalasindhuḥ kāminīkelibandhur vihitabhuvanamodaḥ sevyamānapramodaḥ	rati-parimala-sinDuH kAminI-keli-banDuH vihita-Buvana-modaH sevyamAna-pramodaH
+   jayati makaraketurmohanasyaikahetur viracitabahusevaḥ kāmibhiḥ kāmadevaḥ	jayati makaraketuH-mohanasya-eka-hetuH viracita-bahu-sevaH kAmiBiH kAmadevaH
+   // JPanc_1.1 //	// JPant-_1.1 //
+   granthakarturātmaparicayapradarśanam /	granTa-kartuH-Atma-paricaya-pradarSanam /
+   asti pratyahamarthitāpaharaṇaprītyaikadīkṣāguruḥ śrīkaṇṭhārcanatatparo	asti pratyaham-arTita-apaharaNa-prItya-eka-dIkzA-guruH SrIkaNWa-arcana-tad-paraH-
+   bhuvi catuḥṣaṣṭeḥ kalānāṃ nidhiḥ /	Buvi catuHzazweH kalAnAm niDiH /
+   saṅgītāgamasatprameyaracanācāturyacintāmaṇiḥ prakhyātaḥ	saFgIta-Agam-asat-prameya-racanA-cAturya-cintAmaNiH praKyAtaH
+   kaviśekharāṅkitapadaḥ śrījyotirīśaḥ kṛtī // JPanc_1.2 //	kavi-SeKara-aFkita-padaH SrI-jyotiH-ISaH kRtI // JPant-_1.2 //
+   dṛṣṭvā manmathatantramīśvarakṛtaṃ vātsyāyanīyaṃ mataṃ	dRzwvA manmaTa-tantram-ISvara-kRtam vAtsyAyanIyam matam
+   goṇīputrakamūladevaracitaṃ bābhravyavākyāmṛtam /	goNIputraka-mUla-deva-racitam bABravya-vAkya-amRtam /
+   śrīnandīśvararantidevabhaṇitaṃ kṣemendravidyāgamaṃ tenākalpyata	SrI-nandISvara-ranti-deva-BaNitam kzemendra-vidyA-gamam tena-akalpyata
+   pañcasāyaka iti prītipradaḥ kāminām // JPanc_1.3 //	paQca-sAyakaH iti prIti-pradaH kAminAm // JPant-_1.3 //
+   nāyakalakṣaṇam /	nAyaka-lakzaNam /
+   sācāraḥ karuṇāmayaḥ kṛtamatirdātā 'vadātāśayaḥ kāmyaḥ kāmakalānidhiḥ	sa-AcAraH karuNA-mayaH kRtamatiH-dAtAH avadAta-ASayaH kAmyaH kAma-kalA-niDiH
+   suvacanaḥ strīṇāṃ mataḥ sundaraḥ /	suvacanaH strINAm mataH sundaraH /
+   āḍhyo nītipaṭuḥ kṣamī ca kutukī śūraḥ kulīno yuvā saṅkṣepādiha nāyako	AXyaH nIti-pawuH kzamI ca kutukI SUraH kulInaH yuvA saFkzepAt-iha nAyakaH-
+   nigaditaḥ saṅgītaśikṣānvitaḥ // JPanc_1.4 //	nigaditaH saFgIta-Sikza-anvitaH // JPant-_1.4 //
+   pīṭhamardalakṣaṇam /	pIWamarda-lakzaNam /
+   ācāre vinaye naye ca sukṛtau tauryatrike 'kṛtrimaḥ śāstre	AcAre vinaye naye ca sukRtO tOryatrike akRtrimaH SAstre
+   kautukaśilpanāṭakavidhau nānākalākauśale /	kOtuka-Silpa-nAwaka-viDO nAnA-kalA-kOSale /
+   ūhāpohasamastanarmaghaṭane bhāveṅgitajñaḥ paṭur mantrajñaḥ sthirasauhṛdaḥ	UhA-apoha-samasta-narma-Gawane BAva-iFgita-jQaH pawuH mantra-jQaH sTira-sOhRdaH
+   suvacanaḥ syātpīṭhamardaḥ sadā // JPanc_1.5 //	suvacanaH syAt-pIWamardaH sadA // JPant-_1.5 //
+   padminīlakṣaṇam /	padminI-lakzaNam /
+   sampūrṇendumukhī vilolanayanā pīnastanī dakṣiṇā mṛdvaṅgī	sampUrNa-indu-muKI vilola-nayanA pIna-stanI dakziNA mRdu-aFgI
+   vikacāravindasurabhiḥ śyāmā 'tha gauradyutiḥ /	vikaca-aravinda-suraBiH SyAmA aTa gOra-dyutiH /
+   alpāhāraratā vilāsakuśalā haṃsasvanā māninī lajjālurgurudevapūjanaratā sā	alpa-AhAra-ratA vilAsa-kuSalA haMsa-svanA mAninI lajjAluH-guru-deva-pUjana-ratA sA
+   nāyikā padminī // JPanc_1.6 //	nAyikA padminI // JPant-_1.6 //
+   citriṇīlakṣaṇam /	citriNI-lakzaNam /
+   śyāmā padmamukhī kuraṅganayanā kṣāmodarī vatsalā saṅgītāgamavedinī	SyAmA padma-muKI kuraFga-nayanA kzAmodarI vatsalA saFgIta-Agama-vedinI
+   varatanustuṅgastanī śilpinī /	vara-tanuH-tuFga-stanI SilpinI /
+   vidyālāparatā mataṅgajagatirmādyanmayūrasvanā vijñeyā kaviśekharapraṇayinī	vidyAlAparatA mataFga-ja-gatiH-mAdyat-mayUra-svanA vijQeyA kavi-SeKara-praNayinI
+   citrasvanā citriṇī // JPanc_1.7 //	citra-svanA citriNI // JPant-_1.7 //
+   śaṅkhinīlakṣaṇam /	SaFKinI-lakzaNam /
+   tanvaṅgī kuṭīlekṣaṇā laghukucābhogā madāveśinī prāyo dīrghakacā	tanvaFgI kuwIla-IkzaNA laGu-kuca-ABogAH mad-a-AveSinI prAyas dIrGakacA
+   svabhāvapiśunā kaṣṭopabhogyā rate /	svaBAva-piSunA kazwa-upaBogyAH rate /
+   piṅgā lolagatiśca gharghararavā raktāmbārāhlādinī	piFgA lola-gatiH-ca GarGara-ravA rakta-ambAra-AhlAdinI
+   nānāsthānanakhapradānarasikā seyaṃ matā śaṅkhinī // JPanc_1.8 //	nAnA-sTAna-naKa-pradAna-rasikA sA-iyam matA SaFKinI // JPant-_1.8 //
+   hastinīlakṣaṇam /	hastinI-lakzaNam /
+   pīnasvalpatanurbhṛśaṃ mṛdugatiḥ krūrā namatkandharā stokāpiṅgalakuntalā	pInasu-alpa-tanuH-BRSam mRdu-gatiH krUrA namat-kanDarA stoka-apiFgala-kuntalA
+   pṛthukucā lajjāvihīnānanā /	pRTu-kucA lajjA-vihIna-AnanAH /
+   bimboṣṭhī bahubhojyabhojanaruciḥ kaṣṭaikasādhyā rate gaurāṅgī	bimbozWI bahu-Bojya-Bojana-ruciH kazwa-eka-sADyA rate gOra-aFgI
+   karidānagandhimadanasrāvā matā hastinī // JPanc_1.9 //	kari-dAna-ganDi-madanasrAvA matA hastinI // JPant-_1.9 //
+   padminyādīnāṃ ratau sukhakarāsthitayaḥ /	padminI-AdInAm ratO suKa-kara-AsTitayaH /
+   brahmāsyenduśarākṣisaṅkhyatithayaḥ khyātā nalinyā rate	brahma-asya-indu-Sara-akzi-saFKI-a-tiTayaH KyAtA nalinyAH rate
+   paulastyāsyarasāṣṭabhāskaratithau prītā bhaveccitriṇī /	pOlastya-Asya-rasa-azwa-BAskara-tiTO prItA Bavet-citriNI /
+   rudrānagaturaṅgaśambhutithiṣu syācchaṅkhinī moditā śeṣāḥ syuḥ	rudra-Anaga-turaFga-SamButiTizu syAt-SaFKinI moditA SezAH syuH
+   suratotsaveṣu kariṇījāteḥ striyāḥ prītaye // JPanc_1.10 //	surata-utsavezu kariNI-jAteH striyAH prItaye // JPant-_1.10 //
+   iti jātisamuddeśaḥ /	iti jAti-samuddeSaH /
+   candrakalānirūpaṇam /	candra-kalA-nirUpaNam /
+   aṅguṣṭhe caraṇe nitambanilaye jānudvaye jaṅghayor nābhau vakṣasi	aFguzWe caraNe nitamba-nilaye jAnu-dvaye jaFGayoH nABO vakzasi
+   kakṣayornigaditā kaṇṭhe kapole 'dhare /	kakzayoH-nigaditA kaNWe kapole aDare /
+   netre karṇayuge lalāṭaphalake maulau ca vāmabhruvām	netre karNa-yuge lalAwa-Palake mOlO ca vAma-BruvAm
+   ūrdhvādhaścalanakrameṇa kathitā cāndrī kalā pakṣayoḥ // JPanc_1.11 //	UrDva-aDas-calana-krameNa kaTitA cAndrI kalA pakzayoH // JPant-_1.11 //
+   sīmante nayane 'dhare ca galake kakṣātaṭe cūcuke nābhau śroṇitaṭe	sImante nayane aDare ca galake kakzA-tawe cUcuke nABO SroNi-tawe
+   manobhavagṛhe jaṅghātaṭorudvaye /	manoBava-gRhe jaFGA-tawa-uru-dvaye /
+   gulphe pādatale tadaṅgulitale 'ṅguṣṭhe ca tiṣṭhatyasau vṛddhikṣīṇatayā	gulPe pAda-tale tad-aFguli-tale aFguzWe ca tizWati-asO vRdDi-kzINa-tayA
+   samaṃ śaśikalā līlākarī yoṣitām // JPanc_1.12 //	samam SaSikalA lIlA-karI yozitAm // JPant-_1.12 //
+   candrakalāyāḥ pradīpanavidhiḥ /	candra-kalAyAH pradIpana-viDiH /
+   maulau kuntalakarṣaṇaṃ nayanayorācumbanaṃ gaṇḍayor dantenādharapīḍanaṃ	mOlO kuntala-karzaNam nayanayoH-Acumbanam gaNxayoH dantena-aDara-pIxanam
+   hṛdi hatirmuṣṭyā ca nābhau śanaiḥ /	hRdi hatiH-muzwyA ca nABO SanEs /
+   kakṣākaṇṭhakapolamaṇḍalakucaśroṇīṣu deyā nakhāḥ sīmante likhanaṃ	kakzA-kaNWa-kapola-maNxala-kuca-SroNIzu deyAH naKAH sImante liKanam
+   nakhairurasijau gṛhṇīta gāḍhaṃ tataḥ // JPanc_1.13 //	naKEH-urasijO gRhNIta gAXam tatas // JPant-_1.13 //
+   kurvītāvirataṃ manobhavagṛhe mātaṅgalīlāyitaṃ	kurvIta-aviratam manoBava-gRhe mAtaFga-lIlAyitam
+   jānvaṅguṣṭhapadorugulphakalanaṃ hyanyonyataḥ kāminoḥ /	jAnu-aFguzWa-pada-Uru-gulPa-kalanam hi-anyonyatas kAminoH /
+   ityevaṃ kathitaṃ pradeśakalanādindoḥ kalādīpanaṃ kartavyaṃ ca narairna	iti-evam kaTitam pradeSa-kalanAt-indoH kalA-dIpanam kartavyam ca narEH-na
+   vistarabhayāduktaḥ prapañco 'khilaḥ // JPanc_1.14 //	vistara-BayAt-uktaH prapaQcaH aKilaH // JPant-_1.14 //
+   padminīcandrakalāpradīpanam /	padminI-candra-kalA-pradIpanam /
+   gāḍhāliṅganapūrvakaṃ kararuhairālikhya jaṅghāsthalīṃ dattvā	gAXa-AliFgana-pUrvakam kararuhEH-AliKya jaFGA-sTalIm dattvA
+   sūkṣmanakhānnitambaphalake pārśve ca pṛṣṭhodare /	sUkzma-naKAt-nitamba-Palake pArSve ca pRzWa-udare /
+   sītkāradhvanijāgarūkapulakāmādye dine padminīm itthaṃ candrakalāvidaḥ	sItkAra-Dvani-jAgarUka-pula-kAmAdye dine padminIm itTam candra-kalA-vidaH
+   svavaśatāṃ kāmaṃ nayeyuḥ striyam // JPanc_1.15 //	svavaSatAm kAmam nayeyuH striyam // JPant-_1.15 //
+   ācumbyādharapallavaṃ stanamukhe netrālike pārśvayor mūrdhānte	Acumbya-aDara-pallavam stana-muKe netrAlike pArSvayoH mUrDa-ante
+   jaghanasthaloruphalake kṛtvā nakhālekhanam /	jaGana-sTala-Uru-Palake kRtvA naKa-AleKanam /
+   marṣanto nakharaiḥ padāmbujayugaṃ samyakkuraṅgīdṛśaṃ saṃsevyāvirataṃ	marzantaH naKarEH pada-ambuja-yugam samyak-kuraFgi-IdRSam saMsevya-aviratam
+   prabuddhamadanāṃ kuryurdvitīyādine // JPanc_1.16 //	prabudDa-madanAm kuryuH-dvitIya-Adine // JPant-_1.16 //
+   śliṣṭvā gāḍhataraṃ nipīḍya ca kucau pītvā ca dantacchadaṃ vāmorau	SlizwvA gAXataram nipIxya ca kucO pItvA ca dantacCadam vAmorO
+   karajakṣataṃ bhujalatāmūle viśeṣāt punaḥ /	karaja-kzatam Buja-latA-mUle viSezAt punar /
+   māyūrāṅghrikamardhacandrachuritaprāyānnakhānādarād	mAyUra-aFGrikam-arDacandra-Curita-prAyAt-naKa-anAdarAd
+   dadyurbāhyaratopacāracaturāḥ prāyaścaturthyāṃ tithau // JPanc_1.17 //	dadyuH-bAhya-rata-upacAra-caturAH prAyas-caturTyAm tiTO // JPant-_1.17 //
+   bimboṣṭhaṃ paricumbya dakṣiṇakareṇākṛṣya keśoccayaṃ svacchandena vimṛdya	bimba-uzWam paricumbya dakziNa-kareNa-AkRzya keSa-uccayam svacCandena vimRdya
+   cūcukayugaṃ cumbanpriyāṃ bhāvayet /	cUcuka-yugam cumban-priyAm BAvayet /
+   āmṛśyātkarajaiḥ sakhelapulakaṃ bhūyo nitambasthalīṃ pañcamyāṃ dravatāṃ	AmRSyAt-kara-jEH sa-Kela-pulakam BUyas nitamba-sTalIm paQcamyAm dravatAm
+   nayetkamalinīmityāha vātsyāyanaḥ // JPanc_1.18 //	nayet-kamalinIm-iti-Aha vAtsyAyanaH // JPant-_1.18 //
+   citriṇyāścandrakalāprabodhanavidhiḥ /	citriNyAH-candra-kalA-praboDana-viDiH /
+   cumbitvā 'li(la)kamunmadaḥ kararuhairālikhya vakṣojakaṃ	cumbitvA ali(la)kam-unmadaH kararuhEH-AliKya vakzojakam
+   śroṇīpṛṣṭhabhujāṅghrikarṇajaghanasthānoruyugmasthalīm /	SroNI-pRzWa-Buja-aFGri-karNa-jaGana-sTAna-Uru-yugma-sTalIm /
+   pāṇibhyāmupagūhayan svaramaṇīṃ kānto daśamyāṃ tithau kandarpaṃ pratibodhya	pANiByAm-upagUhayan svaramaNIm kAntaH daSamyAm tiTO kandarpam pratiboDya
+   candrakalayā kuryānnijāṃ citriṇīm // JPanc_1.19 //	candra-kalayA kuryAt-nijAm citriNIm // JPant-_1.19 //
+   śliṣṭvā kandharakandalīṃ bhujalatāpāśena gāḍhaṃ punaḥ pāyaṃ	SlizwvA kanDara-kandalIm Buja-latA-pASena gAXam punar pAyam
+   pāyamajasramutpaladṛśāṃ vaktrāravindasāvam /	pAyam-ajasram-utpala-dRSAm vaktra-aravinda-sAvam /
+   nābhīkaṇṭhanitambabimbanakharavyāpārapāraṅgamaiḥ ṣaṣṭhyāṃ	nABI-kaNWa-nitamba-bimba-naKara-vyApAra-pAraFgamEH zazWyAm
+   candrakalākalāpanipuṇairdeyā nakhāḥ sarvataḥ // JPanc_1.20 //	candra-kalA-kalApa-nipuNEH-deyAH naKAH sarvatas // JPant-_1.20 //
+   grīvāyāṃ parirabhya gāḍhamasakṛnnābhiṃ nakhairālikhan dantauṣṭhena	grIvAyAm pariraBya gAXam-asakRt-nABim naKEH-AliKan danta-ozWena
+   nipīḍayankucataṭīṃ kaṇṭhe manāk tāḍayet /	nipIxayan-kuca-tawIm kaNWe manAk tAxayet /
+   sānandaṃ smaramandire karikarakrīḍāyitaṃ kurvatā netavyā taruṇī	sa-Anandam smara-mandire kari-kara-krIxAyitam kurvatA netavyA taruNI
+   svakīyavaśatāṃ caṇḍītithau citriṇī // JPanc_1.21 //	svakIya-vaSa-tAm caNxI-tiTO citriNI // JPant-_1.21 //
+   āliṅgya prasabhaṃ kapolanayanaśroṇīśrutīścumbayan sthāneṣveṣu	AliFgya prasaBam kapola-nayana-SroNI-SrutIH-cumbayan sTAnezu-ezu
+   nakhapradānakuśalo dattvā nakhānnirdayam /	naKa-pradAna-kuSalaH dattvA naKAt-nirdayam /
+   saṃdaśyādharapallavaṃ kramavaśādākṛṣya keśān vaśe citrāṃ saṃvidadhīta	saMdaSya-aDara-pallavam krama-vaSAt-AkRzya keSAn vaSe citrAm saMvid-aDIta
+   sītkṛtavatīṃ bhānostithau nāyakaḥ // JPanc_1.22 //	sItkRtavatIm BAnoH-tiTO nAyakaH // JPant-_1.22 //
+   śaṅkhinyāścandrakalāpradīpanavidhiḥ /	SaFKinyAH-candra-kalA-pradIpana-viDiH /
+   kakṣāmullasitairvilikhya karajairāliṅgya dorbhyāṃ muhur gāḍhaṃ corajisau	kakzAm-ullasitEH-viliKya karajEH-AliFgya dorByAm muhur gAXam cora-jisO
+   nipīḍya sutarāṃ viṣṇostithau candravit /	nipIxya sutarAm vizNoH-tiTO candra-vid /
+   ācumbecca kapolakaṇṭhagalakaṃ mṛdgannurojadvayaṃ kandarpasya tithau	Acumbet-ca kapola-kaNWa-galakam mRd-gannuH-oja-dvayam kandarpasya tiTO
+   nakhakṣativaśāddrāk śaṅkhinīṃ drāvayet // JPanc_1.23 //	naKa-kzati-vaSAt-drAk SaFKinIm drAvayet // JPant-_1.23 //
+   vyādaṣṭauṣṭhapuṭaḥ kapolanayanaśrotraṃ nakhairālikhan	vyAdazwa-ozWa-puwaH kapola-nayana-Srotram naKEH-AliKan
+   sāndrānandanigūḍhakaṇṭhavalayāṃ bhānostithau bhāminīm // JPanc_1.24 //	sAndra-Ananda-nigUXa-kaNWa-valayAm BAnoH-tiTO BAminIm // JPant-_1.24 //
+   āghātaṃ nakharaiśca nābhicaraṇagrīvākucoraḥsthale kṛtvālikhya ca	AGAtam naKarEH-ca nABi-caraNa-grIvA-kuca-uraH-sTale kRtvA-AliKya ca
+   bhūtanāthadivase kuryātsudhīrvihvalām // JPanc_1.25 //	BUtanATa-divase kuryAt-suDIH-vihvalAm // JPant-_1.25 //
+   hastinyāścandrakalāprabodhanavidhiḥ /	hastinyAH-candra-kalA-praboDana-viDiH /
+   ākaṇṭhaṃ parirabhya dorlatikayā niṣpīya vaktrāmbujaṃ	AkaNWam pariraBya dos-latikayA nizpIya vaktra-ambujam
+   kakṣāntaḥstanamaṇḍalodarataṭīṃ cañcannakhairāmṛśan /	kakzA-antar-stana-maNxala-udara-tawIm caQcat-naKErAmRSan /
+   kṣoṇībhṛttanayātithāvatha muhuḥ kāmālayaṃ saṃspṛśan sandaśyādharapallavaṃ	kzoNIBRt-tanaya-atiTO=-aTa muhur kAma-Alayam saMspRSan sandaSyADara-pallavam
+   grahatithau kuryāddrutāṃ hastinīm // JPanc_1.26 //	graha-tiTO kuryAt-drutAm hastinIm // JPant-_1.26 //
+   sampūrṇendutithau parikṣayadine tasyaiva tulyā tithis tasyāmeva vaśīkṛtā	sampUrNa-indu-tiTO parikzaya-dine tasya-eva tulyA tiTiH tasyAm-eva vaSIkRtA
+   śaśikalāsambodhanaiḥ kāminī /	SaSi-kalA-samboDanEH kAminI /
+   kāmāgāracucūlikāsu karajairdantaiśca dantacchadair āśleṣaiḥ	kAma-AgAra-cucUlikAsu karajEH-dantEH-ca dantacCadEH ASlezEH
+   paricumbanaiśca vividhairityāha nandīśvaraḥ // JPanc_1.27 //	paricumbanEH-ca viviDEH-iti-Aha nandISvaraH // JPant-_1.27 //
+   padminyādīnāṃ ratikālanirūpaṇam /	padminI-AdInAm rati-kAla-nirUpaNam /
+   yāminyāḥ kathitaścaturthacaraṇaḥ kālo nalinyā rate prārambhaprahare	yAminyAH kaTitaH-caturTa-caraNaH kAlaH nalinyAH rate prAramBa-prahare
+   prayāti sukhatāṃ citrapriyā citriṇī /	prayAti suKa-tAm citrapriyA citriNI /
+   śaṅkhinyāḥ samudīritaḥ kavivarairyāmastṛtīyo ratau mātaṅgī dravatāmupaiti	SaFKinyAH samudIritaH kavi-varEH-yAmaH-tRtIyaH ratO mAtaFgI drava-tAm-upEti
+   nitarāṃ naktaṃdinasyārdhayoḥ // JPanc_1.28 //	nitarAm naktaMdinasya-arDayoH // JPant-_1.28 //
+   sukhayati na pumāṃsaṃ padminī kvāpi rātrau nidhuvanamiti tasyāṃ naiva	suKayati na pumAMsam padminI kvApi rAtrO niDuvanam-iti tasyAm na-eva
+   kiñcitprayojyam /	kiQcid-prayojyam /
+   śiśurapi yadi kāntāṃ vāsare tāmupeyād vikasati raviyogātsā haṭhātpadminīva	SiSuH-api yadi kAntAm vAsare tAm-upeyAt vikasati ravi-yogAt-sA haWAt-padminI-iva
+   // JPanc_1.29 //	// JPant-_1.29 //
+   nārīṇāṃ sattvasamuddeśaḥ /	nArINAm sattva-samuddeSaH /
+   trivalivalitamadhyā kambukaṇṭhī vidagdhā kamalasurabhidehā	tri-vali-valita-maDyA kambukaNWI vidagDA kamala-suraBi-dehA
+   ketakīgarbhabhavyā /	ketakI-garBa-BavyA /
+   śucicaritapavitrā śīlasantoṣayuktā sulalitapikavāṇī syādiyaṃ devasattvā //	Suci-carita-pavitrA SIla-santoza-yuktA su-lalitapikavANI syAt-iyam deva-sattvAH //
+   JPanc_1.30 //	JPant-_1.30 //
+   bahulacapaladṛṣṭirnṛtyagītādidakṣā madhurabahalasugandhā puṣpamālānuraktā	bahula-capala-dRzwiH-nRtya-gIta-Adi-dakzA maDura-bahala-suganDA puzpa-mAlA-anuraktA
+   śiśirasurabhimāsakrīḍanapremapātrī bhavati ruciramūrtiḥ saiva	SiSira-suraBi-mAsa-krIxana-prema-pAtrI Bavati rucira-mUrtiH sA-eva
+   gandharvasattvā // JPanc_1.31 //	ganDarva-sattvAH // JPant-_1.31 //
+   gurukucayugabhārā gauradehā natāṅgī taruṇahariṇanetrā kopanā vītalajjā /	guru-kuca-yuga-BArA gOradehA nata-aFgI taruNa-hariNa-netrA kopanA vIta-lajjA /
+   vividhamadhuravākyā matsyamāṃsānuraktā munibhiriyamanarghā yakṣasattvā	viviDa-maDura-vAkyA matsya-mAMsa-anuraktA muniBiH-iyam-anarGA yakza-sattvA
+   pradiṣṭā // JPanc_1.32 //	pradizwA // JPant-_1.32 //
+   giriviharaṇavijñā rātrisañcāravīrā malinapiśunacittā kutsitāhāraceṣṭā /	giri-viharaNa-vijQA rAtri-saQcAra-vIrA malina-piSuna-cittA kutsita-AhAra-cezwA /
+   vikṛtavadanacandrā kṛṣṇavarṇā 'tikharvā malinavasanaraktā kīrtitā	vikRta-vadana-candrA kRzNa-varNA ati-KarvA malina-vasana-raktA kIrtitA
+   pretasattvā // JPanc_1.33 //	preta-sattvAH // JPant-_1.33 //
+   iti kaviśekharaśrījyotirīśvarakaviracite pañcasāyake jātyādisamuddeśo nāma	iti kavi-SeKara-SrI-jyotiH-ISvara-kavi-racite paQca-sAyake jAti-Adi-samuddeSaH nAma
+   prathamaḥ sāyakaḥ /	praTamaH sAyakaH /
+   atha dvitīyaḥ sāyakaḥ /	aTa dvitIyaH sAyakaH /
+   ratabhedāḥ /	rata-BedAH /
+   āyāmaiḥ pariṇāhakaiśca puruṣāḥ liṅgairvarāṅgaiḥ striyo jñātavyāśca	AyAmEH pariNAhakEH-ca puruzAH liFgEH-vara-aFgEH striyaH jQAtavyAH-ca
+   rasagṛhāruṇasamākhyātāṅgulaiḥ sarvataḥ /	rasa-gRha-aruNa-samAKyAta-aFgulEH sarvatas /
+   jātyā te 'pi śaśā vṛṣāśca turagāḥ prājñaiḥ smṛtāstā punar mṛgyaścā	jAtyA te api SaSAH vRzAH-ca turagAH prAjQEH smRtAH-tAH punar mRgyaH-ca-a
+   kariṇīti vistarabhayātsaṅkṣipya niṣkṛṣyate // JPanc_2.1 //	kariNI-iti vistara-BayAt-saFkzipya nizkRzyate // JPant-_2.1 //
+   śaśakahariṇapatnyorgoturaṅgyostathaiva hayagajapatināryorekarūpaṃ rataṃ	SaSaka-hariNa-patnyoH-gotuH-aFgyoH-taTA-eva haya-gaja-pati-nAryoH-eka-rUpam ratam
+   syāt /	syAt /
+   iha bhavati nitāntaṃ prītiranyonyayogād anumaraṇaśakyaṃ strī kathaṃ	iha Bavati nitAntam prItiH-anyonya-yogAt anumaraNa-Sakyam strI kaTam
+   svīkaroti // JPanc_2.2 //	svIkaroti // JPant-_2.2 //
+   mṛgīvṛṣaṃ cedvṛṣabhīturaṅgamatyuccametaddvitayaṃ vadanti /	mRgI-vRzam ced-vRzaBI-turaFgam-ati-uccam-etat-dvitayam vadanti /
+   aśvāśaśaṃ gokariṇīsamutthaṃ nīcadvayaṃ tuṣṭikaraṃ na yūnoḥ // JPanc_2.3 //	aSva-aSaSam gokariNI-samutTam nIca-dvayam tuzwi-karam na yUnoH // JPant-_2.3 //
+   mṛgīhayaṃ hastivadhūśaśaṃ cetatyuccanīcaṃ surataṃ vadanti /	mRgI-hayam hasti-vaDU-SaSam cetati-ucca-nIcam suratam vadanti /
+   pramāṇabhede 'pi na dravanti tasminna tṛpyanti nitambavatyaḥ // JPanc_2.4	pramANa-Bede api na dravanti tasmin-na tRpyanti nitambavatyaH // JPan=-_2.4
+   proktaratānāmuttamamadhyamādhamatvam /	prokta-ratAnAm-uttama-maDyama-aDama-tvam /
+   strīpuṃsayostulyarataṃ praśastaṃ madhyadvayaṃ madhyamamāmananti /	strIpuMsayoH-tulya-ratam praSastam maDya-dvayam maDyamam-Amananti /
+   atyuccakaṃ cāpyatinīcakaṃ ca nindyaṃ ratajñaiḥ surataṃ pradiṣṭam //	ati-uccakam ca-api-atinIcakam ca nindyam rata-jQEH suratam pradizwam //
+   JPanc_2.5 //	JPant-_2.5 //
+   prītiḥ samā syātsurate samākhye nīcadvaye yoṣita eva tuṣṭiḥ /	prItiH samA syAt-surate samAKye nIca-dvaye yozitaH eva tuzwiH /
+   atyuccake vā 'pyatinīcake vā tuṣṭirna puṃsāṃ na ca sundarīṇām // JPanc_2.6	ati-uccake vA api-atinIcake vA tuzwiH-na puMsAm na ca sundarINAm // JPan=-_2.6
+   vegabhedātsuratabhedāḥ /	vega-BedAt-surata-BedAH /
+   pracaṇḍavego 'pyatha madhyavegastathā 'paraḥ syāllaghunāmadheyaḥ /	pracaNxa-vegaH api-aTa maDya-vegaH-taTA aparaH syAt-laGu-nAmaDeyaH /
+   puṃsastaruṇyā ubhayorapīha tridhā kavīndrāḥ surataṃ vadanti // JPanc_2.7	puMsaH-taruNyAH uBayoH-api-iha triDA kavi-indrAH suratam vadanti // JPan=-_2.7
+   idānīṃ śaśādīnāṃ svarūpaṃ nirūpyate /	idAnIm SaSa-AdInAm svarUpam nirUpyate /
+   dīrghākṣāḥ sthūladehā laghusamadaśanā lambakarṇā suvāco grīvāyāṃ jānudeśe	dIrGa-akzAH sTUla-dehA laGu-sama-daSanA lamba-karNA su-vAcaH grIvAyAm jAnu-deSe
+   karakamalatale kālimānaṃ vahantaḥ /	kara-kamala-tale kAli-mAnam vahantaH /
+   alpāhārālpaśaucā dinamadhiśayinaḥ kāntimanto balāḍhyāḥ krīḍāvanto vinītā	alpa-AhAra-alpa-SOcAH dinam-aDiSayinaH kAntimantaH bala-AXyAH krIxAvantaH vinItA
+   laghutarasuratāḥ puṇyabhājaḥ śaśāḥ syuḥ // JPanc_2.8 //	laGutara-suratAH puNya-BAjaH SaSAH syuH // JPant-_2.8 //
+   sucārukeśo mṛduvāk suveśaḥ sudīrghakaṇṭhaścapalaḥ sunetraḥ /	su-cAru-keSaH mRdu-vAc su-veSaH su-dIrGa-kaNWaH-capalaH sunetraH /
+   suraktapāṇiḥ samadantapaṅktiḥ saubhāgyayuktaḥ kathito mṛgo 'yam //	su-rakta-pANiH samadanta-paFktiH sOBAgya-yuktaH kaTitaH mRgaH ayam //
+   JPanc_2.9 //	JPant-_2.9 //
+   sphārākārāḥ sadarpāḥ suratarasakalālampaṭāḥ sundarāṅgā vyūḍhoraskāḥ	sPAra-AkArAH sa-darpAH surata-rasakalA-lampawAH sundara-aFgAH vyUXa-uraskAH
+   surūpāḥ susamajaṭhariṇo māṃsalā lolanetrāḥ /	surUpAH su-sama-jaWariNaH mAMsalAH lola-netrAH /
+   atyantaprauḍhavāco 'parilaghudhṛtayaḥ krodhanā madhyavegā ukṣāṇo	atyanta-prOXa-vAcaH aparilaGu-DRtayaH kroDanA maDya-vegAH ukzANaH-
+   liṅgamīṣadvitatanavamitairaṅgulīkairvahanti // JPanc_2.10 //	liFgamIza-t-vitata-nava-mitEH-aFgulIkEH-vahanti // JPant-_2.10 //
+   kārye dhṛṣṭā baliṣṭhāḥ sitaśamadaśanāḥ pīvarāsyā varākṣā	kArye DRzwAH balizWAH sita-Sama-daSanAH pIvara-AsyA varAkzA
+   grīvābāhūrudīrghāḥ parahitaniratāḥ sāttvikāḥ snigdhavācaḥ /	grIvA-bAhu-Uru-dIrGAH para-hita-niratAH sAttvikAH snigDa-vAcaH /
+   nirlajjāścāruśīlāḥ pṛthutaragatayaścaṇḍasambhogaraktā aśvā liṅgaṃ vahanto	nirlajjAH-cAru-SIlAH pRTutara-gatayaH-caNxa-samBoga-raktAH aSvAH liFgam vahantaH-
+   yuvatijanamataṃ bhānusaṅkhyāṅgulīkam // JPanc_2.11 //	yuvati-jana-matam BAnu-saFKyA-aFgulIkam // JPant-_2.11 //
+   mṛgyādīnāṃ svarūpanirūpaṇam /	mRgya-AdInAm sva-rUpa-nirUpaNam /
+   mṛdvaṅgī dīrghanetrā varabisalatikākomalā dīrghabāhuḥ śoṇāmbhojābhirāmaṃ	mRdu-aFgI dIrGa-netrA vara-bisa-latikA-komalA dIrGa-bAhuH SoNa-amBoja-aBirAmam
+   vahati karayugaṃ hrasvamadhyā sukeśī /	vahati kara-yugam hrasva-maDyA sukeSI /
+   suśroṇīḥ kambukaṇṭhī pṛthukucayugalā yā vahatyaṅgulīkaiḥ ṣaḍbhiḥ	suSroNIH kambu-kaNWI pRTu-kuca-yugalA yA vahati-aFgulIkEH zaxBiH
+   kandarpagehaṃ kathayati hariṇīṃ tāmiha jyotirīśaḥ // JPanc_2.12 //	kandarpa-geham kaTayati hariNIm tAm-iha jyotiH-ISaH // JPant-_2.12 //
+   vyānimnottuṅgaśīrṣā bahutarakapiśasthūlakeśapracārā cañcannīlāmbujākṣī	vyAnimna-uttuFgaSIrzA bahutaraka-piSa-sTUla-keSa-pracArA caQcat-nIla-ambuja-akzI
+   sulalitavadanā tuṅgavakṣojabhārā /	su-lalita-vadanA tuFga-vakzoja-BArAH /
+   gambhīrāvartanābhirvalibhirupagatā śroṇibhārālasāṅgī seyaṃ randhrāṅgulīkaṃ	gamBIra-AvartanABiH-valiBiH-upagatA SroNi-BAra-alasa-aFgI sA-iyam ranDra-aFgulIkam
+   vahati rataguhārandhrakaṃ vai turaṅgī // JPanc_2.13 //	vahati rata-guhA-ranDrakam vE turaFgI // JPant-_2.13 //
+   sthūlāṅgī sthūlagaṇḍā laghutaranayanā sthūlanīlālpakeśā bimbauṣṭhī	sTUla-aFgI sTUlagaNxA laGutara-nayanA sTUla-nIla-alpa-keSA bimba-ozWI
+   pīnabāhuḥ kaṭhinagurukucā hīnaparvā 'tiduṣṭā /	pIna-bAhuH kaWina-guru-kucAH hIna-parvA ati-duzwAH /
+   nirlajjā rāsabhoktistaralitavadanā sarvadā kaṣṭasādhyā nirdiṣṭā hastinīyaṃ	nirlajjA rAsaBoktiH-taralita-vadanA sarvadA kazwa-sADyA nirdizwA hastinIyam
+   vahati ravisamairaṅgulairguhyadeśam // JPanc_2.14 //	vahati ravi-samEH-aFgulEH-guhya-deSam // JPant-_2.14 //
+   atha strīṇāmavasthāviśeṣāḥ kathyante /	aTa strINAm-avasTA-viSezAH kaTyante /
+   ṣoḍaśavarṣavayaskāṃ bālāmityālapanti dhīmantaḥ /	zoxaSa-varza-vayaskAm bAlAm-iti-Alapanti DImantaH /
+   viṃśāttaruṇīṃ triṃśātprauḍhāṃ pañcāśato vṛddhām // JPanc_2.15 //	viMSAt-taruNIm triMSAt-prOXAm paQcASataH vRdDAm // JPant-_2.15 //
+   bālā nūtanasaṅgame ratikarī sāndrāndhakāre bhaved āloke sukhamātanoti	bAlA nUtana-saFgame rati-karI sAndra-anDakAre Bavet Aloke suKam-Atanoti
+   taruṇī sambhogalīlāvidhau /	taruNI samBoga-lIlA-viDO /
+   āloke 'pi sukhāyate sarabhasaṃ prauḍhā tamisre 'ṅganā vṛddhā jīvitahāriṇī	Aloke api suKAyate sa-raBasam prOXA tamisre aFganA vRdDA jIvita-hAriNI
+   na kurute kutrāpi saukhyaṃ manāk // JPanc_2.16 //	na kurute kutra-api sOKyam manAk // JPant-_2.16 //
+   atha deśaviśeṣāt strīsvarūpaṃ nirūpyate /	aTa deSa-viSezAt strI-svarUpam nirUpyate /
+   rūkṣāṅgī bahuvarṇinī calamatirgītapriyā cāṭulā	rUkzAFgI bahuvarNinI calamatiH-gIta-priyA cAwulA
+   śailāmbhonidhipārśvadeśavanitā prāyo bhavedīdṛśī /	SEla-amBoniDi-pArSva-deSa-vanitA prAyas Bavet-IdRSI /
+   ambhodāgamapuṣpamāsasamaye sevyā punaḥ prīṇitā	amBoda-Agama-puzpa-mAsa-samaye sevyA punar prINitA
+   gurvāhārasugandhimālyavasanasnigdhāṅgarāgādibhiḥ // JPanc_2.17 //	guru-AhAra-suganDi-mAlya-vasana-snigDa-aFgarAga-AdiBiH // JPant-_2.17 //
+   gūḍhagranthiraharniśaṃ hi sakale gātre vahapyacchatām	gUXa-granTiH-aharniSam hi sakale gAtre vahapi-acCatAm
+   ambhojaprasavāruṇottamakarā śītālayapreyasī /	amBoja-prasava-aruNa-uttama-karA SIta-Alaya-preyasI /
+   saurāṣṭrī ca kaliṅgadeśayuvatiḥ kāmaṃ bhavetpittalā hemante śiśire	sOrAzwrI ca kaliFga-deSa-yuvatiH kAmam Bavet-pittalAH hemante SiSire
+   narairavirataṃ sevyā yathākāṅkṣayā // JPanc_2.18 //	narEH-aviratam sevyAH yaTA-kAFkzayA // JPant-_2.18 //
+   jñeyā kokilakākalīkalaravā medasvinī śītalā nidrāluśca śirīṣakomalatanuḥ	jQeyA kokilakAkalI-kala-ravA medasvinI SItalAH nidrAluH-ca SirIza-komala-tanuH
+   snigdhānanā śleṣmalā /	snigDa-AnanA SlezmalA /
+   vaṅgaśrīhaṭakāmarūpataruṇī śītādinā śaṅkitā gantavyā śaradi prakṛṣṭamadanā	vaFga-SrI-hawakAma-rUpa-taruNI SIta-AdinA SaFkitA gantavyA Saradi prakRzwa-madanA
+   grīṣme narairādṛtā // JPanc_2.19 //	grIzme narEH-AdRtA // JPant-_2.19 //
+   śucicaritavicitrā citrasambhogamitrā nakhadaśanaviraktā śilpaśikṣānuraktā	Suci-carita-vicitrA citra-samBoga-mitrA naKa-daSana-viraktA Silpa-SikzA-anuraktA
+   sthiramatinijabandhuḥ kāmasarvasvasindhur bhavati ruciraveṣā kāminī	sTiram-ati-nija-banDuH kAma-sarva-sva-sinDuH Bavati rucira-vezA kAminI
+   madhyadeśā // JPanc_2.20 //	maDyadeSAH // JPant-_2.20 //
+   karakucakarajātāśleṣavinyāsadakṣā sakalasuratabandhurjñānavaidagdhyadakṣā	kara-kuca-kara-jAta-ASleza-vinyAsa-dakzA sakala-surata-banDuH-jQAna-vEdagDya-dakzA
+   nalaghunaguruvegā prāyaśaḥ kāmaraktā ramayati madhurālpaṃ sundarī	nalaGuna-guru-vegA prAyaSas kAma-raktA ramayati maDura-alpam sundarI
+   tairabhuktī // JPanc_2.21 //	tEH-aBuktI // JPant-_2.21 //
+   mṛduvacanavibhāgā komalānaṅgabhāgā vigataramaṇanī(bhī)tiḥ komalānaṅgagītiḥ	mRdu-vacana-viBAgA komala-anaFga-BAgA vigata-ramaNa-nI(BI)tiH komalAnaFga-gItiH
+   dravati jhaṭiti kāntā citrasambhogadakṣā ramayati kila kaulī kīrtitā	dravati Jawiti kAntA citra-samBoga-dakzA ramayati kila kOlI kIrtitA
+   vaṅgīgauḍī // JPanc_2.22 //	vaFgI-gOxI // JPant-_2.22 //
+   karatalahatituṣṭā bāhyasambhogahṛṣṭā ciranidhuvanasādhyā mālavī	kara-tala-hati-tuzwA bAhya-samBoga-hRzwA cira-niDuvana-sADyA mAlavI
+   dhūrtavākyā /	DUrta-vAkyA /
+   sukhayati sukhavegā vyañjitānaṅgarāgā capalapiśunaśīlā syādiyaṃ colabālā	suKayati suKa-vegA vyaQjitA-anaFga-rAgA capala-piSuna-SIlA syAt-iyam cola-bAlA
+   // JPanc_2.23 //	// JPant-_2.23 //
+   kuvalayadalavarṇā cārutāṭaṅkakarṇā cakitahariṇanetrā phullarājīvavaktrā /	kuvalaya-dala-varNA cAru-tA-waFka-karNA cakita-hariNa-netrA Pulla-rAjIva-vaktrA /
+   laghunidhuvanaraktā 'kaṣṭasambhogasaktā sulalitagatireṣā gurjarī cāruveṣā	laGu-niDuvana-raktA akazwa-samBoga-saktA su-lalita-gatiH-ezA gurjarI cAru-vezA
+   // JPanc_2.24 //	// JPant-_2.24 //
+   alasavalitadṛṣṭirdivyarūpāṅgayaṣṭiḥ kaṭhinamadanavegā duḥkhasādhyā prayoge	alasa-valita-dRzwiH-divya-rUpa-aFga-yazwiH kaWina-madana-vegAH duHKa-sADyA prayoge
+   viramati suratānte kopamāyāti kānte vividhapuruṣalolā saindhavī duṣṭaśīlā	viramati surata-ante kopam-AyAti kAnte viviDa-puruza-lolA sEnDavI duzwa-SIlA
+   // JPanc_2.25 //	// JPant-_2.25 //
+   pulakakarajadātrī duṣṭavākyābhidhātrī viṣamasuratapātrī niścitaṃ kālarātrī	pulaka-karaja-dAtrI duzwa-vAkya-aBiDAtrI vizama-surata-pAtrI niScitam kAlarAtrI
+   iti bhavati purandhrī kośalāvantikā strī kavalayati ratārtā śrūyate	iti Bavati puranDrI koSalAvantikA strI kavalayati rata-ArtA SrUyate
+   pūrvavārtā // JPanc_2.26 //	pUrva-vArtA // JPant-_2.26 //
+   pikavaramṛduvācaḥ komalāṅgyaḥ suramyā vyapagatabhayalajjāḥ sāhasinyaḥ	pika-vara-mRdu-vAcaH komala-aFgyaH su-ramyAH vyapagata-Baya-lajjAH sAhasinyaH
+   svatantrāḥ /	svatantrAH /
+   laghunidhuvanasādhyāścīnasauvīrabhedadraviḍamalayajātāḥ	laGu-niDuvana-sADyAH-cIna-sOvIra-Beda-dravixa-malaya-jAtAH
+   sundarāṅgyastaruṇyaḥ // JPanc_2.27 //	sundara-aFgyaH-taruNyaH // JPant-_2.27 //
+   sakalasuratadakṣā siddhisaubhāgyavaśyā daśanavasanapānaprītibhājaḥ	sakala-surata-dakzA sidDi-sOBAgya-vaSyAH daSana-vasana-pAna-prIti-BAjaH
+   salajjāḥ /	sa-lajjAH /
+   karajalikhanadakṣāścaṇḍavegābhiramyāḥ kusumasurabhayaḥ	karajali-Kana-dakzAH-caNxa-vega-aBiramyAH kusuma-sura-BayaH
+   syurmadratailaṅganāryaḥ // JPanc_2.28 //	syuH-madra-tElaFga-nAryaH // JPant-_2.28 //
+   suratasavimardapremavatyaḥ pracaṇḍāḥ karajadaśanakeśāśleṣasañjñāvihīnāḥ /	surata-sa-vimarda-premavatyaH pracaNxAH karaja-daSana-keSa-ASleza-saQjQA-vihInAH /
+   sahajamalinacittāḥ pauṇḍrakāmbojajātāḥ karatalalayatuṣṭāḥ kāmarūpāṅganāḥ	sahaja-malina-cittAH pONxra-kAmboja-jAtAH karata-lalaya-tuzwAH kAmarUpa-aFganAH
+   syuḥ // JPanc_2.29 //	syuH // JPant-_2.29 //
+   gāḍhaṃ saṃśliṣya kaṇṭhe likhati kararuhaiḥ sarvataḥ kāntadehaṃ	gAXam saMSlizya kaNWe liKati kararuhEH sarvatas kAnta-deham
+   keśeṣvākṛṣya cumbatyadharamavirataṃ muṣṭighātaṃ dadāti /	keSezu-AkRzya cumbati-aDaram-aviratam muzwi-GAtam dadAti /
+   tṛptiṃ no yāti śīghraṃ dravati na ca rate caṇḍavegā pragalbhā jñātavyā	tRptim naH yAti SIGram dravati na ca rate caNxavegA pragalBA jQAtavyA
+   paṇḍitendrairatikalitaratirlāṭakarṇāṭanārī // JPanc_2.30 //	paNxita-indrEH-ati-kalita-ratiH-lAwa-karNa-AwanArI // JPant-_2.30 //
+   duṣṭā durgandhadehāḥ paśusamasuratāścumbanaśleṣahīnāḥ serṣyā mlecchāṅganāḥ	duzwAH durganDa-dehAH paSu-samasuratAH-cumbana-Sleza-hInAH sa-IrzyAH mlecCa-aFganAH
+   syurlaghurataniratāḥ pārvatīyāśca nāryaḥ /	syuH-laGu-rata-niratAH pArvatIyAH-ca nAryaH /
+   kāśmīrābhīragandhyāḥ sakalarasakalāmodadakṣā nitāntaṃ sādhyā	kASmIra-ABIra-ganDyAH sakala-rasa-kalA-Amoda-dakzAH nitAntam sADyA
+   deśānusārādiha paṭumatibhiryoṣitaḥ sarvadaiva // JPanc_2.31 //	deSa-anusArAt-iha pawu-matiBiH-yozitaH sarvadA-eva // JPant-_2.31 //
+   jātestattvaṃ samastaṃ nikhilaśaśikalābodhanaṃ sattvavṛttiṃ mṛgyādīnāṃ	jAteH-tattvam samastam niKila-SaSi-kalA-boDanam sattva-vRttim mRgya-AdInAm
+   vaśatvaṃ madanarasakalākautukaṃ cāpyaśeṣam /	vaSa-tvam madana-rasakalA-kOtukam ca-api-aSezam /
+   itthaṃ yaḥ kāminīnāṃ kalayati caritaṃ deśasātmyena samyag yāvajjīvaṃ sa	itTam yaH kAminInAm kalayati caritam deSa-sAtmyena samyak yAvajjIvam sa
+   tasyāḥ prabhavati hṛdaye prāṇanāthaḥ sukhāya // JPanc_2.32 //	tasyAH praBavati hRdaye prANanATaH suKAya // JPant-_2.32 //
+   yonibhedanirūpaṇam /	yoni-Beda-nirUpaNam /
+   sparśena paṅkajasamā taruṇījanānām abhyantare ca guṭikāsamadeśakā ca /	sparSena paFkaja-samA taruNI-janAnAm aByantare ca guwikA-sama-deSakA ca /
+   yonirbhavedatha valiprakārāvakīrṇā gojihvikāsukharakarkaśagarbhadeśā //	yoniH-Bavet-aTa vali-prakAra-avakIrNA gojihvikA-suKara-karkaSa-garBa-deSA //
+   JPanc_2.33 //	JPant-_2.33 //
+   atyuttamā prakathitā prathamā kavīndrair madhyā ca madhyamavidhā kila	ati-uttamA prakaTitA praTamA kavi-indrEH maDyA ca maDyamaviDA kila
+   sampradiṣṭā /	sampradizwAH /
+   śeṣadvayaṃ madanakelikalārasajñair nindyaṃ sadaiva kathitaṃ suratotsaveṣu	Seza-dvayam madana-keli-kalA-rasa-jQEH nindyam sadA-eva kaTitam surata-utsavezu
+   // JPanc_2.34 //	// JPant-_2.34 //
+   vahnirna śāntimupayāti kadā 'pi kāṣṭhair nāmbhonidhirviramati pracuraiḥ	vahniH-na SAntim-upayAti kadA api kAzWEH na-amBoniDiH-viramati pracurEH
+   payobhiḥ /	payoBiH /
+   nāpyantako jagati jantubhireti toṣaṃ vāmā 'pi naiva puruṣaiḥ khalu yāti	na-api-antakaH jagati jantuBiH-eti tozam vAmA api na-eva puruzEH Kalu yAti
+   tṛptim // JPanc_2.35 //	tRptim // JPant-_2.35 //
+   tasmānnareṇa ratiraṅgavicakṣaṇena māyāmupāsya sakalāṃ svaśarīrasādhyām /	tasmAt-nareNa rati-H-aFga-vicakzaNena mAyAm-upAsya sakalAm sva-SarIra-sADyAm /
+   tāsāṃ manoharaṇameva paraṃ vidheyaṃ no veda ko 'pi hṛdayaṃ khalu kāminīnām	tAsAm manoharaNam-eva param viDeyam naH veda kaH api hRdayam Kalu kAminInAm
+   // JPanc_2.36 //	// JPant-_2.36 //
+   prītibhedanirūpaṇam /	prIti-Beda-nirUpaNam /
+   srakcandanāmbaramanoharabhakṣyabhojyair nānāvidhairupacitā viṣayaiḥ	sraj-candana-ambara-manohara-Bakzya-BojyEH nAnAviDEH-upacitAH vizayEH
+   sadaiva /	sadA-eva /
+   prītiḥ smṛtā viṣayajeti kavipravīraiḥ sādṛśyayogasubhagā kathitā sadaiva	prItiH smRtA vizaya-jA-iti kavi-pravIrEH sAdRSya-yoga-suBagA kaTitA sadA-eva
+   // JPanc_2.37 //	// JPant-_2.37 //
+   ākheṭaśilpasurapūjanakeliraṅgasaṅgītasevanavidhāvupacīyate yā /	AKewa-Silpa-sura-pUjana-keliH-aFga-saFgIta-sevana-viDO=-upacIyate yA /
+   abhyāsakauśalavaśena kṛśodarīṇām ābhyāsakī nigaditā kavibhiḥ purāṇaiḥ //	aByAsa-kOSala-vaSena kRSa-udarINAm AByAsakI nigaditA kaviBiH purANEH //
+   JPanc_2.38 //	JPant-_2.38 //
+   strīṇāṃ rāgavināśahetavaḥ /	strINAm rAga-vinASa-hetavaH /
+   dāridraduḥkhabhayaviklavamānarogair udvegakopatanutādibhirīśvarāṇām /	dAridra-duHKa-Baya-viklava-mAna-rogEH udvega-kopa-tanu-tA-AdiBiH-ISvarANAm /
+   rāgaṃ tyajanti vanitā iha vistarasya bhītyā na cāsya kathitaḥ sakalo	rAgam tyajanti vanitAH iha vistarasya BItyA na ca-asya kaTitaH sakalaH-
+   vivartaḥ // JPanc_2.39 //	vivartaH // JPant-_2.39 //
+   iti śrīkaviśekharajyotīśvaraviracite pañcasāyake dvitīyaḥ sāyakaḥ /	iti SrIka-viSeKara-jyoti-ISvara-viracite paQca-sAyake dvitIyaH sAyakaH /
+   atha tṛtīyaḥ sāyakaḥ /	aTa tRtIyaH sAyakaH /
+   dehadaurgandhyaharaṇayogāḥ /	deha-dOrganDya-haraNa-yogAH /
+   prāgaṅgarāgaḥ puruṣeṇa kāryaḥ sriyā ca sambhogasukhāya gātre /	prAc-aFga-rAgaH puruzeNa kAryaH sriyA ca samBoga-suKAya gAtre /
+   tasmādahaṃ gandhavidhānamādau vilāsinaḥ sarvamudīrayāmi // JPanc_3.1 //	tasmAt-aham ganDa-viDAnam-AdO vilAsinaH sarvam-udIrayAmi // JPant-_3.1 //
+   harītakīlodhramariṣṭapatraṃ saptacchado dāḍimakalkalaṃ ca /	harItakI-loDram-arizwa-patram saptacCadaH dAxima-kalkalam ca /
+   eṣo 'ṅganāyāḥ kathitaḥ kavīndraiḥ śarīradaurgandhyaharaḥ pralepaḥ //	ezaH aFganAyAH kaTitaH kavi-indrEH SarIra-dOrganDya-haraH pralepaH //
+   JPanc_3.2 //	JPant-_3.2 //
+   harītakīcandanamustanāgairuśīralodhrāmayarātritulyaiḥ /	harItakI-candana-musta-nAgEH-uSIra-loDra-Amaya-rAtri-tulyEH /
+   strīpuṃsayorgharmajagātragandhaṃ vināśayatyāśu vilepanaṃ ca // JPanc_3.3	strIpuMsayoH-Garma-ja-gAtra-ganDam vinASayati-ASu vilepanam ca // JPan=-_3.3
+   harītaīśrīphalamustayuktairbimbīphalaiḥ pūtakarañjabījaiḥ /	harItaI-SrI-Pala-musta-yuktEH-bimbI-PalEH pUta-karaQja-bIjEH /
+   kakṣādidaurgandhyamatiprabhūtaṃ vināśayatyāśu haṭhena yogaḥ // JPanc_3.4	kakza-Adi-dOrganDya-m-ati-praBUtam vinASayati-ASu haWena yogaH // JPant-_3.4
+   (sacandanośīrakabilvapatraiḥ kolākṣamajjāgurunāgapuṣpaiḥ /	(sa-candana-uSIraka-bilva-patrEH kola-akza-majja-aguru-nAga-puzpEH /
+   liptvā śarīraṃ pramadā javena ciraprarūḍhaṃ vinihanti gandham // JPanc_3.5	liptvA SarIram pramadA javena cira-prarUXam vinihanti ganDam // JPan=-_3.5
+   sakesarośīraśirīṣaloghraiścūrṇīkṛtairaṅgavilepanena /	sa-kesara-uSIra-SirIza-loGrEH-cUrNIkRtEH-aFga-vilepanena /
+   grīṣme narāṇāṃ kadācideva gharmasrutiḥ syāditi bhojarājaḥ // JPanc_3.6 //	grIzme narANAm kadAcid-eva Garma-srutiH syAt-iti Boja-rAjaH // JPant-_3.6 //
+   mahāparimalaṃ tailam /	mahA-parimalam tElam /
+   ādau bilvadalaṃ tato maruvakaṃ puṣpāṇyaśokasya tu pratyādityamajasrameva	AdO bilva-dalam tatas maruvakam puzpANi-aSokasya tu pratyAdityam-ajasram-eva
+   tilaje taile ghaṭe niḥkṣipet /	tila-je tEle Gawe niHkzipet /
+   ketakyāṃ kusumāni ceha muhuśaḥ śeṣe kṣipedādarād itthaṃ kāryamidaṃ	ketakyAm kusumAni ca-iha muhuSas Seze kzipet-AdarAt itTam kAryam-idam
+   mahāparimalaṃ tailaṃ naraiḥ siddhaye // JPanc_3.7 //	mahA-parimalam tElam narEH sidDaye // JPant-_3.7 //
+   snānīyasugandhinirūpaṇam /	snAnIya-suganDi-nirUpaNam /
+   svarṇāmbudośīramiśīyutānāṃ pathyānvitānāṃ ca vilepanena /	svarNa-ambuda-uSIra-miSI-yutAnAm paTya-anvitAnAm ca vilepanena /
+   snātvā naraḥ saurabhameva māsāccaikaṇyamāpnoti śiroruhāṇām // JPanc_3.8 //	snAtvA naraH sOraBam-eva mAsAt-cEkaNyam-Apnoti SiroruhANAm // JPant-_3.8 //
+   pathyārasālāmalakīphalānāṃ sajambujīmūtadalāmayānām /	paTyA-rasAla-AmalakI-PalAnAm sa-jambu-jImUta-dala-AmayAnAm /
+   māṃsīyutānāṃ parilepanena snāyānnaraḥ saurabhakāntivṛddhyai // JPanc_3.9	mAMsI-yutAnAm parilepanena snAyAt-naraH sOraBa-kAnti-vRdDyE // JPan=-_3.9
+   dehasaurabhyakarā yogāḥ /	deha-sOraBya-karAH yogAH /
+   harītakītoyadatulyabhāgau vanecarasyāpi caturthabhāgaḥ /	harItakI-toyada-tulya-BAgO vanecarasya-api caturTa-BAgaH /
+   tadarthabhāgaḥ kathito nakhasya syādeṣa gandho madanaprakāśaḥ //	tad-arTa-BAgaH kaTitaH naKasya syAt-eza ganDaH madana-prakASaH //
+   JPanc_3.10 //	JPant-_3.10 //
+   elāśaṭīpatrakacandanāni toyābhayācandraghanāmayāni /	elA-SawI-patraka-candanAni toya-aBayA-candra-Gana-AmayAni /
+   susaurabho 'yaṃ surarājayogyaḥ khyātaḥ sugandho naramohanārthaḥ //	su-sOraBaH ayam surarAja-yogyaH KyAtaH suganDaH nara-mohana-arTaH //
+   JPanc_3.11 //	JPant-_3.11 //
+   aiṇeyakāśmīraghanāmbulohaniśākarośīrasamāni piṣṭvā /	ENeya-ka-aSmIra-Gana-ambu-loha-niSAkara-uSIra-samAni pizwvA /
+   lepaḥ priyo 'yaṃ suramānavānāmudīritaḥ pūrvakavīndravaryaiḥ // JPanc_3.12	lepaH priyaH ayam sura-mAnavAnAm-udIritaH pUrva-kavi-indra-varyEH // JPan=-_3.12
+   uśīrakṛṣṇāgurucandanāni patrāmbutulyāni samāni piṣṭvā /	uSIra-kRzNa-aguru-candanAni patra-ambu-tulyAni samAni pizwvA /
+   etāni gātreṣu vilāsinīnāṃ śrīkhaṇḍatulyaṃ prathayanti gandham //	etAni gAtrezu vilAsinInAm SrIKaNxa-tulyam praTayanti ganDam //
+   JPanc_3.13 //	JPant-_3.13 //
+   sarvottamasugandhayogāḥ /	sarva-uttama-suganDa-yogAH /
+   jātīkarkaṭaraktacandanaghanaśrīvāsaśaileyakaṃ kastūrīkanakāmataṅgakusumaiḥ	jAtIkarkawa-rakta-candana-Gana-SrI-vAsa-SEleyakam kastUrI-kanakA-mataFga-kusumEH
+   sthauṇeyakaiḥ saṃyutam /	sTONeyakEH saMyutam /
+   etānīnduyutāni parṇajarasaiḥ piṣṭo 'ṅgarāgaḥ śubhaḥ kāryo	etAni-indu-yutAni parNaja-rasEH pizwaH aFgarAgaH SuBaH kAryaH-
+   gandhakalākalāpakuśalaiḥ kṣoṇīndrayogyaḥ sadā // JPanc_3.14 //	ganDa-kalA-kalApa-kuSalEH kzoNI-indra-yogyaH sadA // JPant-_3.14 //
+   pathyā bhāgacatuṣṭayaṃ jalamuco bhāgaikamātraṃ mataṃ	paTyA BAga-catuzwayam jalamucaH BAga-eka-mAtram matam
+   vyādherbhāgacatuṣṭayaṃ ca śaśinaṇa sthauṇeyabhāgadvayam /	vyADeH-BAga-catuzwayam ca SaSinaNa sTONeya-BAga-dvayam /
+   bhāgāḥ pañca śilodbhavasya kathitā bhāgo nakhasyāpi ca	BAgAH paQca SilodBavasya kaTitAH BAgaH naKasya-api ca
+   kastūrīdalasañjñakaṃ nigaditaṃ saurabhyavijñairidam // JPanc_3.15 //	kastUrI-dala-saQjQakam nigaditam sOraBya-vijQEH-idam // JPant-_3.15 //
+   pathyābhāgacatuṣṭayaṃ jalamuco bhāgaikamātraṃ sadā	paTyA-BAga-catuzwayam jalamucaH BAga-eka-mAtram sadA
+   śrīkhaṇḍāgurujātikāmṛgamadasyoktāśca bhāgāstrayaḥ /	SrIKaNxa-aguru-jAtikA-mRga-madasya-uktAH-ca BAgAH-trayaH /
+   māṃsīpadmatuṣāravālakasamaiḥ samyaktayā peṣitaḥ sarvairebhirihottamaḥ	mAMsI-padma-tuzAra-vAlaka-samEH samyaktayA pezitaH sarvEH-eBiH-iha-uttamaH
+   prakathitaḥ saurabhyagarbhābhidhaḥ // JPanc_3.16 //	prakaTitaH sOraBya-garBa-aBiDaH // JPant-_3.16 //
+   mukhavāsayogāḥ /	muKa-vAsa-yogAH /
+   rasālajambūphalagarbhasāraḥ sakarkaṭo mākṣikasaṃyutaśca /	rasAla-jambU-Pala-garBasAraH sa-karkawaH mAkzika-saMyutaH-ca /
+   sthito mukhāntaḥ puruṣasya rātrau karoti saurabhyasukhaṃ mukhasya //	sTitaH muKa-antaH puruzasya rAtrO karoti sOraBya-suKam muKasya //
+   JPanc_3.17 //	JPant-_3.17 //
+   guḍatvagelānakhajātikāhvaiḥ svarṇānvitaiḥ kṣudravaṭī vidheyā /	guxa-tvac-elA-naKa-jAtika-AhvEH svarNa-anvitEH kzudravawI viDeyAH /
+   tāmbūlagarbhā divase ca rātrau karoti puṃsāṃ mukhavāsamiṣṭam // JPanc_3.18	tAmbUla-garBAH divase ca rAtrO karoti puMsAm muKa-vAsam-izwam // JPan=-_3.18
+   yaḥ kuṣṭhacūrṇaṃ madhunā ghṛtena pīkākṣabījānvitamatti nityam /	yaH kuzWa-cUrNam maDunA GRtena pIkAkza-bIja-anvitam-atti nityam /
+   māsaikamātreṇa mukhaṃ tadīyaṃ gandhāyate ketakipuṣpatulyam // JPanc_3.19	mAsa-eka-mAtreNa muKam tadIyam ganDAyate ketaki-puzpa-tulyam // JPant-_3.19
+   vājīkaraṇasamuddeśaḥ /	vAjIkaraNa-samuddeSaH /
+   balena nārī paritoṣameti na hīnavīryasya kadā 'pi saukhyam /	balena nArI paritozam-eti na hIna-vIryasya kadA api sOKyam /
+   ato balārthaṃ ratilampaṭasya bījābhivṛddhiṃ prathamaṃ vidadhyāt //	atas bala-arTam rati-lampawasya bIja-aBivRdDim praTamam vidaDyAt //
+   JPanc_3.20 //	JPant-_3.20 //
+   cūrṇaṃ vidāryāḥ svarasena tasyāḥ subhāvitaṃ bhāskararaśmijālaiḥ /	cUrNam vidAryAH svarasena tasyAH su-BAvitam BAskara-raSmi-jAlEH /
+   madhvājyasammiśritamāśu līḍhvā daśa striyo gacchati nirviśaṅkaḥ //	maDu-Ajya-sammiSritam-ASu lIXvA daSa striyaH gacCati nirviSaFkaH //
+   JPanc_3.21 //	JPant-_3.21 //
+   bhūyo vibhāvyāmalakasya cūrṇaṃ rasena tasyaiva sitājyamiśram /	BUyas viBAvi-a-Amalakasya cUrNam rasena tasya-eva sita-Ajya-miSram /
+   sakṣaudramāleḍhi niśāmukhe yo nūnaṃ sa vṛddhastaruṇatvameti // JPanc_3.22	sa-kzOdra-mAleXi niSA-muKe yaH nUnam sa vRdDaH-taruNa-tvam-eti // JPan=-_3.22
+   śatāvarīgokṣuravānarīṇāṃ gorakṣāmātaṅgabalābalānām /	SatAvarI-gokzuravAn-arINAm gorakzA-mAtaFga-bala-abalAnAm /
+   kṣīreṇa cūrṇāni nipīya rātrau mathnāti darpaṃ taruṇījanasya // JPanc_3.23	kzIreNa cUrNAni nipIya rAtrO maTnAti darpam taruNI-janasya // JPan=-_3.23
+   yo vartakīlāvakapiñjalānāṃ māṃsaṃ tathā veśmavihaṅgamasya /	yaH vartakIlAva-kapiQjalAnAm mAMsam taTA veSma-vihaFgamasya /
+   ghṛtena siddhaṃ saha saindhavena mahābalaḥ syādupabhujya nūnam //	GRtena sidDam saha sEnDavena mahA-balaH syAt-upaBujya nUnam //
+   JPanc_3.24 //	JPant-_3.24 //
+   śatāvarīgarbhamidaṃ sasarpiḥ pacetpayobhirdaśabhāgayuktaiḥ /	SatAvarI-garBam-idam sa-sarpiH pacet-payoBiH-daSa-BAga-yuktEH /
+   sitopalābhyāṃ madhusamprayuktaṃ nāsmāddvitīyaṃ bhuvi dṛṣṭamanyat //	sitopalAByAm maDu-samprayuktam na-asmAt-dvitIyam Buvi dRzwam-anyat //
+   JPanc_3.25 //	JPant-_3.25 //
+   sitapikatarubījaṃ taṇḍulāḥ ṣaṣṭikānāṃ saghṛtamadhusametaṃ pratyahaṃ yo	sitapikata-ru-bIjam taNxulAH zazwikAnAm sa-GRta-maDu-sametam pratyaham yaH-
+   'valeḍhi /	avaleXi /
+   jaṭharakuharamadhye yāti yāvanna pākaṃ ramayati kṛśadeho 'pyaṅganānāṃ	jaWara-kuhara-maDye yAti yAvat-na pAkam ramayati kRSa-dehaH api-aFganAnAm
+   samūham // JPanc_3.26 //	samUham // JPant-_3.26 //
+   māṃsīṃ vidārīṃ ca tathoccaṭāṃ ca kṣīre gavāṃ kṣaudraghṛtopapannām /	mAMsIm vidArIm ca taTA-uccawAm ca kzIre gavAm kzOdra-GRta-upapannAm /
+   pītvā naraḥ śarkarayā suyuktāṃ kuliṅgavaddhṛṣyati sarvarātram //	pItvA naraH SarkarayA su-yuktAm kuliFga-vat-hRzyati sarva-rAtram //
+   JPanc_3.27 //	JPant-_3.27 //
+   laghuśālmalimūlena tālamūlīṃ sucūrṇitām /	laGu-SAlmali-mUlena tAlamUlIm su-cUrNitAm /
+   sarpiṣā payasā pītvā ratau caṭakavadbhavet // JPanc_3.28 //	sarpizA payasA pItvA ratO cawaka-vat-Bavet // JPant-_3.28 //
+   vṛddhaśālmalimūlasya rasaṃ śarkarayā pibet /	vRdDa-SAlmali-mUlasya rasam SarkarayA pibet /
+   etatprayogātsaptāhājjāyate retaso 'mbudhiḥ // JPanc_3.29 //	etad-prayogAt-sapta-ahAt-jAyate retasaH ambuDiH // JPant-_3.29 //
+   yonigāḍhīkaraṇasamuddeśaḥ /	yoni-gAXIkaraNa-samuddeSaH /
+   prauḍhāṅganāyā navasūtikāyāḥ ślathaṃ varāṅgaṃ na sukhāya yūnām /	prOXa-aFganAyAH navasUtikAyAH SlaTam varAFgam na suKAya yUnAm /
+   tasmānnarairbheṣajato vidheyā gāḍhakriyā manmathamandirasya // JPanc_3.30	tasmAt-narEH-BezajataH viDeyAH gAXa-kriyA manmaTa-mandirasya // JPan=-_3.30
+   niśādvayaṃ paṅkajakesaraṃ ca niṣpiṣya devadrutamatulyabhāgam /	niSA-dvayam paFkaja-kesaram ca nizpizya deva-drutam-atulya-BAgam /
+   anena liptaṃ madanātapatraṃ prayāti saṅkocamalaṃ yuvatyāḥ // JPanc_3.31 //	anena liptam mad-ana-Atapatram prayAti saFkoca-malam yuvatyAH // JPant-_3.31 //
+   sadhātukīpuṣpaphalatrikeṇa jambutvacā sāraghasaṃyutena /	sa-DAtukI-puzpa-PalatrikeNa jambu-tvacA sAraGa-saMyutena /
+   liptvā varāṅgaṃ madhukena tulyaṃ vṛddhā 'pi kanyeva bhavatpurandhrī //	liptvA varAFgam maDukena tulyam vRdDA api kanyA-iva Bavat-puranDrI //
+   JPanc_3.32 //	JPant-_3.32 //
+   pikākṣabījena manojagehaṃ vilipya yoṣā niyamaṃ carantī /	pikAkza-bIjena manoja-geham vilipya yozA niyamam carantI /
+   haṭhena gāḍhaṃ labhate varāṅgaṃ dṛṣṭo naraireṣa sadaiva yogaḥ //	haWena gAXam laBate varAFgam dRzwaH narEH-eza sadA-eva yogaH //
+   JPanc_3.33 //	JPant-_3.33 //
+   yā śakragopaṃ svayameva piṣṭvā vilimpati strī kusumeṣuveśma /	yA Sakragopam svayam-eva pizwvA vilimpati strI kusumezu-veSma /
+   āha sma tasyāḥ kaṭhinaṃ ca gāḍhaṃ bhavecca nātrāsti vikalpaśaṅkā //	Aha sma tasyAH kaWinam ca gAXam Bavet-ca na-atra-asti vikalpa-SaFkA //
+   JPanc_3.34 //	JPant-_3.34 //
+   indīvaravyādhivacākaṇānāṃ turaṅgagandhāyugayāminīṇām /	indIvara-vyADi-vacA-kaNAnAm turaFga-ganDA-yuga-yAminINAm /
+   lepena nāryāḥ smaraveśmarandhraṃ saṅkocayatyāśu haṭhena yogaḥ //	lepena nAryAH smara-veSma-ranDram saFkocayati-ASu haWena yogaH //
+   JPanc_3.35 //	JPant-_3.35 //
+   madanakaghanasāraiḥ kṣaudratulyairvarāṅgaṃ śithilitamapi yasyāḥ pūritaṃ	madanaka-Gana-sArEH kzOdra-tulyEH-varAFgam SiTilitam-api yasyAH pUritam
+   bhūya eva /	BUyas eva /
+   bhavati kaṭhinamuccaiḥ karkaśaṃ kāminīnām iti nigadati yogaṃ rantidevo	Bavati kaWinam-uccEs karkaSam kAminInAm iti nigadati yogam rantidevaH-
+   narendraḥ // JPanc_3.36 //	narendraH // JPant-_3.36 //
+   drāvaṇasamuddeśaḥ /	drAvaNa-samuddeSaH /
+   yadyapyaṣṭaguṇādhiko nigaditaḥ kāmo 'ṅganānāṃ sadā no yāti dravatāṃ tathā	yadi-api-azwa-guNa-aDikaH nigaditaH kAmaH aFganAnAm sadA naH yAti dravatAm taTA
+   'pi jhaṭiti vyāyāmināṃ saṅgame /	api Jawiti vyAyAminAm saFgame /
+   tasmādbheṣajasamprayogavidhinā saṅkṣepato drāvaṇaṃ kiñcitpallavayāmi	tasmAt-Bezaja-samprayoga-viDinA saFkzepataH drAvaNam kiQcit-pallavayAmi
+   paṅkajadṛśāṃ pratyāyakaṃ kāminoḥ // JPanc_3.37 //	paFkaja-dRSAm pratyAyakam kAminoH // JPant-_3.37 //
+   sindūraciñcāphalamākṣikāṇi tulyāni yasyā madanātapatre /	sindUra-ciQcA-Pala-mAkzikANi tulyAni yasyAH madana-Atapatre /
+   kṣiptāni vai sā puruṣaprasaṅgātprāgeva retaḥsrutimātanoti // JPanc_3.38 //	kziptAni vE sA puruza-prasaFgAt-prAk-eva retaH-srutim-Atanoti // JPant-_3.38 //
+   ghoṣārajaḥ kṣaudrasamanvitaṃ tu kṣiptaṃ yadīye smarayantragehe /	Goza-ArajaH kzOdra-samanvitam tu kziptam yadIye smarayantra-gehe /
+   drutā bhavetsā haṭhato hi nārī dṛṣṭaḥ sadā 'yaṃ kila yogarājaḥ //	drutA Bavet-sA haWataH hi nArI dRzwaH sadA ayam kila yoga-rAjaH //
+   JPanc_3.39 //	JPant-_3.39 //
+   agastipatradravasaṃyutena madhvājyasammiśritaṭaṅkaṇena /	agasti-patra-drava-saMyutena maDu-Ajya-sammiSrita-waFkaNena /
+   liptvā dhvajaṃ yo ramate 'ṅganāṃ yāṃ sā śukramāvarṣati śīghrameva //	liptvA Dvajam yaH ramate aFganAm yAm sA Sukram-Avarzati SIGram-eva //
+   JPanc_3.40 //	JPant-_3.40 //
+   sarodhradhattūrakapippalīnāṃ kṣudroṣaṇakṣaudravimiśritānām /	sa-roDra-DattUraka-pippalInAm kzudrozaNa-kzOdra-vimiSritAnAm /
+   lepena liṅgasya karoti retaḥsrutiṃ vipakṣapramadājanasya // JPanc_3.41 //	lepena liFgasya karoti retaH-srutim vipakza-pramadA-janasya // JPant-_3.41 //
+   tuṣajalaparimiśrairbījapūrasya mūlair divasakaramayūkhairmarditaiḥ	tuza-jala-parimiSrEH-bIjapUrasya mUlEH divasakara-mayUKEH-marditEH
+   kāmaveśma /	kAma-veSma /
+   dravati jhaṭiti liptaṃ bheṣajasyāsya yogād iti vadati narendro rantidevaḥ	dravati Jawiti liptam Bezajasya-asya yogAt iti vadati narendraH rantidevaH
+   kavīndraḥ // JPanc_3.42 //	kavi-indraH // JPant-_3.42 //
+   liṅgasthūlīkaraṇasamuddeśaḥ /	liFga-sTUlIkaraNa-samuddeSaH /
+   sakuṣṭhamātaṅgabalābalānāṃ vacāśvagandhāgajapippalīnām /	sa-kuzWa-mAtaFga-bala-abalAnAm vacA-aSvaganDA-gaja-pippalInAm /
+   turaṅgaśatrornavanītayogāllepena liṅgaṃ muśalatvameti // JPanc_3.43 //	turaFga-SatroH-navanIta-yogAt-lepena liFgam muSala-tvam-eti // JPant-_3.43 //
+   sarodhrakāśīśaturaṅgagandhāmātaṅgagandhāparipācitena /	sa-roDrakASISa-turaFga-ganDA-mAtaFga-ganDA-paripAcitena /
+   tailena vṛddhiṃ khalu yānti śīghraṃ varāṅgakarṇastanamehanāni //	tElena vRdDim Kalu yAnti SIGram varAFga-karNa-stana-mehanAni //
+   JPanc_3.44 //	JPant-_3.44 //
+   atha dhvajadṛḍhīkaraṇasamuddeśaḥ /	aTa Dvaja-dRXIkaraNa-samuddeSaH /
+   hayāripatraṃ navanītapiṣṭaṃ vacābalānāgabalāmayaiśca /	haya-ari-patram navanIta-pizwam vacA-balA-nAga-balA-mayEH-ca /
+   lepena liṅgaṃ sahasaiva puṃsāṃ lohopamaṃ syāditi dṛṣṭametat // JPanc_3.45	lepena liFgam sahasA-eva puMsAm loha-upamam syAt-iti dRzwam-etat // JPan=-_3.45
+   atha vīryastambhanasamuddeśaḥ /	aTa vIrya-stamBana-samuddeSaH /
+   kṣīreṇa bastasya ca baddhamūlaṃ lajjālumūlaṃ svayameva piṣṭvā /	kzIreNa bastasya ca badDa-mUlam lajjA-lu-mUlam svayam-eva pizwvA /
+   yastu svapādau parilipya śete reto na tasya sravate kadācit // JPanc_3.46	yaH-tu svapAdO parilipya Sete retaH na tasya sravate kadAcid // JPan=-_3.46
+   śveteṣupuṅkhākhyataroḥ phalāni kṣīreṇa piṣṭvā vaṭapādapasya /	Sveta-izu-puFKa-AKya-taroH PalAni kzIreNa pizwvA vawa-pAdapasya /
+   karañjabījodaramadhyagāni badhnanti vīryaṃ vadane dhṛtāni // JPanc_3.47 //	karaQja-bIja-udara-maDya-gAni baDnanti vIryam vadane DRtAni // JPant-_3.47 //
+   śveteṣupuṅkhācaraṇaṃ gṛhītvā puṣyārkayoge puruṣasya kaṭyām /	Sveta-izu-puFKa-AcaraNam gRhItvA puzya-arka-yoge puruzasya kawyAm /
+   kumārikākartitasūtrakeṇa baddhaṃ na yātyāśu manojajīram // JPanc_3.48 //	kumArikA-Akartita-sUtrakeNa badDam na yAti-ASu manoja-jIram // JPant-_3.48 //
+   ādāya kṛṣṇetarakākajaṅghāmūlaṃ sitāmbhoruhakeśaraṃ ca /	AdAya kRzNa-itara-kAkajaFGA-mUlam sita-amBoruha-keSaram ca /
+   kṣaudrena piṣṭvā pariliptanābheḥ stambhaṃ prayātyāśu narasya bījam //	kzOdrena pizwvA parilipta-nABeH stamBam prayAti-ASu narasya bIjam //
+   JPanc_3.49 //	JPant-_3.49 //
+   atha vaśīkaraṇatilakasamuddeśaḥ /	aTa vaSIkaraNa-tilaka-samuddeSaH /
+   mañjiṣṭhatoyadavacāsitabhānumūlaiḥ svīyāṅgaśoṇitayutaiḥ samakuṣṭhakaiśca /	maQjizWa-toyadavacAsita-BAnu-mUlEH svIyAFga-SoNita-yutEH sama-kuzWakEH-ca /
+   kṛtvā lalāṭaphalake tilakaṃ kṛtajño lokatrayaṃ vaśayati kṣaṇamātrakeṇa //	kRtvA lalAwa-Palake tilakam kRtajQaH lokatrayam vaSayati kzaNa-mAtrakeNa //
+   JPanc_3.50 //	JPant-_3.50 //
+   atha vaśīkaraṇāñjanasamuddeśaḥ /	aTa vaSIkaraNa-aQjana-samuddeSaH /
+   devīmahotsavadine kila kajjalaṃ yat siddhārthakasya surasena narottamāṅge	devI-mahA-utsava-dine kila kajjalam yat sidDArTakasya surasena nara-uttamAFge
+   niṣpātitaṃ naravareṇa niśi śmaśāne tannetragaṃ bhuvanameva vaśaṃ karoti //	nizpAtitam nara-vareNa niSi SmaSAne tad-netra-gam Buvanam-eva vaSam karoti //
+   JPanc_3.51 //	JPant-_3.51 //
+   atha vaśīkaraṇacūrṇasamuddeśaḥ /	aTa vaSIkaraNa-cUrNa-samuddeSaH /
+   kuṣṭhotpalaṃ madhukarasya ca patrayugmaṃ mūlaṃ tathā tagarajaṃ	kuzWa-utpalam maDukarasya ca patra-yugmam mUlam taTA tagara-jam
+   sitakākajaṅghā /	sitakAkajaFGA /
+   yasyāḥ śirogatamidaṃ vihitaṃ tu cūrṇaṃ dāsībhavejjhaṭiti sā taruṇī na	yasyAH SiraH-gatam-idam vihitam tu cUrNam dAsI-Bavet-Jawiti sA taruNI na
+   citram // JPanc_3.52 //	citram // JPant-_3.52 //
+   atha vaśīkaraṇalepanasamuddeśaḥ /	aTa vaSIkaraNa-lepana-samuddeSaH /
+   savyena pāṇikamalena ratāvasāne yo retasā nijabhavena vilāsadakṣaḥ /	savyena pANi-kamalena rata-avasAne yaH retasA nija-Bavena vilAsa-dakzaH /
+   vāmaṃ vilimpati padaṃ sahasaiva yasyās tasyaiva sā bhavati nātra	vAmam vilimpati padam sahasA-eva yasyAH tasya-eva sA Bavati na-atra
+   vikalpabhāvaḥ // JPanc_3.53 //	vikalpa-BAvaH // JPant-_3.53 //
+   sambhogaśeṣasamaye nijakāntameḍhraṃ yā kāminī spṛśati vāmapadāmbujena /	samBoga-Seza-samaye nija-kAnta-meXram yA kAminI spRSati vAma-pada-ambujena /
+   tasyāḥ patiḥ sapadi vindati dāsabhāvaṃ goṇīsutena kathitaḥ kila yāgarājaḥ	tasyAH patiH sapadi vindati dAsa-BAvam goNI-sutena kaTitaH kila yAga-rAjaH
+   // JPanc_3.54 //	// JPant-_3.54 //
+   sindhūtthamākṣikakapotamalāni piṣṭvā liṅgaṃ vilipya taruṇīṃ ramate naro	sinDUtTa-mAkzika-kapota-malAni pizwvA liFgam vilipya taruNIm ramate naraH-
+   yaḥ /	yaH /
+   sā 'nyaṃ prayāti puruṣaṃ na kadā 'pi kāmaṃ	sA anyam prayAti puruzam na kadA api kAmam
+   dāsībhavedatimanoharadivyamūrtiḥ // JPanc_3.55 //	dAsI-Bavet-ati-manohara-divya-mUrtiH // JPant-_3.55 //
+   bhallūkameḍhraghanasāramadhūni piṣṭvā liptadhvajo nidhuvanaṃ vidadhīta	BallUka-meXra-Gana-sAra-maDUni pizwvA lipta-DvajaH niDuvanam vidaDIta
+   yasyāḥ /	yasyAH /
+   sā ' 'hlādinī kusumasāyakasannatāṅgī vaśyā bhaveccirataraṃ na hi saṃśayo	sA a ahlAdinI kusuma-sAyaka-sannatA-aFgI vaSyA Bavet-cirataram na hi saMSayaH-
+   'tra // JPanc_3.56 //	atra // JPant-_3.56 //
+   gorocanāśiśiradīdhitiśambhubījakāśmīracandanayutaiḥ kanakadraveṇa /	gorocanA-SiSira-dIDiti-SamBu-bIja-kASmIra-candana-yutEH kanaka-draveNa /
+   liptadhvajaḥ pariramatyabalāṃ naro yas tasyāḥ sa eva hṛdaye mukuṭatvameti	lipta-DvajaH pariramati-abalAm naraH yaH tasyAH saH eva hRdaye mukuwa-tvam-eti
+   // JPanc_3.57 //	// JPant-_3.57 //
+   atha vaśīkaraṇadhūpasamuddeśaḥ /	aTa vaSIkaraNa-DUpa-samuddeSaH /
+   śṛṅgīvacāyuvatisarjarasaṃ samānaṃ kṛtvā truṭiṃ malayajaṃ ca ṣaḍeva miśram	SRFgI-ivacA-yuvati-sarjarasam samAnam kRtvA truwim malayajam ca zaw-eva miSram
+   yo dhūpayennijagṛhaṃ vasanaṃ śarīraṃ tasyāpi dāsa iva mohamupaiti lokaḥ //	yaH DUpayet-nija-gRham vasanam SarIram tasya-api dAsaH iva moham-upEti lokaH //
+   JPanc_3.58 //	JPant-_3.58 //
+   atha vaśīkaraṇamantrasamuddeśaḥ /	aTa vaSIkaraNa-mantra-samuddeSaH /
+   madamadapadamādau mādayeti dvivāraṃ tadanu ca likhanīyaṃ saukhyadaṃ hrīṃ	mada-mada-padam-AdO mAdaya-iti dvi-vAram tadanu ca liKanIyam sOKya-dam hrIm
+   ca tasmāt /	ca tasmAt /
+   atha ca padamupānte nāmarūpādisañjño bhavati madanamantraḥ svāhayā saṃyuto	aTa ca padam-upAnte nAma-rUpa-Adi-saQjQaH Bavati madana-mantraH svAhayA saMyutaH-
+   'yam // JPanc_3.59 //	ayam // JPant-_3.59 //
+   'oṃ mada mada mādaya mādaya hrīṃ amukīṃ vaśamānaya svāhā'	aom mada mada mAdaya mAdaya hrIm amukIm vaSam-Anaya svAhA-a
+   śataśataparijāpāt syādayaṃ siddhidātā daśadaśakusumānāṃ lohitānāṃ ca homāt	Sata-Sata-parijApAt syAt-ayam sidDi-dAtA daSa-daSa-kusumAnAm lohitAnAm ca homAt-
+   iha tu sakalakāryaṃ vāmahastena kāryam upadiśati samāsājjyotirīśaḥ	iha tu sakala-kAryam vAma-hastena kAryam upadiSati samAsAt-jyotiH-ISaH
+   svarūpam // JPanc_3.60 //	sva-rUpam // JPant-_3.60 //
+   asya mantrasya daśasahastrasaṅkhyākonmito japaḥ, raktavarṇaiḥ	asya mantrasya daSa-sahastra-saFKyA-ka-unmitaH japaH, rakta-varNEH
+   prasūnairmadhunā ghṛtena ca homaḥ karaṇīyaḥ / sarvaṃ vāmahastena kartavyam	prasUnEH-maDunA GRtena ca homaH karaNIyaH / sarvam vAma-hastena kartavyam
+   / atha dhyānam	/ aTa DyAnam
+   kanakaruciramūrtiḥ kuṇḍalākṛṣṭacāpo yuvatihṛdayamadhye niścalāropitākṣaḥ /	kanaka-rucira-mUrtiH kuNxala-AkRzwa-cApaH yuvati-hRdaya-maDye niScala-Aropita-akzaH /
+   iti manasi manojaṃ dhyāyayedyo japastho vaśayati sa samastaṃ bhūtalaṃ	iti manasi manojam DyAyayet-yaH japa-sTaH vaSayati sa samastam BU-talam
+   mantraśaktyā // JPanc_3.61 //	mantra-SaktyA // JPant-_3.61 //
+   atha cāmuṇḍamantraḥ /	aTa cAmuNxa-mantraH /
+   cāmuṇḍe prathamaṃ jayeti kathitaṃ sambodhanaṃ mohaya jñātavyaṃ	cAmuNxe praTamam jaya-iti kaTitam samboDanam mohaya jQAtavyam
+   vaśamānayeti ca padaṃ sādhyaṃ dvitīyāyutam /	vaSamAnayA-iti ca padam sADyam dvitIya-ayutam /
+   svāhāntaḥ praṇavādireṣa prathitastantre mahāmohanaḥ sanmantraḥ	svAhA-antaH praNava-AdiH-eza praTitaH-tantre mahA-mohanaH sat-mantraH
+   kaviśekhareṇa kathito nāsmāddvitīyo bhuvi // JPanc_3.62 //	kavi-SeKareNa kaTitaH na-asmAt-dvitIyaH Buvi // JPant-_3.62 //
+   'oṃ cāmuṇḍe jaya cāmuṇḍe mohaya amukīṃ vaśamānaya svāhā' iti mantraḥ /	aom cAmuNxe jaya cAmuNxe mohaya amukIm vaSam-Anaya svAhA-a iti mantraH /
+   asya mantrasya japa ekalakṣamitaḥ, palāśakusumairhomaḥ daśāṃśaṃ, sarvaṃ	asya mantrasya jape eka-lakza-mitaH, palASa-kusumEH-homaH daSa-aMSan, sarvam
+   vāmahastena kartavyam / atha cāmuṇḍāyā dhyānam-	vAma-hastena kartavyam / aTa cAmuNxAyAH DyAnam-
+   daṃṣṭrākoṭivisaṅkaṭā suvadanā sāndrāndhakāre sthitā	daMzwrA-kowi-visaFkawA su-vadanA sAndra-anDakAre sTitA
+   khaṭvāṅgāsinigūḍhadakṣiṇakarā vāme sapāśaṃ śiraḥ /	KawvAFga-asi-nigUXa-dakziNa-karAH vAme sa-pASam SiraH /
+   śyāmā piṅgalamūrdhajā bhayakarī śārdūlacarmāmbarā cāmuṇḍā śavavāhinī	SyAmA piFgala-mUrDajA Baya-karI SArdUla-carma-ambarA cAmuNxA Sava-vAhinI
+   japavidhau dhyeyā sadā sādhakaiḥ // JPanc_3.63 //	japa-viDO DyeyA sadA sADakEH // JPant-_3.63 //
+   atha viśveśvarīmantraḥ /	aTa viSveSvarI-mantraH /
+   oṅkāraḥ prathamaṃ namo nama iti proktaṃ ca tasmātpadaṃ cāmuṇḍe	oFkAraH praTamam namaH namaH iti proktam ca tasmAt-padam cAmuNxe
+   parikīrtitaṃ hili hili jñeyā ca sañjñā tataḥ /	parikIrtitam hili hili jQeyA ca saQjQA tatas /
+   jñātavyaṃ tu samānayeti ca padaṃ sanmantriṇāṃ sammato mantro 'yaṃ	jQAtavyam tu samAnaya-iti ca padam sat-mantriNAm sammataH mantraH ayam
+   kaviśekhareṇa kathitaḥ khyātaḥ sadā siddhidaḥ // JPanc_3.64 //	kavi-SeKareNa kaTitaH KyAtaH sadA sidDi-daH // JPant-_3.64 //
+   'oṃ namo namaścāmuṇḍe hilī hili amukīṃ vaśamānaya svāhā'	aom namaH namaH-cAmuNxe hilI hili amukIm vaSam-Anaya svAhA-a
+   asya mantrasya japa ekalakṣaparimitaḥ, taddaśāṃśaḥ palāśakusumairhomaḥ	asya mantrasya jape eka-lakza-parimitaH, tad-daSa-aMSaH palASa-kusumEH-homaH
+   karaṇīyaḥ, sarvaṃ vāmahastena kartavyam //	karaNIyaH, sarvam vAma-hastena kartavyam //
+   athaviśveśvarīdhyānam /	aTa-viSveSvarI-DyAnam /
+   vajrāsaktaśarāsanā trinayanā savyetareṇāṅkuśaṃ vāmenāpi kareṇa pāśamurasi	vajra-Asakta-SarAsanA trinayanA savyetareNa-aFkuSam vAmena-api kareNa pASam-urasi
+   nyastottamāṅgasrajā /	nyasta-uttamAFga-srajA /
+   vyāmuktorukacā karālavadanā vahniprabhā madhyagā dhyeyā jāpavidhau	vyAmukta-UrukacA karAla-vadanAH vahni-praBA maDya-gAH DyeyAH jApa-viDO
+   narairiti sadā viśveśvarī siddhaye // JPanc_3.65 //	narEH-iti sadA viSveSvarI sidDaye // JPant-_3.65 //
+   atha padminīvaśīkaraṇamantraḥ /	aTa padminI-vaSIkaraNa-mantraH /
+   'oṃ kāmeśvara ! mohaya svāhā' iti mantraḥ / anena mantreṇa	aom kAmeSvara ! mohaya svAhA-a iti mantraH / anena mantreNa
+   madhumiśritajātikusumasahitaṃ tāmbūlamādityadine sahasravāramabhimantritaṃ	maDu-miSrita-jAti-kusuma-sahitam tAmbUlam-Aditya-dine sahasra-vAram-aBimantritam
+   padminyai dātavyam / padminī vaśyā bhavati //	padminyE dAtavyam / padminI vaSyA Bavati //
+   atha citriṇīvaśīkaraṇamantraḥ /	aTa citriNI-vaSIkaraNa-mantraH /
+   'oṃ paca paca oṃ vihaṅgama vihaṅgama oṃ kāmadevāya svāhā' iti mantraḥ /	aom paca paca om vihaFgama vihaFgamaH om kAmadevAya svAhA-a iti mantraH /
+   anena mantreṇa rambhāmūlajalabhāvitajātīphalamilitatāmbūlamādityadine	anena mantreNa ramBA-mUla-jala-BAvita-jAtI-Pala-milita-tAmbUlam-Aditya-dine
+   pañcaśatavāramabhimantritaṃ citriṇyai dātavyam / citriṇī vaśyā bhavati //	paQca-Sata-vAram-aBimantritam citriNyE dAtavyam / citriNI vaSyA Bavati //
+   atha śaṅkhinīvaśīkaraṇamantraḥ /	aTa SaFKinI-vaSIkaraNa-mantraH /
+   'oṃ hara hara oṃ paca paca kāmadevāya svāhā' iti mantraḥ / anena mantreṇa	aom hara haraH om paca paca kAmadevAya svAhA-a iti mantraH / anena mantreNa
+   taragamūlaṃ śrīphalañcādityavāre aṣṭottaraśatavāramabhimantritaṃ	taraga-mUlam SrIPalaQca-Aditya-vAre azwottaraSata-vAram-aBimantritam
+   śaṅkhinyai dātavyam / sā vaśyā bhavati //	SaFKinyE dAtavyam / sA vaSyA Bavati //
+   atha hastinīvaśīkaraṇamantraḥ /	aTa hastinI-vaSIkaraNa-mantraH /
+   'oṃ ciri ciri vaśaṃ kuru kāmadevāya svāhā' iti mantraḥ / anena mantreṇa	aom ciri ciri vaSam kuru kAmadevAya svAhA-a iti mantraH / anena mantreNa
+   ādityadine kṣaudrāktau kapotabhramarapakṣau tāmbūladale vinyasya	Aditya-dine kzOdra-aktO kapota-Bramara-pakzO tAmbUla-dale vinyasya
+   aṣṭottaraśatamabhimantritaṃ kṛtvā hastinyai deyam / hastinī vaśyā bhavati	azwottaraSatam-aBimantritam kRtvA hastinyE deyam / hastinI vaSyA Bavati
+   atha anicchāharaṇopāyanirūpaṇam /	aTa anicCA-AharaNa-upAya-nirUpaNam /
+   kṣīrodanaṃ dvijavarāya purā pradadyāt puṣyoddhṛtaṃ sitabalācaraṇaṃ kumāryā	kzIrodanam dvija-varAya purA pradadyAt puzya-udDRtam sita-bala-AcaraNam kumAryA
+   piṣṭaṃ pradattamiti vairakṛtāmanicchāṃ niḥsārayediha muhurviditaprabhāvaḥ	pizwam pradattam-iti vEra-kRtAm-anicCAm niHsArayet-iha muhur-vidita-praBAvaH
+   // JPanc_3.66 //	// JPant-_3.66 //
+   atha stanotthāpanasamuddeśaḥ /	aTa stana-utTApana-samuddeSaH /
+   mātaṅgakṛṣṇāmayavājigandhā vacāyutāḥ paryuṣitāmbumiśrāḥ /	mAtaFga-kRzNa-Amaya-vAji-ganDAH vacA-yutAH paryuzita-ambu-miSrAH /
+   hayāripatrīnavanītayogāt kurvanti pīnaṃ kucakumbhayugmam // JPanc_3.67 //	haya-aripatrI-n-avanIta-yogAt kurvanti pInam kuca-kumBa-yugmam // JPant-_3.67 //
+   vasā bhujaṅgasya hayāripatraṃ kolasya medaḥ samabhāgayuktāḥ /	vasAH BujaFgasya haya-ari-patram kolasya medaH sama-BAga-yuktAH /
+   vakṣojakumbhaṃ madirāyatākṣyāḥ kurvanti pīnaṃ sakalaṃ haṭhena //	vakzoja-kumBam madirA-Ayata-akzyAH kurvanti pInam sakalam haWena //
+   JPanc_3.68 //	JPant-_3.68 //
+   tailaṃ haṭhāddāḍimakalkasiddhaṃ siddhārthajaṃ lepanato nitāntam /	tElam haWAt-dAxima-kalka-sidDam sidDArTa-jam lepanataH nitAntam /
+   nārīstanau cārutarau supīnau kuryādasau yogavaraḥ sadaiva // JPanc_3.69 //	nArI-stanO cArutarO su-pInO kuryAt-asO yoga-varaH sadA-eva // JPant-_3.69 //
+   śrīparṇikāyā rasakalkasiddhaṃ tilodbhavaṃ tailavaraṃ pradiṣṭam /	SrIparNikAyAH rasa-kalka-sidDam tila-udBavam tEla-varam pradizwam /
+   plotena vakṣojayuge pradeyaṃ prayāti vṛddhiṃ patito 'pi nāryāḥ //	plotena vakzaH-ja-yuge pradeyam prayAti vRdDim patitaH api nAryAH //
+   JPanc_3.70 //	JPant-_3.70 //
+   yonisaṃskārasamuddeśaḥ /	yoni-saMskAra-samuddeSaH /
+   prakṣālayennimbakaṣāyanīrairniśājyakṛṣṇāguruguggulūnām /	prakzAlayet-nimba-kazAya-nIrEH-niSa-Ajya-kRzNa-aguru-guggulUnAm /
+   dhūpena yoniṃ niśi dhūpayitvā nārī pramodaṃ vidadhāti bhartuḥ //	DUpena yonim niSi DUpayitvA nArI pramodam vidaDAti BartuH //
+   JPanc_3.71 //	JPant-_3.71 //
+   jātīprasūnaiḥ sitasarṣapasya tailaṃ pacellaghvanale prakāmam /	jAtI-prasUnEH sita-sarzapasya tElam pacet-laGu-anale prakAmam /
+   abhyaṅgayogena sadaiva yonau saubhāgyamāpnoti rate purandhrī // JPanc_3.72	aByaFga-yogena sadA-eva yonO sOBAgyam-Apnoti rate puranDrI // JPan=-_3.72
+   atha romaśātanasamuddeśaḥ /	aTa roma-SAtana-samuddeSaH /
+   bhujaṅgacūrṇaṃ kaṭutailamadhye saptāhamādityakare nidheyam /	BujaFga-cUrNam kawutEla-maDye sapta-aham-Aditya-kare niDeyam /
+   tattailayogena vilāsinīnāṃ naśyanti romāṇi samūlameva // JPanc_3.73 //	tad-tEla-yogena vilAsinInAm naSyanti romANi sa-mUlam-eva // JPant-_3.73 //
+   palāśabhasmānvitatālacūrṇaiḥ rambhāmbumiśrairupalipya bhūyaḥ /	palASa-Basma-anvita-tAla-cUrNEH ramBA-ambu-miSrEH-upalipya BUyas /
+   kandarpagehe mṛgalocanānāṃ romāṇi rohanti kadāpi naiva // JPanc_3.74 //	kandarpa-gehe mRga-locanAnAm romANi rohanti kadApi na-eva // JPant-_3.74 //
+   rambhājale saptadinaṃ vibhāvya bhasmeha kambormasṛṇaṃ ca paścāt /	ramBA-jale sapta-dinam viBAvya Basma-iha kamboH-masRNam ca paScAt /
+   tālena yuktaṃ ca vilepanena romāṇi nirmūlayati kṣaṇena // JPanc_3.75 //	tAlena yuktam ca vilepanena romANi nirmUlayati kzaNena // JPant-_3.75 //
+   atha puṣpajananasamuddeśaḥ /	aTa puzpa-janana-samuddeSaH /
+   jyotiṣmatīkomalapatramagnau bhṛṣṭaṃ japāyāḥ kusumena piṣṭam /	jyotizmatI-komala-patram-agnO BRzwam japAyAH kusumena pizwam /
+   gṛhāmbunā pītamidaṃ yuvatyā karoti puṣpaṃ smaramandirasya // JPanc_3.76 //	gRha-ambunA pItam-idam yuvatyA karoti puzpam smara-mandirasya // JPant-_3.76 //
+   atha garbhasādhāraṇasamuddeśaḥ /	aTa garBa-sADAraNa-samuddeSaH /
+   turaṅgagandhāśrutavārisiddhamājaṃ payaḥ snānadine nipīya /	turaFga-ganDA-aSruta-vAri-sidDam-Ajam payaH snAna-dine nipIya /
+   prāpnoti garbhaṃ niyamaṃ carantī vandhyā 'pi nūnaṃ puruṣaprasaṅgāt //	prApnoti garBam niyamam carantI vanDyA api nUnam puruza-prasaFgAt //
+   JPanc_3.77 //	JPant-_3.77 //
+   puṣyoddhṛtaṃ lākṣmaṇameva mūlaṃ bhartrā nipiṣṭaṃ saghṛtaṃ ca pītam /	puzya-udDRtam lAkzmaNam-eva mUlam BartrA nipizwam sa-GRtam ca pItam /
+   kṣīraudanaṃ prāśya patiprasaṅgādgarbhaṃ vidhatte taruṇī na citram //	kzIra-odanam prASya pati-prasaFgAt-garBam viDatte taruNI na citram //
+   JPanc_3.78 //	JPant-_3.78 //
+   yā bījapūradrumamūlamekaṃ kṣīreṇa siddhaṃ haviṣā vimiśram /	yA bIjapUra-druma-mUlam-ekam kzIreNa sidDam havizA vimiSram /
+   ṛtau nipīya svapatiṃ prayāti dīrghāyuṣaṃ sā tanayaṃ prasūte // JPanc_3.79	RtO nipIya sva-patim prayAti dIrGa-Ayuzam sA tanayam prasUte // JPant-_3.79
+   atha garbhasaṃsthāpanasamuddeśaḥ /	aTa garBa-saMsTApana-samuddeSaH /
+   kaśeruśṛṅgāṭakajīvanākhyapayodharairaṇḍaśatāvarībhiḥ /	kaSeru-SRFgAwaka-jIvana-AKya-payoDara-eraNxa-SatAvarIBiH /
+   siddhaṃ payaḥ śarkarayā vimiśraṃ saṃsthāpayedgarbhamudīrṇaśūlam //	sidDam payaH SarkarayA vimiSram saMsTApayet-garBam-udIrNa-SUlam //
+   JPanc_3.80 //	JPant-_3.80 //
+   atha sukhaprasavasamuddeśaḥ / atha sukhaprasavamantraḥ -	aTa suKa-prasava-samuddeSaH / aTa suKa-prasava-mantraH -
+   oṃ ihāmṛtañca somaśca citrabhānuśca bhāmini /	om iha-amRtaQca somaH-ca citraBAnuH-ca BAmini /
+   uccaiḥśravā turaṅgāṇāṃ mandire nivasantu te // JPanc_3.81 //	uccEHSravAH turaFgANAm mandire nivasantu te // JPant-_3.81 //
+   oṃ idamamamṛtamapāṃ samuddhṛtaṃ vai tava laghu garbhamimaṃ vimuñcatu stri	om idamam-amRtam-apAm samudDRtam vE tava laGu garBam-imam vimuQcatu stri
+   tadanalapavanārkavāsarāste saha lavaṇāmbudharairdiśantu śāntim //	tad-anala-pavana-arka-vAsarAH-te saha lavaNa-ambuDarEH-diSantu SAntim //
+   JPanc_3.82 //	JPant-_3.82 //
+   oṃ muktāḥ pāśā vipāśāśca muktāḥ sūryeṇa raśmayaḥ /	om muktAH pASAH vipASAH-ca muktAH sUryeNa raSmayaH /
+   muktaḥ sarvabhayādgarbha ehyehi mā cira svāhā // JPanc_3.83 //	muktaH sarva-BayAt-garBaH ehi-ehi mA cira svAhA // JPant-_3.83 //
+   ebhirjalaṃ cyāvanamantrarājairjaptvā pradeyaṃ kila garbhavatyai /	eBiH-jalam cyAvana-mantra-rAjEH-japtvA pradeyam kila garBavatyE /
+   sadyaḥ prasūte navamūḍhagarbhā yogo 'yamātreyamunipradiṣṭaḥ // JPanc_3.84	sadyas prasUte nava-mUXa-garBAH yogaH ayam-Atreya-muni-pradizwaH // JPan=-_3.84
+   ebhirmantraiḥ saptavāramabhimantritaṃ jalaṃ garbhavatyai pātuṃ dātavyam /	eBiH-mantrEH sapta-vAram-aBimantritam jalam garBavatyE pAtum dAtavyam /
+   "oṃ manmatha manmatha manmathavāhini ! lambodaraṃ muñca muñca laghu svāhā"	"om manmaTa manmaTa manmaTa-vAhini ! lamba-udaram muQca muQca laGu svAhA"
+   iti mantraḥ / anena mantreṇa saptavāramabhimantritaṃ jalaṃ garbhavatyai	iti mantraH / anena mantreNa sapta-vAram-aBimantritam jalam garBavatyE
+   pātuṃ dātavyam / sukhāt prasavo bhavati //	pAtum dAtavyam / suKAt prasavaH Bavati //
+   atha vandhyākaraṇasamuddeśaḥ /	aTa vanDyAkaraNa-samuddeSaH /
+   palāśakṣīridrumayoḥ phalāni puṣpāṇyatho śālmalipādapasya /	palASa-kzIri-drumayoH PalAni puzpANi-aTo SAlmali-pAdapasya /
+   madyena māsārdhadinaṃ nipīya vandhyā bhavenniścitameva nārī // JPanc_3.85	madyena mAsa-arDa-dinam nipIya vanDyA Bavet-niScitam-eva nArI // JPan=-_3.85
+   phalaṃ kadambasya ca mākṣikaṃ hi tuṣodakena tridinaṃ nipīya /	Palam kadambasya ca mAkzikam hi tuzodakena tri-dinam nipIya /
+   snānāvasāne niyamena cāpi vandhyāmavaśyaṃ kurute haṭhena // JPanc_3.86 //	snAna-avasAne niyamena ca-api vanDyAm-avaSyam kurute haWena // JPant-_3.86 //
+   karṣadvayaṃ rākṣasavṛkṣabījaṃ saptāhamātraṃ sitaśālivārā /	karza-dvayam rAkzasa-vRkza-bIjam sapta-aha-mAtram sita-SAli-vArAH /
+   ṛtau nipītaṃ mṛgaśāvakākṣyā vandhyātvametanniyataṃ karoti // JPanc_3.87 //	RtO nipItam mRga-SAvaka-akzyA vanDyA-tvam-etat-niyatam karoti // JPant-_3.87 //
+   atha keśasaṃskārasamuddeśaḥ /	aTa keSa-saMskAra-samuddeSaH /
+   tilaprasūnaṃ saha gokṣureṇa sasāraghaṃ gavyaghṛtena piṣṭam /	tila-prasUnam saha gokzureNa sa-sAraGam gavya-GRtena pizwam /
+   saptāhamātreṇa śiraḥpralepādbhavanti dīrghāḥ pracurāśca keśāḥ //	sapta-aha-mAtreNa SiraH-pralepAt-Bavanti dIrGAH pracurAH-ca keSAH //
+   JPanc_3.88 //	JPant-_3.88 //
+   karṣārdhamātraṃ prasavaṃ phalena nimbasya tailaṃ niyamena pītam /	karza-arDa-mAtram prasavam Palena nimbasya tElam niyamena pItam /
+   krameṇa kundendutuṣāragauraṃ śiroruhaṃ mecakatāmupaiti // JPanc_3.89 //	krameNa kunda-indu-tuzAra-gOram Siroruham mecaka-tAm-upEti // JPant-_3.89 //
+   atha indraluptasamuddeśaḥ /	aTa indralupta-samuddeSaH /
+   guñjāphalaiḥ kṣaudrayutairvilipya keśapradeśe sakalendraluptam /	guQjA-PalEH kzOdra-yutEH-vilipya keSa-pradeSe sakala-indra-luptam /
+   anena yogena sadaiva keśā rohanti kṛṣṇāḥ kuṭilā viśālāḥ // JPanc_3.90 //	anena yogena sadA-eva keSAH rohanti kRzNAH kuwilAH viSAlAH // JPant-_3.90 //
+   iti śrīkaviśekharajyotirīśaviracite pañcasāyake tṛtīyaḥ sāyakaḥ /	iti SrIka-viSeKara-jyotiH-ISa-viracite paQca-sAyake tRtIyaH sAyakaH /
+   atha caturthaḥ sāyakaḥ /	aTa caturTaH sAyakaH /
+   atha kanyālakṣaṇasamuddeśaḥ /	aTa kanyA-lakzaNa-samuddeSaH /
+   prakhyāte mahati prabhūtavibhave cāritraśīlānvite	praKyAte mahati praBUta-viBave cAritra-SIla-anvite
+   vidyādhairyavivekaśauryavibhavaślāghye kulīne kule /	vidyA-DErya-viveka-SOrya-viBava-SlAGye kulIne kule /
+   kanyā bhrātṛyutā suśīlavinayā rūpojjvalā dakṣiṇā	kanyA BrAtR-yutA su-SIla-vinayA rUpa-ujjvalA dakziNA
+   traivargāśritaśuddhavaṃśanilayā sadbhirvivāhyā naraiḥ // JPanc_4.1 //	trEvarga-ASrita-SudDa-vaMSa-nilayA sadBiH-vivAhyAH narEH // JPant-_4.1 //
+   ambhojāsyā bahalanayanā bhūrikeśapracārā tulyā snigdhā susamadaśanā	amBoja-AsyA bahala-nayanA BUri-keSa-pracArA tulyA snigDA su-sama-daSanA
+   padmarāgādharauṣṭhī /	padmarAga-aDara-ozWI /
+   ramyaśrotrā madhuravacanā kambukaṇṭhī śubhāṅgī madhye kṣīṇā sulalitakarā	ramya-SrotrA maDura-vacanA kambukaNWI SuBa-aFgI maDye kzINA su-lalita-karA
+   dakṣiṇāvartanābhiḥ // JPanc_4.2 //	dakziNa-AvartanABiH // JPant-_4.2 //
+   pīnaśroṇī kanakakadalīstambhajaṅghābhirāmā raktāśokaprasavacaraṇā	pIna-SroNI kanaka-kadalI-stamBa-jaFGA-aBirAmA rakta-aSoka-prasava-caraNA
+   snigdhaśākhāṅgulīkā /	snigDa-SAKA-aFgulIkAH /
+   itthaṃ yuktā sulalitatanurlakṣaṇairuttamairyā kanyā sadbhiścaṭulacaritā sā	itTam yuktA su-lalita-tanuH-lakzaNEH-uttamEH-yA kanyA sadBiH-cawula-caritA sA
+   vivāhyā guṇajñaiḥ // JPanc_4.3 //	vivAhyAH guNa-jQEH // JPant-_4.3 //
+   atha kanyādūṣaṇasamuddeśaḥ /	aTa kanyA-dUzaNa-samuddeSaH /
+   kharvā piṅgalakuntalā kṛśatanurdīrghā 'tiromākulā kṛṣṇā saukaralocanā	KarvA piFgala-kuntalA kRSa-tanuH-dIrGA ati-roma-AkulA kRzNA sOkara-locanA
+   pṛthugalā kṛṣṇādharā danturā /	pRTugalA kRzNa-aDarA danturAH /
+   rukṣāṅgī vikaṭastanī ca sabalā babhrūravīrātmajā vācālā bahubhojanā ca	rukzAFgI vikawa-stanI ca sabalA baBrUH-avIra-AtmajA vAcAlA bahu-BojanA ca
+   gadinī prauḍhā ca duḥkhānvitā // JPanc_4.4 //	gadinI prOXA ca duHKa-anvitA // JPant-_4.4 //
+   puṣpakṣmādharavṛkṣadeśataṭinīnakṣatrasañjñā ca yā hāsye kūpayugaṃ	puzpa-kzma-aDara-vRkza-deSa-tawinI-nakzatra-saQjQA ca yA hAsye kUpa-yugam
+   kapolayugale yasyā bhavet satvaram /	kapola-yugale yasyAH Bavet sa-tvaram /
+   aṅguṣṭhādhikaparvaṇī caraṇayoryasyāśca jātā 'ṅguliḥ pādasyāpi kanīnikā na	aFguzWa-aDika-parvaNI caraNayoH-yasyAH-ca jAtA aFguliH pAdasya-api kanInikA na
+   patati kṣmāyāṃ tadanyaiva vā // JPanc_4.5 //	patati kzmAyAm tad-anyA-eva vA // JPant-_4.5 //
+   ajñātānvayajā svabhāvapiśunā lambādharā cañcalā kuṣṭhiścitrikulodbhavā ca	ajQAta-anvaya-jA svaBAva-piSunA lamba-aDarA caQcalA kuzWiH-citrikula-udBavA ca
+   vitatā yasyāḥ kaṭirnāsikā /	vitatAH yasyAH kawiH-nAsikA /
+   nindyā pallavajihvikā drutagatirnyūnādhikāṅgī punas tyājyā	nindyA pallava-jihvikA druta-gatiH-nyUna-aDika-aFgI punar tyAjyA
+   kāmakalākalāpakuśalaiḥ kanyā vivāhe sadā // JPanc_4.6 //	kAma-kalA-kalApa-kuSalEH kanyA vivAhe sadA // JPant-_4.6 //
+   atha varalakṣaṇasamuddeśaḥ /	aTa vara-lakzaNa-samuddeSaH /
+   prakhyāto 'malavaṃśajo navavayāḥ śūrassuśīlaśca yaḥ svācāraḥ sthirasauhṛdo	praKyAtaH amala-vaMSa-jaH nava-vayAH SUrassu-SIlaH-ca yaH su-AcAraH sTira-sOhRdaH-
+   guṇanidhirnānākuṭumbī balī /	guNa-niDiH-nAnAkuwumbI balI /
+   arthī bhogarato viśiṣṭavacano dākṣiṇyadhairyāśrayo jāmātā jagatītale	arTI Boga-rataH viSizwa-vacanaH dAkziNya-DErya-ASrayaH jAmAtA jagatI-tale
+   kavivarairevaṃvidho varṇitaḥ // JPanc_4.7 //	kavi-varEH-evaMviDaH varNitaH // JPant-_4.7 //
+   atha varadūṣaṇasamuddeśaḥ /	aTa vara-dUzaNa-samuddeSaH /
+   pāpiṣṭho vyasanī ṛṇairupahato dyūtapriyo bhikṣuko rogī	pApizWaH vyasanI RNEH-upahataH dyUta-priyaH BikzukaH rogI
+   puṃstvavivarjitaścalamatirvaideśikaḥ kātaraḥ /	puMstva-vivarjitaH-cala-matiH-vEdeSikaH kAtaraH /
+   mūrkho duṣṭakulodbhavaśca kṛpaṇo vṛddho 'tidīnaḥ khalaḥ kartavyo na varaḥ	mUrKaH duzwa-kula-udBavaH-ca kRpaNaH vRdDaH ati-dInaH KalaH kartavyaH na varaH
+   kadā 'pi puruṣairevaṃvidho bhūtale // JPanc_4.8 //	kadA api puruzEH-evaMviDaH BU-tale // JPant-_4.8 //
+   atha vivāhabhedasamuddeśaḥ /	aTa vivAha-Beda-samuddeSaH /
+   cāturvarṇyasamāhitā munivarairaṣṭau vivāhāḥ striyo brāhmo daivatakastato	cAturvarNya-samAhitAH muni-varEH-azwO vivAhAH striyaH brAhmaH dEvatakaH-tatas-
+   nigaditau gāndharvapaiśācakau /	nigaditO gAnDarva-pESAcakO /
+   ārṣo rākṣasakastathā ' 'sura iti khyāto 'paraścāṣṭamaḥ	ArzaH rAkzasakaH-taTA a asuraH iti KyAtaH aparaH-ca-azwamaH
+   prājāpatyasamābhidhaḥ pṛthagamī proktā mayā nāmataḥ // JPanc_4.9 //	prAjApatya-sama-aBiDaH pRTak-amI proktAH mayA nAmataH // JPant-_4.9 //
+   ārṣo daivatakaḥ prajāpatibhavo brāhmo dvijānāṃ mato gāndharvaḥ saha	ArzaH dEvatakaH prajApati-BavaH brAhmaH dvijAnAm mataH gAnDarvaH saha
+   rākṣasena kathitaḥ kṣātrasya tajjñairasau /	rAkzasena kaTitaH kzAtrasya tad-jQEH-asO /
+   ekaścāsurasañjñako nigadito vaiśyasya śūdrasya ca saṅkṣepādupavarṇitaṃ	ekaH-ca-asura-saQjQakaH nigaditaH vESyasya SUdrasya ca saFkzepAt-upavarNitam
+   kramavaśātpaurāṇikaṃ lakṣaṇam // JPanc_4.10 //	krama-vaSAt-pOrANikam lakzaNam // JPant-_4.10 //
+   vidyāvān guṇapūjitaḥ sucaritaḥ sadvaṃśajāto muniḥ saumyo mānarataḥ	vidyAvAn guNa-pUjitaH su-caritaH sat-vaMSa-jAtaH muniH sOmyaH mAna-rataH
+   suśīlavinayo gehāgataḥ prārthakaḥ /	su-SIla-vinayaH geha-AgataH prArTakaH /
+   kanyāyā gṛhanāyakaḥ sapulakastasmai dadātyādarād ārṣo goyugadakṣiṇo	kanyAyAH gRhanAyakaH sa-pulakaH-tasmE dadAti-AdarAt ArzaH go-yuga-dakziNaH-
+   nigaditastajjñairvivāho varaḥ // JPanc_4.11 //	nigaditaH-tajjQEH-vivAhaH varaH // JPant-_4.11 //
+   ṛtvigbhiḥ parimaṇḍite bahuvidhe yajñotsave cottame	RtvigBiH parimaNxite bahuviDe yajQa-utsave ca-uttame
+   nānāvarṇasuvarṇavastrakusumairābhūṣitāṅgī śubhā /	nAnA-varNa-suvarNa-vastra-kusumEH-ABUzita-aFgI SuBA /
+   kanyā dakṣiṇayā dvijāya vidhinā yaddīyate cādarād daivaḥ so 'yamudīritaḥ	kanyA dakziNayA dvijAya viDinA yat-dIyate ca-AdarAt dEvaH saH ayam-udIritaH
+   kavivarairitthaṃ vivāho varaḥ // JPanc_4.12 //	kavi-varEH-itTam vivAhaH varaH // JPant-_4.12 //
+   kanyā bāndhvasannidhau sulalitā viprottamāyādarād uktvā- tubhyamiyaṃ mayā	kanyA bAnDva-sanniDO su-lalitA vipra-uttamAya-AdarAt uktvA tuByam-iyam mayA
+   svatanayā datteti harṣānvitau /	sva-tanayA dattA-iti harza-anvitO /
+   dharmaṃ sañcaratāṃ yathāsukhamubhau dāmpatyayogātsadā prājāpatyakaragraha	Darmam saQcaratAm yaTAsuKam-uBO dAmpatya-yogAt-sadA prAjApatya-kara-graha
+   kavivaraireṣaḥ pramāṇīkṛtaḥ // JPanc_4.13 //	kavi-varEH-ezaH pramANIkRtaH // JPant-_4.13 //
+   āhūyārcanapūrvakaṃ dvijavarāyācchādya vāsovarair	AhUya-arcana-pUrvakam dvijavarAya-AcCAdya vAsaH-varEH-
+   vidyāśīlavivekavaṃśavinayācārānvitāya svayam /	vidyA-SIla-viveka-vaMSa-vinaya-AcAra-anvitAya svayam /
+   kanyā prītimate varāya vidhinā yaddīyate sādaraṃ brāhmo 'sau	kanyA prItimate varAya viDinA yat-dIyate sa-Adaram brAhmaH asO
+   munipuṅgavairnigaditaḥ śreṣṭho vivāho 'paraḥ // JPanc_4.14 //	muni-puFgavEH-nigaditaH SrezWaH vivAhaH aparaH // JPant-_4.14 //
+   kanyā yauvanaśālinī patimamuṃ yā svīkaroti svayaṃ gāndharvaḥ sa hi	kanyA yOvana-SAlinI patim-amum yA svIkaroti svayam gAnDarvaH sa hi
+   kathyate bhujabalādākṛṣyate yatpunaḥ /	kaTyate Buja-balAt-AkRzyate yat-punar /
+   jñeyo rākṣasa eṣa paṇḍitavaraiścauryādvivāho 'paraḥ paiśācaḥ kaviśekhareṇa	jQeyaH rAkzasaH eza paNxita-varEH-cOryAt-vivAhaH aparaH pESAcaH kavi-SeKareNa
+   kathitastyājyaḥ sadā yatnataḥ // JPanc_4.15 //	kaTitaH-tyAjyaH sadA yatnataH // JPant-_4.15 //
+   ādāya prathamaṃ varādbahutaraṃ śulkaṃ yathākāṅkṣayā	AdAya praTamam varAt-bahutaram Sulkam yaTA-kAFkzayA
+   vastrālaṅkṛtivaibhavena tanayāsantoṣamutpādya ca /	vastra-alaFkRti-vEBavena tanayA-santozam-utpAdya ca /
+   paścādduṣkulasambhavāya malinaṃ kanyāpradānaṃ vṛthā prakhyāto	paScAt-duzkula-samBavAya malinam kanyA-pradAnam vRTA praKyAtaH-
+   'dhamavaṃśajāpariṇayastajjñairasāvāsuraḥ // JPanc_4.16 //	aDama-vaMSa-jA-pariNayaH-tad-jQEH-asO=-AsuraH // JPant-_4.16 //
+   atha paradāratyāgasamuddeśaḥ /	aTa para-dAra-tyAga-samuddeSaH /
+   aśraddhāmupahasyatāṃ malinatāmarthakṣayaṃ lāghavaṃ garhāṃ glānimadhogatiṃ	aSradDAm-upahasyatAm malina-tAm-arTa-kzayam lAGavam garhAm glAnim-aDas-gatim
+   vikalatāmāyuḥkṣatiṃ durgatim /	vikala-tAm-AyuH-kzatim durgatim /
+   itthaṃ ye paradārakarmaṇi ratā lokatraye ninditā vindante paramāpadaḥ	itTam ye para-dAra-karmaNi ratAH lokatraye ninditAH vindante parama-ApadaH
+   sukhadhiyā duḥkhaṃ narāste sadā // JPanc_4.17 //	suKa-DiyA duHKam narAH-te sadA // JPant-_4.17 //
+   paulastyaḥ suradaityamartyamukuṭavyāghṛṣṭapādāmbujo maithilyāharaṇādavāpa	pOlastyaH sura-dEtya-martya-mukuwa-vyAGRzwa-pAda-ambujaH mETilya-AharaNAt-avApa
+   maraṇaṃ vāliścyuto rājyataḥ /	maraNam vAliH-cyutaH rAjyataH /
+   pāñcālīpratikāṅkṣitvena nidhanaṃ bhīmādgataḥ kīcakas	pAQcAlI-pratikAFkzi-tvena niDanam BImAt-gataH kIcaka-H-
+   tasmādanyavadhūrnarairna manasā 'pyālāpanīyā bhuvi // JPanc_4.18 //	tasmAt-anya-vaDUH-narEH-na manasA api-AlApanIyAH Buvi // JPant-_4.18 //
+   atha dūtīsamuddeśaḥ /	aTa dUtI-samuddeSaH /
+   cakṣuḥprītirudīritā prathamataścittabhramaḥ syāttataḥ	cakzuH-prItiH-udIritA praTamatas-citta-BramaH syAt-tatas-
+   saṅkalpastadanantaraṃ nigadito nidrāvināśastathā /	saFkalpaH-tad-anantaram nigaditaH nidrA-vinASaH-taTA /
+   vairāgyaṃ viṣayeṣu kārśyamatha ca vrīḍānivṛttistato hyunmādo maraṇaṃ	vErAgyam vizayezu kArSyam-aTa ca vrIxA-nivRttiH-tatas hi-unmAdaH maraNam
+   daśa(nava) prakaṭitāḥ kandarpaceṣṭā iti // JPanc_4.19 //	daSa(nava) prakawitAH kandarpa-cezwAH iti // JPant-_4.19 //
+   kāminyā navayauvane na milati svecchāvihāro nṛṇām unmādo maraṇaṃ tadā	kAminyA nava-yOvane na milati sva-icCA-vihAraH nRNAm unmAdaH maraNam tadA
+   manasijavyāmohato jāyate /	manasija-vyAmohataH jAyate /
+   tasmāttadvinivāraṇāya puruṣairanyāṅganā kāmibhir gantavyeti vadanti	tasmAt-tad-vinivAraNAya puruzEH-anyA-aFganA kAmiBiH gantavyA-iti vadanti
+   kāśyapamunikṣemendravātsyāyanāḥ // JPanc_4.20 //	kASyapa-muni-kzema-indra-vAtsyAyanAH // JPant-_4.20 //
+   tārāpīḍasuto vināśamagamatkādambarīkāṅkṣayā vyāmuktaḥ kila	tArApIxa-sutaH vinASam-agamat-kAt-ambarI-kAFkzayA vyAmuktaH kila
+   puṇḍarīkamunirapyuccairmahāśvetayā /	puNxarIka-muniH-api-uccEs-mahA-SvetayA /
+   urvaśyā ca purūravā narapatiḥ santyājito jīvitaṃ tasmājjīvitarakṣaṇāya hi	urvaSyA ca purUravAH narapatiH santyAjitaH jIvitam tasmAt-jIvita-rakzaNAya hi
+   vinirgamyā parapreyasī // JPanc_4.21 //	vinirgamyA para-preyasI // JPant-_4.21 //
+   dāsī vāravadhūrnaṭī ca vidhavā bālā ca dhātrī tathā kanyā pravrajitā ca	dAsI vAravaDUrnawI ca viDavA bAlA ca DAtrI taTA kanyA pravrajitA ca
+   bhikṣuvanitā sambandhinī śilpinī /	Bikzu-vanitA sambanDinI SilpinI /
+   mālākāranitambinī pratisakhī dautye smṛtā yoṣitām ālāpe kavibhiḥ sadaiva	mAlAkAra-nitambinI pratisaKI dOtye smRtAH yozitAm AlApe kaviBiH sadA-eva
+   madanavyāpāralīlāvidhau // JPanc_4.22 //	madana-vyApAra-lIlA-viDO // JPant-_4.22 //
+   atha sukhasādhyāsamuddeśaḥ /	aTa suKa-sADya-asamuddeSaH /
+   prauḍhā kāntavimānitā bahuguṇā ramyā 'napatyā tathā raṇḍā svairaparā	prOXA kAnta-vimAnitA bahu-guNA ramyA anapatyA taTA raNxA svEra-parA
+   svatantragamanā śilpapriyā gāyikā /	svatantra-gamanA SilpapriyA gAyikA /
+   ṣaṇḍhonmattadaridrasevakamahārogārtaḍimbhāṅganā nūnaṃ siddhyati	zaNXa-unmatta-daridra-sevaka-mahA-roga-artaximBa-aFganA nUnam sidDyati
+   dūtikānigaditā ramyābhisārotsave // JPanc_4.23 //	dUtikA-nigaditAH ramya-aBisAra-utsave // JPant-_4.23 //
+   atha kaṣṭasādhyāsamuddeśaḥ /	aTa kazwa-sADya-asamuddeSaH /
+   ekā vallabharakṣitā parajanālāpe viraktā dṛḍhā niḥsnehā dhanayauvane	ekA vallaBa-rakzitA para-jana-AlApe viraktA dRXA niHsnehAH Dana-yOvane
+   gurujanādbhītā ca lajjāvatī /	guru-janAt-BItA ca lajjAvatI /
+   svasthā sundaranāyakā patiratā śiṣyādikāntā tathā duḥsādhyā kaviśekhareṇa	svasTA sundara-nAyakA pati-ratA Sizya-Adi-kAntA taTA duHsADyA kavi-SeKareNa
+   ramaṇī proktā ratiprārthane // JPanc_4.24 //	ramaNI proktAH rati-prArTane // JPant-_4.24 //
+   atha tyājyastrīsamuddeśaḥ /	aTa tyAjya-strI-samuddeSaH /
+   ajñātā dvijavallabhā guruvadhūrmitrāṅganā rogiṇī ceṭī pravrajitā satī	ajQAtA dvijavallaBA guru-vaDUH-mitra-aFganA rogiNI cewI pravrajitA satI
+   ripuvadhūḥ śiṣyā ca garbhānvitā /	ripu-vaDUH SizyA ca garBa-anvitA /
+   bhrūṇaghnī mṛtasantatiḥ khalajanā cāspṛśyajā gotrajā gantavyā na	BrUNaGnI mRta-santatiH Kala-janA ca-aspRSya-jAH gotra-jAH gantavyAH na
+   kadācideva puruṣairetāḥ striyaḥ kāmibhiḥ // JPanc_4.25 //	kadAcid-eva puruzEH-etAH striyaH kAmiBiH // JPant-_4.25 //
+   suratatyājyasthānasamayasamuddeśaḥ /	suratatyAjya-sTAna-samaya-samuddeSaH /
+   nadyāṃ devagṛhe catuṣpathavaṭe śailasya sānau jale gurvagnidvijasannidhau	nadyAm devagRhe catuzpaTa-vawe SElasya sAnO jale guru-agni-dvija-sanniDO
+   paragṛhe durge śmaśāne vane /	para-gRhe durge SmaSAne vane /
+   sandhyāyāṃ divase kadā 'pi surataṃ pumbhirvivekānvitair dṛṣṭvā	sanDyAyAm divase kadA api suratam pumBiH-viveka-anvitEH dRzwvA
+   dharmavirodhasaṅkaṭamiti tyājyaṃ sadā yatnataḥ // JPanc_4.26 //	Darma-viroDa-saFkawam-iti tyAjyam sadA yatnataH // JPant-_4.26 //
+   aṣṭamyāṃ himaraśmiśekharatithau bāṇe ca pūrṇātithau bhānoḥ saṅkramaṇe	azwamyAm hima-raSmi-SeKara-tiTO bANe ca pUrNa-atiTO BAnoH saFkramaNe
+   vrate ca śaradi grīṣme kṣapāyāmapi /	vrate ca Saradi grIzme kzapAyAm-api /
+   yātāyātapariśrame jvaragade sambhogaceṣṭāṃ naraḥ kuryānnaiva kadācideva	yAta-AyAta-pariSrame jvara-gade samBoga-cezwAm naraH kuryAt-na-eva kadAcid-eva
+   sukṛtītyāhurmunīndrāḥ sphuṭam // JPanc_4.27 //	sukRti-iti-AhuH-muni-indrAH sPuwam // JPant-_4.27 //
+   atha suratayogyasthānasamuddeśaḥ /	aTa surata-yogya-sTAna-samuddeSaH /
+   sphūrjjaddīpaśikhojjvale sulalite ramyonnate vistare dhūpodgāramanohare	sPUrjjat-dIpa-SiKA-ujjvale su-lalite ramya-unnate vistare DUpa-udgAra-manohare
+   kusumasragdāmopaśobhānvite /	kusuma-sraj-dAma-upaSoBA-anvite /
+   vīṇātālaravākule manasijaprastāvanānandite sambhogaḥ kuśalaiḥ	vINA-tAla-rava-Akule manasija-prastAvana-Anandite samBogaH kuSalEH
+   svakīyabhavane kāryo yathākāṅkṣayā // JPanc_4.28 //	svakIya-Bavane kAryaH yaTA-kAFkzayA // JPant-_4.28 //
+   athābhilāṣasamuddeśaḥ /	aTa-aBilAza-samuddeSaH /
+   uktā gacchati lajjitā viramati premṇā manāgīkṣate keśāṁlluñcati jṛmbhaṇaṃ	uktA gacCati lajjitAH viramati premNA manAk-Ikzate keSAṁlluQcati jRmBaNam
+   racayati prastauti gāthāṃ muhuḥ /	racayati prastOti gATAm muhur /
+   āliṅgatyaparāṃ virauti paruṣaṃ cumbatyasau bālakaṃ gātraṃ bhañjati	AliFgati-aparAm virOti paruzam cumbati-asO bAlakam gAtram BaQjati
+   jṛmbhate vihasati pratyuttaraṃ yācate // JPanc_4.29 //	jRmBate vihasati pratyuttaram yAcate // JPant-_4.29 //
+   dormūlaṃ khalu darśayet stanayuge vastraṃ samālambate aṅguṣṭhena	dos-mUlam Kalu darSayet stana-yuge vastram samAlambate aFguzWena
+   likhenmahīṃ smitamukhī vrīḍāṃ vidhatte mṛṣā /	liKet-mahIm smita-muKI vrIxAm viDatte mRzA /
+   dantenādharapallavaṃ vidaśati vyaktaṃ tathā bhāṣate bhāvairebhiriha	dantena-aDara-pallavam vidaSati vyaktam taTA BAzate BAvEH-eBiH-iha
+   sphuṭaṃ mṛgadṛśāṃ jñeyo 'bhilāṣaḥ sadā // JPanc_4.30 //	sPuwam mRga-dRSAm jQeyaH aBilAzaH sadA // JPant-_4.30 //
+   athāliṅganasamuddeśaḥ /	aTa-AliFgana-samuddeSaH /
+   mālyāpūritakuntalaḥ suvasanaḥ snigdhāṅgarāgojjvalo nānābhūṣaṇasundaraḥ	mAlya-ApUrita-kuntalaH su-vasanaH snigDa-aFgarAga-ujjvalaH nAnA-BUzaNa-sundaraH
+   smaravaśastāmbūlapūrṇānanaḥ /	smara-vaSaH-tAmbUla-pUrNa-AnanaH /
+   sphūrjjaddīpamanojñavāsabhavane śayyātale nāyako rāgārthaṃ parirambhaṇaṃ	sPUrjjat-dIpa-manojQa-vAsa-Bavane SayyA-tale nAyakaH rAga-arTam pariramBaNam
+   prathamataḥ kuryātsamaṃ yoṣitā // JPanc_4.31 //	praTamatas kuryAt-samam yozitAH // JPant-_4.31 //
+   vṛkṣārūḍhakasañjñakaṃ prathamatastasmāllatāveṣṭitaṃ	vRkza-ArUXaka-saQjQakam praTamatas-tasmAt-latA-vezwitam
+   tasmājjāghanaviddhakāvapi matāvūrūpagūḍhaṃ punaḥ /	tasmAt-jAGana-vidDakO=-api matOvUru-upagUXam punar /
+   jñātavyaṃ tilataṇḍulaṃ rasavidāmāliṅganaṃ yoṣitāṃ kṣīraṃ nīrapuraḥsaraṃ	jQAtavyam tila-taNxulam rasa-vidAm-AliFganam yozitAm kzIram nIra-puraHsaram
+   nigaditaṃ tasmācca lālāṭikam // JPanc_4.32 //	nigaditam tasmAt-ca lAlAwikam // JPant-_4.32 //
+   ekena pādena padaṃ svabharturanyena cākramya tadūrubhāgam /	ekena pAdena padam sva-BartuH-anyena ca-Akramya tad-Uru-BAgam /
+   āpīḍya dorbhyāmapi kāntapṛṣṭhaṃ vṛkṣādhirūḍhaṃ pravadanti tajjñāḥ //	ApIxya dorByAm-api kAnta-pRzWam vRkza-aDirUXam pravadanti tad-jQAH //
+   JPanc_4.33 //	JPant-_4.33 //
+   ūrdhvaṃ bhujābhyāṃ saralāṅgayaṣṭī kṣoṇīruhaṃ vallirivādhirudya /	UrDvam BujAByAm sarala-aFga-yazwI kzoNIruham valliH-iva-aDirudya /
+   nārī priyaṃ cumbati nistaraṅgā bhavellatāveṣṭitasañjñakaṃ tat //	nArI priyam cumbati nistaraFgAH Bavet-latA-vezwita-saQjQakam tat //
+   JPanc_4.34 //	JPant-_4.34 //
+   śroṇītaṭe bāhuyugena kāntamāpīḍya muktāmbarakeśabhārā /	SroNI-tawe bAhu-yugena kAntam-ApIxya mukta-ambara-keSa-BArAH /
+   vaktrāsavaṃ svādayati prahṛṣṭā tajjñaiḥ sphuṭaṃ jāghanametaduktam //	vaktra-Asavam svAdayati prahRzwA tajjQEH sPuwam jAGanam-etat-uktam //
+   JPanc_4.35 //	JPant-_4.35 //
+   sukhopaviṣṭaṃ puruṣaṃ purandhrī sammīlitākṣaṃ svakaraprabandhāt /	suKa-upavizwam puruzam puranDrI sammIlita-akzam sva-kara-prabanDAt /
+   āvidhyati premalasatkucābhyāmāliṅganaṃ viddhakametadāhuḥ // JPanc_4.36 //	AviDyati prema-lasat-kucAByAm-AliFganam vidDakam-etat-AhuH // JPant-_4.36 //
+   kānto manojavyathitāṅgayaṣṭyā āpīḍayedūruyugaṃ yuvatyāḥ /	kAntaH manoja-vyaTita-aFga-yazwyAH ApIxayet-Uru-yugam yuvatyAH /
+   ūrūpaghātena kavipravīrairūrūpagūḍhaṃ tadidaṃ pradiṣṭam // JPanc_4.37 //	Uru-upaGAtena kavi-pravIrE-rU-ru-upagUXam tat-idam pradizwam // JPant-_4.37 //
+   bāhūruvakṣojaghanena gāḍhamanyonyasaṃsaktaśarīrayaṣṭyoḥ /	bAhu-Uru-vakzaH-jaGanena gAXam-anyonya-saMsakta-SarIra-yazwyoH /
+   ānandabhāvādyadudīrṇabhāvamāliṅganaṃ tattilataṇḍulākhyam // JPanc_4.38 //	Ananda-BAvAt-yat-udIrNa-BAvam-AliFganam tat-tilataNxula-AKyam // JPant-_4.38 //
+   gātropariṣṭhādatha talpamadhye saṃlīyate yanmithunaṃ śarīre /	gAtra-uparizWAt-aTa talpa-maDye saMlIyate yat-miTunam SarIre /
+   kāmātirekāt kṛtapūrṇaceṣṭamāliṅganaṃ kṣīrajalaṃ pradiṣṭam // JPanc_4.39 //	kAma-atirekAt kRta-pUrNa-cezwam-AliFganam kzIra-jalam pradizwam // JPant-_4.39 //
+   anyonyasaṃsaktamukhaṃ ca bāhū netraṃ lalāṭaṃ hṛdayaṃ kapolam /	anyonya-saMsakta-muKam ca bAhU netram lalAwam hRdayam kapolam /
+   ānandabhāvaśramamīlitākṣaṃ lālāṭikaṃ tattvavido vadanti // JPanc_4.40 //	Ananda-BAva-Srama-mIlita-akzam lAlAwikam tattva-vidaH vadanti // JPant-_4.40 //
+   atha cumbanasamuddeśaḥ /	aTa cumbana-samuddeSaH /
+   gaṇḍasthalīmastakadantavāsogrīvākucoraḥstanacūcukāni /	gaNxa-sTalI-mastaka-danta-vAsaH-grI-vAkuca-uraH-stana-cUcukAni /
+   āliṅganānantarameva yūnoḥ sthānāni cumbasya vadanti tajjñāḥ // JPanc_4.41	AliFgana-anantaram-eva yUnoH sTAnAni cumbasya vadanti tad-jQAH // JPan=-_4.41
+   kakṣāyugaṃ cāpi nitambinīnāṃ kandarpagehaṃ ca ratipravīṇāḥ /	kakzA-yugam ca-api nitambinInAm kandarpa-geham ca rati-pravINAH /
+   cumbanti kāmaṃ taralāyatākṣyā deśasya sātmyena sadaiva lāṭāḥ // JPanc_4.42	cumbanti kAmam tarala-Ayata-akzyAH deSasya sAtmyena sadA-eva lAwAH // JPan=-_4.42
+   kānto 'ṅganāyā vadane svakīyaṃ vaktraṃ samāropya balena yatra /	kAntaH aFganAyAH vadane svakIyam vaktram samAropya balena yatra /
+   na cumbati krodhavaśena nārī syāccumbanaṃ tannimitābhidānam // JPanc_4.43	na cumbati kroDa-vaSena nArI syAt-cumbanam tad-nimita-aBidAnam // JPan=-_4.43
+   patyurmukhe svīyamukhaṃ niveśya premṇā manāgañcati dantavāsaḥ /	patyuH-muKe svIya-muKam niveSya premNA manAgaQcati dantavAsaH /
+   uccena gṛhṇātyapi kampitoṣṭhī proktaṃ munīndraiḥ sphuritaṃ vinodāt //	uccena gRhNAti-api kampita-uzWI proktam muni-indrEH sPuritam vinodAt //
+   JPanc_4.44 //	JPant-_4.44 //
+   hastena netraṃ parimīlya bhartuḥ sammīlitākṣī vadane svajihvām /	hastena netram parimIlya BartuH sammIlita-akzI vadane sva-jihvAm /
+   nikṣipya ca krīḍati yatra lolā khyātaṃ rasajñaiḥ khalu ghṛṣṭasañjñam //	nikzipya ca krIxati yatra lolA KyAtam rasa-jQEH Kalu GRzwa-saQjQam //
+   JPanc_4.45 //	JPant-_4.45 //
+   hastāṅgulīsampuṭakena yatra kāntoṣṭhamādāya rasajñayā ca /	hasta-aFgulI-sampuwakena yatra kAnta-uzWam-AdAya rasa-jQayA ca /
+   āsvādayennirdaśanaṃ vinodāt syāccumbanaṃ pīḍitametadeva // JPanc_4.46 //	AsvAdayet-nirdaSanam vinodAt syAt-cumbanam pIxitam-etat-eva // JPant-_4.46 //
+   kāntādharaṃ svādharasampuṭena pītvā muhuḥ svādayati krameṇa /	kAntA-Daram sva-aDara-sampuwena pItvA muhur svAdayati krameNa /
+   nārī ca tenaiva vidhānakena jñeyaṃ munīndrairiti sampuṭākhyam //	nArI ca tena-eva viDAnakena jQeyam muni-indrEH-iti sampuwa-AKyam //
+   JPanc_4.47 //	JPant-_4.47 //
+   oṣṭhena kāntoṣṭhayugaṃ nipīya jihvāṃ nidhāyāpyatha tālubhāge /	ozWena kAnta-uzWa-yugam nipIya jihvAm niDAya-api-aTa tAlu-BAge /
+   cumbotsave nṛtyati yatra nārī proktaṃ samauṣṭhaṃ munibhiḥ purāṇaiḥ //	cumba-utsave nRtyati yatra nArI proktam sama-ozWam muniBiH purANEH //
+   JPanc_4.48 //	JPant-_4.48 //
+   atha nakhāghātasamuddeśaḥ /	aTa naKa-AGAta-samuddeSaH /
+   kakṣākucoraḥsthalakukṣinābhiśroṇīlalāṭāṅghrikareṣu sadyaḥ /	kakzA-kuca-uraH-sTala-kukzi-nABi-SroNI-lalAwa-aFGri-karezu sadyas /
+   sāṅguṣṭhasarvāṅgulikaiśca sarvaiḥ suvyakta eṣaḥ stanakandharādau //	sa-aFguzWa-sarva-aFgulikEH-ca sarvEH su-vyaktaH ezaH stana-kanDarA-AdO //
+   JPanc_4.49 //	JPant-_4.49 //
+   sañjñāpakaṃ manmatharāgarāśeruktaṃ munīndraiśchuritābhidhānam /	saQjQApakam manmaTa-rAga-rASeH-uktam muni-indrEH-Curita-aBiDAnam /
+   vakṣojakandarpagṛhādhareṣu deyaṃ navoḍhāpramadājanānām // JPanc_4.50 //	vakzoja-kandarpa-gRha-aDarezu deyam nava-UXA-pramadA-janAnAm // JPant-_4.50 //
+   kaṇḍūyanenaiva śiroruhāṇāmasyopayogaṃ parikīrtayanti /	kaNxUyanena-eva SiroruhANAm-asya-upayogam parikIrtayanti /
+   ardhenduśaṅkāśamidaṃ nakhajñairardhendusañjñaṃ kathitaṃ samāsāt //	arDa-indu-SaFkASam-idam naKa-jQEH-arDa-indu-saQjQam kaTitam samAsAt //
+   JPanc_4.51 //	JPant-_4.51 //
+   kakṣānitambastanapārśvakeṣu dātavyametat karajaṃ sadaiva /	kakzA-nitamba-stana-pArSvakezu dAtavyam-etat karajam sadA-eva /
+   ardhendusañjñadvitayaṃ prayuktaṃ syānmaṇḍalākhyaṃ madanāvataṃsam //	arDa-indu-saQjQa-dvitayam prayuktam syAt-maNxala-AKyam madana-avataMsam //
+   JPanc_4.52 //	JPant-_4.52 //
+   ūrūtaṭe kāmagṛhe nitambe procurmunīndrā viniyogamasya /	UrU-tawe kAma-gRhe nitambe procuH-muni-indrAH viniyogam-asya /
+   samaiśca sarvairnakharaiḥ sulagnaistajjñaiḥ kiloktaṃ śaśakaplutākhyam //	samEH-ca sarvEH-naKarEH su-lagnEH-tajjQEH kila-uktam SaSaka-pluta-AKyam //
+   JPanc_4.53 //	JPant-_4.53 //
+   sīmantapārśve hṛdhi cūcukādāvetat prayojyaṃ surataprayoge /	sImanta-pArSve hRDi cUcuka-AdO=-etat prayojyam surata-prayoge /
+   sarvairnakhairvai stanamadhyabhāge paścādadho 'ṅguṣṭhabhavā hi rekhā //	sarvEH-naKEH-vE stana-maDya-BAge paScAt-aDas aFguzWa-BavAH hi reKA //
+   JPanc_4.54 //	JPant-_4.54 //
+   vyaktīkṛtā rāgakarī tadetanmayūrapadaṃ samudīrayanti /	vyaktIkRtA rAga-karI tat-etat-mayUra-padam samudIrayanti /
+   alambamevaṃ sphuritārdharekhaṃ prāhuḥ kṣataṃ paṅkajapatrasañjñam //	alambam-evam sPurita-arDa-reKam prAhuH kzatam paFkaja-patra-saQjQam //
+   JPanc_4.55 //	JPant-_4.55 //
+   dormūlavakṣaḥsthalanābhisandhāvasyopayogaṃ vadate maheśaḥ /	dormUla-vakzaH-sTala-nABi-sanDO=-asya-upayogam vadate maheSaH /
+   rekhāyugaṃ gaṇḍayuge pradattaṃ stanāntakakṣājaghanasthaleṣu /	reKA-yugam gaNxa-yuge pradattam stanAnta-kakzA-jaGana-sTalezu /
+   deśāntaraṃ gacchati kāminīnāṃ saṃsmārakaṃ dardurakaṃ vadanti // JPanc_4.56	deSa-antaram gacCati kAminInAm saMsmArakam dardurakam vadanti // JPan=-_4.56
+   puṃsaḥ śarīre yuvatīkuce vā kṣataṃ nakhasya prativīkṣya sadyaḥ /	puMsaH SarIre yuvatI-kuce vA kzatam naKasya prativIkzya sadyas /
+   kandarparāgākulacittavṛttirmunerapi syāt kimutetarasya // JPanc_4.57 //	kandarpa-rAga-Akula-citta-vRttiH-muneH-api syAt kim-uta-itarasya // JPant-_4.57 //
+   sarvasvamevāsti manobhavasya premṇā prayuktaṃ karajaṃ ratajñaiḥ /	sarva-svam-eva-asti manoBavasya premNA prayuktam karajam rata-jQEH /
+   nāsmāddvitīyaṃ bhuvi rāgabījamityāha śītāṃśukalākirīṭaḥ // JPanc_4.58 //	na-asmAt-dvitIyam Buvi rAgabIjam-iti-Aha SItAMSu-kalA-kirIwaH // JPant-_4.58 //
+   atha daśanaghātasamuddeśaḥ /	aTa daSana-GAta-samuddeSaH /
+   dantaprakārāśca nakhaprakārairjñeyāḥ samā eva samaiśca sadbhiḥ /	danta-prakArAH-ca naKa-prakArEH-jQeyAH samAH eva samEH-ca sadBiH /
+   śītkārahuṅkāraviceṣṭitādyāḥ prāyo viśeṣāḥ punaratra kāryāḥ // JPanc_4.59	SItkAra-huFkAra-vicezwita-AdyAH prAyas viSezAH punar-atra kAryAH // JPan=-_4.59
+   ślathā ghanāstīvramukhāḥ samāṅgā rāgaspṛśo nirmaladīptibhājaḥ /	SlaTAH GanAH-tIvra-muKAH sama-aFgAH rAga-spRSaH nirmala-dIpti-BAjaH /
+   dantā pradeyā nakhadānadeśe vaktrāntarākṣidvitayaṃ vihāya // JPanc_4.60 //	dantA pradeyAH naKa-dAna-deSe vaktra-antara-akzi-dvitayam vihAya // JPant-_4.60 //
+   dantauṣṭhasaṃyogavaśena gaṇḍe dantaprakāraḥ kila vidrumo 'yam /	danta-ozWa-saMyoga-vaSena gaNxe danta-prakAraH kila vidrumaH ayam /
+   abhyāsayogādyuvatījanānāṃ syānnānyathā kvāpi vinodatastu // JPanc_4.61 //	aByAsa-yogAt-yuvatI-janAnAm syAt-na-anyaTA kvApi vinodataH-tu // JPant-_4.61 //
+   ūrūsthale kaṇṭhakapolayugme khaṇḍābhrakaṃ maṇḍalatulyarūpam /	UrUsTale kaNWa-kapola-yugme KaNxa-aBrakam maNxala-tulya-rUpam /
+   saṃśobhate dantamidaṃ yuvatyāḥ prāyo munīndrāḥ samudīrayanti // JPanc_4.62	saMSoBate dantam-idam yuvatyAH prAyas muni-indrAH samudIrayanti // JPan=-_4.62
+   dīrghā suraktā kṣatakuñcitā ca rekhā sthale cūcukayoḥ pradeyā /	dIrGA su-raktA kzata-kuQcitA ca reKA sTale cUcukayoH pradeyAH /
+   viśeṣakāle smaraṇe ca tajjñairdanto 'yamuktaḥ kila kolacarcaḥ(rvaḥ) //	viSeza-kAle smaraNe ca tad-jQEH-dantaH ayam-uktaH kila kola-carcaH-(rvaH) //
+   JPanc_4.63 //	JPant-_4.63 //
+   atha keśākarṣaṇasamuddeśaḥ /	aTa keSa-AkarzaNa-samuddeSaH /
+   dvābhyāṃ karābhyāṃ śirasi prakāmaṃ kṛṣṭvā kacāṃścumbanti vallabhaścet /	dvAByAm karAByAm Sirasi prakAmam kRzwvA kacAn=-cumbanti vallaBaH-ced /
+   tadeva diṣṭaṃ samahastasañjñaṃ syādekahastena taraṅgaraṅgaḥ // JPanc_4.64	tat-eva dizwam sama-hasta-saQjQam syAt-eka-hastena taraFga-raFgaH // JPan=-_4.64
+   karṇapradeśe ca kacaṃ nipīḍya premṇā patiścumbati vallabhāsyam /	karNa-pradeSe ca kacam nipIxya premNA patiH-cumbati vallaBa-Asyam /
+   anyonyahastagrahavistareṇa kāmāvataṃsaṃ munayo vadanti // JPanc_4.65 //	anyonya-hasta-graha-vistareNa kAma-avataMsam munayaH vadanti // JPant-_4.65 //
+   saṃveṣṭya sarvāṅgulibhiḥ kacaughaṃ yasyāḥ patirdhārayati smarārtām /	saMvezwya sarva-aFguliBiH kaca-oGam yasyAH patiH-DArayati smara-ArtAm /
+   bhujaṅgavallī parikīrtiteyaṃ ratotsave keśakalāvidhijñaiḥ // JPanc_4.66 //	BujaFgavallI parikIrtitA-iyam rata-utsave keSa-kalA-viDi-jQEH // JPant-_4.66 //
+   bhavyā ghanā raukṣyavivarjitāśca śyāmā viśālā bahulāḥ kacāḥ syuḥ /	BavyAH GanAH rOkzya-vivarjitAH-ca SyAmAH viSAlAH bahulAH kacAH syuH /
+   cumbapradānāvasare prakarṣyā rāgodayārthaṃ taruṇījanānām // JPanc_4.67 //	cumba-pradAna-avasare prakarzyAH rAga-udaya-arTam taruNI-janAnAm // JPant-_4.67 //
+   ityādayo bāhyarataprakārāḥ pūrvaṃ ratajñaiḥ parikalpanīyāḥ /	ityAdayaH bAhya-rata-prakArAH pUrvam rata-jQEH parikalpanIyAH /
+   anye 'pi ye santi bahuprabhedā noktā mayā vistarabhītitaste // JPanc_4.68	anye api ye santi bahu-praBedAH na-uktAH mayA vistara-BItitaH-te // JPant-_4.68
+   iti śrīkaviśekharajyotirīśvaraviracite pañcasāyake caturthaḥ sāyakaḥ /	iti SrIka-viSeKara-jyotiH-ISvara-viracite paQca-sAyake caturTaH sAyakaH /
+   atha pañcamaḥ sāyakaḥ /	aTa paQcamaH sAyakaH /
+   atha nāḍīsamuddeśaḥ /	aTa nAxI-samuddeSaH /
+   manobhavāgāramukhe tu nāḍyastisro bhavanti pramadājanānām /	manoBava-AgAra-muKe tu nAxyaH-tisraH Bavanti pramadA-janAnAm /
+   samīraṇā cāndramasī ca gaurī viśeṣamāsāmupavarṇayāmi // JPanc_5.1 //	samIraNA cAndramasI ca gOrI viSezam-AsAm-upavarNayAmi // JPant-_5.1 //
+   pradhānabhūtā madanātapatre samīraṇā nāma viśeṣanāḍī /	praDAna-BUtA madana-Atapatre samIraNA nAma viSeza-nAxI /
+   tasyā mukhe yatpatitaṃ nṛvīryaṃ tanniṣphalaṃ syāditi candramauliḥ //	tasyAH muKe yat-patitam nR-vIryam tat-nizPalam syAt-iti candramOliH //
+   JPanc_5.2 //	JPant-_5.2 //
+   yā cāparā cāndramasī ca nāḍī kandarpagehe bhavati pradhānā /	yA ca-aparA cAndramasI ca nAxI kandarpa-gehe Bavati praDAnAH /
+   sā sundarī yoṣitameva sūte sādhyā bhavedalparatotsavena // JPanc_5.3 //	sA sundarI yozitam-eva sUte sADyAH Bavet-alpa-rata-utsavena // JPant-_5.3 //
+   gaurīti nāḍī yadupasthadeśe pradhānabhūtā bhavati svabhāvāt /	gOrI-iti nAxI yat-upasTa-deSe praDAna-BUtA Bavati svaBAvAt /
+   putraṃ prasūte bahudhā 'ṅganā sā kaṣṭopabhogyā surate pradiṣṭā //	putram prasUte bahuDA aFganA sA kazwa-upaBogyA surate pradizwAH //
+   JPanc_5.4 //	JPant-_5.4 //
+   athottānabandhasamuddeśaḥ /	aTa-uttAna-banDa-samuddeSaH /
+   prasāritorūdvayamadhyayogādgāḍhā 'pi nārī ślathatāmupaiti /	prasArita-UrU-dvaya-maDya-yogAt-gAXA api nArI SlaTa-tAm-upEti /
+   saṃlagnajānudvayabandhayuktā ślathā 'pi saṅkocamalaṃ prayāti // JPanc_5.5	saMlagna-jAnu-dvaya-banDa-yuktA SlaTAH api saFkoca-malam prayAti // JPant-_5.5
+   tasyā yuvatyāḥ prakṛtiṃ ca sattvaṃ deśaṃ ca bhāvaṃ madanātapatram /	tasyAH yuvatyAH prakRtim ca sattvam deSam ca BAvam mad-ana-Atapatram /
+   ālokya bandhāḥ parikalpanīyāḥ sambhogakāle puruṣai rasajñaiḥ // JPanc_5.6	Alokya banDAH parikalpanIyAH samBoga-kAle puruzEH rasa-jQEH // JPant-_5.6
+   uttānasuptapramadorūmadhye sthitaḥ patiḥ kāmayate prakāmam /	uttAna-supta-pramada-UrU-maDye sTitaH patiH kAmayate prakAmam /
+   tayordvayoḥ prītikaraḥ pradiṣṭo bandho narāṇāmatidurlabho 'yam //	tayoH-dvayoH prIti-karaH pradizwaH banDaH narANAm-ati-durlaBaH ayam //
+   JPanc_5.7 //	JPant-_5.7 //
+   uttānasuptā yuvatiḥ svapādau skandhe samāropya ramennarasya /	uttAna-suptA yuvatiH sva-pAdO skanDe samAropya ramet-narasya /
+   bandho 'yamuktaḥ samapādasañjñaḥ prayojanīyaḥ kariṇīrateṣu // JPanc_5.8 //	banDaH ayam-uktaH sama-pAda-saQjQaH prayojanIyaH kariNI-ratezu // JPant-_5.8 //
+   evaṃvidhāyāḥ striya eva jaṅghāṃ kāntaḥ svajaṅghopari sanniveśya /	evaMviDAyAH striyaH eva jaFGAm kAntaH sva-jaFGA-upari sanniveSya /
+   udbhramya bhūyaḥ kaṭimāramantyāḥ syādeṣa bandhaḥ kila nāgarākhyaḥ //	udBramya BUyas kawimAramantyAH syAt-eza banDaH kila nAgara-AKyaH //
+   JPanc_5.9 //	JPant-_5.9 //
+   dhṛtvā svajānuṃ gagane svapādau śayyātale strī prathamaṃ prasuptā /	DRtvA sva-jAnum gagane svapAdO SayyA-tale strI praTamam prasuptAH /
+   kucau patiḥ pāṇiyugena dhṛtvā ramettadā vyomapadābhidhānam // JPanc_5.10	kucO patiH pANi-yugena DRtvA ramet-tadA vyoma-pada-aBiDAnam // JPan=-_5.10
+   ekaṃ yuvatyāścaraṇaṃ pṛthivyāmūrdhvaṃ tathā 'nyaṃ parikalya kāntaḥ /	ekam yuvatyAH-caraNam pRTivyAm-UrDvam taTA anyam parikalya kAntaH /
+   padbhyāṃ sthito hastayugaṃ ca bhūmau traivikramaḥ syāditi vandharājaḥ //	padByAm sTitaH hasta-yugam ca BUmO trEvikramaH syAt-iti vanDa-rAjaH //
+   JPanc_5.11 //	JPant-_5.11 //
+   nitambabimbaṃ kila nāyakena nāryāstrikaṃ hastayugena dhṛtvā /	nitamba-bimbam kila nAyakena nAryAH-trikam hasta-yugena DRtvA /
+   gulphau nidhāya sthita eva tasyā bandho 'pyasau cāṭukakelikaḥ syāt //	gulPO niDAya sTitaH eva tasyAH banDaH api-asO cAwuka-kelikaH syAt //
+   JPanc_5.12 //	JPant-_5.12 //
+   kāntasya vakṣaḥsthalagau ca (sva)pādāv āliṅgya gāḍhaṃ pramadā karābhyām /	kAntasya vakzaH-sTala-gO ca (sva)pAdO AliFgya gAXam pramadA karAByAm /
+   kiñcinnatorudvayayogataśca jñeyo budhairityavadārito 'yam // JPanc_5.13 //	kiQcid-nata-uru-dvaya-yogataH-ca jQeyaH buDEH-iti-avadAritaH ayam // JPant-_5.13 //
+   atha pārśvabandhasamuddeśaḥ /	aTa pArSva-banDa-samuddeSaH /
+   ekaṃ yuvatyā hṛdaye svapādaṃ tathā 'rpitaṃ talpagataṃ tadanyam /	ekam yuvatyA hRdaye sva-pAdam taTA arpitam talpa-gatam tad-anyam /
+   prauḍhāṅganāvallabha eṣa bandhaḥ khyātaḥ pṛthivyāmupavītikākhyaḥ //	prOXa-aFganA-vallaBaH eza banDaH KyAtaH pRTivyAm-upavItika-AKyaH //
+   JPanc_5.14 //	JPant-_5.14 //
+   ūrvoḥ patirmadhyagato yuvatyāḥ pārśvasthitāyāḥ parirabhya deham /	UrvoH patiH-maDya-gataH yuvatyAH pArSva-sTitAyAH pariraBya deham /
+   yūnostrikālolanato rasajñairatyādṛtaḥ sampuṭanāmadheyaḥ // JPanc_5.15 //	yUnoH-trikAlola-nataH rasa-jQEH-atyAdRtaH sampuwa-nAmaDeyaH // JPant-_5.15 //
+   pārśvasthitāyāḥ mṛgaśāvakākṣyāḥ pṛṣṭhāvalambī ramaṇaḥ prasuptaḥ /	pArSva-sTitAyAH mRga-SAvaka-akzyAH pRzWa-avalambI ramaNaH prasuptaH /
+   liṅgasmarāgāraniveśayogādihopadiṣṭaḥ khalu nāgabandhaḥ // JPanc_5.16 //	liFgasmara-AgAra-niveSa-yogAt-iha-upadizwaH Kalu nAgabanDaH // JPant-_5.16 //
+   athopaviṣṭabandhasamuddeśaḥ /	aTa-upavizwa-banDa-samuddeSaH /
+   padmāsanaṃ samparikalpya bhartā kroḍopaviṣṭāṃ yuvatiṃ ramecca /	padmAsanam samparikalpya BartA kroxa-upavizwAm yuvatim ramet-ca /
+   anyonyakaṇṭhārpitabāhuyogāt padmāsanākhyaṃ pravadanti santaḥ // JPanc_5.17	anyonya-kaNWa-arpita-bAhu-yogAt padmAsana-AKyam pravadanti santaH // JPant-_5.17
+   kānto nitambasthita eva nāryāḥ śroṇīṃ karābhyāṃ yadi yāti dhṛtvā /	kAntaH nitamba-sTitaH eva nAryAH SroNIm karAByAm yadi yAti DRtvA /
+   āsphālayedvā 'pi kaṭiprabandhāt prokto munīṇdrairiti kīrtibandhaḥ //	AsPAlayet-vA api kawi-prabanDAt proktaH munINdrEH-iti kIrtibanDaH //
+   JPanc_5.18 //	JPant-_5.18 //
+   athādhomukhabandhasamuddeśaḥ /	aTa-aDomuKa-banDa-samuddeSaH /
+   adhomukhasthāṃ ramayecca nārīṃ tatpṛṣṭhavartī paśutulyarūpaḥ /	aDomuKa-sTAm ramayet-ca nArIm tad-pRzWa-vartI paSu-tulya-rUpaH /
+   bhartā parikrīḍati bhāvahīno nirdiśyate hāriṇabandha eṣaḥ // JPanc_5.19 //	BartA parikrIxati BAva-hInaH nirdiSyate hAriNa-banDaH ezaH // JPant-_5.19 //
+   dantāvalacchāgaturaṅgamāṇāṃ krīḍāprakāraiśca bhavanti bandhāḥ /	dantAvala=-CAga-turaFgamANAm krIxA-prakArEH-ca Bavanti banDAH /
+   itthaṃ rasajñairanulāpanīyā nodāhṛtā vistarabhītitaste // JPanc_5.20 //	itTam rasa-jQEH-anulApanIyAH na-udAhRtAH vistara-BItitaH-te // JPant-_5.20 //
+   ūrdhvabandhasamuddeśaḥ /	UrDva-banDa-samuddeSaH /
+   anyonyadoḥpañjaramadhyajātaḥ stambho yadā bāhuyugena lagnaḥ /	anyonya-doH-paQjara-maDya-jAtaH stamBaH yadA bAhu-yugena lagnaH /
+   niṣpīḍya nārī patimūrdhvasaṃsthaṃ ramettadā vyāttakaraṃ vadanti //	nizpIxya nArI patim-UrDva-saMsTam ramet-tadA vyAtta-karam vadanti //
+   JPanc_5.21 //	JPant-_5.21 //
+   eko yuvatyā yadi kāntahaste jānu sthitaḥ syādaparaḥ pṛthivyām /	ekaH yuvatyA yadi kAntahaste jAnu sTitaH syAt-aparaH pRTivyAm /
+   kāntaṃ karābhyāmupagūhya yatsyājjñeyaṃ rasajñaiḥ karaṇaṃ tripādam //	kAntam karAByAm-upagUhya yat-syAt-jQeyam rasa-jQEH karaNam tri-pAdam //
+   JPanc_5.22 //	JPant-_5.22 //
+   atha puruṣāyitasamuddeśaḥ /	aTa puruzAyita-samuddeSaH /
+   adhomukhī kāntahṛdi prasuptā dorbhyāṃ samāliṅgya yadi prayāti /	aDomuKI kAnta-hRdi prasuptAH dorByAm samAliFgya yadi prayAti /
+   gā(prau)ḍhāṅganāvallabha eṣa tajjñaiḥ bandhaḥ pradiṣṭo viparītarūpaḥ //	gA(prO)Xa-aFganA-vallaBaH eza tajjQEH banDaH pradizwaH viparIta-rUpaH //
+   JPanc_5.23 //	JPant-_5.23 //
+   dhūrta ! tvamevaṃ vijito 'syakasmādyuddhe mayā pañcaśarasya nārī /	DUrte ! tvam-evam vijitaH asi-akasmAt-yudDe mayA paQcaSarasya nArI /
+   ityādikaṃ bhūrividhaṃ raṭantī prāyaḥ sukhaṃ vindati keliraṅge //	iti-Adikam BUriviDam rawantI prAyas suKam vindati keliH-aFge //
+   JPanc_5.24 //	JPant-_5.24 //
+   viparītaratāvayogyāṃ striyaṃ darśayati /	viparIta-rata-avayogyAm striyam darSayati /
+   navaprasūtā ṛtuyogayuktā garbhālasā sthūlatanurnatāṅgī /	nava-prasUtA Rtu-yoga-yuktA garBa-alasA sTUla-tanuH-nata-aFgI /
+   kṣīṇā navoḍhā jvaritā ca nārī varjyā ratijñairviparītabandhe // JPanc_5.25	kzINA navoXA jvaritA ca nArI varjyAH rati-jQEH-viparIta-banDe // JPant-_5.25
+   atha santāḍitasamuddeśaḥ /	aTa santAxita-samuddeSaH /
+   vāmasvabhāvānmadanasya rāgo hastaprahārātsamupaiti vṛddhim /	vAma-svaBAvAt-madanasya rAgaH hasta-prahArAt-samupEti vRdDim /
+   tasmādyathāsthānamasau vidheyo varāṅganāyāḥ suratāvasāne // JPanc_5.26 //	tasmAt-yaTAsTAnam-asO viDeyaH vara-aFganAyAH surata-avasAne // JPant-_5.26 //
+   yadyaṅganā kāntahṛdi prahāraṃ muṣṭyā bhajantī suratopacāraiḥ /	yadi-aFganA kAnta-hRdi prahAram muzwyA BajantI surata-upacArEH /
+   santāḍitaṃ nāma vadanti tajjñā vistīrṇahastena tadā patākam // JPanc_5.27	santAxitam nAma vadanti tad-jQAH vistIrNa-hastena tadA patAkam // JPan=-_5.27
+   sāṅguṣṭhamadhyāṅgulasamprahārāt sañjāyate kuṇḍalanāmadheyaḥ /	sa-aFguzWa-maDya-aFgula-samprahArAt san-jAyate kuNxala-nAmaDeyaH /
+   yaḥ kevalāṅguṣṭhabhavo 'bhighātaḥ proktaḥ kavīndraiḥ sa tu bindumālaḥ //	yaH kevala-aFguzWa-BavaH aBiGAtaH proktaH kavi-indrEH sa tu bindumAlaH //
+   JPanc_5.28 //	JPant-_5.28 //
+   dravati yadi na nārī prauḍharāgārtiyuktā mṛdunidhuvanayoge dantasandhau	dravati yadi na nArI prOXa-rAga-Arti-yuktAH mRdu-niDuvana-yoge danta-sanDO
+   salīlam /	sa-lIlam /
+   pibati daśanavāsaḥ kiñcidunmucya bhūyaḥ kathitamiha rasajñaiḥ sītkṛtaṃ	pibati daSana-vAsaH kiQcid-unmucya BUyas kaTitam-iha rasa-jQEH sItkRtam
+   rāgakāri // JPanc_5.29 //	rAga-kAri // JPant-_5.29 //
+   pikaśikhikalahaṃsaprāyapakṣivṛjānāṃ dhvanitamanukarotītyaṅganā manmathārtā	pika-SiKi-kalahaMsa-prAya-pakzi-vRjAnAm Dvanitam-anukaroti-iti-aFganA manmaTa-ArtA
+   mukhadaśanavivartāttatkavīndrā vadanti stanitamiti	muKa-daSana-vivartAt-tat-kavi-indrAH vadanti stanitam-iti
+   samāsāccitrasambhogakāle // JPanc_5.30 //	samAsAt-citra-samBoga-kAle // JPant-_5.30 //
+   evaṃvidhakaraṇasya phalaṃ nirūpayati /	evaMviDa-karaNasya Palam nirUpayati /
+   ityādiyogaiḥ pṛthukāmabhāvaṃ sampādya nārīpuruṣau cireṇa /	ityAdi-yogEH pRTu-kAma-BAvam sampAdya nArI-puruzO cireNa /
+   jātānurāgau rahasi prakāmaṃ saukhyaṃ samāsvādayato mahīyaḥ // JPanc_5.31	jAta-anurAgO rahasi prakAmam sOKyam samAsvAdayataH mahIyaH // JPan=-_5.31
+   aṣṭānāyikāsamuddeśaḥ /	azwAnAyikA-samuddeSaH /
+   yasyāḥ patirmilati kelikathānuraktaḥ pārśvaṃ na muñcati	yasyAH patiH-milati keli-kaTA-anuraktaH pArSvam na muQcati
+   manobhavavegayuktaḥ /	manoBava-vega-yuktaH /
+   syātsundarī sakalasaukhyakalānidhānā svādhīnapūrvapatiketi vadanti tajjñāḥ	syAt-sundarI sakala-sOKya-kalA-niDAnA svADIna-pUrva-patikA-iti vadanti tad-jQAH
+   // JPanc_5.32 //	// JPant-_5.32 //
+   puṣpāṅgarāgarucirā taruṇī priyasya tiṣṭhatyanāgamanahetuvicāralolā /	puzpa-aFgarAga-rucirA taruNI priyasya tizWati-anAgamana-hetu-vicAra-lolAH /
+   eṣā 'balā na hi ciraṃ paridevanīyā sotkaṇṭhiteti kathitā kavibhiḥ purāṇaiḥ	ezA abalA na hi ciram paridevanIyA sa-utkaNWitA-iti kaTitA kaviBiH purANEH
+   // JPanc_5.33 //	// JPant-_5.33 //
+   srakcandanāmbaravibhūṣaṇabhūṣitāṅgī yā vallabhāgamanamārgavirūḍhadṛṣṭiḥ /	sraj-candana-ambara-viBUzaNa-BUzita-aFgI yA vallaBa-Agamana-mArga-virUXa-dRzwiH /
+   talpaṃ gatā ruciravāsagṛhe 'vaśete sā kīrtitā jagati vāsakasajjiteti //	talpam gatA rucira-vAsa-gRhe avaSete sA kIrtitA jagati vAsaka-sajjitA-iti //
+   JPanc_5.34 //	JPant-_5.34 //
+   krodhātprayāti caraṇe patito 'pi kāntaḥ prāyaḥ	kroDAt-prayAti caraNe patitaH api kAntaH prAyas-
+   pracaṇḍavacanāccaraṇairnirastaḥ /	pracaNxa-vacanAt-caraNEH-nirastaH /
+   paścāttadīyavirahakṣaradānatāṅgī sā kīrtiteha kalahāntaritā kavīndraiḥ //	paScAt-tadIya-viraha-kzara-dAnatA-aFgI sA kIrtitA-iha kalaha-antaritA kavi-indrEH //
+   JPanc_5.35 //	JPant-_5.35 //
+   saṅketakaṃ priyatamaḥ svayameva dattvā naivāgataḥ samucite samaye ca	saFketakam priyatamaH svayam-eva dattvA na-eva-AgataH samucite samaye ca
+   yasyāḥ /	yasyAH /
+   hṛṣṭā vaco 'mṛtarasaiḥ sakalāṅgayaṣṭiḥ sā varṇitā kavivarairiha	hRzwA vacaH amRta-rasEH sakala-aFga-yazwiH sA varNitA kavi-varEH-iha
+   vipralabdhā // JPanc_5.36 //	vipralabDAH // JPant-_5.36 //
+   prātarvinidravadanasmarabhāracauro nidrālaso 'lasagatirnakhavikṣatāṅgaḥ /	prAtar-vinidra-vadana-smara-BAra-cOraH nidrA-alasaH alasa-gatiH-naKa-vikzata-aFgaH /
+   yasyāḥ prayātyabhimukhaṃ muhuśo yuvatyāḥ sā khaṇḍiteti kathitā kavibhiḥ	yasyAH prayAti-aBimuKam muhuSas yuvatyAH sA KaNxitA-iti kaTitA kaviBiH
+   purāṇaiḥ // JPanc_5.37 //	purANEH // JPant-_5.37 //
+   ārambhabhagnacaritā vikalā ca nārī yā nirmitā hi madanena madena yāti /	AramBa-Bagna-caritA vikalA ca nArI yA nirmitA hi madanena madena yAti /
+   guptābhisārarasikā paraveśma gantuṃ sā kīrtitā kavivarairabhisāriketi //	gupta-aBisAra-rasikA para-veSma gantum sA kIrtitA kavi-varEH-aBisArikA-iti //
+   JPanc_5.38 //	JPant-_5.38 //
+   deśāntaraṃ prativasadramaṇaśca yasyā dattvā 'vadhiṃ cirataraṃ	deSa-antaram prativasat-ramaNaH-ca yasyAH dattvA avaDim cirataram
+   gurukāryayogāt /	guru-kArya-yogAt /
+   durvāraduḥkhadahanaiḥ paridevitāṅgī sā proṣitapriyatamā kathitā munīndraiḥ	durvAra-duHKa-dahanEH paridevita-aFgI sA prozita-priyatamA kaTitAH muni-indrEH
+   // JPanc_5.39 //	// JPant-_5.39 //
+   granthopasaṃhāraḥ /	granTa-upasaMhAraH /
+   yāvaccandrakalākirīṭahṛdaye śailādhirājātmajā yāvadvakṣasi mādhavasya	yAvat-candra-kalA-kirIwa-hRdaye SEla-aDirAja-AtmajA yAvat-vakzasi mADavasya
+   kamalā sānandamādīvyati /	kamalA sa-Anandam-AdIvyati /
+   yāvatkāmakalāvivartacaṭulaṃ kṣoṇītalaṃ rājate tāvacchrīkaviśekharasya	yAvat-kAma-kalA-vivarta-cawulam kzoNI-talam rAjate tAvat-SrIka-viSeKarasya
+   kṛtinaḥ kāvyaṃ mude dīvyatām // JPanc_5.40 //	kRtinaH kAvyam mude dIvyatAm // JPant-_5.40 //
+   iti kaviśekharaśrījyotīśvarācāryaviracite pañcasāyake pañcamaḥ sāyakaḥ /	iti kavi-SeKara-SrI-jyoti-ISvara-AcArya-viracite paQca-sAyake paQcamaH sAyakaH /
+   samāptaścāyaṃ granthaḥ //	samAptaH-ca-ayam granTaH //

@@ -1,0 +1,443 @@
+   //āśvamedhikaṃ parva//	//ASvameDikam parva//
+   nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam /	nArAyaNam namaskRtya naram ca-eva narottamam /
+   devīṃ sarasvatīṃ vyāsaṃ tato jayamudīrayet // Bhmj_14.1 //	devIm sarasvatIm vyAsam tatas jayam-udIrayet // Bhmd-_14.1 //
+   yaśaḥ śaśāṅkośeṣe 'staṃ prayāte bhīṣmabhāsvati /	yaSaH SaSAFkoSeze astam prayAte BIzma-BAsvati /
+   papāta dharmatanayaḥ śokamlānamukhāmbujaḥ // Bhmj_14.2 //	papAta Darma-tanayaH Soka-mlAna-muKa-ambujaH // Bhmd-_14.2 //
+   mohamūrcchākule tasminviṣaṇṇe saha bāndhavaiḥ /	moha-mUrcCa-Akule tasmin-vizaNNe saha bAnDavEH /
+   śucaṃ saṃstambhya śanakairdhṛtarāṣṭrastamabravīt // Bhmj_14.3 //	Sucam saMstamBya SanakEs-DRtarAzwraH-tam-abravIt // Bhmd-_14.3 //
+   uttiṣṭha pṛthivīpāla na dhairyaṃ hātumarhasi /	uttizWa pRTivIpAla na DEryam hAtum-arhasi /
+   saṃsārāsāracaritaṃ munibhyaḥ śrutavānasi // Bhmj_14.4 //	saMsAra-asAra-caritam muniByaH SrutavAn-asi // Bhmd-_14.4 //
+   śokasyāvasaro nāyaṃ svadharmādacyutasya te /	Sokasya-avasaraH na-ayam svaDarmAt-acyutasya te /
+   pāhi sattvasudhāsindho prajāpatiriva prajāḥ // Bhmj_14.5 //	pAhi sattva-suDA-sinDo prajApatiH-iva prajAH // Bhmd-_14.5 //
+   śocitavyo mamaivāyaṃ kālaḥ samucito 'dhunā /	SocitavyaH mama-eva-ayam kAlaH samucitaH aDunA /
+   vidurasya giro yena na śrutāḥ sunayojjvalāḥ // Bhmj_14.6 //	vidurasya giraH yena na SrutAH su-naya-ujjvalAH // Bhmd-_14.6 //
+   ityukte dhṛtarāṣṭreṇa kṛṣṇaḥ kṣmāpālamabhyadhāt /	iti-ukte DRtarAzwreNa kRzNaH kzmApAlam-aByaDAt /
+   mā śucaḥ kṣatradharmeṇa labdhāṃ bhuṅkṣva mahīmimām // Bhmj_14.7 //	mA SucaH kzatra-DarmeNa labDAm BuFkzva mahIm-imAm // Bhmd-_14.7 //
+   duḥkhibhyo hi palāyante dhairyāyattā vibhūtayaḥ /	duHKiByaH hi palAyante DErya-AyattAH viBUtayaH /
+   yajasva vijayī rājanpāpaśaṅkāpanuttaye // Bhmj_14.8 //	yajasva vijayI rAjan-pApa-SaFkA-apanuttaye // Bhmd-_14.8 //
+   aśvamedhena vidhinā yātastadyogyatāmasi /	aSvameDena viDinA yAtaH-tad-yogya-tAm-asi /
+   etanmunivacaḥ śrutvā yajñe baddhamanorathaḥ // Bhmj_14.9 //	etat-muni-vacaH SrutvA yajQe badDa-manoraTaH // Bhmd-_14.9 //
+   dhanamūlāṃ kriyaṃ matvā rājyakośamacintayat /	Dana-mUlAm kriyam matvA rAjya-koSam-acintayat /
+   so 'tha sarvānsamāhūya kośādhyakṣānmakhotsukaḥ // Bhmj_14.10 //	saH aTa sarvAn-samAhUya koSa-aDyakzAt-maKa-utsukaH // Bhmd-_14.10 //
+   tebhyaḥ śuśrāva sarvasvaṃ kṣayitaṃ yudhi kauravaiḥ /	teByaH SuSrAva sarva-svam kzayitam yuDi kOravEH /
+   aśvamedhe nirāśaṃ taṃ vijñāya draviṇaṃ vinā // Bhmj_14.11 //	aSvameDe nirASam tam vijQAya draviNam vinA // Bhmd-_14.11 //
+   uvāca karuṇāsindhurvyāso nirvāpayanniva /	uvAca karuNA-sinDuH-vyAsaH nirvApayan=-iva /
+   maruttasya kṣitipateryajñaśeṣaṃ himācale // Bhmj_14.12 //	maruttasya kzitipateH-yajQa-Sezam himAcale // Bhmd-_14.12 //
+   kāñcanaṃ vidyate bhūri yajñārthaṃ tadavāpsyasi /	kAQcanam vidyate BUri yajQa-arTam tat-avApsyasi /
+   śrutvaitatpāṇḍuputreṇa maruttasya mahīpateḥ // Bhmj_14.13 //	SrutvA-etat-pANxu-putreNa maruttasya mahIpateH // Bhmd-_14.13 //
+   mahāyajñakathāṃ pṛṣṭaḥ provāca munipuṃgavaḥ /	mahAyajQa-kaTAm pRzwaH provAca muni-puMgavaH /
+   mahīyasi manorvaṃśe mahatāṃ yaśasāṃ nidhiḥ // Bhmj_14.14 //	mahIyasi manoH-vaMSe mahatAm yaSasAm niDiH // Bhmd-_14.14 //
+   karaṃdhamakule śrīmānmarutto 'bhūnmahīpatiḥ /	karaMDama-kule SrImAn-maruttaH aBUt-mahIpatiH /
+   tamandraḥ spardhate nityaṃ na sa śaknoti ceṣṭitaiḥ // Bhmj_14.15 //	tamandraH sparDate nityam na sa Saknoti cezwitEH // Bhmd-_14.15 //
+   yadā tadā manyutapto rahaḥ prāha bṛhaspatim /	yadA tadA manyu-taptaH rahaH prAha bRhaspatim /
+   karaṃdhamo 'bhavadyājyastvatpituḥ pṛthivīpatiḥ // Bhmj_14.16 //	karaMDamaH aBavat-yAjyaH-tvad-pituH pRTivIpatiH // Bhmd-_14.16 //
+   kramāttavāpi tatsūnurmaruttastadguṇādhikaḥ /	kramAt-tava-api tad-sUnuH-maruttaH-tad-guNa-aDikaH /
+   kiṃtu taddarpasaṃgharṣādbhavantamahamarthaye // Bhmj_14.17 //	kiMtu tad-darpa-saMGarzAt-Bavantam-aham-arTaye // Bhmd-_14.17 //
+   na yājakapadaṃ tasya gantavyaṃ bhavatādhunā /	na yAjaka-padam tasya gantavyam BavatA-aDunA /
+   ityarthito maghavatā tathetyūce bṛhaspatiḥ // Bhmj_14.18 //	iti-arTitaH maGavatA taTA-iti-Uce bRhaspatiH // Bhmd-_14.18 //
+   adyaprabhṛti martyo me na yājya iti saṃvidā /	adya-praBRti martyaH me na yAjyaH iti saMvidA /
+   atrāntare narapatirmarutto vipulaṃ kratum // Bhmj_14.19 //	atra-antare narapatiH-maruttaH vipulam kratum // Bhmd-_14.19 //
+   āhartuṃ kṛtasaṃkalpo bṛhaspatimupāyayau /	Ahartum kRta-saMkalpaH bRhaspatim-upAyayO /
+   sa tenābhyarthito yatnādyājako 'stu bhavāniti // Bhmj_14.20 //	sa tena-aByarTitaH yatnAt-yAjakaH astu BavAn-iti // Bhmd-_14.20 //
+   na cakārābhyupagamaṃ śakrapraṇayayantritaḥ /	na cakAra-aByupagamam Sakra-praNaya-yantritaH /
+   pratyākhyātaḥ sa guruṇā rājā lajjānatānanaḥ // Bhmj_14.21 //	pratyAKyAtaH sa guruNA rAjA lajjA-nata-AnanaH // Bhmd-_14.21 //
+   vrajanvinaṣṭasaṃkalpo dadarśa pathi nāradam /	vrajan-vinazwa-saMkalpaH dadarSa paTi nAradam /
+   nārado 'pi tamālokya pṛṣṭvā śrutvā ca tatkathām // Bhmj_14.22 //	nAradaH api tam-Alokya pRzwvA SrutvA ca tat-kaTAm // Bhmd-_14.22 //
+   uvāca tyaja saṃtāpaṃ mā rājanvimanā bhava /	uvAca tyaja saMtApam mA rAjan-vimanAH Bava /
+   saṃvartākhyo nidhirdhāmnāmanujo 'sti bṛhaspateḥ // Bhmj_14.23 //	saMvarta-AKyaH niDiH-DAmnAm-anujaH asti bRhaspateH // Bhmd-_14.23 //
+   svacchandacārī yogīndro vārāṇasyāṃ sa vartate /	svacCanda-cArI yogi-indraH vArANasyAm sa vartate /
+   saṃvartaḥ sa parijñeyo vrajethāḥ śaraṇaṃ tu tam // Bhmj_14.24 //	saMvartaH sa parijQeyaH vrajeTAH SaraNam tu tam // Bhmd-_14.24 //
+   nivedito 'haṃ keneti pṛṣṭastena tvamānataḥ /	niveditaH aham kena-iti pRzwaH-tena tvamAnataH /
+   bravīthā nārado mahyaṃ tvāmihasthaṃ nyavedayat // Bhmj_14.25 //	bravITAH nAradaH mahyam tvAm-ihasTam nyavedayat // Bhmd-_14.25 //
+   kathayitvā prahṛṣṭaśca jvalitaṃ jātavedasam /	kaTayitvA prahRzwaH-ca jvalitam jAtavedasam /
+   ityuktvā prārthayethāstaṃ yājakaṃ yajvanāṃ varaḥ // Bhmj_14.26 //	iti-uktvA prArTayeTAH-tam yAjakam yajvanAm varaH // Bhmd-_14.26 //
+   nāradenetyabhihite bhūpālo harṣanirbharaḥ /	nAradena-iti-aBihite BUpAlaH harza-nirBaraH /
+   taduktaṃ vidadhe sarvaṃ gatvā vāraṇasīṃ svayam // Bhmj_14.27 //	tat-uktam vidaDe sarvam gatvA vAraNasIm svayam // Bhmd-_14.27 //
+   saṃtyaktonmattarūpaṃ sa prāpya taṃ yājakaṃ nṛpaḥ /	saMtyakta-unmatta-rUpam sa prApya tam yAjakam nRpaH /
+   cakāra tadanujñātastapo himagirestaṭe // Bhmj_14.28 //	cakAra tad-anujQAtaH-tapaH himagireH-tawe // Bhmd-_14.28 //
+   tapasā yajñavittārthī devamārādhya śaṃkaram /	tapasA yajQa-vitta-arTI devam-ArADya SaMkaram /
+   anekameruvipulaṃ lebhe hema sa pārthivaḥ // Bhmj_14.29 //	aneka-meru-vipulam leBe hema sa pArTivaH // Bhmd-_14.29 //
+   haimeṣu sarvabhāṇḍeṣu raciteṣvatha śilpibhiḥ /	hEmezu sarva-BANxezu racitezu-aTa SilpiBiH /
+   saṃpūrṇo yajñasaṃbhāraḥ prāvartata mahībhujaḥ // Bhmj_14.30 //	saMpUrNaH yajQa-saMBAraH prAvartata mahIBujaH // Bhmd-_14.30 //
+   samṛddhimatulāṃ tasya yajñe jñātvā bṛhaspatiḥ /	samRdDim-atulAm tasya yajQe jQAtvA bRhaspatiH /
+   saṃvartakaṃ yājakaṃ ca saṃtaptastanutāṃ yayau // Bhmj_14.31 //	saMvartakam yAjakam ca saMtaptaH-tanu-tAm yayO // Bhmd-_14.31 //
+   sa śokakāraṇaṃ pṛṣṭaḥ śakreṇa mlānamānasaḥ /	sa Soka-kAraNam pRzwaH SakreNa mlAna-mAnasaH /
+   maruttayajñavibhavaṃ bhrātṛspardhākulo 'vadat // Bhmj_14.32 //	marutta-yajQa-viBavam BrAtR-sparDA-AkulaH avadat // Bhmd-_14.32 //
+   tataḥ śatakratustasya prītye guruvatsalaḥ /	tatas SatakratuH-tasya prItye guru-vatsalaH /
+   uvāca vahnimāhūya maruttaṃ vraja pārthivam // Bhmj_14.33 //	uvAca vahnim-AhUya maruttam vraja pArTivam // Bhmd-_14.33 //
+   gatvā madvacasā vācyaḥ sa ca rājā tvayā kratau /	gatvA mad-vacasA vAcyaH sa ca rAjA tvayA kratO /
+   yathā saṃvartakaṃ tyaktvā bhavedyājyo bṛhaspateḥ // Bhmj_14.34 //	yaTA saMvartakam tyaktvA Bavet-yAjyaH bRhaspateH // Bhmd-_14.34 //
+   ityuktaḥ surarājena gatvā vahnirnarādhipam /	iti-uktaH surarAjena gatvA vahniH-narADipam /
+   śakrasaṃdeśamavadanna ca rājābhyamanyata // Bhmj_14.35 //	Sakra-saMdeSam-avadat-na ca rAjA-aByamanyata // Bhmd-_14.35 //
+   tataḥ pratinivṛtto 'tha punargaccheti vajriṇā /	tatas pratinivRttaH aTa punar-gacCa-iti vajriNA /
+   preritaḥ pāvako 'vādītsaṃvartabhayakampitaḥ // Bhmj_14.36 //	preritaH pAvakaH avAdIt-saMvarta-Baya-kampitaH // Bhmd-_14.36 //
+   sa tatra brahmacārī māmūce saṃvartakaḥ krudhā /	sa tatra brahmacArI mAm-Uce saMvartakaH kruDA /
+   tejorāśiḥ śapeyaṃ tvāṃ sameṣyasi punaryadi // Bhmj_14.37 //	tejaH-rASiH Sapeyam tvAm samezyasi punar-yadi // Bhmd-_14.37 //
+   śrutvaitatkātaro 'sīti taṃ jagāda puraṃdaraḥ /	SrutvA-etat-kAtaraH asi-iti tam jagAda puraMdaraH /
+   jvalanaḥ pratyuvācātha taṃ kopahaviṣā jvalan // Bhmj_14.38 //	jvalanaH pratyuvAca-aTa tam kopa-havizA jvalan // Bhmd-_14.38 //
+   aho nu brahmakopāgnirahalyāvallabhasya te /	aho nu brahma-kopa-agniH-ahalyAvallaBasya te /
+   pramādādatha kopādvā mohādvā śakra vismṛtaḥ // Bhmj_14.39 //	pramAdAt-aTa kopAt-vA mohAt-vA Sakra vismRtaH // Bhmd-_14.39 //
+   sa yadā cyavanaḥ kopānmahādaṃṣṭraṃ mahāsuram /	sa yadA cyavanaH kopAt-mahA-daMzwram mahA-asuram /
+   asṛjattvadvadhāyograṃ tadā dhairyaṃ kva te gatam // Bhmj_14.40 //	asRjat-tvad-vaDAya-ugram tadA DEryam kva te gatam // Bhmd-_14.40 //
+   duḥsahā brāhmaṇaruṣo nirdahanti jagatkṣaṇāt /	duHsahAH brAhmaNa-ruzaH nirdahanti jagat-kzaNAt /
+   ukte hutāśaneneti na śaktaḥ kiṃcidabravīt // Bhmj_14.41 //	ukte hutASanena-iti na SaktaH kiMcid-abravIt // Bhmd-_14.41 //
+   visṛṣṭaḥ punarindreṇa gandharvādhipatirnṛpam /	visRzwaH punar-indreNa ganDarva-aDipatiH-nRpam /
+   ūce guruṃ bhajasveti na ca rājā tamagrahīt // Bhmj_14.42 //	Uce gurum Bajasva-iti na ca rAjA tam-agrahIt // Bhmd-_14.42 //
+   tataḥ kruddhaḥ svayaṃ vajrī garjangambhīraniḥsvanaḥ /	tatas krudDaH svayam vajrI garjan-gamBIra-niHsvanaH /
+   yajñāṅganaṃ narapatervyomnā meghairvṛto yayau // Bhmj_14.43 //	yajQa-aFganam narapateH-vyomnA meGEH-vRtaH yayO // Bhmd-_14.43 //
+   prabhāvenātha mahatā saṃvartasyogratejasaḥ /	praBAvena-aTa mahatA saMvartasya-ugra-tejasaH /
+   śatamanyusamutsṛṣṭaṃ vajraṃ meghānsamāviśat // Bhmj_14.44 //	Satamanyu-samutsRzwam vajram meGAn-samAviSat // Bhmd-_14.44 //
+   tanmantraśaktyā vivaśaḥ samāhūto 'tha vṛtrahā /	tad-mantra-SaktyA vivaSaH samAhUtaH aTa vRtrahA /
+   āyayau saha bhāgārhaistridaśaiḥ somapīthibhiḥ // Bhmj_14.45 //	AyayO saha BAga-arhEH-tridaSEH soma-pITiBiH // Bhmd-_14.45 //
+   pūjito 'tha maruttena śāntamanyuḥ śatakratuḥ /	pUjitaH aTa maruttena SAnta-manyuH SatakratuH /
+   yajñakriyāparikare paricaryāparo 'bhavat // Bhmj_14.46 //	yajQa-kriyA-parikare paricaryA-paraH aBavat // Bhmd-_14.46 //
+   tadājñayā surāḥ sarve yajñasaṃbhārakāriṇaḥ /	tad-AjQayA surAH sarve yajQa-saMBAra-kAriNaH /
+   babhūvurbhūmipālasya nideśavaśagāściram // Bhmj_14.47 //	baBUvuH-BUmipAlasya nideSa-vaSa-gAH-ciram // Bhmd-_14.47 //
+   evaṃ tasyendrajayino rājñaḥ saṃvartatejasā /	evam tasya-indra-jayinaH rAjQaH saMvarta-tejasA /
+   nirvighnaḥ pūrṇatāṃ prāpa yajñaḥ kanakavarṣiṇaḥ // Bhmj_14.48 //	nirviGnaH pUrNa-tAm prApa yajQaH kanaka-varziNaH // Bhmd-_14.48 //
+   taccheṣadviṇena tvaṃ hayamedhamahāmakham /	tad-Seza-dviNena tvam hayameDa-mahA-maKam /
+   prayataḥ prāpnuhītyuktāva virarāma munīśvaraḥ // Bhmj_14.49 //	prayataH prApnuhi-iti-uktAva virarAma muni-ISvaraH // Bhmd-_14.49 //
+   ***** saṃvartamaruttīyam || 1 || *****	***** saMvartamaruttIyam || 1 || *****
+   kṛṣṇenāśvārasyamāno 'tha munibhirbhrātṛbhistathā /	kRzNena-ASvArasyamAnaH aTa muniBiH-BrAtRBiH-taTA /
+   aśvamedhadhṛtodyogo dhṛtiṃ lebhe yudhiṣṭhiraḥ // Bhmj_14.50 //	aSvameDa-DRta-udyogaH DRtim leBe yuDizWiraH // Bhmd-_14.50 //
+   draṣṭuṃ tataḥ prajākāryaṃ pravṛtte dharmanandane /	drazwum tatas prajA-kAryam pravRtte Darmanandane /
+   antardadhe tamāmantrya sarvaṃ tanmunimaṇḍalam // Bhmj_14.51 //	antardaDe tam-Amantrya sarvam tat-muni-maNxalam // Bhmd-_14.51 //
+   hemaratnalatākānte vikāsikanakāmbuje /	hema-ratna-latA-kAnte vikAsi-kanaka-ambuje /
+   atha kṛṣṇau sabhodyāne svairaṃ prītyā vijahvatuḥ // Bhmj_14.52 //	aTa kRzNO saBA-udyAne svEram prItyA vijahvatuH // Bhmd-_14.52 //
+   kathānte tatra kaṃsāriṃ subhadrāvallabho 'vadat /	kaTA-ante tatra kaMsArim suBadrA-vallaBaH avadat /
+   yuddhārambhe tvayoktaṃ yatsarvaṃ tanmama vismṛtam // Bhmj_14.53 //	yudDa-AramBe tvayA-uktam yat-sarvam tat-mama vismRtam // Bhmd-_14.53 //
+   visṛṣṭaṃ paramārthajña jñānaṃ tatpunarucyatām /	visRzwam paramArTa-jQa jQAnam tat-punar-ucyatAm /
+   ityuktaḥ pāṇḍuputreṇa viṣaṇṇaḥ keśavo 'bravīt // Bhmj_14.54 //	iti-uktaH pANxu-putreNa vizaNNaH keSavaH abravIt // Bhmd-_14.54 //
+   aho tvayāvadhānena na śrutaṃ tadabuddhinā /	aho tvayA-avaDAnena na Srutam tat-abudDinA /
+   na śakyate punarvaktuṃ tathāpi śrūyatāmidam // Bhmj_14.55 //	na Sakyate punar-vaktum taTA-api SrUyatAm-idam // Bhmd-_14.55 //
+   brāhmaṇena purā kaścijjīvanmuktadaśāṃ śritaḥ /	brAhmaNena purA kaScid-jIvanmukta-daSAm SritaH /
+   siddhaḥ pṛṣṭo 'vadatsarvaṃ vijñāya bhavavibhramam // Bhmj_14.56 //	sidDaH pRzwaH avadat-sarvam vijQAya Bava-viBramam // Bhmd-_14.56 //
+   asminnasatyasaṃghāte bhūtānāṃ pāñcabhautike /	asmin=-asatya-saMGAte BUtAnAm pAQcaBOtike /
+   guṇairnibaddhaḥ pakṣīva jīvastiṣṭhati pañjare // Bhmj_14.57 //	guNEH-nibadDaH pakzI-iva jIvaH-tizWati paQjare // Bhmd-_14.57 //
+   ahaṃkāraikasārāṇāṃ dehināṃ vismṛtātmanām /	ahaMkAra-eka-sArANAm dehinAm vismRta-AtmanAm /
+   cakravatparivartante sukhaduḥkhakṣayodayāḥ // Bhmj_14.58 //	cakra-vat-parivartante suKa-duHKa-kzaya-udayAH // Bhmd-_14.58 //
+   dehānte karmasaṃsargājjantavaḥ śubhaduṣkṛtaiḥ /	dehAnte karma-saMsargAt-jantavaH SuBa-duzkRtEH /
+   tārārūpā vimānāni bhajante narakāṇi vā // Bhmj_14.59 //	tArA-rUpAH vimAnAni Bajante narakANi vA // Bhmd-_14.59 //
+   tato bhogakṣaye garbhaṃ jarāyupariveṣṭitam /	tatas Boga-kzaye garBam jarAyuparivezwitam /
+   śukrarūpo viśatyātmā yonyāṃ śoṇitasaṃplutaḥ // Bhmj_14.60 //	Sukra-rUpaH viSati-AtmA yonyAm SoNita-saMplutaH // Bhmd-_14.60 //
+   niḥśvāsāgrairyathā vāri līyate darpaṇodare /	niHSvAsa-agrEH-yaTA vAri lIyate darpaNa-udare /
+   nirdhūtasya yathā vahnerūṣmā vyomni prasarpati // Bhmj_14.61 //	nirDUtasya yaTA vahneH-UzmA vyomni prasarpati // Bhmd-_14.61 //
+   yathā vā kusumāmodaḥ praviśatyantare 'nile /	yaTA vA kusuma-AmodaH praviSati-antare anile /
+   rāgaḥ saṃkrāntimāyāti sarandhre sphaṭike yathā // Bhmj_14.62 //	rAgaH saMkrAntim-AyAti sa-ranDre sPawike yaTA // Bhmd-_14.62 //
+   tathā durlakṣyasaṃcāro garbhamātmā pradhāvati /	taTA durlakzya-saMcAraH garBam-AtmA praDAvati /
+   bibhrāṇo vāsanāmantaḥ śītasparśamivānilaḥ // Bhmj_14.63 //	biBrANaH vAsanAm-antaH SIta-sparSam-iva-anilaH // Bhmd-_14.63 //
+   jātasya jāyate tasya vardhamānasya vardhate /	jAtasya jAyate tasya varDamAnasya varDate /
+   tṛṣṇātanturbhi(rvi)sasyeva śuṣyato na tu śuṣyati // Bhmj_14.64 //	tRzNA-tanturBi(rvi)sasyA-iva SuzyataH na tu Suzyati // Bhmd-_14.64 //
+   vivekādduḥkhasaṃyogādvairāgyaṃ gāḍhamāśritaḥ /	vivekAt-duHKa-saMyogAt-vErAgyam gAXam-ASritaH /
+   nāhamasasmīti mantreṇa mucyate brahmadīkṣitaḥ // Bhmj_14.65 //	na-aham-asasmi-iti mantreNa mucyate brahma-dIkzitaH // Bhmd-_14.65 //
+   pūrvaṃ bhāveṣu nirvāṇastataḥ kāraṇavṛttiṣu /	pUrvam BAvezu nirvANaH-tatas kAraNa-vRttizu /
+   nirālambadaśāmetya yogī brahmaṇi līyate // Bhmj_14.66 //	nirAlamba-daSAm-etya yogI brahmaNi lIyate // Bhmd-_14.66 //
+   sarvataḥ pāṇicaraṇaṃ sarvavyāpinamavyayam /	sarvatas pANi-caraNam sarva-vyApinam-avyayam /
+   ātmānaṃ sa parijñāya satyāmetāṃ bhavasthitim // Bhmj_14.67 //	AtmAnam sa parijQAya satyAm-etAm Bava-sTitim // Bhmd-_14.67 //
+   ityuktvā brāhmaṇaṃ siddhaḥ sahasāntaradhīyata /	iti-uktvA brAhmaNam sidDaH sahasA-antaraDIyata /
+   idamanyacca kaunteya śreyase prayataḥ śṛṇu // Bhmj_14.68 //	idam-anyat-ca kOnteya Sreyase prayataH SRNu // Bhmd-_14.68 //
+   uvāca brāhmaṇī kācidbhartāraṃ vijane purā /	uvAca brAhmaNI kAcid-BartAram vijane purA /
+   gamiṣyāmi gatiṃ sādhvī kāmahaṃ tvatparāyaṇā // Bhmj_14.69 //	gamizyAmi gatim sADvI kAm-aham tvad-parAyaNAH // Bhmd-_14.69 //
+   iti pṛṣṭastayā viprastāmuvāca smitānanaḥ /	iti pRzwaH-tayA vipraH-tAm-uvAca smita-AnanaH /
+   agnirvaiśvānaro nāma sthito 'ntaḥ kila dehinām // Bhmj_14.70 //	agniH-vESvAnaraH nAma sTitaH antar kila dehinAm // Bhmd-_14.70 //
+   indriyāṇi manobuddhistasya saptārciṣa smṛtāḥ /	indriyANi manaH-budDiH-tasya saptArciza smRtAH /
+   viṣayāścāsya samidho bhoktāraḥ sapta cartvijaḥ /	vizayAH-ca-asya samiDaH BoktAraH sapta ca-RtvijaH /
+   tasminhate sarvamidaṃ jāyate ca punaḥ punaḥ // Bhmj_14.71 //	tasmin-hate sarvam-idam jAyate ca punar punar // Bhmd-_14.71 //
+   indriyāṇīva manaso manasteṣāṃ ca sarvadā /	indriyANi-iva manasaH manaH-tezAm ca sarvadA /
+   parasparopakāreṇa prīyate dehasaṃgame // Bhmj_14.72 //	paraspara-upakAreNa prIyate deha-saMgame // Bhmd-_14.72 //
+   manobuddhiprabhṛtayaḥ saptendriyamṛgāḥ purā /	manaH-budDi-praBRtayaH sapta-indriya-mRgAH purA /
+   atarkeṇaiva nihatā rājñā yogamayaiḥ śaraiḥ // Bhmj_14.73 //	atarkeNa-eva nihatAH rAjQA yoga-mayEH SarEH // Bhmd-_14.73 //
+   jitendriyasya no kiṃcididaṃ tasyaiva cākhilam /	jita-indriyasya no kiMcid-idam tasya-eva ca-aKilam /
+   viṣayā viṣayasyeti janako vipramabhyadāt // Bhmj_14.74 //	vizayA vizayasya-iti janakaH vipram-aByadAt // Bhmd-_14.74 //
+   tasmādasaktamanasā dṛṣṭvā sarvamidaṃ mayā /	tasmAt-asakta-manasA dRzwvA sarvam-idam mayA /
+   tyaktaṃ parāvarajñena bhavāvirbhāvaśāntaye // Bhmj_14.75 //	tyaktam parAvara-jQena Bava-AvirBAva-SAntaye // Bhmd-_14.75 //
+   gatistavāpi kalyāṇi madbhāvasadṛśī sadā /	gatiH-tava-api kalyANi mad-BAva-sadRSI sadA /
+   brahmāraṇīsamudbhūtaṃ jānīhi jñānapāvakam // Bhmj_14.76 //	brahma-araNI-samudBUtam jAnIhi jQAna-pAvakam // Bhmd-_14.76 //
+   etatpatyurvacaḥ śrutvā brāhmaṇī tattvadarśinī /	etat-patyuH-vacaH SrutvA brAhmaNI tattva-darSinI /
+   kṣetrakṣetrajñavijñānaṃ paraṃ prāvīṇyamāyayau // Bhmj_14.77 //	kzetra-kzetrajQa-vijQAnam param prAvINyam-AyayO // Bhmd-_14.77 //
+   śrutvaitadarjunaḥ kṛṣṇaṃ babhāṣe vismayākulaḥ /	SrutvA-etat-arjunaH kRzNam baBAze vismaya-AkulaH /
+   yogīndro brāhmaṇaḥ ko 'sau kvāste vā sā ca tadvadhūḥ // Bhmj_14.78 //	yogi-indraH brAhmaNaH kaH asO kva-Aste vA sA ca tad-vaDUH // Bhmd-_14.78 //
+   ityuktaḥ kaiṭabhārātiḥ punarūce dhanaṃjayam /	iti-uktaH kEwaBArAtiH punar-Uce DanaMjayam /
+   śiṣyeṇa pṛṣṭaḥ sarvajñaḥ purā gururabhāṣata // Bhmj_14.79 //	SizyeNa pRzwaH sarvajQaH purA guruH-aBAzata // Bhmd-_14.79 //
+   bṛhaspatiprabhṛtibhirmunīndraiḥ sarvadarśibhiḥ /	bRhaspati-praBRtiBiH-muni-indrEH sarva-darSiBiH /
+   śruteyaṃ bhavavicchedakathā proktā svayaṃbhuvā // Bhmj_14.80 //	SrutA-iyam Bava-vicCeda-kaTA proktA svayaMBuvA // Bhmd-_14.80 //
+   guṇatrayanibaddhānāṃ karmabhedavikāriṇām /	guNatraya-nibadDAnAm karma-Beda-vikAriNAm /
+   bhāvo 'yaṃ prāṇināṃ śaśvadalpo 'pyāyātyanalpatām // Bhmj_14.81 //	BAvaH ayam prANinAm SaSvat-alpaH api-AyAti-analpa-tAm // Bhmd-_14.81 //
+   vicitraḥ kila sargo 'yamahaṃkārādvinirgataḥ /	vicitraH kila sargaH ayam-ahaMkArAt-vinirgataH /
+   tasminneva layaṃ yāti śvabhre puṣpacayo yathā // Bhmj_14.82 //	tasmin=-eva layam yAti SvaBre puzpa-cayaH yaTA // Bhmd-_14.82 //
+   janmāntaraśatābhyāsādantaraṅgatvamāgataḥ /	janma-antara-Sata-aByAsAt-antaraFga-tvam-AgataH /
+   ahaṃkāraḥ sa manaso līlayā kena bhedyate // Bhmj_14.83 //	ahaMkAraH sa manasaH lIlayA kena Bedyate // Bhmd-_14.83 //
+   avidyā tānavenaiva śanaiḥ saṃnyastakarmaṇaḥ /	avidyA tAnavena-eva SanEs saMnyasta-karmaNaH /
+   vikalpadvaṃdvaviratau jñānālokaḥ prajāyate // Bhmj_14.84 //	vikalpa-dvaMdva-viratO jQAna-AlokaH prajAyate // Bhmd-_14.84 //
+   jñānāgninā pravṛddhena dagdhvā bhavaviṣadrumam /	jQAna-agninA pravRdDena dagDvA Bava-viza-drumam /
+   sarvagranthivinirmuktaḥ paramāmṛtamaśnute // Bhmj_14.85 //	sarva-granTi-vinirmuktaH parama-amRtam-aSnute // Bhmd-_14.85 //
+   iti brahmoditaṃ jñānaṃ śiṣyāya guruṇā purā /	iti brahma-uditam jQAnam SizyAya guruNA purA /
+   nānānidarśanopetaṃ kathitaṃ bhavaśāntaye // Bhmj_14.86 //	nAnA-nidarSana-upetam kaTitam Bava-SAntaye // Bhmd-_14.86 //
+   ahameva guruḥ pārtha śiṣyaśca tvaṃ samo mama /	aham-eva guruH pArTa SizyaH-ca tvam samaH mama /
+   ityuktvā jñānasarvasvaṃ virarāma janārdanaḥ // Bhmj_14.87 //	iti-uktvA jQAna-sarvasvam virarAma janArdanaH // Bhmd-_14.87 //
+   ***** anugītāḥ || 2 || *****	***** anugItAH || 2 || *****
+   tato vihṛtya suciraṃ prītyā kṛṣṇaḥ kirīṭinā /	tatas vihRtya su-ciram prItyA kRzNaH kirIwinA /
+   dvārakāgamane cakre matiṃ bandhujanotsukaḥ // Bhmj_14.88 //	dvArakA-gamane cakre matim banDu-jana-utsukaH // Bhmd-_14.88 //
+   sa gatvā nṛpamāmantrya dhṛtarāṣṭraṃ ca sānugam /	sa gatvA nRpam-Amantrya DRtarAzwram ca sa-anugam /
+   āśvāsya kṛṣṇāṃ kuntīṃ ca praṇamyādāya cānujām // Bhmj_14.89 //	ASvAsya kRzNAm kuntIm ca praNamya-AdAya ca-anujAm // Bhmd-_14.89 //
+   aśvamedhe sameṣyāmi punaḥ kṛtveti saṃvidam /	aSvameDe samezyAmi punar kRtvA-iti saMvidam /
+   dārukapreritarathaḥ pratasthe garuḍadhvajaḥ // Bhmj_14.90 //	dAruka-prerita-raTaH pratasTe garuxaDvajaH // Bhmd-_14.90 //
+   sa vrajansātyakisakhastejorañjitadiṅmukhaḥ /	sa vrajan-sAtyaki-saKaH-tejaH-raQjita-diFmuKaH /
+   uttaṅkaṃ tapasāṃ rāśimāluloke muniḥ pathi // Bhmj_14.91 //	uttaFkam tapasAm rASi-mAlu-loke muniH paTi // Bhmd-_14.91 //
+   taṃ dṛṣṭvā sādaraṃ śauriḥ praṇamya racitāñjaliḥ /	tam dRzwvA sa-Adaram SOriH praNamya racita-aQjaliH /
+   kuśalaṃ vītavairāṇāṃ papracchāśramavāsinām // Bhmj_14.92 //	kuSalam vIta-vErANAm papracCa-ASrama-vAsinAm // Bhmd-_14.92 //
+   uttaṅko 'pi hariṃ dṛṣṭvā prītipūrvamanāmayam /	uttaFkaH api harim dRzwvA prIti-pUrvam-anAmayam /
+   ūce kaccittvayā sāmnā rakṣitaṃ bhārataṃ kulam // Bhmj_14.93 //	Uce kaccit-tvayA sAmnA rakzitam BAratam kulam // Bhmd-_14.93 //
+   kaccidduryodhano rājā dharmaputraśca sānugau /	kaccit-duryoDanaH rAjA DarmaputraH-ca sa-anugO /
+   sthitau vigatasaṃgharṣau tvadbuddhyā paitrike pade // Bhmj_14.94 //	sTitO vigata-saMGarzO tvad-budDyA pEtrike pade // Bhmd-_14.94 //
+   ityuttaṅkena govindaḥ pṛṣṭastaṃ pratyabhāṣata /	iti-uttaFkena govindaH pRzwaH-tam pratyaBAzata /
+   bhāratānāṃ mune yatnaḥ paraḥ saṃdhau kṛto mayā // Bhmj_14.95 //	BAratAnAm mune yatnaH paraH saMDO kRtaH mayA // Bhmd-_14.95 //
+   hitamukto 'pi bahuśaḥ kauravo vidurādibhiḥ /	hita-muktaH api bahuSas kOravaH vidura-AdiBiH /
+   na jagrāha kṛtāntena daivena ca vimohitaḥ // Bhmj_14.96 //	na jagrAha kRtAntena dEvena ca vimohitaH // Bhmd-_14.96 //
+   nirbandhātkururājasya rādheyamunivartinaḥ /	nirbanDAt-kururAjasya rADeya-muni-vartinaH /
+   nihatāḥ pārthivāḥ sarve śeṣāḥ pañcaiva pāṇḍavāḥ // Bhmj_14.97 //	nihatAH pArTivAH sarve SezAH paQca-eva pANxavAH // Bhmd-_14.97 //
+   etcchrutvā muniḥ kopājjvalitānalasaṃnibhaḥ /	ett-SrutvA muniH kopAt-jvalita-anala-saMniBaH /
+   tamūce vakramanasā te tvayaiva nipātitāḥ // Bhmj_14.98 //	tam-Uce vakra-manasA te tvayA-eva nipAtitAH // Bhmd-_14.98 //
+   śaktenāpi tvayā kṛṣṇa yasmātpārthahitaiṣiṇā /	Saktena-api tvayA kRzNa yasmAt-pArTa-hita-eziNA /
+   upekṣitaḥ kṣayo ghorastasmācchāpaṃ dadāni te // Bhmj_14.99 //	upekzitaH kzayaH GoraH-tasmAt-SApam dadAni te // Bhmd-_14.99 //
+   uttaṅkenetyabhihite babhāṣe kaiṭabhāntakaḥ /	uttaFkena-iti-aBihite baBAze kEwaBa-antakaH /
+   jānāmi tejasāṃ rāśiṃ tvāmuttaṅka taponidhim // Bhmj_14.100 //	jAnAmi tejasAm rASim tvAm-uttaFka tapaH-niDim // Bhmd-_14.100 //
+   kiṃtu nārhasi kopena tīvraṃ kartuṃ tapovyayam /	kiMtu na-arhasi kopena tIvram kartum tapaH-vyayam /
+   tamo hi duḥsahaṃ ghoraṃ krodho mṛtyuḥ śarīriṇām // Bhmj_14.101 //	tamaH hi duHsaham Goram kroDaH mRtyuH SarIriNAm // Bhmd-_14.101 //
+   nādyāpi naṣṭamoho 'si nanu nādyāpi paśyasi /	na-adya-api nazwa-mohaH asi nanu na-adya-api paSyasi /
+   kiṃ na jānāsi māṃ sarvaṃ sarvavyāpinamavyayam // Bhmj_14.102 //	kim na jAnAsi mAm sarvam sarva-vyApinam-avyayam // Bhmd-_14.102 //
+   sarvadevamayaḥ kartā viśvātmā jagatāmaham /	sarva-deva-mayaH kartA viSvAtmA jagatAm-aham /
+   ityukte puṣkarākṣeṇa śāntakopo 'bravīnmuniḥ // Bhmj_14.103 //	iti-ukte puzkarAkzeNa SAnta-kopaH abravIt-muniH // Bhmd-_14.103 //
+   jāne tvāṃ kiṃ tu taddivyaṃ draṣṭumicchāmi te vapuḥ /	jAne tvAm kim tu tat-divyam drazwum-icCAmi te vapuH /
+   ityarthito munīndreṇa viśvāviṣkāralīlayā // Bhmj_14.104 //	iti-arTitaH muni-indreNa viSva-AvizkAra-lIlayA // Bhmd-_14.104 //
+   śaktiprakāśaparipūritasaṃvidagre rekhāsphuraddruhiṇarudramahendracandram /	Sakti-prakASa-paripUrita-saMvid-agre reKA-sPurat-druhiNa-rudra-mahA-indra-candram /
+   dhāmatrayottaramanaśvaramaiśvaraṃ ta ddṛṣṭvā vapurmunivaro	DAma-traya-uttaram-anaSvaram-ESvaram te ddRzwvA vapuH-muni-varaH-
+   'bhavadastamohaḥ // Bhmj_14.105 //	aBavat-asta-mohaH // Bhmd-_14.105 //
+   tataḥ stotrairuttaṅkena viṣṇurbhaktyā namaskṛtaḥ /	tatas stotrEH-uttaFkena vizNuH-BaktyA namaskRtaH /
+   tadgirā svavapuḥ saumyaṃ tadeva punarādade // Bhmj_14.106 //	tad-girA sva-vapuH sOmyam tat-eva punar-Adade // Bhmd-_14.106 //
+   saṃnidhi te vidhāsyāmi sarvataḥ smaraṇānmune /	saMniDi te viDAsyAmi sarvatas smaraNAt-mune /
+   ityuktvā taṃ samāmantrya prāyādgaruḍaketanaḥ // Bhmj_14.107 //	iti-uktvA tam samAmantrya prAyAt-garuxa-ketanaH // Bhmd-_14.107 //
+   tataḥ kadācitsa munirjalārthī marudhanvasu /	tatas kadAcid-sa muniH-jala-arTI maru-Danvasu /
+   carandadarśa caṇḍālaṃ dhanuṣpāṇiṃ jalapradam // Bhmj_14.108 //	caran-dadarSa caNxAlam DanuzpANim jala-pradam // Bhmd-_14.108 //
+   gṛhāṇetyasakṛttena prārthito 'pi muniryadā /	gRhANa-iti-asakRt-tena prArTitaH api muniH-yadA /
+   na jagrāhāśuci jalamuttaṅko 'ntardadhe tadā // Bhmj_14.109 //	na jagrAha-aSuci jalam-uttaFkaH antardaDe tadA // Bhmd-_14.109 //
+   tataḥ sametya bhagavānsvayaṃ viṣṇustamabravīt /	tatas sametya BagavAn-svayam vizNuH-tam-abravIt /
+   mune madvacasā śakraḥ sudhāṃ tvāṃ dātumāyayau // Bhmj_14.110 //	mune mad-vacasA SakraH suDAm tvAm dAtum-AyayO // Bhmd-_14.110 //
+   jalado na sa cāṇḍālo mithyā śaṅkā tavābhavat /	jaladaH na sa cANxAlaH miTyA SaFkA tava-aBavat /
+   pratyākhyātaḥ sa yanmohānna tadyuktaṃ tvayā kṛtam // Bhmj_14.111 //	pratyAKyAtaH sa yat-mohAt-na tat-yuktam tvayA kRtam // Bhmd-_14.111 //
+   adhunā madvarātte 'stu sāmṛtairjalanirjharaiḥ /	aDunA mad-varAt-te astu sa-amRtEH-jala-nirJarEH /
+   pūriteyaṃ marumahī nigadyeti yayau hariḥ // Bhmj_14.112 //	pUritA-iyam maru-mahI nigadya-iti yayO hariH // Bhmd-_14.112 //
+   evaṃ mahāprabhāvo 'sāvuttaṅko yaśasāṃ nidhiḥ /	evam mahA-praBAvaH asO=-uttaFkaH yaSasAm niDiH /
+   durlabhaṃ darśanaṃ viṣṇoḥ sānugrahamavāptavān // Bhmj_14.113 //	durlaBam darSanam vizNoH sa-anugraham-avAptavAn // Bhmd-_14.113 //
+   āsādya paramaṃ jñānaṃ yaḥ purā gurusevayā /	AsAdya paramam jQAnam yaH purA guru-sevayA /
+   taddakṣiṇārthī prayayau rājñaḥ pauṣasya mandiram // Bhmj_14.114 //	tad-dakziNA-arTI prayayO rAjQaH pOzasya mandiram // Bhmd-_14.114 //
+   kuṇḍale prāpya rucire vitīrṇe pauṣabhāryayā /	kuNxale prApya rucire vitIrNe pOza-BAryayA /
+   hṛte ca dṛṣṭvā nāśena jīviteśarasātalam // Bhmj_14.115 //	hRte ca dRzwvA nASena jIvita-ISa-rasAtalam // Bhmd-_14.115 //
+   jitvā nāgānsamāsādya te purā ratnakuṇḍale /	jitvA nAgAn-samAsAdya te purA ratna-kuNxale /
+   yo dadau gurubhāryāyai kṛtakṛtyo babhūva ca // Bhmj_14.116 //	yaH dadO guru-BAryAyE kRtakRtyaH baBUva ca // Bhmd-_14.116 //
+   ***** uttaṅkaviśvarūpadarśanam || 3 || *****	***** uttaFka-viSva-rUpa-darSanam || 3 || *****
+   yāte dvāravatīṃ kṛṣṇe yādavānandadāyini /	yAte dvAravatIm kRzNe yAdava-Ananda-dAyini /
+   yudhiṣṭhiraḥ sahāmātyo yajñakāryamacintayat // Bhmj_14.117 //	yuDizWiraH saha-amAtyaH yajQa-kAryam-acintayat // Bhmd-_14.117 //
+   sa gatvā sānujaḥ śailaṃ śrīkaṇṭhadayitaṃ śanaiḥ /	sa gatvA sa-anujaH SElam SrIkaNWa-dayitam SanEs /
+   ārādhya tapasā rudraṃ devadevaṃ pinākinam // Bhmj_14.118 //	ArADya tapasA rudram devadevam pinAkinam // Bhmd-_14.118 //
+   upahāreṇa vidhinā muhūrte śubhaśaṃsini /	upahAreNa viDinA muhUrte SuBa-SaMsini /
+   abhyarcya guhyakādhīśaṃ maṇibhadraṃ ca sānugam // Bhmj_14.119 //	aByarcya guhyaka-aDISam maNiBadram ca sa-anugam // Bhmd-_14.119 //
+   munibhistarpite vahnau dhaumyena ca purodhasā /	muniBiH-tarpite vahnO DOmyena ca puroDasA /
+   lebhe pāṇaḍusutaḥ śrīmānmaruttanihitaṃ nidhim // Bhmj_14.120 //	leBe pANaxu-sutaH SrImAn-marutta-nihitam niDim // Bhmd-_14.120 //
+   pṛthupramāṇarūpāṇi bhāsvanti vividhāni ca /	pRTu-pramANa-rUpANi BAsvanti viviDAni ca /
+   hemabhāṇḍasahasrāṇi ratnabhāraśatāni ca // Bhmj_14.121 //	hema-BANxa-sahasrANi ratna-BAra-SatAni ca // Bhmd-_14.121 //
+   uṣṭrāṇāṃ śakaṭānāṃ ca hayānāṃ kariṇāṃ tathā /	uzwrANAm SakawAnAm ca hayAnAm kariNAm taTA /
+   daśalakṣāṇi tadvittamanayaddhastināpuram // Bhmj_14.122 //	daSa-lakzANi tat-vittam-anayat-hastinApuram // Bhmd-_14.122 //
+   mahiṣāṇāṃ svarāṇāṃ ca puruṣāṇāṃ gavāṃ tathā /	mahizANAm svarANAm ca puruzANAm gavAm taTA /
+   na babhūva tadā saṃkhyā vahatāṃ bhūri kāñcanam // Bhmj_14.123 //	na baBUva tadA saMKyA vahatAm BUri kAQcanam // Bhmd-_14.123 //
+   akṣayyaṃ kośamādāya prāpte 'tha svapuraṃ nṛpe /	akzayyam koSam-AdAya prApte aTa sva-puram nRpe /
+   sahito vṛṣṇibhiḥ sarvairāyayau madhusūdanaḥ // Bhmj_14.124 //	sahitaH vRzNiBiH sarvEH-AyayO maDusUdanaH // Bhmd-_14.124 //
+   etasminneva samaye saubhadramahiṣī sutam /	etasmin=-eva samaye sOBadra-mahizI sutam /
+   droṇaputrāstranirdagdhamasūta gatajīvitam // Bhmj_14.125 //	droNaputra-astra-nirdagDam-asUta gata-jIvitam // Bhmd-_14.125 //
+   uttarāyāḥ suto jātaḥ strīṇāmityutsavasvanaḥ /	uttarAyAH sutaH jAtaH strINAm-iti-utsava-svanaH /
+   vyasurvyasuścetyabhavatsa eva rodanadhvaniḥ // Bhmj_14.126 //	vyasuH-vyasuH-ca-iti-aBavat-saH eva rodana-DvaniH // Bhmd-_14.126 //
+   bālapravālakalikākomalāvayave śiśau /	bAla-pravAla-kalikA-komala-avayave SiSO /
+   jāte nirjīvite śokānmumoha jananījanaḥ // Bhmj_14.127 //	jAte nirjIvite SokAn-mumoha jananI-janaH // Bhmd-_14.127 //
+   tataḥ kuntī subhadrā ca sametya karuṇānidhim /	tatas kuntI suBadrA ca sametya karuNA-niDim /
+   bāṣpasaṃdigdhayā vācā rukmiṇīpatimūcatuḥ // Bhmj_14.128 //	bAzpa-saMdigDayA vAcA rukmiNI-patim-UcatuH // Bhmd-_14.128 //
+   svasreyasya yaśomūrterabhimanyoḥ priyasya te /	svasreyasya yaSaH-mUrteH-aBimanyoH priyasya te /
+   bālasya bālastanayo jāto 'dya gatajīvanaḥ // Bhmj_14.129 //	bAlasya bAlaH-tanayaH jAtaH adya gata-jIvanaH // Bhmd-_14.129 //
+   karuṇārdre niśamyaitadbhagavānbhūtabhāvanaḥ /	karuNA-Ardre niSamya-etat-BagavAn-BUta-BAvanaH /
+   viveśa sūtikāveśma śauriḥ kalaśabhūṣitam // Bhmj_14.130 //	viveSa sUtikA-veSma SOriH kalaSa-BUzitam // Bhmd-_14.130 //
+   ratnadīptāṃśukapiśaṃ dīptauṣadhiśatācitam /	ratna-dIpta-aMSu-kapiSam dIpta-ozaDi-Sata-Acitam /
+   mantrairbhiṣagbhiḥ śikhinā śastrairastraiśca rakṣitam // Bhmj_14.131 //	mantrEH-BizagBiH SiKinA SastrEH-astrEH-ca rakzitam // Bhmd-_14.131 //
+   athottarā prāpya saṃjñāṃ śītavāribhirukṣitā /	aTa-uttarA prApya saMjQAm SIta-vAriBiH-ukzitA /
+   tamaṅke śiśumādāya vilalāpa hareḥ puraḥ // Bhmj_14.132 //	tam-aFke SiSum-AdAya vilalApa hareH puras // Bhmd-_14.132 //
+   tato jaladagambhīraghoṣaḥ śaurirabhāṣata /	tatas jalada-gamBIra-GozaH SOriH-aBAzata /
+   dṛśā pīyūṣavarṣiṇyā vilokya śanakaiḥ śiśum // Bhmj_14.133 //	dRSA pIyUza-varziNyAH vilokya SanakEs SiSum // Bhmd-_14.133 //
+   satyāddvijebhyo dharmācca yathā nānyatpriyaṃ mama /	satyAt-dvijeByaH DarmAt-ca yaTA na-anyat-priyam mama /
+   tena satyena bālo 'yamastramukto 'dya jīvatu // Bhmj_14.134 //	tena satyena bAlaH ayam-astra-muktaH adya jIvatu // Bhmd-_14.134 //
+   mādhavenetyabhihite labdhajīvaḥ sa bālakaḥ /	mADavena-iti-aBihite labDajIvaH sa bAlakaH /
+   sūryāṃśubhiriva spṛṣṭo babhūvāmbujakorakaḥ // Bhmj_14.135 //	sUrya-aMSuBiH-iva spRzwaH baBUva-ambuja-korakaH // Bhmd-_14.135 //
+   tataḥ pravṛtte vipule sahasā nagarotsave /	tatas pravRtte vipule sahasA nagara-utsave /
+   nabhaścarāṇāmapyāsītyasādhu sādhviti niḥsvanaḥ // Bhmj_14.136 //	naBaScarANAm-api-Asi-iti-asADu sADu-iti niHsvanaH // Bhmd-_14.136 //
+   parikṣīṇe kurulaye yasmājjāto 'yamarbhakaḥ /	parikzINe kuru-laye yasmAt-jAtaH ayam-arBakaH /
+   tasmātparīkṣinnāmnāstu jagādetyatha keśavaḥ // Bhmj_14.137 //	tasmAt-parIkzit-nAmnA-astu jagAda-iti-aTa keSavaH // Bhmd-_14.137 //
+   ***** pirakṣijjanma || 4 || *****	***** pirakzit-janma || 4 || *****
+   vyāsājñayā tato rājño yajñayogyo mahādhanaḥ /	vyAsa-AjQayA tatas rAjQaH yajQa-yogyaH mahADanaH /
+   prāvartatoruratnāḍhyaḥ saṃbhāro bahukautukaḥ // Bhmj_14.138 //	prAvartata-uru-ratna-AXyaH saMBAraH bahu-kOtukaH // Bhmd-_14.138 //
+   athotsṛjya vidhānena kṛṣṇaśāraṃ turaṅgamam /	aTa-utsRjya viDAnena kRzNa-SAram turaFgamam /
+   rakṣitaṃ pāṇḍuputreṇa svayaṃ gāṇḍīvadhanvanā // Bhmj_14.139 //	rakzitam pANxu-putreNa svayam gANxIvaDanvanA // Bhmd-_14.139 //
+   babhūva caitraśuklānte dīkṣito dharmanandanaḥ /	baBUva cEtra-Sukla-ante dIkzitaH DarmanandanaH /
+   hemamālādharo daṇḍī muṇḍaḥ kṛṣṇājināvṛtaḥ // Bhmj_14.140 //	hema-mAlA-DaraH daNxI muNxaH kRzNa-ajina-AvRtaH // Bhmd-_14.140 //
+   tatastrigartaviṣayaṃ prāpte yajñaturaṅgame /	tatas-trigarta-vizayam prApte yajQa-turaFgame /
+   rājaputrairabhūdyuddhaṃ tumulaṃ savyasācinaḥ // Bhmj_14.141 //	rAja-putrEH-aBUt-yudDam tumulam savyasAcinaH // Bhmd-_14.141 //
+   yudhiṣṭhirājñā tasyābhūnna hantavyā nṛpā iti /	yuDizWira-AjQA tasya-aBUt-na hantavyAH nRpAH iti /
+   tāṃ smarannāvadhīdbhūpānsa vijigye tu kevalam // Bhmj_14.142 //	tAm smaranna-avaDIt-BUpAn-sa vijigye tu kevalam // Bhmd-_14.142 //
+   prāgjyotiṣeśvaraṃ vīraṃ bhagadattātmajaṃ yudhi /	prAgjyotiza-ISvaram vIram Bagadatta-Atmajam yuDi /
+   tribhirdinairvajradattaṃ jitvā kuñjarayodhinm // Bhmj_14.143 //	triBiH-dinEH-vajradattam jitvA kuQjara-yoDinm // Bhmd-_14.143 //
+   saindhavairakarodyuddhaṃ suciraṃ krūrayodhibhiḥ /	sEnDavEH-akarot-yudDam su-ciram krUra-yoDiBiH /
+   pādacārī raṇe pārtho rathakuñjaravartibhiḥ // Bhmj_14.144 //	pAda-cArI raNe pArTaH raTa-kuQjara-vartiBiH // Bhmd-_14.144 //
+   pautraṃ jayadrathasyātha śiśumādāya duḥśalā /	pOtram jayadraTasya-aTa SiSum-AdAya duHSalAH /
+   savyasācinamāsādya babhāṣe sāśrulocanā // Bhmj_14.145 //	savyasAcinam-AsAdya baBAze sa-aSru-locanA // Bhmd-_14.145 //
+   bhrātastvayi samāyāte tvannāmaiva niśamya me /	BrAtar-tvayi samAyAte tvad-nAma-eva niSamya me /
+   putro jāyadrathiryātaḥ pañcatāṃ sphaṭitāśayaḥ // Bhmj_14.146 //	putraH jAyadraTiH-yAtaH paQcatAm sPawita-ASayaH // Bhmd-_14.146 //
+   tatsuto mama pautro 'yaṃ svasrayatanayastava /	tad-sutaH mama pOtraH ayam sva-srayata-nayaH-tava /
+   rakṣyaḥ sarvātmanetyuktvā ruroda dhṛtarāṣṭrajā // Bhmj_14.147 //	rakzyaH sarva-AtmanA-iti-uktvA ruroda DRtarAzwra-jAH // Bhmd-_14.147 //
+   viṣaṇṇāstāṃ samāśvāsya pārtho bāṣpārdralocanaḥ /	vizaNNAH-tAm samASvAsya pArTaH bAzpa-Ardra-locanaH /
+   nindannijāṃ kṣattrajātiṃ jagāma turagānugaḥ // Bhmj_14.148 //	nindat-nijAm kzattra-jAtim jagAma turaga-anugaH // Bhmd-_14.148 //
+   śvetāśvamaśvagoptāraṃ maṇipūrapuraṃ tataḥ /	Sveta-aSvam-aSva-goptAram maNipUra-puram tatas /
+   prāptaṃ pratyudyayau rājā tatputro babhruvāhanaḥ // Bhmj_14.149 //	prAptam pratyudyayO rAjA tad-putraH baBruvAhanaH // Bhmd-_14.149 //
+   pūjāmādāya tanayaṃ namraṃ dṛṣṭvā puraḥ sthitam /	pUjAm-AdAya tanayam namram dRzwvA puras sTitam /
+   yuddhārthī śakratanayo nābhyanandatkṛtāñjalim // Bhmj_14.150 //	yudDa-arTI Sakra-tanayaH na-aByanandat-kRta-aQjalim // Bhmd-_14.150 //
+   dṛṣṭvā māṃ sāyudhaṃ prāptaṃ sāmnā pratyudyato 'si kim /	dRzwvA mAm sa-AyuDam prAptam sAmnA pratyudyataH asi kim /
+   dhiktvāmakṣattriyaṃ bhīrumityūce taṃ dhanaṃjayaḥ // Bhmj_14.151 //	Dik-tvAm-akzattriyam BIrum-iti-Uce tam DanaMjayaH // Bhmd-_14.151 //
+   atrāntare mahīṃ bhittvā samutthāyoragāṅganā /	atra-antare mahIm BittvA samutTAya-uraga-aFganA /
+   bhartuḥ pāṇḍusutasyāgre babhāṣe babhruvāhanam // Bhmj_14.152 //	BartuH pANxu-sutasya-agre baBAze baBruvAhanam // Bhmd-_14.152 //
+   yuddhena tuṣyati pitā tavāyaṃ subhaṭapriyaḥ /	yudDena tuzyati pitA tava-ayam su-Bawa-priyaH /
+   vīrasaṃtānasaphalā śauryaśrīrabhimāninām // Bhmj_14.153 //	vIra-saMtAna-saPalA SOrya-SrIH-aBimAninAm // Bhmd-_14.153 //
+   ityuktaḥ sa tayā dhanvī rathaṃ hemaharidhvajam /	iti-uktaH sa tayA DanvI raTam hema-hari-Dvajam /
+   āruhyāmuktakavacaḥ pitaraṃ yoddhumāyayau // Bhmj_14.154 //	Aruhya-Amukta-kavacaH pitaram yodDum-AyayO // Bhmd-_14.154 //
+   tataḥ śaraśatairviddhastena śrānto dhanaṃjayaḥ /	tatas Sara-SatEH-vidDaH-tena SrAntaH DanaMjayaH /
+   ānandanirbharastasya praśaśaṃsa parākramam // Bhmj_14.155 //	Ananda-nirBaraH-tasya praSaSaMsa parAkramam // Bhmd-_14.155 //
+   gāṇḍīvadhanvanā muktānnārācānvajragauravān /	gANxIvaDanvanA muktAn-nArAcAn-vajra-gOravAn /
+   aprāptāneva ciccheda śaraiścitrāṅgadāsutaḥ // Bhmj_14.156 //	aprAptAn-eva cicCeda SarEH-citrAFgadA-sutaH // Bhmd-_14.156 //
+   athonmamātha putrasya syandanaṃ śakranandanaḥ /	aTa-unmamATa putrasya syandanam SakranandanaH /
+   hemapattralatācitramudyānamiva mārutaḥ // Bhmj_14.157 //	hema-pattra-latA-citram-udyAnam-iva mArutaH // Bhmd-_14.157 //
+   vilokya virathaṃ putraṃ yudhyamānamasaṃbhramam /	vilokya viraTam putram yuDyamAnam-asaMBramam /
+   mandaprayatnaśithilānprāhiṇodvijayaḥ śarān // Bhmj_14.158 //	manda-prayatna-SiTilAn-prAhiNot-vijayaH SarAn // Bhmd-_14.158 //
+   atha tīkṣṇena hṛdaye pattriṇā babhruvāhanaḥ /	aTa tIkzNena hRdaye pattriNA baBruvAhanaH /
+   vajreṇevācalabhidā jaghāna śvetavāhanam // Bhmj_14.159 //	vajreNa-iva-acala-BidA jaGAna SvetavAhanam // Bhmd-_14.159 //
+   avadhye sarvabhūtānāṃ putreṇa nihater'june /	avaDye sarva-BUtAnAm putreNa nihater-ajune /
+   nādo babhūva gagane hā heti tridivaukasām // Bhmj_14.160 //	nAdaH baBUva gagane hA hA-iti tridivOkasAm // Bhmd-_14.160 //
+   pitaraṃ patitaṃ dṛṣṭvā śakraketumiva kṣitau /	pitaram patitam dRzwvA Sakra-ketum-iva kzitO /
+   mumoha nindannātmānaṃ tyaktacāpor'junātmajaḥ // Bhmj_14.161 //	mumoha nindan=-AtmAnam tyakta-cApoH-ajuna-AtmajaH // Bhmd-_14.161 //
+   atha citrāṅgadābhyetya putreṇa nihataṃ patim /	aTa citrAFgadA-aByetya putreNa nihatam patim /
+   vilokya śokasaṃpannā vilalāpa sumadhyamā // Bhmj_14.162 //	vilokya Soka-saMpannA vilalApa sumaDyamA // Bhmd-_14.162 //
+   aho bata cirādetya jāyāyā mama mandiram /	aho bata cirAt-etya jAyAyAH mama mandiram /
+   āryaputra tvayātithyaṃ prāptaṃ putrādbalīyasaḥ // Bhmj_14.163 //	Arya-putra tvayA-AtiTyam prAptam putrAt-balIyasaH // Bhmd-_14.163 //
+   aho nu hatabhāgyāhaṃ ciraviproṣitaṃ patim /	aho nu hata-BAgyA-aham cira-viprozitam patim /
+   tvāṃ prāptaṃ nayanānandaṃ paśyāmi nihataṃ kṣitau // Bhmj_14.164 //	tvAm prAptam nayana-Anandam paSyAmi nihatam kzitO // Bhmd-_14.164 //
+   ityuktvā gāḍhamāliṅgya sā patiṃ bāṣpagadgadā /	iti-uktvA gAXam-AliFgya sA patim bAzpa-gadgadA /
+   ulūpī nāgatanayā bhuvi citrāṅgadāpatat // Bhmj_14.165 //	ulUpI nAga-tanayA Buvi citrAFgadA-apatat // Bhmd-_14.165 //
+   labdhasaṃjño 'tha śokārtaḥ pralapanbabhruvāhanaḥ /	labDa-saMjQaH aTa Soka-ArtaH pralapan-baBruvAhanaH /
+   śarīratyāganiyamaṃ cakre kilbiṣakūṇitaḥ // Bhmj_14.166 //	SarIra-tyAga-niyamam cakre kilbiza-kUNitaH // Bhmd-_14.166 //
+   tataḥ pradadhyau manasā nāgī saṃjīvanaṃ maṇim /	tatas pradaDyO manasA nAgI saMjIvanam maNim /
+   sa ca dhyātastayā satyā nāgalokātsamāyayau // Bhmj_14.167 //	sa ca DyAtaH-tayA satyA nAga-lokAt-samAyayO // Bhmd-_14.167 //
+   spṛṣṭo 'tha hṛdaye tena jīvitaṃ prāpya phalguṇaḥ /	spRzwaH aTa hRdaye tena jIvitam prApya PalguNaH /
+   citrāṅgadā ca sahasā śokaṃ tyaktvā hriyaṃ yayau // Bhmj_14.168 //	citrAFgadA ca sahasA Sokam tyaktvA hriyam yayO // Bhmd-_14.168 //
+   tato nivedya vṛttāntaṃ jagāda bhujagātmajā /	tatas nivedya vRttAntam jagAda Bujaga-AtmajA /
+   ulūpī dhairyaladhiṃ suptotthicamivārjunam // Bhmj_14.169 //	ulUpI DErya-laDim supta-utTicam-iva-arjunam // Bhmd-_14.169 //
+   śāpo bhīṣmavadhādeṣa dattaste vasubhiḥ purā /	SApaH BIzma-vaDAt-eza dattaH-te vasuBiH purA /
+   ko 'nyathā tvāṃ raṇe śakto jetuṃ nirjitadhūrjaṭim // Bhmj_14.170 //	kaH anyaTA tvAm raNe SaktaH jetum nirjita-DUrjawim // Bhmd-_14.170 //
+   matpitā mayi vātsalyācchāpitā vasavaśca te /	mad-pitA mayi vAtsalyAt-SApitAH vasavaH-ca te /
+   ūcustvacchāpanirvāṇaṃ ratnametanmahāprabham // Bhmj_14.171 //	UcuH-tvad-SApa-nirvANam ratnam-etat-mahA-praBam // Bhmd-_14.171 //
+   śrutvaitadvismitaḥ pārtho nāgīṃ citrāṅgadāṃ tathā /	SrutvA-etat-vismitaH pArTaH nAgIm citrAFgadAm taTA /
+   parisāntvya śanaiḥ pūjāṃ jagrāha tanayārpitām // Bhmj_14.172 //	parisAntvya SanEs pUjAm jagrAha tanaya-arpitAm // Bhmd-_14.172 //
+   tatastaṃ dayitaṃ vīraḥ putramāmantrya pāṇḍavaḥ /	tatas-tam dayitam vIraH putram-Amantrya pANxavaH /
+   hayānusārī babhrāma vasudhāmabdhimekhalām // Bhmj_14.173 //	haya-anusArI baBrAma vasuDAm-abDi-meKalAm // Bhmd-_14.173 //
+   sa jitvā magadhādhīśaṃ jarāsaṃdhātmajātmajam /	sa jitvA magaDa-aDISam jarAsaMDa-Atmaja-Atmajam /
+   vaṅgānpuṇḍrānkirātāṃśca dākṣiṇātyānsamāgadhān // Bhmj_14.174 //	vaFgAn-puNxrAn-kirAtAn=-ca dAkziNAtyAn-sa-mAgaDAn // Bhmd-_14.174 //
+   gāndhārānsaubalasutānrājaputrānprahāriṇaḥ /	gAnDArAn-sObala-sutAn-rAja-putrAn-prahAriNaH /
+   āgantavyaṃ makhe rājñaḥ sarvairityādideśa tān // Bhmj_14.175 //	Agantavyam maKe rAjQaH sarvEH-iti-AdideSa tAn // Bhmd-_14.175 //
+   tataḥ pratinivṛttena turagena sahārjunaḥ /	tatas pratinivRttena turagena saha-arjunaH /
+   viveśa pūjitaḥ pauraurvijayī hastināpuram // Bhmj_14.176 //	viveSa pUjitaH pOrOH-vijayI hastinApuram // Bhmd-_14.176 //
+   ***** hayotsargaḥ || 5 || *****	***** haya-utsargaH || 5 || *****
+   tataḥ pravṛtte vidhivadyajñe kanakavarṣiṇaḥ /	tatas pravRtte viDivat-yajQe kanaka-varziNaH /
+   rājño munijanākīrṇe prāpteṣvakhilarājasu // Bhmj_14.177 //	rAjQaH muni-jana-AkIrNe prAptezu-aKila-rAjasu // Bhmd-_14.177 //
+   jananyā saha bhūpāle saṃprāpte babhruvāhane /	jananyA saha BUpAle saMprApte baBruvAhane /
+   sādaraṃ phalguṇaprītyā pūjite pāṇḍunandanaiḥ // Bhmj_14.178 //	sa-Adaram PalguNa-prItyA pUjite pANxu-nandanEH // Bhmd-_14.178 //
+   niḥśeṣakalmaṣaploṣadivyadīkṣākṛtakṣaṇaḥ /	niHSeza-kalmaza-ploza-divya-dIkzA-kRtakzaNaH /
+   kriyāmahīnāṃ vidadhe svayaṃ satyavatīsutaḥ // Bhmj_14.179 //	kriyAm-ahInAm vidaDe svayam satyavatI-sutaH // Bhmd-_14.179 //
+   haimaṃ tatrābhavatsarvamiṣṭakācayanādikam /	hEmam tatra-aBavat-sarvam-izwakA-cayana-Adikam /
+   yūpabhāṇḍaghanasthālīparyaṅkagṛhatoraṇam // Bhmj_14.180 //	yUpa-BANxa-Gana-sTAlI-paryaFka-gRha-toraNam // Bhmd-_14.180 //
+   devarṣisiddhagandharvakiṃnarā maṅgalaṃ jaguḥ /	deva-Rzi-sidDa-ganDarva-kiMnarAH maFgalam jaguH /
+   karmāntareṣu yajñasya nanṛtuścāpsarogaṇāḥ // Bhmj_14.181 //	karma-antarezu yajQasya nanRtuH-ca-apsaraH-gaNAH // Bhmd-_14.181 //
+   śamite paśusaṅghe ca turagaṃ brāhmaṇottamāḥ /	Samite paSu-saFGe ca turagam brAhmaNa-uttamAH /
+   ālabhanta yathāśāstramupasaṃrodhya pārṣatīm // Bhmj_14.182 //	AlaBanta yaTASAstram-upasaMroDya pArzatIm // Bhmd-_14.182 //
+   tataste yājakāstatra vapāmuddhṛtya vājinaḥ /	tatas-te yAjakAH-tatra vapAm-udDRtya vAjinaH /
+   śrapayitvā śubhaṃ dhūmaṃ pāṇḍavebhyo nyavedayan // Bhmj_14.183 //	SrapayitvA SuBam DUmam pANxaveByaH nyavedayan // Bhmd-_14.183 //
+   tataḥ pūrṇe na vidhinā vyāsāya pṛthivīpatiḥ /	tatas pUrNe na viDinA vyAsAya pRTivIpatiH /
+   catuḥsamudrarasanāṃ pṛthivīṃ dakṣiṇāṃ dadhau // Bhmj_14.184 //	catur-samudra-rasanAm pRTivIm dakziNAm daDO // Bhmd-_14.184 //
+   dattvātha hemakoṭīnāṃ koṭiṃ tadvacasā nṛpaḥ /	dattvA-aTa hema-kowInAm kowim tad-vacasA nRpaH /
+   brāhmaṇebhyaḥ punaḥ kṣoṇīṃ jagrāha muninārpitām // Bhmj_14.185 //	brAhmaNeByaH punar kzoNIm jagrAha muninA-arpitAm // Bhmd-_14.185 //
+   pūjayitvā narendreṇa mānārheṣvatha rājasu /	pUjayitvA narendreNa mAna-arhezu-aTa rAjasu /
+   visṛṣṭeṣvabhavatko 'pi brahmasaṅghamahotsavaḥ // Bhmj_14.186 //	visRzwezu-aBavat-kaH api brahma-saFGa-mahA-utsavaH // Bhmd-_14.186 //
+   babhūvustatra vāhinyo madhunaḥ kṣīrasarpiṣām /	baBUvuH-tatra vAhinyaH maDunaH kzIra-sarpizAm /
+   babhuśca kulaśailābhā bhakṣyā modakarāśayaḥ // Bhmj_14.187 //	baBuH-ca kula-SEla-ABAH BakzyAH modakara-ASayaH // Bhmd-_14.187 //
+   dvijebhyo dīyamāneṣu hemaratneṣu bhūbhujā /	dvijeByaH dIyamAnezu hema-ratnezu BUBujA /
+   śakrāyudhairiva vyāptā diśo daśa cakāśire // Bhmj_14.188 //	SakrAyuDEH-iva vyAptAH diSaH daSa cakASire // Bhmd-_14.188 //
+   dhṛtarāṣṭraḥ saviduraḥ sañjayaḥ subalātmajāḥ /	DRtarAzwraH sa-viduraH saQjayaH subala-AtmajAH /
+   tasthurdaivatavattatra pūjyamānā mahībhujā // Bhmj_14.189 //	tasTuH-dEvata-vat-tatra pUjyamAnA mahIBujAH // Bhmd-_14.189 //
+   ***** yajñaḥ || 6 || *****	***** yajQaH || 6 || *****
+   atrāntare hemacitrapārśvo bilamukhodgataḥ /	atra-antare hema-citra-pArSvaH bila-muKa-udgataH /
+   nakulo laghusaṃcāro yajñabhūmimupāyayau // Bhmj_14.190 //	nakulaH laGu-saMcAraH yajQa-BUmim-upAyayO // Bhmd-_14.190 //
+   sa manuṣyagirā prāha janayañjanakautukam /	sa manuzya-girA prAha janayan-jana-kOtukam /
+   aho nu saktṛprasthena na tulyo 'yaṃ mahāmakhaḥ // Bhmj_14.191 //	aho nu saktR-prasTena na tulyaH ayam mahA-maKaH // Bhmd-_14.191 //
+   nūnaṃ dānakaṇaḥ śuddhaḥ kṛśo 'pi prathate nṛṇām /	nUnam dAna-kaNaH SudDaH kRSaH api praTate nRNAm /
+   nūnaṃ bahudraviṇatā mithyaivotsavaḍambaraḥ // Bhmj_14.192 //	nUnam bahu-draviNa-tA miTyA-eva-utsava-xambaraH // Bhmd-_14.192 //
+   iti bruvāṇaḥ pṛṣṭo 'sau viprairvismayanirbharaiḥ /	iti bruvANaH pRzwaH asO viprEH-vismaya-nirBarEH /
+   uvāca sraktuprasthasya māhātmyaṃ śrūyatāṃ dvijāḥ // Bhmj_14.193 //	uvAca sraktu-prasTasya mAhAtmyam SrUyatAm dvijAH // Bhmd-_14.193 //
+   śilocchavṛttirabhavatkurukṣetre purā dvijaḥ /	SilA-ucCa-vRttiH-aBavat-kurukzetre purA dvijaH /
+   viśuddhasattvadraviṇaḥ kṛśo bahukuṭumbakaḥ // Bhmj_14.194 //	viSudDa-sattva-draviNaH kRSaH bahu-kuwumbakaH // Bhmd-_14.194 //
+   ghore kadāciddurbhikṣe kṣīṇavṛttiścireṇa saḥ /	Gore kadAcid-durBikze kzINa-vRttiH-cireNa saH /
+   kṛcchrātkṣetraśataṃ bhrāntvā saktuprasthamavāptavān // Bhmj_14.195 //	kRcCrAt-kzetra-Satam BrAntvA saktu-prasTam-avAptavAn // Bhmd-_14.195 //
+   baiśvadevena vidhinā sa kṛtvāvaśyakaṃ gṛhe /	bESvadevena viDinA sa kRtvA-AvaSyakam gRhe /
+   kalatrasahito bhoktuṃ prasthito 'paśyadarthinam // Bhmj_14.196 //	kalatra-sahitaH Boktum prasTitaH apaSyat-arTinam // Bhmd-_14.196 //
+   kṣutparītaḥ kṣudhākrāntaṃ sa taṃ dṛṣṭvātithiṃ dvijaḥ /	kzuD-parItaH kzuDA-AkrAntam sa tam dRzwvA-atiTim dvijaH /
+   dadau svamaśanaṃ tasmai saṃtoṣaviṣadāśayaḥ // Bhmj_14.197 //	dadO svam-aSanam tasmE saMtoza-vizada-ASayaH // Bhmd-_14.197 //
+   tadbhuktvā nābhavattasya kṣunnavṛttiryadārthinaḥ /	tat-BuktvA na-aBavat-tasya kzunna-vRttiH-yadA-arTinaH /
+   tadbhāryā tatsutaścāsmai tatsnuṣā ca dadau tadā // Bhmj_14.198 //	tad-BAryA tad-sutaH-ca-asmE tad-snuzA ca dadO tadA // Bhmd-_14.198 //
+   sarveṣāṃ bhojanenātha tṛptaḥ so 'tithirabravīt /	sarvezAm Bojanena-aTa tRptaH saH atiTiH-abravIt /
+   dharmastuṣṭo 'smi sattvena mahatī siddhirastu vaḥ // Bhmj_14.199 //	DarmaH-tuzwaH asmi sattvena mahatI sidDiH-astu vaH // Bhmd-_14.199 //
+   ityuktvāntarhite tasminvimānaistaraṇiprabhaiḥ /	iti-uktvA-antarhite tasmin-vimAnEH-taraNi-praBEH /
+   saśarīrā divaṃ prāpuḥ sarve te ślāghyavṛttayaḥ // Bhmj_14.200 //	sa-SarIrAH divam prApuH sarve te SlAGya-vRttayaH // Bhmd-_14.200 //
+   athāhaṃ saktugandhena samāhūto bilāśrayaḥ /	aTa-aham saktu-ganDena samAhUtaH bila-ASrayaH /
+   tāmucchiṣṭabhuvaṃ prāpto bhuktavānyatra so 'tithiḥ // Bhmj_14.201 //	tAm-ucCizwa-Buvam prAptaH BuktavAn-yatra saH atiTiH // Bhmd-_14.201 //
+   tatpātrasalilaspṛṣṭamekaṃ pārśvamidaṃ mama /	tad-pAtra-salila-spRzwam-ekam pArSvam-idam mama /
+   luṭhitaṃ hemaruciraṃ jātaṃ puṇyairivāplutam // Bhmj_14.202 //	luWitam hema-ruciram jAtam puNyEH-iva-Aplutam // Bhmd-_14.202 //
+   dvitīyapārśvacintā me kathaṃ haimaṃ bhavediti /	dvitIya-pArSva-cintA me kaTam hEmam Bavet-iti /
+   babhūva suciraṃ tasmātprāpto 'haṃ vasudhādhipam // Bhmj_14.203 //	baBUva su-ciram tasmAt-prAptaH aham vasuDADipam // Bhmd-_14.203 //
+   dvijalakṣasahasrāṇāmiha bhojanabhūmiṣu /	dvija-lakza-sahasrANAm-iha Bojana-BUmizu /
+   bhrāntasyāpi na saṃjātaḥ ko 'pi kānto lavastanau // Bhmj_14.204 //	BrAntasya-api na saMjAtaH kaH api kAntaH lava-H-tanO // Bhmd-_14.204 //
+   tasmānna saktuprasthasya samatāmarhati kratuḥ /	tasmAt-na saktu-prasTasya sama-tAm-arhati kratuH /
+   ityuktvā nakulaḥ prāyāccitrakāntiradarśanam // Bhmj_14.205 //	iti-uktvA nakulaH prAyAt-citra-kAntiH-adarSanam // Bhmd-_14.205 //
+   evaṃ yajñasahasrebhyaḥ śreyasī bhāvaśuddhatā /	evam yajQa-sahasreByaH SreyasI BAva-SudDa-tA /
+   manasaḥ kila vaimalyaṃ paraṃ brahma pracakṣate // Bhmj_14.206 //	manasaH kila vEmalyam param brahma pracakzate // Bhmd-_14.206 //
+   agastyasya purā satre viprā dvādaśavārṣike /	agastyasya purA satre viprAH dvAdaSa-vArzike /
+   śaśaṃsurbhāvinīṃ ghorāmanāvṛṣṭiṃ parasparam // Bhmj_14.207 //	SaSaMsuH-BAvinIm GorAm-anAvRzwim parasparam // Bhmd-_14.207 //
+   tato 'gastyaḥ parityajya dravyayajñaṃ mahāmatiḥ /	tatas agastyaH parityajya dravya-yajQam mahAmatiH /
+   cakāra stabdhamanasā dhyānayajñaṃ taponidhiḥ // Bhmj_14.208 //	cakAra stabDa-manasA DyAna-yajQam tapaH-niDiH // Bhmd-_14.208 //
+   sa eva vasusaṃpannaḥ sarvavitkṛtasaṃnidhiḥ /	saH eva vasu-saMpannaH sarva-vid-kRta-saMniDiH /
+   kraturbabhūva yenendro vavarṣānandanirbharaḥ // Bhmj_14.209 //	kratuH-baBUva yena-indraH vavarza-Ananda-nirBaraH // Bhmd-_14.209 //
+   śreyānsattvaviśuddhasya pāṇḍavasyābhavatkratuḥ /	SreyAn-sattva-viSudDasya pANxavasya-aBavat-kratuH /
+   kiṃ tu svakāryānnakulastatra cakre vimānanām // Bhmj_14.210 //	kim tu sva-kAryAt-nakulaH-tatra cakre vimAnanAm // Bhmd-_14.210 //
+   jijñāsurjamadagniṃ prāksvayaṃ krodhaḥ śvavigrahaḥ /	jijQAsuH-jamadagnim prAk-svayam kroDaH Sva-vigrahaH /
+   pasparśa jihvayā śrāddhe dhṛtaṃ hi piṭhire payaḥ // Bhmj_14.211 //	pasparSa jihvayA SrAdDe DRtam hi piWire payaH // Bhmd-_14.211 //
+   krodho 'yamiti vijñāya munistaṃ jñānalocanaḥ /	kroDaH ayam-iti vijQAya muniH-tam jQAna-locanaH /
+   na śaśāpa tato bhītaḥ krodhaḥ kampākulo 'bhavat // Bhmj_14.212 //	na SaSApa tatas BItaH kroDaH kampa-AkulaH aBavat // Bhmd-_14.212 //
+   tataste pitaraḥ kruddhā yeṣāṃ śrāddhe dhṛtaṃ payaḥ /	tatas-te pitaraH krudDAH yezAm SrAdDe DRtam payaH /
+   aśapansuciraṃ yena krodho nakulatāṃ yayau // Bhmj_14.213 //	aSapan-su-ciram yena kroDaH nakula-tAm yayO // Bhmd-_14.213 //
+   avamānakathāṃ kṛtvā svayaṃ yaudhiṣṭhire kratau /	avamAna-kaTAm kRtvA svayam yODizWire kratO /
+   śāpakṣayaṃ prāpsyasīti tairevāsya kṛto 'vadhiḥ // Bhmj_14.214 //	SApa-kzayam prApsyasi-iti tEH-eva-asya kRtaH avaDiH // Bhmd-_14.214 //
+   ***** nakulopākhyānam || 7 || *****	***** nakula-upAKyAnam || 7 || *****
+   iti sakalanarendrairvandyamānasya rājño dvijajanaparipuṣṭaḥ	iti sakala-narendrEH-vandyamAnasya rAjQaH dvija-jana-paripuzwaH
+   sattvapuṣpaprakāraḥ /	sattva-puzpa-prakAraH /
+   śubhaphalanicayādyo yajñasaṃbhāramūlaścaritatarurudāraḥ satyaśākho rarāja	SuBa-Pala-nicaya-AdyaH yajQa-saMBAra-mUlaH-carita-taruH-udAraH satya-SAKaH rarAja
+   // Bhmj_14.215 //	// Bhmd-_14.215 //
+   iti śrīkṣemendraviracitāyāṃ bhāratamañjaryāmāśvamedhikaṃ parva	iti SrIkzema-indra-viracitAyAm BAratamaQjaryAm-ASvameDikam parva

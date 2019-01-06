@@ -1,0 +1,400 @@
+   Explanatory Remarks	Explana-torI Rema-Rc-s
+   A number of five figures at the left side indicates the location of the	A numbeH of five figureH at Te left side indi-cateH Te location of Te
+   key word	key woH-d
+   in the basic texts. In the case of the SV, the HB and the VN, the first	id Te basit texts. It Te case of Te SV, Te HB and Te VN, Te firH-t
+   three figures	Tree figureH-
+   indicate the page number, and the last two indicate the line number (for	indicate Te page number, and Te last twaH indicate Te line numbeH (foH-
+   example,	example,
+   SV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the	SV16026=SV 160,26; HB02314=HB 23,14; VN06110=Vj 61,10). It Te case of Te
+   PV and the NB, the second figure indicates the chapter number and the last	PV and Te NB, Te secA-Und figure indi-cateH Te CapteH numbeH and Te last
+   three	Tree
+   figures indicate the karika or sutra number (for example, PV02232=PV, the	figureH indicate Te karika oH sutra numbeH (foH example, PV02232=PV, Te
+   Pramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra	Pramana-sidDi--CapteH v.232; NB03015=NB, Te PararTa-numana--CapteH sutra
+   In the case of the SP, the last two figures indicate the karika number	It Te case of Te SP, Te last twaH figureH indicate Te karika numbeH-
+   (for example,	(foH example,
+   SP00015=SP, v.15).	SP00015=SP, v.15).
+   3. In this database, sentences are artificially divided into word-units,	3. In TiH database, sa-intences are arti-ficiallI dividet intaH woH-d-u-nits,
+   although they	alTouG Tey
+   involve a phonetic fusion or union in the basic texts. Further, compound	invA-ulve a Ponetit fusion oH union id Te basit texts. FurTer, ca-umpound
+   words are	woH-dH are
+   divided into their shortest constitutive elements (we use a hyphen to	dividet intaH TeiH sha-Urtest ca-unstitutive elements (we use a hi-Pet taH-
+   indicate that	indicate Tat-
+   hyphenated elements originally form a compound word) with the following	hi-Penatet elema-ints originallI fA-Urm a ca-umpount word) wiT Te fa-ullowing
+   exceptions:	exceptiA-uns:
+   3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of	3.1. The prefixeH a-, dur-, nih remEn undivided, irrespective of
+   attachment to	attaSment taH-
+   words or compound words.	wordH oH ca-umpound words.
+   3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But	3.2. SuffixeH making an adveH-b, foH example -vat, -vasa, are divided. But-
+   suffixes	suffixeH-
+   making a possessive adjective, for example -vat, -mat, remain undivided,	makinc a possessive adjet-tive, foH example -vat, -mat, remEn undivided,
+   and terms	and terms
+   such as a numeral+ -dha/-vidha/-prakara remain also undivided.	suC as a numeral+ -Da/-viDa/--prakara remEn alsaH undivided.
+   3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta	3.3. Compound wordH wiT Te suffixeH -ta/-tvaH oH -Bava/-Buta
+   fundamentally	fundamentally
+   remain undivided. For example: karyakaranabhava/-bhuta/-ta.	remEn undivided. FoH example: karya-kara-na-Bava/-Buta-/-ta.
+   3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in	3.4. Compound wordH wiT evam-, tat-, taTa-, para-, yaTa-, su-, sva in
+   the	Te
+   wordhead fundamentally remain undivided. For example: evamjatiya,	wos-Deat fundamentallI remEn undivided. FoH example: evamjatiya,
+   tadutpatti,	tad-utpatti,
+   tathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.	taTA-krta, paratantra, yaTarTa, yaTasvam, su-jnana-tva, sva-Bava.
+   3.5. Some compound words which are regarded as terminology remain also	3.5. Some ca-umpound wordH whiC are regardet aH terminaH-logI remEn alsaH-
+   undivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,	undivided. FoH example: agnihotra, ayoga-vyavacCeda, arTapatti, padarTa,
+   paramartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,	param-arTa, prasajya-pratiseDa, virudDa-vyaBicarin, samanantara-pratyaya,
+   samtanaparinama, samanyalaksana, svabhavapratibandha.	samtana-parinama, samanya-laksana, sva-Bava-pratibanDa.
+   4. Those terms whose wordhead is subject to the Sandhi rules (for example,	4. Tha-use termH whose wos-Deat iH subject taH Te SanDi ruleH (foH example,
+   -d	-d
+   dhetu-) are cited in their original form (for example, -d *hetu-) for the	Detu-) are citet id TeiH originan fa-Urm (foH example, -d *hetu-) foH Te
+   sake of	sake of
+   using this database to make an KWIC index.	usinc TiH database taH make an KWIC index.
+   1. August. 1997 / Tsukuba	1. AuguH-t. 1997 / Tsukuba
+   Motoi ONO	Motoi ONO
+   Note:	Note:
+   This database is quite a tentative one, and I must admit that there are a	ThiH data-base iH quite a tentative one, and I musD admit Tat Tere are a
+   lot of	lot of
+   errors and defects in this version. I would appreciate it very much if the	erroH-H and defects id TiH version. I woult ap-preciate id verI muC if Te
+   user would	useH would
+   point out any errors in this version so that we can make a better new	point oud ani errorH id TiH version saH Tat we cat make a betteH new
+   version in the	version id Te
+   future.	future.
+   E-mail: ono@logos.tsukuba.ac.jp	E-mEl: ono@loga-us.tsukuba.a-c.jp
+   01001 samyag-jñāna-pūrvikā sarva-puruṣa-artha-siddhir iti tad vyutpādyate.	01001 samyak--jQAna--pUrvikA sarva-puruza--arTa--sidDiH iti tat vyutpAdyate.
+   01002 dvividhaṃ samyag-jñānam.	01002 dviviDam samyak--jQAnam.
+   01003 pratyakṣam anumānaṃ ca iti.	01003 pratyakzam anumAnam ca iti.
+   01004 tatra pratyakṣaṃ kalpanā apoḍham abhrāntam.	01004 tatra pratyakzam kalpanAH apoXam aBrAntam.
+   01005 abhilāpa-saṃsarga-yogya-pratibhāsā pratītiḥ kalpanā.	01005 aBilApa--saMsarga--yogya--pratiBAsA pratItiH kalpanA.
+   01006 tayā rahitaṃ	01006 tayA rahitam
+   timira-āśubhramaṇa-nauyāna-saṃkṣobha-ādy-anāhita-vibhramaṃ jñānaṃ	timira--ASu-BramaNa--nOyAna--saMkzoBa-Adi--anAhita--viBramam jQAnam
+   pratyakṣam.	pratyakzam.
+   01007 tat caturvidham.	01007 tat caturviDam.
+   01008 indriya-jñānam.	01008 indriya--jQAnam.
+   01009 sva-viṣaya-anantara-viṣaya-sahakāriṇā indriya-jñānena	01009 sva--vizaya--anantara--vizaya--sahakAriNA indriya--jQAnena
+   samanantarapratyayena janitaṃ tan manovijñānam.	samanantara-pratyayena janitam tat manaH-vijQAnam.
+   01010 sarva-citta-caittānām ātma-saṃvedanam.	01010 sarva-citta--cEttAnAm Atma--saMvedanam.
+   01011 bhūta-artha-bhāvanā-prakarṣa-paryantajaṃ yogijñānaṃ ca iti.	01011 BUta--arTa--BAvanA--prakarza--paryanta-jam yogi-jQAnam ca iti.
+   01012 tasya viṣayaḥ svalakṣaṇam.	01012 tasya vizayaH sva-lakzaNam.
+   01013 yasya arthasya saṃnidhāna-asaṃnidhānābhyāṃ jñāna-pratibhāsa-bhedas	01013 yasya arTasya saMniDAna-a-saMniDAnAByAm jQAna--pratiBAsa--Bedas
+   tat svalakṣaṇam.	tat sva-lakzaNam.
+   01014 tad eva paramārthasat.	01014 tat eva paramArTa-sat.
+   01015 arthakriyāsāmarthya-lakṣaṇatvād vastunaḥ.	01015 arTa-kriyA-sAmarTya--lakzaNa-tvAt vastunaH.
+   01016 anyat sāmānyalakṣaṇam.	01016 anyat sAmAnya-lakzaNam.
+   01017 so anumānasya viṣayaḥ.	01017 saH anumAnasya vizayaH.
+   01018 tad eva ca pratyakṣaṃ jñānaṃ pramāṇa-phalam.	01018 tat eva ca pratyakzam jQAnam pramANa--Palam.
+   01019 artha-pratīti-rūpatvāt.	01019 arTa--pratIti--rUpa-tvAt.
+   01020 artha-sārūpyam asya pramāṇam.	01020 arTa--sArUpyam asya pramANam.
+   01021 tad-vaśād artha-pratīti-siddher iti.	01021 tad--vaSAt arTa--pratIti--sidDeH iti.
+   02001 anumānaṃ dvividhā.	02001 anumAnam dviviDA.
+   02002 svārthaṃ parārthaṃ ca.	02002 sva-arTam para-arTam ca.
+   02003 tatra svārthaṃ trirūpāl liṅgād yad anumeye jñānaṃ tad anumānam.	02003 tatra sva-arTam tri-rUpAt liFgAt yat anumeye jQAnam tat anumAnam.
+   02004 pramāṇa-phala-vyavasthā atra api pratyakṣa-vat.	02004 pramANa--Pala--vyavasTAH atra api pratyakza-vat.
+   02005 trairūpyaṃ punar liṅgasya anumeye sattvam eva, sapakṣa eva sattvam,	02005 trErUpyam punar liFgasya anumeye sattvam eva, sa-pakzaH eva sattvam,
+   asapakṣe ca asattvam eva niścitam.	asapakze ca asattvam eva niScitam.
+   02006 anumeyo atra jijñāṣita-viśeṣo dharmī.	02006 anumeyaH atra jijQAzita--viSezaH DarmI.
+   02007 sādhya-dharma-sāmānyena samāno arthaḥ sapakṣaḥ.	02007 sADya-Darma--sAmAnyena samAnaH arTaH sa-pakzaH.
+   02008 na sapakṣo asapakṣaḥ.	02008 na sa-pakzaH asapakzaH.
+   02009 tato anyas tad-viruddhas tad-abhāvaś ca iti.	02009 tatas anyaH tad--virudDaH tad--aBAvaH ca iti.
+   02010 trirūpāṇi ca trīṇy eva liṅgāni.	02010 trirUpANi ca trINi eva liFgAni.
+   02011 anupalabdhiḥ svabhāvaḥ kāryaṃ ca iti.	02011 anupalabDiH svaBAvaH kAryam ca iti.
+   02012 tatra anupalabdhir yathā, na pradeśa-viśeṣe kvacid ghaṭaḥ,	02012 tatra anupalabDiH yaTA, na pradeSa--viSeze kvacid GawaH,
+   upalabdhi-lakṣaṇa-prāptasya anupalabdher iti	upalabDi--lakzaNa--prAptasya anupalabDeH iti
+   02013 upalabdhi-lakṣaṇa-prāptir upalambha-pratyaya-antara-sākalyaṃ	02013 upalabDi--lakzaNa--prAptiH upalamBa--pratyaya--antara--sAkalyam
+   svabhāva-viśeṣaś ca.	svaBAva--viSezaH ca.
+   02014 yaḥ svabhāvaḥ satsv anyeṣu upalambha-pratyayeṣu san pratyakṣa eva	02014 yaH svaBAvaH satsu anyezu upalamBa--pratyayezu san pratyakzaH eva
+   bhavati sa svabhāva-viśeṣaḥ.	Bavati sa svaBAva--viSezaH.
+   02015 svabhāvaḥ sva-sattā-mātra-bhāvini sādhya-dharme hetuḥ.	02015 svaBAvaH sva--sattA--mAtra--BAvini sADya-Darme hetuH.
+   02016 yathā vṛkṣo ayaṃ śiṃśapātvād iti.	02016 yaTA vRkzaH ayam SiMSapA-tvAt iti.
+   02017 kāryaṃ yathā vahnir atra dhūmād iti.	02017 kAryam yaTA vahniH atra DUmAt iti.
+   02018 atra dvau vastu-sādhanau. ekaḥ pratiṣedha-hetuḥ	02018 atra dvO vastu--sADanO. ekaH pratizeDa--hetuH
+   02019 svabhāvapratibandhe hi saty artho arthaṃ gamayet.	02019 svaBAva-pratibanDe hi sati arTaH arTam gamayet-.
+   02020 tad-apratibaddhasya tad-avyabhicāra-niyama-abhāvāt.	02020 tad--a-pratibadDasya tat--avyaBicAra--niyama--aBAvAt.
+   02021 sa ca pratibandhaḥ sādhye arthe liṅgasya.	02021 sa ca pratibanDaH sADye arTe liFgasya.
+   02022 vastutas tādātmyāt tadutpatteś ca.	02022 vastutas tAdAtmyAt tad-utpatteH ca.
+   02023 atad-svabhāvasya atadutpatteś ca tatra apratibaddha-svabhāvatvāt.	02023 atad--svaBAvasya atad-utpatteH ca tatra apratibadDa--svaBAva-tvAt.
+   02024 te ca tādātmya-tadupattī svabhāva-kāryayor eva iti tābhyām eva	02024 te ca tAdAtmya--tad-upattI svaBAva--kAryayoH eva iti tAByAm eva
+   vastu-siddhiḥ.	vastu--sidDiH.
+   02025 pratiṣedha-siddhir api yathoktāyā eva anupalabdheḥ.	02025 pratizeDa--sidDiH api yaTA-uktAyAH eva anupalabDeH.
+   02026 sati vastuni tasyā asambhavāt.	02026 sati vastuni tasyAH asamBavAt-.
+   02027 anyathā ca anupalabdhi-lakṣaṇa-prāpteṣu	02027 anyaTA ca anupalabDi--lakzaNa--prAptezu
+   deśa-kāla-svabhāva-viprakṛṣṭeṣv artheṣv ātma-pratyakṣa-nivṛtter	deSa--kAla--svaBAva--viprakRzwezu arTezu Atma--pratyakza--nivRtteH-
+   abhāva-niścaya-abhāvāt.	aBAva--niScaya--aBAvAt.
+   02028 amūḍha-smṛti-saṃskārasya atītasya vartamānasya ca	02028 amUXa--smRti--saMskArasya atItasya vartamAnasya ca
+   pratipattṛ-pratyakṣasya nivṛttir abhāva-vyavahāra-pravartanī.	pratipattR-pratyakzasya nivRttiH aBAva--vyavahAra--pravartanI.
+   02029 tasyā eva abhāva-niścayāt.	02029 tasyAH eva aBAva--niScayAt.
+   02030 sā ca prayoga-bhedād ekadaśa-prakārā.	02030 sA ca prayoga--BedAt ekadaSa--prakArA.
+   02031 svabhāva-anupalabdhir yathā, na atra dhūma	02031 svaBAva-anupalabDiH yaTA, na atra DUma
+   upalabdhi-lakṣaṇa-prāptasya anupalabdhir iti.	upalabDi--lakzaNa--prAptasya anupalabDiH iti.
+   02032 kārya-anupalabdhir yathā, na iha apratibaddha-sāmarthyāni	02032 kArya-anupalabDiH yaTA, na iha apratibadDa--sAmarTyAni
+   dhūma-kāraṇāni santi dhūma-abhāvād iti.	DUma--kAraNAni santi DUma-aBAvAt iti.
+   02033 vyāpaka-anupalabdhir yathā, na atra śiṃśapā, vṛkṣa-abhāvād iti.	02033 vyApaka--anupalabDiH yaTA, na atra SiMSapA, vRkza--aBAvAt iti.
+   02034 svabhāva-viruddha-upalabdhir yathā, na atra śīta-sparśo vahner iti.	02034 svaBAva--virudDa--upalabDiH yaTA, na atra SIta-sparSaH vahneH iti.
+   02035 viruddha-kārya-upalabdhir yathā, na atra śīta-sparśo dhūmād iti.	02035 virudDa--kArya--upalabDiH yaTA, na atra SIta-sparSaH DUmAt iti.
+   02036 viruddha-vyāpta-upalabdhir yathā, na dhūma-bhāvī bhūtasya api	02036 virudDa--vyApta--upalabDiH yaTA, na DUma--BAvI BUtasya api
+   bhāvasya vināśaḥ, hetv-antara-apekṣaṇād iti.	BAvasya vinASaH, hetu--antara--apekzaNAt iti.
+   02037 kārya-viruddha-upalabdhir yathā, na iha apratibaddha-sāmarthyāni	02037 kArya--virudDa--upalabDiH yaTA, na iha apratibadDa--sAmarTyAni
+   śīta-kāraṇāni santi, vahner iti.	SIta-kAraNAni santi, vahneH iti.
+   02038 vyāpaka-viruddha-upalabdhir yathā, na atra tuṣāra-sparśo vahner iti.	02038 vyApaka-virudDa--upalabDiH yaTA, na atra tuzAra--sparSaH vahneH iti.
+   02039 kāraṇa-anupalabdhir yathā, na atra dhūmo vahny-abhāvād iti.	02039 kAraNa-anupalabDiH yaTA, na atra DUmaH vahni--aBAvAt iti.
+   02040 kāraṇa-viruddha-upalabdhir yathā, na asya roma-harṣa-ādi-viśeṣāḥ,	02040 kAraNa--virudDa--upalabDiH yaTA, na asya roma--harza--Adi-viSezAH,
+   saṃnihita-dahana-viśeṣatvād iti.	saMnihita--dahana--viSeza-tvAt iti.
+   02041 kāraṇa-viruddha-kārya-upalabdhir yathā, na	02041 kAraNa--virudDa--kArya--upalabDiH yaTA, na
+   roma-harṣa-ādi-viśeṣa-yukta-puruṣavān ayaṃ pradeśaḥ, dhūmād iti.	roma--harza--Adi-viSeza--yukta--puruzavAn ayam pradeSaH, DUmAt iti.
+   02042 ime sarve kārya-anupalabdhy-ādayo daśa-anupalabdhi-prayogāḥ	02042 ime sarve kArya-anupalabDi--AdayaH daSa--anupalabDi--prayogAH
+   svabhāva-anupalabdhau saṃgraham upayānti.	svaBAva--anupalabDO saMgraham upayAnti.
+   02043 pāraṃparyeṇa arthāntara-vidhi-pratiṣedhāyāṃ prayoga-bhede api.	02043 pAraMparyeNa arTa-antara--viDi--pratizeDAyAm prayoga-Bede api.
+   02044 prayoga-darśana-abhyāsāt svayam apy evaṃ vyavaccheda-pratītir	02044 prayoga-darSana-aByAsAt svayam api evam vyavacCeda--pratItiH-
+   bhavati iti svārthe apy anumāne asyāḥ prayoga-nirdeśaḥ.	Bavati iti sva-arTe api anumAne asyAH prayoga--nirdeSaH.
+   02045 sarvatra ca asyām abhāva-vyavahāra-sādhanyām anupalabdhau yeṣāṃ	02045 sarvatra ca asyAm aBAva--vyavahAra--sADanyAm anupalabDO yezAm
+   svabhāva-viruddha-ādīnām upalabdhyā kāraṇa-ādīnām anupalabdhyā ca	svaBAva--virudDa-a-AdInAm upalabDyA kAraNa-a-AdInAm anupalabDyA ca
+   pratiṣedha uktas teṣām upalabdhi-lakṣaṇa-prāptānām.	pratizeDaH uktaH tezAm upalabDi--lakzaNa--prAptAnAm-.
+   02045 eva upalabdhir anupalabdhiś ca veditavyā.	02045 eva upalabDiH anupalabDiH ca veditavyA.
+   02046 anyeṣāṃ virodha-kāryakāraṇabhāva-siddheḥ.	02046 anyezAm viroDa--kArya-kAraNa-BAva--sidDeH.
+   02047 pramāṇa-nivṛttav apy artha-abhāva-asiddher iti.	02047 pramANa--nivRttav api arTa-aBAva-a-sidDeH iti.
+   03001 trirūpa-liṅga-ākhyānaṃ parārtham anumānam.	03001 triru-upa--liFga-AKyAnam para-arTam anumAnam.
+   03002 kāraṇe kārya-upacārāt.	03002 kAraNe kArya--upacArAt.
+   03003 tad dvividham.	03003 tat dviviDam.
+   03004 prayoga-bhedāt.	03004 prayoga-Beda-at.
+   03005 sādharmya-vaidharmya-vacana iti.	03005 sADarmya--vEDarmya-vacanaH iti.
+   03006 na anayor arthataḥ kaścid bhedaḥ.	03006 na anayoH arTataH kaScid BedaH.
+   03007 anyatra prayoga-bhedāt.	03007 anyatra prayoga-Beda-at.
+   03008 tatra sādharmyavat prayogaḥ: yad upalabdhi-lakṣaṇa-prāptaṃ sann na	03008 tatra sADarmya-vat prayogaH: yat upalabDi--lakzaNa--prAptam san na
+   upalabhyate so asad-vyavahāra-viṣayaḥ siddhaḥ, yathā anyaḥ kaścid dṛṣṭaḥ	upalaByate saH asat--vyavahAra--vizayaH sidDaH, yaTA anyaH kaScid dRzwaH
+   śaśa-viṣāṇa-ādiḥ. na upalabhyate ca kaścit pradeśa-viśeṣa	SaSa-vizANa-a-AdiH. naH upalaByate ca kaScid pradeSa--viSeza
+   upalabdhi-lakṣaṇa-prāpto ghaṭa ity anupalabdhi-prayogaḥ.	upalabDi--lakzaNa--prAptaH GawaH iti anupalabDi--prayogaH.
+   03009 tathā svabhāvahetoḥ prayogaḥ: yat sat tat sarvam anityam, yathā	03009 taTA svaBAva-hetoH prayogaH: yat sat tat sarvam anityam, yaTA
+   ghaṭa-ādir iti śuddhasya svabhāvahetoḥ prayogaḥ.	Gawa-AdiH iti SudDasya svaBAva-hetoH prayogaH.
+   03010 yad utpattimat tad anityam iti svabhāvabhūta-dharma-bhedena	03010 yat utpattimat tat anityam iti svaBAva-BUta--Darma---Bedena
+   svabhāvasya prayogaḥ.	svaBAvasya prayogaH.
+   03011 yat kṛtakaṃ tad anityam ity upādhi-bhedena.	03011 yat kRtakam tat anityam iti upADi-Bedena.
+   03012 apekṣita-para-vyāpāro hi bhāvaḥ svabhāva-niṣpattau kṛtaka iti.	03012 apekzita--para--vyApAraH hi BAvaH svaBAva--nizpattO kRtakaH iti.
+   03013 evaṃ pratyaya-bhedabheditva-ādayo api draṣṭavyāḥ.	03013 evam pratyaya--Beda-Bedi-tva-AdayaH api drazwavyAH.
+   03014 sann utpattimān kṛtako vā śabda iti pakṣa-dharma-upadarśanam.	03014 san utpattimAn kRtakaH vA SabdaH iti pakza--Darma--upadarSanam.
+   03015 sarva ete sādhana-dharmā yathāsvaṃ pramāṇaiḥ.	03015 sarve ete sADana-DarmAH yaTAsvam pramANEH.
+   siddha-sādhana-dharma-mātra-anubandha eva sādhya-dharmo avagantavyāḥ.	sidDa--sADana--Darma--mAtra--anubanDaH eva sADya-DarmaH avagantavyAH.
+   03016 tasya eva tat.	03016 tasya eva tat.
+   03017 svabhāvasya ca hetutvāt.	03017 svaBAvasya ca hetu-tvAt.
+   03018 vastutas tayos tādātmyam.	03018 vastutas tayoH tAdAtmyam.
+   03019 tan-niṣpattāv aniṣpannasya tat-svabhāvatva-abhāvāt.	03019 tan--nizpattO anizpannasya tat--svaBAva-tva--aBAvAt.
+   03020 vyabhicāra-sambhavāc ca.	03020 vyaBicAra--samBavAt ca.
+   03021 kāryahetoḥ prayogaḥ: yatra dhūmas tatra agniḥ, yathā mahānasa-ādau.	03021 kArya-hetoH prayogaH: yatra DUmaH tatra agniH, yaTA mahAnasa-a-AdO.
+   asti ca iha dhūma iti.	asti ca iha DUmaH iti.
+   03022 iha api siddha eva kāryakāraṇabhāve kāraṇe sādhye kāryahetur	03022 iha api sidDaH eva kArya-kAraNa-BAve kAraNe sADye kArya-hetuH-
+   vaktavyaḥ.	vaktavyaH.
+   03023 vaidharmyavataḥ prayogaḥ: yat sad upalabdhi-lakṣaṇa-prāptaṃ tad	03023 vEDarmyavataH prayogaH: yat sat upalabDi--lakzaNa--prAptam tat-
+   upalabhyata eva, yathā nīla-ādi-viśeṣaḥ. na ca evam iha	upalaByate eva, yaTA nIla--Adi-viSezaH. na ca evam iha
+   upalabdhi-lakṣaṇa-prāptasya sata upalabdhir ghaṭasya ity	upalabDi--lakzaNa--prAptasya sataH upalabDiH Gawasya iti-
+   anupalabdhi-prayogaḥ.	anupalabDi--prayogaH.
+   03024 asaty anityatve na asty eva sattvam utpattimattvaṃ kṛtakatvaṃ vā.	03024 asati anitya-tve na asti eva sattvam utpattimat-tvam kRtaka-tvam vA.
+   saṃś ca śabda utpattimān kṛtako vā iti svabhāvahetoḥ prayogaḥ.	san ca SabdaH utpattimAn kRtakaH vA iti svaBAva-hetoH prayogaH.
+   03025 asaty agnau na bhavaty eva dhūmaḥ. atra ca asti dhūma iti kāryahetoḥ	03025 asati agnO na Bavati eva DUmaH. atra ca asti DUmaH iti kArya-hetoH
+   prayogaḥ.	prayogaH.
+   03026 sādharmyeṇa api hi prayoge arthād vaidharmya-gatir iti.	03026 sADarmyeNa api hi prayoge arTAt vEDarmya--gatiH iti.
+   03027 asati tasmin sādhyena hetor anvaya-abhāvāt.	03027 asati tasmin sADyena hetoH anvaya-aBAvAt.
+   03028 tathā vaidharmyeṇa apy anvaya-gatiḥ.	03028 taTA vEDarmyeNa api anvaya-gatiH.
+   03029 asati tasmin sādhya-abhāve hetv-abhāvasya asiddheḥ.	03029 asati tasmin sADya--aBAve hetu--aBAvasya asidDeH.
+   03030 na hi svabhāvapratibandhe asaty ekasya nivṛttav aparasya niyamena	03030 na hi svaBAva-pratibanDe asati ekasya nivRttav aparasya niyamena
+   nivṛttiḥ.	nivRttiH.
+   03031 sa ca dviprakāraḥ sarvasya. tādātmya-lakṣaṇas tadutpatti-lakṣaṇaś ca	03031 sa ca dvi-prakAraH sarvasya. tAdAtmya--lakzaNaH tad-utpatti-lakzaNaH ca
+   ity uktam.	iti uktam.
+   03032 tena hi nivṛttiṃ kathayatā pratibandho darśanīyaḥ. tasmāt	03032 tena hi nivRttim kaTayatA pratibanDaH darSanIyaH. tasmAt-
+   nivṛtti-vacanam ākṣipta-pratibandha-upadarśanam eva bhavati. yac ca	nivRtti--vacanam Akzipta--pratibanDa---upadarSanam eva Bavati. yat ca
+   pratibandha-upadarśanaṃ tad eva anvaya-vacanam ity ekena api vākyena	pratibanDa---upadarSanam tat eva anvaya-vacanam iti ekena api vAkyena
+   anvaya-mukhena vyatireka-mukhena vā prayuktena sapakṣa-asapakṣayor	anvaya-muKena vyatireka--muKena vA prayuktena sa-pakza-asa-pakzayoH-
+   liṅgasya sadasattva-khyāpanaṃ kṛtaṃ bhavati iti na avaśyaṃ	liFgasya sat-asat-tva--KyApanam kRtam Bavati iti na avaSyam
+   vākya-dvaya-prayogaḥ.	vAkya--dvaya--prayogaH.
+   03033 anupalabdhāv api: yat sad upalabdhi-lakṣaṇa-prāptaṃ tad upalabhyata	03033 anupalabDO api: yat sat upalabDi--lakzaNa--prAptam tat upalaByata
+   eva ity ukte, anupalabhyamānaṃ tādṛśam asad iti pratīter anvaya-siddheḥ.	eva iti ukte, anupalaByamAnam tAdRSam asat iti pratIteH anvaya--sidDeH.
+   03034 dvayor apy anayoḥ prayogayor na avaśyaṃ pakṣa-nirdeśaḥ.	03034 dvayoH api anayoH prayogayoH na avaSyam pakza--nirdeSaH.
+   03035 yasmāt sādharmyavat-prayoge api yad upalabdhi-lakṣaṇa-prāptaṃ san na	03035 yasmAt sADarmyavat--prayoge api yat upalabDi--lakzaNa--prAptam san na
+   upalabhyate so asad-vyavahāra-viṣayaḥ. na upalabhyate ca atra	upalaByate saH asat--vyavahAra--vizayaH. naH upalaByate ca atra
+   upalabdhi-lakṣaṇa-prāpto ghaṭa ity ukte sāmarthyād eva na iha ghaṭa iti	upalabDi--lakzaNa--prAptaH GawaH iti ukte sAmarTyAt eva naH iha GawaH iti
+   bhavati.	Bavati.
+   03036 tathā vaidharmyavat-prayoge api: yaḥ sad-vyavahāra-viṣaya	03036 taTA vEDarmyavat--prayoge api: yaH sat--vyavahAra--vizaya
+   upalabdhi-lakṣaṇa-prāptaḥ, sa upalabhyata eva. na tathā atra tādṛśo ghaṭa	upalabDi--lakzaNa--prAptaH, saH upalaByate eva. na taTA atra tAdRSaH Gawa
+   upalabhyata ity ukte sāmarthyād eva na iha sad-vyavahāra-viṣaya iti	upalaByate iti ukte sAmarTyAt eva naH iha sat--vyavahAra--vizayaH iti
+   bhavati.	Bavati.
+   03037 kīdṛśaḥ punaḥ pakṣa iti nirdeśyaḥ.	03037 kIdRSaH punar pakzaH iti nirdeSyaH.
+   03038 svarūpeṇa eva svayam iṣṭo anirākṛtaḥ pakṣa iti.	03038 sva-rUpeNa eva svayam izwaH anirAkRtaH pakzaH iti.
+   03039 svarūpeṇa iti sādhyatvena iṣṭaḥ.	03039 sva-rUpeNa iti sADya-tvena izwaH.
+   03040 svarūpeṇa eva iti sādhyatvena eva iṣṭo na sādhanatvena api.	03040 sva-rUpeNa eva iti sADya-tvena eva izwaH na sADana-tvena api.
+   03041 yathā śabdasya anityatve sādhye cākṣuṣatvaṃ hetuḥ, śabde asiddhatvāt	03041 yaTA Sabdasya anitya-tve sADye cAkzuza-tvam hetuH, Sabde asidDa-tvAt-
+   sādhyam. na punas tad iha sādhyatvena eva iṣṭam, sādhanatvena abhidhānāt.	sADyam. na punar tat iha sADya-tvena eva izwam, sADana-tvena aBiDAnAt-.
+   03042 svayam iti vādinā.	03042 svayam iti vAdinA.
+   03043 yas tadā sādhanam āha.	03043 yaH tadA sADanam Aha.
+   03044 etena yady api kvacic śāstre sthitaḥ sādhanam āha: tac śāstrakāreṇa	03044 etena yadi api kvacid SAstre sTitaH sADanam Aha: tat SAstra-kAreNa
+   tasmin dharmiṇy aneka-dharma-abhyupagame api yas tadā tena vādinā dharmaḥ	tasmin DarmiNi aneka--Darma--aByupagame api yaH tadA tena vAdinA DarmaH
+   svayaṃ sādhayitum iṣṭaḥ, sa eva sādhyo na itara ity uktaṃ bhavati.	svayam sADayitum izwaH, saH eva sADyaH naH itaraH iti uktam Bavati.
+   03045 iṣṭa iti yatra arthe vivādena sādhanam upanyastaṃ tasya siddhim	03045 izwaH iti yatra arTe vivAdena sADanam upanyastam tasya sidDim
+   icchatā so anukto api vacanena sādhyaḥ.	icCatA saH anuktaH api vacanena sADyaH.
+   03046 tad adhikaraṇatvād vivādasya.	03046 tat aDikaraNa-tvAt vivAdasya.
+   03047 yathā parārthaś cakṣur-ādayaḥ saṃghātatvāc śayana-āsana-ādy-aṅga-vad	03047 yaTA para-arTaH cakzuH--AdayaH saMGAta-tvAt Sayana--Asana--Adi--aFga-vat-
+   iti. atra ātma-arthā ity anuktāv apy ātma-arthatā sādhyā. tena na	iti. atra Atma-arTAH iti anuktO api Atma--arTa-tA sADyA. tena na
+   ukta-mātram eva sādhyam ity uktaṃ bhavati.	ukta--mAtram eva sADyam iti uktam Bavati.
+   03048 anirākṛta iti, etal-lakṣaṇa-yoge api yaḥ sādhayitum iṣṭo apy arthaḥ	03048 anirAkRtaH iti, etal--lakzaNa--yoge api yaH sADayitum izwaH api arTaH
+   pratyakṣa-anumāna-pratīti-sva-vacanair nirākriyate, na sa pakṣa iti	pratyakza--anumAna--pratIti--sva---vacanEH nirAkriyate, na sa pakzaH iti
+   pradarśana-artham.	pradarSana--arTam.
+   03049 tatra pratyakṣa-nirākṛto yathā, aśrāvaṇaḥ śabda iti.	03049 tatra pratyakza--nirAkRtaH yaTA, aSrAvaNaH SabdaH iti.
+   03050 anumāna-nirākṛto yathā, nityaḥ śabda iti.	03050 anumAna--nirAkRtaH yaTA, nityaH SabdaH iti.
+   03051 pratīti-nirākṛto yathā, acandraḥ śaśī iti.	03051 pratIti--nirAkRtaH yaTA, acandraH SaSI iti.
+   03052 sva-vacana-nirākṛto yathā, na anumānaṃ pramāṇam.	03052 sva--vacana--nirAkRtaH yaTA, na anumAnam pramANam.
+   03053 iti catvāraḥ pakṣābhāsā nirākṛtā bhavanti.	03053 iti catvAraH pakza-ABAsAH nirAkRtAH Bavanti.
+   03054 evaṃ siddhasya, asiddhasya api sādhanatvena abhimatasya, svayaṃ	03054 evam sidDasya, asidDasya api sADana-tvena aBimatasya, svayam
+   vādinā tadā sādhayitum aniṣṭasya, ukta-mātrasya ca viparyayeṇa sādhyaḥ.	vAdinA tadA sADayitum anizwasya, ukta--mAtrasya ca viparyayeNa sADyaH.
+   tena eva svarūpeṇa abhimato vādina iṣṭo anirākṛtaḥ pakṣa iti	tena eva svarUpeNa aBimataH vAdinaH izwaH anirAkRtaH pakzaH iti
+   pakṣa-lakṣaṇam anavadyaṃ darśitaṃ bhavati.	pakza--lakzaNam anavadyam darSitam Bavati.
+   03055 trirūpaliṅga-ākhyānaṃ parārtha-anumānam ity uktam. tatra trayāṇāṃ	03055 trirUpa-liFga--a-AKyAnam para-arTa--anumAnam iti uktam. tatra trayANAm
+   rūpāṇām ekasya api rūpasya anuktau sādhanābhāsaḥ.	rUpANAm ekasya api rUpasya anuktO sADana-ABAsaH.
+   03056 uktāv apy asiddhau sandehe vā pratipādya-pratipādakayoḥ.	03056 uktO api asidDO sandehe vA pratipAdya--pratipAdakayoH.
+   03057 ekasya rūpasya dharmi-sambandhasya asiddhau sandehe vā asiddho	03057 ekasya rUpasya Darmi--sambanDasya asidDO sandehe vA asidDaH-
+   hetvābhāsāḥ.	hetvABAsAH.
+   03058 yathā, anityaḥ śabda iti sādhye cākṣuṣatvam ubhaya-asiddham.	03058 yaTA, anityaH SabdaH iti sADye cAkzuza-tvam uBaya-a-sidDam.
+   03059 cetanās tarava iti sādhye sarva-tvag-apaharaṇe maraṇaṃ	03059 cetanAH taravaH iti sADye sarva--tvac--apaharaNe maraNam
+   prativādy-asiddham, vijñāna-indriya-āyur nirodha-lakṣaṇasya maraṇasya	prativAdy-a-sidDam, vijQAna--indriya-AyuH niroDa--lakzaNasya maraNasya
+   anena abhyupagamāt, tasya ca taruṣv asambhavāt.	anena aByupagamAt, tasya ca taruzu asamBavAt-.
+   03060 acetanāḥ sukha-ādaya iti sādhye utpattimatvaṃ vā sāṃkhyasya svayaṃ	03060 acetanAH suKa--AdayaH iti sADye utpattimatvam vA sAMKyasya svayam
+   vādino asiddham.	vAdinaH asidDam.
+   03061 tathā svayaṃ tad-āśrayaṇasya vā sandehe asiddhaḥ.	03061 taTA svayam tat--ASrayaNasya vA sandehe asidDaH.
+   03062 yathā bāṣpa-ādi-bhāvena sandihyamāno bhūta-saṃghāto agni-siddhāv	03062 yaTA bAzpa-Adi-BAvena sandihyamAnaH BUta-saMGAtaH agni-sidDO=-
+   upadiśyamānaḥ sandigdha-asiddhaḥ.	upadiSyamAnaH sandigDa-a-sidDaH.
+   03063 yathā iha nikuñje mayūraḥ kekāyitād iti.	03063 yaTA iha nikuQje mayUraH kekAyitAt iti.
+   03064 tad-āpāta-deśa-vibhrame.	03064 tad--ApAta--deSa-viBrame.
+   03065 dharmy-asiddhāv apy asiddhaḥ, yathā sarvagata ātmā iti sādhye	03065 Darmy-a-sidDO api asidDaH, yaTA sarva-gataH AtmA iti sADye
+   sarvatra upalambhamāna-guṇatvam.	sarvatra upalamBamAna--guNa-tvam.
+   03066 tathā ekasya rūpasya asapakṣe asattvasya asiddhāv anaikāntiko	03066 taTA ekasya rUpasya asapakze asattvasya asidDO anEkAntikaH-
+   hetvābhāsaḥ.	hetvABAsaH.
+   03067 yathā śabdasya anityatva-ādike dharme sādhye prameyatva-ādiko	03067 yaTA Sabdasya anitya-tva-Adike Darme sADye prameya-tva--Adiko
+   dharmaḥ sapakṣa-vipakṣayoḥ sarvatra ekadeśe vā vartamānaḥ.	DarmaH sa-pakza--vipakzayoH sarvatra eka-deSe vA vartamAnaH.
+   03068 tathā, asya eva rūpasya sandehe apy anaikāntika eva.	03068 taTA, asya eva rUpasya sandehe api anEkAntikaH eva.
+   03069 yathā asarvajñaḥ kaścid vivakṣitaḥ puruṣo rāga-ādimān vā sādhye	03069 yaTA asarva-jQaH kaScid vivakzitaH puruzaH rAga-AdimAn vA sADye
+   vaktṛtva-ādiko dharmaḥ sandigdha-vipakṣa-vyāvṛttikaḥ.	vaktR-tva-AdikaH DarmaH sandigDa--vipakza--vyAvRttikaH.
+   03070 sarvajño vaktā na upalabhyate ity evaṃprakārasya anupalambhasya	03070 sarvajQaH vaktA naH upalaByate iti evaMprakArasya anupalamBasya
+   adṛśya-ātma-viṣayatvena sandeha-hetutvāt. tato asarvajña-viparyayād	adRSya--Atma-vizaya-tvena sandeha--hetu-tva-at. tatas asarvajQa--viparyayAt-
+   vaktṛtva-āder vyāvṛttiḥ sandigdhā.	vaktR-tva--AdeH vyAvRttiH sandigDA.
+   03071 vaktṛtva-sarvajñatvayor virodha-abhāvāc ca yaḥ sarvajñaḥ sa vaktā na	03071 vaktR-tva--sarvajQa-tvayoH viroDa-a-BAvAt ca yaH sarvajQaH sa vaktA na
+   bhavati ity adarśane api vyatireko na sidhyati sandehāt.	Bavati iti adarSane api vyatirekaH na siDyati sandehAt.
+   03072 dvividho hi padārthānāṃ virodhaḥ.	03072 dviviDaH hi padArTAnAm viroDaH.
+   03073 avikala-kāraṇasya bhavato anyabhāve abhāvād virodha-gatiḥ.	03073 avikala--kAraNasya BavataH anya-BAve aBAvAt viroDa--gatiH.
+   03074 śīta-uṣṇa-sparśa-vat.	03074 SIta--uzNa--sparSa-vat.
+   03075 paraspara-parihāra-sthita-lakṣaṇatayā vā bhāva-abhāva-vat.	03075 paraspara--parihAra--sTita-lakzaNa-tayA vA BAva--aBAva-vat.
+   03076 sa ca dvividho api virodho vaktṛtva-sarvajñatvayor na sambhavati.	03076 sa ca dviviDaH api viroDaH vaktR-tva--sarvajQa-tvayoH na samBavati.
+   03077 na ca aviruddha-vidher anupalabdhāv apy abhāva-gatiḥ.	03077 na ca avirudDa-viDeH anupalabDO api aBAva--gatiH.
+   03078 rāga-ādīnāṃ vacana-ādeś ca kāryakāraṇabhāva-asiddheḥ.	03078 rAga-AdInAm vacana-AdeH ca kArya-kAraNa-BAva-a-sidDeH.
+   03079 arthāntarasya ca akāraṇasya nivṛttau na vacana-āder nivṛttiḥ.	03079 arTa-antarasya ca akAraNasya nivRttO na vacana-AdeH nivRttiH.
+   03080 iti sandigdha-vyatireko anaikāntiko vacana-ādiḥ.	03080 iti sandigDa--vyatirekaH anEkAntikaH vacana-AdiH.
+   03081 dvayo rūpayor viparyaya-siddhau viruddhaḥ.	03081 dvayoH rUpayoH viparyaya--sidDO virudDaH.
+   03082 kayor dvayoḥ.	03082 kayoH dvayoH.
+   03083 sapakṣe sattvasya, asapakṣe ca asattvasya, yathā kṛtakatvaṃ	03083 sa-pakze sattvasya, asapakze ca asattvasya, yaTA kRtaka-tvam
+   prayatnānantarīyakatvaṃ ca nityatve sādhye viruddho hetvābhāsaḥ.	prayatna-AnantarIyaka-tvam ca nitya-tve sADye virudDaH hetvABAsaH.
+   03084 anayoḥ sapakṣe asattvam, asapakṣe ca sattvam iti viparyaya-siddhiḥ.	03084 anayoH sa-pakze asattvam, asapakze ca sattvam iti viparyaya--sidDiH.
+   03085 etau ca sādhya-viparyaya-sādhanād viruddhau.	03085 etO ca sADya--viparyaya--sADanAt virudDO.
+   03086 nanu ca tṛtīyo api iṣṭa-vighāta-kṛd viruddhaḥ.	03086 nanu ca tRtIyaH api izwa--viGAta--kRt virudDaH.
+   03087 yathā parārthāś cakṣur-ādayaḥ saṃghātatvāc śayana-āsana-ādy-aṅga-vad	03087 yaTA para-arTAH cakzuH--AdayaH saMGAta-tvAt Sayana--Asana--Adi--aFga-vat-
+   iti.	iti.
+   03088 tad iṣṭa-saṃhata-pārārthya-viparyaya-sādhanād viruddhaḥ.	03088 tat izwa--saMhata--pArArTya--viparyaya--sADanAt virudDaH.
+   03089 sa iha kasmān na uktaḥ.	03089 saH iha kasmAt naH uktaH.
+   03090 anayor antarbhāvāt.	03090 anayoH antarBAvAt.
+   03091 na hy ayam ābhyāṃ sādhya-viparyaya-sādhanatvena bhidyate.	03091 na hi ayam AByAm sADya--viparyaya--sADana-tvena Bidyate.
+   03092 na hi iṣṭa-uktayoḥ sādhyatvena kaścid viśeṣa iti.	03092 na hi izwa--uktayoH sADya-tvena kaScid viSezaH iti.
+   03093 dvayo rūpayor ekasya asiddhāv aparasya ca sandehe anaikāntikaḥ.	03093 dvayoH rUpayoH ekasya asidDO aparasya ca sandehe anEkAntikaH.
+   03094 yathā vīta-rāgaḥ kaścit sarvajño vā, vaktṛtvād iti. vyatireko atra	03094 yaTA vIta-rAgaH kaScid sarvajQaH vA, vaktR-tvAt iti. vyatirekaH atra
+   asiddhaḥ, sandigdho anvayaḥ.	asidDaH, sandigDaH anvayaH.
+   03095 sarvajña-vīta-rāgayor viprakarṣād vacana-ādes tatra sattvam asattvaṃ	03095 sarvajQa-vIta-rAgayoH viprakarzAt vacana-AdeH tatra sattvam asattvam
+   vā sandigdham.	vA sandigDam.
+   03096 anayor eva dvayo rūpayoḥ sandehe anaikāntikaḥ.	03096 anayoH eva dvayoH rUpayoH sandehe anEkAntikaH.
+   03097 yathā sātmakaṃ jīvaccharīraṃ prāṇa-ādimattvād iti.	03097 yaTA sa-Atmakam jIvat-SarIram prANa--AdimattvAt iti.
+   03098 na hi sātmaka-nirātmakābhyām anyo rāśir asti yatra ayaṃ prāṇa-ādir	03098 na hi sa-Atmaka-nirAtmakAByAm anyaH rASiH asti yatra ayam prANa-AdiH-
+   vartate.	vartate.
+   03099 ātmano vṛtti-vyavacchedābhyāṃ sarva-saṃgrahād.	03099 AtmanaH vRtti-vyavacCedAByAm sarva--saMgrahAt-.
+   03100 na apy anayor ekatra vṛtti-niścayaḥ.	03100 na api anayoH ekatra vRtti-niScayaH.
+   03101 sātmakatvena anātmakatvena vā prasiddhe prāṇa-āder asiddheḥ.	03101 sa-Atmaka-tvena anAtmaka-tvena vA prasidDe prANa-AdeH asidDeH.
+   03102 tasmāj jīvaccharīra-sambandhī prāṇa-ādiḥ sātmakād anātmakāc ca	03102 tasmAt jIvat-SarIra-sambanDI prANa-AdiH sa-AtmakAt anAtmakAt ca
+   sarvasmād vyāvṛttatvena asiddhes tābhyāṃ na vyatiricyate.	sarvasmAt vyAvRtta-tvena asidDeH tAByAm na vyatiricyate.
+   03103 na tatra anveti.	03103 na tatra anveti.
+   03104 ekātmany apy asiddheḥ.	03104 eka-Atmani api asidDeH.
+   03105 na api sātmakād anātmakāc ca tasya anvaya-vyatirekayor	03105 na api sa-AtmakAt anAtmakAt ca tasya anvaya--vyatirekayoH-
+   abhāva-niścayaḥ.	aBAva--niScayaH.
+   03106 eka-abhāva-niścayasya apara-bhāva-niścaya-nāntarīyakatvāt.	03106 eka--aBAva--niScayasya apara-BAva--niScaya-nAntarIyaka-tvAt.
+   03107 anvaya-vyatirekayor anyonya-vyavaccheda-rūpatvāt. tata eva	03107 anvaya--vyatirekayoH anyonya--vyavacCeda--rUpa-tva-at. tatas eva
+   anvaya-vyatirekayoḥ sandehād anaikāntikāḥ.	anvaya-vyatirekayoH sandehAt anEkAntikAH.
+   03108 sādhya-itarayor ato niścaya-abhāvāt.	03108 sADya--itarayoH atas niScaya--aBAvAt.
+   03109 evam eṣāṃ trayāṇāṃ rūpāṇām ekaikasya dvayor dvayor vā rūpayor	03109 evam ezAm trayANAm rUpANAm ekEkasya dvayoH dvayoH vA rUpayoH-
+   asiddhau sandehe vā yathāyogam asiddha-viruddha-anaikāntikās trayo	asidDO sandehe vA yaTAyogam asidDa-virudDa--anEkAntikAH trayaH-
+   hetvābhāsāḥ.	hetvABAsAH.
+   03110 viruddhāvyabhicāry api saṃśaya-hetur uktaḥ. sa iha kasmān na uktaḥ.	03110 virudDa-avyaBicArI api saMSaya--hetuH uktaH. saH iha kasmAt naH uktaH.
+   03111 anumāna-viṣaye asambhavāt.	03111 anumAna--vizaye asamBavAt-.
+   03112 na hi sambhavo asti kārya-svabhāvayor ukta-lakṣaṇayor anupalambhasya	03112 na hi samBavaH asti kArya--svaBAvayoH ukta-lakzaNayoH anupalamBasya
+   ca viruddhatāyāḥ.	ca virudDa-tAyAH.
+   03113 na ca anyo avyabhicārī.	03113 na ca anyaH avyaBicArI.
+   03114 tasmād avastu-darśana-bala-pravṛttam āgama-āśrayam anumānam āśritya	03114 tasmAt avastu-darSana--bala--pravRttam Agama-ASrayam anumAnam ASritya
+   tad-artha-vicāreṣu viruddhāvyabhicārī sādhana-doṣa uktaḥ.	tad--arTa--vicArezu virudDa-avyaBicArI sADana--dozaH uktaH.
+   03115 śāstrakārāṇām artheṣu bhrāntyā	03115 SAstra-kArANAm arTezu BrAntyA
+   viparīta-svabhāva-upasaṃhāra-sambhavāt.	viparIta--svaBAva--upasaMhAra--samBavAt.
+   03116 na hy asya sambhavo yathāvasthita-vastu-sthitiṣv	03116 na hi asya samBavaH yaTA-avasTita--vastu--sTitizu-
+   ātma-kārya-anupalambheṣu.	Atma--kArya-anupalamBezu.
+   03117 tatra udāharaṇam: yat sarva-deśa-avasthitaiḥ sva-sambandhibhir	03117 tatra udAharaNam: yat sarva-deSa--avasTitEH sva--sambanDiBiH-
+   yugapad abhisambadhyate tat sarvagatam, yathā ākāśam. abhisambadhyate ca	yugapad aBisambaDyate tat sarva-gatam, yaTA AkASam. aBisambaDyate ca
+   sarva-deśa-avasthitaiḥ sva-sambandhibhir yugapat sāmānyam iti.	sarva-deSa--avasTitEH sva--sambanDiBiH yugapad sAmAnyam iti.
+   03118 tat-sambandhi-svabhāva-mātra-anubandhinī	03118 tat-sambanDi--svaBAva--mAtra--anubanDinI
+   tad-deśa-saṃnihita-svabhāvatā.	tad--deSa--saMnihita--svaBAva-tA.
+   03119 na hi yo yatra na asti tad-deśam ātmanā vyāpnoti iti	03119 na hi yaH yatra na asti tat--deSam AtmanA vyApnoti iti
+   svabhāvahetu-prayogaḥ.	svaBAva-hetu--prayogaH.
+   03120 dvitīyo api prayogaḥ: yad upalabdhi-lakṣaṇa-prāptaṃ san na	03120 dvitIyaH api prayogaH: yat upalabDi--lakzaNa--prAptam san na
+   upalabhyate na tat tatra asti. tad yathā, kvacid avidyamāno ghaṭaḥ. na	upalaByate na tat tatra asti. tat yaTA, kvacid avidyamAnaH GawaH. na
+   upalabhyate ca upalabdhi-lakṣaṇa-prāptaṃ sāmānyaṃ vyakty-antarāleṣv iti.	upalaByate ca upalabDi--lakzaNa--prAptam sAmAnyam vyakti--antarAlezu iti.
+   ayam anupalambhaḥ svabhāvaś ca paraspara-viruddha-artha-sādhanād ekatra	ayam anupalamBaH svaBAvaH ca paraspara--virudDa--arTa--sADanAt ekatra
+   saṃśayaṃ janayataḥ.	saMSayam janayataH.
+   03121 trirūpo hetur uktaḥ. tāvatā ca artha-pratītir iti na pṛthag dṛṣṭānto	03121 trirUpaH hetuH uktaH. tAvatA ca arTa--pratItiH iti na pRTak dRzwAntaH-
+   nāma sādhana-avayavaḥ kaścid. tena na asya lakṣaṇaṃ pṛthag ucyate	nAma sADana--avayavaH kaScid-. tena na asya lakzaNam pRTak ucyate
+   gata-arthatvāt.	gata--arTa-tvAt.
+   03122 hetoḥ sapakṣa eva sattvam asapakṣāc ca sarvato vyāvṛttī rūpam uktam	03122 hetoH sa-pakzaH eva sattvam asapakzAt ca sarvatas vyAvRttiH rUpam uktam
+   abhedena. punar viśeṣeṇa kārya-svabhāvayor ukta-lakṣaṇayor	aBedena. punar viSezeNa kArya--svaBAvayoH ukta-lakzaNayoH-
+   janma-tan-mātra-anubandhau darśanīya-avaktau. tac ca darśayatā, yatra	janma--tan--mAtra--anubanDO darSanIya--avaktO. tat ca darSayatA, yatra
+   dhūmas tatra agniḥ, asaty agnau na kvacid dhūmo yathā mahānasa-itarayoḥ,	DUmaH tatra agniH, asati agnO na kvacid DUmaH yaTA mahAnasa--itarayoH,
+   yatra kṛtakatvaṃ tatra anityatvam, anityatva-abhāvo kṛtakatva-asambhavo	yatra kRtaka-tvam tatra anitya-tvam, anitya-tva--aBAvaH kRtaka-tva-a-samBavaH-
+   yathā	yaTA
+   ghaṭa-ākāśayoḥ, iti darśanīyam. na hy anyathā sapakṣa-vipakṣayoḥ	Gawa--AkASayoH, iti darSanIyam. na hi anyaTA sa-pakza--vipakzayoH
+   sadasattve yathokta-prakāre śakye darśayitum. tat kāryatā-niyamaḥ	sat-asat-tve yaTA-ukta--prakAre Sakye darSayitum. tat kArya-tA--niyamaH
+   kārya-liṅgasya	kArya--liFgasya
+   svabhāva-liṅgasya ca svabhāvena vyāptiḥ. asmiṃś ca arthe darśite darśita	svaBAva--liFgasya ca svaBAvena vyAptiH. asmin ca arTe darSite darSita
+   eva dṛṣṭānto bhavati. etāvān mātra-rūpatvāt tasya iti.	eva dRzwAntaH Bavati. etAvAn mAtra--rUpa-tvAt tasya iti.
+   03123 etena eva dṛṣṭānta-doṣā api nirastā bhavanti.	03123 etena eva dRzwAnta--dozAH api nirastAH Bavanti.
+   03124 yathā nityaḥ śabdo amūrtatvāt. karma-vat paramāṇu-vad ghaṭa-vad iti.	03124 yaTA nityaH SabdaH amUrta-tva-at. karma--vat paramANu-vat Gawa-vat iti.
+   ete dṛṣṭāntābhāsāḥ sādhya-sādhana-dharma-ubhaya-vikalāḥ.	ete dRzwAnta-ABAsAH sADya--sADana--Darma--uBaya--vikalAH.
+   03125 tathā sandigdha-sādhya-dharma-ādayaś ca, yathā rāga-ādimān ayaṃ	03125 taTA sandigDa--sADya--Darma-AdayaH ca, yaTA rAga-AdimAn ayam
+   vacanād rathyā-puruṣa-vat. maraṇa-dharmo ayaṃ puruṣo rāga-ādimattvād	vacanAt raTyA--puruza-vat. maraNa--DarmaH ayam puruzaH rAga-Adimat-tvAt-
+   rathyā-puruṣa-vat. asarvajño ayaṃ rāga-ādimatvād rathyā-puruṣa-vad iti.	raTyA--puruza-vat. asarva-jQaH ayam rAga-Adima-tvAt raTyA--puruza-vat iti.
+   03126 tathā ananvayo apradarśita-anvayaś ca, yathā yo uktā sa rāga-ādimān,	03126 taTA ananvayaH apradarSita--anvayaH ca, yaTA yaH uktA sa rAga-AdimAn,
+   iṣṭa-puruṣa-vat. anityaḥ śabdaḥ kṛtakatvād ghaṭa-vad iti.	izwa-puruza-vat. anityaH SabdaH kRtaka-tvAt Gawa-vat iti.
+   03127 tathā viparīta-anvayaḥ, yad anityaṃ tat kṛtakam iti.	03127 taTA viparIta--anvayaH, yat anityam tat kRtakam iti.
+   03128 sādharmyeṇa dṛṣṭānta-doṣāḥ.	03128 sADarmyeNa dRzwAnta--dozAH.
+   03129 vaidharmyeṇa api, paramāṇu-vat karma-vat ākāśa-vad iti	03129 vEDarmyeNa api, paramANu-vat karma--vat AkASa-vat iti
+   sādhya-ādy-avyatirekiṇaḥ.	sADya--Adi--avyatirekiNaH.
+   03130 tathā sandigdha-sādhya-vyatireka-ādayaḥ, yathā asarvajñāḥ	03130 taTA sandigDa--sADya--vyatireka-AdayaH, yaTA asarva-jQAH
+   kapila-ādayo anāptā vā	kapila-a-AdayaH anAptA vA
+   avidyamāna-sarvajñatā-āptatā-liṅgabhūta-pramāṇa-atiśaya-śāsanatvād iti.	avidyamAna--sarvajQa-tA--Apta-tA-a-liFga-BUta--pramANa--atiSaya-SAsana-tvAt iti.
+   atra vaidharmya-udāharaṇam, yaḥ sarvajña āpto vā sa jyotir-jñāna-ādikam	atra vEDarmya--udAharaNam, yaH sarvajQa AptaH vA sa jyotiH--jQAna--Adikam
+   upadiṣṭavān, yathā ṛṣabha-vardhamāna-ādir iti. tatra asarvajñatā anāptayoḥ	upadizwavAn, yaTA RzaBa--varDamAna-AdiH iti. tatra asarvajQa-tA anAptayoH
+   sādhya-dharmayoḥ sandigdho vyatirekaḥ.	sADya--DarmayoH sandigDaH vyatirekaH.
+   03131 sandigdha-sādhana-vyatireko yathā, na trayīvidā brāhmaṇena	03131 sandigDa--sADana--vyatirekaH yaTA, na trayI-vidA brAhmaNena
+   grāhya-vacanaḥ kaścid vivakṣitaḥ puruṣo rāga-ādimattvād iti. atra	grAhya-vacanaH kaScid vivakzitaH puruzaH rAga-AdimattvAt iti. atra
+   vaidharmya-udāharaṇam, ye grāhya-vacanā na te rāga-ādimantaḥ. tad yathā	vEDarmya--udAharaNam, ye grAhya--vacanAH na te rAga-AdimantaH. tat yaTA
+   gautama-ādayo dharma-śāstrāṇāṃ praṇetāra iti. gautama-ādibhyo	gOtama-AdayaH Darma-SAstrANAm praNetAraH iti. gOtama-AdiByaH-
+   rāga-ādimattvasya sādhana-dharmasya vyāvṛttiḥ sandigdhā.	rAga-Adimattvasya sADana-Darmasya vyAvRttiH sandigDA.
+   03132 sandigdha-ubhaya-vyatireko yathā, avīta-rāgāḥ kapila-ādayaḥ,	03132 sandigDa---u-Baya--vyatirekaH yaTA, avIta-rAgAH kapila-a-AdayaH,
+   parigraha-āgraha-yogād iti. atra vaidharmyeṇa udāharaṇam, yo vīta-rāgo na	parigraha--Agra-ha--yogAt iti. atra vEDarmyeNa udAharaNam, yaH vIta-rAgaH na
+   tasya parigraha-āgrahaḥ, yathā ṛṣabha-āder iti. ṛṣabha-āder	tasya parigraha--AgrahaH, yaTA RzaBa-AdeH iti. RzaBa-AdeH-
+   avīta-rāgatva-parigraha-āgraha-yogayoḥ sādhya-sādhana-dharmayoḥ sandigdho	avIta-rAga-tva--parigraha-a-agra-ha--yogayoH sADya--sADana--DarmayoH sandigDaH-
+   vyatirekaḥ.	vyatirekaH.
+   03133 avyatireko yathā, avīta-rāgo ayaṃ vaktṛtvāt. vaidharmyeṇa	03133 avyatirekaH yaTA, avIta-rAgaH ayam vaktR-tva-at. vEDarmyeNa
+   udāharaṇam, yatra avīta-rāgatvaṃ na asti na sa vaktā, yathā upala-khaṇḍa	udAharaNam, yatra avIta--rAga-tvam na asti na sa vaktA, yaTA upala-KaNxa
+   iti. yady apy upala-khaṇḍād ubhayaṃ vyāvṛttaṃ tathā api sarvo vīta-rāgo na	iti. yadi api upala-KaNxAt uBayam vyAvRttam taTA api sarvaH vIta-rAgaH na
+   vaktā iti vyāptyā vyatireka-asiddher avyatirekaḥ.	vaktA iti vyAptyA vyatireka-a-sidDeH avyatirekaH.
+   03134 apradarśita-vyatireko yathā, anityaḥ śabdaḥ, kṛtakatvād ākāśa-vad	03134 apradarSita-vyatirekaH yaTA, anityaH SabdaH, kRtaka-tvAt AkASa-vat-
+   iti vaidharmyeṇa.	iti vEDarmyeNa.
+   03135 viparīta-vyatireko yathā, yad akṛtakaṃ tan nityaṃ bhavati iti.	03135 viparIta--vyatirekaH yaTA, yat akRtakam tat nityam Bavati iti.
+   03136 na hy ebhir dṛṣṭāntābhāsāir hetoḥ sāmānyalakṣaṇaṃ sapakṣa eva	03136 na hi eBiH dRzwAnta-ABAsAiH hetoH sAmAnya-lakzaNam sa-pakzaH eva
+   sattvaṃ vipakṣe ca sarvatra asattvam eva niścayena śakyaṃ darśayituṃ	sattvam vipakze ca sarvatra asattvam eva niScayena Sakyam darSayitum
+   viśeṣa-lakṣaṇaṃ vā. tad arthāpattyā eṣāṃ nirāso draṣṭavyaḥ.	viSeza--lakzaNam vA. tat arTApattyE ezAm nirAsaH drazwavyaH.
+   03137 dūṣaṇā nyūnatā-ādy-uktiḥ.	03137 dUzaNA nyUna-tA-Adi--uktiH.
+   03138 ye pūrvaṃ nyūnatā-ādayaḥ sādhana-doṣā uktās teṣām udbhāvanaṃ	03138 ye pUrvam nyUna-tA-AdayaH sADana--dozAH uktAH tezAm udBAvanam
+   dūṣaṇam. tena para-iṣṭa-artha-siddhi-pratibandhāt.	dUzaNam. tena para--izwa--arTa--sidDi-pratibanDAt.
+   03139 dūṣaṇābhāsās tu jātayaḥ.	03139 dUzaNa-ABAsAH tu jAtayaH.
+   03140 abhūta-doṣa-udbhāvanāni jāty-uttarāṇi iti.	03140 aBUta-doza--udBAvanAni jAti--uttarANi iti.

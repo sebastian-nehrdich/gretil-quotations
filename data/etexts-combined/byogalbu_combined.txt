@@ -1,0 +1,1623 @@
+   YL 115V1 /// .uvana evā ///	YL 115V1 /// .uvanaH evA ///
+   2 /// .y. māne kṛtsnaṃ jagat. ///	2 /// .y. mAne kRtsnam jagat. ///
+   3 /// tā dṛśyante parittāḥ ///	3 /// tAH dRSyante parittAH ///
+   4 /// śmaśānam iva paśyati / tā ///	4 /// SmaSAnam iva paSyati / tAH ///
+   5 /// saṃcayāpacayau bahuśo gatvā ni ///	5 /// saMcaya-apacayO bahuSas gatvA ni ///
+   6 /// nāsāgrāc cāsya vaiḍūryadhvajo nirgataḥ ///	6 /// nAsA-agrAt ca-asya vExUrya-DvajaH nirgataH ///
+   R2 /// duścaritacāriṇāṃ pūrv. ///	R2 /// duScarita-cAriNAm pUrv. ///
+   3 /// vyāmiśrā dṛśyante / ///	3 /// vyAmiSrAH dRSyante / ///
+   4 /// uddhatāni ca marmāny ā ///	4 /// udDatAni ca marmAni A ///
+   5 /// jīvite cāsya pa ///	5 /// jIvite ca-asya paH ///
+   6 /// kapṛthagjana ///	6 /// kapRTagjanaH ///
+   YL 116V3 /// yāvat samudraparyantāṃ mahāpṛthivīṃ ///	YL 116V3 /// yAvat samudra-paryantAm mahA-pRTivIm ///
+   4 /// samudraparyantāyāṃ sarvasatvāṃ ///	4 /// samudra-paryantAyAm sarva-satvAm ///
+   5 /// uruḥ vipītakam / dvitīyāv. /// {lies: ūrur vipītakam}	5 /// uruH vipItakam / dvitIyAv. /// {lies: UruH vipItakam}
+   6 /// / yathātmānaṃ + + sarvasatvā ///	6 /// / yaTA-AtmAnam + + sarva-satvA ///
+   R1 /// bakair iva citaṃ sphuṭitadā ///	R1 /// bakEH iva citam sPuwita-dA ///
+   2 /// satvānāṃ ca pṛthivyāṃ tannimagnāṃ ///	2 /// satvAnAm ca pRTivyAm tad-nimagnAm ///
+   3 /// paripavanavac chidrīkṛtaṃ svam āśrayaṃ paśyati / ///	3 /// paripavana-vat CidrIkRtam svam ASrayam paSyati / ///
+   4 /// yā cūrṇīkṛtaṃ bhasma ///	4 /// yA cUrNIkRtam Basma ///
+   5 /// la + .e .ī ///	5 /// laH + .e .I ///
+   YL 117V3 /// pṛthivīṃ bhitvāṣṭau mahānarakān avabhāsya ///	YL 117V3 /// pRTivIm BitvA-azwO mahA-narakAn avaBAsya ///
+   4 /// mūrdhnā niṣkrāmya yāvad aghaniṣṭhāṃ gatvā ///	4 /// mUrDnA nizkrAmya yAvat aGa-nizWAm gatvA ///
+   5 /// gataṃ vinivartya nāsti hi rūpā ///	5 /// gatam vinivartya na-asti hi rUpAH ///
+   6 /// yati ca / tato lalāṭāt pravāho nirgatya ///	6 /// yati ca / tatas lalAwAt pravAhaH nirgatya ///
+   R1 /// sthitim āpūrayati / tataḥ paripākān nābhyāṃ .i ///	R1 /// sTitim ApUrayati / tatas paripAkAt nAByAm .i ///
+   2 /// / catvāraś ca mahābhūtāśiviṣā ///	2 /// / catvAraH ca mahABUta-aSivizAH ///
+   3 /// aṃgāraśalākāsadṛśa tejodhātoḥ /// {Cf. Yamabe 9.1.vd}	3 /// aMgAra-SalAkA-sadRSa tejaH-DAtoH /// {Cf. Yamabe 9.1.vd}
+   4 /// tat saptottaraṃ marmaśataṃ saṃnirodhayitvā /// {Cf. Yamabe 9.1.vd}	4 /// tat sapta-uttaram marma-Satam saMniroDayitvA /// {Cf. Yamabe 9.1.vd}
+   YL 118V1 /// tiṣṭhati / hrasvatāyāṃ / + + + + + + + + + + + + + + + + + +	YL 118V1 /// tizWati / hrasvatAyAm / + + + + + + + + + + + + + + + + + +
+   + + dīrghatāyāṃ / tathaiva parivṛttam antargataṃ ca kāye / hrasvatāyāṃ	+ + dIrGa-tAyAm / taTA-eva parivRttam antargatam ca kAye / hrasvatAyAm
+   tīryan mahācakravāḍagataṃ	tIryan mahA-cakra-vAxa-gatam
+   2 dīrghatāyāṃ tathaiva parivṛttaṃ kāye 'ntargatam / hrasvatāyām / + + + +	2 dIrGa-tAyAm taTA-eva parivRttam kAye antargatam / hrasvatAyAm / + + + +
+   + + + + + + + + tivat pūrṇam āśrayaṃ vāyubhiḥ paśyati / sarvasrotobhir	+ + + + + + + + tivat pUrNam ASrayam vAyuBiH paSyati / sarva-srotoBiH-
+   vāyūn praviśato + + +	vAyUn praviSataH + + +
+   3 + + + si sarvaṃ vā si + + + + + + + + + + + + + + + + + +	3 + + + si sarvam vA si + + + + + + + + + + + + + + + + + +
+   tailahradanimagnaṃ cātmānaṃ sarvasrotobhis tailena praviśata iti	tEla-hrada-nimagnam ca-AtmAnam sarva-srotoBiH tElena praviSataH iti
+   sarvakāyapratisaṃvedanāyām / //	sarva-kAya-pratisaMvedanAyAm / //
+   4 + + + + + + + + + + + + + + + + + + + + + + pravartamānaṃ paśyati /	4 + + + + + + + + + + + + + + + + + + + + + + pravartamAnam paSyati /
+   tailahradanimagnaṃ cākāśāvaṣṭabdham upari tailadhārābhiḥ siṃcyamānaṃ	tEla-hrada-nimagnam ca-AkASa-avazwabDam upari tEla-DArABiH siMcyamAnam
+   5 prasrabdhakāyāsaṃskāratāyām / // + + + + + + + + + + + + + + + + + + + +	5 prasrabDa-kAya-asaMskAra-tAyAm / // + + + + + + + + + + + + + + + + + + + +
+   + + + + dhā nirgatā prītisaṃvedanāyāṃ // candramaṇḍalarecita + + +ṃ + + +	+ + + + DA nirgatA prIti-saMvedanAyAm // candra-maNxala-recitaH + + +m + + +
+   6 sukhapratisaṃvedanāyām / // + + + + + + + + + + + + + + + + + + + + +	6 suKa-pratisaMvedanAyAm / // + + + + + + + + + + + + + + + + + + + + +
+   cittasaṃskārapratisaṃvedanāyāṃ // cittapaṭutvam atra cittasaṃ + + + + + +	citta-saMskAra-pratisaMvedanAyAm // citta-pawu-tvam atra cittasam + + + + + +
+   YL 118R1 + + + ta evādityaraśmayaḥ prasrabdhacittasaṃskāratāyām / // + + +	YL 118R1 + + + te eva-Aditya-raSmayaH prasrabDa-citta-saMskAra-tAyAm / // + + +
+   + + + + + + + + + + + + .ān avaṣṭabhya tiṭḥati cittapratisaṃvedanāyāṃ //	+ + + + + + + + + + + + .An avazwaBya tiwHati citta-pratisaMvedanAyAm //
+   hṛdaye nīlapītalohitāvadātaṃ	hRdaye nIla-pIta-lohita-avadAtam
+   2 raśmikalāpanirgataṃ + + + + + + + + + cittābhipramodanāyām / // + + + +	2 raSmi-kalApa-nirgatam + + + + + + + + + citta-aBipramodanAyAm / // + + + +
+   + + + paśyati / āśvāsapraśvāsasahīyaṃ cātra bāladārakaṃ cittanimitaṃ	+ + + paSyati / ASvAsa-praSvAsa-sahIyam ca-atra bAla-dArakam citta-nimitam
+   nimajjamānam /	nimajjamAnam /
+   3 cittasamādhānatāyām / // tato hṛdaye puṣkiriṇī + + + + + + + + + +	3 citta-samADAna-tAyAm / // tatas hRdaye puzkiriNI + + + + + + + + + +
+   taṃnimagnaṃ bāladārakaṃ samādhisukhasaktaṃ paśyati aṅgārābhatārakacitaḥ	taMnimagnam bAla-dArakam samADi-suKa-saktam paSyati aFgAra-ABa-tAraka-citaH
+   4 puruṣaś ca tasyāṃ eva puṣkiriṇyāṃ bāladārakaṃ gṛhyoddharati / tataḥ	4 puruzaH ca tasyAm eva puzkiriNyAm bAla-dArakam gRhya-udDarati / tatas-
+   puṣkiriṇī jvalati / cittavimocanatāyām / // durbalībhūtaṃ duḥkhitaṃ	puzkiriNI jvalati / citta-vimocana-tAyAm / // durbalIBUtam duHKitam
+   5 jīrṇaṃ svam āśrayaṃ paśyati / āśvāsapraśvāsa + + + + + + + + + + + + + +	5 jIrNam svam ASrayam paSyati / ASvAsa-praSvAsa + + + + + + + + + + + + + +
+   + + + lokaḥ śīryate anityānudarśanāyāṃ āśvāsapraśvāsāṃ jvalitāṃ paśyati /	+ + + lokaH SIryate anitya-anudarSanAyAm ASvAsa-praSvAsAm jvalitAm paSyati /
+   tathaiva ca kṛtsnaṃ lokaṃ	taTA-eva ca kRtsnam lokam
+   6 jvālayanti prahāṇānudarśanāyām / // + + + + + + + + + + + + + + + + + +	6 jvAlayanti prahANa-anudarSanAyAm / // + + + + + + + + + + + + + + + + + +
+   la phenapiṇḍākulaṃ svam āśrayaṃ paśyati / tadvad āśvāsapraśvāsāṃ kṛtsnaṃ	la Pena-piNxa-Akulam svam ASrayam paSyati / tadvat ASvAsa-praSvAsAm kRtsnam
+   ca lokaṃ	ca lokam
+   YL 119V1 virāgānudarśanāyām / // + + + + + + + + + + + + + + + + + + + + +	YL 119V1 virAga-anudarSanAyAm / // + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + nirodhānudarśanāyām / // + + + + + + + + + + +	+ + + + + + + + + + + + + + niroDa-anudarSanAyAm / // + + + + + + + + + + +
+   2 + + niḥsṛtāni muktipuṣpāni + + + + + + + + + + + + + + + + + + + + + + +	2 + + niHsRtAni mukti-puzpAni + + + + + + + + + + + + + + + + + + + + + + +
+   3 sya hṛdayāt kleśopakleśa + + + + + + + + + + + + + + + + + + (gap 119V4	3 sya hRdayAt kleSa-upakleSaH + + + + + + + + + + + + + + + + + + (gap 119V4
+   to R2 ca. 330 Akṣaras)	taH R2 ca. 330 Akzaras)
+   YL 119R3 ṇ. ś. l. t. nimittam / + + + + + + + + + + + + + + + + + + + + +	YL 119R3 N. S. l. t. nimittam / + + + + + + + + + + + + + + + + + + + + +
+   4 na hastena vaiḍūryaguhā ra + + + + + + + + + + + + + + + + + + + + (gap	4 na hastena vExUrya-guhA raH + + + + + + + + + + + + + + + + + + + + (gap
+   119R5 to 120V2 ca. 270 Akṣaras)	119R5 taH 120V2 ca. 270 Akzaras)
+   YL 120V3 niḥsṛtāḥ kṛtsnaṃ pṛthivīṃ spharitvā tiṣṭhanti / + + + + + + + + +	YL 120V3 niHsRtAH kRtsnam pRTivIm sParitvA tizWanti / + + + + + + + + +
+   4 aṅkureṣu nīlābhāni paṭṭacchatrāṇi + + + + + + + + + + + + + + (gap 120V5	4 aFkurezu nIla-ABAni pawwa=-CatrANi + + + + + + + + + + + + + + (gap 120V5
+   to 120R2 ca. 270 Akṣaras)	taH 120R2 ca. 270 Akzaras)
+   YL 120R3 ṣām upari pāṇḍarāṇy eva + + + + + + + + + + + + + + + + + + + + +	YL 120R3 zAm upari pANxarANi eva + + + + + + + + + + + + + + + + + + + + +
+   4 vati / kāye cāsya parā prasrabdhiḥ + + + + + + + + + + + + + + + (gap	4 vati / kAye ca-asya parA prasrabDiH + + + + + + + + + + + + + + + (gap
+   120R5 to 121V1 ca. 170 Akṣaras)	120R5 taH 121V1 ca. 170 Akzaras)
+   YL 121V1 + + + + + + + + + indradhvaja utpadyate / niṣṭhānimittaṃ + + + +	YL 121V1 + + + + + + + + + indra-DvajaH utpadyate / nizWA-nimittam + + + +
+   2 + + + + + + + + + + + + + + + + + + + + + smṛtinimittāni idam aparaṃ	2 + + + + + + + + + + + + + + + + + + + + + smRti-nimittAni idam aparam
+   niṣṭhānimittaṃ + + + + + + + + + + + + + samaṃtataḥ cchidra + + +	nizWA-nimittam + + + + + + + + + + + + + samaMtataH cCidraH + + +
+   3 + + + + + + + + + + + + + + + + + + mukhābhiḥ suvarṇaśalākābhir	3 + + + + + + + + + + + + + + + + + + muKABiH suvarNa-SalAkABiH-
+   ūrdhvamukhābhiḥ ratnacitābhiḥ + + + + + + + + rūpyaśalākābhyo nīlavarṇā +	UrDva-muKABiH ratna-citABiH + + + + + + + + rUpya-SalAkAByaH nIla-varNAH +
+   4 + + + + + + + + + + + + + + + + śalākābhiḥ pāṇḍarāḥ paṭṭā niḥsṛtāḥ	4 + + + + + + + + + + + + + + + + SalAkABiH pANxarAH pawwAH niHsRtAH
+   kṛtsnaṃ + + + + + + + + + + + rūpyaśālākābhyaḥ aṅkurā niḥsṛtāḥ	kRtsnam + + + + + + + + + + + rUpya-SAlAkAByaH aFkurAH niHsRtAH
+   5 + + + + + + + + + + + + + + + + + + + + + + + + + nīlābhāḥ paṭṭāḥ ye	5 + + + + + + + + + + + + + + + + + + + + + + + + + nIla-ABAH pawwAH ye
+   cākāśe pāṇḍarās te + + + + + + + + + dh. te / tadantargataḥ yog. + + +ṃ +	ca-AkASe pANxarAH te + + + + + + + + + D. te / tad-antargataH yog. + + +m +
+   6 + + + + + + + + + + + + + + + + + + + + + adhipatirūpāraṃbhaḥ āśvāsānām	6 + + + + + + + + + + + + + + + + + + + + + aDipati-rUpAraMBaH ASvAsAnAm
+   adhipatirūpaṃ / + + + + + + pānām / antarmukha + + + + + + + + + +	aDipati-rUpam / + + + + + + pAnAm / antarmuKaH + + + + + + + + + +
+   YL 121R1 + + + + + + + + + + + + + + + + + + + + + + + sphaṭikamayaṃ	YL 121R1 + + + + + + + + + + + + + + + + + + + + + + + sPawika-mayam
+   sopānaṃ + + + + + + + + + + avadātacandramaṇḍalacita + + + + + + + + +	sopAnam + + + + + + + + + + avadAta-candra-maNxala-citaH + + + + + + + + +
+   2 + + + + + + + + + + + + + + + + + + + + + + + + // punar	2 + + + + + + + + + + + + + + + + + + + + + + + + // punar-
+   āśvāsapraśvāsasthānāntararaṃ citta + + + + tatrasthaṃ cittaṃ śāntaṃ dṛḍhaṃ	ASvAsa-praSvAsa-sTAna-antara-ram citta + + + + tatrasTam cittam SAntam dRXam
+   cirakālaṃ sth. + s. +	cira-kAlam sT. + s. +
+   3 + + + + + + + + + + + + + + + + + + nirgataś ca nīlābhair aṃkuraiḥ	3 + + + + + + + + + + + + + + + + + + nirgataH ca nIla-ABEH aMkurEH
+   kṛtsnā pṛthivī ciyate / vajrāsanāni codgacchanti / teṣu niṣaṇṇā buddhāḥ	kRtsnA pRTivI ciyate / vajrAsanAni ca-udgacCanti / tezu nizaNNAH budDAH
+   ratnamayā	ratna-mayA
+   4 + + + + + + + + + vaiḍūryastaṃbhoparacitāḥ kūṭāgārā yāvat tṛtīyaṃ	4 + + + + + + + + + vExUrya-staMBa-uparacitAH kUwAgArA yAvat tRtIyam
+   dhyānam evaṃ sphuṭaṃ paśyati / tato 'sya mūrdhataḥ vajraṃ nirgacchati /	DyAnam evam sPuwam paSyati / tatas asya mUrDataH vajram nirgacCati /
+   tatra niṣaṇṇo bhagavāṃ +	tatra nizaNNaH BagavAm +
+   5 + + + + + + + + + + + + + + + nīlābhāni paṭṭacchatrāṇi mahānti sarvaṃ	5 + + + + + + + + + + + + + + + nIla-ABAni pawwa=-CatrANi mahAnti sarvam
+   caitad indranīlābhātirekābhi + + te buddhāś ca śabdam udīrayanti śāntaṃ	ca-etat indranIla-ABAtiH-eka-aBi + + te budDAH ca Sabdam udIrayanti SAntam
+   śāntam iti + + +	SAntam iti + + +
+   6 + + + + + + + + + + + ante sarvaṃ yogācārāśraye praviśati /	6 + + + + + + + + + + + ante sarvam yoga-AcAra-ASraye praviSati /
+   āśvāsapraśvāsaniṣpattir eva āśvāsapraśvāsa + + + + + + + + + + + + + + + +	ASvAsa-praSvAsa-nizpattiH eva ASvAsa-praSvAsa + + + + + + + + + + + + + + + +
+   YL 122V1 - 61 Akṣaras -	YL 122V1  61 AkzaraH -
+   2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + cch. + + + + +	2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + cC. + + + + +
+   + + + + pravisati / praśvasatas tatra tiṣṭhati / evaṃ paunaḥpuṇyena /	+ + + + pravisati / praSvasataH tatra tizWati / evam pOnaHpuNyena /
+   sarvasrotobhyaś ca tadvarṇā buddhāśrayā + + + .e + +	sarva-srotoByaH ca tad-varNAH budDa-ASrayAH + + + .e + +
+   5 + + + + + + + + + + + + + + + + + + + + (gap 122V6 to R3 ca. 250	5 + + + + + + + + + + + + + + + + + + + + (gap 122V6 taH R3 ca. 250
+   Akṣaras)	Akzaras)
+   YL 122R3 + + + + + + + + + + + + + + pūrṇaḥ samudra utpadyate /	YL 122R3 + + + + + + + + + + + + + + pUrNaH samudraH utpadyate /
+   tatparyanta + + +	tat-paryanta + + +
+   + + + + m āśvāsakānāṃ + + + sarvakāyapratisaṃvedanāyām / //	+ + + + m ASvAsakAnAm + + + sarva-kAya-pratisaMvedanAyAm / //
+   5 + + + + + + + + + + + + + (gap 122R6 to 123V1 ca. 150 Akṣaras)	5 + + + + + + + + + + + + + (gap 122R6 taH 123V1 ca. 150 Akzaras)
+   YL 123V1 + + + + + + + + + + yaṃ saṃkṣipya āśrayāt pravāho	YL 123V1 + + + + + + + + + + yam saMkzipya ASrayAt pravAhaH-
+   2 niḥsṛtaḥ {eher: nirgataḥ; cf. SWTF} + + + + + + + + + + + + + + + + + +	2 niHsRtaH {eher: nirgataH; cf. SWTF} + + + + + + + + + + + + + + + + + +
+   +prasrabdhakāyasaṃskāratayām / //	+prasrabDa-kAya-saMskAra-tayAm / //
+   + + + + + + + prītisaṃvedanāyām / //	+ + + + + + + prIti-saMvedanAyAm / //
+   + + + + + + + sukhapratisaṃvedanāyām /	+ + + + + + + suKa-pratisaMvedanAyAm /
+   + + + + + + + + + + + + + + + + + + + + +ḥ kāyaṃ padmacitaṃ	+ + + + + + + + + + + + + + + + + + + + +H kAyam padma-citam
+   + + + + + + + + + + + + + + + + + bhi dhārābhiḥ yogācārāśrayaṃ	+ + + + + + + + + + + + + + + + + Bi DArABiH yoga-AcAra-ASrayam
+   YL 123R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 123R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + + + + + + + + + + nam utpadyate /	+ + + + + + + + + + + + + + + + + + + + + + + nam utpadyate /
+   + + + + + + + + + + + + + + + + + + + + + + + muktāpuṣpa	+ + + + + + + + + + + + + + + + + + + + + + + muktA-puzpa
+   + + + + + + + + + + + + + + + + bhir abhrakūṭaiḥ	+ + + + + + + + + + + + + + + + BiH aBra-kUwEH
+   + + + + nirodhānudarśanāyāṃ / punar āśvāsapraśvāsa	+ + + + niroDa-anudarSanAyAm / punar ASvAsa-praSvAsa
+   + + + + + + + + + + + + + + + d. nimittaṃ samudracandraṃ	+ + + + + + + + + + + + + + + d. nimittam samudra-candram
+   + + + + + + + + + + + + + + + + uparīmam upacīyate + + +	+ + + + + + + + + + + + + + + + upari-imam upacIyate + + +
+   YL 124V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 124V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   sarvakāyapratisaṃvedanāvahitacetasaḥ ratnaśalākā iva	sarva-kAya-pratisaMvedana-avahita-cetasaH ratna-SalAkAH iva
+   ratnacitādityamaṇḍalāni	ratna-citA-Aditya-maNxalAni
+   + + + + śādityamaṇḍalopacaritāḥ evaṃ kṛtsnaṃ lokaṃ sphuṭaṃ paśyati /	+ + + + SAditya-maNxala-upacaritAH evam kRtsnam lokam sPuwam paSyati /
+   suvarṇabhājanaparyanteṣu ca ratnacitādityamaṇḍalāni + .r. + +	suvarNa-BAjana-paryantezu ca ratna-citA-Aditya-maNxalAni + .r. + +
+   niḥsṛtābhiḥ suvarṇavarṇābhiḥ snigdhābhir dhārābhir āśrayā + + + +	niHsRtABiH suvarNa-varNABiH snigDABiH DArABiH ASrayA + + + +
+   + + + + + + naṃ bhājane ca pūryamāṇe bhājanaparyanta + + + + + + +	+ + + + + + nam BAjane ca pUryamANe BAjana-paryanta + + + + + + +
+   + + + + + / sukhapratisaṃvedī āśvāsāt sukhapratisaṃved. + + + + +	+ + + + + / suKa-pratisaMvedI ASvAsAt suKa-pratisaMved. + + + + +
+   YL 124R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 124R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + āśvāsapraśvāsā pravartante tadvad yogācārāśrayaḥ pra + + + + + + + + +	+ + ASvAsa-praSvAsA pravartante tadvat yoga-AcAra-ASrayaH pra + + + + + + + + +
+   2 + + + + + + + + + + + + prītisaṃvedanāyām / sābhogaṃ sābhisaṃskāraṃ ca	2 + + + + + + + + + + + + prIti-saMvedanAyAm / sa-ABogam sa-aBisaMskAram ca
+   tasmiṃ samaye cittaṃ bhavati teṣāṃ ca ratnānām ālokaḥ ś. + + + + + +	tasmim samaye cittam Bavati tezAm ca ratnAnAm AlokaH S. + + + + + +
+   sukhapratisaṃvedanāvahitacetasa-āśrayam anantaparyanta + + +	suKa-pratisaMvedana-avahita-cetasa--ASrayam ananta-paryanta + + +
+   lasūryamaṇḍalāni nimagnāni dṛśyante / hṛdaye pī + + + +	lasUrya-maNxalAni nimagnAni dRSyante / hRdaye pI + + + +
+   + + + + + + + śalākābhiḥ dīpavad vyutkarṣaṇayogena pradī + + + +	+ + + + + + + SalAkABiH dIpa-vat vyutkarzaNa-yogena pradI + + + +
+   sukhapratisaṃvedanāyāṃ sābhogaṃ sābhisaṃskāraṃ ca tasmiṃ samaye cittaṃ	suKa-pratisaMvedanAyAm sa-ABogam sa-aBisaMskAram ca tasmim samaye cittam
+   bhavati /	Bavati /
+   YL 125V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 125V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + / etāny adhipatirūpāṇi punar āśvāsapraśvāsā n. v. +	+ + + + + + + + + + + / etAni aDipati-rUpANi punar ASvAsa-praSvAsAH n. v. +
+   + + + maṇḍalaiḥ sragdāmabhir iva vyāmiśrāḥ adho yāvad vāyumaṇḍalaṃ	+ + + maNxalEH sraj-dAmaBiH iva vyAmiSrAH aDas yAvat vAyu-maNxalam
+   cittasaṃskārapratisaṃvedanāyām / sābhogaṃ ca sābhisaṃskāraṃ tasmiṃ	citta-saMskAra-pratisaMvedanAyAm / sa-ABogam ca sa-aBisaMskAram tasmin
+   4 samaye cittaṃ bhavati / + + + + + + + + + + + + + + +	4 samaye cittam Bavati / + + + + + + + + + + + + + + +
+   prasrabdhacittasaṃskāratāyām / anābhogam anabhisaṃskāraṃ śāntaṃ tasmiṃ	prasrabDa-citta-saMskAra-tAyAm / anABogam anaBisaMskAram SAntam tasmin
+   samaye cittaṃ bhavati	samaye cittam Bavati
+   + + + + ca bāladārakaṃ ṣaḍdantaḥ śveto gajaḥ agraha + + + +	+ + + + ca bAla-dArakam zaz-dantaH SvetaH gajaH agrahaH + + + +
+   6 + + + + + + + + + + + + + + + + + + + + + cittapratisaṃvedanāyām / + + +	6 + + + + + + + + + + + + + + + + + + + + + citta-pratisaMvedanAyAm / + + +
+   + + + + + paśyati bhramantaṃ taṃniviṣṭadṛṣṭiṃ ca pramudit. + + + + +	+ + + + + paSyati Bramantam taMnivizwa-dRzwim ca pramudit. + + + + +
+   YL 125R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 125R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + tāś ca bāladārakaḥ praśvasataḥ ratna + + + + + + + +	+ + + + + + + + tAH ca bAla-dArakaH praSvasataH ratna + + + + + + + +
+   + + + cittābhipramodanāyām / sāntarbahiś ca tailapūrṇaṃ samudraṃ paśyati	+ + + citta-aBipramodanAyAm / sa-antar-bahis ca tEla-pUrNam samudram paSyati
+   3 + + + + + + + + + + + + + + + + + + + + + + + + + + + + bāladārakam	3 + + + + + + + + + + + + + + + + + + + + + + + + + + + + bAla-dArakam
+   āśvāsaparigṛhītam antarnimajjanmānaṃ paśyati / cittasamādhānatāyām /	ASvAsa-parigRhItam antar-nimajjan-mAnam paSyati / citta-samADAna-tAyAm /
+   4 + + + + + + + + + + + + + + + + + + + + + + + bāladārakaṃ	4 + + + + + + + + + + + + + + + + + + + + + + + bAla-dArakam
+   tārakoparacitena ca puruṣeṇoddhriyamānaṃ pśyati / + + +	tAraka-uparacitena ca puruzeNa-udDriyamAnam pSyati / + + +
+   + + + + + laṃ kūṭāgārāvaṣṭabdhaṃ svam āśrayaṃ paśyati cittaṃ cānuddhata +	+ + + + + lam kUwa-AgAra-avazwabDam svam ASrayam paSyati cittam ca-anudData +
+   6 + + + cittavimocanatāyām / + + + + + + + + + + + + + + + + + + + + + + +	6 + + + citta-vimocana-tAyAm / + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + saṃvartanyām iva kṛtsnaṃ lokaṃ viśīryantaṃ paśyati /	+ + + + + + + saMvartanyAm iva kRtsnam lokam viSIryantam paSyati /
+   YL 126V1 anityānudarśanāyām / + + + + + + + + + + + + + + + + + + + + + +	YL 126V1 anitya-anudarSanAyAm / + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + prahāṇānudarśanāyām / siṃham ādityamaṇḍalopacitaṃ	+ + + + + + + + + + prahANa-anudarSanAyAm / siMham Aditya-maNxala-upacitam
+   ratnopacitair a +	ratna-upacitEH a +
+   2 + + + + + + virāgānudarśanāyām / + + + + + + + + + + + +	2 + + + + + + virAga-anudarSanAyAm / + + + + + + + + + + + +
+   nirodhānudarśanāyām / utthānakāle anantaparyantaṃ prāsāda utpadyate /	niroDa-anudarSanAyAm / utTAna-kAle ananta-paryantam prAsAdaH utpadyate /
+   vaiḍūryastaṃbhadhāritaṃ / tatra siṃhāsanādhirūḍho	vExUrya-staMBa-DAritam / tatra siMhAsana-aDirUXaH-
+   3 bhagavāṃ prādurbhavati + + + + + + + + + + + + + + + + + + + niḥsṛtaiḥ	3 BagavAm prAdurBavati + + + + + + + + + + + + + + + + + + + niHsRtEH
+   ratnapuṣpavarṣaiḥ sa saṃgho vyavakīryate // puna + + +	ratna-puzpa-varzEH sa saMGaH vyavakIryate // puna + + +
+   pṛthivīm avaṣṭabhya tiṣṭhati / dvitīya ākāśam / catvāra + + + +	pRTivIm avazwaBya tizWati / dvitIyaH AkASam / catvAraH + + + +
+   + pair ādityamaṇḍalam / pratibaddhā dṛśyante / b. + + + + + +	+ pEH Aditya-maNxalam / pratibadDAH dRSyante / b. + + + + + +
+   + + + + + ritam avikampyam ātmānaṃ paśyati / nābhyāṃ + + + + + + + + + +	+ + + + + ritam avikampyam AtmAnam paSyati / nAByAm + + + + + + + + + +
+   YL 126R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 126R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + nāsāgre dvicchidro bhavati tābhyām āśvāsapraśvāsa + + + + + +	+ + + + + + nAsA-agre dvi=-CidraH Bavati tAByAm ASvAsa-praSvAsa + + + + + +
+   + + + + + / tato bhagavāṃ yathoktasmṛtinimittāni + + + + + +	+ + + + + / tatas BagavAm yaTA-ukta-smRti-nimittAni + + + + + +
+   bāladāraka iva + .r. + + āntargataś cittanimittaṃ dṛśyate / + +	bAla-dArakaH iva + .r. + + AntargataH citta-nimittam dRSyate / + +
+   sukhasamjñāyām / jvalanti duḥkhasaṃjñāyām / antaḥsuṣiraḥ + +	suKa-samjQAyAm / jvalanti duHKa-saMjQAyAm / antar-suziraH + +
+   + + + + + + neñjane / adhyātmavāyupathapariśodhanāt / sthitakāyo	+ + + + + + na-iQjane / aDyAtma-vAyu-paTa-pariSoDanAt / sTita-kAyaH-
+   6 bhavati + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	6 Bavati + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + .ākṛtā vitarkavicāroparamāt / sthitacitto bhavati	+ + + + + + + + .AkRtA vitarka-vicAra-uparamAt / sTita-cittaH Bavati
+   samādhipratilābhāt /	samADi-pratilABAt /
+   YL 127V1 ṛjubhāva + + + + + + + + + + + + t. samyaksuprahīṇānāṃ bhavati	YL 127V1 Rju-BAvaH + + + + + + + + + + + + t. samyak-su-prahINAnAm Bavati
+   abhipretakāryāvāhakatvāt / // punar āśvāsapraśvāsād vāhayataḥ sphaṭikamayo	aBipreta-kArya-AvAhaka-tvAt / // punar ASvAsa-praSvAsAt vAhayataH sPawikam-ayaH-
+   2 lokaḥ āśrayaś ca dṛṣyante / tato mūrdhnaḥ ratnamayo vṛkṣaḥ anantāṃ	2 lokaH ASrayaH ca dRzyante / tatas mUrDnaH ratna-mayaH vRkzaH anantAm
+   lokadhātūṃ spharitvā tiṣṭhati / tasmiṃ vṛkṣe ghanapatraśākhāsu buddhā	lokaDAtUm sParitvA tizWati / tasmim vRkze Gana-patra-SAKAsu budDA
+   dṛśyante dharmaṃ deśayantaḥ taṃmukhaniḥsṛtai ratnapuṣpapadmavarṣair	dRSyante Darmam deSayantaH taMmuKa-niHsRtEH ratna-puzpa-padma-varzEH-
+   3 nānāvarṇair loko vyavakīryate / vṛkṣamūlāni ca vaiḍūryābhāny	3 nAnA-varNEH lokaH vyavakIryate / vRkza-mUlAni ca vExUrya-ABAni-
+   antaḥsuṣirāṇi + ca yogācārapādatalaiḥ kāṃcanacakre pratiṣṭhitāni dṛśyante	antar-suzirANi + ca yoga-AcAra-pAda-talEH kAMcana-cakre pratizWitAni dRSyante
+   / tataḥ	/ tatas-
+   4 āśvāsataḥ nīlābhāḥ paṭṭāḥ tadadhirūḍhāni yathoktasmṛtinimittāni /	4 ASvAsataH nIla-ABAH pawwAH tad-aDirUXAni yaTA-ukta-smRti-nimittAni /
+   bāladārakaś ca vaiḍūryamūlādibhiḥ kāṃcanacakram avatarati praśvasataḥ	bAla-dArakaH ca vExUrya-mUla-AdiBiH kAMcana-cakram avatarati praSvasataH
+   avadātābhāḥ paṭṭāḥ	avadAta-ABAH pawwAH
+   5 tadadhirūḍhāni smṛtinimittāni bāladārakaś ca sarvaśākhābhir niḥsṛtaḥ	5 tad-aDirUXAni smRti-nimittAni bAladArakaH ca sarva-SAKABiH niHsRtaH
+   sarvabuddhānām upari paṭṭacchatraṃ kṛtvā tiṣṭhati / evaṃ paunaḥpuṇyena /	sarva-budDAnAm upari pawwa=-Catram kRtvA tizWati / evam pOnaHpuNyena /
+   punar āśvasataḥ nīlābhamuktāhārādhirūḍhāḥ	punar ASvasataH nIla-ABa-muktA-AhAra-aDirUXAH
+   6 eta evāvataranti / praśvasataḥ avadātamuktāhārādhirūḍhāḥ sarvaśākhāsu	6 ete eva-avataranti / praSvasataH avadAta-muktA-AhAra-aDirUXAH sarva-SAKAsu
+   sarvabuddhānāṃ muktāhāraṃ chatraṃ kṛtvā tiṣṭhati tadvad ādityaraśmibhiḥ	sarva-budDAnAm muktA-hAram Catram kRtvA tizWati tadvat Aditya-raSmiBiH
+   tataḥ sarvaṃ jñeyaṃ yogācārāśraye	tatas sarvam jQeyam yoga-AcAra-ASraye
+   YL 127R1 'ntardhīyate cittābhipramodanāyām / tataḥ yogācārāśrayaḥ	YL 127R1 antarDIyate citta-aBipramodanAyAm / tatas yoga-AcAra-ASrayaH
+   candramaṇḍalasaṃkāśaḥ dṛśyate / antaḥsamudra utpadyate / dvitīyaṃ bahiḥ	candra-maNxala-saMkASaH dRSyate / antar-samudraH utpadyate / dvitIyam bahis-
+   āśvāsaparigṛhītaṃ cittaṃ bāladārakarūpī antaḥsamudre	ASvAsa-parigRhItam cittam bAla-dAraka-rUpI antar-samudre
+   2 nimajjati āśvasataḥ praśvāsaparigṛhītam evaṃ bahiḥsamudre praśvasataḥ	2 nimajjati ASvasataH praSvAsa-parigRhItam evam bahis-samudre praSvasataH
+   cittasamādānāyām / // ante cāntaḥsamudre nimagnaṃ samādhisukhasaktaṃ	citta-samAdAnAyAm / // ante ca-antar-samudre nimagnam samADi-suKa-saktam
+   paśyati / ulkāsahasrāṇi cāntaḥsamudre	paSyati / ulkA-sahasrANi ca-antar-samudre
+   3 nipatanti naijvalanti kvathanti evaṃ bāhyasamudre / āśvāsaparigṛhītaḥ sa	3 nipatanti na-ejvalanti kvaTanti evam bAhya-samudre / ASvAsa-parigRhItaH sa
+   bāladārakaḥ antaḥsamudre nimajjati praśvāsaparigṛhītaś ca bahiḥ ante ca	bAla-dArakaH antar-samudre nimajjati praSvAsa-parigRhItaH ca bahis ante ca
+   sphaṭikamayaiḥ	sPawika-mayEH
+   4 kūṭāgāraiḥ + + + +ṃ paśyati / anekaśataparivāraṃ muktācitaṃ tataḥ	4 kUwAgArEH + + + +m paSyati / aneka-Sata-parivAram muktA-citam tatas-
+   smṛtisahīyo bhagavān utpadya paṭtaṃ badhnāti pāṇḍaraṃ samantataś ca śiraso	smRti-sahIyaH BagavAn utpadya pawtam baDnAti pANxaram samantataH ca SirasaH-
+   muktāhārā	mukta-AhArA
+   5 nirgacchanti paṭṭena muktāhāraiś ca + + + + + + + ti / evam anantā	5 nirgacCanti pawwena muktA-AhArEH ca + + + + + + + ti / evam anantA
+   lokadhātavaḥ sphaṭikamayaiḥ kūṭāgāraiḥ paripūrṇā dṛśyante / tadantargatāś	lokaDAtavaH sPawika-mayEH kUwAgArEH paripUrNAH dRSyante / tad-antargatAH-
+   ca buddhā bhagavantaḥ anekaśataparivārāḥ	ca budDAH BagavantaH aneka-Sata-parivArAH
+   6 tathaiva + + + + + + + + + + + + + + + + + + parivāram upaguhya	6 taTA-eva + + + + + + + + + + + + + + + + + + parivAram upaguhya
+   tiṣṭhanti / vimuktipratisaṃvedanāyāṃ / tataḥ āśvāsapraśvāsā vajracitāḥ	tizWanti / vimukti-pratisaMvedanAyAm / tatas ASvAsa-praSvAsAH vajra-citAH
+   pravartante /	pravartante /
+   YL 128V1 lokaṃ cūrṇaṃ viśīryate / anityānupaśyanāyām / // tatas tṛtīy. + +	YL 128V1 lokam cUrNam viSIryate / anitya-anupaSyanAyAm / // tatas tRtIy. + +
+   + + kṛtsnaṃ lokaṃ jvālayanti prahāṇānupaśyanāyām / // tair eva jvalitaiḥ	+ + kRtsnam lokam jvAlayanti prahANa-anupaSyanAyAm / // tEH eva jvalitEH
+   kvathamānāṃ jagat kṛtsnaṃ phenarāśir iva davati	kvaTamAnAm jagat kRtsnam Pena-rASiH iva davati
+   2 virāgānupaśyanāyām / // + + + + + + .ā yogācārāśrayaṃ + + + +	2 virAga-anupaSyanAyAm / // + + + + + + .A yoga-AcAra-ASrayam + + + +
+   śītalajalapariṣiktam iva uparamantaṃ paśyati nirodhānupaśyanāyām / //	SItala-jala-pariziktam iva uparamantam paSyati niroDa-anupaSyanAyAm / //
+   utthānakāle muktācitaḥ prāsāda utpadya	utTAna-kAle mukta-AcitaH prAsAdaH utpadya
+   3 tatrāntaḥ muktācita evāśrayaḥ + bhagavāṃś cāsya śirasi paṭṭaṃ badhnāti /	3 tatra-antar mukta-AcitaH eva-ASrayaH + BagavAn ca-asya Sirasi pawwam baDnAti /
+   kathayati caivam ānāpānasmṛtir bhāvayitavyā evaṃ caiṣā bhāvitā suparipūrṇā	kaTayati ca-evam AnA-pAna-smRtiH BAvayitavyA evam ca-ezA BAvitA su-paripUrNA
+   bhavati	Bavati
+   4 devāś ca kṛtsnaṃ gaganaṃ pūryamāṇaḥ puṣparatnavarṣam utsṛjanti iyaṃ	4 devAH ca kRtsnam gaganam pUryamANaH puzpa-ratna-varzam utsRjanti iyam
+   pratyutpannānāpānasmṛtibhāvanā / anāgatabhāvanāyām / nimnaṃ pradeśaṃ	pratyutpannAnA-pAna-smRti-BAvanA / anAgata-BAvanAyAm / nimnam pradeSam
+   paśyati muktācitaṃ tadupari	paSyati muktA-citam tad-upari
+   5 urupramāṇā bhāsurā manayaḥ ādityamaṇḍaloparisthāḥ tadadhirūḍho yogācāraḥ	5 uru-pramANAH BAsurAH manayaH Aditya-maNxala-upari-sTAH tad-aDirUXaH yoga-AcAraH
+   ātmānaṃ paśyati / abhisaṃbuddhaṃ cāryamaitreyam	AtmAnam paSyati / aBisaMbudDam ca-AryamEtreyam
+   anekaśrāvakasahasraparivāraṃ te ca bhikṣavaḥ kecid	aneka-SrAvaka-sahasra-parivAram te ca BikzavaH kecid-
+   6 dīrghatāsamāpannā dṛśyante kecid yāvan nirodhānupaśyanāyāṃ samāpannā	6 dIrGa-tA-sam-ApannAH dRSyante kecid yAvat niroDa-anupaSyanAyAm samApannA
+   dṛśyante iyatā anāgatabhāvanāyām / yatrānena bhāvayitavyā me	dRSyante iyatA anAgata-BAvanAyAm / yatra-anena BAvayitavyA me
+   tatkuśalamūlaṃ bhaviṣyati / atītabhāvanāyāṃ /	tat-kuSala-mUlam Bavizyati / atIta-BAvanAyAm /
+   YL 128R1 pratilomaṃ kāśyapādivipaśyiparyantāṃ buddhāṃ saparivārāṃ paśyati	YL 128R1 pratilomam kASyapa-Adi-vipaSyiparyantAm budDAm sa-parivArAm paSyati
+   tatra cātmānam iva kuśalamūlaṃ bhāvayantaṃ paśyati / te ca bhagavantaḥ	tatra ca-AtmAnam iva kuSala-mUlam BAvayantam paSyati / te ca BagavantaH
+   uparyupari dṛśyante // evam iyam ānāpānasmṛtiḥ	upari-upari dRSyante // evam iyam AnApAna-smRtiH
+   2 saparikarmā saviśeṣā niṣpannā vaktavyā / tasmād etac chrutvā yogācāryaiḥ	2 sa-parikarmA sa-viSezAH nizpannA vaktavyA / tasmAt etat SrutvA yoga-AcAryEH
+   yogācāraiś ca upadeśe bhāvanāyāṃ ca na viṣādaḥ kartavya iti / ataḥ param	yoga-AcArEH ca upadeSe BAvanAyAm ca na vizAdaH kartavyaH iti / atas param
+   anirākṛtadhyāyināṃ smṛtyupasthānanirvedhabhāgīyaśrāmaṇyaphalāni	anirAkRta-DyAyinAm smRti-upasTAna-nirveDa-BAgIya-SrAmaNya-PalAni
+   3 sasaṃbhārālaṃkārāṇy utpadyante // ato 'nantaraṃ dhātuyogaḥ	3 sa-saMBAra-alaMkArANi utpadyante // atas anantaram DAtu-yogaH
+   yogaśāstropadiṣṭo 'nusartavyaḥ iha tu prayogamātraṃ darśayiṣyāmaḥ tathaiva	yoga-SAstra-upadizwaH anusartavyaH iha tu prayoga-mAtram darSayizyAmaH taTA-eva
+   4 śīlādikṛtaparikarmaṇaḥ pādāṅguṣṭhanakhavivare cittopanibaddhaḥ kāryaḥ	4 SIla-Adi-kRta-parikarmaNaH pAdAFguzWa-naKa-vivare citta-upanibadDaH kAryaH
+   tato nakhavivaraṃ makaramukham iva lakṣyate tena cittaṃ praveśayati / yadā	tatas naKa-vivaram makara-muKam iva lakzyate tena cittam praveSayati / yadA
+   5 mūrdhānam ūrdhva + + + + + + + + + + + + + + + avasthāpayati / tadupari	5 mUrDAnam UrDva + + + + + + + + + + + + + + + avasTApayati / tad-upari
+   cittopanibandhaṃ karoti / tato mūtoḍīvat paripūrṇaṃ nānāprakārair	citta-upanibanDam karoti / tatas mUtoxI-vat paripUrNam nAnA-prakArEH-
+   aśucibhiḥ svam āśrayaṃ paśyati /	aSuciBiH svam ASrayam paSyati /
+   6 tatra catvāri mahābhūtāni + + + + + + + + + + + + raṃ paśyati /	6 tatra catvAri mahABUtAni + + + + + + + + + + + + ram paSyati /
+   ākāśadhātuḥ cakṣuḥsauṣīryādīnāṃ / vijñānadhātuḥ	AkASa-DAtuH cakzuH-sOzIrya-AdInAm / vijQAna-DAtuH
+   markaṭabāladārakabinducitolkādīṃ + +	markawa-bAla-dAraka-bindu-cita-ulkA-AdIm + +
+   YL 129V1 .i / tadvat sarvasatvāśrayeṣu asatvākhyeṣu ca kṛtsnaṃ lokaṃ + + +	YL 129V1 .i / tadvat sarva-satva-ASrayezu asatva-AKyezu ca kRtsnam lokam + + +
+   + + + + nakhavivaramakaraṃ tadaikasmiṃ keśapravāhā nirgacchanti /	+ + + + naKa-vivara-makaram tadA-ekasmim keSa-pravAhAH nirgacCanti /
+   samudraparyantāṃ mahāpṛthivīm āpūrya dvitīyapādāṅguṣṭhe	samudra-paryantAm mahA-pRTivIm ApUrya dvitIya-pAdAFguzWe
+   2 nakhavivaramakarāmukhe nirudhyante .i .i + + + + .r. + +	2 naKa-vivara-makarA-muKe niruDyante .i .i + + + + .r. + +
+   pravāhaspharaṇanirodhau / evaṃ keśādipuruṣapravāhāḥ spharaṇanirodhau ca /	pravAha-sParaNa-niroDO / evam keSa-Adi-puruza-pravAhAH sParaNa-niroDO ca /
+   tadvan nānādhātupuruṣapravāhā	tadvat nAnA-DAtu-puruza-pravAhA
+   3 spharaṇanirodhau / ihāśrayaṃ samantaṃ cchidraṃ praṇāḍikāyo + śunyaṃ	3 sParaNa-niroDO / iha-ASrayam samantam cCidram praNAxikAyaH + Sunyam
+   paśyaty evaṃ sarvasatvāsatvākhyam / tadva + + + bhinnaṃ rajaḥsaṃ + + +	paSyati evam sarva-satva-asa-tva-AKyam / tat-vaH + + + Binnam rajaHsam + + +
+   paśyati / tataḥ sarvaṃ viśīrṇaṃ cūrṇībhūtaṃ	paSyati / tatas sarvam viSIrNam cUrNIBUtam
+   4 vāyumaṇḍalaparyantam adhaḥ cordhvaṃ yāvad aghaniṣṭhaparyantaṃ paśyati /	4 vAyu-maNxala-paryantam aDas ca-UrDvam yAvat aGa-nizWa-paryantam paSyati /
+   tāni ca rājāṃsi antaḥśunyāni paśyati śunyatānukūlatvād asya manasikārasya	tAni ca rAjAMsi antaHSunyAni paSyati Sunyata-anukUla-tvAt asya manasikArasya
+   punaḥ kalalāvasthaṃ	punar kalala-avasTam
+   5 dhātuṣaṭkaṃ paśyati tatra ca āśīviṣā + + + dhātuvarṇāḥ tanmadhye śaṃkham	5 DAtu-zawkam paSyati tatra ca ASIvizAH + + + DAtu-varNAH tad-maDye SaMKam
+   ākāśadhātunimittam / tadantargataṃ ca bāladārakamukhaṃ paśyati	AkASa-DAtu-nimittam / tad-antargatam ca bAla-dAraka-muKam paSyati
+   vijñānadhātunimittam* jīvitatantunānubaddhaṃ	vijQAna-DAtu-nimittam* jIvita-tantunA-anubadDam
+   6 tac ca mātuḥ kukṣāv arbudapeśīghanapraśākhānukrameṇa vardhamānaṃ paśyati	6 tat ca mAtuH kukzO arbuda-peSI-Gana-praSAKA-anukrameNa varDamAnam paSyati
+   jāyamānaṃ bālakaumārayauvamadhyavṛddhā + + jīrṇaṃ vyādhitaṃ mahallakaṃ	jAyamAnam bAla-kOmAra-yOva-maDya-vRdDA + + jIrNam vyADitam mahat-lakam
+   mrīyamānaṃ cūrṇībhūtaṃ	mrIyamAnam cUrNIBUtam
+   YL 129R1 tadvat sarvasatvānāṃ yathāsaṃbhava eṣa eva v. .r. + yathoktaḥ	YL 129R1 tadvat sarva-satvAnAm yaTAsaMBavaH ezaH eva v. .r. + yaTA-uktaH
+   cūrṇapuruṣaka utpadyate / tadantaram abhiṣekenāśrayaṃ prīṇayan tato	cUrNa-puruzakaH utpadyate / tad-antaram aBizekena-ASrayam prINayan tatas-
+   bhrumadhye cittopanibandhaḥ tasmāt pravāho nirgataḥ	Bru-maDye citta-upanibanDaH tasmAt pravAhaH nirgataH
+   2 pṛthivīmaṇḍalaṃ bhitvā narakāṃ pretāṃś cāvabhāsya kāṃcanacakraṃ bhitvā	2 pRTivI-maNxalam BitvA narakAm pretAn ca-avaBAsya kAMcana-cakram BitvA
+   āpmaṇḍalaṃ vāyumaṇḍalam ākāśadhātum avabhāsya parivartya nābhyāṃ praviśya	ApmaNxalam vAyu-maNxalam AkASaDAtum avaBAsya parivartya nAByAm praviSya
+   mūrdhnā nirgatyāvyucchinnaṃ yāvad aghaniṣṭhāṃ devān	mUrDnA nirgatya-avyucCinnam yAvat aGa-nizWAm devAn
+   3 avabhāsya caturdhyānarasam ādāya mūrdhnā punaḥ praviśati / punar	3 avaBAsya catur-DyAna-rasam AdAya mUrDnA punar praviSati / punar-
+   bhrumadhyād ekaḥ pravāho nirgacchati dvitīyo nābhyā miśrībhūtaṃ pṛthivīṃ	BrumaDyAt ekaH pravAhaH nirgacCati dvitIyaH nAByAH miSrIBUtam pRTivIm
+   spharitvā tiṣṭhati / pūrvaṃ bhrumadhyād vicchidyte /	sParitvA tizWati / pUrvam BrumaDyAt vicCidyte /
+   4 tato nābhyāḥ tato nābhiparyantanimagnaṃ svam āśrayaṃ paśyati sthitiś ca	4 tatas nAByAH tatas nABi-paryanta-nimagnam svam ASrayam paSyati sTitiH ca
+   vṛkṣaparipūrṇā dṛśyate tanmūlaniṣaṇṇā bhikṣavo dhātuprayogaṃ bhāvayanti	vRkza-paripUrNA dRSyate tad-mUla-nizaNNAH BikzavaH DAtu-prayogam BAvayanti
+   tannakhavivaraniḥsṛtāś ca dhātavaḥ	tad-naKa-vivara-niHsRtAH ca DAtavaH
+   5 kṛtsnaṃ lokaṃ spharitvā parasparamakaramukheṣu teṣv eva nirudhyante /	5 kRtsnam lokam sParitvA paraspara-makara-muKezu tezu eva niruDyante /
+   evaṃ ṣaḍdhātumayaiḥ puruṣaiḥ pṛthivīṃ pūrṇāṃ paśyati / kadācid dhātūṃ	evam zaz-DAtu-mayEH puruzEH pRTivIm pUrNAm paSyati / kadAcid DAtUm
+   vyastāṃ paśyati kadācit samastān / ante sarvaṃ nābhyāṃ	vyastAm paSyati kadAcid samastAn / ante sarvam nAByAm
+   6 nirudhyate / + + + + manasikāra + + + + + + + + + + + + + + + + +	6 niruDyate / + + + + manasikAraH + + + + + + + + + + + + + + + + +
+   utpadyate mūrdhata e + + ūrdhvamukhas tiṣṭhati / + .r. + + + lakacitā	utpadyate mUrDate e + + UrDva-muKaH tizWati / + .r. + + + laka-citA
+   tārakā praveśaniṣkramaṃ karoti cchidra	tArakA praveSa-nizkramam karoti cCidra
+   YL 130V1 + + + sa vā lot. k. + + + + + + + + + + taḥ sarvāṇy aśucidravyāṇi	YL 130V1 + + + sa vA lot. k. + + + + + + + + + + tas sarvANi aSuci-dravyANi
+   ṣaḍdhātumaṇḍalāni ca paśyati / tadvat kṛtsnaṃ lokaṃ satvāsatvākhyaṃ chidrī	zaz-DAtu-maNxalAni ca paSyati / tadvat kRtsnam lokam satva-asa-tva-AKyam CidrI
+   krīyamāṇaṃ paśyati nābhisthānāntare	krIyamANam paSyati nABi-sTAna-antare
+   2 ca ratnamayaṃ siṃhamukham utpadyate + + + lokaḥ śabdaṃ kurvāṇo	2 ca ratna-mayam siMhamuKam utpadyate + + + lokaH Sabdam kurvANaH-
+   nirudhyate / yogācārāśrayaś ca tasmiṃ niruddhe garuḍamukham utpadyate /	niruDyate / yoga-AcAra-ASrayaH ca tasmim nirudDe garuxa-muKam utpadyate /
+   tadantargataṃ khadyotakrimim iva spandamānaṃ	tad-antargatam Kadyota-krimim iva spandamAnam
+   3 jvalitaṃ vijñānanimittaṃ paśyati r. + + + + + garuḍamukhaṃ parivārya	3 jvalitam vijQAna-nimittam paSyati r. + + + + + garuxa-muKam parivArya
+   tiṣṭhaṃ tato garuḍamukhāc chabdo nirgacchati layanaṃ ca viśīryate /	tizWam tatas garuxa-muKAt SabdaH nirgacCati layanam ca viSIryate /
+   ākāśībhūtaṃ ca kṛtsnaṃ lokaṃ paśyati /	AkASIBUtam ca kRtsnam lokam paSyati /
+   4 cirakālam upaśamasukham anubhūya vyutthānakāle ratnacitaṃ paṭṭabaddham	4 cira-kAlam upaSama-suKam anuBUya vyutTAna-kAle ratna-citam pawwa-badDam
+   āśrayam utpadyate / mūrdhataś ca niḥsṛtaṃ ratnamayaṃ chatram anantāṃ	ASrayam utpadyate / mUrDataH ca niHsRtam ratna-mayam Catram anantAm
+   lokadhātūṃ spharitvā tiṣṭhati /	lokaDAtUm sParitvA tizWati /
+   5 chatradaṇḍaṃ ca kāṃcanacakre pratiṣṭhitaṃ paśyati / sarvasrotobhyaś	5 Catra-daNxam ca kAMcana-cakre pratizWitam paSyati / sarva-srotoByaS
+   cāsyākāśanibhāḥ paṭṭā niḥsṛtya kṛtsnaṃ satvasamudram upaguhya tiṣṭhanti /	ca-asya-AkASa-niBAH pawwAH niHsRtya kRtsnam satva-samudram upaguhya tizWanti /
+   punaḥ kṛtaparikarmaṇo 'vasthitasamādheḥ	punar kRta-parikarmaNaH avasTita-samADeH
+   6 saśastraḥ puruṣa utpadyate + + + + + + + + + + + + + + + + + kṛtsnaṃ	6 sa-SastraH puruzaH utpadyate + + + + + + + + + + + + + + + + + kRtsnam
+   lokaṃ + .yā saṃskāragataṃ + + + cchidraṃ śunyam ātmātmīyavirahitaṃ paśyati	lokam + .yA saMskAra-gatam + + + cCidram Sunyam Atma-AtmIya-virahitam paSyati
+   / sarvasaṃskāragataṃ	/ sarva-saMskAra-gatam
+   YL 130R1 viśīryantaṃ nirudhyamānaṃ ca paśyati / s. + + + + + + + + + + + +	YL 130R1 viSIryantam niruDyamAnam ca paSyati / s. + + + + + + + + + + + +
+   + .y. + .ṛ + + + + + + nirmalena rasena upari cāsya	+ .y. + .R + + + + + + nirmalena rasena upari ca-asya
+   nīlapītalohitāvadātarasaparipūrṇāt	nIla-pIta-lohita-avadAta-rasa-paripUrNAt
+   2 parvatā dṛśyante ādarśe ca parvatapratibiṃba + + + + + + + + + + + + + +	2 parvatAH dRSyante AdarSe ca parvata-pratibiMba + + + + + + + + + + + + + +
+   nānāvarṇena rasena āśrayaṃ pūrayati / ratnabhājanam iva	nAnA-varNena rasena ASrayam pUrayati / ratna-BAjanam iva
+   nirmalarasaparipūrṇam āśrayaṃ paśyati /	nirmala-rasa-paripUrNam ASrayam paSyati /
+   3 sthityāṃ ca sarvarasaparipūrṇaṃ parvataṃ + + + + tiṣṭhati / tasmāt	3 sTityAm ca sarva-rasa-paripUrNam parvatam + + + + tizWati / tasmAt-
+   puṣparasanadyaḥ kṣīraghṛtanavanītanadyaḥ	puzpa-rasa-nadyaH kzIra-GRta-navanIta-nadyaH
+   nānāvarṇaratnanakṣatracandramaṇḍalanadyaḥ pravilīnā	nAnA-varNa-ratna-nakzatra-candra-maNxala-nadyaH pravilInA
+   4 yogācārāśrayaṃ pūrayanti / punaḥ + + + muktasya kṛtaparikarmaṇaḥ	4 yoga-AcAra-ASrayam pUrayanti / punar + + + muktasya kRta-parikarmaNaH
+   avasthitasamādheḥ dvidhāśrayam avatiṣṭhate / tatra kakṣyāpuṭa iva	avasTita-samADeH dviDA-ASrayam avatizWate / tatra kakzyA-puwaH iva
+   nānāśucidravyāṇi /	nAnA-Suci-dravyANi /
+   5 atha kṣu + + + + + + + + + + + + + + caturṣu ca pārśveṣu	5 aTa kzu + + + + + + + + + + + + + + caturzu ca pArSvezu
+   samudracatuṣṭayaṃ sarvāśuciparipūrṇaṃ paśyati / taddarśanasaṃvignasya ca	samudra-catuzwayam sarva-aSuci-paripUrNam paSyati / tad-darSana-saMvignasya ca
+   yoginaḥ nirvidabhisūcakaṃ jvalitaṃ	yoginaH nirvidaBi-sUcakam jvalitam
+   6 + + + + + + + + + + + + + + + + + + + + va ante sarvaṃ nirudhyate /	6 + + + + + + + + + + + + + + + + + + + + vaH ante sarvam niruDyate /
+   ākāśī bhavati ca lokaḥ tata upaśamasukham anubhavati āśrayo	AkASI Bavati ca lokaH tatas upaSama-suKam anuBavati ASrayaH-
+   lakṣaṇānuvyaṃjanavirājita utpadyate /	lakzaNa-anuvyaMjana-virAjitaH utpadyate /
+   YL 131V1 caturṣu ca pārśveṣu + + + + + + + + nīlapītalohitāvadātāṃ paśyati	YL 131V1 caturzu ca pArSvezu + + + + + + + + nIla-pIta-lohita-avadAtAm paSyati
+   / teṣu kramaśaḥ praviṣṭasya tadvarṇarasenāśrayaḥ pūryate / padmāni	/ tezu kramaSas pravizwasya tad-varNa-rasena-ASrayaH pUryate / padmAni
+   cāpanīyante / nīlādyābhiś ca svāśrayaprabhābhiḥ	ca-apanIyante / nIla-Adi-ABiH ca sva-ASraya-praBABiH
+   2 kṛtsnaṃ lokam āpūrayati / caturbhyaś ca samudrebhya uttarati / nābhyāś	2 kRtsnam lokam ApUrayati / caturByaH ca samudreByaH uttarati / nAByAS
+   cāsya puṣpapravāho niḥsṛtaḥ caturdhā gacchati / samudreṣu caturṣu patati /	ca-asya puzpa-pravAhaH niHsRtaH caturDA gacCati / samudrezu caturzu patati /
+   tataḥ samudrā rasaiḥ pūryante /	tatas samudrAH rasEH pUryante /
+   3 padmāni copanīyante / tato bhrumadhyān nānāratnamayaḥ buddhapravāho	3 padmAni ca-upanIyante / tatas BrumaDyAt nAnA-ratna-mayaH budDa-pravAhaH-
+   nirgataḥ padmeṣu niṣaṇṇo dṛśyate / pṛthivīdhātuṃ samāpadyamānaḥ tataś ca	nirgataH padmezu nizaNNaH dRSyate / pRTivI-DAtum samApadyamAnaH tatas ca
+   ghanaḥ pravāhān	GanaH pravAhAn
+   4 niḥsṛtaḥ + + + + + + + + + r.ṃ .i + lokaḥ kṛtsna ekaghano dṛśyate /	4 niHsRtaH + + + + + + + + + r.m .i + lokaH kRtsnaH eka-GanaH dRSyate /
+   nitāntalohitavarṇaḥ tato 'bdhātuṃ samāpadyate ta eva buddhāḥ tebhya	nitAnta-lohita-varNaH tatas ap-DAtum samApadyate te eva budDAH teByaH-
+   udakapravāhebhyaḥ	udaka-pravAheByaH
+   5 + + + + + + + + + + + + + + + + + + + + + + + + + yāḥ iva ca loko	5 + + + + + + + + + + + + + + + + + + + + + + + + + yAH iva ca lokaH-
+   lakṣyate / tatas tejodhātuṃ samāpadyate / tebhyo nānāvarṇāny arcīṃsi	lakzyate / tatas tejaH-DAtum samApadyate / teByaH nAnA-varNAni arcIMsi
+   niḥsṛtya ta	niHsRtya ta
+   6 + + + + + + + + + + + + + + + + + + + + + tato vāyudhātuṃ samāpadyante	6 + + + + + + + + + + + + + + + + + + + + + tatas vAyuDAtum samApadyante
+   tebhyo nānāvarṇā vāyukalāpā niḥsṛtya yogācārāśrayaṃ chidrī kurvanti /	teByaH nAnA-varNAH vAyu-kalApAH niHsRtya yoga-AcAra-ASrayam CidrI kurvanti /
+   himābhra	himABra
+   YL 131R1 iva kṛtsnaṃ lokaṃ paśyati / tata ākāśadhātuṃ samāpadyate / + + +	YL 131R1 iva kRtsnam lokam paSyati / tatas AkASa-DAtum samApadyate / + + +
+   + + + + + .ṛ + + cch. ākāśadhātuvarṇāḥ pravāhā āgacchanti yogācārāśrayaṃ +	+ + + + + .R + + cC. AkASa-DAtu-varNAH pravAhAH AgacCanti yoga-AcAra-ASrayam +
+   + + + + hi jīrṇaṃ	+ + + + hi jIrNam
+   2 kṛtsnaṃ lokaṃ / vaiḍūrya + + + + + + + + + + + + + + + + + buddhā	2 kRtsnam lokam / vExUrya + + + + + + + + + + + + + + + + + budDA
+   dṛśyante / pariśuddhabinducitagātrāḥ tatsadṛśāś ca pravāhā āgatā	dRSyante / pariSudDa-bindu-cita-gAtrAH tad-sadRSAH ca pravAhA AgatA
+   yogācārāśrayaṃ kṛtsnaṃ ca traidhātukaṃ	yoga-AcAra-ASrayam kRtsnam ca trEDAtukam
+   3 spharitvā tiṣṭhanti / tataḥ kṛtsnaṃ traidhātukaṃ buddhāśrayāṃś ca	3 sParitvA tizWanti / tatas kRtsnam trEDAtukam budDa-ASrayAn ca
+   sūkṣmān avaśyāyabindūn iva spandamānāṃ paśyati / punaḥ saṃkṣiptena	sUkzmAn avaSyAya-bindUn iva spandamAnAm paSyati / punar saMkziptena
+   gṛhītapadmā buddhāḥ yogācārāśrayaṃ padmair vyavakiranti	gRhIta-padmAH budDAH yoga-AcAra-ASrayam padmEH vyavakiranti
+   4 aghaniṣṭhaparyantaṃ lokaṃ padmacitaṃ tadadhirūdhāṃś ca buddhān paśyati	4 aGa-nizWa-paryantam lokam padma-citam tat-aDirUDAn ca budDAn paSyati
+   yugapat ṣaḍdhātusamāpannān / tanniḥsṛtaiḥ pravāhaiḥ padmapravāhaiś	yugapad zaz-DAtu-samApannAn / tad-niHsRtEH pravAhEH padma-pravAha-EH-
+   cānekavarṣadhārābhir	ca-aneka-varza-DArABiH-
+   5 iva svam āśrayaṃ pūryate / + + + + + + + + + + te / tata upaśamasukham	5 iva svam ASrayam pUryate / + + + + + + + + + + te / tatas upaSama-suKam
+   anubhūya vyutthānakāle ratnacitaṃ ratnavṛkṣādhar niṣaṇṇaṃ cātmānaṃ paśyati	anuBUya vyutTAna-kAle ratna-citam ratna-vRkza-aDar nizaNNam ca-AtmAnam paSyati
+   / sa ca ratnavṛkṣaḥ anantaṃ lokaṃ	/ sa ca ratna-vRkzaH anantam lokam
+   6 spharitvā tiṣṭhati tataḥ + + + + + + + + ratnavṛkṣād ratnavarṣeṇa	6 sParitvA tizWati tatas + + + + + + + + ratna-vRkzAt ratna-varzeNa
+   kṛtsnaṃ satvasamudram upagūḍhaṃ paśyati / tataḥ samuccālabhedāṃś ca	kRtsnam satva-samudram upagUXam paSyati / tatas samuccAlaBedAn ca
+   sauṣīryādīṃ paśyati / dhātuśabdaś ca sarvatra bu	sOzIrya-AdIm paSyati / DAtu-SabdaH ca sarvatra bu
+   YL 132V1 + + + + + + + + + + + + + + + + pratipakṣasamanantaram	YL 132V1 + + + + + + + + + + + + + + + + pratipakza-samanantaram
+   ātmadṛṣṭipratipakṣārthaṃ skandhaparīkṣārabhyate / tatparikarmādau	Atma-dRzwi-pratipakza-arTam skanDa-parIkzA-AraByate / tad-parikarma-AdO
+   sādhāraṇaṃ maitrāśayādiṃ pūrvoktaṃ / ayaṃ	sADAraNam mEtrASaya-Adim pUrva-uktam / ayam
+   2 + + + + + + + + + + + + + + + pṛthivīṃ sasyarāśipūrṇāṃ paśyati / tathā	2 + + + + + + + + + + + + + + + pRTivIm sasya-rASi-pUrNAm paSyati / taTA
+   nā + + + + + + + + + + + + bāhyaṃ parikarma ādhyātmikaṃ tu parikarma	nA + + + + + + + + + + + + bAhyam parikarmaH ADyAtmikam tu parikarma
+   śarīraṃ paṃcavibhāga	SarIram paMca-viBAga
+   3 + + + + + + + + + + + ni cāśu + + kūṭāgāraiḥ sphutāṃ pṛthivīṃ paśyati	3 + + + + + + + + + + + ni ca-ASu + + kUwAgArEH sPutAm pRTivIm paSyati
+   paśyataś cāsya phenapiṇḍam utpadyate / etad rūpaskandhaparikarma /	paSyataH ca-asya Pena-piNxam utpadyate / etat rUpa-skanDa-parikarma /
+   kṣudrair aśucidravyaiḥ	kzudrEH aSuci-dravyEH
+   4 pṛthivīṃ citāṃ paśyati / tato budbudā utpadyante /	4 pRTivIm citAm paSyati / tatas budbudAH utpadyante /
+   vedanāskandhaparikarma tataḥ + + + + + + ryaiś ca karanthaiḥ pṛthivīṃ	vedanA-skanDa-parikarma tatas + + + + + + ryEH ca karanTEH pRTivIm
+   citāṃ paśyati / paśyataś cāsya marīcikalāpā	citAm paSyati / paSyataH ca-asya marIci-kalApA
+   5 utpadyante / saṃjñāskandhaparikarma / + + + + + nirhṛtair	5 utpadyante / saMjQA-skanDa-parikarma / + + + + + nirhRtEH-
+   anyakoṣṭhāgāraiś ca pṛthivīṃ pūrṇāṃ paśyati / + + + + + kadalīpatravat	anya-kozWa-agArEH ca pRTivIm pUrNAm paSyati / + + + + + kadalI-patra-vat-
+   puṭāpuṭayogenāvatiṣṭhanti / saṃskāraskandhaparikarma	puwa-apuwa-yogena-avatizWanti / saMskAra-skanDa-parikarma
+   6 + + + + + + + + + + + + + + + + mayaskṛtotpadyante / tena spandamānāṃ	6 + + + + + + + + + + + + + + + + mayaskRta-utpadyante / tena spandamAnAm
+   pṛthivīṃ paśyati vijñānaskandhaparikarma rūpaskandhasya mūlasthānāntarāṇi	pRTivIm paSyati vijQAna-skanDa-parikarma rUpa-skanDasya mUla-sTAna-antarANi
+   / kaḍamaṃ lalāṭaṃ mūrdhā	/ kaxamam lalAwam mUrDA
+   YL 132R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 132R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + adhyātmabāhyāni satvāsatvākhyāni śīryamāṇāni paśyati /	+ + + + + + + + aDyAtma-bAhyAni satva-asa-tva-AKyAni SIryamANAni paSyati /
+   śīrṇe ca sa	SIrNe ca sa
+   2 + + + + + + + + + + + + + + + + + + svam āśrayaṃ phenapiṇḍamayam	2 + + + + + + + + + + + + + + + + + + svam ASrayam Pena-piNxa-mayam
+   utpadyate / tato bhrumadhyāt phenapiṇḍapravāho nirgacchati /	utpadyate / tatas BrumaDyAt Pena-piNxa-pravAhaH nirgacCati /
+   aghaniṣṭhaparyantāṃ kṛtsnāṃ pṛthivīṃ spharati tato	aGa-nizWa-paryantAm kRtsnAm pRTivIm sParati tatas-
+   3 nābhyāṃ nirudhyate / tataḥ + + + khanibhānāṃ buddhānāṃ pravāha utpadyate	3 nAByAm niruDyate / tatas + + + KaniBAnAm budDAnAm pravAhaH utpadyate
+   / aghaniṣṭhaparyantāṃ kṛtsnāṃ pṛthivīṃ spharati / punaś ca tatraiva	/ aGa-nizWa-paryantAm kRtsnAm pRTivIm sParati / punar ca tatra-eva
+   nirudhyate vedanāskandhaparīkṣādhimutiḥ /	niruDyate vedanA-skanDa-parIkzA-aDimutiH /
+   4 svam āśrayam udakabudbudacitāṃ paśyati kāyika + + + + + + + + + + + + +	4 svam ASrayam udaka-budbuda-citAm paSyati kAyika + + + + + + + + + + + + +
+   + evaṃ sarvasatvānāṃ tato vāmād aṃsād budbudapravāho niḥsṛtaḥ	+ evam sarva-satvAnAm tatas vAmAt aMsAt budbuda-pravAhaH niHsRtaH
+   5 traidhātukaṃ spharitvā tiṣṭhati / + + + budbudā udakavarṇāḥ duḥkāyāṃ	5 trEDAtukam sParitvA tizWati / + + + budbudAH udaka-varNAH duHkAyAm
+   jvalitā + + + + + + + + + sukhāyāṃ budbudeṣu strīmukhāni dṛśyante /	jvalitA + + + + + + + + + suKAyAm budbudezu strI-muKAni dRSyante /
+   rāgasyādhipatirūpaṃ / jvalite	rAgasya-aDipati-rUpam / jvalite
+   6 + + + + + + + + + + + + + + + + + + + + + tasmiṃn eva pradeśe tatraiva	6 + + + + + + + + + + + + + + + + + + + + + tasmin eva pradeSe tatra-eva
+   nirudhyate / tataḥ + + + + + + nīlābhānāṃ budbudacitānāṃ buddhānāṃ pravāho	niruDyate / tatas + + + + + + nIla-ABAnAm budbuda-citAnAm budDAnAm pravAhaH-
+   nirgacchati / traidhātukaṃ	nirgacCati / trEDAtukam
+   YL 133V1 spharitvā tiṣṭhati / tatraiva ca nirudhyate /	YL 133V1 sParitvA tizWati / tatra-eva ca niruDyate /
+   saṃjñāskandhaparīkṣādhimuktiḥ + + + + + + + + + + + + spandamānaṃ tato	saMjQA-skanDa-parIkzA-aDi-muktiH + + + + + + + + + + + + spandamAnam tatas-
+   dakṣiṇād aṃsād asya marīcipravāho nirgacchati /	dakziNAt aMsAt asya marIci-pravAhaH nirgacCati /
+   2 kṛtsnāṃ pṛthivīṃ spharati / tataḥ pṛthivīṃ suvarṇavālukācitām iva	2 kRtsnAm pRTivIm sParati / tatas pRTivIm suvarNa-vAlukA-AcitAm iva
+   paśyati / tatraiva ca nirudhyate / tataḥ + + + + + suvarṇābhānāṃ buddhānāṃ	paSyati / tatra-eva ca niruDyate / tatas + + + + + suvarNa-ABAnAm budDAnAm
+   pravāho nirgataḥ traidhātukaṃ spharitvā tiṣṭhati /	pravAhaH nirgataH trEDAtukam sParitvA tizWati /
+   3 tatraiva ca nirudhyate / tato + + gaṇḍād vicitrapuṭāpuṭacitaḥ	3 tatra-eva ca niruDyate / tatas + + gaNxAt vicitra-puwA-puwa-citaH
+   puruṣapravāho nirgataḥ traidhātukaṃ spharitvā	puruza-pravAhaH nirgataH trEDAtukam sParitvA
+   kadalīpatrapuṭāpuṭanirbhūjanayogena ca vicitraṃ saṃskāragataṃ	kadalI-patra-puwA-puwa-nirBUjana-yogena ca vicitram saMskAra-gatam
+   4 + + + + + + + nābhyāṃ nirudhyate / tasyā eva nābhyā ākāśanibhānāṃ	4 + + + + + + + nAByAm niruDyate / tasyAH eva nAByAH AkASa-niBAnAm
+   buddhānāṃ pravāho nirgataḥ / traidhātukaṃ spharitvā tiṣṭhati / tatraiva	budDAnAm pravAhaH nirgataH / trEDAtukam sParitvA tizWati / tatra-eva
+   nirudhyate vijñānaskandhaparīkṣādhimuktiḥ /	niruDyate vijQAna-skanDa-parIkzA-aDi-muktiH /
+   5 + + + + + + + + + + + + + + + + + lapravṛttisthānāntarāṇāṃ + ry. t. + +	5 + + + + + + + + + + + + + + + + + lapra-vRtti-sTAna-antarANAm + ry. t. + +
+   + mā + sā + + + + nām iva pravāho nirgataḥ traidhātukaṃ spharitvā tiṣṭhati	+ mA + sA + + + + nAm iva pravAhaH nirgataH trEDAtukam sParitvA tizWati
+   / tadantargatā	/ tad-antargatA
+   6 + + + + + + + + + + + + + + + + + + + nābhyāṃ nirudhyate / tatah1,89] +	6 + + + + + + + + + + + + + + + + + + + nAByAm niruDyate / tatah1,89] +
+   + + + + + + + + + buddhānāṃ pravāho nirgataḥ traidhātukaṃ spharitvā	+ + + + + + + + + budDAnAm pravAhaH nirgataH trEDAtukam sParitvA
+   tiṣṭhati / tatraiva ca nirudhyate /	tizWati / tatra-eva ca niruDyate /
+   YL 133R1 tadanantaram abhiṣekenāśrayaṃ prīṇayan tato bhrumadhyādhastāt	YL 133R1 tad-anantaram aBizekena-ASrayam prINayan tatas BrumaDyA-aDastAt-
+   pravāho nirgatya yāvad vāyumaṇḍalaṃ bhitvā ākāśāt parivṛtya nābhyāṃ punaḥ	pravAhaH nirgatya yAvat vAyu-maNxalam BitvA AkASAt parivRtya nAByAm punar-
+   praviśya mūrdhnā nirgatya yāvad aghaniṣṭhān avabhāsya	praviSya mUrDnA nirgatya yAvat aGa-nizWAn avaBAsya
+   2 mūrdhnā punaḥ praviśati / + + + + + + + + + + + + + + + + + + + + + + +	2 mUrDnA punar praviSati / + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + ti / teṣu vyucchinneṣu tebhyaḥ sthānāntarebhyo	+ + + + + + + ti / tezu vyucCinnezu teByaH sTAna-antareByaH-
+   yathoktalakṣaṇā buddhā	yaTA-ukta-lakzaNA budDA
+   3 niḥsṛtāḥ + + + + + + + + + + + + + .dh. + + + t. + + + + + + + + + + +	3 niHsRtAH + + + + + + + + + + + + + .D. + + + t. + + + + + + + + + + +
+   nirudhyate / tato niṣṭhānimittam ādityamaṇḍaladvaye 'ntargataṃ paṃcaraṃga	niruDyate / tatas nizWA-nimittam Aditya-maNxala-dvaye antargatam paMcaraMga
+   4 + + + + + + + + + + + + t. / tataḥ nīlapītalohitāvadātāḥ pravāhāḥ + + +	4 + + + + + + + + + + + + t. / tatas nIla-pIta-lohita-avadAtAH pravAhAH + + +
+   + + + + gatā āśrayaṃ prīṇayanti krameṇaiva ca nirgatāḥ sthitim āpūrayanti	+ + + + gatAH ASrayam prINayanti krameNa-eva ca nirgatAH sTitim ApUrayanti
+   5 + + + + + + + + + + + + + + + + + + madhye cābhyunnate pradeśe + + + + +	5 + + + + + + + + + + + + + + + + + + maDye ca-aByunnate pradeSe + + + + +
+   + + + + + + + + + + nirmalojjvalaśastracitaṃ pratyavekṣaṇānimittam	+ + + + + + + + + + nirmala-ujjvala-Sastra-citam pratyavekzaNa-animittam
+   utpadyate / śa	utpadyate / Sa
+   6 + + + + + + + + + + + + + + + + + + + + ṇāni skandhanimittāni / + + + +	6 + + + + + + + + + + + + + + + + + + + + NAni skanDa-nimittAni / + + + +
+   + + + + + + + + + tatrāṣṭabhir ākāraiḥ parāmṛśati / tatra rogataḥ	+ + + + + + + + + tatra-azwaBiH AkArEH parAmRSati / tatra rogataH
+   parāmṛśan /	parAmRSan /
+   YL 134V1 + + + + + + + + + + + + + + + + + + + + + + + + + gaṇḍataḥ	YL 134V1 + + + + + + + + + + + + + + + + + + + + + + + + + gaNxataH
+   parāmṛśan sravata + + + paśyati / śalyataḥ parāmṛśan / rūpaskandhaṃ	parAmRSan sravata + + + paSyati / SalyataH parAmRSan / rUpa-skanDam
+   jarādibhiḥ śalyair viddhaṃ	jarA-AdiBiH SalyEH vidDam
+   2 paśyati / aghataḥ parāmṛśan / rūpaskandhaṃ + + + + + + + + + + rgair	2 paSyati / aGatas parAmRSan / rUpa-skanDam + + + + + + + + + + rgEH-
+   upahanyamānaṃ paśyati sūnāsikāṣṭha iva cchidyamānaṃ / arūpiṇaḥ skandhāṃ	upahanyamAnam paSyati sUnA-asi-kAzWaH iva cCidyamAnam / arUpiNaH skanDAm
+   parasparopaghātaiḥ upahanyamānāṃ paśyati /	paraspara-upaGAtEH upahanyamAnAm paSyati /
+   3 anityataḥ parāmṛśan / + + + + + + + + + + + + + / duḥkataḥ parāmṛśan /	3 anityataH parAmRSan / + + + + + + + + + + + + + / duHkataH parAmRSan /
+   jvalitān ayaspiṇḍasaṃnibhāṃ paśyati / śunyataḥ parāmṛśan /	jvalitAn ayaspiNxa-saMniBAm paSyati / Sunyatas parAmRSan /
+   4 + + + + + + + + + + + + + + + anātmataḥ parāmṛśan / + + + + +	4 + + + + + + + + + + + + + + + anAtmataH parAmRSan / + + + + +
+   svatantrāṃś ca paśyati / tato niruddhe sarvasmiṃ jñeye muktācitakūṭāgāre	svatantrAn ca paSyati / tatas nirudDe sarvasmim jQeye mukta-Acita-kUwa-AgAre
+   'ntargataṃ muktācitam eva	antargatam mukta-Acitam eva
+   5 ātmānaṃ paśyati / + + + + + + + + + + + + + + + + + + + + + + + + + + ca	5 AtmAnam paSyati / + + + + + + + + + + + + + + + + + + + + + + + + + + ca
+   medinyāṃ buddhāṃ padmapaṅktim ivāvasthitāṃ paśyati sarvabuddhānāṃ nābhiṣu	medinyAm budDAm padma-paFktim iva-avasTitAm paSyati sarva-budDAnAm nABizu
+   cādityamaṇḍalāni	ca-Aditya-maNxalAni
+   6 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + m.	6 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + m.
+   yaniyāmāvakrāntiphalaprāptivairāgyāsravakṣayadṛṣṭadharmasu	yaniyAma-avakrAnti-Pala-prApti-vErAgya-Asrava-kzaya-dRzwa-Darmasu
+   YL 134R1 + + + + + + + + + + + + + + + ātmadṛṣṭipratipakṣārthaṃ	YL 134R1 + + + + + + + + + + + + + + + Atma-dRzwi-pratipakza-arTam
+   ātmadṛṣṭipratipakṣasamanantaraṃ + + + + m. nārthaṃ cāyatanaparīkṣārabhyate	Atma-dRzwi-pratipakza-samanantaram + + + + m. na-arTam ca-Ayatana-parIkzA-AraByate
+   / tathaiva śīlādikṛtaparikarmaṇaḥ	/ taTA-eva SIla-Adi-kRta-parikarmaNaH
+   2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + / tata	2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + / tata
+   āyatanasthānāntarāṇy āyatanāni ca klinnajvalitaśunyāni paśyati / ta	Ayatana-sTAna-antarANi AyatanAni ca klinna-jvalita-SunyAni paSyati / ta
+   3 + + + + + + + + + + + + + + + + + + + + + + + + + + bhiś citaṃ kāyaṃ	3 + + + + + + + + + + + + + + + + + + + + + + + + + + BiH citam kAyam
+   paśyati / tadvat kṛtsnaṃ lokaṃ paṃcagati .ai + bhiś citaṃ paśyati / narake	paSyati / tadvat kRtsnam lokam paMcagati .E + BiH citam paSyati / narake
+   cakṣu	cakzu
+   4 + + + + + + + + + + + + + + + + + + + + + + + + + + + sarvaṃ jñeyaṃ	4 + + + + + + + + + + + + + + + + + + + + + + + + + + + sarvam jQeyam
+   grasati / tadvac	grasati / tat-vat-
+   chrotaghrāṇajihvākāyamanorūpaśabdagandharasaspṛṣṭavyadharmā	Crota-GrANa-jihvA-kAya-manaH-rUpa-Sabda-ganDa-rasa-spRzwavyaDarmA
+   5 + + + + + + + + + + + + + + + + + + + ādityamaṇḍalaraśmibhir bhinnāṃ	5 + + + + + + + + + + + + + + + + + + + Aditya-maNxala-raSmiBiH BinnAm
+   paśyati / evam āyatanacitāṃ dhvajāṃ ādityamaṇḍalāvyatimiśrād	paSyati / evam Ayatana-citAm DvajAm Aditya-maNxala-avyatimiSrAd
+   ādityamaṇḍalaraśmibhir bhinnāṃ	Aditya-maNxala-raSmiBiH BinnAm
+   6 paśyati / tataḥ + + + + + + + + + + + + + + + + + + + + + ṇi dṛśyante /	6 paSyati / tatas + + + + + + + + + + + + + + + + + + + + + Ni dRSyante /
+   tato 'bhiṣekaḥ + + + + le + + + kaḥ prīṇitāśrayasya bhrumadhyādhastāt	tatas aBizekaH + + + + le + + + kaH prINita-ASrayasya BrumaDya-aDastAt
+   pravāhaḥ dvādaśāyatana	pravAhaH dvAdaSa-Ayatana
+   YL 135V1 + + + laiva nirgato yāvad vāyumaṇḍalaṃ bhitvākāśāt parivṛtya	YL 135V1 + + + lA-eva nirgataH yAvat vAyu-maNxalam BitvA-AkASAt parivRtya
+   nābhyāṃ praviśya mūrdhnā nirgatya yāvad aghaniṣṭhāṃ devāṃ gatvā punar	nAByAm praviSya mUrDnA nirgatya yAvat aGa-nizWAm devAm gatvA punar-
+   mūrdhnā praviśya bhrumadhyādhastād eva nirgatya nābhyāś ca	mUrDnA praviSya BrumaDya-aDastAt eva nirgatya nAByAH ca
+   2 tataḥ sthitir anantaparyantā āyatanaparipūrṇā dṛśyate sthityupari ca	2 tatas sTitiH ananta-paryantA Ayatana-paripUrNA dRSyate sTiti-upari ca
+   parvatā vicitrāyatanacitā dṛśyante / ante ca sarvaṃ nābhyāṃ nirudhyate /	parvatAH vicitra-Ayatana-citAH dRSyante / ante ca sarvam nAByAm niruDyate /
+   punar āyatanaparīkṣāvahitacetasaḥ pa	punar Ayatana-parIkzA-avahita-cetasaH pa
+   3 + + + + + + + + dṛśyante / śiraś ca mahāpramāṇaṃ + + tam āyatanāni ca	3 + + + + + + + + dRSyante / SiraH ca mahA-pramANam + + tam AyatanAni ca
+   jvalitāgninimagnāni dṛśyante / tadvat sarvasatvāḥ tatra bāhyāyatanāni	jvalita-agni-nimagnAni dRSyante / tadvat sarva-satvAH tatra bAhya-AyatanAni
+   praviśyanti /	praviSyanti /
+   4 + + + + + + + + + + + + + + + + .ā .ai + + + .e pṛthivī parvatamahā + .ā	4 + + + + + + + + + + + + + + + + .A .E + + + .e pRTivI parvata-mahA + .A
+   + + + jāni tiṣṭhanti / ante ca vi + + + ramā ca tasmiṃ samaye nirvi	+ + + jAni tizWanti / ante ca vi + + + ramA ca tasmim samaye nirvi
+   cakṣuḥ śrotraṃ ghrāṇaṃ jihvā kāyānāṃ yathāsvaviṣayaṃ nipatanti manas tu	cakzuH Srotram GrANam jihvA kAyAnAm yaTAsva-vizayam nipatanti manaH tu
+   pradīpa	pradIpa
+   6 ivopaśamaṃ gacchati + + + + + + + + + + + + + + + + + tataś cakṣurbhyāṃ	6 iva-upaSamam gacCati + + + + + + + + + + + + + + + + + tatas cakzurByAm
+   pūyarudhirāśrupravāhā nirgacchanti / śrotrābhyāṃ	pUya-ruDira-aSru-pravAhAH nirgacCanti / SrotrAByAm
+   pūyarudhirakarṇamalapravāhāḥ ghrāṇābhyāṃ pūyarudhirasiṃghāṇakapravāhāḥ	pUya-ruDira-karNa-mala-pravAhAH GrANAByAm pUya-ruDira-siMGANaka-pravAhAH
+   YL 135R1 jihvāyāḥ pūyarudhiralasikāpravāhāḥ kāyāt pūyarudhirasvedapravāhāḥ	YL 135R1 jihvAyAH pUya-ruDira-lasikA-pravAhAH kAyAt pUya-ruDira-sveda-pravAhAH
+   stanābhyāṃ kṣīrapravāhāḥ prasrāvapravāhāḥ sarvasrotobhyaḥ pūya	stanAByAm kzIra-pravAhAH prasrAva-pravAhAH sarva-srotoByaH pUya
+   + + + + yogācārāśrayaṃ pūrayanti / sa ca satatasamitaṃ sarvasrotobhyaḥ pa	+ + + + yoga-AcAra-ASrayam pUrayanti / sa ca satata-samitam sarva-srotoByaH pa
+   3 + + + + + + + tato yogācāraniḥsṛtābhir aśucidhārābhiḥ pravāhaḥ s. + + +	3 + + + + + + + tatas yoga-AcAra-niHsRtABiH aSuci-DArABiH pravAhaH s. + + +
+   yāvad vāyumaṇḍalaṃ bhitvā ākāśāt parivartya nābhyāṃ praviśya mūrdhnā	yAvat vAyu-maNxalam BitvA AkASAt parivartya nAByAm praviSya mUrDnA
+   nirgatya	nirgatya
+   4 kāmāvacarāṃ devāṃ vimānodyānopabhogāṃ rūpāvacarāṃś ca savimānāṃ	4 kAmAvacarAm devAm vimAna-udyAna-upaBogAm rUpAvacarAn ca savimAnAm
+   sarvāśucidhārābhir vikledayan dūṣayaṃś ca gacchaty āgacchati ca mūrdhnā ca	sarva-aSuci-DArABiH vikledayan dUzayan ca gacCati AgacCati ca mUrDnA ca
+   praviśya	praviSya
+   5 punas tata eva sthānāṃ niḥsṛtaḥ sthitim āpūrayati / tasyāṃ sarvasatvā	5 punar tatas eva sTAnAm niHsRtaH sTitim ApUrayati / tasyAm sarva-satvA
+   nimagnāḥ sravanto dṛśyante / ante ca sarvaṃ jñeyaṃ nirudhyate / niṣṭhitaḥ	nimagnAH sravantaH dRSyante / ante ca sarvam jQeyam niruDyate / nizWitaH
+   prayogaḥ // āytanaparīkṣābhiratasya mūrdhni	prayogaH // Aytana-parIkzA-aBiratasya mUrDni
+   6 + + + + + tatrasthaṃ cirakālaṃ śāntā + .irataṃ ca cittaṃ tiṣthati /	6 + + + + + tatrasTam cira-kAlam SAntA + .iratam ca cittam tizTati /
+   tataḥ ṣaḍāyatananimittam utpadyate + + + āyatanāni yugapad utpannāny	tatas zaz-Ayatana-nimittam utpadyate + + + AyatanAni yugapad utpannAni-
+   ādhāryamāṇāni pravilīyante / tebhyaś	ADAryamANAni pravilIyante / teByaS
+   YL 136V1 cāyatanarasapuruṣa utpadyate / tasya pārśvebhyo dvāracatuṣṭayam	YL 136V1 ca-Ayatana-rasa-puruzaH utpadyate / tasya pArSveByaH dvAra-catuzwayam
+   apāvṛtaṃ saṃbhavati / dārebhyaś catasraḥ āyatanacitāḥ śaṃkalāḥ	apAvRtam saMBavati / dAreByaH catasraH Ayatana-citAH SaMkalAH
+   pradīpatantukalāpobhayahastā nirgacchanti /	pradIpa-tantu-kalApa-uBaya-hastAH nirgacCanti /
+   2 tantukalāpaiś cākṛṣṭāḥ śaṃkalā āyatacitā nirgacchanti / diśodiśaḥ	2 tantukalApEH ca-AkRzwAH SaMkalAH Ayata-citAH nirgacCanti / diSodiSaH
+   ūrdhvaṃ cādhaś ca spharitvā tiṣṭhanti / sa cāyatanarasapuruṣaḥ pravilīyann	UrDvam ca-aDas ca sParitvA tizWanti / sa ca-Ayatana-rasa-puruzaH pravilIyan=-
+   āyatanarasaparipūrṇā puṣkiriṇī mūrdhnaḥ	Ayatana-rasa-paripUrNA puzkiriNI mUrDnaH
+   3 saṃbhavati / tasyāś coṭakākṣād iva pradīpā nirgatya sarvāṇy āyatanāni	3 saMBavati / tasyAH cowakAkzAt iva pradIpAH nirgatya sarvANi AyatanAni
+   sarvāś ca śaṃkalāḥ paripavanavac chidrī kurvanti / taiś ca chidrair	sarvAH ca SaMkalAH paripavana-vat CidrI kurvanti / tEH ca CidrEH-
+   varṣadhārābhir iva daśabhyo digbhyaḥ	varza-DArABiH iva daSaByaH digByaH
+   4 yogācārāśrayaṃ pūryate / tata āyatanarasasamudram antaḥ paśyati /	4 yoga-AcAra-ASrayam pUryate / tatas Ayatana-rasa-samudram antar paSyati /
+   pradīpāś ca kṛtsnaṃ lokaṃ paripavanavac chidrī kṛtvā yogācārāśraye patitās	pradIpAH ca kRtsnam lokam paripavana-vat CidrI kRtvA yoga-AcAra-ASraye patitA-aH-
+   tadvat taṃ chidrī kurvanti /	tadvat tam CidrI kurvanti /
+   5 samantataḥ chidraṃ durbalaṃ srutasāraṃ ca sarvajagat paśyati / eṣā	5 samantataH Cidram durbalam srutasAram ca sarva-jagat paSyati / ezA
+   śunyatānukūlā parīkṣā / tataḥ brahmabhiḥ	Sunyata-anukUlA parIkzA / tatas brahmaBiH
+   ratnapuṣpamuktānakṣatrāyatanacitaiḥ kṛtsnaṃ gaganaṃ pūrnaṃ paśyati /	ratna-puzpa-muktA-nakzatra-Ayatana-citEH kRtsnam gaganam pUrnam paSyati /
+   6 tebhyaś cāyatanebhyaḥ rasadhārāḥ patitāḥ sarvaṃ śaṃkalāsu tadāśraye ca	6 teByaH ca-AyataneByaH rasa-DArAH patitAH sarvam SaMkalAsu tad-ASraye ca
+   nipatitāḥ yathoktaśubhanimittāyatanacitaṃ jagad avasthāpayanti / tato	nipatitAH yaTA-ukta-SuBa-nimitta-Ayatana-citam jagat avasTApayanti / tatas-
+   ghṛtapiṇḍavat pravilīnaṃ jñeyaṃ	GRta-piNxa-vat pravilInam jQeyam
+   YL 136R1 sarvaṃ tadāśraye praviśati / eṣā upaśamānukūlāvasthā tataḥ	YL 136R1 sarvam tad-ASraye praviSati / ezA upaSama-anukUla-avasTA tatas-
+   sarvasrotobhyaḥ buddhapratyekabuddhaśrāvakāḥ padmādhirūḍhā	sarva-srotoByaH budDa-pratyekabudDa-SrAvakAH padma-aDirUXA
+   yathoktalakṣaṇāyatanacitāḥ sarvadigvidiśaḥ ūrdhvam adhaś ca	yaTA-ukta-lakzaNa-Ayatana-citAH sarva-diS-vidiSaH UrDvam aDas ca
+   2 spharitvā tiṣthanti / ante ca tadāśraye anityam anityam iti śabdam	2 sParitvA tizTanti / ante ca tad-ASraye anityam anityam iti Sabdam
+   udīrayantaḥ praviśanti / āyatanaprayoganiṣpattiḥ //	udIrayantaH praviSanti / Ayatana-prayoga-nizpattiH //
+   bhavabhogatṛṣṇāpratipakṣānantaraṃ / mohapratipakṣārthaṃ	Bava-Boga-tRzNA-pratipakza-anantaram / moha-pratipakza-arTam
+   pratītyasamutpādaparīkṣārabhyate /	pratItyasamutpAda-parIkzA-AraByate /
+   3 sa ca dvividhaḥ bāhyaḥ ādhyātmakaś ca satvāsatvākhyaś ca bāhyo dvividhaḥ	3 sa ca dviviDaH bAhyaH ADyAtmakaH ca satva-asa-tva-AKyaH ca bAhyaH dviviDaH
+   pratiṣṭhitotpattikramabhedāt / ā + + + + ttr. dhānusartavyaḥ tatra hi ṣaḍ.	pratizWita-utpatti-krama-BedAt / A + + + + ttr. DAnusartavyaH tatra hi zaz-.
+   4 + + .o niśrayo deśitaḥ ādhārakaḥ saṃdhārakaḥ utpattiḥ pratiṣṭhā	4 + + .aH niSrayaH deSitaH ADArakaH saMDArakaH utpattiH pratizWA
+   prajñaptiḥ spṛhaniśrayaś ca tatrādhārako niśrayaḥ brāhmaṇakā mantrāḥ	prajQaptiH spRhaniSrayaH ca tatra-ADArakaH niSrayaH brAhmaNakAH mantrAH
+   pudgalaṃ niḥśṛtāḥ saṃdhārakaḥ	pudgalam niHSRtAH saMDArakaH
+   5 pudgalā vrīhīyavāṃ niḥśṛtāḥ utpattiḥ vrīhiyavāḥ pṛthivīṃ niḥśṛtāḥ	5 pudgalAH vrIhIyavAm niHSRtAH utpattiH vrIhi-yavAH pRTivIm niHSRtAH
+   pratiṣṭhā / pṛthivy āpsu pratiṣṭhitā / āpaḥ vāyau vāyur ākāśe prajñaptiḥ	pratizWA / pRTivI Apsu pratizWitA / ApaH vAyO vAyuH AkASe prajQaptiH
+   āloke saty ākāśaṃ prajñāyate prajñaptiniḥśrayaḥ	Aloke sati AkASam prajQAyate prajQapti-niHSrayaH
+   6 spṛhaniśrayaḥ + + + ry.ḥ caturmahārājike + + yo va + + + + + + + + + + +	6 spRhaniSrayaH + + + ry.H catur-mahArAjike + + yaH vaH + + + + + + + + + + +
+   + + mitam iti / tatparīkṣā parikarma / pādāṃguṣṭhe gomayapiṇḍaṃ	+ + mitam iti / tad-parIkzA parikarma / pAda-aMguzWe gomaya-piNxam
+   tadantargatāni	tad-antargatAni
+   YL 137V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + padmajam	YL 137V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + padmajam
+   ity eva kukkuṭyāṇḍavad anādipr. + + + + + + + + + + + + + + + + + + +	iti eva kukkuwyA-aNxa-vat anAdi-pr. + + + + + + + + + + + + + + + + + + +
+   2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + sa evaṃ bāhye	2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + saH evam bAhye
+   pratītyasamutpāde kṛtakauśalaḥ ādhyātmapratītyasamutpāde 'vatarati / + + +	pratItyasamutpAde kRta-kOSalaH ADyAtma-pratItyasamutpAde avatarati / + + +
+   3 + + + + + + + + + + + + + + + + + + + + + + pratiṣṭhitaṃ yāvac	3 + + + + + + + + + + + + + + + + + + + + + + pratizWitam yAvat-
+   chīrṣakapālaṃ grīvāsthipratiṣṭhitaṃ paśyati / evaṃ sarvarūpāṇāṃ satvānāṃ	CIrza-kapAlam grIvA-asTi-pratizWitam paSyati / evam sarva-rUpANAm satvAnAm
+   tatra kṛtakauśalaḥ	tatra kRta-kOSalaH
+   4 + + + + + + + + + + + + + + + + + + + + + + + krameṇa yāvaj jarāmaraṇa +	4 + + + + + + + + + + + + + + + + + + + + + + + krameNa yAvat jarA-maraNa +
+   + + + + + + + + + + + + + + + .o + .i	+ + + + + + + + + + + + + + + .aH + .i
+   raḥ pratyekabuddhajñā + + + + + + + + + + + + + + + + +	raH pratyekabudDa-jQAH + + + + + + + + + + + + + + + + +
+   yam atītam avidyās. + + + + + + + + + + + + + + + + + + + + +	yam atItam avidyAs. + + + + + + + + + + + + + + + + + + + + +
+   YL 137R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 137R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + ptopādānāni kleśāvasth. + + + + + + + + + + + + + + + + + + + +	+ + + pta-upAdAnAni kleSa-avasT. + + + + + + + + + + + + + + + + + + + +
+   + spharitvā tiṣṭhati + + + + + + + + + + + + + + + + + + + +	+ sParitvA tizWati + + + + + + + + + + + + + + + + + + + +
+   saṃskārādhipatirūpam / puruṣa + + + + + + + + + + + + + .k. c. t. karma	saMskAra-aDipati-rUpam / puruzaH + + + + + + + + + + + + + .k. c. t. karma
+   karoti /	karoti /
+   4 + + + + + + + + + + + + + + + + + + + + + + + + agnijvālāntargatam	4 + + + + + + + + + + + + + + + + + + + + + + + + agni-jvAlA-antargatam
+   agnitilakaṃ cetanāyā adhipatirūpam / punas trividhāḥ saṃskārāḥ puṇyāḥ	agni-tilakam cetanAyAH aDipati-rUpam / punar triviDAH saMskArAH puNyAH
+   apuṇyāḥ āniñjyāḥ	apuNyAH AniQjyAH
+   5 + + + + + + + + + + + + + + + + + + + + + + + + ḥ tridhyānopagāś ca	5 + + + + + + + + + + + + + + + + + + + + + + + + H triDyAna-upagAH ca
+   puṇyānāṃ saṃskārāṇāṃ / ja + + + + + .i + + + + +ṃ + r.. + + + + +	puNyAnAm saMskArANAm / jaH + + + + + .i + + + + +m + r.. + + + + +
+   6 + + + + + + + + + + + + + + + + + + + + + + + + + + nīlavarṇāṃkuracitaḥ	6 + + + + + + + + + + + + + + + + + + + + + + + + + + nIla-varNa-aMkura-citaH
+   parvataḥ tadantargatā + + + + + + + + + + + + + + + + + + + +	parvataH tad-antargatAH + + + + + + + + + + + + + + + + + + + +
+   YL 138V1 + + + + + (gap 138V2 to V5; ca. 200 Akṣaras)	YL 138V1 + + + + + (gaB 138V2 taH V5; ca. 200 Akzaras)
+   5 + + + + + + + + + + rāmukhā vijñānāvasthā jātiḥ nāmarūpa +	5 + + + + + + + + + + rAmuKA vijQAna-avasTA jAtiH nAma-rUpa +
+   + + + + + + + + sarvasatvānāṃ yathāsaṃbhavataḥ paśyati / tataḥ	+ + + + + + + + sarva-satvAnAm yaTAsaMBavataH paSyati / tatas-
+   YL 138R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 138R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + + + pratītyasamutpādasūtram vistareṇa	+ + + + + + + + + + + + + + + + pratItyasamutpAda-sUtram vistareNa
+   prakāśitaṃ	prakASitam
+   + + + + + + + + + + .icakre nipatanti / evam + + + .i .ā +	+ + + + + + + + + + .icakre nipatanti / evam + + + .i .A +
+   3 + + + + + + + + + + + + + + + + + + + + (gap 138R4 to 139V2; ca. 290	3 + + + + + + + + + + + + + + + + + + + + (gap 138R4 taH 139V2; ca. 290
+   Akṣaras)	Akzaras)
+   YL 139V2 + + + + + + + māraparivāraṃ nirjitya prati + + + + + + + + + + +	YL 139V2 + + + + + + + mAra-parivAram nirjitya prati + + + + + + + + + + +
+   + + + + + + .y. d. ty. + + + + +	+ + + + + + .y. d. ty. + + + + +
+   3 + + + + + + + + + + + + + + + + + + lā niḥsṛtāḥ avidyādhipatirūpāṇi	3 + + + + + + + + + + + + + + + + + + lAH niHsRtAH avidyA-aDipati-rUpANi
+   pūrayanti vicakrī bhavati ca dvādaśāṃgaṃ pratītyasamutpādacakraṃ	pUrayanti vicakrI Bavati ca dvAdaSa-aMgam pratItyasamutpAda-cakram
+   4 tato m. + + + + + + + + + + + + + + + + + + + + lokam avabhāsya	4 tatas m. + + + + + + + + + + + + + + + + + + + + lokam avaBAsya
+   bodhisatvamūrdhani pariśāntaṃ paśyati abhisaṃbuddhaṃ bodhiṃ + + + + + +	boDisatva-mUrDani pariSAntam paSyati aBisaMbudDam boDim + + + + + +
+   5 mahākaruṇāveṇikasmṛtyupasthāna + + + + + + + + + + + + + + + + + + + + +	5 mahA-karuNA-veNika-smRti-upasTAnaH + + + + + + + + + + + + + + + + + + + + +
+   + + go bhaviṣyati + + + + + + + + + + + + + + + + + + + +	+ + gaH Bavizyati + + + + + + + + + + + + + + + + + + + +
+   6 tamānāṃ paśyati mahākaruṇa + + + + + + + + + + + + + + + + + + + + + + +	6 tamAnAm paSyati mahA-karuNa + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + + + + + + + + + + + saṃskārasāṃtānikaṃ	+ + + + + + + + + + + + + + + + + + + + + + + + saMskAra-sAMtAnikam
+   YL 139R1 dvādaśāṃgaṃ pratītyasamutpādacakraṃ + + + + + + + + + + + + + + +	YL 139R1 dvAdaSa-aMgam pratItyasamutpAda-cakram + + + + + + + + + + + + + + +
+   2 dṛśyante / teṣāṃ vi + + + + + + + + + + + + + + + + + + + + + + + + + +	2 dRSyante / tezAm vi + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + krameṇāt. n + + + + + + + + + + + + + + + + + + bhagavataḥ	+ + + + krameNa-at. n + + + + + + + + + + + + + + + + + + BagavataH
+   3 śrāvakaparivāra + + + + + + + + + + + + + + + + + + + sthitir ante ca	3 SrAvaka-parivAra + + + + + + + + + + + + + + + + + + + sTitiH ante ca
+   sarvaṃ yogācārasya nābhyāṃ nirudhyata iti vyutthānam / + + + +	sarvam yoga-AcArasya nAByAm niruDyate iti vyutTAnam / + + + +
+   4 + + + + + + + + + + + + + + + + + + + + + + + puṇyena vicārayataḥ a .i	4 + + + + + + + + + + + + + + + + + + + + + + + puNyena vicArayataH a .i
+   .e + r.. + + bhavatīti // ajñānapratipakṣānantaraṃ krodhapratipakārthaṃ	.e + r.. + + Bavati-iti // ajQAna-pratipakza-anantaram kroDa-pratipaka-arTam
+   5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +ṃ +	5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +m +
+   saṃvṛtyanukra + + + + + + + + + + + + + + + + + + + +ṃ + + .i + +	saMvRti-anukraH + + + + + + + + + + + + + + + + + + + +m + + .i + +
+   6 + + + + + + + atha kiṃsvabhāvā maitrī tad ucyate / adveṣeti sā svabhāvā	6 + + + + + + + aTa kiMsvaBAvA mEtrI tat ucyate / adveza-iti sA svaBAvA
+   / sā tu sapratipakṣā sānuparivartā sasaṃprayogā parigṛhyamānā / kāmāvacarā	/ sA tu sa-pratipakzA sa-anuparivartA sa-saMprayogA parigRhyamAnA / kAmAvacarA
+   catuḥskandhasvabhāvā / rūpāvacarā	catur-skanDa-svaBAvA / rUpAvacarA
+   YL 140V1 paṃcaskandhasvabhāvā / āśraye kāmadhātvāśrayā / ālaṃbane	YL 140V1 paMcaskanDa-svaBAvA / ASraye kAmaDAtu-ASrayA / AlaMbane
+   kāmadhātvālaṃbanā bhūmibhedena saptabhaumā kāmadhātur anāgamyaś catvāri	kAmaDAtu-AlaMbanA BUmi-Bedena saptaBOmA kAmaDAtuH anAgamyaH catvAri
+   dhyānāni dhyānāntaraṃ ca hitasukhopasaṃhāra	DyAnAni DyAna-antaram ca hita-suKa-upasaMhAra
+   2 + + + + + + + + + + tatprayogaḥ + + + + + + + + + + adhimātrādhimātre	2 + + + + + + + + + + tad-prayogaH + + + + + + + + + + aDimAtra-aDimAtre
+   mitre mṛduni evam udāsīne / tathā amitre mṛduni madhya adhimātre yadā	mitre mRduni evam udAsIne / taTA amitre mRduni maDya aDimAtre yadA
+   yadṛśam a	yadRSam a
+   sarvasatvahitasukhādhyāśayapravṛttā tadā + + + + + + + + + + + satvānāṃ	sarva-satva-hita-suKa-aDyASaya-pravRttA tadA + + + + + + + + + + + satvAnAm
+   hitat. + + + +	hitat. + + + +
+   + + + + + + + + + mam ivātmānaṃ mahā + +	+ + + + + + + + + mam iva-AtmAnam mahA + +
+   + + + + + + + .ākāraṃ vidhimantaṃ paśyati + + .o .āyo + + + +	+ + + + + + + .a-AkAram viDimantam paSyati + + .aH .AyaH + + + +
+   + + + + + + + satvānāṃ lakṣaṇānuvyaṃjanavirājitā buddhā + + +	+ + + + + + + satvAnAm lakzaNa-anuvyaMjana-virAjitAH budDAH + + +
+   YL 140R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 140R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + d. ca yathābhilaṣita utpadyate + + + + + + +	+ + + + + + + + + + + d. ca yaTA-aBilazitaH utpadyate + + + + + + +
+   + + + + + + + hṛdayaṃ tatra cittopanibandhaṃ + + + + + + + +	+ + + + + + + hRdayam tatra citta-upanibanDam + + + + + + + +
+   4 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + n. va	4 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + n. va
+   krameṇa sarvasatvān mātṛ + + + + + + + + + + + + + + + + + + + +	krameNa sarva-satvAt mAtR + + + + + + + + + + + + + + + + + + + +
+   5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + punaḥ	5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + punar-
+   sarvathā viṣaṃcayataḥ nābhūt sa + + + + + + + + + + + + + + + + + v. sa	sarvaTA vizaMcayataH na-aBUt sa + + + + + + + + + + + + + + + + + v. sa
+   6 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + opasaṃharati	6 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + opasaMharati
+   ayaṃ dvitīya avadāra + + + + + + + + + + + + + + + + satvānām a	ayam dvitIya avadAraH + + + + + + + + + + + + + + + + satvAnAm a
+   YL 141V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 141V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + rāṇi hitasukhopasaṃhāraḥ sthānāntaram / hitasukhā	+ + + + + + + + + + rANi hita-suKa-upasaMhAraH sTAna-antaram / hita-suKA
+   + + + + + + + s. .o + hanāsthānāntaraṃ ca hitasukhopasaṃhārasthā	+ + + + + + + s. .aH + hana-AsTAna-antaram ca hita-suKa-upasaMhAra-sTA
+   + + + + + + + saṃhṛtāni sa tān satvāṃ paśyati dṛṣṭvā cāsya	+ + + + + + + saMhRtAni sa tAn satvAm paSyati dRzwvA ca-asya
+   + + + + + + + yanti ca kṣīrasamudre ca nimagnāḥ	+ + + + + + + yanti ca kzIra-samudre ca nimagnAH
+   + + + + + + + + + + + + + + + + + + +ṃ .ī n. la .epanāmaya	+ + + + + + + + + + + + + + + + + + +m .I n. la .epana-Amaya
+   + + + + + + + + + + + + + + + + senāpatir bhavati / umāpatiḥ	+ + + + + + + + + + + + + + + + senApatiH Bavati / umApatiH
+   YL 141R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 141R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + v.	+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + v.
+   .y. .t. satvān.	.y. .t. satvAn.
+   + + + + + + + + + + + + cittopanibandhaṃ kṛtvā cintayati dīrgharātraṃ	+ + + + + + + + + + + + citta-upanibanDam kRtvA cintayati dIrGarAtram
+   + + + + + + + + lā deśāḥ sasatvā dagdhāḥ taṃma	+ + + + + + + + lAH deSAH sa-satvAH dagDAH taMma
+   + + maitrāśayasya satveṣu hṛdayadvāram apāvriyate /	+ + mEtrASayasya satvezu hRdaya-dvAram apAvriyate /
+   + + + + + + sarvasatvānāṃ duḥkhāny upaśamayanti te ca ta eva nadyo 'nu	+ + + + + + sarva-satvAnAm duHKAni upaSamayanti te ca te eva nadyaH anu
+   + + + + + ḥ antarāśrayapraviṣṭāḥ rājabhir eva brahmabhiḥ ṣaḍdantair gajaiḥ	+ + + + + H antara-ASraya-pravizwAH rAjaBiH eva brahmaBiH zaz-dantEH gajEH
+   YL 142V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 142V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   2 hṛdaye suvarṇā + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	2 hRdaye suvarNAH + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + yām ucitānucitāyāṃ y. + + + +	+ + + + + + + + + + + + + yAm ucita-anucitAyAm y. + + + +
+   3 + + + + + + + + + + + + + + + + + + + + + + + + + upadeśasthānāntaraṃ	3 + + + + + + + + + + + + + + + + + + + + + + + + + upadeSa-sTAna-antaram
+   jihvāgra + + + + cittopanibandhaṃ kṛtvā dhyāti dīrgharātraṃ + + + +	jihvA-agre + + + + citta-upanibanDam kRtvA DyAti dIrGarAtram + + + +
+   4 + + + + + + + + + + + + + + + + + + + + + + + + + priyahitasukhopadeśe +	4 + + + + + + + + + + + + + + + + + + + + + + + + + priya-hita-suKa-upadeSe +
+   + + + satvān anugṛhṇīyām / tasyaivaṃ cittas. + + + +	+ + + satvAn anugRhNIyAm / tasya-evam cittas. + + + +
+   5 + + + + + + + + + + + + + + + + + + + + + + + (gap 142V6 to R2; ca. 185	5 + + + + + + + + + + + + + + + + + + + + + + + (gap 142V6 taH R2; ca. 185
+   Akṣaras)	Akzaras)
+   YL 142R2 + + + + + + + + + + maitrāśayasaha + + + + + + + + + + paśyeyām	YL 142R2 + + + + + + + + + + mEtrASaya-saha + + + + + + + + + + paSyeyAm
+   iti / tasyaivam. + + + +	iti / tasya-evam. + + + +
+   3 + + + + + + + + + + + + + + + + + + + + + + + + + niḥsṛtāḥ aṃjalibhiḥ	3 + + + + + + + + + + + + + + + + + + + + + + + + + niHsRtAH aMjaliBiH
+   satvāṃ pi + + + + + t. paśyati evaṃ candramaṇḍalasaṃkāśābhir nadībhiḥ	satvAm pi + + + + + t. paSyati evam candra-maNxala-saMkASABiH nadIBiH
+   4 c. t. + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	4 c. t. + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + mukhadvāre dakṣiṇāyāṃ daṃṣṭrāyāṃ cittopanibandhaṃ	+ + + muKa-dvAre dakziNAyAm daMzwrAyAm citta-upanibanDam
+   5 kṛtvā paśyati / + + + + + + + + + + + + + + + + + + + + + + + + + + + +	5 kRtvA paSyati / + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + maitrāśayasya kalyāṇā + + + + +	+ + + + + + + + + + + + + + mEtrASayasya kalyANAH + + + + +
+   6 + + + + + + + + + + + + + + + + + + + + + + + + kramaḥ tasyaivaṃ bhavati	6 + + + + + + + + + + + + + + + + + + + + + + + + kramaH tasya-evam Bavati
+   / + + + + + + + + + + + + + + + + + + + + + + kṣīravṛkṣo + + + +	/ + + + + + + + + + + + + + + + + + + + + + + kzIravRkzaH + + + +
+   YL 143V1 lam āśrayaṃ pūrayati pūrṇe cāśraye mūrdhataḥ kṣīrastambhaḥ iva	YL 143V1 lam ASrayam pUrayati pUrNe ca-ASraye mUrDataH kzIra-stamBaH iva
+   nirgataḥ abhrakūṭa iva gaganam āpūrya kṣīravarṣaṃ muñcati yena sthitir	nirgataH aBra-kUwaH iva gaganam ApUrya kzIra-varzam muQcati yena sTitiH-
+   āpūryate tatra prāsādā urupramāṇā utpadyante	ApUryate tatra prAsAdAH uru-pramANAH utpadyante
+   2 tadantargatānāṃ sarvasatvānāṃ sapta pariṣatsaṃpadām upasaṃharati	2 tad-antargatAnAm sarva-satvAnAm sapta parizad-saMpadAm upasaMharati
+   ājñādhipatyasaṃpad yathā cakravartināṃ / ārakṣādhipatyasaṃpad yathā	AjQA-ADipatyasaMpad yaTA cakravartinAm / Arakza-ADipatya-saMpad yaTA
+   caturṇāṃ mahārājānām /	caturNAm mahA-rAjAnAm /
+   viṣayaparibhogādhipatyasaṃpad	vizaya-pariBoga-ADipatya-saMpad
+   3 yathā trayastriṃśatām / kāmādhipatyasaṃpad yathā mārāṇāṃ / + +	3 yaTA trayastriMSatAm / kAma-ADipatya-saMpad yaTA mArANAm / + +
+   .ādhipatyasaṃpad yathā brahmaṇāṃ svayamavabodhādhipatyasaṃpad yathā	.a-ADipatya-saMpad yaTA brahmaNAm svayam-avaboDa-ADipatya-saMpad yaTA
+   pratyekajinānām /	pratyeka-jinAnAm /
+   4 dharmacakrapravartanādhipatyasaṃpad yathā samyaksaṃbuddhānām / + + + + +	4 Darma-cakra-pravartana-ADipatya-saMpad yaTA samyaksaMbudDAnAm / + + + + +
+   + + krameṇa varṇasaṃsthāno + + + bhāvopetān sarvasatvāṃ paśyati sarvadante	+ + krameNa varNa-saMsTAnaH + + + BAva-upetAn sarva-satvAm paSyati sarva-dante
+   5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + d. dāḥ	5 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + d. dAH
+   saṃbhavanti / tadantargatāṃś ca satvāṃ paśyati / tata āloka +ṃ + +	saMBavanti / tad-antargatAn ca satvAm paSyati / tatas AlokaH +m + +
+   + + + + + + + + vaiḍūryamayī strī saṃprajanya + + + + + + +	+ + + + + + + + vExUrya-mayI strI saMprajanya + + + + + + +
+   YL 143R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 143R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + guṇenānāgate	+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + guNena-anAgate
+   'dhvani + +	aDvani + +
+   + maṇḍalenātikra + + + + + + + + + + + + .i + y. pratipakṣe + + +	+ maNxalena-atikra + + + + + + + + + + + + .i + y. pratipakze + + +
+   3 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + kṣeṇa iti	3 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + kzeNaH iti
+   yatraivā + + + + + + + + ā + + rakṣāsthānāntaram ity ucyate /	yatra-evA + + + + + + + + A + + rakzA-sTAna-antaram iti ucyate /
+   4 satvodvahana + + + + + + + r. + + + + + + + + + + + + .v. maitrāśayasya	4 satva-udvahana + + + + + + + r. + + + + + + + + + + + + .v. mEtrASayasya
+   ratnamayaḥ + .ā + śirasy utpadyate / anantaparyantaṃ svāstīrṇaparyaṃkas	ratna-mayaH + .A + Sirasi utpadyate / ananta-paryantam su-AstIrNa-paryaMkaH-
+   tadadhirūḍhān	tad-aDirUXAn
+   5 satvān udvahati / punas tasyaivaṃ bhavati mayā sarvasatvāḥ bhārai + + +	5 satvAn udvahati / punar tasya-evam Bavati mayA sarva-satvAH BArEH + + +
+   pīḍitā mātṛbhūtāś cāntaḥkukṣigatā + ṇ. + .āraṃ pīḍitāḥ kathaṃ + + .e +	pIxitAH mAtR-BUtAH ca-antar-kukzi-gatAH + N. + .Aram pIxitAH kaTam + + .e +
+   satvān udvaheyam iti tasyaivaṃ	satvAn udvaheyam iti tasya-evam
+   6 maitrāśayasya hṛdayadvāram apāvriyante / tebhyaḥ kṣīrapravāhā nirgatāḥ /	6 mEtrASayasya hRdaya-dvAram apAvriyante / teByaH kzIra-pravAhAH nirgatAH /
+   teṣu sarvasatvā nimagnās tadanusāreṇaivāśrayaṃ	tezu sarva-satvAH nimagnAH tad-anusAreNa-eva-ASrayam
+   YL 144V1 praviśanti / tadāśraye + + tāsu vaiḍūryadaṇḍāni padmāni /	YL 144V1 praviSanti / tad-ASraye + + tAsu vExUrya-daNxAni padmAni /
+   tatkarṇikāsu ca kṣīrapuṣkiriṇyaḥ padmadaṇḍānusāreṇādhiruhya sarvasatvāś ca	tad-karNikAsu ca kzIra-puzkiriNyaH padma-daNxa-anusAreNa-aDiruhya sarva-satvAH ca
+   kṣīrapuṣkiriṇīṣu nimagnāḥ sāṃkucitapattrādhirūḍhā	kzIra-puzkiriNIzu nimagnAH sAMkucita-pattra-aDirUXA
+   2 dṛṣyante / mūrdhnaś cāsya padmaṃ saṃbhavati tanniṣaṇṇo bhagavāṃ dharmaṃ	2 dRzyante / mUrDnaH ca-asya padmam saMBavati tat-nizaNNaH BagavAm Darmam
+   deśayati / tac chrutvā vikasitebhyaḥ padmebhyas tulyāṃ prītim anubhavanti	deSayati / tat SrutvA vikasiteByaH padmeByaH tulyAm prItim anuBavanti
+   sarvasatvāḥ teṣu ca padmanāḍeṣu padmapaṃktayo	sarva-satvAH tezu ca padma-nAxezu padmapaMktayaH-
+   3 'nantaparyantāḥ saṃbhavanti / tadadhirūḍhā brahmarūpiṇaḥ satvā dṛśyante	3 ananta-paryantAH saMBavanti / tat-aDirUXAH brahma-rUpiNaH satvAH dRSyante
+   / evaṃ suvarṇeṣu nīlalohitāvadātavarṇeṣu ca sarvasatvāṃ sarvagātraiḥ	/ evam suvarNezu nIla-lohita-avadAta-varNezu ca sarva-satvAm sarva-gAtrEH
+   samudvahaṃ parāṃ prītiṃ	samudvaham parAm prItim
+   4 samanubhavati / caṃkramaniṣadyābhyāṃ sarveryāpatheṣu codvahato 'sya	4 samanuBavati / caMkrama-nizadyAByAm sarveH-yApaTezu ca-udvahataH asya
+   satvāṃ parā prītir utpadyate / punar maitrīprayukta + + + + kramati na	satvAm parA prItiH utpadyate / punar mEtrI-prayuktaH + + + + kramati na
+   viṣaṃ na śastraṃ kāye / vaiḍūryamayīṃ	vizam na Sastram kAye / vExUrya-mayIm
+   5 pṛthivīṃ vaiḍūryamayavajrāsanaracitāṃ tanmadhye vajrāmayaḥ āśrayo	5 pRTivIm vExUrya-maya-vajrAsana-racitAm tad-maDye vajra-AmayaH ASrayaH-
+   vajrāsanādhirūḍhaḥ yogina utpadyate / tadupari sarvasatvāḥ	vajra-Asana-aDirUXaH yoginaH utpadyate / tad-upari sarva-satvAH
+   sarvapraharaṇāni kṣipanti tāni puṣpabhūtāni tatra	sarva-praharaNAni kzipanti tAni puzpa-BUtAni tatra
+   6 nipatanti / tad eva vajrāsanaṃ teṣām aviṣayī bhavati teṣu cānyeṣu	6 nipatanti / tat eva vajrAsanam tezAm avizayI Bavati tezu ca-anyezu
+   vajrāsaneṣu buddhā uṣṇīṣapūrvadarśanāt krameṇodgacchanto dṛśyante / teṣām	vajra-Asanezu budDAH uzNIza-pUrva-darSanAt krameNa-udgacCantaH dRSyante / tezAm
+   uṣṇīṣaprabhayā kṛtsnaṃ jagad indranīlābhaṃ dṛśyate /	uzNIza-praBayA kRtsnam jagat indranIla-ABam dRSyate /
+   YL 144R1 ūrṇāprabhayā candrāvadātaṃ gātraprabhayā kanakaprabhaṃ /	YL 144R1 UrNA-praBayA candra-avadAtam gAtra-praBayA kanaka-praBam /
+   aṣṭanakhaprabhābhiḥ padmarāgābhaṃ te bhagavantaḥ mūrdhata ekaikaṃ + + + +	azwa-naKa-praBABiH padmarAga-ABam te BagavantaH mUrDataH ekEkam + + + +
+   yogācārāśrayaṃ veṣṭayanti / vajrācalakūṭaprakhyo	yoga-AcAra-ASrayam vezwayanti / vajra-acala-kUwa-praKyaH-
+   2 'vatiṣṭhati / punar api ca sarvasatvāḥ sarvapraharaṇāgniviṣādīṃś cādāya	2 avatizWati / punar api ca sarva-satvAH sarva-praharaNa-agni-viza-AdIn ca-AdAya
+   siṃhavyāghrādayaś ca tam abhidravante tasya maitrāśayasya mūrdhnā nadī	siMha-vyAGra-AdayaH ca tam aBidravante tasya mEtrASayasya mUrDnA nadI
+   kṣīramayābhrakūṭavaṃ nirgatya sarvaṃ gaganam	kzIra-maya-aBra-kUwavam nirgatya sarvam gaganam
+   3 āpūrya prākāravat sarvasatvān upaguhya tiṣṭhati / te ca satvā	3 ApUrya prAkAra-vat sarva-satvAn upaguhya tizWati / te ca satvA
+   muktasaṃraṃbhapraharaṇās tam eva praṇamantīti / punar maitrāśayasyaivāyam	mukta-saMraMBa-praharaNAH tam eva praNamanti-iti / punar mEtrASayasya-eva-ayam
+   anyo viśeṣa utpadyate svam āśrayaṃ	anyaH viSezaH utpadyate svam ASrayam
+   4 sarvamaraṇapratyayaiḥ parivṛtaṃ paśyati / āśrayāc cāsya brahmāṇo	4 sarva-maraNa-pratyayEH parivRtam paSyati / ASrayAt ca-asya brahmANaH-
+   nirgatya tāṃ maraṇapratyayān udvīkṣate tataḥ sarvamaraṇapratyayanirmuktaṃ	nirgatya tAm maraNa-pratyayAn udvIkzate tatas sarva-maraNa-pratyaya-nirmuktam
+   candramaṇḍalādhirūḍhaṃ	candra-maNxala-aDirUXam
+   5 candrasaṃkāśaṃ cātmānaṃ paśyati / tadvat sarvasatvānāṃ maraṇapratyayāṃ	5 candra-saMkASam ca-AtmAnam paSyati / tadvat sarva-satvAnAm maraNa-pratyayAm
+   maraṇāpanayanaṃ paśyati / te ca satvāḥ candramaṇḍalaraśmyā ūrdhvaṃ + + +	maraNa-apanayanam paSyati / te ca satvAH candra-maNxala-raSmyA UrDvam + + +
+   .āśrayaṃ praviśanti / sa ca cakravartyāśrayaṃ	.a-ASrayam praviSanti / sa ca cakravarti-ASrayam
+   6 sa ca brahmāśrayaṃ sa ca buddhāśrayaṃ buddhāśraye brahmāśrayo dṛśyate	6 sa ca brahma-ASrayam sa ca budDa-ASrayam budDa-ASraye brahma-ASrayaH dRSyate
+   yāvad yoginaḥ āśraye sarvasatvāśrayāḥ tatra bhagavāṃ su + + + + + + + + +	yAvat yoginaH ASraye sarva-satva-ASrayAH tatra BagavAm su + + + + + + + + +
+   +ṃ pṛthivyāṃ caṃkramati nikṣipte	+m pRTivyAm caMkramati nikzipte
+   YL 145V1 + + + + + + + + + nirgataḥ tadrasapūrṇaṃ siṃcati utkṣipte	YL 145V1 + + + + + + + + + nirgataH tad-rasa-pUrNam siMcati utkzipte
+   paryaṃkena niṣaṇṇasya kṣīravṛkṣo mūrdhanirgato 'nantaṃ lokadhātuṃ	paryaMkena nizaNNasya kzIravRkzaH mUrDa-nirgataH anantam lokaDAtum
+   spharitvā tiṣṭhati / + + + + + + + + + + + +	sParitvA tizWati / + + + + + + + + + + + +
+   2 + + + + + + + + + satvā niḥsṛtābhiḥ kṣīradhārābhiḥ siktamātrā eva	2 + + + + + + + + + satvAH niHsRtABiH kzIra-DArABiH sikta-mAtrAH eva
+   muktasaṃraṃbhapraharaṇā maitrāvihāriṇaṃ praṇamanti / evaṃ maitrāśayasya +	mukta-saMraMBa-praharaNAH mEtra-avihAriNam praNamanti / evam mEtrASayasya +
+   3 + + + + + + + + + kuta eva bhagavato buddhasyeti // punaḥ	3 + + + + + + + + + kutas eva BagavataH budDasya-iti // punar-
+   maitrāśayasyānantaṃ paryantaṃ satvasamudram abhimukhī bhavati / + + + + +	mEtrASayasya-anantam paryantam satva-samudram aBimuKI Bavati / + + + + +
+   4 + + + + + + + + + + abhiṣekaiḥ siṃcyamāno dṛśyate / evaṃ	4 + + + + + + + + + + aBizekEH siMcyamAnaH dRSyate / evam
+   suvarṇanīlapītalohitāvadātarasābhiṣekaiḥ + + + + + sadṛśaḥ dṛśyate / + + +	suvarNa-nIla-pIta-lohita-avadAta-rasa-aBizekEH + + + + + sadRSaH dRSyate / + + +
+   5 + + + + + + + + + + niḥsṛtābhir dhārābhiḥ siktāḥ satvāḥ tatsadṛśā eva	5 + + + + + + + + + + niHsRtABiH DArABiH siktAH satvAH tad-sadRSAH eva
+   dṛśyante / tataḥ sauvarṇaṃ padmaṃ daśadiśaḥ spharitvā sarvasatvān upaguhya	dRSyante / tatas sOvarNam padmam daSa-diSaH sParitvA sarva-satvAn upaguhya
+   tiṣṭhati / samaṃ ca tato + +	tizWati / samam ca tatas + +
+   6 + + + + + + + + + + + satvānāṃ viśeṣaṃ paśyati /	6 + + + + + + + + + + + satvAnAm viSezam paSyati /
+   sarvasatvahitādhyāśayapravṛttaḥ ity eṣā apramāṇo maitrīvihāraḥ	sarva-satva-hita-aDyASaya-pravRttaH iti ezA apramANaH mEtrI-vihAraH
+   āśrayāpramāṇatayā apramāṇā ālaṃbanāpramāṇatayā	ASraya-apramANa-tayA apramANAH AlaMbana-apramANa-tayA
+   YL 145R1 + + + .āpramāṇatayā puṇyaprasavāpraṃāṇatayāpramāṇeti	YL 145R1 + + + .A-pramANa-tayA puNya-prasava-apraMANa-tayA-apramANa-iti
+   kṛtaparikarmaṇo maitrāśayasya apramāṇapradānasthānāntarā+ + + +	kRta-parikarmaNaH mEtrASayasya apramANa-pradAna-sTAna-antarA+ + + +
+   .upanibaddhacetasaś cirakālaṃ śāntaṃ	.upanibadDa-cetasaH cira-kAlam SAntam
+   2 + + + + sarvasatvahitādhyāśayapravṛttaṃ cittam anuvartate tadā dhāraṇāc	2 + + + + sarva-satva-hita-aDyASaya-pravRttam cittam anuvartate tadA DAraNA-c
+   ca cchatrapradeśe nīlavarṇo nīlāṃkuraparivāro maṇiḥ utpadyate tadvat	ca cCatra-pradeSe nIla-varNaH nIla-aMkura-parivAraH maNiH utpadyate tadvat-
+   sarvasrotobhyaḥ nīlavarṇānīlāṃkuraparivārā	sarva-srotoByaH nIla-varNA-nIla-aMkura-parivArA
+   3 maṇaya utpadyante tadvarṇaniḥsṛtānekarasadhārāsahasrāṇi satveṣu	3 maNayaH utpadyante tad-varNa-niHsRta-aneka-rasa-DArA-sahasrANi satvezu
+   nipatanti / satvāś ca pibanto dṛśyante tato maṇayo 'bhivṛddhamaitrāśayasya	nipatanti / satvAH ca pibantaH dRSyante tatas maNayaH aBivRdDa-mEtrASayasya
+   4 + + + + + + + + + adhastān nirgatāḥ satvāḥ parigṛhya prīyaikaputrakavat	4 + + + + + + + + + aDastAt nirgatAH satvAH parigRhya prIya-eka-putraka-vat
+   staneṣu śleṣayanti tato 'bhivṛddhamaitrāśayasya + + + + + + + + + + + + +	stanezu Slezayanti tatas aBivRdDa-mEtrASayasya + + + + + + + + + + + + +
+   5 + + + + + + kṛtsnaṃ lokaṃ spharitvā tiṣṭhati / tato 'ṣṭau mahānarakān	5 + + + + + + kRtsnam lokam sParitvA tizWati / tatas azwO mahA-narakAn
+   ṣoḍaśotsadamahāparivārāṃ saha śītanarakais tīryakpretamanuṣyāṃś ca	zoxaSa-utsat-amahA-parivArAm saha SIta-narakEH tIryak-preta-manuzyAn ca
+   apanītas. + + + + + + + + + + + +	apanItas. + + + + + + + + + + + +
+   6 + + + + + yogācārāśrayāṃ pariṣaṇḍādhirūḍhāṃ paśyati / tadupari ṣaṭ	6 + + + + + yoga-AcAra-ASrayAm parizaNxa-aDirUXAm paSyati / tad-upari zax-
+   kāmāvacarāṃ devāṃ rūpāvacarāṃś ca caturdhyānopapannāṃ sthānāntarapari + +	kAmAvacarAm devAm rUpAvacarAn ca catur-DyAna-upapannAm sTAna-antara-pari + +
+   YL 146V1 ti / sarvapariṣaṇḍāni sauvarṇakūṭāgāraparivāritāni tadantargatāṃś	YL 146V1 ti / sarva-parizaNxAni sOvarNa-kUwa-AgAra-parivAritAni tad-antargatAn=-
+   ca buddhāṃ bhagavataḥ tejodhātusamāpannāṃ paśyati uparīmāṃś ca pariṣaṇḍāṃ	ca budDAm BagavataH tejaH-DAtu-samApannAm paSyati uparImAn ca parizaNxAm
+   snigdhā + + + + + + + + + + +	snigDAH + + + + + + + + + + +
+   2 sarvatra .ā .ī + + + + + + pūrayitvā kāṃcanacakre nipatitā yāvad	2 sarvatra .A .I + + + + + + pUrayitvA kAMcana-cakre nipatitAH yAvat-
+   aghaniṣṭhāṃ sthānāntaram āpūrya tiṣṭhanti snigdhasuvarṇarasaṃ	aGa-nizWAm sTAna-antaram ApUrya tizWanti snigDa-suvarNa-rasam
+   samudranimagna + + + + + + + + + + + + + +	samudra-nimagne + + + + + + + + + + + + + +
+   3 ya pariṣaṇḍāṃ ku + + + + tair buddhavapurdhāribhiḥ abhisaṃkṣipte cāsmiṃ	3 yaH parizaNxAm ku + + + + tEH budDa-vapuH-DAriBiH aBisaMkzipte ca-asmin
+   nīlalohitāvadātaṃ samāpadyābhinirharati / + + + + + + + + + + +	nIla-lohita-avadAtam samApadya-aBinirharati / + + + + + + + + + + +
+   vītarāgāṇāṃ	vIta-rAgANAm
+   4 tribhiḥ rūpaiḥ pravartate adhipativibhāganiṣyandarūpaiḥ avītarāgāṇām	4 triBiH rUpEH pravartate aDipati-viBAga-nizyanda-rUpEH avIta-rAgANAm
+   ekena adhipatirūpeṇaiva tataḥ kūṭāgāra + + + + + + + + + + + + + + +	ekena aDipati-rUpeNa-eva tatas kUwAgAraH + + + + + + + + + + + + + + +
+   pariṣaṇḍāḥ	parizaNxAH
+   5 yogācārāśrayeṣu yogācārāśrayo 'bhisaṃkṣiptaḥ yathāpaurāṇo 'vastiṣṭhate	5 yoga-AcAra-ASrayezu yoga-AcAra-ASrayaH aBisaMkziptaH yaTApOrANaH avastizWate
+   ity eṣo 'paraḥ apramāṇo maitrīvihāraḥ āśrayāpramāṇatayālaṃbanāpramāṇatayā	iti ezaH aparaH apramANaH mEtrI-vihAraH ASraya-apramANa-tayA-alaMbana-apramANa-tayA
+   + + + āpramāṇatayā	+ + + ApramANa-tayA
+   6 puṇyaprasavāpramāṇatayāpramāṇeti vyutthitasyāpi niṣyandam anuvartate	6 puNya-prasava-apramANa-tayA-apramANA-iti vyutTitasya-api nizyandam anuvartate
+   āśrayam anantaraparyantāṃ sauvarṇaguhāṃ + + + + + + + + + + + + + + + + +	ASrayam anantara-paryantAm sOvarNa-guhAm + + + + + + + + + + + + + + + + +
+   YL 146R1 pannam adhaḥ kāṃcanacakre pratiṣṭhitaṃ nānāratnacitaiḥ padmair	YL 146R1 pannam aDas kAMcana-cakre pratizWitam nAnA-ratna-citEH padmEH-
+   niṣaṇṇair ūrdhvād aghaniṣṭhaparyantaṃ tiryakto 'nantaparyantaḥ sauvarṇā	nizaNNEH UrDvAt aGa-nizWa-paryantam tiryaktaH ananta-paryantaH sOvarNA
+   guhā pari + + + + + + + + + + + + + + + + +	guhA pari + + + + + + + + + + + + + + + + +
+   2 padmeṣu satvā niṣaṇṇās tejodhātusamāpannā buddhavapurdhāriṇo dṛśyante	2 padmezu satvAH nizaNNAH tejaH-DAtu-samApannAH budDa-vapuH-DAriNaH dRSyante
+   madhye cānantabhāsuraṃ nānāratnacitaṃ sahasrāracakraṃ tadvat sa + + + + +	maDye ca-ananta-BAsuram nAnA-ratna-citam sahasrAra-cakram tadvat sa + + + + +
+   3 m indranīlapadmarāgasphaṭikavarṇe sarvāḥ eṣa eva kramaḥ tato yugapac	3 m indranIla-padmarAga-sPawika-varNe sarvAH ezaH eva kramaH tatas yugapad-
+   caturvarṇābhiṣekaḥ caturvarṇapadmā gu + + + + + + + + + + + + + + + + +	catur-varNa-aBizekaH catur-varNa-padmA gu + + + + + + + + + + + + + + + + +
+   4 ś caturvarṇapadmāḥ / tadadhirūḍhāś caturvarṇā buddhā bhagavantaḥ	4 S catur-varNa-padmAH / tat-aDirUXAH catur-varNAH budDAH BagavantaH
+   prabhābhir lokam avabhāsya tiṣṭhantīty etāvan maitrābhiṣeka + + + + + + +	praBABiH lokam avaBAsya tizWanti-iti etAvat mEtra-aBizekaH + + + + + + +
+   adhaś ca lokam āpūrya	aDas ca lokam ApUrya
+   5 ūrdhvaṃ ca / suvarṇavarṇacaturvarṇamaitrābhiśekaś ca / tadrasaparipūrṇaḥ	5 UrDvam ca / suvarNa-varNa-catur-varNa-mEtra-aBiSekaH ca / tad-rasa-paripUrNaH
+   parvataḥ tasmāc catvāraḥ pravāhāḥ kācapārībhiḥ śarīraṃ pūrayanti suvarṇa +	parvataH tasmAt catvAraH pravAhAH kAca-pArIBiH SarIram pUrayanti suvarNaH +
+   + + + + + + + + + + + svam	+ + + + + + + + + + + svam
+   6 āśrayaṃ lakṣyate / tato bhrumadhyādhar nimnapradeśāt kṣīrapravāho	6 ASrayam lakzyate / tatas BrumaDyA-aDar nimna-pradeSAt kzIra-pravAhaH-
+   nirgatya pṛthivīmaṇḍalaṃ bhitvā apāyagatānāṃ satvānāṃ sarvaduḥkhopaśamaṃ	nirgatya pRTivI-maNxalam BitvA apAya-gatAnAm satvAnAm sarva-duHKa-upaSamam
+   kṛtvā yāvad vāyumaṇḍalaṃ bhitvā parivartya nābhyāṃ	kRtvA yAvat vAyu-maNxalam BitvA parivartya nAByAm
+   YL 147V1 praviśya mūrdhnā nirgatya yāvad aghaniṣṭhāṃ gatvā parivartya	YL 147V1 praviSya mUrDnA nirgatya yAvat aGa-nizWAm gatvA parivartya
+   kāmārūpārūpyāvacaradevaparivṛto mūrdhnā praviśati / punas tata eva sthānāṃ	kAmArUpA-rUpya-avacara-deva-parivRtaH mUrDnA praviSati / punar tatas eva sTAnAm
+   niḥsṛto nābhyāś ca sthitim āpūrayati / ādau gulakād	niHsRtaH nAByAH ca sTitim ApUrayati / AdO gulakAt-
+   2 vicchidyate / tato nābhyāḥ / nābhiparyantanimagnaṃ cātmānaṃ paśyati	2 vicCidyate / tatas nAByAH / nABi-paryanta-nimagnam ca-AtmAnam paSyati
+   nābhiniḥsṛtāś ca devāḥ sthitim āpūrya tiṣṭhanti hṛdaye ca kṣīrapuṣkiriṇī	na-aBi-niHsRtAH ca devAH sTitim ApUrya tizWanti hRdaye ca kzIrapuzkiriNI
+   taṃnimagnaṃ nakṣatraṃ maitrāśayaparigṛhītasya adhipatirūpam /	taMnimagnam nakzatram mEtrASaya-parigRhItasya aDipati-rUpam /
+   3 taṃnirjātam amṛtarasam ivendrāyudhavarṇā strī nirmalena bhājanena	3 taMnirjAtam amRta-rasam iva-indrAyuDa-varNA strI nirmalena BAjanena
+   gṛhītvā daśadiśaḥ ākṣipya ca sarvān satvāṃ pareṇa sukhena saṃyojayati	gRhItvA daSa-diSaH Akzipya ca sarvAn satvAm pareNa suKena saMyojayati
+   4 maitrī sthitim āpūrayati tato nirudhyata iti vyutthānam / // yogavinyāsā	4 mEtrI sTitim ApUrayati tatas niruDyate iti vyutTAnam / // yoga-vinyAsA
+   yogālaṃkārā uktāś ca viśeṣās ta eva śa + + + + .ai + + + + + nirākaraṇīyo	yoga-alaMkArAH uktAH ca viSezAH te eva SaH + + + + .E + + + + + nirAkaraNIyaH-
+   + sarvavyāpādā	+ sarva-vyApAdA
+   5 + + + .ānuśaṃsāś cotpadyante / yad uta sukhaṃ svapiti sukhaṃ	5 + + + .a-anuSaMsAH ca-utpadyante / yat uta suKam svapiti suKam
+   pratibudhyate suptaṃ enaṃ devatā rakṣanti / na ca pāpakaṃ svapnaṃ paśyati	pratibuDyate suptam enam devatAH rakzanti / na ca pApakam svapnam paSyati
+   kramati na viṣaṃ na śastraṃ kāye +	kramati na vizam na Sastram kAye +
+   6 + + + + + + + + + + + + + ḥ priyo devamanuṣyāṇāṃ brahmaṇā ca praśaṃsitāḥ	6 + + + + + + + + + + + + + H priyaH deva-manuzyANAm brahmaNA ca praSaMsitAH
+   anāgāmiphalaṃ prāpnoty uttare cāpratividhya brahmalokasya svabhāvatāyām	anAgAmi-Palam prApnoti uttare ca-aprativiDya brahma-lokasya svaBAvatAyAm
+   upagacchati // krodhapratipakṣānantaram / {zu V4-6 cf. SHT 620 und SHT IV	upagacCati // kroDa-pratipakza-anantaram / {zu V4-6 cf. SHT 620 und SHT IV
+   p. 339}	p. 339}
+   YL 147R1 parasukhahitāpanayanakāraṇāviṣkaraṇārtham /	YL 147R1 para-suKa-hita-apanayana-kAraNa-AvizkaraNa-arTam /
+   vyāpādapratipakṣānantaraṃ vyāpādaniṣyanda vihiṃsāviṣkaraṇārtham / + + + +	vyApAda-pratipakza-anantaram vyApAda-nizyanda vihiMsA-vizkaraNa-arTam / + + + +
+   2 pratipakṣānantaraṃ + + + + ḍakāraṇapratipakṣāviṣkaraṇārtham /	2 pratipakza-anantaram + + + + xakAraNa-pratipakza-AvizkaraNa-arTam /
+   karuṇāprayoganirdeśaḥ kriyate / atha kiṃsvabhāvā karuṇā tad ucyate / + + +	karuNA-prayoga-nirdeSaH kriyate / aTa kiMsvaBAvA karuNA tat ucyate / + + +
+   3 sapratipakṣeti / sā tu sānuparivartā sasaṃprayogā parigṛhyamānā	3 sa-pratipakzA-iti / sA tu sa-anuparivartA sa-saMprayogA parigRhyamAnA
+   kāmāvacarā catuḥskandhasvabhāvā / rūpāvacarā paṃcaskandhasvabhāvā / āśraye	kAmAvacarA catur-skanDa-svaBAvA / rUpAvacarA paMcaskanDa-svaBAvA / ASraye
+   4 kāmāśrayā / ālaṃbane kāmadhātvālaṃbanā / bhūmitaḥ saptabhaumā /	4 kAma-ASrayAH / AlaMbane kAmaDAtu-AlaMbanA / BUmitaH saptaBOmA /
+   kāmadhātau anāgamye caturṣu dhyāneṣu dhyānāntare ca / + + .ityādi //	kAmaDAtO anAgamye caturzu DyAnezu DyAna-antare ca / + + .ityAdi //
+   tatprayogaḥ adhimātrādhimātraṃ	tad-prayogaH aDimAtra-aDimAtram
+   5 mitraṃ + + + .aśubhamalinavasanaṃ kṛpaṇaṃ kṛṣṇam anuprāptaṃ	5 mitram + + + .aSuBa-malina-vasanam kRpaNam kRzNam anuprAptam
+   vivṛtaviniguhyadveśabhayaśokaviṣādāratimātsaryerṣyāpa + .t.ḥ cāsya dṛṣṭvā	vivRta-viniguhya-t-veSa-Baya-Soka-vizAda-arati-mAtsarya-IrzyA-apaH + .t.H ca-asya dRzwvA
+   paraṃ kāruṇyam utpadyate	param kAruNyam utpadyate
+   6 evaṃ madhyaṃ mrduṃ tadvad udāsīnaṃ mṛdumadhyādhimātraṃ cāmitraṃ kramaśaḥ	6 evam maDyam mrdum tadvat udAsInam mRdu-maDya-aDimAtram ca-amitram kramaSas-
+   tad anekaśārīramānasaiḥ duḥkhair upahataṃ dṛṣṭvā kāruṇyam utpadyate / tato	tat aneka-SArIra-mAnasEH duHKEH upahatam dRzwvA kAruNyam utpadyate / tatas-
+   'sya karuṇārtasya	asya karuNA-Artasya
+   YL 148V1 bhruvor madhye kṛṣṇataptaṃ piṭakam utpadyate / + + + + + + + + +	YL 148V1 BruvoH maDye kRzNa-taptam piwakam utpadyate / + + + + + + + + +
+   + + + + + mūrdhno niḥsṛtā strī kṣīradhārābhiḥ śarīram avasiṃcati yāvad	+ + + + + mUrDnaH niHsRtA strI kzIra-DArABiH SarIram avasiMcati yAvat-
+   vedanopaśāmyati tasmāc charīrāt	vedanA-upaSAmyati tasmAt SarIrAt-
+   2 kṣīradhārābhiḥ sarvasatvasamudraḥ plāvyate / tato naśyamānāṃ	2 kzIra-DArABiH sarva-satva-samudraH plAvyate / tatas naSyamAnAm
+   sarvasatvānāṃ śārīramānasaduḥkhāṃ paśyati / punas tathaiva karuṇā + + + +	sarva-satvAnAm SArIra-mAnasa-duHKAm paSyati / punar taTA-eva karuNA + + + +
+   rāvahitacetasaḥ śārīramānasai	rAva-hita-cetasaH SArIra-mAnasE
+   3 rogair upahatāḥ sarvasatvāḥ āvir bhavanti / śāriraiś caturuttaraiś	3 rogEH upahatAH sarva-satvAH Avis Bavanti / SArirEH catur-uttarEH-
+   caturbhiḥ rogaśataiḥ mānasaiś cāṣṭottaraiḥ 'ṣṭābhiḥ rogaśataiḥ dṛṣṭvā	caturBiH roga-SatEH mAnasEH ca-azwa-uttarEH azwABiH roga-SatEH dRzwvA
+   cāsya karuṇā bhavati / tadadhipatirūpam /	ca-asya karuNA Bavati / tad-aDipati-rUpam /
+   4 hṛdaye strī suvarṇābhā avadātavastraprāvṛtā utpadyate / utpannā yoginaṃ	4 hRdaye strI suvarNa-ABAH avadAta-vastra-prAvRtAH utpadyate / utpannA yoginam
+   protsāhayati / + + + + kāryaḥ ahaṃ te sarvaparahitakaraṇe	protsAhayati / + + + + kAryaH aham te sarva-para-hita-karaNe
+   5 sarvānukūlaṃ sāhāyyaṃ kariṣyāmīti tataḥ karuṇādhipatirūpaṃ hṛdayān	5 sarva-anukUlam sAhAyyam karizyAmi-iti tatas karuNA-aDipati-rUpam hRdayAn
+   nirgataḥ aghaniṣṭhāṃ kṛtsnaṃ gaganam abhrakūṭa iva spharitvā	nirgataH aGa-nizWAm kRtsnam gaganam aBra-kUwaH iva sParitvA
+   sarvaśarīraduḥkhapratipakṣabha	sarva-SarIra-duHKa-pratipakza-Ba
+   6 + sarvopakaraṇavṛṣṭiṃ muṃcati mānasānāṃ rogānāṃ + + + + + + + + + + + +	6 + sarva-upakaraNa-vRzwim muMcati mAnasAnAm rogAnAm + + + + + + + + + + + +
+   + + + + + + + + + gāṃ viṣkaṃbhayati / ubhayahastāṅguliniḥsṛtābhiḥ	+ + + + + + + + + gAm vizkaMBayati / uBaya-hasta-aFguli-niHsRtABiH
+   aṣṭāṃgopetābhiḥ	azwAMga-upetABiH
+   YL 148R1 saliladhārābhir avaśeṣaṃ mānasaṃ duḥkham ah. + + + + + + + + + +	YL 148R1 salila-DArABiH avaSezam mAnasam duHKam ah. + + + + + + + + + +
+   .e + + + + + + + + + .r. + medhya sā g. r. + + + m. mukh. + ti / tathaiva	.e + + + + + + + + + .r. + meDya sA g. r. + + + m. muK. + ti / taTA-eva
+   ca hṛdayasthā karuṇā	ca hRdaya-sTA karuNA
+   2 protsāhayaty uddhara snāpaya caināṃ satvān iti / sa tāṃ satvān uddharati	2 protsAhayati udDara snApaya ca-enAm satvAn iti / sa tAm satvAn udDarati
+   snāpayati ca + + + + + . vasyādhastān nirgatya satvāṃ s. + + + + +	snApayati ca + + + + + . vasya-aDastAt nirgatya satvAm s. + + + + +
+   brahmaiś ca gaganam āpūrṇaṃ karakahastaiḥ	brahmEH ca gaganam ApUrNam karaka-hastEH
+   3 nānāvarṇarasasekaiḥ satvāṃ siṃcyamānaiḥ paśyati / sa ca tāṃ snāpayati /	3 nAnA-varNa-rasa-sekEH satvAm siMcyamAnEH paSyati / sa ca tAm snApayati /
+   devānāṃ ca padmaiḥ pṛthivī pūryate / tadadhirūḍhāṃ satvāṃ paśyati /	devAnAm ca padmEH pRTivI pUryate / tat-aDirUXAm satvAm paSyati /
+   brahmahastāṃgulibhyaś	brahma-hasta-aMguliByaS
+   4 ca varṣaṃ patati / tatas te satvāḥ prāmodyaprāpiṇo bhavanti tasyaivaṃ	4 ca varzam patati / tatas te satvAH prAmodya-prApiNaH Bavanti tasya-evam
+   bhavati mayaite mahāvyasanapaṃkād uddhṛtā ity adhimātraṃ teṣu karuṇām	Bavati mayA-ete mahA-vyasana-paMkAt udDRtA iti aDimAtram tezu karuNAm
+   avakrāmati / sarvasrotobhyaś	avakrAmati / sarva-srotoByaS
+   5 cāsyākāśanibhāḥ paṭṭā niḥsṛtāḥ sarvasatvān upaguhya tiṣṭhanti / punaḥ	5 ca-asya-AkASa-niBAH pawwAH niHsRtAH sarva-satvAn upaguhya tizWanti / punar-
+   karuṇāvarjitacetasaḥ aṣṭau mahānarakāḥ ṣoḍaśotsadaparivārāḥ saha	karuNA-varjita-cetasaH azwO mahA-narakAH zoxaSa-utsat-aparivArAH saha
+   śītanarakair āmukhī bhavanti /	SIta-narakEH AmuKI Bavanti /
+   6 tatkāraṇāś cemāḥ śaktyasipadahastā + + + + + saṃjīve + + + + + + ś	6 tad-kAraNAH ca-imAH Sakti-asipada-hastAH + + + + + saMjIve + + + + + + S
+   cārasūtrakrakacacchidān kālasūtre tu / aśma + + + +	cAra-sUtra-krakaca=-CidAn kAlasUtre tu / aSma + + + +
+   yantrāyoghanagajānavdāryāyodroṇyaḥ	yantra-ayoGa-na-gajAnavdAryAya-udroNyaH
+   YL 149V1 saṃghāte ś. ṇ. ṇaśastrair gṛhīta + + + rauravayoḥ / + + + + + + +	YL 149V1 saMGAte S. N. Na-SastrEH gRhIta + + + rOravayoH / + + + + + + +
+   + tapane / pratāpane narake bhṛṣṭodbharjanapiṭarapraveśam avīcau narake tu	+ tapane / pratApane narake BRzwa-udBarjana-piwara-praveSam avIcO narake tu
+   ṣaṭsparśāyatanāgnipravarṣaṇarathāṅgakīlaśaṃkvacalā /	zaz-sparSa-Ayatana-agni-pravarzaNa-raTAFga-kIla-SaMku-acalAH /
+   2 dṛśyante + + + + + + + + + + + + + + + + + + kāraṇāpanayanāyaivaṃ	2 dRSyante + + + + + + + + + + + + + + + + + + kAraNa-apanayanAya-evam
+   cittasya yā eṣāṃ satvānāṃ kāraṇās tā ahaṃ praticchadeyaṃ iti	cittasya yAH ezAm satvAnAm kAraNAH tAH aham praticCadeyam iti
+   3 tasyaivāpramāṇāśayasya mahāṃ āśrayaḥ + + + + + + + + + + + + + + + .o +	3 tasya-eva-apramANa-ASayasya mahAm ASrayaH + + + + + + + + + + + + + + + .aH +
+   + + sahasrair aṣṭāṃgopetaṃ pānīyaṃ niścarati tena sarvāḥ kāraṇāḥ	+ + sahasrEH azwa-aMga-upetam pAnIyam niScarati tena sarvAH kAraNAH
+   4 śāmyante / tato bhagavāṃ vajrāsanādhirūḍhaḥ + + + + + + + + + + + + + +	4 SAmyante / tatas BagavAm vajra-Asana-aDirUXaH + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + dhīragaṃbhīrodāreṇa ca svareṇa dharmaṃ	+ + + + + + + + + + + + + + DIra-gaMBIra-udAreNa ca svareNa Darmam
+   deśayati /	deSayati /
+   5 tac chrutvā satvās tasmāc cyutāḥ sugatāv upapadyante / + + + + + + + + +	5 tat SrutvA satvAH tasmAt cyutAH sugatO upapadyante / + + + + + + + + +
+   + + + + + + + + + + + + + + + + + apasarpa māriṣāpasarpa parvataṃ	+ + + + + + + + + + + + + + + + + apasarpa mAriza-apasarpa parvatam
+   pātayāmīti	pAtayAmi-iti
+   6 na cā + + + + ṣatayām apasarpati / .e + + + + + + + + + + + + + + + + +	6 na cA + + + + zatayAm apasarpati / .e + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + sukhasaṃsparśo mahāṃś cāśrayo mahānarakān sarvān	+ + + + + + + + + + suKa-saMsparSaH mahAn ca-ASrayaH mahA-narakAn sarvAn
+   YL 149R1 avaṣṭabhya + + + + + kāraṇāś ca vinaśyanti / + + + + + + + + + +	YL 149R1 avazwaBya + + + + + kAraNAH ca vinaSyanti / + + + + + + + + + +
+   + + + + + + + + + + + + + + + + + + + + + + + sarvaduḥkhavinirmuktāḥ	+ + + + + + + + + + + + + + + + + + + + + + + sarva-duHKa-vinirmuktAH
+   sukhaṃ tiṣṭhanti / punaḥ sa puruṣa + + + t. mūrdhany utsṛjati sa tasya	suKam tizWanti / punar sa puruzaH + + + t. mUrDani utsRjati sa tasya
+   karuṇā + + + + + + + + + + + + + + + + + + + + + + + + + + + sarvāṃś ca	karuNA + + + + + + + + + + + + + + + + + + + + + + + + + + + sarvAn ca
+   satvāṃ nārakāṃ paśyati / puṣparasadhārābhiḥ	satvAm nArakAm paSyati / puzpa-rasa-DArABiH
+   3 siṃcyamānān / evaṃ tiryāṃ pretāṃ manuṣyāṃś ca / + + + + + + + + + + + +	3 siMcyamAnAn / evam tiryAm pretAm manuzyAn ca / + + + + + + + + + + + +
+   + + + + + + + + + + .tropanimittaṃ paṃca ca cyavananimittaiḥ duḥkhitāṃ	+ + + + + + + + + + .tra-upanimittam paMca ca cyavana-nimittEH duHKitAm
+   4 paśyati cchāyāṃ svāśrayasya paśyati / + + + + + + + + + + + + + + + + +	4 paSyati cCAyAm sva-ASrayasya paSyati / + + + + + + + + + + + + + + + + +
+   + + + + d. v. gātre tiṣṭhati / ekaviṣayālaṃbanasamarthaṃ cāsya cittaṃ	+ + + + d. v. gAtre tizWati / eka-vizaya-AlaMbana-samarTam ca-asya cittam
+   bhavati	Bavati
+   5 na bhūyaḥ alātacakravat / sarvaviṣayā + hi da + + + + + + + + + + + + +	5 na BUyas alAta-cakra-vat / sarva-vizayA + hi daH + + + + + + + + + + + + +
+   + nimittāni paṃcarajo gṛhṇanti vāsāṃ + + + .iva srajo gātrasvedo jāyate	+ nimittAni paMcarajaH gRhNanti vAsAm + + + .iva srajaH gAtra-svedaH jAyate
+   daurgandhyaṃ kāyam	dOrganDyam kAyam
+   6 avakrāmati sve āsane devo dhṛtiṃ na labhate + + + + + + + + + + + + + +	6 avakrAmati sve Asane devaH DRtim na laBate + + + + + + + + + + + + + +
+   y. nodyatabhāvasya bhagavāṃ siṃhāsanādhirūḍha utpadyate dharmaṃ ca	y. na-udyata-BAvasya BagavAm siMhAsana-aDirUXaH utpadyate Darmam ca
+   deśayati te ca saṃvignāḥ	deSayati te ca saMvignAH
+   YL 150V1 + + + v. ta iti śabdaṃ niścārayanti bhagavataḥ pādayoḥ patanti /	YL 150V1 + + + v. te iti Sabdam niScArayanti BagavataH pAdayoH patanti /
+   t. + + + + + + + + + t / t. + + + + + + + + + + + + + + deveṣūpapadyante /	t. + + + + + + + + + t / t. + + + + + + + + + + + + + + devezu-upapadyante /
+   evaṃ yāvat paranirmitavaśavartino	evam yAvat paranirmitavaSavartinaH-
+   2 devāṃ paśyati / punaḥ karuṇāśaya evaṃ paṃcagatikaṃ cakraṃ + + +	2 devAm paSyati / punar karuNA-ASayaH evam paMcagatikam cakram + + +
+   bhramyamāṇaṃ paśyati dṛṣṭvā cāsya kāruṇyam utpadyate / ātrāsanārthaṃ	BramyamANam paSyati dRzwvA ca-asya kAruNyam utpadyate / Atra-Asana-arTam
+   kleśaparvataḥ nānāvarṇai	kleSa-parvataH nAnA-varNEH-
+   3 rāgadveṣamohamānavicikitsādṛṣṭi + + + + + + + + + + + + + + + + + + + +	3 rAga-dveza-moha-mAna-vicikitsA-dRzwi + + + + + + + + + + + + + + + + + + + +
+   gacchati / sa cāsaṃbhrāntas tiṣṭhati / atha sa puruṣas taṃ saṃsāracakram	gacCati / sa ca-asaMBrAntaH tizWati / aTa sa puruzaH tam saMsAra-cakram
+   ādāya	AdAya
+   4 tasmiṃ kleśaparvate praviśati / + + + + + + + + + + + + + + + + + + + +	4 tasmim kleSa-parvate praviSati / + + + + + + + + + + + + + + + + + + + +
+   veśakaṇṭakāṃ + + mānāṃ paśyati dṛṣṭvā cāsyādhikataraṃ saṃjātakāruṇyasya	veSa-kaNwakAm + + mAnAm paSyati dRzwvA ca-asya-aDikataram saMjAta-kAruNyasya
+   5 haste vajra utpadyate tena taṃ kleśaparvataṃ + + + + + + + + + + + + + +	5 haste vajraH utpadyate tena tam kleSa-parvatam + + + + + + + + + + + + + +
+   + + + + + + + siṃhāsanādhirūḍhāḥ bhagavanto dharmaṃ deśayanti brahmā ca	+ + + + + + + siMhAsana-aDirUXAH BagavantaH Darmam deSayanti brahmA ca
+   bhṛṃgāram	BRMgAram
+   6 ādāyāgrataḥ sthito bodhisatvaṃ kathayati nya + + + + + + + + + + + + + +	6 AdAya-agratas sTitaH boDisatvam kaTayati nyaH + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + jayati / bodhau ca praṇidhānaṃ karoti / tac	+ + + + + + + + + + + + + jayati / boDO ca praNiDAnam karoti / tat-
+   codakaṃ	ca-udakam
+   YL 150r1 vāyunā kṣiptam ananteṣu lokadhātuṣu satvān siṃcati / + + + + + +	YL 150r1 vAyunA kziptam anantezu lokaDAtuzu satvAn siMcati / + + + + + +
+   mūrdhnā praticchaṃna + + + + + + bhagavāṃś cāsya śirasi paṭṭaṃ badhnāti	mUrDnA praticCaMnaH + + + + + + BagavAn ca-asya Sirasi pawwam baDnAti
+   kathayati ca namo 'nāgate 'dhvani bhaviṣyajjagatkarṇadhārāya	kaTayati ca namaH anAgate aDvani Bavizyat-jagat-karNaDArAya
+   2 devāś ca kṛtsnaṃ gaganam āpūrya n. + + + + + + + + .ā bhūtvā nipatanti /	2 devAH ca kRtsnam gaganam ApUrya n. + + + + + + + + .A BUtvA nipatanti /
+   + + + + + + + + + .v. + + + . utsṛjanti tasya prītiprāmodyasaṃjātasya	+ + + + + + + + + .v. + + + . utsRjanti tasya prIti-prAmodya-saMjAtasya
+   krameṇa	krameNa
+   3 lakṣaṇānuvyaṃjanavirājita āśraya + + yati candramaṇḍalasaṃkāśo + + + + +	3 lakzaNa-anuvyaMjana-virAjitaH ASraya + + yati candra-maNxala-saMkASaH + + + + +
+   satvāṃś ca vinayati / vyutthitasya cāsya bodhāya dṛḍham adhyāśayam	satvAn ca vinayati / vyutTitasya ca-asya boDAya dRXam aDyASayam
+   4 utpadyate / āśā cāsya saṃtiṣṭhate karmakleśā + + + + + + + punar	4 utpadyate / ASA ca-asya saMtizWate karma-kleSAH + + + + + + + punar-
+   bandhanabaddhaṃ + + .abhimukhī bhavati tad asya dṛṣṭvā adhimātraṃ kāruṇyam	banDana-badDam + + .aBimuKI Bavati tat asya dRzwvA aDimAtram kAruNyam
+   utpadyate / saṃjātakāruṇyasya	utpadyate / saMjAta-kAruNyasya
+   5 ca dakṣiṇe haste tīkṣṇam ākāśavarṇaṃ śastram utpadyate / tena + + + + +	5 ca dakziNe haste tIkzNam AkASa-varNam Sastram utpadyate / tena + + + + +
+   + + bandhanāṃ cchedayati / cchatraṃ ca anantaṃ lokaṃ spharitvā sarvasatvān	+ + banDanAm cCedayati / cCatram ca anantam lokam sParitvA sarva-satvAn
+   upaguhya tiṣṭhati /	upaguhya tizWati /
+   6 tata indranīlavarṇo 'bhiṣekaḥ pūrvavat / adhaś cordhvaṃ ca gatvā + + + +	6 tatas indranIla-varNaH aBizekaH pUrvavat / aDas ca-UrDvam ca gatvA + + + +
+   + + + + + + + + + + + s. + + + + + + + + + + + tato haṃsarathādhirūḍhaḥ	+ + + + + + + + + + + s. + + + + + + + + + + + tatas haMsa-raTa-aDirUXaH
+   brahmā ta	brahmA ta
+   YL 151V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 151V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + bhagavāṃś cāsya + + + + + + + + + + + āryamaitreyaś ca tatparivārāś ca	+ + BagavAn ca-asya + + + + + + + + + + + AryamEtreyaH ca tad-parivArAH ca
+   bodhisatv.	boDisatv.
+   2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + gate + +	2 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + gate + +
+   + + + + + + + + + + + + + anumodayati / brahmā kathayaty āśvasatu	+ + + + + + + + + + + + + anumodayati / brahmA kaTayati ASvasatu
+   3 + + + + + + + + + + + + + + + + + + + kathayati + + + + tvam iti	3 + + + + + + + + + + + + + + + + + + + kaTayati + + + + tvam iti
+   karuṇāsthitiḥ / punar abhiṣekapravāhānantaram / sthitiḥ kuṭṭimasau	karuNA-sTitiH / punar aBizeka-pravAha-anantaram / sTitiH kuwwim-asO
+   4 + + anantāparyantā bhavati / tato ratnamayo vṛkṣa udgataḥ kṛtsnaṃ lokaṃ	4 + + ananta-aparyantA Bavati / tatas ratna-mayaH vRkzaH udgataH kRtsnam lokam
+   spharitvā tiṣṭhati / vṛkṣamūlāni ca kāṃcanacakre pratiṣṭhitāni sauvarṇāni	sParitvA tizWati / vRkza-mUlAni ca kAMcana-cakre pratizWitAni sOvarNAni
+   kṣīraparipūrṇāni dṛśyante /	kzIra-paripUrNAni dRSyante /
+   5 vṛkṣādhastāt. + + + + + + + + + + + yajñavāṭā yatra bodhisatvaḥ sarvaṃ	5 vRkza-aDastAt. + + + + + + + + + + + yajQavAwAH yatra boDisatvaH sarvam
+   sarvatra sarvadā prayacchan no + + + + + + + + + + + puruṣaḥ kathayati /	sarvatra sarvadA prayacCan naH + + + + + + + + + + + puruzaH kaTayati /
+   asmiṃ sthāne bodhisatvaḥ	asmim sTAne boDisatvaH
+   6 sarvasatvānāṃ sarvamanoratha + + + kṛtvābhisaṃbuddho bodhim	6 sarva-satvAnAm sarva-manoH-aTa + + + kRtvA-aBisaMbudDaH boDim
+   asaṃkhyasatvaparivāraḥ nirupadhiśeṣe nirvāṇadhātau praviśatīti tato 'sya	asaMKya-satva-parivAraH nirupaDi-Seze nirvANa-DAtO praviSati-iti tatas asya
+   hṛdaye strī samutpadyate suvarṇavarṇāvadātavastraprāvṛtā /	hRdaye strI samutpadyate suvarNa-varNa-avadAta-vastra-prAvRtAH /
+   YL 151R1 sapaṭṭasuvarṇamālāvabaddhā sainaṃ protsāhayati / tvam api tāvat.	YL 151R1 sa-pawwa-suvarNa-mAlA-avabadDA sA-enam protsAhayati / tvam api tAvat-.
+   + r. + + tataḥ sāv ātmānāṃ praṇamya bodhāya praṇidhānaṃ karoti	+ r. + + tatas sO AtmAnAm praNamya boDAya praNiDAnam karoti
+   vyutthitasya cāsya praṇidhāna	vyutTitasya ca-asya praNiDAna
+   2 + + + + + + + + + +ḥ sarvasatvopari patati / tac ca dṛṣṭvā	2 + + + + + + + + + +H sarva-satva-upari patati / tat ca dRzwvA
+   saṃjātaprītiprāmodya + + + + + + + + + + + + nirgatya kṛtsnaṃ	saMjAta-prIti-prAmodya + + + + + + + + + + + + nirgatya kRtsnam
+   satvasamudram upaguhya tiṣṭhanti /	satva-samudram upaguhya tizWanti /
+   3 krameṇa + + + + + + + + + buddhān anekasahasraparivārān nirupadhiśeṣe	3 krameNa + + + + + + + + + budDAn aneka-sahasra-parivArAt nirupaDi-Seze
+   nirvāṇadhātau praviśataḥ paśyati iyam aparā karuṇāsthitiḥ // punaḥ	nirvANa-DAtO praviSataH paSyati iyam aparA karuNA-sTitiH // punar-
+   4 karuṇāśayasya bhrūvivara upanibaddhacetasaś chidram utpadyate / tatra	4 karuNA-ASayasya BrU-vivaraH upanibadDa-cetasaH Cidram utpadyate / tatra
+   bhagavantaṃ + + + + + + paśyati / taṃniḥsṛtair ālokair lokam avabhāsitaṃ	Bagavantam + + + + + + paSyati / taMniHsRtEH AlokEH lokam avaBAsitam
+   paśyati /	paSyati /
+   5 + + + + + + + + + samudrāṃ sa + + + + + + + + + + + + + + + + +	5 + + + + + + + + + samudrAm sa + + + + + + + + + + + + + + + + +
+   kāṃcanacakre + + + + + + + + + + + + + + + nagarabhavanodyānāni paśyati	kAMcana-cakre + + + + + + + + + + + + + + + nagara-Bavana-udyAnAni paSyati
+   tāṃ	tAm
+   6 + + + + + + + + + + + + + + + + + + + + + + + + + + + brahmā	6 + + + + + + + + + + + + + + + + + + + + + + + + + + + brahmA
+   gṛhītasuvarṇabhājana + + + + + + + + + niḥsṛtā candramaṇḍalasaṃkāśā nadī	gRhIta-suvarNa-BAjana + + + + + + + + + niHsRtA candra-maNxala-saMkASA nadI
+   YL 152V1 āśrayaṃ pūrayati / + + + + + + + + eva pravāhaḥ adho yāvad	YL 152V1 ASrayam pUrayati / + + + + + + + + eva pravAhaH aDas yAvat-
+   vāyumaṇḍalaṃ ūrdhvaṃ yāvac caturthaṃ dhyānam iti tadvarṇam evāvasthāpya	vAyu-maNxalam UrDvam yAvat caturTam DyAnam iti tad-varNam eva-avasTApya
+   punar mūrdhnā praviśya bhruvivarāṃ nirgato dvitīyaś ca	punar mUrDnA praviSya BruvivarAm nirgataH dvitIyaH ca
+   2 nābhyāḥ sthitim āpūrayati + + + + + racitaiś ca buddhāśrayaiḥ sthitiḥ	2 nAByAH sTitim ApUrayati + + + + + racitEH ca budDa-ASrayEH sTitiH
+   pūrṇā dṛśyate / tato haṃsarathādhirūḍhaḥ brahmā prādurbhavati / dakṣiṇe	pUrNA dRSyate / tatas haMsa-raTa-aDirUXaH brahmA prAdurBavati / dakziNe
+   cāsya pārśve sauvarṇena padmaṃ vāme nīlābhaṃ /	ca-asya pArSve sOvarNena padmam vAme nIla-ABam /
+   3 tato bhagavāṃ cchuddhāvāsadevaparivṛto dakṣiṇe padmakarṇikāyāṃ niṣīdati	3 tatas BagavAm cSudDAvAsa-deva-parivRtaH dakziNe padma-karNikAyAm nizIdati
+   śuddhāvāśāś ca devāḥ patreṣu āryamaitreyaḥ bodhisatvagaṇaparivṛtaḥ vāme	SudDO=-ASAH ca devAH patrezu Aryam-EtreyaH boDisatva-gaNa-parivRtaH vAme
+   pārśve	pArSve
+   4 padmakarṇikāyāṃ niṣīdati bodhisatvā patreṣu / tataḥ karuṇāvihāriṇaḥ	4 padma-karNikAyAm nizIdati boDisatvA patrezu / tatas karuNA-vihAriNaH
+   saṃjātaprasādasya pādamūle padmam utpadyate / sa bhagavatpādayoḥ praṇamya	saMjAta-prasAdasya pAda-mUle padmam utpadyate / sa Bagavat-pAdayoH praNamya
+   kathayati /	kaTayati /
+   5 bhagavaṃ syām aham anāgate 'dhvani sarvasatvapariṇāyake /	5 Bagavam syAm aham anAgate aDvani sarva-satva-pariNAyake /
+   sarvasatvavyādhīnām apahartā samyaksaṃbuddha iti tato 'sya bhagavāṃ pāṇinā	sarva-satva-vyADInAm apahartA samyaksaMbudDaH iti tatas asya BagavAm pANinA
+   mūrdhānaṃ parāmṛśati / kathayati ca putraka	mUrDAnam parAmRSati / kaTayati ca putraka
+   6 bhaviṣyasi tvam anāgate 'dhvani sarvasatvyavyādhīnām apahartā	6 Bavizyasi tvam anAgate aDvani sarva-satvya-vyADInAm apahartA
+   samyaksaṃbuddha iti / tato devā hṛṣṭāḥ kṛtsnaṃ gaganaṃ spharitvā + + + +	samyaksaMbudDaH iti / tatas devAH hRzwAH kRtsnam gaganam sParitvA + + + +
+   puṣparatnavarṣam utsṛjanti / sthityupari niṣaṇṇānāṃ	puzpa-ratna-varzam utsRjanti / sTiti-upari nizaNNAnAm
+   YL 152 R1 ca buddhānāṃ sarvasrotobhyo ratnavṛkṣāḥ nirgacchanti /	YL 152 R1 ca budDAnAm sarva-srotoByaH ratna-vRkzAH nirgacCanti /
+   tadadhirūḍhāḥ samyaksaṃbuddhāś candra maṇḍalacitā yāvad aghaniṣṭhāṃ devān	tad-aDirUXAH samyaksaMbudDAH candra maNxala-citAH yAvat aGa-nizWAm devAn
+   iti taṃnābhiniḥsṛtābhiś candramaṇḍalasaṃkāśābhir nadībhir	iti taMnABi-niHsRtABiH candra-maNxala-saMkASABiH nadIBiH-
+   2 yogācārāśrayam āpūryate / tato bhagavāṃ cchuddhāvāsadevaparivṛta	2 yoga-AcAra-ASrayam ApUryate / tatas BagavAm cSudDAvAsa-deva-parivRta
+   āryamaitreyo bodhisatvagaṇaparivṛtaḥ ūrdhvaṃ yathāgatā abhiruhanti sa ca	Aryam-EtreyaH boDisatva-gaNa-parivRtaH UrDvam yaTAgatAH aBiruhanti sa ca
+   prasādajātaḥ ratnāni puṣpāṇi ca kṣiptāni	prasAda-jAtaH ratnAni puzpANi ca kziptAni
+   3 devaiḥ parigaveṣate / iyam aparā karuṇāsthitiḥ ante ca sarvaṃ nābhyāṃ	3 devEH parigavezate / iyam aparA karuNA-sTitiH ante ca sarvam nAByAm
+   jñeyaṃ nirudhyate / buddhāś ca padmādhirūḍhāḥ kāye 'ntargatā dṛśyanta iti	jQeyam niruDyate / budDAH ca padma-aDirUXAH kAye antargatAH dRSyante iti
+   vyutthānam / evam	vyutTAnam / evam
+   4 asya saparikarmā saviśeṣā karuṇā niṣpannā vaktavyā / ataḥ param idānīm	4 asya sa-parikarmA sa-viSezA karuNA nizpannAH vaktavyA / atas param idAnIm
+   aparopatāpibhavaḥ kṣāntisauratyamārdavamṛdutve parakāryavyasanitvaṃ	apara-upatA-api-BavaH kzAnti-sOrati-amArdava-mRdu-tve para-kArya-vyasani-tvam
+   sauhṛdam aṃgāni	sOhRdam aMgAni
+   5 karuṇāyāḥ ebhi + + + + gṛhītā karuṇā punaḥpunar ārabhyamānā	5 karuNAyAH eBi + + + + gRhItA karuNA punar-punar AraByamAnA
+   mahākaruṇāvāhikā bhavatīti // karuṇānantaraṃ muditā nirdiṣṭā bhagavatā /	mahAkaruNA-vAhikA Bavati-iti // karuNA-anantaram muditA nirdizwA BagavatA /
+   atas tatsāmarthyaṃ	atas tad-sAmarTyam
+   6 + .e + + + + + + + + + + kimarthaṃ punaḥ karuṇānantaraṃ muditānirdeśas	6 + .e + + + + + + + + + + kimarTam punar karuNA-anantaram mudita-anirdeSa-H-
+   tad ucyate vihiṃsāpratipakṣānantaram īrṣyāratipratipakṣāviṣkaraṇārthaṃ /	tat ucyate vihiMsA-pratipakza-anantaram IrzyA-arati-pratipakza-AvizkaraNa-arTam /
+   paraduḥkhaprītipratipakṣānantaraṃ	para-duHKa-prIti-pratipakza-anantaram
+   YL 153V1 vā parasukhāprītipratipakṣāviṣkaraṇārtham /	YL 153V1 vA para-suKa-aprIti-pratipakza-AvizkaraNa-arTam /
+   nirvidākāramanasikārānantaraṃ vā prāmodyākārānukūlamanasikāradyotanārtham	nirvida-AkAra-manasikAra-anantaram vA prAmodya-AkAra-anukUla-manasikAra-dyotana-arTam
+   / duḥkhitāpanayanāśayamanasikārānantaraṃ	/ duHKita-apanayana-ASaya-manasikAra-anantaram
+   2 vā hitasukhānumodanāśayamanasikāradyotanārtham / atha kiṃsvabhāvā muditā	2 vA hita-suKa-anumodana-ASaya-manasikAra-dyotana-arTam / aTa kiMsvaBAvA muditA
+   tad ucyate / saumanasyeti sā svabhāvā sā tu sānuparivartā sasaṃprayogā	tat ucyate / sOmanasya-iti sA svaBAvA sA tu sa-anuparivartA sa-saMprayogA
+   3 parigṛhyamānā / kāmāvacarā catuḥskandhasvabhāvā / rupāvacarā	3 parigRhyamAnA / kAmAvacarA catur-skanDa-svaBAvA / rupAvacarA
+   paṃcaskandhasvabhāvā / āśraye kāmadhātvāśrayā / alaṃbane kāmadhātvālaṃbanā	paMcaskanDa-svaBAvA / ASraye kAmaDAtu-ASrayA / alaMbane kAmaDAtu-AlaMbanA
+   / bhūmitaḥ	/ BUmitaH
+   4 kāmadhātau dhyānadvaye ca tatra saumanasyaṃ dvayasadbhāvaṃ //	4 kAmaDAtO DyAna-dvaye ca tatra sOmanasyam dvaya-sadBAvam //
+   tatprayogaḥ adhimātrādhimātrasya mitrasya sukhena prīto bhavati evaṃ	tad-prayogaH aDimAtra-aDimAtrasya mitrasya suKena prItaH Bavati evam
+   madhyasya mṛdunaḥ udāsīnasya evam	maDyasya mRdunaH udAsInasya evam
+   5 adhimātrasyāmitrasya sukhena prīto bhavati tato muditopanibaddhacetasaḥ	5 aDimAtrasya-amitrasya suKena prItaH Bavati tatas mudita-upanibadDa-cetasaH
+   ebhiḥ prakāraiḥ satvān adhimucyamānasya hṛdaye padminī prādurbhavati /	eBiH prakArEH satvAn aDimucyamAnasya hRdaye padminI prAdurBavati /
+   suvarṇavālukāstīrnā	suvarNa-vAlukAH-tIrnA
+   6 suvarṇapadmaiḥ vaiḍūryanāḍaiḥ ratnacitaiḥ pūrṇā tadadhirūḍhāṃ satvān	6 suvarNa-padmEH vExUrya-nAxEH ratna-citEH pUrNA tat-aDirUXAm satvAn
+   sarvālaṃkāravibhūṣitāṃ pramuditāṃ paśyati / tadvat kṛtsnāyāṃ pṛthivyāṃ	sarva-alaMkAra-viBUzitAm pramuditAm paSyati / tadvat kRtsnAyAm pRTivyAm
+   dṛṣṭvā cāsya prītir utpadyate / anumodanākāraś	dRzwvA ca-asya prItiH utpadyate / anumodana-AkAraH-
+   YL 153R1 ca modantu bata satvā iti / punar muditāprayogāvahitacetaso	YL 153R1 ca modantu bata satvAH iti / punar mudita-aprayoga-avahita-cetasaH-
+   nānāsukhasamarpitaḥ satvasamudraḥ abhimukhī bhavati / cakravartisadṛśābhir	nAnA-suKa-samarpitaH satva-samudraH aBimuKI Bavati / cakravarti-sadRSABiH-
+   vibhūṣitābhiḥ	viBUzitABiH
+   2 + + + dṛśyante hṛdayāc cāsya sauvarṇo dhvaja utpadyate + + + + + + + +	2 + + + dRSyante hRdayAt ca-asya sOvarNaH DvajaH utpadyate + + + + + + + +
+   nā sa ca mūrdhnā nirgataḥ kṛtsnaṃ lokaṃ spharitvā sarvopakaraṇavarṣam ante	nA sa ca mUrDnA nirgataH kRtsnam lokam sParitvA sarva-upakaraNa-varzam ante
+   ca ratnavarṣaṃ muñcati / tena ca	ca ratna-varzam muQcati / tena ca
+   3 satvā buddhadharmasaṃgheṣu kāraṃ kurvanti hṛdaye 'sya suvarṇābhā strī	3 satvAH budDa-Darma-saMGezu kAram kurvanti hRdaye asya suvarNa-ABA strI
+   pramuditotpadyate muditādhipatirūpaṃ sainaṃ samutkarṣayati sādhu sādhu	pramudita-utpadyate mudita-aDipati-rUpam sA-enam samutkarzayati sADu sADu
+   śobhanam idam ārabdhaṃ /	SoBanam idam ArabDam /
+   4 evam iva satvā ihaloke paraloke sukhenānugṛhītāḥ / yāvat	4 evam iva satvAH ihaloke para-loke suKena-anugRhItAH / yAvat-
+   paranirmitavaśavartidevāṃ sukhena sukhitāṃ dṛṣṭvā prītir utpadyate /	paranirmita-vaSavarti-devAm suKena suKitAm dRzwvA prItiH utpadyate /
+   anumodanākāraś ca	anumodana-AkAraH ca
+   5 modantu bata satvā iti / tatsamantaraṃ anāgatena sukhena sukhitāṃ satvāṃ	5 modantu bata satvAH iti / tad-samantaram anAgatena suKena suKitAm satvAm
+   paśyati / tato 'sya brahmasadṛśam āśrayam utpadyate / sarvasrotobhyaś ca	paSyati / tatas asya brahma-sadRSam ASrayam utpadyate / sarva-srotoByaH ca
+   suvarṇābhāni candramaṇḍalāni	suvarNa-ABAni candra-maNxalAni
+   6 nānāratnacitāni nirgacchanti tatrādhirūḍhāṃ satvāṃ tatsadṛśavarṇān	6 nAnA-ratna-citAni nirgacCanti tatra-aDirUXAm satvAm tad-sadRSa-varNAn
+   ratnakūṭāgārair ivopagūḍhāṃ paśyati / tadvad anantaṃ lokaṃ dvitīye dhyāne	ratna-kUwa-AgArEH iva-upagUXAm paSyati / tadvat anantam lokam dvitIye DyAne
+   / evam eva nīlavarṇo dhātuḥ sarveṣāṃ / tac ca	/ evam eva nIla-varNaH DAtuH sarvezAm / tat ca
+   YL 154V1 + + + + + .utpadyate / anu + + + + + + + + + +	YL 154V1 + + + + + .utpadyate / anu + + + + + + + + + +
+   dyānānubhavadarśanaṃ vītarāgāṇām adhipativibhāganiṣyandarūpair veditavyam	dyAna-anuBava-darSanam vIta-rAgANAm aDipati-viBAga-nizyanda-rUpEH veditavyam
+   2 + + + + + nubhāvena eva naya + + + + + + manasikāraprayuktasyaikasmiṃ	2 + + + + + nuBAvena eva naya + + + + + + manasikAra-prayuktasya-ekasmin
+   bhāge manuṣyalokaṃ devāṃś ca paśyati dvitīye bhāge + + + + + + + + + + + +	BAge manuzya-lokam devAn ca paSyati dvitIye BAge + + + + + + + + + + + +
+   3 + + + + + + saṃparameṇa cittadamopaśamena samanvāgataṃ	3 + + + + + + saMparameNa citta-dama-upaSamena samanvAgatam
+   candrādityasamābhāsaṃ agnividyut. + + + + + + ya pa + + + buddhatejo	candra-Aditya-sama-ABAsam agni-vidyut. + + + + + + yaH paH + + + budDa-tejaH-
+   viśiṣyate śrāvakagaṇaṃ	viSizyate SrAvaka-gaNam
+   4 + + + + + + paripūrṇasantānaṃ bhagavataś ca dharmaśarīraṃ tasya	4 + + + + + + paripUrNa-santAnam BagavataH ca Darma-SarIram tasya
+   vistareṇa buddhānusmṛtau viv. + + + + + + + + + pakṣadvayaṃ dṛṣṭvā ime	vistareNa budDa-anusmRtO viv. + + + + + + + + + pakza-dvayam dRzwvA ime
+   'trapacayaḥ su	atrapacayaH su
+   5 + + + + amī + + + + + vaḥ ime saṃvṛtyupapattidevā amī viśuddhidevāḥ /	5 + + + + amI + + + + + vaH ime saMvRti-upapatti-devAH amI viSudDi-devAH /
+   ime abhyudayikena sukhena sukhinaḥ amī niśrayas .ī + ime	ime aByudayikena suKena suKinaH amI niSrayaH .I + ime
+   mahārhaprāsādavimānādhirūḍhā	mahArha-prAsAda-vimAna-aDirUXA
+   6 amī + + + + + + + + + + ime mahārhālaṃkārālaṃkṛtā amī	6 amI + + + + + + + + + + ime mahArha-alaMkAra-alaMkRtA amI
+   śramaṇālaṃkārālaṃkṛtāḥ ime īśvarajanag. + + + amī + + + + + + + + + ime +	SramaNa-alaMkAra-alaMkRtAH ime ISvara-janag. + + + amI + + + + + + + + + ime +
+   YL 154 R1 + + + + + amī + + + + + + + ime mahābhūtasamatayopetāḥ amī	YL 154 R1 + + + + + amI + + + + + + + ime mahABUta-samataya-upetAH amI
+   cittasamatayopetāḥ / tato bhagavataḥ śarīrāt pravāho nirgataḥ + + + + + +	citta-samataya-upetAH / tatas BagavataH SarIrAt pravAhaH nirgataH + + + + + +
+   2 + + + + + + + + ratnapuṣpavarṣam ākāśāt patati / te ca satvā bhagavantaṃ	2 + + + + + + + + ratna-puzpa-varzam AkASAt patati / te ca satvAH Bagavantam
+   dṛṣṭvā samantataḥ pradhāvanti bhagavataḥ pādayoḥ praṇamya + + + nāṃ	dRzwvA samantataH praDAvanti BagavataH pAdayoH praNamya + + + nAm
+   bhagavāṃ dharmaṃ deśayati te ca satvāḥ	BagavAm Darmam deSayati te ca satvAH
+   3 + + + + + pāramārthikaṃ śāsanāṃ sāṃketikaṃ cāvataranti śrāvakaguṇopetāṃś	3 + + + + + pAramArTikam SAsanAm sAMketikam ca-avataranti SrAvaka-guNa-upetAn=-
+   ca dṛṣṭvā prītir utpadyate / anumodanākāraś ca modantu bata satvā iti /	ca dRzwvA prItiH utpadyate / anumodana-AkAraH ca modantu bata satvAH iti /
+   tato 'bhiṣekaḥ ratnapravāhaḥ	tatas aBizekaH ratna-pravAhaH
+   4 pravilīya mūrdhnā praviśyāśrayaṃ pūrayati prīṇayati ca hṛdayāc cāsya	4 pravilIya mUrDnA praviSya-ASrayam pUrayati prINayati ca hRdayAt ca-asya
+   pravāho nirgatya vicchidyate adhaś cordhvaṃ ca gatvā ratnaprabhābhir lokam	pravAhaH nirgatya vicCidyate aDas ca-UrDvam ca gatvA ratna-praBABiH lokam
+   avabhāsyā	avaBAsyA
+   5 + + + + + krameṇa sthitim āpūrayati / tataḥ siṃhāsanādhirūḍhāḥ	5 + + + + + krameNa sTitim ApUrayati / tatas siMhAsana-aDirUXAH
+   anantaparyantā bhagavanto buddhāḥ prādurbhavanti śrāvakagaṇaparivṛtāḥ	ananta-paryantAH BagavantaH budDAH prAdurBavanti SrAvaka-gaNa-parivRtAH
+   taṃniḥsṛtaiś ca ratnapuṣpavarṣaiḥ loko vyavakīryate	taMniHsRtEH ca ratna-puzpa-varzEH lokaH vyavakIryate
+   6 + .aṅgulibhis tebhya eva + + + + + + + kūṭāgārāntargatā buddhā dṛśyante	6 + .aFguliBiH teByaH eva + + + + + + + kUwAgAra-antargatAH budDAH dRSyante
+   / satvāś ca ratnaprāsādāntargatāḥ tadubhayeṣu vai + + + + + + + + + + + +	/ satvAH ca ratna-prAsAda-antargatAH tad-uBayezu vE + + + + + + + + + + + +
+   YL 155V1 + + + + + + + + + + + + + + + + + + + + lokaiś ca	YL 155V1 + + + + + + + + + + + + + + + + + + + + lokEH ca
+   buddhaguṇaprabhābhiś cāvabhāsito loko buddhāśraye + + + + + + + + + + + +	budDa-guNa-praBABiH ca-avaBAsitaH lokaH budDa-ASraye + + + + + + + + + + + +
+   2 + + + + + + + + + + ante sarvaṃ jñeyaṃ nābhyāṃ nirudhyata iti vyutthānam	2 + + + + + + + + + + ante sarvam jQeyam nAByAm niruDyate iti vyutTAnam
+   / // muditāsamanantaram upekṣā nirdiṣtā bhagavatā / + + + + + + + m. v. +	/ // mudita-asamanantaram upekzA nirdiztA BagavatA / + + + + + + + m. v. +
+   3 + + + + + + + + + + + + + + t tad ucyate īrṣyāratipratipakṣānantaraṃ	3 + + + + + + + + + + + + + + t tat ucyate IrzyA-arati-pratipakza-anantaram
+   kāmarāgavyāpādapratipakṣāviṣkaraṇārtham / v. bh. g. manasikārānantaraṃ +	kAma-rAga-vyApAda-pratipakza-AvizkaraNa-arTam / v. B. g. manasikAra-anantaram +
+   4 + + + + + + + + + + + + + yavidhuraudbilyānukūlamanasikārānantaraṃ + + +	4 + + + + + + + + + + + + + yaviDurOdbilya-anukUla-manasikAra-anantaram + + +
+   + + + + + + + + + + dyotanārtham / tatprayoga ādita evo +	+ + + + + + + + + + dyotana-arTam / tad-prayogaH Aditas evaH +
+   5 + + + + + + + + + + + + + + + + ca mitrapakṣaṃ mṛduṃ madhyam adhimātraṃ	5 + + + + + + + + + + + + + + + + ca mitra-pakzam mRdum maDyam aDimAtram
+   cāmitraṃ + + + + + + + + + + + + sty ajatvāt / yadāsya taci +ṃ samaṃ + +	ca-amitram + + + + + + + + + + + + sti aja-tvAt / yadA-asya taci +m samam + +
+   6 + + + + + + + + + + + + + + + + + + .upekṣā niṣpannā bhavati / atha	6 + + + + + + + + + + + + + + + + + + .upekzA nizpannA Bavati / aTa
+   kiṃsvabhāvā upekṣā tad ucyate / alobhasvabhāvā sā tu sānuparivartā	kiMsvaBAvAH upekzA tat ucyate / aloBa-svaBAvA sA tu sa-anuparivartA
+   sasaṃprayogā parigṛhyamānā /	sa-saMprayogA parigRhyamAnAH /
+   YL 155R1 + + + + + + + + + + āśraye kāmadhātvāśrayā ālaṃbane	YL 155R1 + + + + + + + + + + ASraye kAmaDAtu-ASrayAH AlaMbane
+   kāmadhātvālaṃbanā bhūmitaḥ saptabhaumā / kāmadhātau anāgamye caturṣu	kAmaDAtu-AlaMbanA BUmitaH saptaBOmA / kAmaDAtO anAgamye caturzu
+   dhyāneṣu dhyānāntare ca / + + + + +	DyAnezu DyAna-antare ca / + + + + +
+   2 + + + + + + + + + + + + + + + + + + + pṛṣṭhataḥ upanibaddhacetasaḥ	2 + + + + + + + + + + + + + + + + + + + pRzWatas upanibadDa-cetasaH
+   yathokte + + + + + + + + + + + + dvāraṃ prādurbhavati / tatra padmopaga +	yaTA-ukte + + + + + + + + + + + + dvAram prAdurBavati / tatra padma-upaga +
+   3 + + + + + + + + + purata upanibaddhacetasaḥ tatraiva dvāraṃ	3 + + + + + + + + + puratas upanibadDa-cetasaH tatra-eva dvAram
+   prādurbhavati tatra + + + + + + + + + + + + + + + m. kūṭaprakhyā	prAdurBavati tatra + + + + + + + + + + + + + + + m. kUwa-praKyA
+   buddhavapurdhāriṇa + + + +	budDa-vapuH-DAriNaH + + + +
+   4 + + + + + + + + + + + + + tā cātra navanītavarṇasaṃsparśā strī utpadyate	4 + + + + + + + + + + + + + tA ca-atra navanIta-varNa-saMsparSA strI utpadyate
+   / + + + + + + + + + + + + + .upaguhya tiṣṭhati / + + +	/ + + + + + + + + + + + + + .upaguhya tizWati / + + +
+   5 + + + + + + + + + + + + + + + + + + + + + paṭṭair anantaparyantaiḥ	5 + + + + + + + + + + + + + + + + + + + + + pawwEH ananta-paryantEH
+   satvāś chādyante paṭṭa + + + + + + + + + + + + + + + + + + + + + + + + + +	satvAH CAdyante pawwaH + + + + + + + + + + + + + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + + + + + ṣu satvāṃ parasparopekṣakiṃ	6 + + + + + + + + + + + + + + + + + zu satvAm paraspara-upekzakim
+   snigdharasap. + + + + + + + + + + + + + + + + + + + + + + + + + +	snigDa-rasa-p. + + + + + + + + + + + + + + + + + + + + + + + + + +
+   YL 156V1 + + + + + + + + + + + + + + + + + + + + + + .āmānāṃs tanniḥsṛtaiś	YL 156V1 + + + + + + + + + + + + + + + + + + + + + + .AmAnAn tat-niHsRta-EH-
+   ca navanītavarṇasa + + + + + + + + + + + + + + + + + + + + + + + + + +	ca navanIta-varNa-sa + + + + + + + + + + + + + + + + + + + + + + + + + +
+   2 + + + + + + + + / karuṇāyā duḥkhāhita + + + + + muditāyās	2 + + + + + + + + / karuNAyAH duHKa-ahita + + + + + muditAya-as
+   tadubhayānumodanena yuktaḥ pu + + + + + + + + + + + + + + + + + + + + + +	tad-uBaya-anumodanena yuktaH pu + + + + + + + + + + + + + + + + + + + + + +
+   3 + + + + + + + + + + tyāgī / + + + + tāṃ parebhyas tadapekṣadoṣanāśāya /	3 + + + + + + + + + + tyAgI / + + + + tAm pareByaH tad-apekza-doza-nASAya /
+   ato vi + + + + + + + + + + + + + + + + + + + + + + +	atas vi + + + + + + + + + + + + + + + + + + + + + + +
+   4 + + + + + + + viṣayopekṣā / vedayitopekṣā / bālacaritaratyupekṣā /	4 + + + + + + + vizaya-upekzA / vedayitA-upekzA / bAlacarita-rati-upekzA /
+   bhavāṃgopekṣā / ātmaparikalpopekṣā / + + + + + + + + + + + +	BavAMga-upekzA / Atma-parikalpa-upekzA / + + + + + + + + + + + +
+   5 + + + + + + + + + + .apramāṇopekṣāyāṃ yathoktasthānāntareṣv	5 + + + + + + + + + + .a-pramANa-upekzAyAm yaTA-ukta-sTAna-antarezu-
+   anyatarānyatara upanibaddhacetasaḥ + + + + + + + + + + + + + + + + + + + +	anyatara-anyatare upanibadDa-cetasaH + + + + + + + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + yam utpadyate / duścaritacāriṣv abahumānāt	6 + + + + + + + + + + + + + yam utpadyate / duScarita-cArizu abahu-mAnAt-
+   pratighaḥ + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	pratiGaH + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   YL 156R1 + + + + + + + + + + + + + .y. ti cetaḥ duścaritacāriṇām	YL 156R1 + + + + + + + + + + + + + .y. ti cetaH duScarita-cAriNAm
+   atītānāgatāṃ paśyati / + + + + + + + + + + + + + + + + + + + + + + + + + +	atIta-anAgatAm paSyati / + + + + + + + + + + + + + + + + + + + + + + + + + +
+   2 + + + + + + + + + + + + + satvāṃ paśyati evaṃ suvarṇadurvarṇānām /	2 + + + + + + + + + + + + + satvAm paSyati evam suvarNa-durvarNAnAm /
+   sadhanān adhanān / + + + + + + + + + + + + + + + + + + + + + + + + + +	sa-DanAn aDanAn / + + + + + + + + + + + + + + + + + + + + + + + + + +
+   3 + + + + + + + + + vītarāgān / bālān avītarāgān / sakleśāṃ niṣkleśān /	3 + + + + + + + + + vIta-rAgAn / bAlAn avIta-rAgAn / sa-kleSAm nizkleSAn /
+   ac. + + + + + + + + + + + + + + + + + + + + + + + + + +	ac. + + + + + + + + + + + + + + + + + + + + + + + + + +
+   4 + + + + + + + + + + samī + + + +ḥ sarvasatvā niṣkleśā dṛśyante /	4 + + + + + + + + + + samI + + + +H sarva-satvAH nizkleSAH dRSyante /
+   kūṭāgārāś ca + + + + + + + + + + + + + + + + + + + + + + +	kUwAgArAH ca + + + + + + + + + + + + + + + + + + + + + + +
+   5 + + + + + + + + + + + + + + + + + + + + + + + .ā utpadyante / tatra ca	5 + + + + + + + + + + + + + + + + + + + + + + + .AH utpadyante / tatra ca
+   praviṣṭān sarvasatvāṃ + + + + + + + + + + + + + + + + + + + + + +	pravizwAn sarva-satvAm + + + + + + + + + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + + + + + + + + + te / viṣayopekṣā triprakārā ki	6 + + + + + + + + + + + + + + + + + + + + + te / vizaya-upekzA tri-prakArA ki
+   + .ā + + + + + + + + + + + + + + + + + + + + + + + + + + +	+ .A + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   YL 157V1 + + + + + + + + + + + + + + + + + + + sta utpadyate madhyasthāṃ	YL 157V1 + + + + + + + + + + + + + + + + + + + staH utpadyate maDyasTAm
+   viṣayāṃ d. y. + + + + + + + + + + + + + + + + + + pratighaś ca dūrī	vizayAm d. y. + + + + + + + + + + + + + + + + + + pratiGaH ca dUrI
+   bhavati mo + + +	Bavati maH + + +
+   2 + + + + + + + + + + + + + + + + + + + kṣīraparipūrṇā candramaṇḍalahasto	2 + + + + + + + + + + + + + + + + + + + kzIra-paripUrNA candra-maNxala-hastaH-
+   + + + + + + + + + + + + + + + + + + + ti / pratikūlālāṃbanābhā	+ + + + + + + + + + + + + + + + + + + ti / prati-kUlAlAMbanABA
+   3 + + + + + + + + + + + + + + .āśīviṣāṃ nirdhāvyamānāṃ paśyati / tata + +	3 + + + + + + + + + + + + + + .a-ASIvizAm nirDAvyamAnAm paSyati / tatas + +
+   + + + + + + + + + + + + + + + + .i. + .ā + + +	+ + + + + + + + + + + + + + + + .i. + .A + + +
+   4 + + + + + + + + + + + + + + .y. rūpanadyaḥ snehamiśrāḥ pravi + + + + + +	4 + + + + + + + + + + + + + + .y. rUpa-nadyaH sneha-miSrAH pravi + + + + + +
+   + + rūpāṇāṃ cakṣurdvāreṇa śabdānāṃ śrotradvāreṇa gandhānāṃ ghrāṇadvāreṇa	+ + rUpANAm cakzuH-dvAreNa SabdAnAm Srotra-dvAreNa ganDAnAm GrANa-dvAreNa
+   5 rasānāṃ jihvādvāreṇa spṛṣṭavyānāṃ kāyadvāraiḥ dharmāṇāṃ manodvāraiḥ tāni	5 rasAnAm jihvA-dvAreNa spRzwavyAnAm kAya-dvArEH DarmANAm manaH-dvArEH tAni
+   ca nakṣatrāṇi iṣṭaviṣayādhipatirūpāṇi + + + + + + + + + + + + + + + + +	ca nakzatrANi izwa-vizaya-aDipati-rUpANi + + + + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + + + raśmibhir visphuliṃgābhiḥ iṣṭaviṣayān	6 + + + + + + + + + + + + + + + raSmiBiH visPuliMgABiH izwa-vizayAn
+   upahanti cakṣurdvāreṇa + + + + + + + + + + + + + + + + + + + + + + + +	upahanti cakzuH-dvAreNa + + + + + + + + + + + + + + + + + + + + + + + +
+   YL 157R1 śrotradvāreṇa + + + ghrāṇadvāreṇa + + + + + jīhvādvāreṇa kṣurāṇām	YL 157R1 Srotra-dvAreNa + + + GrANa-dvAreNa + + + + + jIhvA-dvAreNa kzurANAm
+   / kāyadvāreṇa śaktinām / nadya + + + + + + + + + + + + + + + + + + + + + +	/ kAya-dvAreNa SaktinAm / nadyaH + + + + + + + + + + + + + + + + + + + + + +
+   2 + + + + + + + + + + + + + + + + + + + pi + utpadyate tanniḥsṛtābhiḥ	2 + + + + + + + + + + + + + + + + + + + pi + utpadyate tad-niHsRtABiH
+   raśmibhiḥ indriyāṇi + + + + + + + + + + + + + + + + + + + + + + +	raSmiBiH indriyANi + + + + + + + + + + + + + + + + + + + + + + +
+   3 + + + + + + + + + + + + raśmikālāpaṃ gṛhītvā smṛtinimittaṃ + + + + + + +	3 + + + + + + + + + + + + raSmika-AlApam gRhItvA smRti-nimittam + + + + + + +
+   4 + + + + + + + + + + + + + .yābhimukhī bhavanti āyatanadvārāṇy a + + + +	4 + + + + + + + + + + + + + .ya-aBimuKI Bavanti Ayatana-dvArANi a + + + +
+   + + + + + + + + + + + + anunayaś ca dūrī bhavati /	+ + + + + + + + + + + + anunayaH ca dUrI Bavati /
+   5 + + + + + + + + + + + + + + + + + + + + masya triprakārasya	5 + + + + + + + + + + + + + + + + + + + + masya tri-prakArasya
+   viṣayeṣūpekṣā + + + + + + + + + + + + + + + + + + bhavati / tato 'sya	vizayezu-upekzA + + + + + + + + + + + + + + + + + + Bavati / tatas asya
+   viṣayasā	vizayasA
+   6 + + + + + + + + + + + + + + + + + nām aniṣṭeṣu dviṣyamānāṃ tadubhaya .i	6 + + + + + + + + + + + + + + + + + nAm anizwezu dvizyamAnAm tat-uBayaH .i
+   + + + + + + + + + + + + + + + + + + + + + viṣayopekṣām upasaṃharati	+ + + + + + + + + + + + + + + + + + + + + vizaya-upekzAm upasaMharati
+   YL 158V1 tadapekṣadoṣanāśāya tataḥ strī anantaparyantam ādarśaṃ	YL 158V1 tad-apekza-doza-nASAya tatas strI ananta-paryantam AdarSam
+   gṛhītvaikaikasya satvasyāgrataḥ tiṣṭhati / + + + + + + + + + + + + +	gRhItvA-ekEkasya satvasya-agratas tizWati / + + + + + + + + + + + + +
+   viṣayebhyaḥ upekṣāṃ pratilabhante / yathā	vizayeByaH upekzAm pratilaBante / yaTA
+   2 suparivāritaṃ caikaikaṃ satvaṃ paryaṃkena niṣaṇṇaṃ paśyati / iti	2 su-parivAritam ca-ekEkam satvam paryaMkena nizaNNam paSyati / iti
+   viṣayopekṣā / vedayitopekṣā katarā / + + + + + + triprakārāyāḥ vedanāyāḥ	vizaya-upekzA / vedayitA-upekzA katarA / + + + + + + tri-prakArAyAH vedanAyAH
+   adhipatirūpam utpadyate /	aDipati-rUpam utpadyate /
+   3 yathoktaṃ vedanāskandhaparīkṣāyāṃ tatra duḥkhasukhāyāṃ vedanāyām	3 yaToktam vedanA-skanDa-parIkzAyAm tatra duHKa-suKAyAm vedanAyAm
+   udakavarṇaṃ budbudam u + + + + + .utpadyate paśyataś cāsya upekṣā	udaka-varNam budbudam u + + + + + .utpadyate paSyataH ca-asya upekzA
+   saṃtiṣṭhate duḥkhāyāṃ	saMtizWate duHKAyAm
+   4 pīḍyamānasya dveṣam utpadyate tatrāsyātītā janmaparaṃparābhimukhī	4 pIxyamAnasya dvezam utpadyate tatra-asya-atItA janma-paraMpara-aBimuKI
+   bhavati tatrānena + + + + duḥkhaiḥ pīḍitāḥ ghātitāś ca anāgatā ca	Bavati tatra-anena + + + + duHKEH pIxitAH GAtitAH ca anAgatA ca
+   janmaparaṃparābhimukhī bhavati /	janma-paraMpara-aBimuKI Bavati /
+   5 dveṣasamudācāradoṣadarśanāt kṣiptāśīviṣādiṣu dṛṣṭvā cāsya + + + + + + +	5 dveza-samudAcAra-doza-darSanAt kzipta-ASIviza-Adizu dRzwvA ca-asya + + + + + + +
+   + + + + + + + + .āparāddhaḥ anāgata .ā .aṃ doṣaḥ iti duḥkhāyāṃ	+ + + + + + + + .a-aparAdDaH anAgataH .A .am dozaH iti duHKAyAm
+   6 vedanāyām upekṣā saṃtiṣṭhate pratighaś ca dūrī bhavati / tatkṛtaś ca	6 vedanAyAm upekzA saMtizWate pratiGaH ca dUrI Bavati / tad-kRtaH ca
+   doṣḥ vyāvartate sukhāyāṃ vedanāyāṃ sukhitasya rāga utpadyate / tatrātītāṃ	dozH vyAvartate suKAyAm vedanAyAm suKitasya rAgaH utpadyate / tatra-atItAm
+   janmaparaṃparām abhimukhī karoti	janma-paraMparAm aBimuKI karoti
+   YL 158R1 tatrānena sukhavedanāsvādavaśād duścaritaṃ samutthāpitam apāyeṣu	YL 158R1 tatra-anena suKa-vedanA-svAda-vaSAt duScaritam samutTApitam apAyezu
+   duḥkham anubhūtam / + + + + + + + + + + + + + pravartamānāṃ c. d. + kṣaṇam	duHKam anuBUtam / + + + + + + + + + + + + + pravartamAnAm c. d. + kzaNam
+   ūrdhvam anavasthāyinīṃ	UrDvam anavasTAyinIm
+   2 paśyati dṛṣṭvā cāsya sukhāyāṃ vedanāyām upekṣā saṃtiṣṭhati niṣparid. + +	2 paSyati dRzwvA ca-asya suKAyAm vedanAyAm upekzA saMtizWati nizparid. + +
+   + + + + + + + + + + + + + + + + + + .y. satvasamudram abhimukhī bhavati	+ + + + + + + + + + + + + + + + + + .y. satva-samudram aBimuKI Bavati
+   3 sa teṣāṃ vedayitopekṣām upasaṃharati / tadapekṣadoṣanāśāya tato	3 sa tezAm vedayitA-upekzAm upasaMharati / tad-apekza-doza-nASAya tatas-
+   vaiḍūryastaṃbhamahāprāsāda utpadyate yatra te satvā triprakārasya	vExUrya-staMBa-mahA-prAsAdaH utpadyate yatra te satvA tri-prakArasya
+   vedayitādhyavasānasyādīnavaṃ	vedayitA-aDyavasAnasya-AdInavam
+   4 dṛṣṭvā kramaśaḥ upekṣāṃ pratilabhante tata eva sa	4 dRzwvA kramaSas upekzAm pratilaBante tatas eva sa
+   vaiḍūryastaṃbhaniḥsṛtaiḥ paṭṭais tadvarṇaiś ca kūṭāgārair avacchāditā	vExUrya-staMBa-niHsRtEH pawwEH tad-varNEH ca kUwAgArEH avacCAditA
+   dṛśyante / ratnaprāsādāntargataṃ	dRSyante / ratna-prAsAda-antargatam
+   5 vedayitaṃ triprakāraṃ parīkṣamāṇā dṛśyante iti vedayitopekṣā / //	5 vedayitam tri-prakAram parIkzamANAH dRSyante iti vedayitA-upekzA / //
+   bālacaritaratyupekṣā katarā / tatrāsyātītajanmaparaṃparābhimukhī bhavati /	bAlacarita-rati-upekzA katarA / tatra-asya-atIta-janma-paraMpara-aBimuKI Bavati /
+   ihajānmikam anyajānmikaṃ	ihajAnmikam anya-jAnmikam
+   6 ca caritaṃ paśyati / ihajanmani maithunayuddhakaraṇanirīkṣaṇābhirataḥ	6 ca caritam paSyati / iha-janmani mETuna-yudDa-karaNa-nirIkzaNa-aBirataH
+   anyajanmani ca + + + + + + + + + + + + + + + + + + + l. + nas	anya-janmani ca + + + + + + + + + + + + + + + + + + + l. + naH-
+   vaiśvābhūtena rāgadveṣamohavaśād	vESvABUtena rAga-dveza-moha-vaSAt-
+   YL 159V1 duścaritaṃ samutthāpitam apāyeṣu ca duḥkham anubhūtam evam	YL 159V1 duScaritam samutTApitam apAyezu ca duHKam anuBUtam evam
+   anantaparyantāṃ janmaparaṃparām apāyeṣv ākṣiptāṃ paśyati tato	ananta-paryantAm janma-paraMparAm apAyezu AkziptAm paSyati tatas-
+   hryavatrāpyādhipatirūpam utpadyate avadātavastraprāvṛtā	hryavatrApi-ADipati-rUpam utpadyate avadAta-vastra-prAvRtA
+   2 strī puruṣaś ca hrīḥ kleśebhyo lajjati avatrāpyaṃ duścaritebhyaḥ hrīr	2 strI puruzaH ca hrIH kleSeByaH lajjati avatrApyam duScariteByaH hrIH-
+   duścaritebhyaḥ avatrāpyaṃ duścaritaphalāt / dṛṣṭvā cāsya parā hrīr	duScariteByaH avatrApyam duScarita-PalAt / dRzwvA ca-asya parA hrIH-
+   utpadyate / bālacaritaratibhyaś	utpadyate / bAlacarita-ratiByaS
+   3 copekṣā saṃtiṣṭhate / tato 'sya bālacaritakrīḍa + + satvasamudram	3 ca-upekzA saMtizWate / tatas asya bAla-carita-krIxa + + satva-samudram
+   abhimukhī bhavati / sa teṣāṃ bālacaritaratyupekṣām upasaṃharati	aBimuKI Bavati / sa tezAm bAlacarita-rati-upekzAm upasaMharati
+   tadapekṣadoṣanāśaya	tad-apekza-doza-nASaya
+   4 tato bhagavān utpadyate taṃniḥsṛtaiś cālokaiḥ satvā avabhāsitāḥ .ṛ .v. +	4 tatas BagavAn utpadyate taMniHsRtEH ca-AlokEH satvAH avaBAsitAH .R .v. +
+   + + + + + + + + upekṣāṃ pratilabhante sarvasatvāḥ saṃvignāś ca bhagavato	+ + + + + + + + upekzAm pratilaBante sarva-satvAH saMvignAH ca BagavataH-
+   5 'ntike gacchanti pravrajyām api yācante / bhagavāṃś caihibkikṣukayā	5 antike gacCanti pravrajyAm api yAcante / BagavAn ca-EhibkikzukayA
+   pravrājayati te pravrajitā niṣkleśā + + + + + + + + vṛkṣamūleṣu kuṭikā	pravrAjayati te pravrajitA nizkleSAH + + + + + + + + vRkza-mUlezu kuwikA
+   māpitāḥ te punaḥ	mApitAH te punar-
+   6 satvāḥ paryaṃkena niṣaṇṇā upekṣakās tiṣṭhanti / bālacaritaratyupekṣā //	6 satvAH paryaMkena nizaNNAH upekzakAH tizWanti / bAlacarita-rati-upekzAH //
+   bhavāṃgopekṣā katarā / pratītyasamutpādaṃ parīkṣamāṇasya dvādaśāmgaṃ	BavAMga-upekzA katarA / pratItyasamutpAdam parIkzamANasya dvAdaSa-amgam
+   pratītyasamutpādacakraṃ	pratItyasamutpAda-cakram
+   YL 159R1 saṃskārasāṃtānikaṃ traidhātukaṃ karmakleśāvabaddhaṃ bhramantam	YL 159R1 saMskAra-sAMtAnikam trEDAtukam karma-kleSa-avabadDam Bramantam
+   abhimukhī bhavati dṛṣṭvā cāsya vaimukhyam utpadyate / tataḥ	aBimuKI Bavati dRzwvA ca-asya vEmuKyam utpadyate / tatas-
+   siṃhāsanādhirūḍhā aṣṭau buddhapratimāḥ āryāṣṭāṃgasya mārgasyādhipatirūpam	siMhAsana-aDirUXAH azwO budDa-pratimAH Arya-azwa-aMgasya mArgasya-aDipati-rUpam
+   2 utpadyante / taṃmukhaniḥsṛtair indrāyudhair avidyādhipatirūpam	2 utpadyante / taMmuKa-niHsRtEH indrAyuDEH avidyA-aDipati-rUpam
+   abhyāhataṃ nirudhyate vicakrī bhavati ca dvādaśāṃgaṃ	aByAhatam niruDyate vicakrI Bavati ca dvAdaSa-aMgam
+   pratītyasamutpādacakram ākāśanibhaiḥ	pratItyasamutpAda-cakram AkASa-niBEH
+   3 kūṭāgārair avaṣṭabhyante yogācārāśraya upar. + + + + + .ī + .e + + + + +	3 kUwAgArEH avazwaByante yoga-AcAra-ASrayaH upar. + + + + + .I + .e + + + + +
+   + + + + + + + + haṃ cāsya tasmiṃ samaye cittaṃ bhavati tato	+ + + + + + + + ham ca-asya tasmim samaye cittam Bavati tatas-
+   4 'sya dvādaśāṃgapratītyasamutpādacakrakṛtaṃ parasparakarmakleśāvabaddhaṃ	4 asya dvAdaSa-aMga-pratItyasamutpAda-cakra-kRtam paraspara-karma-kleSa-avabadDam
+   satvasamudram abhimukhī bhavati / sa teṣāṃ bhavāṃgopekṣām upasaṃharati	satva-samudram aBimuKI Bavati / sa tezAm Bava-aMga-upekzAm upasaMharati
+   tadapekṣadoṣanāśāya /	tad-apekza-doza-nASAya /
+   5 tato bhagavān utpadyate / gṛhītacandramaṇḍalaḥ tatraikaikaśsḥ satvānām	5 tatas BagavAn utpadyate / gRhIta-candra-maNxalaH tatra-ekEkaSsH satvAnAm
+   eṣa eva parīkṣā kramaśaḥ + + + + + + + .e .ām utpadyate / tato	ezaH eva parIkzA kramaSas + + + + + + + .e .Am utpadyate / tatas-
+   bhagavaṃmukhaniḥsṛtair indrāyudhair vajrākāraiḥ sarvāvidyādhipatirūpāṇi	BagavaMmuKa-niHsRtEH indrAyuDEH vajra-AkArEH sarva-avidyA-aDipati-rUpANi
+   parāhatāni nirudhyante / vicakrī bhavanti / sarvasatvānāṃ dvādaśāṃgāḥ	parAhatAni niruDyante / vicakrI Bavanti / sarva-satvAnAm dvAdaSa-aMgAH
+   pratītyasamutpādacakrāḥ tathaiva cākāśanibhaiḥ	pratItyasamutpAda-cakrAH taTA-eva ca-AkASa-niBEH
+   YL 160V1 kūṭāgārair avaṣṭabhyante / iti bhavāṃgopekṣā / ātmaparikalpopekṣā	YL 160V1 kUwAgArEH avazwaByante / iti Bava-aMga-upekzA / Atma-parikalpa-upekzA
+   katamā / ihāsya ṣaḍdhātuparīkṣānukūlārthaṃ goghātakaḥ gṛhītaśastra	katamA / iha-asya zaz-DAtu-parIkzA-anukUlA-arTam go-GAtakaH gRhIta-Sastra
+   utpadyate / sa gāṃ vadhayitvā	utpadyate / sa gAm vaDayitvA
+   2 taccarmaṇi ṣaḍ bilāṃ bhāgaśaḥ pratyavekṣate / tato yogino nābhyāḥ	2 tad-carmaNi zaw bilAm BAgaSas pratyavekzate / tatas yoginaH nAByAH
+   śastraṃ nirgacchati / yoginaś cāśrayaṃ ṣaḍ bilāṃ bhāgaśaḥ taccarmaṇy	Sastram nirgacCati / yoginaH ca-ASrayam zaw bilAm BAgaSas tad-carmaNi-
+   avasthāpayati / dakṣiṇaṃ + + + + pṛthivīdhātuḥ	avasTApayati / dakziNam + + + + pRTivI-DAtuH
+   3 sthirataratvāt / vāmam abdhātuḥ durbalataratvāt / dakṣiṇo bāhuḥ	3 sTiratara-tvAt / vAmam abDAtuH durbalatara-tvAt / dakziNaH bAhuH
+   vāyudhātuḥ sthirataratvāt / vāmas tejodhātuḥ + + + + + + + + + + + .āt /	vAyuDAtuH sTiratara-tvAt / vAmaH tejaH-DAtuH + + + + + + + + + + + .At /
+   tenaiva	tena-eva
+   4 ca kāraṇena vāmapārśvaśayināṃ śīghrataraṃ jīryate madhyamaṃ gaṇḍam	4 ca kAraNena vAma-pArSva-SayinAm SIGrataram jIryate maDyamam gaNxam
+   ākāśadhātuḥ suṣirataratvāt / sakalaṃ mukhaṃ vijñānadhātoḥ + + + + + + + +	AkASa-DAtuH suziratara-tvAt / sakalam muKam vijQAna-DAtoH + + + + + + + +
+   5 yapravṛtteḥ tato yogācārāśrayaniḥsṛtāni śastrāṇi tadvad eva	5 yapravRtteH tatas yoga-AcAra-ASraya-niHsRtAni SastrANi tadvat eva
+   ṣaḍdhātuvibhāgena kṛtsnaṃ satvasamudram avasthāpayanti asatvākhyaṃ ca	zaz-DAtu-viBAgena kRtsnam satva-samudram avasTApayanti asatva-AKyam ca
+   paṃcadhātuvibhāgena hastābhyām ekaikaśas	paMca-DAtu-viBAgena hastAByAm ekEkaSas-
+   6 tāṃ dhātūṃ tulayati / te samaṃ tulyante tataḥ kathayati / ayam api	6 tAm DAtUm tulayati / te samam tulyante tatas kaTayati / ayam api
+   pṛthivīdhātur ayam api pṛthivīdhātuḥ ayam apy abdhātur evaṃ yāvad	pRTivI-DAtuH ayam api pRTivI-DAtuH ayam api abDAtuH evam yAvat-
+   vijñānadhātuḥ / ayam apy ātmātmīyavirahitaḥ	vijQAna-DAtuH / ayam api Atma-AtmIya-virahitaH
+   YL 160R1 ayam apy ātmātmīyavirahitaḥ tato + + + ya ṣaḍdhātu ṣaḍbilāni	YL 160R1 ayam api Atma-AtmIya-virahitaH tatas + + + yaH zaz-DAtu zaz-bilAni
+   nirvidāgninā jvalanti tadanye ca satvā + + + + + + + + + + + + + +	nirvida-agninA jvalanti tad-anye ca satvAH + + + + + + + + + + + + + +
+   2 sarvasatvāsatvākhyāni ṣaḍdhātumaṇḍalāny avaśiṣyante tato bhāgaśo	2 sarva-satva-asa-tva-AKyAni zaz-DAtu-maNxalAni avaSizyante tatas BAgaSo
+   hastābhyāṃ satvākhyāṃś cāsatvākhyāṃś ca tulayati / ayam api pṛthivīdhātur	hastAByAm satva-AKyAn ca-asatva-AKyAn ca tulayati / ayam api pRTivI-DAtuH-
+   ity evamādi pūrvavat / tataḥ ṣaḍdhātumaṇḍalaiḥ	iti evamAdi pUrvavat / tatas zaz-DAtu-maNxalEH
+   3 lokaṃ pūrṇaṃ paśyati ākāśāc ca tailahārāḥ patitāḥ sarvāṇi maṇḍalāni	3 lokam pUrNam paSyati AkASAt ca tEla-hArAH patitAH sarvANi maNxalAni
+   kaṃpayanti abhisaṃkṣipyante ca tāni yā + + .i + + + + + + + +	kaMpayanti aBisaMkzipyante ca tAni yA + + .i + + + + + + + +
+   4 yamuktā naśyamānā dṛśyante / tato bindubhyaḥ ṣaḍdhātumayam āśrayaṃ	4 yamuktAH naSyamAnAH dRSyante / tatas binduByaH zaz-DAtumayam ASrayam
+   nirvartate pradīpahastā ca strī prajñādhipatirūpaṃ praṇāśitam āśrayaṃ	nirvartate pradIpa-hastA ca strI prajQA-aDipati-rUpam praNASitam ASrayam
+   śunyam ātmātmīyavirahitaṃ	Sunyam Atma-AtmIya-virahitam
+   5 dhātumātrakam idam iti prakāśayati / tatra cāntā rāśiyogenāśīti	5 DAtu-mAtrakam idam iti prakASayati / tatra ca-antA rASi-yogena-aSIti
+   krimikulasahasrāṇi dṛśyante / evaṃ caturuttaraṃ rogaśataṃ	krimi-kula-sahasrANi dRSyante / evam catur-uttaram roga-Satam
+   mahābhūtāśīviṣaparipūrṇa + + + + + +	mahABUta-ASIviza-paripUrNaH + + + + + +
+   6 rṇāṃ dvāre dvāre ca skandhapaṃcakaṃ pravartamānaṃ payati	6 rNAm dvAre dvAre ca skanDapaMcakam pravartamAnam payati
+   tadadhipatirūpāṇi skandhaprayoge vibhaktāni evaṃ sarvasatvāṃ prakāśayati	tad-aDipati-rUpANi skanDa-prayoge viBaktAni evam sarva-satvAm prakASayati
+   tataḥ sarvasatvāsatvākhyaṃ lokaṃ + + + +	tatas sarva-satva-asa-tva-AKyam lokam + + + +
+   YL 161V1 muktaṃ paśyati / sa evaṃ vicitrasaṃskāragataṃ hetupratyayādhīnam	YL 161V1 muktam paSyati / saH evam vicitra-saMskAra-gatam hetu-pratyaya-aDInam
+   ātmātmīyavirahitaṃ gatipaṃcake bhramantaṃ suśikṣitanaṭam iva vicitrāṃ	Atma-AtmIya-virahitam gati-paMcake Bramantam su-Sikzita-nawam iva vicitrAm
+   veṣaviśeṣāṃ kurvantaṃ paśyati dṛṣṭvā cāsya saṃskāreṣūpekṣā	veza-viSezAm kurvantam paSyati dRzwvA ca-asya saMskArezu-upekzA
+   2 utpadyate tato 'sya sphaṭikamayair abhrakūṭaiḥ kāyam avaṣṭabhyate /	2 utpadyate tatas asya sPawika-mayEH aBra-kUwEH kAyam avazwaByate /
+   muhūrtāc ca sphaṭikakūṭāgārāntargatam ātmānaṃ paśyati tato hṛdaye strī	muhUrtAt ca sPawika-kUwAgAra-antargatam AtmAnam paSyati tatas hRdaye strI
+   avadātavarṇā avadātavastraprāvṛtā	avadAta-varNAH avadAta-vastra-prAvRtA
+   3 paryaṃkena niṣaṇṇānābhogāvasthitā upekṣādhipatirūpaṃ saṃbhavati / tato	3 paryaMkena nizaNNAn-ABoga-avasTitA upekzA-aDipati-rUpam saMBavati / tatas-
+   'syānābhogāvasthitasya + + + + + + + + + + + + .ī +	asya-anABoga-avasTitasya + + + + + + + + + + + + .I +
+   4 evam udakasamkṣobhaḥ agnisaṃkṣobhaḥ vāyusaṃkṣobhaḥ yathāsaṃvartanīṣu	4 evam udaka-samkzoBaH agni-saMkzoBaH vAyu-saMkzoBaH yaTA-saMvartanIzu
+   evaṃ svajanmavināśam ante + + + + + + + + + + + + + + + + + + + +	evam sva-janma-vinASam ante + + + + + + + + + + + + + + + + + + + +
+   5 m. maitrānusāreṇa upekṣā saṃtiṣṭhate / na nairghṛṇyadoṣāt / evaṃ	5 m. mEtra-anusAreNa upekzA saMtizWate / na nErGRNya-dozAt / evam
+   cāsyopekṣakasya viharataḥ sā + + + satvasamudram abhimukhī bhavati sa	ca-asya-upekzakasya viharataH sA + + + satva-samudram aBimuKI Bavati sa
+   teṣām ātmaparikalpopekṣām upasaṃharati /	tezAm Atma-parikalpa-upekzAm upasaMharati /
+   6 tadapekṣadoṣanāśāya / tadupasaṃhārahetoś ca bhagavān utpadya	6 tad-apekza-doza-nASAya / tad-upasaMhAra-hetoH ca BagavAn utpadya
+   svaśarīraniḥsṛtaiḥ + + + + + + + + + + + + + + + + + + + + + + + +	sva-SarIra-niHsRtEH + + + + + + + + + + + + + + + + + + + + + + + +
+   YL 161R1 teṣāṃ tathaivopekṣā saṃtiṣṭhate sphaṭikasamayaiś ca abhrakūṭair	YL 161R1 tezAm taTA-eva-upekzA saMtizWate sPawika-samayEH ca aBra-kUwEH-
+   avaṣṭabhyante / tathaiva sphaṭikamayakūtāgārāntargatāṃ satvāṃ paśyati /	avazwaByante / taTA-eva sPawika-maya-kUtAgAra-antargatAm satvAm paSyati /
+   apramāṇopekṣā katarā + + + + + + +	apramANa-upekzA katarA + + + + + + +
+   2 .ai +ṃ + + + + bhagavatparinirvāṇam abhimukhī bhavati vajraśailam iva	2 .E +m + + + + Bagavat-parinirvANam aBimuKI Bavati vajraSElam iva
+   vanakaṃpane dharmānusāri + + + + + + + + + + + + + + + + + + + + + + + +	vana-kaMpane Darma-anusAri + + + + + + + + + + + + + + + + + + + + + + + +
+   nirvāṇapurasthaṃ	nirvANa-pura-sTam
+   3 ca bhagavantaṃ dhārmyāṃ gaṇḍikām ākoṭayantaṃ paśyati sa śabdaḥ anantāṃ	3 ca Bagavantam DArmyAm gaNxikAm Akowayantam paSyati sa SabdaH anantAm
+   lokadhātūn āpūrayati s. + + + + + + + + + + + + + + + + + + + + +	lokaDAtUn ApUrayati s. + + + + + + + + + + + + + + + + + + + + +
+   4 m iti ghoṣayati śrāvakāṇāṃ nirvāṇapurapraveśakālaṃ sūcayati / tato yāvat	4 m iti Gozayati SrAvakANAm nirvANa-pura-praveSa-kAlam sUcayati / tatas yAvat-
+   tasya bhagavataḥ parivāraḥ tābhyaḥ t. + + + + + + + + + + + + daśadiśo	tasya BagavataH parivAraH tAByaH t. + + + + + + + + + + + + daSa-diSo
+   5 'nantaparyantaḥ puṣparatnamayaḥ prādurbhavati yatrādhirūḍhā dṛśyante /	5 ananta-paryantaH puzpa-ratna-mayaH prAdurBavati yatra-aDirUXAH dRSyante /
+   tato nirvāṇapuraṃ praviśatā vaiḍūryābhaḥ dauvārikaḥ puruṣo v. + + + + + +	tatas nirvANa-puram praviSatA vExUrya-ABaH dOvArikaH puruzaH v. + + + + + +
+   + kathayati / iha nagare	+ kaTayati / iha nagare
+   6 yaḥ praviṣṭo na bhūyo nirgacchatīti / te ca praviṣṭāḥ ākāśamayair	6 yaH pravizwaH na BUyas nirgacCati-iti / te ca pravizwAH AkASa-mayEH-
+   ivābhrakūṭair avaṣṭabdhāḥ pradīpā iva śāmyante śī + + + + + + + + tata	iva-aBra-kUwEH avazwabDAH pradIpAH iva SAmyante SI + + + + + + + + tata
+   āśraye balavaiśāradyāveṇikasmṛtyupasthānamahākaruṇādhipatirūpāṇi	ASraye bala-vESAradyA-veNika-smRti-upasTAna-mahA-karuNa-aDipati-rUpANi
+   YL 162V1 dṛśyante tatra balānāṃ ravimaṇḍalacitā daśa hastinaḥ tadvarṇās	YL 162V1 dRSyante tatra balAnAm ravi-maNxala-citAH daSa hastinaH tad-varNA-as
+   tadadhirūḍhā ravimaṇḍalacitāḥ eva daśa buddhapratimāḥ yathāsvabalagocaram	tat-aDirUXAH ravi-maNxala-citAH eva daSa budDa-pratimAH yaTAsva-bala-gocaram
+   2 ālokenāvaṣṭabhya tiṣṭhanti vaiśāradyānāṃ catvāro buddhapratimāḥ	2 Alokena-avazwaBya tizWanti vESAradyAnAm catvAraH budDa-pratimAH
+   siṃhāsanādhirūḍhāḥ svaṃ svaṃ gocaram ālokenāvabhāsya tiṣṭhanti / trayāṇām	siMhAsana-aDirUXAH svam svam gocaram Alokena-avaBAsya tizWanti / trayANAm
+   āveṇikānāṃ smṛtyupasthānānāṃ	AveNikAnAm smRti-upasTAnAnAm
+   3 gṛhītatailapātrāyudhās trayaḥ puruṣāḥ / mahākaruṇāyāḥ ākāśavarṇā hṛdaye	3 gRhIta-tEla-pAtra-AyuDAH trayaH puruzAH / mahA-karuNAyAH AkASa-varNAH hRdaye
+   strī suvarṇābhā nīlavastraprāvṛtā + + + + + + + + + + ratnapuṣpavarṣaiḥ	strI suvarNa-ABAH nIla-vastra-prAvRtAH + + + + + + + + + + ratna-puzpa-varzEH
+   4 lokam āpūrayati tato mahākaruṇā guṇā anantaparyantā bhagavadāśraye	4 lokam ApUrayati tatas mahA-karuNAH guNAH ananta-paryantA Bagavat-ASraye
+   dṛśyante / śravakān ādityamaṇḍalādhirūḍhāṃ ā + + + + + + +	dRSyante / SravakAn Aditya-maNxala-aDirUXAm A + + + + + + +
+   5 puruṣā antargatā dṛśyante / aśaikṣadharmādhipatirūpaṃ + + + + + +	5 puruzAH antargatAH dRSyante / aSEkza-Darma-aDipati-rUpam + + + + + +
+   guṇānām adhipatirūpam aśubhādīnāṃ dṛśyante / tato bhagavataḥ hṛdaye	guNAnAm aDipati-rUpam aSuBa-AdInAm dRSyante / tatas BagavataH hRdaye
+   ratnamayaḥ siṃha utpadyate	ratna-mayaH siMhaH utpadyate
+   6 + + nayena sacarācaro lokaḥ kṣobhyamānaḥ + + + + + + + raśmayo niḥsṛtāḥ	6 + + nayena sacarAcaraH lokaH kzoByamAnaH + + + + + + + raSmayaH niHsRtAH
+   satvāṃ vicayaṃ kṛtvā tatraiva ca praviśanti avadātavarṇā ca strī	satvAm vicayam kRtvA tatra-eva ca praviSanti avadAta-varNA ca strI
+   avadātavastrā mahākaruṇādhipatirūpaṃ	avadAta-vastrA mahA-karuNa-aDipati-rUpam
+   YL 162R1 bhagavadāśraye dṛśyate / kathayati ca / siddhaṃ kāryaṃ nistīrṇā	YL 162R1 Bagavat-ASraye dRSyate / kaTayati ca / sidDam kAryam nistIrNA
+   pratijñā / parisamāptā vaineyāḥ śāntaṃ nirvāṇam iti tato bhagavāṃ gāthāṃ	pratijQA / parisamAptAH vEneyAH SAntam nirvANam iti tatas BagavAm gATAm
+   bhāṣate /	BAzate /
+   2 anityā bata saṃskārā utpādavyayadharmiṇaḥ utpadya hi nirudhyante teṣāṃ	2 anityAH bata saMskArAH utpAda-vyaya-DarmiNaH utpadya hi niruDyante tezAm
+   vyupaśamaḥ sukhaṃ / ity uktvā nirvāṇanagare praviśyākāśanibhair	vyupaSamaH suKam / iti uktvA nirvANa-nagare praviSya-AkASa-niBEH-
+   abhrakūṭair ivopagūḍhāyāṃ sthityām anabhilāṣī	aBra-kUwEH iva-upagUXAyAm sTityAm anaBilAzI
+   3 pradīpa ivopaśamaṃ gacchati / bhagavataś ca śrāvakāḥ paścāt	3 pradIpaH iva-upaSamam gacCati / BagavataH ca SrAvakAH paScAt-
+   parinirvāṇakāle nirvāṇapuraṃ praviṣṭās tathaivopaśamaṃ gacchanti / + + + +	parinirvANa-kAle nirvANa-puram pravizwAH taTA-eva-upaSamam gacCanti / + + + +
+   4 dauvārikena pratiṣidhyate / yadā tvaṃ + + + + + + + + + + + + + tadā	4 dOvArikena pratiziDyate / yadA tvam + + + + + + + + + + + + + tadA
+   tvam apy atra pravekṣyasīti / kṛtsnaṃ satvasamudraṃ + + + + + + + + +	tvam api atra pravekzyasi-iti / kRtsnam satva-samudram + + + + + + + + +
+   drśyate /	drSyate /
+   5 evam apāyasthānā bandhanabaddhā nānāduḥkhapīḍitāḥ + + + + + + +	5 evam apAya-sTAnAH banDana-badDAH nAnA-duHKa-pIxitAH + + + + + + +
+   kathayanti na paritrāyasva kāruṇikāsmāṃ nārhasi parinirvāṇanagaraṃ gantum	kaTayanti na paritrAyasva kAruNikA-asmAm na-arhasi parinirvANa-nagaram gantum
+   / mahākaruṇādhipatirūpaṃ	/ mahA-karuNa-aDipati-rUpam
+   6 cāsya yathoktaṃ hṛdaya utpadyate / hastābhyāṃ ca tam anugṛhya kathayati	6 ca-asya yaToktam hRdayaH utpadyate / hastAByAm ca tam anugRhya kaTayati
+   / utsṛjya duḥkhitāṃ kva gantuṃ icchasīti / tasyopekṣā dūrī bhavati /	/ utsRjya duHKitAm kva gantum icCasi-iti / tasya-upekzA dUrI Bavati /
+   karuṇāvakramati / sa bāhubhyāṃ	karuNA-vakramati / sa bAhuByAm
+   YL 163V1 kṛtsnaṃ satvasamudraṃ svajann am. + + + + + + + + + + + + + + + +	YL 163V1 kRtsnam satva-samudram sva-jan am. + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + + + + duḥkhās tejasvinaḥ sarva + + + + + + + + +	+ + + + + + + + + + + + + + + + duHKAH tejasvinaH sarve + + + + + + + + +
+   2 + lakṣaṇānuvyaṃjanavirājita + + + + + + + + + + (gap V3 to 6; ca. 250	2 + lakzaNa-anuvyaMjana-virAjita + + + + + + + + + + (gap V3 taH 6; ca. 250
+   Akṣaras)	Akzaras)
+   YL 163R1 + + + + + + + + + + + + + + miśrībhūtaḥ yāvad vāyumaṇḍalaṃ	YL 163R1 + + + + + + + + + + + + + + miSrIBUtaH yAvat vAyu-maNxalam
+   bhitvādhaś cordhvaṃ ca gatvā + + + + + + + + + + + + + + + + + + + + + + +	BitvA-aDas ca-UrDvam ca gatvA + + + + + + + + + + + + + + + + + + + + + + +
+   2 brahmahṛdayeṣu cāvadātavarṇā strī + + + + + + + + + + + + + + (gap R3 to	2 brahma-hRdayezu ca-avadAta-varNA strI + + + + + + + + + + + + + + (gap R3 taH-
+   6; ca. 210 Akṣaras) + + + + + + + + + + + + + + manasikāro + + + + +	6; ca. 210 Akzaras) + + + + + + + + + + + + + + manasikAraH + + + + +
+   ihāryaśrāvakas tathāgatam ākārataḥ samanusmarati /	iha-AryaSrAvakaH taTAgatam AkArataH samanusmarati /
+   YL 164V1 iti hi sa bhagavāṃs tathāgato 'rhaṃ samyaksaṃbuddho	YL 164V1 iti hi sa BagavAn taTAgataH arham samyaksaMbudDaH-
+   vidyācaraṇasaṃpannaḥ sugato lokavid anuttaraḥ puruṣadamyasārathiḥ śāstā	vidyA-caraNa-saMpannaH sugataH loka-vid anuttaraH puruza-damya-sAraTiH SAstA
+   devamanuṣyāṇāṃ buddho bhagavān / tasyaivaṃ tathāgatam	deva-manuzyANAm budDaH BagavAn / tasya-evam taTAgatam
+   2 ākārataḥ samanusmarataḥ + + + + + + + + + + + + + + + + + + + + + + + +	2 AkArataH samanusmarataH + + + + + + + + + + + + + + + + + + + + + + + +
+   4 + + + + + + + + + + + + taḥ	4 + + + + + + + + + + + + taH
+   suvarnarūpyavaiḍūryasphaṭikamusāragalvāśmagarbha + + + tadvarṇair	suvarna-rUpya-vExUrya-sPawika-musAra-galva-aSma-garBaH + + + tad-varNEH-
+   buddhāśrayai + + + + + + + + + + + + + +	budDa-ASrayEH + + + + + + + + + + + + + +
+   5 + + + + + + + + + + + + + pṛthivīm āpūrayanti / vajrāsanaṃ ca tata eva +	5 + + + + + + + + + + + + + pRTivIm ApUrayanti / vajrAsanam ca tatas eva +
+   + + + + + + + + bhagavān yāvad aghaniṣṭhāṃ + + + + + + + + + + + + + +	+ + + + + + + + BagavAn yAvat aGa-nizWAm + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + + + + + bodhisatvam ādau bodhipraṇidhānaṃ + +	6 + + + + + + + + + + + + + + + + + boDisatvam AdO boDi-praNiDAnam + +
+   + + + + + + anuttaraṃ dānaśīlavīryaprajñā + + + + + + + + + + + + + + +	+ + + + + + anuttaram dAna-SIla-vIrya-prajQA + + + + + + + + + + + + + + +
+   YL 164R1 + + + + + + + + + + + + + + + + vati yāvat tuṣitabhavanāc cyavam.	YL 164R1 + + + + + + + + + + + + + + + + vati yAvat tuzita-BavanAt cyavam.
+   + + + + + mātuḥ kukṣisaṃprajānaniṣkramaṇaṃ duṣkaracaryāṃ + + + + + + + + +	+ + + + + mAtuH kukzi-saMprajAna-nizkramaNam duzkara-caryAm + + + + + + + + +
+   2 + + + + + + + + + + + paṃcakabhikṣuvinayanaṃ biṃbasāravinayanam	2 + + + + + + + + + + + paMcaka-Bikzu-vinayanam biMba-sAra-vinayanam
+   upatiṣyakolitavinayanaṃ pitṛvinayanaṃ mahāprātihāryaṃ mahā + + + + + + + +	upatizya-kolita-vinayanam pitR-vinayanam mahA-prAtihAryam mahA + + + + + + + +
+   3 + + + + + + + + + + + + ti / yāvat parinirvāṇakāle sthaviram ānandam	3 + + + + + + + + + + + + ti / yAvat parinirvANa-kAle sTaviram Anandam
+   āmantrayati / prajñāpayānanda yamakasālayor antareṇottarāśīrṣaṃ maṃcam	Amantrayati / prajQApayAnanda yamakasAlayoH antareNa-uttara-aSIrzam maMcam
+   4 adya tathāgatasya rātryāḥ madhyame yāme nirupadhiśeṣe nirvāṇadhātau	4 adya taTAgatasya rAtryAH maDyame yAme nirupaDi-Seze nirvANa-DAtO
+   parinirvāṇaṃ bhaviṣyatīti / + + + + + + + + + + + + + + +	parinirvANam Bavizyati-iti / + + + + + + + + + + + + + + +
+   5 + + + + + + parivṛtaṃ yāvan mallā + + + + + + + + + + + + ayodroṇyaḥ	5 + + + + + + parivRtam yAvat mallAH + + + + + + + + + + + + ayaH-droNyaH
+   citāṃ bh. + + + + + + + + + + + + + + + + + + + + + + + + + + +	citAm B. + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   6 + + + + + ratnamayaiḥ kumbhaiḥ devagaṇā + + + + + + + + + + + + + + + +	6 + + + + + ratna-mayEH kumBEH deva-gaNAH + + + + + + + + + + + + + + + +
+   devās tejo + + + + + + + + + + + + + + + + + + + + + + + + + + +	devAH tejaH + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   YL 165V1 + + + + + + + + + + + + + + manuṣyāṇāṃ yogācārasya ca hānārtha +	YL 165V1 + + + + + + + + + + + + + + manuzyANAm yoga-AcArasya ca hAna-arTa +
+   + + + + + caturdiśa āpūryante / + + + + v. + .y. + suvarṇasarṣapa + + + +	+ + + + + catur-diSaH ApUryante / + + + + v. + .y. + suvarNa-sarzapa + + + +
+   2 + + + + + + + + + + + + + + ghaiś ca pṛthivī purṇeti / punar	2 + + + + + + + + + + + + + + GEH ca pRTivI purNa-iti / punar-
+   buddhānusmṛtipūrvaṃ mūrdhnopanibaddhacittasya vaiḍūryamayī strī	budDa-anusmRti-pUrvam mUrDnA-upanibadDa-cittasya vExUrya-mayI strI
+   snehaparipūrṇavaiḍūryabhājanacitotpadyate /	sneha-paripUrNa-vExUrya-BAjana-citA-utpadyate /
+   3 bhājaneṣu vajrāsanāni vajrāsaneṣv ādityamaṇḍalāni / teṣu buddhā	3 BAjanezu vajrAsanAni vajra-Asanezu Aditya-maNxalAni / tezu budDA
+   bhagavantaḥ lakṣaṇānuvyaṃjanavirājitāśrayāḥ dha + + + + + + + + + + +	BagavantaH lakzaNa-anuvyaMjana-virAjita-ASrayAH Da + + + + + + + + + + +
+   4 dakṣiṇe bāhupradeśe paṃca śvetā gajā ādityamaṇḍalacitāśrayāḥ tadhirūḍhāḥ	4 dakziNe bAhu-pradeSe paMca SvetAH gajAH Aditya-maNxala-cita-ASrayAH taDirUXAH
+   paṃca buddhā tadvarṇā ādityamaṇḍalacitā eva paṃcānāṃ balānām adhipatirūpam	paMca budDA tad-varNAH Aditya-maNxala-citAH eva paMcAnAm balAnAm aDipati-rUpam
+   5 cibuke ca catvāri ratnamaṇḍalāni / tadantargatāḥ siṃhāsanādhirūḍhā	5 cibuke ca catvAri ratna-maNxalAni / tad-antargatAH siMhAsana-aDirUXA
+   buddhāḥ satvebhyo dharmaṃ deśayanti vaiśāradyānām adhipatirūpam /	budDAH satveByaH Darmam deSayanti vESAradyAnAm aDipati-rUpam /
+   āveṇikānāṃ smṛtyupasthānānāṃ	AveNikAnAm smRti-upasTAnAnAm
+   6 trayaḥ puruṣā gṛhītāyudhās tailabhājanahastā dṛśyante / mahākaruṇāyā	6 trayaH puruzAH gRhIta-AyuDAH tEla-BAjana-hastAH dRSyante / mahA-karuNAyAH-
+   ākāśavarṇā strī hṛdaye + + + + + + + + + + + + + anugraheṇai + + + + + +	AkASa-varNA strI hRdaye + + + + + + + + + + + + + anugraheNa-e + + + + + +
+   YL 165R1 + + + buddhāśrayeṣu dharmaśarīraṃ dṛśyate /	YL 165R1 + + + budDa-ASrayezu Darma-SarIram dRSyate /
+   tajjanmadharmaśarīraniḥsṛtābhiḥ prabhābhir lokaṃ spharitvā tiṣṭhanti /	tad-janma-Darma-SarIra-niHsRtABiH praBABiH lokam sParitvA tizWanti /
+   tato buddhā bhagavanta ādityamaṇḍaleṣu praviśanti / tāni vajrāsaneṣu	tatas budDAH BagavantaH Aditya-maNxalezu praviSanti / tAni vajra-Asanezu
+   2 tāni bhājaneṣu tāni smṛtinimitteṣu smṛtinimittaṃ yogācāramūrdhani /	2 tAni BAjanezu tAni smRti-nimittezu smRti-nimittam yoga-AcAra-mUrDani /
+   abhiṣekakāle te + + + + pravāhaḥ + + spharitvā tiṣṭhati sa ca pravilīnaḥ	aBizeka-kAle te + + + + pravAhaH + + sParitvA tizWati sa ca pravilInaH
+   tadāśrayaṃ	tad-ASrayam
+   3 mūrdhnaś cchidreṇa pūrayati tata eva ca niḥsṛtai ratnapravāhaḥ darśanaṃ	3 mUrDnaH cCidreNa pUrayati tatas eva ca niHsRtEH ratna-pravAhaH darSanam
+   datvā lalāṭā + + + + + + + + + + + + + + krameṇa yāvat saha nābhiniḥsṛtena	datvA lalAwAH + + + + + + + + + + + + + + krameNa yAvat saha nABi-niHsRtena
+   4 pravāhena miśrībhūtaḥ sthitim āpūrayati ratnamayī ca sthitir dṛśyate	4 pravAhena miSrIBUtaH sTitim ApUrayati ratna-mayI ca sTitiH dRSyate
+   buddhā + + + + + + + + ḥ ratnakūṭāgārai + + + + + + + + + + + + + +	budDAH + + + + + + + + H ratna-kUwa-AgArEH + + + + + + + + + + + + + +
+   5 + + + + + + + + + + + + ante nābhyāṃ nirudhyate jñeyam iti vyutthānam /	5 + + + + + + + + + + + + ante nAByAm niruDyate jQeyam iti vyutTAnam /
+   // dharmānusmṛtiḥ katarā / ihāryaśrāvako dharmam ākārataḥ samanusmarati /	// Darma-anusmRtiH katarA / iha-Arya-SrAvakaH Darmam AkArataH samanusmarati /
+   svākhyāto bhagavato	su-AKyAtaH BagavataH-
+   6 dharmaḥ sāṃdṛṣṭiko nirjvara ākālikaḥ aupanāyikaḥ ehipaśyikaḥ	6 DarmaH sAMdRzwikaH nirjvaraH AkAlikaH OpanAyikaH ehipaSyikaH
+   pratyātmavedanīyo vijñaiḥ tasyaivaṃ dharmam ākārataḥ samanusmarataḥ + + +	pratyAtma-vedanIyaH vijQEH tasya-evam Darmam AkArataH samanusmarataH + + +
+   YL 166V1 saḥ kṛtsno lokaḥ tīrthyaśāstrāṇi paṭhaṃs tadvad vācayaṃ cchṛṇvaṃś	YL 166V1 saH kRtsnaH lokaH tIrTya-SAstrANi paWan tadvat vAcayam cSRNvaMS
+   ca dṛśyate / tadvacanānu + + + satvā yadbhūyasāpāyeṣūpapadyante / tato	ca dRSyate / tad-vacana-anu + + + satvAH yat-BUyasA-apAyezu-upapadyante / tatas-
+   bhagavān utpadya dharmaṃ	BagavAn utpadya Darmam
+   2 deśayati tato lokaḥ sāṃketikena śasanena + + + + + sūtravinayābhidharmaṃ	2 deSayati tatas lokaH sAMketikena Sasanena + + + + + sUtra-vinaya-aBiDarmam
+   paṭhaṃ vācayaṃ cchṛṇvaṃś ca tadanantaraṃ pāramārthikasaddharma + + + + + +	paWam vAcayam cSRNvan ca tad-anantaram pAramArTika-sat-Darma + + + + + +
+   3 aśubhādiprayogeṇa praviṣṭasya smṛtyupasthānādīnāṃ bodhipakṣyāṇāṃ	3 aSuBa-Adi-prayogeNa pravizwasya smRti-upasTAna-AdInAm boDi-pakzyANAm
+   darśanam utpadyate / tatra caturṇāṃ smṛtyupasthānānāṃ catvāraḥ siṃhāḥ + +	darSanam utpadyate / tatra caturNAm smRti-upasTAnAnAm catvAraH siMhAH + +
+   4 na pītavarṇās tatsadṛśāś catvāro buddhāḥ siṃhanādena kṛtsnaṃ lokam	4 na pIta-varNAH tad-sadRSAH catvAraH budDAH siMhanAdena kRtsnam lokam
+   āpūrayanti / caturṇāṃ samyakprahāṇānāṃ + + + + + + + + + + + +	ApUrayanti / caturNAm samyak-prahANAnAm + + + + + + + + + + + +
+   5 tadadhirūḍhāḥ catvāraḥ + + + + + + + + caturṇām ṛddhipādānāṃ catvāri	5 tad-aDirUXAH catvAraH + + + + + + + + caturNAm RdDi-pAdAnAm catvAri
+   vaiḍūryasopānāni + + + + + .āni / paṃcānām indriyāṇāṃ paṃca + + + + +	vExUrya-sopAnAni + + + + + .Ani / paMcAnAm indriyANAm paMca + + + + +
+   paṃcānāṃ balānāṃ	paMcAnAm balAnAm
+   6 paṃca vajramayā hastinaḥ saptānāṃ bodhyaṃgānāṃ sapta + + + + + buddhāḥ	6 paMca vajra-mayAH hastinaH saptAnAm boDi-aMgAnAm sapta + + + + + budDAH
+   taṃmūrdhasu saptādityamaṇḍalāni / saptādityamaṇḍalādhirūḍhā + + + + + + +	taMmUrDasu sapta-Aditya-maNxalAni / sapta-Aditya-maNxala-aDirUXA + + + + + + +
+   YL 166R1 ni / aṣṭāṃgasya mārgasya + + + + + + + + + + + + + + + .ṭ.	YL 166R1 ni / azwa-aMgasya mArgasya + + + + + + + + + + + + + + + .w.
+   cādharottaravibhāgena dharmarājika ivāvasthitāḥ loka + + + + + + + + + + +	ca-aDara-uttara-viBAgena DarmarAjikaH iva-avasTitAH lokaH + + + + + + + + + + +
+   2 taḥ sāṃketikapāramārthikaṃ śāsanaṃ + + + + + + + + yadbhūyasā sugatiṃ	2 taH sAMketika-pAram-ArTikam SAsanam + + + + + + + + yat-BUyasA sugatim
+   nirvāṇa + + + + y. ta / punar dharmānusmṛtipūrvaṃ hṛdayopanibaddhacetaso	nirvANaH + + + + y. te / punar Darma-anusmRti-pUrvam hRdaya-upanibadDa-cetasaH-
+   vaiḍūryamayī	vExUrya-mayI
+   3 strī tadbhājanaṃ snehaparipūrṇāś cotpadyate / teṣu vajrāsanāni teṣu	3 strI tad-BAjanam sneha-paripUrNAH ca-utpadyate / tezu vajrAsanAni tezu
+   ādityamaṇḍalāni teṣu buddhāśrayāḥ + + + + + + + + + + + +	Aditya-maNxalAni tezu budDa-ASrayAH + + + + + + + + + + + +
+   4 kṛtsnaṃ saṃsāraṃ prakāśya nirvāṇa + + + + .ādityamaṇḍaleṣu nirudhyante	4 kRtsnam saMsAram prakASya nirvANaH + + + + .Aditya-maNxalezu niruDyante
+   tāni vajrāsaneṣu vajrāsnāni bhājaneṣu bhājanāni smṛtinimitteṣu	tAni vajra-Asanezu vajrAsnAni BAjanezu BAjanAni smRti-nimittezu
+   smṛtinimittaṃ nābhyām /	smRti-nimittam nAByAm /
+   5 abhiṣekapravāhāḥ sthitim āpūrayanti / dharmāṃ cādityamaṇḍalacitāṃ	5 aBizeka-pravAhAH sTitim ApUrayanti / DarmAm ca-Aditya-maNxala-citAm
+   saṃskṛtāsaṃskṛtān avabhāsya tiṣṭhanti ante ca sarvaṃ jñeyaṃ nābhyāṃ	saMskRta-asaMskRtAn avaBAsya tizWanti ante ca sarvam jQeyam nAByAm
+   nirudhyate iti	niruDyate iti
+   6 vyutthānam / // saṃghānusmṛtiḥ katarā / ihāryaśrāvakaḥ saṃgham ākārataḥ	6 vyutTAnam / // saMGa-anusmRtiH katarA / iha-Arya-SrAvakaH saMGam AkArataH
+   samanusmarati / supratipanno bhagavataḥ śrāvakasaṃgha iti + + + + + + + +	samanusmarati / su-pratipannaH BagavataH SrAvaka-saMGaH iti + + + + + + + +
+   YL 167V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 167V1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   hārā vairdi + + + + + + + + + + + + + + + + + + + + + + + +	hArAH vErdi + + + + + + + + + + + + + + + + + + + + + + + +
+   2 apāyeṣūpapadyante / + + + + + + + + + + + + + + + + + + + + + + + + + +	2 apAyezu-upapadyante / + + + + + + + + + + + + + + + + + + + + + + + + + +
+   3 ādityamaṇḍala + + + + + + + + + ṣṭ. bhikṣu + + + + + + + + + + + + + + +	3 Aditya-maNxala + + + + + + + + + zw. Bikzu + + + + + + + + + + + + + + +
+   4 te / punar hṛdayopanibaddhacetasaḥ vaiḍūryamayī strī	4 te / punar hRdaya-upanibadDa-cetasaH vExUrya-mayI strI
+   snehaparipūrṇavaiḍūryabhājanacitā utpadyate snehabhājaneṣu vajrāsanāni	sneha-paripUrNa-vExUrya-BAjana-citAH utpadyate sneha-BAjanezu vajra-AsanAni
+   teṣv ādityamaṇḍalāni	tezu Aditya-maNxalAni
+   5 teṣu + + + + + + + + + + + + .e tāni ratnāntargatāni cādarś. + + + + + +	5 tezu + + + + + + + + + + + + .e tAni ratna-antargatAni ca-AdarS. + + + + + +
+   saṃpannimittam / nābhipradeśe ratnamayāni + + + + + + + + + + + + + + +	saMpad-nimittam / nABi-pradeSe ratna-mayAni + + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + kṣī jvalanirmalaśastracita + + + + + + + + + +	6 + + + + + + + + + + + + + kzI jvala-nirmala-Sastra-citaH + + + + + + + + + +
+   grīvā muktācitaṃ + + .e saṃpannimittam / + + + + + + + + + + + + + + +	grIvA muktA-citam + + .e saMpad-nimittam / + + + + + + + + + + + + + + +
+   YL 167R1 + + + + + + + + + + + + + + + + + + + + + + tīrthyagaṇān	YL 167R1 + + + + + + + + + + + + + + + + + + + + + + tIrTya-gaNAn
+   abhibhūyāvabhāsya lokaṃ pātrī kṛtvādityamaṇḍaleṣu praviśati tāni	aBiBUya-avaBAsya lokam pAtrI kRtvA-Aditya-maNxalezu praviSati tAni
+   vajrāsaneṣu tāni ca bhājaneṣu	vajra-Asanezu tAni ca BAjanezu
+   2 tāni smṛtinimitteṣu smṛtinimittaṃ nābhyāṃ / + + + ṇ.ḥ sthitiś ca yathā	2 tAni smRti-nimittezu smRti-nimittam nAByAm / + + + N.H sTitiH ca yaTA
+   dharmānusmṛtiḥ ayaṃ tu viśeṣaḥ hṛdayāt pravāhaḥ sthitiś cāryasaṃghākīrṇā	Darma-anusmRtiH ayam tu viSezaH hRdayAt pravAhaH sTitiH ca-Arya-saMGa-AkIrNA
+   dṛśyate ante nābhyāṃ	dRSyate ante nAByAm
+   3 sarvaṃ jñeyaṃ nirudhyate iti vyutthānam / saṃghānusmṛtiḥ // śīlānusmṭiḥ	3 sarvam jQeyam niruDyate iti vyutTAnam / saMGa-anusmRtiH // SIla-anusmwiH
+   katarā ihāryaśrāvakaḥ śīlam ākārataḥ samanusmarati itīmāni śīlāny	katarA iha-Arya-SrAvakaH SIlam AkArataH samanusmarati iti-imAni SIlAni-
+   4 akhaṇḍāny acchidrāṇy aśabalāni iti śīlānusmṛtipūrvaṃ	4 aKaNxAni acCidrANi aSabalAni iti SIla-anusmRti-pUrvam
+   hṛdayopanibaddhacetasaḥ devā .ī + .i + + + + + + + + + + + + + + + + + +	hRdaya-upanibadDa-cetasaH devAH .I + .i + + + + + + + + + + + + + + + + + +
+   5 .abhimukhī bhavanti / tato + + + + + + + tiṃ bhitvābhyudgataḥ sa + + + +	5 .aBimuKI Bavanti / tatas + + + + + + + tim BitvA-aByudgataH saH + + + +
+   + + + + bhagavāṃs tasyāṃ velāyāṃ gāthāṃ bhāṣate / bahavaḥ śaraṇaṃ yānti	+ + + + BagavAn tasyAm velAyAm gATAm BAzate / bahavaH SaraNam yAnti
+   parvatāni vanāni ca / ārāmāṃ vṛkṣacaityāṃś ca manuṣyā bhayatarjitāḥ /	parvatAni vanAni ca / ArAmAm vRkza-cEtyAn ca manuzyAH Baya-tarjitAH /
+   6 na hy etac charaṇaṃ śreṣṭhaṃ naitac charaṇam uttamaṃ naitac charaṇam	6 na hi etat SaraNam SrezWam na-etat SaraNam uttamam na-etat SaraNam
+   āgamya sarvaduḥkhāt pramucyate / yas tu buddhaṃca dharmaṃ ca saṃghaṃ ca	Agamya sarva-duHKAt pramucyate / yaH tu budDaMca Darmam ca saMGam ca
+   śaraṇaṃ gataḥ	SaraNam gataH
+   YL 168V1 catvāri cāryasatyāni prajñayā paśyati yadā / etad dhi śaraṇaṃ	YL 168V1 catvAri ca-Arya-satyAni prajQayA paSyati yadA / etat Di SaraNam
+   śreṣṭhaṃ etac charaṇam uttamaṃ / etac charaṇam āgamya sarvaduḥkhāt	SrezWam etat SaraNam uttamam / etat SaraNam Agamya sarva-duHKAt
+   pramucyate /	pramucyate /
+   + + + + + + + + + + .ādhipatirūpaṃ / muktāmayī strī +	+ + + + + + + + + + .a-aDipati-rUpam / muktA-mayI strI +
+   + + + tiṣṭhanti / sā ca strī ratnapuṣpāṃ + + + + +	+ + + tizWanti / sA ca strI ratnapuzpAm + + + + +
+   + + + + + kṣīraparipūrṇam utpadyate + + + + +	+ + + + + kzIra-paripUrNam utpadyate + + + + +
+   + + + + + + + + + + + + m / tāni cāṃkurāṇi + + + + + +	+ + + + + + + + + + + + m / tAni ca-aMkurANi + + + + + +
+   + + + + + + + + + + + + .e + + + + + .e + + + + + + + + +	+ + + + + + + + + + + + .e + + + + + .e + + + + + + + + +
+   YL 168R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	YL 168R1 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   + + + + + + + + + + + + + utpadyate / daśāṃkura + + + + + + + +	+ + + + + + + + + + + + + utpadyate / daSa-aMkuraH + + + + + + + +
+   + + + + + + + + + + + + nadyaḥ sauvarṇaratnacitā + + + + +	+ + + + + + + + + + + + nadyaH sOvarNa-ratna-citAH + + + + +
+   + + + + + + + niṣaṇṇā dṛyante / upasaṃpa + + + + +	+ + + + + + + nizaNNAH dRyante / upasaMpa + + + + +
+   + + + + + lalāteṣu nīlābhāni candramaṇḍala +	+ + + + + lalAtezu nIla-ABAni candra-maNxalaH +
+   + + + + + + + + + + + + + + + puṣpakalāpā niḥsṛtāḥ pravāhāḥ	+ + + + + + + + + + + + + + + puzpa-kalApAH niHsRtAH pravAhAH
+   + + + + + + + + + + + + + + tiṣṭhati / tadā smṛtisaṃprajanyasaṃpaddvayaṃ	+ + + + + + + + + + + + + + tizWati / tadA smRti-saMprajanya-saMpad-dvayam
+   YL 169V1 pratilabhate / tadadhipatirūpaṃ / vaiḍūryamayī strī	YL 169V1 pratilaBate / tad-aDipati-rUpam / vExUrya-mayI strI
+   sarvasatvāsatvākhya + + .v. + + n. smṛtyāḥ saṃprajanyasya ca puruṣaḥ + + +	sarva-satva-asa-tva-AKyaH + + .v. + + n. smRtyAH saMprajanyasya ca puruzaH + + +
+   .olkāhastaḥ hṛdaye cāsyādityamaṇḍalam /	.a-ulkA-hastaH hRdaye ca-asya-Aditya-maNxalam /
+   2 tadavabhāsitaṃ satvāsatvākhyam eva sarvaṃ vastu yato 'sau saṃvaraṃ	2 tad-avaBAsitam satva-asa-tva-AKyam eva sarvam vastu yatas asO saMvaram
+   pratilabhate satvāsatvākhyebhyś ca gandharatnapuṣpa + + + .y.ḥ saṃtāne	pratilaBate satva-asa-tva-AKyeByH ca ganDa-ratna-puzpaH + + + .y.H saMtAne
+   'sya sarveryāpatheṣu	asya sarveH-yApaTezu
+   3 sarvakālaṃ pravartate / prātimokṣasaṃvaravijñaptipuṇyasrotasaḥ	3 sarvakAlam pravartate / prAtimokza-saMvara-vijQapti-puNya-srotasaH
+   adhipatirūpaṃ / sauvarṇaratnacitarathādhirūḍhaṃ brahmāṇaṃ paśyati	aDipati-rUpam / sOvarNa-ratna-cita-raTa-aDirUXam brahmANam paSyati
+   ratnacchatreṇa .ī + +	ratna=-CatreNa .I + +
+   4 nīlabhaṃ candramaṇḍalacitaṃ ca paṭṭaṃ śirasi baddhaṃ paśyati / etac	4 nIlaBam candra-maNxala-citam ca pawwam Sirasi badDam paSyati / etat-
+   cārhatvaviśeṣabījam / sarvopasaṃpannānām eva + + + + sya ca	ca-arha-tva-viSeza-bIjam / sarva-upasaMpannAnAm eva + + + + sya ca
+   pūrvapratilabdhānāṃ + + + + +	pUrva-pratilabDAnAm + + + + +
+   5 kṛtāntapratyavekṣaṇāyogenaitad darśanam utpadyate	5 kRtAnta-pratyavekzaNA-yogena-etat darSanam utpadyate
+   pūrvapratilabdhamanasikārāṇāṃ tu syād ekakrameṇeti / punaḥ	pUrva-pratilabDa-manasikArANAm tu syAt eka-krameNa-iti / punar-
+   śīlānusmṛtipūrvaṃ hṛdayopanibaddhacetasaḥ adhastād	SIla-anusmRti-pUrvam hRdaya-upanibadDa-cetasaH aDastAt-
+   6 yāvad vāyumaṇḍalam adharottaravibhāgena nīlābhā + pravāhāḥ + + +	6 yAvat vAyu-maNxalam aDara-uttara-viBAgena nIla-ABAH + pravAhAH + + +
+   paripūrṇaiḥ tiryag anantaṃ hṛdayāc cordhvaṃ yāvad aghaniṣṭhāty	paripUrNEH tiryak anantam hRdayAt ca-UrDvam yAvat aGa-nizWAti-
+   adharottaravibhāgena + + + + + +	aDara-uttara-viBAgena + + + + + +
+   YL 169R1 laiḥ skandhadhātvāyatanapratītyasamutpādāryasatyādinimittaiḥ + +	YL 169R1 lEH skanDa-DAtu-Ayatana-pratItyasamutpAda-Arya-satyAdi-nimittEH + +
+   + + + + + + ryataiḥ paripūrṇaṃ paśyati / mūrdhani cāsya maṇir utpadyate /	+ + + + + + ryatEH paripUrNam paSyati / mUrDani ca-asya maNiH utpadyate /
+   tatra + + + + + + + +	tatra + + + + + + + +
+   2 paśyati maṇiniḥsṛtaiś ca raśmibhir adhaurdhvasthaṃ jñeyam ākṛṣṭaṃ	2 paSyati maNi-niHsRtEH ca raSmiBiH aDOrDva-sTam jQeyam AkRzwam
+   svāśrayāntargataṃ paśyati maṇiratnāc ca ratnavarṣaḥ ante patita + + + +	sva-ASraya-antargatam paSyati maNi-ratnAt ca ratna-varzaH ante patitaH + + + +
+   maṇḍalāntargatāny āpurayati / punaḥ śilānusmṛtipūrvaṃ	maNxala-antargatAni Apurayati / punar SilA-anusmRti-pUrvam
+   3 hṛdayopanibaddhacetasaḥ vaiḍūryamayī strī	3 hRdaya-upanibadDa-cetasaH vExUrya-mayI strI
+   snehaparipūrṇavaiḍūryabhājanacitotpadyate / bhājaneṣu vajrāsanāni teṣv	sneha-paripUrNa-vExUrya-BAjana-citA-utpadyate / BAjanezu vajrAsanAni tezu-
+   ādityamaṇḍalāni	Aditya-maNxalAni
+   4 tadantargatā bāladārakāḥ teṣāṃ divyārāmodyānavimānāny apsarogaṇakalilāny	4 tad-antargatAH bAla-dArakAH tezAm divya-ArAma-udyAna-vimAnAni apsaraH-gaNa-kalilAni-
+   abhimukhī bhavanti / tatpra + + + + + + nti tadā ratnama + + + +	aBimuKI Bavanti / tat-pra + + + + + + nti tadA ratnamaH + + + +
+   5 ratnajālāvṛtaṃ sarvāṃgapratyaṃgabaddham ātmānāṃ paśyati / puruṣaś caiṣām	5 ratna-jAla-AvRtam sarva-aMga-pratyaMga-badDam AtmAnAm paSyati / puruzaH ca-ezAm
+   apāyāṃ darśayati / kathayati ca / etat pramādaphalam iti / tatas te	apAyAm darSayati / kaTayati ca / etat pramAda-Palam iti / tatas te
+   viṣayebhyo vimukhībhavanti / ratnarasa + + +	vizayeByaH vimuKIBavanti / ratna-rasaH + + +
+   6 ca nimagnā dṛśyante / dhyānasaṃvarasya nābhyupari nīlapītalohitāvadātā	6 ca nimagnAH dRSyante / DyAna-saMvarasya nAByupari nIla-pIta-lohita-avadAtA
+   candramaṇḍala + + + + + + bāladāraka + + + + + + + + vati + + + + +	candra-maNxalaH + + + + + + bAla-dAraka + + + + + + + + vati + + + + +
+   YL 170V1 + + + + + + + + + + + + vimukhībhūtāś ca muktāṃ paśyanti /	YL 170V1 + + + + + + + + + + + + vimuKIBUtAH ca muktAm paSyanti /
+   nīlādirasanimagnaṃ hṛdaye + + + + + + + + + + + + + + + + + + + /	nIla-Adi-rasa-nimagnam hRdaye + + + + + + + + + + + + + + + + + + + /
+   tadadirūḍhāḥ bāladārakāḥ	tat-adirUXAH bAla-dArakAH
+   2 + + + + + + + + + + + + + tadā muktācitair jālair baddham ātmānaṃ	2 + + + + + + + + + + + + + tadA muktA-citEH jAlEH badDam AtmAnam
+   paśyati / vimukhībhūtā + + + + + + + + + + + + + + evaṃ sarvaromakūpe + .e	paSyati / vimuKIBUtA + + + + + + + + + + + + + + evam sarva-romakUpe + .e
+   ca buddhā	ca budDA
+   3 + + + duścaritacāriṇaḥ sarvān abhibhūya ādityamaṇḍaleṣu praviśanti /	3 + + + duScarita-cAriNaH sarvAn aBiBUya Aditya-maNxalezu praviSanti /
+   tāni vajrāsaneṣu tāni bhājaneṣu tāni smṛtinimitteṣu smṛtinimittaṃ nābhyāṃ	tAni vajra-Asanezu tAni BAjanezu tAni smRti-nimittezu smRti-nimittam nAByAm
+   4 + + + + + + + + + romakūpadarśanavidhiḥ buddhadharmasaṃghānusmṛti + + +	4 + + + + + + + + + romakUpa-darSana-viDiH budDa-Darma-saMGa-anusmRti + + +
+   5 + + + + + + + + + + abhiṣekapravāhāḥ niḥsṛtāḥ yāvad vāyumaṇḍalaṃ bhitvā	5 + + + + + + + + + + aBizeka-pravAhAH niHsRtAH yAvat vAyu-maNxalam BitvA
+   6 + + + + + + + + + + + + + + + + + + + taṃ ratnapuṣpavarṣaiḥ	6 + + + + + + + + + + + + + + + + + + + tam ratna-puzpa-varzEH
+   gośīrṣacandana + + + + + + + + + devatānusmṛtiḥ katarā / + + + + + + + + +	goSIrza-candana + + + + + + + + + devatA-anusmRtiH katarA / + + + + + + + + +
+   YL 170R1 + + + + + + + + + + + + + + + + .upanibaddhacetasaḥ ṣaṭ	YL 170R1 + + + + + + + + + + + + + + + + .upanibadDa-cetasaH zax-
+   kāmāvacārā devā + + + + + + + + + + + + + + + + + + + + + + + + + + + + +	kAma-avacArAH devAH + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   2 + + + + + + + + + + + + + + + + + ddh. manuṣyāśrayaṃ paśyati / punar	2 + + + + + + + + + + + + + + + + + dD. manuzya-ASrayam paSyati / punar-
+   devatānusmṛtipūrvaṃ hṛdayopanibaddhacetasaḥ + + + + + + + + + + + + + + +	devatA-anusmRti-pUrvam hRdaya-upanibadDa-cetasaH + + + + + + + + + + + + + + +
+   3 + + + + + + + hāḥ praviṣṭāḥ smṛtinimittam /	3 + + + + + + + hAH pravizwAH smRti-nimittam /
+   snehaparipūrṇavaiḍūryabhājanacitā strī + + + + + + + + + + + + + + + + + +	sneha-paripUrNa-vExUrya-BAjana-citA strI + + + + + + + + + + + + + + + + + +
+   4 + + + + + + + dṛśyante / teṣām adharimo bhāgaḥ ādarśamaṇḍalacitaḥ + + +	4 + + + + + + + dRSyante / tezAm aDarimaH BAgaH AdarSa-maNxala-citaH + + +
+   5 + + + + + + + + + + + + + + + + nimittam / hasteṣu gṛhītaratnopakaraṇāḥ	5 + + + + + + + + + + + + + + + + nimittam / hastezu gRhIta-ratna-upakaraNAH
+   puruṣāḥ sa + + + + + + + + + + + + + + + + + + + + + + + + + + +	puruzAH saH + + + + + + + + + + + + + + + + + + + + + + + + + + +
+   6 + + + + + + + + + + + + + + sv evaṃjātīyaṃ darśanaṃ bhavati / ante ca	6 + + + + + + + + + + + + + + su evaMjAtIyam darSanam Bavati / ante ca
+   devāḥ puṣparatnavarṣam utsṛjanti / + + + + + + + + + + + + + + + + + + + +	devAH puzpa-ratna-varzam utsRjanti / + + + + + + + + + + + + + + + + + + + +
+   SUPPLEMENT	SUPPLEMENT
+   Additions based on Jens-Uwe Hartmann: "Neue Fragmente aus dem	AdditionH baset on Jens-Uwe Hartmann: "Neue Fragmente OH dem
+   'Yogalehrbuch'",	aYoga-lehH-buC-a",
+   in: Festschrift Dieter Schlingloff zur Vollendung des 65. Lebensjahres	in: FestsCrift DieteH SClingloff zuH Volla-indung deH 65. Lebet-sjahreH-
+   dargebracht von Schülern, Freunden und Kollegen, hg. Friedrich Wilhelm,	dargebraCt von SCüleH-n, Freunden und Ka-ullegen, hg. Friedrij Wilhelm,
+   Reinbek 1996, pp. 127-135;	Rein-bek 1996, pp. 127-135;
+   [Reprinted with corrections in: D. Schlingloff, Ein buddhistisches	[Reprintet wiT ca-urret-tions in: D. SClingloff, Ein budDiH-tisCeH-
+   Yogalehrbuch.	YogalehH-buC.
+   Unveränderter Nachdruck der Ausgabe von 1964 unter Beigabe aller seither	UnveH-änderteH NaCdrucj deH Ausgabe von 1964 unteH Beigabe alleH seiTeH-
+   bekannt	bekannt
+   gewordenen Fragmente, hg. J.-U. Hartmann und H.-J. Röllicke. München 2006	gewoH-denet Fragmente, hg. J.-U. Hartman und H.-J. Röllicke. MünCet 2006
+   (Buddhismus-Studien, 5).]	(BudDi-smus-H-tu-dien, 5).]
+   1. Hoernle 149.add unnumbered (Or.15009/374) = YL 127R2 - 128V5	1. HoeH-nle 149.adt unnumberet (Or.15009/374)  YL 127R2  128V5
+   r1 /// yogācārāśrayaś candramaṇḍala .. .. ///	r1 /// yoga-AcAra-ASrayaH candra-maNxalaH .. .. ///
+   2 /// nimajjaty āśvāsataḥ praśvāsaparigṛhītaṃ ///	2 /// nimajjati ASvAsataH praSvAsa-parigRhItam ///
+   3 /// .. ulkāsahasrāṇi cāntaḥsamudre .. ///	3 /// .. ulkA-sahasrANi ca-antar-samudre .. ///
+   4 /// praśvāsaparigṛhītaś ca bahiḥ ante ca .. ///	4 /// praSvAsa-parigRhItaH ca bahis ante ca .. ///
+   5 /// utpadyate paṭṭaṃ badhnāti pāṇḍaraṃ samantataś ca ///	5 /// utpadyate pawwam baDnAti pANxaram samantataH ca ///
+   6 /// kūṭāgāraiḥ paripūrṇā dṛśyante tadantargatāś ///	6 /// kUwAgArEH paripUrNAH dRSyante tad-antargatAH ///
+   v1 /// .uhy. tiṣṭhanti vimuktipratisaṃvedanāyāṃ ///	v1 /// .uhy. tizWanti vimukti-pratisaMvedanAyAm ///
+   2 /// k. jvālayante / prahāṇānupaśyanāyām ///	2 /// k. jvAlayante / prahANa-anupaSyanAyAm ///
+   3 /// .. paryantam eva taṃ pheṇarāśiṃ śītalajalapariṣiktam iva ///	3 /// .. paryantam eva tam PeNa-rASim SItala-jala-pariziktam iva ///
+   4 /// .. tatrāntaḥ muktācito yogācārāśrayaḥ ///	4 /// .. tatra-antar mukta-AcitaH yoga-AcAra-ASrayaH ///
+   5 /// .. bhavati / devāś ca kṛtsnaṃ gaganaṃ ///	5 /// .. Bavati / devAH ca kRtsnam gaganam ///
+   6 /// pradeśaṃ paśyati muktācitaṃ tadupary ///	6 /// pradeSam paSyati muktA-citam tad-upari ///
+   2. Hoernle 149add. unnumbered (Or.15009/485) = YL 144R6 - 146R6	2. HoeH-nle 149add. unnumberet (Or.15009/485)  YL 144R6  146R6
+   ra /// sarvasatvāśrayāḥ + + ///	raH /// sarva-satva-ASrayAH + + ///
+   b /// siṃcati utkṣipte ///	b /// siMcati utkzipte ///
+   c /// satvāḥ sannaddhāśṛ ///	c /// satvAH sannadDASR ///
+   d /// praṇamanti / evaṃ ///	d /// praNamanti / evam ///
+   e /// maitrāśayasyānantaṃ paryantaṃ ///	e /// mEtrASayasya-anantam paryantam ///
+   f /// siṃcyamāno dṛśyate .. .. + ///	f /// siMcyamAnaH dRSyate .. .. + ///
+   va /// t.n niḥsṛtābhiḥ + ///	vaH /// t.t niHsRtABiH + ///
+   b /// samaye cittaṃ bhavati ///	b /// samaye cittam Bavati ///
+   c /// āśrayāpramāṇa ///	c /// ASraya-apramANaH ///
+   d /// maitrābhiṣekaś ca as. ///	d /// mEtra-aBizekaH ca as. ///
+   e /// catvāraḥ pravāhāḥ kācapārībhiḥ ///	e /// catvAraH pravAhAH kAca-pArIBiH ///
+   f /// kṣīrapravāho nirgatya ///	f /// kzIra-pravAhaH nirgatya ///
+   Additions based on Jens-Uwe Hartmann: "Drei weitere Fragmente aus dem	AdditionH baset on Jens-Uwe Hartmann: "Drei weitere Fragmente OH dem
+   Yogalehrbuch",	YogalehH-buC",
+   in: D. Schlingloff, Ein buddhistisches Yogalehrbuch. Unveränderter	in: D. SClingloff, Ein budDiH-tisCeH YogalehH-buC. UnveH-änderteH-
+   Nachdruck der Ausgabe von 1964	NaCdrucj deH Ausgabe von 1964
+   unter Beigabe aller seither bekannt gewordenen Fragmente, hg. J.-U.	unteH Beigabe alleH seiTeH bekannt gewoH-denet Fragmente, hg. J.-U.
+   Hartmann und H.-J. Röllicke.	Hartman und H.-J. Röllicke.
+   München 2006 (Buddhismus-Studien, 5), pp. 319-324	MünCet 2006 (BudDi-smus-H-tu-dien, 5), pp. 319-324
+   1. H. 150/84 (Or.15002/28): 4,3 x 9,9; Yogalehrbuch, 1. Kapitel (Übung der	1. H. 150/84 (Or.15002/28): 4,3 x 9,9; Yogala-ihH-buC, 1. Kapitet (Übung der
+   Häßlichkeiten, aśubhaprayoga); dazu H. 150/76	HäßliSkeiten, aSuBa-prayoga); dazu H. 150/76
+   V1 prahāya sa ca vitarkarahito vrajati saddham* parivartya ca ta .. + +	V1 prahAya sa ca vitarka-rahitaH vrajati sat-Dam* parivartya ca te .. + +
+   2 caturdhyānarasam ādāya svamāśraye praveśayati º .ri + +	2 catur-DyAna-rasam AdAya svam-ASraye praveSayati º .ri + +
+   3 tiṃ ca tato lalāṭāt pravāho ḥnirgacchatiḥ dvītīyo nābhyāḥ miśritvā	3 tim ca tatas lalAwAt pravAhaH HniH-gacCatiH dvItIyaH nAByAH miSritvA
+   sthitim	sTitim
+   4 āpūrayati º lalāṭāt pūrvaṃ vicchidyate tato nābhyāḥ º samudraparyantaṃ	4 ApUrayati º lalAwAt pUrvam vicCidyate tatas nAByAH º samudra-paryantam
+   R(29)1 pṛthivīṃ spharitvā ānābheś ca sthitinimagnām āśrayaṃ + + +	R(29)1 pRTivIm sParitvA AnABeH ca sTiti-nimagnAm ASrayam + + +
+   2 ni º tataḥ paripakāntād yā sthiti praveśayati º etad	2 ni º tatas paripaka-antAt yA sTiti praveSayati º etat-
+   3 utpādasthitivyutthānakauśalam* sthityupari cittasaṃvegārthaṃ	3 utpAda-sTiti-vyutTAna-kOSalam* sTiti-upari citta-saMvega-arTam
+   4 maraṇasaṃjñābhāvanā aṃgārārāśinimagnaṃ kṛtsnaṃ sasurāsuralokaṃ paśyati	4 maraNa-saMjQA-BAvanA aMgAra-ArASi-ni-magnam kRtsnam sa-sura-asura-lokam paSyati
+   2. Or.15003/257	2. Or.15003/257
+   recto	rectaH-
+   1 /// avāśyāyabindun iva spandamānaṃ paśyati /// {YL 131R3}	1 /// avASyAya-bindun iva spandamAnam paSyati /// {YL 131R3}
+   2 /// tadadhirūḍhāṃś ca buddhāṃ paśyati /// {YL 131R4}	2 /// tad-aDirUXAn ca budDAm paSyati /// {YL 131R4}
+   3 /// + .. paśyati a .. /// {Lücke in YL}	3 /// + .. paSyati a .. /// {Lücke id YL}
+   4 /// + sa ca ratnavṛkṣaḥ /// {YL 131R5}	4 /// + sa ca ratna-vRkzaH /// {YL 131R5}
+   5 /// + + .. ta .. + + ///	5 /// + + .. te .. + + ///
+   verso	verso
+   v /// + + bhāgen. + + ///	v /// + + BAgen. + + ///
+   w /// + .. parikarmā .. /// {cf. YL 132V1ff.}	w /// + .. parikarmA .. /// {cf. YL 132V1ff.}
+   x /// + .. karaṃthaiḥ pṛthivīṃ /// {YL 132V4}	x /// + .. karaMTEH pRTivIm /// {YL 132V4}
+   y /// pṛthivī pūrṇāṃ paśyati paśyataś c. /// {YL 132V5}	i /// pRTivI pUrNAm paSyati paSyataH c. /// {YL 132V5}
+   z /// sya kṛmayasṛ + /// {Lücke vor YL 132V6}	z /// sya kRmayasR + /// {Lücke voH YL 132V6}
+   Additions based on Yamabe, N.: "New Fragments of the "Yogalehrbuch"",	AdditionH baset on Yama-be, N.: "NeS Fragments of Te "Yoga-lehH-buC"",
+   Kyūshū Ryūkoku Tankidaigaku Kīyḥ 43 (1997), pp. 11-39.	KyUshuH RyUkoku Tan-kidEgaku KIyH 43 (1997), pp. 11-39.
+   Cf. Yamabe, Nobuyoshi: "Fragments of the "Yogalehrbuch" in the Pelliot	Cf. Yama-be, NaH-buyoshi: "j-ragments of Te "YogalehH-buC" id Te Pelliot
+   Collection", in: D. Schlingloff, Ein buddhistisches Yogalehrbuch.	CollectiA-un", in: D. SClingloff, Ein budDiH-tisCeH YogalehH-buC.
+   Unveränderter Nachdruck der Ausgabe von 1964 unter Beigabe aller seither	UnveH-änderteH NaCdrucj deH Ausgabe von 1964 unteH Beigabe alleH seiTeH-
+   bekannt gewordenen Fragmente, hg. J.-U. Hartmann und H.-J. Röllicke.	bekannt gewoH-denet Fragmente, hg. J.-U. Hartman und H.-J. Röllicke.
+   München 2006 (Buddhismus-Studien, 5), pp. 325-347.	MünCet 2006 (BudDi-smus-H-tu-dien, 5), pp. 325-347.
+   [slightly revised version of "New Fragments of the "Yogalehrbuch""]	[sliGtli reviset version of "NeS Fragments of Te "Yoga-lehH-buC""]
+   1) Pell.Skt. rouge 9.1 (r3-va ~ YL 129V6-R3, vc,d,f : YL 1     17R2, 4)	1) Pell.-Skt. rouge 9.1 (r3-vaH ~ YL 129V6-R3, vc,d,f : YL 1     17R2, 4)
+   r1 paśyati / sakuṇḍā antaḥkoṣṭhāgarbhāṃ strīṃ nānāśuciparipūrṇāṃ	r1 paSyati / sa-kuNxAH antar-kozWA-garBAm strIm nAnA-Suci-paripUrNAm
+   kaṇṭhanāḍyāṃ laṃbamānāṃ paśyati / evaṃ /// svam āśrayaṃ tadvat sarvasatvān	kaNWa-nAxyAm laMbamAnAm paSyati / evam /// svam ASrayam tadvat sarva-satvAn
+   samudraparyantāyāḥ pṛthivyāḥ paśyati durbalasaṃjñā g. hīt. b. +	samudra-paryantAyAH pRTivyAH paSyati durbala-saMjQA g. hi-it. b. +
+   2 .. saṃskāragataṃ patantam iva paśyati cūrṇasaṃjñāyāṃ cūrṇīkṛtaṃ	2 .. saMskAra-gatam patantam iva paSyati cUrNa-saMjQAyAm cUrNIkRtam
+   bhasmarāśivad avasthitaṃ svam āśrayaṃ /// samudraparyantāyāṃ pṛthivyām*	Basma-rASi-vat avasTitam svam ASrayam /// samudra-paryantAyAm pRTivyAm*
+   tataḥ mātṛpitṛsaṃyogāc chukraśoṇitaṃ paśyati tadabhirataṃ ca vijñānaṃ	tatas mAtR-pitR-saMyogAt Sukra-SoNitam paSyati tat-aBiratam ca vijQAnam
+   tataḥ kalalārbudapeśīghanapraśākhānukrameṇābhinirvartamānaṃ paśyati /	tatas kalala-arbuda-peSI-Gana-praSAKA-anukrameNa-aBinirvartamAnam paSyati /
+   3 jātasya ca bālakumāra /// paśyati / evaṃ nānārogopahataṃ mriyamāṇaṃ	3 jAtasya ca bAlakumAraH /// paSyati / evam nAnA-roga-upahatam mriyamANam
+   mṛtaṃ nirhriyamāṇaṃ śmaśānasthaṃ vinīlakādi yāvac cūrṇitaṃ	mRtam nirhriyamANam SmaSAna-sTam vinIlaka-Adi yAvat cUrNitam
+   4 kṛtsnaṃ jagat paśyati / svaṃ cāśrayaṃ tataś cūrṇapuruṣaka utpadyate +	4 kRtsnam jagat paSyati / svam ca-ASrayam tatas cUrNa-puruzakaH utpadyate +
+   /// tato 'bhiṣekaḥ caturbhyaḥ samudrebhyaḥ puruṣā jalakuṃbhān ādāya	/// tatas aBizekaH caturByaH samudreByaH puruzAH jalakuMBAn AdAya
+   yogācāraṃ snāpayanti / evaṃ	yoga-AcAram snApayanti / evam
+   5 + + + +ḥ mūrdhacchidreṇa ca sarpistailābhyāṃ pūrayanti / tata upari	5 + + + +H mUrDa=-CidreNa ca sarpiH-tElAByAm pUrayanti / tatas upari
+   pūrṇ.ṃ /// .. acchaṃ cāśrayaṃ suvarṇaśalākāsadṛśaṃ snigdhaṃ suvarṇaṃ	pUrN.m /// .. acCam ca-ASrayam suvarNa-SalAkA-sadRSam snigDam suvarNam
+   saṃparipūrṇaṃ dṛśyate tato lalāṭe ..	saMparipUrNam dRSyate tatas lalAwe ..
+   6 + + + + + + + + + + śalākāsadṛśaḥ pravāho nirgacchati sa pṛthivīṃ bhitvā	6 + + + + + + + + + + SalAkA-sadRSaH pravAhaH nirgacCati sa pRTivIm BitvA
+   + + + + /// + + + .tvā tataḥ kāṃcanamaṇḍalaṃ abmaṇḍalaṃ vāyumaṇḍalaṃ ca	+ + + + /// + + + .tvA tatas kAMcana-maNxalam ap-maNxalam vAyu-maNxalam ca
+   bhitvā parivartya nābhyāṃ ..	BitvA parivartya nAByAm ..
+   7 /// + + + + + .. .e + .. .h. m. khāniḥ .. .. .ā + + .. .. .. ..ṃ .i .i +	7 /// + + + + + .. .e + .. .h. m. KAniH .. .. .A + + .. .. .. ..m .i .i +
+   r..ṃ .i .i .. .. .. + +	r..m .i .i .. .. .. + +
+   va /// + + + + + + + + pravāho dvitīyo nābhyāḥ + .r. .ṛtv. sth. t. .. + ..	vaH /// + + + + + + + + pravAhaH dvitIyaH nAByAH + .r. .Rtv. sT. t. .. + ..
+   t. .. .. .. + + + +	t. .. .. .. + + + +
+   b + + + + + + + + + + + .. tā .ṛ + + spharitvā ānābheś ca sthitinimagnam	b + + + + + + + + + + + .. tAH .R + + sParitvA AnABeH ca sTiti-nimagnam
+   āśrayaṃ /// + + + + + / etad utpādasthitivyutthānakauśalam* // sthityupari	ASrayam /// + + + + + / etat utpAda-sTiti-vyutTAna-kOSalam* // sTiti-upari
+   cittasaṃvegārthaṃ maraṇasaṃjñābhāvanā	citta-saMvega-arTam maraNa-saMjQA-BAvanA
+   c aṃgārārāśinimagnaṃ kṛtsnaṃ sasurāsuraṃ lokaṃ paśyati c. .. /// .āt sva	c aMgAra-ArASi-ni-magnam kRtsnam sa-sura-asuram lokam paSyati c. .. /// .At sva-
+   āśraye paśyati / āpāṇḍulohitamṛttikāsadṛśa āśīviṣaḥ pṛthivīdhātoḥ	ASraye paSyati / ApANxu-lohita-mRttikA-sadRSaH ASIvizaH pRTivI-DAtoH
+   tūlaśalākāsadṛśaḥ	tUla-SalAkA-sadRSaH
+   d abdhātoḥ aṃgāraśalākāsadṛśaḥ tejodhātoḥ abhraśalākāsadṛśo vāyudhātoḥ ///	d abDAtoH aMgAra-SalAkA-sadRSaH tejaH-DAtoH aBra-SalAkA-sadRSaH vAyuDAtoH ///
+   th.m utsadībhūte saptottaraṃ āśīviṣaśataṃ saṃbhavanti / tat saptottaraṃ	T.m utsadIBUte sapta-uttaram ASIviza-Satam saMBavanti / tat sapta-uttaram
+   marmaśataṃ saṃnirodhayitvā	marma-Satam saMniroDayitvA
+   e tiṣṭhanti mṛtpravāhaś ca mūrdhnā praviśya sarvasrotāṃsi badhvā tiṣṭhanti	e tizWanti mRd-pravAhaH ca mUrDnA praviSya sarva-srotAMsi baDvA tizWanti
+   + /// lokam abdhātau kupite saptottaram āśīviṣaśataṃ abdhātvāśīviṣāṇāṃ	+ /// lokam abDAtO kupite sapta-uttaram ASIviza-Satam abDAtu-ASIvizANAm
+   nirgatya saptottaraṃ marmaśataṃ	nirgatya sapta-uttaram marma-Satam
+   f snāyūṃ kledayanti teṣu klinneṣu s.ṃ .. yā viśliṣyante niśceṣṭaṃ svam	f snAyUm kledayanti tezu klinnezu s.m .. yAH viSlizyante niScezwam svam
+   āśrayaṃ lokaṃ ca + /// .ās tāvanta evāśīviṣās tāvatsv eva marmasu .. t. e	ASrayam lokam ca + /// .AH tAvantaH eva-ASIvizAH tAvatsu eva marmasu .. t. e
+   snāyūṃ dahyanti niśceṣṭaṃ svam āśrayaṃ sarvasatvāṃś	snAyUm dahyanti niScezwam svam ASrayam sarva-satva-an=-
+   g ca pṛthivīṃ patantam iva paśyati snāyu .. e .. pi te .. .. śalākāvarṇas	g ca pRTivIm patantam iva paSyati snAyu .. e .. pi te .. .. SalAkA-varNa-s
+   tāvanta eva /// khavinigatair asibhiḥ .. .ṛ cchindanti / niśceṣṭam āśrayaṃ	tAvantaH eva /// Ka-vini-gatEH asiBiH .. .R cCindanti / niScezwam ASrayam
+   lokaṃ ca paśyati gale ca vibā .. +	lokam ca paSyati gale ca vibA .. +
+   2) Pell.Skt. rouge 9.2 (ra-d = YL 118R2-5, vc-d = YL 121R4-5)	2) Pell.-Skt. rouge 9.2 (ra-t  YL 118R2-5, vc-t  YL 121R4-5)
+   r1 /// .o tebhyaś ca cittābhipramodanāyām ///	r1 /// .aH teByaH ca citta-aBipramodanAyAm ///
+   2 /// bāladārakaṃ samādhisukhasaktaṃ paśyati a ///	2 /// bAla-dArakam samADi-suKa-saktam paSyati a ///
+   3 /// jīrṇaṃ svam āśrayaṃ paśyati āśvāsapraśvāsā ///	3 /// jIrNam svam ASrayam paSyati ASvAsa-praSvAsAH ///
+   4 /// āśvāsapraśvāsasaṃ ///	4 /// ASvAsa-praSvAsasam ///
+   va /// .. .. ///	vaH /// .. .. ///
+   b /// ṣṭha utpadyate ///	b /// zWaH utpadyate ///
+   c /// vat tṛtīyadhyānaṃ evaṃ sphuṭaṃ paśyati ///	c /// vat tRtIya-DyAnam evam sPuwam paSyati ///
+   d /// śāṃ te buddhāś ca śabdam udīrayanti śāntaṃ śāntaṃ ///	d /// SAm te budDAH ca Sabdam udIrayanti SAntam SAntam ///
+   e /// .. .. dayaṃ utpadyate evaṃ ///	e /// .. .. dayam utpadyate evam ///
+   3) Pell.Skt. rouge 9.3 (YL; vd ~ YL 118V5)	3) Pell.-Skt. rouge 9.3 (YL; vd ~ YL 118V5)
+   r1 /// ddhāy.ḥ yogācāra .o ///	r1 /// dDAy.H yoga-AcAra .aH ///
+   2 /// .. mapr. v. sānāṃ sūryamaṇḍalaṃ candramaṇḍalam ///	2 /// .. mapr. v. sAnAm sUrya-maNxalam candra-maNxalam ///
+   3 /// naḍakalāpayogena pārasparye ///	3 /// naxa-kalApa-yogena pArasparye ///
+   4 /// āpādīnā. m ā ///	4 /// Apa-AdInA. m A ///
+   va /// .. .. ///	vaH /// .. .. ///
+   b /// paśyati sarvaṃ ///	b /// paSyati sarvam ///
+   c /// ekaikena srotasā sūkṣmaṃ vāyuṃ ///	c /// ekEkena srotasA sUkzmam vAyum ///
+   d /// .. y. .. nirgatā prītisaṃvedanāyāṃ ///	d /// .. y. .. nirgatA prIti-saMvedanAyAm ///
+   e /// .. antarmukhaṃ snā .. .. kh. /// {oder: .. .. ..}	e /// .. antarmuKam snA .. .. K. /// {a-uder: .. .. ..}
+   4) Pell.Skt. rouge 9.4 (YL)	4) Pell.-Skt. rouge 9.4 (YL)
+   r1 /// .. .. tvā .. s tiṣṭhati vāyu .. + .. ///	r1 /// .. .. tvA .. s tizWati vAyu .. + .. ///
+   2 /// caturthadhyānaṃ muktvā eṣā dīrghatā tato vāyu tantu .. ///	2 /// caturTa-DyAnam muktvA ezA dIrGa-tA tatas vAyu tantu .. ///
+   3 /// .āśvāsā bhūmisthā 2 sarve satvā ā ///	3 /// .a-ASvAsAH BUmi-sTAH 2 sarve satvAH A ///
+   4 /// t. r. nābhyaṃ maṇḍala ///	4 /// t. r. nAByam maNxalaH ///
+   va /// tāyā vāyu ā ///	vaH /// tAyAH vAyu A ///
+   b /// bhadrebhyo niḥsṛtyādhaḥ vāyumaṇḍala ///	b /// BadreByaH niHsRtya-aDas vAyu-maNxalaH ///
+   c /// .. smṛtiṃ pratismṛtīnāṃ tailapūrṇabhājana .r. ///	c /// .. smRtim pratismRtInAm tEla-pUrNa-BAjanaH .r. ///
+   d /// parigṛhītāni paśyanti .. + .e .. ///	d /// parigRhItAni paSyanti .. + .e .. ///
+   5) Pell.Skt. rouge 9.5 (YL)	5) Pell.-Skt. rouge 9.5 (YL)
+   ra /// .. .. ///	raH /// .. .. ///
+   b /// . yaṃ sṛtvā ///	b /// . yam sRtvA ///
+   c /// darśanānuśu ///	c /// darSana-anuSu ///
+   d /// .. yā sopekṣaḥ ///	d /// .. yA sa-upekzaH ///
+   e /// .. + .ī .ī ///	e /// .. + .I .I ///
+   va /// .i .. .y. .. g. ///	vaH /// .i .. .y. .. g. ///
+   b /// d. .. tasam. pa ///	b /// d. .. tasam. paH ///
+   c /// .. .aiva daś. ///	c /// .. .A-eva daS. ///
+   d /// .. satvā ///	d /// .. satvAH ///
+   e /// .. .. ///	e /// .. .. ///
+   6) Pell.Skt. rouge 9.6 (YL)	6) Pell.-Skt. rouge 9.6 (YL)
+   ra /// .. .. .. .. ///	raH /// .. .. .. .. ///
+   b /// vācaṃ marmābhighaṭṭi ///	b /// vAcam marma-aBiGawwi ///
+   c /// svayaṃ dātum icchati ///	c /// svayam dAtum icCati ///
+   va /// .. bhūto yāvat t. ///	vaH /// .. BUtaH yAvat t. ///
+   b /// ā .. ratāgandhamāly. ///	b /// A .. rata-aganDa-mAly. ///
+   c /// yā .. .. bhikā ///	c /// yA .. .. BikA ///

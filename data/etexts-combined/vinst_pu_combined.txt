@@ -1,0 +1,838 @@
+   vīṇāśikhatantra	vINA-SiKa-tantra
+   oṃ namo mahābhairavāya	om namaH mahABEravAya
+   kailāsaśikhare ramye nānāratnopaśobhite /	kElAsa-SiKare ramye nAnA-ratna-upaSoBite /
+   nānādrumalatākīrṇe siddhacāraṇasevite // VT_1 //	nAnA-druma-latA-AkIrNe sidDa-cAraNa-sevite // VT_1 //
+   tatra devaḥ suraśreṣṭhaḥ krīḍate umayā saha /	tatra devaH suraSrezWaH krIxate umayA saha /
+   stūyamāno mahāsiddhair mahākālādibhir gaṇaiḥ // VT_ 2 //	stUyamAnaH mahA-sidDEH mahAkAla-AdiBiH gaNEH // VT_ 2 //
+   ṛṣibhiś ca mahābhāgair bhṛgvādyaiḥ surasattamaiḥ /	RziBiH ca mahABAgEH BRgu-AdyEH sura-sattamEH /
+   teṣāṃ madhye samutthāya devī vacanam abravīt // VT_3 //	tezAm maDye samutTAya devI vacanam abravIt // VT_3 //
+   śrutaṃ sammohanaṃ tantraṃ tathā nayottaraṃ mahat /	Srutam sammohanam tantram taTA naya-uttaram mahat /
+   śiraśchedaṃ ca deveśa tvatprasādāt sudurlabham // VT_4 //	SiraH-Cedam ca deveSa tvad-prasAdAt su-durlaBam // VT_4 //
+   vratasādhyāni caitāni yāgasādhyāni vai punaḥ /	vrata-sADyAni ca-etAni yAga-sADyAni vE punar /
+   anyasārā yato loke prāyo draviṇavarjitāḥ // VT_5 //	anya-sArAH yatas loke prAyas draviNa-varjitAH // VT_5 //
+   ebhyo 'pi cottaraṃ yasmāt kevalaṃ jñānasiddhidam /	eByaH api ca-uttaram yasmAt kevalam jQAna-sidDi-dam /
+   sarvakāmapradaṃ deva yathāvad bījapañcakaṃ // VT_6 //	sarva-kAma-pradam deva yaTAvat bIja-paQcakam // VT_6 //
+   uttaraṃ hṛdayaṃ hy eṣāṃ bhaktāya dātum arhasi // VT_7 //	uttaram hRdayam hi ezAm BaktAya dAtum arhasi // VT_7 //
+   śrī īśvara uvāca	SrI ISvaraH uvAca
+   yan na kasyacid ākhyātaṃ śukrādīnāṃ ca yoginām /	yat na kasyacid AKyAtam Sukra-AdInAm ca yoginAm /
+   subhaktasya vinītasya gopitaṃ vai guhasya ca // VT_8 //	su-Baktasya vinItasya gopitam vE guhasya ca // VT_8 //
+   catuḥṣaṣṭiḥ samākhyātāḥ śiṣyās tantreṣu ye mayā /	catuHzazwiH samAKyAtAH SizyAH tantrezu ye mayA /
+   teṣām api na cākhyātaṃ brahmaviṣṇupuraḥsaraiḥ // VT_9 //	tezAm api na ca-AKyAtam brahma-vizNu-puraHsarEH // VT_9 //
+   tad ahaṃ sampravakṣyāmi cintāratnam ivāparam /	tat aham sampravakzyAmi cintA-ratnam iva-aparam /
+   tantraṃ vīṇāśikhaṃ nāma nirvyājenāśusiddhidam // VT_10 //	tantram vINASiKam nAma nirvyAjena-ASu-sidDi-dam // VT_10 //
+   devītumburusaṃyuktaṃ vīṇādhārasusaṃsthitam /	devI-tumburu-saMyuktam vINA-DAra-su-saMsTitam /
+   śikhāyogena iṣyante tena vīṇāśikhā smṛtā // VT_11 //	SiKA-yogena izyante tena vINA-SiKA smRtAH // VT_11 //
+   yāgam ādau pravakṣyāmi tantrasāraṃ sudurlabham /	yAgam AdO pravakzyAmi tantra-sAram su-durlaBam /
+   tenaiva varadā devyo nityaṃ devi bhavanti hi // VT_12 //	tena-eva vara-dAH devyaH nityam devi Bavanti hi // VT_12 //
+   gṛhayāgam idaṃ devi yo jānātīha sādhakaḥ /	gRha-yAgam idam devi yaH jAnAti-iha sADakaH /
+   vratahomād ṛte cāsmin susiddhiṃ labhate param // VT_13 //	vrata-homAt Rte ca-asmin su-sidDim laBate param // VT_13 //
+   śiṣyāṇām āditaḥ kuryād yāgaṃ kṛtvā parigraham /	SizyANAm Aditas kuryAt yAgam kRtvA parigraham /
+   nānyathā darśayet tantraṃ na cāsau siddhim āpnuyāt // VT_14 //	na-anyaTA darSayet tantram na ca-asO sidDim ApnuyAt // VT_14 //
+   caturthyām atha pañcamyāṃ navamyām ekādaśīṣu ca /	caturTyAm aTa paQcamyAm navamyAm ekAdaSIzu ca /
+   grahaṇe vāpi kartavyā sarvadā cārkasomayoḥ // VT_15 //	grahaNe vA-api kartavyA sarvadA ca-arka-somayoH // VT_15 //
+   caturthyāṃ yajanaṃ śreṣṭhaṃ saubhāgyakaraṇaṃ mahat /	caturTyAm yajanam SrezWam sOBAgya-karaNam mahat /
+   śrīkāmo yajanaṃ kuryāt pañcamyāṃ susamāhitaḥ // VT_16 //	SrI-kAmaH yajanam kuryAt paQcamyAm su-samAhitaH // VT_16 //
+   saṃgrāme vijayārthī vā pararāṣṭravimardanam /	saMgrAme vijaya-arTI vA para-rAzwra-vimardanam /
+   navamyāṃ pārthivaṃ yāgaṃ kurvīta bhaginīpriyam // VT_17 //	navamyAm pArTivam yAgam kurvIta BaginI-priyam // VT_17 //
+   ekādaśyāṃ yajed yas tu śivaloke mahīyate /	ekAdaSyAm yajet yaH tu Siva-loke mahIyate /
+   sugupte nirjane deśe saridvāpītaṭe 'pi vā // VT_18 //	su-gupte nirjane deSe sarit-vApI-tawe api vA // VT_18 //
+   kṛtvādau bhūmisaṃśuddhiṃ sāvitryā deśikottamaḥ /	kRtvA-AdO BUmi-saMSudDim sAvitryAH deSikA-uttamaH /
+   kṛtvā pūjāṃ prakurvīta śiṣyāṇām adhivāsanam // VT_19 //	kRtvA pUjAm prakurvIta SizyANAm aDivAsanam // VT_19 //
+   carukaṃ sādhane paścāt sāvitryā dāpayed budhaḥ /	carukam sADane paScAt sAvitryAH dApayet buDaH /
+   śiṣyāṇāṃ dantakāṣṭhaṃ ca sakṣīraṃdvādaśāṅgulam // VT_20 //	SizyANAm dantakAzWam ca sa-kzIraMdvAdaSa-aFgulam // VT_20 //
+   ācamya śiṣyam āhūya pañcatattvapariṣkṛtam /	Acamya Sizyam AhUya paQca-tattva-parizkRtam /
+   sāvitryā prokṣayed bhūyas tattvajaptaṃ yathoditam // VT_21 //	sAvitryA prokzayet BUyas tattva-japtam yaTA-uditam // VT_21 //
+   pramārjayetkuśāgreṇa tasyāṅgāni samālabhet /	pramArjayet-kuSa-agreNa tasya-aFgAni samAlaBet /
+   ālabhyaiva tu sāvitryā kṣālayet sakalaṃ kramāt // VT_22 //	AlaBya-eva tu sAvitryA kzAlayet sakalam kramAt // VT_22 //
+   yāgabhūmau svaśiṣyāṃs tu svapec ca kuśasaṃstare /	yAga-BUmO sva-SizyAn tu svapet ca kuSa-saMstare /
+   rakṣāṃ sadā śatair bījaiḥ kṛtvā dhyātvā ca tāḥ kramāt // VT_23 //	rakzAm sadA SatEH bIjEH kRtvA DyAtvA ca tAH kramAt // VT_23 //
+   tataḥ prabhāte vimale mukhaṃ prakṣālya sādhakaḥ /	tatas praBAte vimale muKam prakzAlya sADakaH /
+   iṣṭāniṣṭāṃ gurau ceṣṭāṃ praṇipatya nivedayet // VT_24 //	izwa-anizwAm gurO cezwAm praNipatya nivedayet // VT_24 //
+   iṣṭāniṣṭān viditvā tu deśikaḥ sādhakasya tu /	izwa-anizwAn viditvA tu deSikaH sADakasya tu /
+   ādau deśe same bhūmau vivikte śalyavarjite // VT_25 //	AdO deSe same BUmO vivikte Salya-varjite // VT_25 //
+   maṇḍalaṃ saṃlikhet prājño yathāvad vidhipūrvakam /	maNxalam saMliKet prAjQaH yaTAvat viDi-pUrvakam /
+   caturhastaṃ caturdvāram athavā caikahastakam // VT_26 //	catur-hastam catur-dvAram aTavA ca-eka-hastakam // VT_26 //
+   maṇḍalam saṃlikhed divyam śālicūrṇena sūjjvalam /	maNxalam saMliKet divyam SAli-cUrNena sUjjvalam /
+   tatra madhye likhet padmaṃ catuḥpattraṃ sakarṇikam // VT_27 //	tatra maDye liKet padmam catur-pattram sa-karNikam // VT_27 //
+   śvetāsṛ kpītakṛ ṣṇāni kamalasya dalāni tu /	Sveta-asR kpIta-kR zNAni kamalasya dalAni tu /
+   prāg ārabhya yathānyāyaṃ saumyeśāntāni lekhayet // VT_28 //	prAk AraBya yaTAnyAyam sOmya-ISa-antAni leKayet // VT_28 //
+   karṇikāṃ ca tathā madhye śabalāṃ deśikottamaḥ /	karNikAm ca taTA maDye SabalAm deSika-uttamaH /
+   caturmūrtiṃ caturvarṇaṃ svena bijena tumburum // VT_29 //	catur-mUrtim catur-varNam svena bijena tumburum // VT_29 //
+   caturvarṇam īśvaraṃ dhyāyen niviṣṭam karṇikodare /	catur-varNam ISvaram DyAyet nivizwam karNikA-udare /
+   tataḥ sitāṃ svabījena jayāṃ prāgdale vinyaset // VT_30 //	tatas sitAm sva-bIjena jayAm prAk-dale vinyaset // VT_30 //
+   bandhūkakusumaprakhyāṃ vijayāṃ dakṣiṇe dale /	banDUka-kusuma-praKyAm vijayAm dakziNe dale /
+   svacchacāmīkaraprakhyām ajitāṃ paścime dale // VT_31 //	svacCa-cAmIkara-praKyAm ajitAm paScime dale // VT_31 //
+   bhinnāñjanacayaprakhyām uttare cāparājitām /	BinnAQjana-caya-praKyAm uttare ca-aparAjitAm /
+   vinyasya pūjāṃ kurvīta svaiḥ svair bījair yathākramam // VT_32 //	vinyasya pUjAm kurvIta svEH svEH bIjEH yaTAkramam // VT_32 //
+   puṣpadhūpaiś ca balibhir yathākālāntaraiḥ śubhaiḥ /	puzpa-DUpEH ca baliBiH yaTA-kAla-antarEH SuBEH /
+   sadvitānapatākāḍhyaṃ sragmālālaṃkṛtaṃ puram // VT_33 //	sat-vitAna-patAkA-AXyam sragmAla-alaMkRtam puram // VT_33 //
+   pradīptadīpakair dikṣu samantād avabhāsitam /	pradIpta-dIpakEH dikzu samantAt avaBAsitam /
+   nānābhakṣyānnapānaiś ca svādubhir vyañjanais tathā // VT_34 //	nAnA-Bakzya-anna-pAnEH ca svAduBiH vyaQjanEH taTA // VT_34 //
+   phalair nānāvidhaiś caiva paritaḥ paryavasthitaiḥ /	PalEH nAnAviDEH ca-eva paritas paryavasTitEH /
+   kalaśair vāripūrṇaiś ca daśadikṣu vyavasthitaiḥ // VT_35 //	kalaSEH vAri-pUrNEH ca daSa-dikzu vyavasTitEH // VT_35 //
+   cūtapallavasaṃvītaiḥ sragmālālaṃkṛtaiḥ śubhaiḥ /	cUta-pallava-saMvItEH sragmAla-alaMkRtEH SuBEH /
+   evaṃ yaṣṭvā yathānyāyaṃ śiṣyān āprokṣya vāriṇā // VT_36 //	evam yazwvA yaTAnyAyam SizyAn Aprokzya vAriNA // VT_36 //
+   sāvitryā mukham āsādya vāsasā sakalīkṛtān /	sAvitryAH muKam AsAdya vAsasA sakalIkRtAn /
+   svaiḥ svair bījair nyaset puṣpān śiṣyāṇāṃ karayor dvayoḥ // VT_37 //	svEH svEH bIjEH nyaset puzpAn SizyANAm karayoH dvayoH // VT_37 //
+   jayāt praveśayen māyāṃ maṇḍalaṃ deśikottamaḥ /	jayAt praveSayet mAyAm maNxalam deSika-uttamaH /
+   praveśya tatra śiṣyaṃ tu dvitricatuḥpañca eva vā // VT_38 //	praveSya tatra Sizyam tu dvi-tri-catur-paQcaH eva vA // VT_38 //
+   tato 'gnikāryaṃ kurvīta maṇḍalāt paścime bahiḥ /	tatas agni-kAryam kurvIta maNxalAt paScime bahis /
+   ullikhyoddhṛtya sāvitryā kuśān saṃstīrya sarvataḥ // VT_39 //	ulliKya-udDRtya sAvitryA kuSAn saMstIrya sarvatas // VT_39 //
+   astrabījena cābhyukṣya gandhatoyena deśikaḥ /	astra-bIjena ca-aByukzya ganDa-toyena deSikaH /
+   vahnim ādāya tenaiva sāvitryā pūjayet tataḥ // VT_40 //	vahnim AdAya tena-eva sAvitryA pUjayet tatas // VT_40 //
+   tatas tattvatrayaṃ nyasya vahner eva yathākramam /	tatas tattva-trayam nyasya vahneH eva yaTAkramam /
+   niruddhamāyātasmāttam aṅkuśena nirodhayet // VT_41 //	nirudDa-mAyAtasmAt-tam aFkuSena niroDayet // VT_41 //
+   māyayācchādayet paścād astreṇaiva prabodhayet /	mAyayA-AcCAdayet paScAt astreNa-eva praboDayet /
+   homadravyasya sarvasya kuryāt tenaiva śodhanam // VT_42 //	homa-dravyasya sarvasya kuryAt tena-eva SoDanam // VT_42 //
+   tataś ca sarpiṣo homaṃ vidhivat kārayed budhaḥ /	tatas ca sarpizaH homam viDivat kArayet buDaH /
+   svabījair eva tad dhutvā dīkṣāṃ śiṣyasya kārayet // VT_43 //	sva-bIjEH eva tat DutvA dIkzAm Sizyasya kArayet // VT_43 //
+   saṃyojya vidhivad bījair mahābhūteṣu pañcasu /	saMyojya viDivat bIjEH mahABUtezu paQcasu /
+   sakale tattvaṃ saṃyojya pariṣṭhāpya pare 'dhvani // VT_44 //	sakale tattvam saMyojya parizWApya pare aDvani // VT_44 //
+   niyoktavyaṃ tatas tatra yatrāsavāṃsvaraparam? /	niyoktavyam tatas tatra yatra-Asa-vAMsvara-param? /
+   eṣā dīkṣā ya thānyāyaṃ bhuktimuktiphalapradā // VT_45 //	ezA dIkzA yaH TAnyAyam Bukti-mukti-Pala-pradA // VT_45 //
+   tair eva pañcabhis tattvaṃ sakale sakalātmikā /	tEH eva paQcaBiH tattvam sakale sakala-AtmikA /
+   niṣkale niṣkalā proktā sādhikārādhvanaḥ purā // VT_46 //	nizkale nizkalA proktA sADikAra-aDvanaH purA // VT_46 //
+   dīkṣayitvā tataḥ śiṣyān sādhikārapare sthitān /	dIkzayitvA tatas SizyAn sADikAra-pare sTitAn /
+   abhiṣicya svabījais tu bījān tebhyaḥ pradāpayet // VT_47 //	aBizicya sva-bIjEH tu bIjAn teByaH pradApayet // VT_47 //
+   nivedya samayān tasya hṛnmudrāṅgulidarśanāt /	nivedya samayAn tasya hRd-mudrA-aFguli-darSanAt /
+   anujñāṃ sādhakendrasya tasya dadyān mahātmanā // VT_48 //	anujQAm sADaka-indrasya tasya dadyAt mahAtmanA // VT_48 //
+   tataḥ svavidyānaivedyaṃ bhakṣayet sādhakottamaḥ /	tatas sva-vidyA-nEvedyam Bakzayet sADaka-uttamaH /
+   devyaḥ prītā bhavanty eva avaśiṣṭaṃ jale kṣipet // VT_49 //	devyaH prItAH Bavanti eva avaSizwam jale kzipet // VT_49 //
+   ācāryaṃ pūjayed bhaktyā sarvasvenāpare vidhā? /	AcAryam pUjayet BaktyA sarva-svena-apare viDA? /
+   praṇāmaiḥ śaktidānaiś ca yena vā tuṣyate guruḥ // VT_50 //	praNAmEH Sakti-dAnEH ca yena vA tuzyate guruH // VT_50 //
+   sragvī sitoṣṇīṣī caiva sarvālaṃkārabhūṣitaḥ /	sragvI sita-uzNIzI ca-eva sarva-alaMkAra-BUzitaH /
+   uccāsanasthaḥ prāgvaktraḥ kalpayet koṣamaṇḍale // VT_51 //	ucca-Asana-sTaH prAc-vaktraH kalpayet koza-maNxale // VT_51 //
+   gośakṛdbhasmaliptas tu śucau janavivarjite /	go-SakRt-Basma-liptaH tu SucO jana-vivarjite /
+   susame bhūmideśe tu prastāraṃ prastarec chuciḥ // VT_52 //	su-same BUmi-deSe tu prastAram prastaret SuciH // VT_52 //
+   caturasram ataḥ kṛtvā prastārarekham ujjvalam /	catur-asram atas kRtvA prastAra-reKam ujjvalam /
+   kuryād ekonapañcāśat koṣṭhakān tu samān śubhān // VT_53 //	kuryAt ekonapaQcASat kozWakAn tu samAn SuBAn // VT_53 //
+   śatārdhārdhāsanāsīnaṃ pañcavargāntabindukam /	Sata-arDa-arDa-Asana-AsInam paQcavarga-anta-bindukam /
+   śikhāsambhinnamūrdhāntaṃ kaṣākhyaṃ madhyakoṣṭhake // VT_54 //	SiKA-samBinna-mUrDA-antam kazAKyam maDya-kozWake // VT_54 //
+   vidigdikṣaṃsthakoṣṭheṣu tatpārśve bahir aṣṭasu /	vidiS-dikzaMsTa-kozWezu tad-pArSve bahis azwasu /
+   yaśavargān nyased devi aiśānyādiṣu tatkramāt // VT_55 //	yaSa-vargAn nyaset devi ESAnI-Adizu tad-kramAt // VT_55 //
+   āgneyādiṣu koṣṭheṣu napuṃsakacatuṣṭayam /	Agneya-Adizu kozWezu napuMsaka-catuzwayam /
+   aiśānyādikramād devi bījadvādaśakaṃ nyaset // VT_56 //	ESAnya-Adi-kramAt devi bIja-dvAdaSakam nyaset // VT_56 //
+   tṛtīyapaṭktikoṣṭheṣu caturthe pañcaviṃśakam /	tRtIya-pawkti-kozWezu caturTe paQcaviMSakam /
+   aiśānyādiṣu koṣṭheṣu bījāni kramaśo nyaset // VT_57 //	ESAnya-Adizu kozWezu bIjAni kramaSas nyaset // VT_57 //
+   prastāram evaṃ prastārya svaravarṇaṃ ca śobhane /	prastAram evam prastArya svara-varNam ca SoBane /
+   bījaṣoḍaśakaṃ caiva proddharet tu yathākramam // VT_58 //	bIja-zoxaSakam ca-eva prodDaret tu yaTAkramam // VT_58 //
+   kādipaṭktiṃ purākṛtya kramād vyastasamastakam /	kAdi-pawktim purA-AkRtya kramAt vyasta-samastakam /
+   koṣṭhaikādaśabījena saṃyuktaṃ pañcaviṃśakam // VT_59 //	kozWa-ekAdaSa-bIjena saMyuktam paQcaviMSakam // VT_59 //
+   ātmatattvam iti khyātaṃ vidyākhyaṃ catustriṃśakam /	Atma-tattvam iti KyAtam vidyA-AKyam catustriMSakam /
+   śivatattvaṃ tu deveśi triṃśakoṣṭheṣu saṃyutam // VT_60 //	Siva-tattvam tu deveSi triMSa-kozWezu saMyutam // VT_60 //
+   tattvatritayam etad dhi nyāsaṃ ca samudāhṛtam /	tattva-tritayam etat Di nyAsam ca samudAhRtam /
+   binduyuktāny aśesāṇi nyastavyāni yathākramam // VT_61 //	bindu-yuktAni aSesANi nyastavyAni yaTAkramam // VT_61 //
+   atrasiddhiḥ sthitā devi vijñeyā sādhakottamaiḥ /	atra-sidDiH sTitA devi vijQeyA sADaka-uttamEH /
+   pañcaviṃśatikoṣṭhasthaṃ prathamaṃ bījam ucyate // VT_62 //	paQcaviMSati-kozWa-sTam praTamam bIjam ucyate // VT_62 //
+   dvisaptakoṣṭhakaṃ bījaṃ dvitīyaṃ samudāhṛtam /	dvi-sapta-kozWakam bIjam dvitIyam samudAhRtam /
+   tṛtīyam aṣṭakoṣṭhasthaṃ binduyoniḥ caturthakam // VT_63 //	tRtIyam azwakozWa-sTam bindu-yoniH caturTakam // VT_63 //
+   caturviṃśatikoṣṭhasthaṃ pañcamaṃ bījam ucyate /	caturviMSati-kozWa-sTam paQcamam bIjam ucyate /
+   bījāni devadevīnāṃ nirṇītāni yathākramam // VT_64 //	bIjAni deva-devInAm nirNItAni yaTAkramam // VT_64 //
+   kālabaddhānilair bījaiḥ kalāyatheṣṭhayā yutam /	kAla-badDa-anilEH bIjEH kalA-yaTezWayA yutam /
+   [em. Sanderson: kālavahnyanilair bījaiḥ kalayā ṣaṣṭhayā yutam]	[em. SandeH-son: kAla-vahni-anilEH bIjEH kalayA zazWayA yutam]
+   ardhendu binduśikhayā saṃnibhāni krameṇa tu // VT_65 //	arDa-indu bindu-SiKayA saMniBAni krameNa tu // VT_65 //
+   [em. Sanderson: ardhendubinduśikhayā saṃbhinnāni yathākramam]	[em. SandeH-son: arDa-indu-bindu-SiKayA saMBinnAni yaTAkramam]
+   bījapañcakam uddhṛtya kathitaṃ devi te kramāt /	bIja-paQcakam udDRtya kaTitam devi te kramAt /
+   kūṭasthās tu smṛtā bījāḥ pañca caiva varānane // VT_66 //	kUwasTAH tu smRtAH bIjAH paQca ca-eva varAnane // VT_66 //
+   bījapañcakam abhyasya sarvakāmaphalapradam /	bIja-paQcakam aByasya sarva-kAma-Pala-pradam /
+   yajanaṃ sampravakṣyāmi sarvasiddhipradāyakam // VT_67 //	yajanam sampravakzyAmi sarva-sidDi-pradAyakam // VT_67 //
+   karasaṃskāram ādau tu kṛtvānena krameṇa tu /	kara-saMskAram AdO tu kRtvA-anena krameNa tu /
+   vakṣyamāṇena cānena digbandhaśodhyam eva hi // VT_68 //	vakzyamANena ca-anena digbanDa-SoDyam eva hi // VT_68 //
+   saṃhārāstreṇa digbandhaḥ prāṇāyāmapuraḥsaraḥ /	saMhAra-astreNa digbanDaH prANAyAma-puraHsaraH /
+   prāṇāyāmais tribhir devi ātmānaṃ tu viśodhayet // VT_69 //	prANAyAmEH triBiH devi AtmAnam tu viSoDayet // VT_69 //
+   niṣkramya recayed vāyuṃ navaṃ cākṛṣya pūrayet /	nizkramya recayet vAyum navam ca-AkRzya pUrayet /
+   nirodhe kumbhakaḥ proktaḥ prāṇāyāmaṃ prakīrtitam // VT_70 //	niroDe kumBakaH proktaH prANAyAmam prakIrtitam // VT_70 //
+   dhyātvā kālāgnibījaṃ tu yugāntānalasaprabham /	DyAtvA kAlAgni-bIjam tu yugAnta-anala-sapraBam /
+   nyaset pādatale mantrī jvālāmālākulaṃ mahat // VT_71 //	nyaset pAda-tale mantrI jvAlA-mAlA-Akulam mahat // VT_71 //
+   nirdahec cātmadehaṃ tu vāriṇāplāvayet tataḥ /	nirdahet ca-Atma-deham tu vAriNA-AplAvayet tatas /
+   dagdhvā tu prākṛtaṃdehaṃ bhasmakūṭam iva sthitam // VT_72 //	dagDvA tu prAkRtaMdeham Basma-kUwam iva sTitam // VT_72 //
+   tataś cāmṛtadhārābhir vidyādehaṃ vicintayet /	tatas ca-amRta-DArABiH vidyA-deham vicintayet /
+   sravantaṃ mūrdhni paramaṃ praṇavaṃ ca adhomukham // VT_73 //	sravantam mUrDni paramam praNavam ca aDomuKam // VT_73 //
+   vāruṇāmṛtasaṃyuktaṃ śuddhasphaṭikanirmalam /	vAruNa-amRta-saMyuktam SudDa-sPawika-nirmalam /
+   kaṣākhyaṃ yat smṛtaṃ bījaṃ rephadvayasamāyutam // VT_74 //	kazAKyam yat smRtam bIjam rePa-dvaya-samAyutam // VT_74 //
+   adha oṃkārasaṃyuktaṃ ūrdhvaṃ bindukabhūṣitam /	aDas oMkAra-saMyuktam UrDvam binduka-BUzitam /
+   anenaiva tu bījena śikhayā bhinnamastakam // VT_75 //	anena-eva tu bIjena SiKayA Binna-mastakam // VT_75 //
+   dhāraṇāyogamārgeṇa nirdahet sādhakottamaḥ /	DAraNA-yoga-mArgeNa nirdahet sADaka-uttamaH /
+   dehaṃ saṃśodhayen mantrī ghorapāpaṃ tu kalmaṣam // VT_76 //	deham saMSoDayet mantrI Gora-pApam tu kalmazam // VT_76 //
+   nyāsam ālabhanaṃ kuryād bhaven mantrātmavigrahaḥ /	nyAsam AlaBanam kuryAt Bavet mantra-Atma-vigrahaH /
+   digbandhabhūmiṃ saṃśodhya cakraśuddhyartham eva ca // VT_77 //	digbanDa-BUmim saMSoDya cakra-SudDi-arTam eva ca // VT_77 //
+   saṃhārāstreṇa kurvīta vighnoccāṭanam eva ca /	saMhAra-astreNa kurvIta viGna-uccAwanam eva ca /
+   hastau saṃśodhayet paścād vidhir eṣa prakīrtitaḥ // VT_78 //	hastO saMSoDayet paScAt viDiH eza prakIrtitaH // VT_78 //
+   kṛtvā tu vidhivan mantrī tataḥ karma samārabhet /	kRtvA tu viDivat mantrI tatas karma samAraBet /
+   āmaṇibandhanāt pūrvaṃ bharamākhāś ? ca vinyaset // VT_79 //	AmaNibanDanAt pUrvam BaramAKAH ? ca vinyaset // VT_79 //
+   aṭguṣṭhādikaniṣṭhāntaṃ nyased vai bījapañcakam /	awguzWa-Adi-kanizWA-antam nyaset vE bIja-paQcakam /
+   aṭguṣṭhād ye tu ye parvā karayor ubhayor api // VT_80 //	awguzWAt ye tu ye parvA karayoH uBayoH api // VT_80 //
+   ātmatattvaṃ nyasenmūrdhni vidyātattvaṃ dvitīyake /	Atma-tattvam nyaset-mUrDni vidyA-tattvam dvitIyake /
+   śivaṃ dadyāt tṛtīyeṣu sarvasiddhiṣu bhāmini // VT_81 //	Sivam dadyAt tRtIyezu sarva-sidDizu BAmini // VT_81 //
+   adhastād ātmatattvaṃ tu vidyātattvaṃ tu madhyataḥ /	aDastAt Atma-tattvam tu vidyA-tattvam tu maDyatas /
+   śivatattvaṃ nyasen mūrdhni haste dehe punaḥ kramāt // VT_82 //	Siva-tattvam nyaset mUrDni haste dehe punar kramAt // VT_82 //
+   evaṃ tattvatrayaṃ nyasya tathā kūṭākṣarāṇi tu /	evam tattva-trayam nyasya taTA kUwa-akzarANi tu /
+   bhūyaś cottarabījāni vinyaset tu varānane // VT_83 //	BUyas ca-uttara-bIjAni vinyaset tu varAnane // VT_83 //
+   astraṃ caiva tu vinyasya visphuliṭgasamaprabham /	astram ca-eva tu vinyasya visPuliwga-sama-praBam /
+   māyayācchādayitvā tu aṭkuśena nirodhayet // VT_84 //	mAyayA-AcCAdayitvA tu awkuSena niroDayet // VT_84 //
+   yonimudrāṃ tato baddhvā kuryāt [tu] sakalāṃ tanum /	yonimudrAm tatas badDvA kuryAt [tu] sakalAm tanum /
+   etad ālabhanaṃ caiva tava devi prakīrtitam // VT_85 //	etat AlaBanam ca-eva tava devi prakIrtitam // VT_85 //
+   aṭguṣṭhau grathitau kṛtvā karayor ubhayor api /	awguzWO graTitO kRtvA karayoH uBayoH api /
+   tarjanīṃ vāmahaste tu prasāryākuñcayed budhaḥ // VT_86 //	tarjanIm vAma-haste tu prasArya-AkuQcayet buDaH // VT_86 //
+   eṣā nirodhanī proktā mudreyam aṭkuśasya tu /	ezA niroDanI proktA mudrA-iyam awkuSasya tu /
+   vaśyākarṣaṇakāryeṣu prayojyā sādhakottamaiḥ // VT_87 //	vaSya-AkarzaNa-kAryezu prayojyA sADaka-uttamEH // VT_87 //
+   tarjanī madhyamā caiva anāmā dakṣiṇasya tu /	tarjanI maDyamA ca-eva anAmA dakziNasya tu /
+   vāme trīṇi samākramya aṭguṣṭhau ca susaṃsthitau // VT_88 //	vAme trINi samAkramya awguzWO ca su-saMsTitO // VT_88 //
+   adhastāt sarvataḥ proktā dakṣiṇā tu kaniṣṭhikā /	aDastAt sarvatas proktA dakziNA tu kanizWikA /
+   tarjanyaṭguṣṭhayor madhye yonimudrā prakīrtitā // VT_89 //	tarjan-I-awguzWayoH maDye yonimudrA prakIrtitAH // VT_89 //
+   ādyaṃ mūrdhni tato bījaṃ dvitīyaṃ mukhamaṇḍale /	Adyam mUrDni tatas bIjam dvitIyam muKa-maNxale /
+   kaṭyūrdhve ca tataś cānyaṃ caturthaṃ jānutaḥ kaṭim // VT_90 //	kawI-UrDve ca tatas ca-anyam caturTam jAnutaH kawim // VT_90 //
+   āpādajānunī cānyaṃ prasṛtaiś ca karaiḥ kramāt /	ApAdaja-anunI ca-anyam prasRtEH ca karEH kramAt /
+   evaṃ bījena dehas tu mucyate nātra saṃśayaḥ // VT_91 //	evam bIjena dehaH tu mucyate na-atra saMSayaH // VT_91 //
+   vajropalamahāvarṣaṃ coradaṃṣṭrībhayāvaham /	vajra-upala-mahA-varzam cora-daMzwrI-Baya-Avaham /
+   mucyate ca sadā rogair mṛtyurūpair durāsadaiḥ // VT_92 //	mucyate ca sadA rogEH mRtyu-rUpEH durAsadEH // VT_92 //
+   ahigaraviṣaśastra- jvarakuṣṭhakṣayādibhiḥ /	ahi-gara-viza-Sastra jvara-kuzWa-kzaya-AdiBiH /
+   mucyate nātra saṃdeho yo 'pi syāt pātakī naraḥ // VT_93 //	mucyate na-atra saMdehaH yaH api syAt pAtakI naraH // VT_93 //
+   upalipya śubhe deśe pracchanne janavarjite /	upalipya SuBe deSe pracCanne jana-varjite /
+   pūrvavad dhastamātraṃ tu likhitvā maṇḍalaṃ śubham // VT_94 //	pUrvavat Dasta-mAtram tu liKitvA maNxalam SuBam // VT_94 //
+   catuḥpattraṃ tu tatrābjaṃ sarvavarṇitakarṇikām /	catur-pattram tu tatra-abjam sarva-varNita-karNikAm /
+   sitaraktapītakṛṣṇāṃ pūrvādidalasaṃsthitām // VT_95 //	sita-rakta-pIta-kRzNAm pUrva-Adi-dala-saMsTitAm // VT_95 //
+   jayādyaṃ vinyasen mantrī tumburuṃ karṇikopari /	jaya-Adyam vinyaset mantrI tumburum karNikA-upari /
+   padmāsanopaviṣṭaṃ tu varadānodyatakaram // VT_96 //	padmAsana-upavizwam tu vara-dAna-udyata-karam // VT_96 //
+   caturvaktramaṣṭabhujaṃ catuṣkāyaṃ trilocanam /	catur-vaktram-azwa-Bujam catuzkAyam trilocanam /
+   nāgayajñopavītaṃtu śūlapāṇiṃ gadādharam // VT_97 //	nAga-yajQopavItaMtu SUlapANim gadADaram // VT_97 //
+   mukuṭena vicitreṇa śaśāṅkadhṛtaśekharam /	mukuwena vicitreNa SaSAFka-DRta-SeKaram /
+   śaktīnāṃ tu priyaṃ devaṃ pāśāṅkuśakaraprabham // VT_98 //	SaktInAm tu priyam devam pASa-aFkuSa-kara-praBam // VT_98 //
+   divyāmbarātapatreṇa divyasragbandhalepanam /	divya-ambara-AtapatreNa divya-sraj-banDa-lepanam /
+   devadevaṃ sadā dhyāyet sūryakoṭisamaprabham // VT_99 //	devadevam sadA DyAyet sUrya-kowi-sama-praBam // VT_99 //
+   kṣīrodaphalasaṃkāśāṃ vyāghrayajñopavītinīm /	kzIroda-Pala-saMkASAm vyAGra-yajQa-upavItinIm /
+   pretārūḍhāṃ caturvaktrāṃ gadākheṭakadhāriṇīm // VT_100 //	preta-ArUXAm catur-vaktrAm gadA-Kewaka-DAriNIm // VT_100 //
+   divyāmbarātapatreṇa hārakeyūrabhūṣitām /	divya-ambara-AtapatreNa hAra-keyUra-BUzitAm /
+   devadevīṃ jayāṃ dhyāyed dīpyamānāṃ svatejasā // VT_101 //	devadevIm jayAm DyAyet dIpyamAnAm sva-tejasA // VT_101 //
+   devasyābhimukho mantrī sasmitotphullalocanām /	devasya-aBimuKaH mantrI sa-smita-utPulla-locanAm /
+   dāḍimīkusumaprakhyāṃ suragopakasaprabhām // VT_102 //	dAximI-kusuma-praKyAm suragopaka-sapraBAm // VT_102 //
+   cāpodyatakarāṃ ghorāṃ matsyamāṃsasurāpriyām /	cApa-udyata-karAm GorAm matsya-mAMsa-surA-priyAm /
+   ulūke saṃsthitāṃ devīṃ hārakeyūrabhūṣitām // VT_103 //	ulUke saMsTitAm devIm hAra-keyUra-BUzitAm // VT_103 //
+   raktāmbarātapatreṇa vijayāṃ siddhidāṃ smaret /	rakta-ambara-AtapatreNa vijayAm sidDi-dAm smaret /
+   dhātucāmīkaraprakhyāṃ pītamālyāmbarapriyām // VT_104 //	DAtu-cAmIkara-praKyAm pIta-mAlya-ambara-priyAm // VT_104 //
+   ghaṇṭākhaṭvāṅgadharīṃ devīm aśvārūḍhāṃ mahābalām /	GaNwA-KawvAFga-DarIm devIm aSva-ArUXAm mahA-balAm /
+   sūryāyutapratīkāśīṃ sarvābharaṇabhūṣitām // VT_105 //	sUrya-ayuta-pratIkASIm sarva-ABaraNa-BUzitAm // VT_105 //
+   jayantīṃ dhyāyati kṣipraṃ siddhim āpnoti puṣkalām /	jayantIm DyAyati kzipram sidDim Apnoti puzkalAm /
+   bhinnāñjanasamaprakhyāṃ śarvarītimiraprabhām // VT_106 //	BinnAQjana-sama-praKyAm SarvarI-timira-praBAm // VT_106 //
+   kṛṣṇakauśeyasaṃvītāṃ muktikāmaṇibhūṣitām /	kRzNa-kOSeya-saMvItAm muktikAmaNi-BUzitAm /
+   divyaṃ vimānam ārūḍhāṃ gadākheṭakadhāriṇīm // VT_107 //	divyam vimAnam ArUXAm gadA-Kewaka-DAriNIm // VT_107 //
+   mahārāvādinirghoṣaiś cintayed aparājitām /	mahA-rAva-Adi-nirGozEH cintayet aparAjitAm /
+   gāyatrīṃ vā japantīṃ ca sphāṭikamaṇibhūṣitām // VT_108 //	gAyatrIm vA japantIm ca sPAwika-maNi-BUzitAm // VT_108 //
+   ṛgyajussāmātharvākhyaṃ gāyantīṃ vā tathaiva ca /	RgyajussAmATarva-AKyam gAyantIm vA taTA-eva ca /
+   sāvitrīṃ divyarūpāṃ tūpaniṣadgāyane ratām // VT_109 //	sAvitrIm divya-rUpAm tu-upanizad-gAyane ratAm // VT_109 //
+   devīnām agrasaṃsthaṃ kṛtabhṛkuṭimukhaṃ cintayed aṅkuśākhyaṃ	devInAm agra-saMsTam kRta-BRkuwi-muKam cintayet aFkuSa-AKyam
+   sampṛṣṭhe cāstrarājaṃ prakaṭitasumahāsṛkvaṇīlelihānam /	sampRzWe ca-astra-rAjam prakawita-su-mahA-asRkvaNI-lelihAnam /
+   saṃkruddhaṃ bhīṣayantaṃ nararudhiravasādigdhadāntākalālaṃ	saMkrudDam BIzayantam nara-ruDira-vasA-digDa-dAntA-kalAlam
+   ....... ....... ....... // VT_110 //	....... ....... ....... // VT_110 //
+   evaṃ dhyātvā viśālākṣi tataḥ pūjā pravartate /	evam DyAtvA viSAla-akzi tatas pUjA pravartate /
+   bhakṣyabhojyavidhānaiś ca gandhapuṣpādibhiḥ kramāt // VT_111 //	Bakzya-Bojya-viDAnEH ca ganDa-puzpa-AdiBiH kramAt // VT_111 //
+   pūjayet kūṭamadhyasthaṃ tatra madhye vidhānataḥ /	pUjayet kUwa-maDya-sTam tatra maDye viDAnataH /
+   bhūr evāyaṃ pādapadmair hṛdi vāmakare 'thavā // VT_112 //	BUH eva-ayam pAda-padmEH hRdi vAma-kare aTavA // VT_112 //
+   manasā pūjayen nityaṃ siddhikāmaḥ samāhitaḥ /	manasA pUjayet nityam sidDi-kAmaH samAhitaH /
+   mahāśaṅkhamayaṃ kuryād athavā kacchapasya tu // VT_113 //	mahA-SaFKa-mayam kuryAt aTavA kacCapasya tu // VT_113 //
+   sauvarṇaṃ rajataṃ tāmraṃ kulaṃ bhavati siddhidam /	sOvarNam rajatam tAmram kulam Bavati sidDi-dam /
+   gandhamaṇḍalake vāpi athavā bhasmamaṇḍale // VT_114 //	ganDa-maNxalake vA-api aTavA Basma-maNxale // VT_114 //
+   siddhārthamaṇḍale vāpi athavā hṛdi maṇḍale /	sidDArTa-maNxale vA-api aTavA hRdi maNxale /
+   kusumbhamaṇḍale vāpi puṣpamaṇḍalake 'pi vā // VT_115 //	kusumBa-maNxale vA-api puzpa-maNxalake api vA // VT_115 //
+   nāgakeśarajobhir vā likhitvā maṇḍalaṃ śubham /	nAgakeSa-rajoBiH vA liKitvA maNxalam SuBam /
+   muktidā siddhidā hy evaṃ bhavantīty avicāraṇāt // VT_116 //	mukti-dA sidDi-dAH hi evam Bavanti-iti avicAraNAt // VT_116 //
+   sampūjya ca yathānyāyaṃ gandhapuṣpādi yojayet /	sampUjya ca yaTAnyAyam ganDa-puzpa-Adi yojayet /
+   darśayed yonimudrāṃ tu kāle karmāṇi kārayet // VT_117 //	darSayet yonimudrAm tu kAle karmANi kArayet // VT_117 //
+   samutpanneṣu kāryeṣu prāṇadraviṇahāriṣu /	samutpannezu kAryezu prANa-draviNa-hArizu /
+   pūjitāḥ sādhakaṃ devyaḥ parirakṣanti putravat // VT_118 //	pUjitAH sADakam devyaH parirakzanti putra-vat // VT_118 //
+   śrīdevy uvāca	SrI-devI uvAca
+   atrāpi yāgam evoktaṃ viśeṣaḥ ko 'paraḥ prabho /	atra-api yAgam eva-uktam viSezaH kaH aparaH praBo /
+   yathā tu abhyāsamātreṇa siddhir bhavati kāmadā // VT_119 //	yaTA tu aByAsa-mAtreNa sidDiH Bavati kAma-dA // VT_119 //
+   kevalaṃ smaraṇād eva tathā tvaṃ vaktum arhasi /	kevalam smaraNAt eva taTA tvam vaktum arhasi /
+   praṇayasva prasādaś ca yadi cāsti maheśvara // VT_120 //	praNayasva prasAdaH ca yadi ca-asti maheSvaraH // VT_120 //
+   śrī īśvara uvāca	SrI ISvaraH uvAca
+   śṛṇuṣvaikamanā bhadre prākṛtaṃ tapasaḥ phalam /	SRNuzva-ekamanAH Badre prAkRtam tapasaH Palam /
+   praṇayād atulaṃ vāpi rahasyaṃ paramaṃ padam // VT_121 //	praNayAt atulam vA-api rahasyam paramam padam // VT_121 //
+   uttarottarayogena tantraṃ te kathitaṃ mayā /	uttara-uttara-yogena tantram te kaTitam mayA /
+   atrāntaram idaṃ jñānaṃ śrutvā bhavati nirvṛtiḥ // VT_122 //	atra-antaram idam jQAnam SrutvA Bavati nirvRtiH // VT_122 //
+   prastārya pūrvavad varṇaṃ proddhared bījapañcakam /	prastArya pUrvavat varNam prodDaret bIja-paQcakam /
+   pūrvavat kramayogena sarvakāmaprasiddhaye // VT_123 //	pUrvavat krama-yogena sarva-kAma-prasidDaye // VT_123 //
+   ādau dvātriṃśakaṃ bījaṃ yuktam ekonaviṃśati /	AdO dvAtriMSakam bIjam yuktam ekonaviMSati /
+   catustriṃśaṃ tato 'dhastād devadevaṃ prakalpayet // VT_124 //	catustriMSam tatas aDastAt devadevam prakalpayet // VT_124 //
+   jayā saptadaśaṃ bījaṃ yuktam ekādaśena tu /	jayA saptadaSam bIjam yuktam ekAdaSena tu /
+   tad eva vijayākhyātā kiṃ tu yuktaṃ na kena cit // VT_125 //	tat eva vijaya-AKyAtA kim tu yuktam na kena cit // VT_125 //
+   pañcaviṃśac chikhābhāji yuktam ekādaśena tu /	paQcaviMSat SiKA-BAji yuktam ekAdaSena tu /
+   ajitāyāḥ samuddiṣṭaṃ caturthyāḥ śṛṇu sāmpratam // VT_126 //	ajitAyAH samuddizwam caturTyAH SRNu sAmpratam // VT_126 //
+   varṇaikādaśasaṃyuktaṃ śambhusthaṃ pañcaviṃśakam /	varNa-ekAdaSa-saMyuktam SamBu-sTam paQcaviMSakam /
+   guhyam etat samuddiṣṭaṃ praṣṭavyaṃ nānyataḥ param // VT_127 //	guhyam etat samuddizwam prazwavyam na-anyatas param // VT_127 //
+   sarvakāmapradaṃ devi etad vai bījapañcakam /	sarva-kAma-pradam devi etat vE bIja-paQcakam /
+   uttaraṃ hṛdayaṃ hyetat sarvatantreṣu cottaram // VT_128 //	uttaram hRdayam hi-etat sarva-tantrezu ca-uttaram // VT_128 //
+   yāni kāni ca karmāṇi sarvāṇy etais tu kārayet /	yAni kAni ca karmANi sarvANi etEH tu kArayet /
+   pañcaviṃśatikoṣasthaṃ yuktaṃ vai ṣoḍaśena tu // VT_129 //	paQcaviMSati-koza-sTam yuktam vE zoxaSena tu // VT_129 //
+   astram etat samuddiṣṭam asmiṃs tantre ca suvrate /	astram etat samuddizwam asmin tantre ca suvrate /
+   punar etadbījayuktaṃ viṃśakena samanvitam // VT_130 //	punar etat-bIja-yuktam viMSakena samanvitam // VT_130 //
+   māyā hy eṣā samuddiṣṭā śivasyānantarūpiṇī /	mAyA hi ezA samuddizwA Sivasya-ananta-rUpiNI /
+   ādikoṣṭhakabījaṃ tu adhastāṣṭādaśasaṃyutam // VT_131 //	Adi-kozWaka-bIjam tu aDasta-azwAdaSa-saMyutam // VT_131 //
+   aṣṭatriṃśatikoṣasthaṃ tasyopari niyojayet /	azwatriMSati-koza-sTam tasya-upari niyojayet /
+   aṅkuśoddharaṇaṃ hy etad devīnāṃ saṃnirodhane // VT_132 //	aFkuSa-udDaraNam hi etat devInAm saMniroDane // VT_132 //
+   bindupuñjasametā hi nyastavyā tu yathākramam /	bindu-puQja-sametAH hi nyastavyA tu yaTAkramam /
+   pañcaviṃśatikoṣasthaṃ tad eva paramākṣaram // VT_133 //	paQcaviMSati-koza-sTam tat eva parama-akzaram // VT_133 //
+   navatriṃśasamāyuktaṃ bījaṃ gāyatrisaṃjñakam /	navatriMSa-samAyuktam bIjam gAyatri-saMjQakam /
+   etad bījavaraṃ divyaṃ yojyam ālabhanādike // VT_134 //	etat bIjavaram divyam yojyam AlaBana-Adike // VT_134 //
+   catustriṃśatikoṣasthaṃ pañcaviṃśatiyojitam /	catustriMSati-koza-sTam paQcaviMSati-yojitam /
+   sarvakarmasamuddiṣṭaṃ bījaṃ sāvitrisaṃjñitam // VT_135 //	sarva-karma-samuddizwam bIjam sAvitri-saMjQitam // VT_135 //
+   ardhenduśikhayā devi lāñchitāni tu pūrvavat /	arDa-indu-SiKayA devi lAQCitAni tu pUrvavat /
+   prayogaṃ cāsya vakṣyāmi siddhir yenāśu jāyate // VT_136 //	prayogam ca-asya vakzyAmi sidDiH yena-ASu jAyate // VT_136 //
+   prayogaṃ kāraṇaṃ devi granthaśāstram akāraṇam /	prayogam kAraNam devi granTa-SAstram akAraNam /
+   sarvatra sulabhaṃ śāstraṃ prayogaṃ tu sudurlabham // VT_137 //	sarvatra sulaBam SAstram prayogam tu su-durlaBam // VT_137 //
+   prayogarahitā mantrā naiva siddhipradāḥ smṛtāḥ /	prayoga-rahitAH mantrAH na-eva sidDi-pradAH smRtAH /
+   hṛtpadme yogavinyāsaṃ dhyātvā vai bījapañcakam /	hRd-padme yoga-vinyAsam DyAtvA vE bIja-paQcakam /
+   gatiṃ devaṃ tu vijñāya tataḥ karma samārabhet // VT_138 //	gatim devam tu vijQAya tatas karma samAraBet // VT_138 //
+   śrīdevy uvāca	SrI-devI uvAca
+   kīdṛśaḥ sa bhaved devo gatis tasya tu kīdṛśī /	kIdRSaH sa Bavet devaH gatiH tasya tu kIdRSI /
+   dehasthaṃ tu kathaṃ vidyād vaktum arhasi śaṅkara // VT_139 //	deha-sTam tu kaTam vidyAt vaktum arhasi SaFkara // VT_139 //
+   śrī īśvara uvāca	SrI ISvaraH uvAca
+   meḍhranābhyantare devi kandamūlākṛtir bhavet /	meXra-nABi-antare devi kanda-mUla-AkRtiH Bavet /
+   dvāsaptatisahasrāṇi nāḍīr ādhārasaṃsthitāḥ // VT_140 //	dvAsaptati-sahasrANi nAxIH ADAra-saMsTitAH // VT_140 //
+   nābhideśe sthito granthis tatra padmaṃ vyavasthitam /	nABi-deSe sTitaH granTiH tatra padmam vyavasTitam /
+   karṇikā padmamadhyasya tatra sādhyaṃ vyavasthitam // VT_141 //	karNikA padma-maDyasya tatra sADyam vyavasTitam // VT_141 //
+   karṇikāsuṣirānte tu yā kalā cordhvagāminī /	karNikA-suzira-ante tu yA kalA ca-UrDva-gAminI /
+   tasyā madhye sthito devaḥ sa tu dīpaśikhopamaḥ // VT_142 //	tasyAH maDye sTitaH devaH sa tu dIpa-SiKA-upamaH // VT_142 //
+   śuddhasphaṭikasaṃkāśaṃ visphuliṅgārkasaṃnibham /	SudDa-sPawika-saMkASam visPuliFga-arka-saMniBam /
+   vārimārutasaṃkīrṇaṃ vālāgraśatabhāgakam // VT_143 //	vAri-mAruta-saMkIrNam vAla-agra-Sata-BAgakam // VT_143 //
+   vāyuvāhanam ārūḍhaṃ śabdātītam anāmayam /	vAyuvAhanam ArUXam Sabda-atItam anAmayam /
+   sampratyayaṃ tu gamyo 'sau vahate dehamadhyataḥ // VT_144 //	sampratyayam tu gamyaH asO vahate deha-maDyatas // VT_144 //
+   iḍāmadhyagato vāpi piṅgalāntargato 'pi vā /	ixA-maDya-gataH vA-api piFgala-antargataH api vA /
+   suṣumnāntargataś caiva viṣuvaṃ samudāhṛtam // VT_145 //	suzumnA-antargataH ca-eva vizuvam samudAhRtam // VT_145 //
+   iḍā tu vāmajā proktā dakṣiṇe piṅgalā smṛtā /	ixA tu vAma-jA proktA dakziNe piFgalA smRtA /
+   anayor madhye suṣumnā tu sṛṣṭisaṃhārakārikā // VT_146 //	anayoH maDye suzumnA tu sRzwi-saMhAra-kArikAH // VT_146 //
+   iḍā śāntikapuṣṭyarthe mṛtyūccāṭana piṅgalā /	ixA SAntika-puzwi-arTe mRtyu-uccAwana piFgalA /
+   suṣumnā mokṣadā caiva jīvamārgānusāriṇī // VT_147 //	suzumnA mokza-dA ca-eva jIva-mArga-anusAriNI // VT_147 //
+   piṅgalāntargataṃ dhyātvā raktavarṇaṃ vicintayet /	piFgala-antargatam DyAtvA rakta-varNam vicintayet /
+   māraṇoccāṭanādīni tataḥ karmāṇi kārayet // VT_148 //	mAraNa-uccAwana-AdIni tatas karmANi kArayet // VT_148 //
+   amṛtāntargataṃ jñātvā dhyāyet tuhinasaṃnibham /	amRta-antargatam jQAtvA DyAyet tuhina-saMniBam /
+   śāntipuṣṭivaśākarṣaṃ tadā karmāṇi kārayet // VT_149 //	SAnti-puzwi-vaSa-Akarzam tadA karmANi kArayet // VT_149 //
+   vratayogādisaṃsiddhiṃ mūlamantreṣu kārayet /	vrata-yoga-Adi-saMsidDim mUlamantrezu kArayet /
+   tad atra japamātreṇa mantrī sādhayate kṣaṇāt // VT_150 //	tat atra japa-mAtreNa mantrI sADayate kzaNAt // VT_150 //
+   aprasūtā mṛtā yoṣit prāptayauvanam eva ca /	aprasUtA mRtAH yozit prApta-yOvanam eva ca /
+   tasyāḥ pāṃśulikāṃ gṛhya vāmabhāge vicakṣaṇaḥ // VT_151 //	tasyAH pAMSulikAm gRhya vAma-BAge vicakzaNaH // VT_151 //
+   likhen nāmākṣaraṃ tatra devīnām kūṭasaṃsthitam /	liKet nAma-akzaram tatra devInAm kUwa-saMsTitam /
+   vāmāṅgojjvalaraktena sādhakaḥ saṃyatavrataḥ // VT_152 //	vAma-aFga-ujjvala-raktena sADakaH saMyata-vrataH // VT_152 //
+   striyaṃ caiva likhet tatra gavāṃ rocanayā punaḥ /	striyam ca-eva liKet tatra gavAm rocanayA punar /
+   anulomair vihanyas tu vāmapādena cākramet // VT_153 //	anulomEH vihanyaH tu vAma-pAdena ca-Akramet // VT_153 //
+   tatkṣaṇād ānayec chīghraṃ yā strī dvādaśayojanāt /	tad-kzaNAt Anayet SIGram yA strI dvAdaSa-yojanAt /
+   puruṣasya tathā proktaṃ dakṣiṇāṅge tu kārayet // VT_154 //	puruzasya taTA proktam dakziNa-aFge tu kArayet // VT_154 //
+   athābhicārakaṃ kuryāt samidhānāṃ tathāsthibhiḥ /	aTa-aBicArakam kuryAt samiDAnAm taTA-asTiBiH /
+   rājikāviṣaraktāktaṃ śmaśāne homam ārabhet // VT_155 //	rAjikA-viza-rakta-aktam SmaSAne homam AraBet // VT_155 //
+   nagno muktaśikho bhūtvā kapālatrayasaṃsthitaḥ /	nagnaH mukta-SiKaH BUtvA kapAla-traya-saMsTitaH /
+   samidhāṣṭaśataṃ homaṃ rātrau kuryād vicakṣaṇaḥ // VT_156 //	samiDA-azwaSatam homam rAtrO kuryAt vicakzaNaH // VT_156 //
+   homānte tu tataḥ śakraṃ kṛṣṇavarṇam vicintayet /	homa-ante tu tatas Sakram kRzNa-varNam vicintayet /
+   triśūlena vinirbhinnaṃ daṇḍena tāḍitaṃ śiraḥ // VT_157 //	triSUlena vinirBinnam daNxena tAxitam SiraH // VT_157 //
+   sādhako ghorarūpeṇa kruddhaḥ saṃraktalocanaḥ /	sADakaH Gora-rUpeNa krudDaH saMrakta-locanaH /
+   saptāhān nāśayed indraṃ kiṃ punar mānuṣādikam // VT_158 //	sapta-ahAt nASayet indram kim punar mAnuza-Adikam // VT_158 //
+   tyaktena tu kusumbhena śatenāṣṭottareṇa tu /	tyaktena tu kusumBena Satena-azwa-uttareNa tu /
+   trisandhyaṃ dhārayed rātrau agnikāryaṃ tu kārayet // VT_159 //	trisanDyam DArayet rAtrO agni-kAryam tu kArayet // VT_159 //
+   sādhyaṃ tu sādhakaś caiva raktavarṇaṃ vicintayet /	sADyam tu sADakaH ca-eva rakta-varNam vicintayet /
+   homānte tu dhyāyet sādhyaṃ vihvalaṃ ca sammūrchitam // VT_160 //	homa-ante tu DyAyet sADyam vihvalam ca sammUrCitam // VT_160 //
+   aṅkuśena hato mūrdhni māyāpāśena veṣṭitam /	aFkuSena hataH mUrDni mAyA-pASena vezwitam /
+   rājānaṃ rājapatnīṃ vā saptāhād vaśam ānayet // VT_161 //	rAjAnam rAja-patnIm vA sapta-ahAt vaSam Anayet // VT_161 //
+   gṛhītvā tu mahāmāṃsaṃ dadhimadhvājyasaṃyutam /	gRhItvA tu mahAmAMsam daDi-maDu-Ajya-saMyutam /
+   āhutyaṣṭasahasreṇa sadyotkarṣaṇam uttamam // VT_162 //	Ahuti-azwa-sahasreNa sadya-utkarzaNam uttamam // VT_162 //
+   ātmanaḥ sādhyabījaṃ ca pañcadevyā catuṣṭayam /	AtmanaH sADya-bIjam ca paQcadevyA catuzwayam /
+   nāḍīmadhyagataṃ dhyātvā ekīkṛtya vicakṣaṇaḥ // VT_163 //	nAxI-maDya-gatam DyAtvA ekIkRtya vicakzaNaH // VT_163 //
+   nāḍīmārgānusāreṇa praveśya sādhyavigraham /	nAxI-mArga-anusAreNa praveSya sADya-vigraham /
+   anenaiva prayogeṇa trailokyaṃ vaśam ānayet // VT_164 //	anena-eva prayogeNa trElokyam vaSam Anayet // VT_164 //
+   ata uccāṭanaṃ kuryāc chatrūṇāṃ baladarpitām /	atas uccAwanam kuryAt SatrUNAm bala-darpitAm /
+   śuṣkāṇi nimbapattrāṇi dhvajāgrāṇi tathaiva ca // VT_165 //	SuzkANi nimba-pattrANi Dvaja-agrANi taTA-eva ca // VT_165 //
+   nṛvālaṃ citibhasmaṃ ca kākapakṣāgrapicchakam /	nR-vAlam citi-Basmam ca kAkapakza-agra-picCakam /
+   kaṭutailaviṣaṃ raktaṃ tenāloḍya tu homayet // VT_166 //	kawutEla-vizam raktam tena-Aloxya tu homayet // VT_166 //
+   caṇḍālāgniṃ samāhṛtya citikāṣṭhaṃ samindhayet /	caNxAla-agnim samAhRtya citi-kAzWam saminDayet /
+   uccāṭayet trirātreṇa tyaktabandhusuhṛjjanān // VT_167 //	uccAwayet tri-rAtreNa tyakta-banDu-suhRd-janAn // VT_167 //
+   vāmahastatale candraṃ dhyātvā sampūrṇamaṇḍalam /	vAma-hasta-tale candram DyAtvA sampUrNa-maNxalam /
+   bījapañcakasaṃyuktaṃ yasya taṃ darśayet karam // VT_168 //	bIja-paQcaka-saMyuktam yasya tam darSayet karam // VT_168 //
+   darśanād vaśam āyānti ye 'pi hantuṃ samudyatāḥ /	darSanAt vaSam AyAnti ye api hantum samudyatAH /
+   yaṃ yaṃ spṛśati hastena dāsatvam upagacchati // VT_169 //	yam yam spRSati hastena dAsa-tvam upagacCati // VT_169 //
+   dakṣiṇe 'py eva vai haste vinyased ravimaṇḍalam /	dakziNe api eva vE haste vinyaset ravi-maNxalam /
+   yaṃ spṛśed darśayed yaṃ tu vidviṣṭāḥ suhṛdāny api // VT_170 //	yam spRSet darSayet yam tu vidvizwAH suhRdAni api // VT_170 //
+   nimbasthavāyasaṃ gṛhya śvapākenāvatāritam /	nimba-sTa-vAyasam gRhya SvapAkena-avatAritam /
+   bījair etair viparyastais tailābhyaktaṃ citāhutam // VT_171 //	bIjEH etEH viparyastEH tEla-aByaktam citA-hutam // VT_171 //
+   tad bhasma viṣaraktāktaṃ kṛṣṇānte raktavāsasaḥ /	tat Basma viza-rakta-aktam kRzNa-ante rakta-vAsasaH /
+   parijapya sahasraṃ tu vilomair bījapañcakaiḥ // VT_172 //	parijapya sahasram tu vilomEH bIja-paQcakEH // VT_172 //
+   yaṃ spṛśed bhasmanā tena kākavad bhramate mahīm /	yam spRSet BasmanA tena kAka-vat Bramate mahIm /
+   vidviṣṭaḥ sarvalokānāṃ yadi śakrasamo bhavet // VT_173 //	vidvizwaH sarva-lokAnAm yadi Sakra-samaH Bavet // VT_173 //
+   yathātmani tathā sādhye bījaṣoḍaśakaṃ nyaset /	yaTA-Atmani taTA sADye bIja-zoxaSakam nyaset /
+   javāpuṣpasamaprakhyau dvāv etau paricintayet // VT_174 //	javApuzpa-sama-praKyO dvO etO paricintayet // VT_174 //
+   jātīhiṅgulakapakṣau lākṣārasasamaprabhau /	jAtI-hiFgulaka-pakzO lAkzA-rasa-sama-praBO /
+   padmasampuṭamadhyasthau ubhau tau sādhyasādhakau // VT_175 //	padma-sampuwa-maDya-sTO uBO tO sADya-sADakO // VT_175 //
+   aṅkuśaṃ sādhyaguhye tu daṇḍaṃ cātmani guhyataḥ /	aFkuSam sADya-guhye tu daNxam ca-Atmani guhyataH /
+   kusumbharaktasaṃkāśau māyātantvabhiveṣṭitau // VT_176 //	kusumBa-rakta-saMkASO mAyA-tantu-aBivezwitO // VT_176 //
+   pañcarātraṃ trirātraṃ vā niḥśabdo dhyānapāragaḥ /	paQca-rAtram tri-rAtram vA niHSabdaH DyAna-pAragaH /
+   vaśam ānayate kṣipraṃ nṛpatiṃ mānagarvitam // VT_177 //	vaSam Anayate kzipram nRpatim mAna-garvitam // VT_177 //
+   dvijayoṣin mṛtā yā tu tasyā gṛhyaṃ tu karpaṭam /	dvija-yozit mRtA yA tu tasyAH gRhyam tu karpawam /
+   kṛṣṇacaturdaśyāṃ gṛhītvā cityaṅgārais tadudbhavaiḥ // VT_178 //	kRzNa-caturdaSyAm gRhItvA citi-aFgArEH tad-udBavEH // VT_178 //
+   bījair vidarbhitaṃ nāma yasya yasya ca veśmani /	bIjEH vidarBitam nAma yasya yasya ca veSmani /
+   nikhanyate sa vai kṣipraṃ prayāti yamasādanam // VT_179 //	niKanyate sa vE kzipram prayAti yama-sAdanam // VT_179 //
+   tato vidyāvrataślāghī kīrtyādibhir alaṃkṛtaḥ /	tatas vidyA-vrata-SlAGI kIrti-AdiBiH alaMkRtaH /
+   sādhyate 'nena prayogeṇa mriyate cāvikalpataḥ // VT_180 //	sADyate anena prayogeNa mriyate ca-avikalpataH // VT_180 //
+   gavāṃ rocanayā caiva yasya nāma vidarbhitam /	gavAm rocanayA ca-eva yasya nAma vidarBitam /
+   bījair etaiḥ samāyuktair ālikhya prakṣiped budhaḥ // VT_181 //	bIjEH etEH samAyuktEH AliKya prakzipet buDaH // VT_181 //
+   pātraṃ madhvājyasampūrṇaṃ śatam āvartayed drutam /	pAtram maDu-Ajya-sampUrNam Satam Avartayet drutam /
+   mumukṣor api tasyāstraṃ śāntipuṣṭiś ca jāyate // VT_182 //	mumukzoH api tasya-astram SAnti-puzwiH ca jAyate // VT_182 //
+   śatajapto jalenāpi tato vā mucyate sadā /	Sata-japtaH jalena-api tatas vA mucyate sadA /
+   vyādhighātasamidbhis tu vyādhinātyantapīḍitaḥ // VT_183 //	vyADi-GAta-samidBiH tu vyADinA-atyanta-pIxitaH // VT_183 //
+   aṣṭottaraśatenaiva āhutīnāṃ na saṃśayaḥ /	azwottaraSatena-eva AhutInAm na saMSayaH /
+   kṣīrāktena tu deveśi rogī rogād vimucyate // VT_184 //	kzIra-aktena tu deveSi rogI rogAt vimucyate // VT_184 //
+   juhoti yas tu satataṃ dravyaṃ tasya gṛhe tu yat /	juhoti yaH tu satatam dravyam tasya gRhe tu yat /
+   kurvanto 'pi vyayaṃ nityam akṣayatvaṃ ca gacchati // VT_185 //	kurvantaH api vyayam nityam akzaya-tvam ca gacCati // VT_185 //
+   nityaṃ kālajapenāpi sarveṣāṃ jāyate priyaḥ /	nityam kAla-japena-api sarvezAm jAyate priyaH /
+   tejasvī balasampanno nāpy asau pīḍyate bhayaiḥ // VT_186 //	tejasvI bala-sampannaH na-api asO pIxyate BayEH // VT_186 //
+   śrīkāmaḥ śrīphalaṃ juhyāt padmaṃ cājyamadhuplutam /	SrI-kAmaH SrIPalam juhyAt padmam ca-Ajya-maDu-plutam /
+   lakṣaikena mahāvitto mantrī lakṣadvayena tu // VT_187 //	lakza-ekena mahA-vittaH mantrI lakza-dvayena tu // VT_187 //
+   lakṣatrayeṇa pṛthvīśo nirjitārir bhaved dhruvam /	lakza-trayeNa pRTvISaH nirjita-ariH Bavet Druvam /
+   sarvakāmas tilaṃ juhyāt prāpnuyāt tu na saṃśayaḥ // VT_188 //	sarva-kAmaH tilam juhyAt prApnuyAt tu na saMSayaH // VT_188 //
+   lakṣeṇaikena deveśi sādhakaḥ sa jitendriyaḥ /	lakzeNa-ekena deveSi sADakaH sa jita-indriyaH /
+   tyaktena naramāṃsena chāgasya piśitena vā // VT_189 //	tyaktena nara-mAMsena CAgasya piSitena vA // VT_189 //
+   lakṣamātrahutenāśu yad iṣṭaṃ tad avāpnuyāt /	lakza-mAtra-hutena-ASu yat izwam tat avApnuyAt /
+   kṛṣṇāgopayasā sārdhaṃ nṛmāṃsaṃ taṇḍulānvitam // VT_190 //	kRzNA-go-payasA sArDam nR-mAMsam taNxula-anvitam // VT_190 //
+   pāyasaṃ śavavaktre tu juhuyāt tāvatandritaḥ /	pAyasam Sava-vaktre tu juhuyAt tO=-atandritaH /
+   yāvad uttiṣthate pretaḥ kiṃ karomīti so 'bravīt // VT_191 //	yAvat uttizTate pretaH kim karomi-iti saH abravIt // VT_191 //
+   mārgitavyaṃ yad iṣtaṃ tu labhanīyaṃ yaśasvini /	mArgitavyam yat iztam tu laBanIyam yaSasvini /
+   guḍikāñjanapādukaṃ khanyaṃ vā rājyam eva ca // VT_192 //	guxikA-aQjana-pAdukam Kanyam vA rAjyam eva ca // VT_192 //
+   (em.: guḍikāñcanapādūṃ ? ca Ed)	(em.: guxi-kAQcana-pAdUm ? ca Ed)
+   vidhānaṃ śakranāśaṃ ca pādaleparasāyanam /	viDAnam Sakra-nASam ca pAda-lepa-rasAyanam /
+   eteṣāṃ prārthitaṃ caikaṃ dattvāgacchati nānyathā // VT_193 //	etezAm prArTitam ca-ekam dattvA-AgacCati na-anyaTA // VT_193 //
+   uddhatā yā mṛtā yoṣit tasyā gṛhyāṅgulīyakam /	udDatA yA mRtA yozit tasyAH gRhya-aFgulIyakam /
+   abhimantrya imair bījair anulomaiḥ śatena tu // VT_194 //	aBimantrya imEH bIjEH anulomEH Satena tu // VT_194 //
+   aṣtādhikena mantrajñaḥ sādhyanāma vidarbhayet /	azta-aDikena mantra-jQaH sADya-nAma vidarBayet /
+   yasyā dadāti tadvad āste striyāyāḥ sādhakottamaḥ // VT_195 //	yasyAH dadAti tadvat Aste striyAyAH sADaka-uttamaH // VT_195 //
+   ākarṣyati tāṃ kṣipraṃ yadi syād urvaśīsamā /	Akarzyati tAm kzipram yadi syAt urvaSI-samA /
+   yojanānāṃ śatasyāpi dūreṇāpi samarpitam // VT_196 //	yojanAnAm Satasya-api dUreNa-api samarpitam // VT_196 //
+   puruṣasya bhaved devi uddhatasya yaśasvini /	puruzasya Bavet devi udDatasya yaSasvini /
+   kākamāṃsaṃ gṛhītvā tu nimbatailasamāyutam // VT_197 //	kAka-mAMsam gRhItvA tu nimba-tEla-samAyutam // VT_197 //
+   śmaśānāgniṃ samādhāya śigrukāṣṭhena sādhayet /	SmaSAna-agnim samADAya Sigru-kAzWena sADayet /
+   juhuyāt saptarātraṃ tu yasya nāmnā tu sādhakaḥ // VT_198 //	juhuyAt sapta-rAtram tu yasya nAmnA tu sADakaH // VT_198 //
+   vidviṣto dṛśyate loke eṣa vidveṣaṇaṃ param /	vidviztaH dRSyate loke eza vidvezaNam param /
+   ato 'nyat sampravakṣyāmi rahasyam idam adbhutam // VT_199 //	atas anyat sampravakzyAmi rahasyam idam adButam // VT_199 //
+   yad viditvā maheśāni siddhim āpnoti puṣkalām /	yat viditvA maheSAni sidDim Apnoti puzkalAm /
+   svakāle samprayogeṇa siddhis tantreṣu kīrtitā // VT_200 //	sva-kAle samprayogeNa sidDiH tantrezu kIrtitAH // VT_200 //
+   tataḥ svakālaṃ kurvīta svāni karmāṇi sādhakaḥ /	tatas sva-kAlam kurvIta svAni karmANi sADakaH /
+   sādhyahṛtpadmasaṃsthaṃ tu dhyātvādau bījapañcakam // VT_201 //	sADya-hRd-padma-saMsTam tu DyAtu-A-AdO bIja-paQcakam // VT_201 //
+   kurvīta manasā pūjām itāyāpravato ? padā /	kurvIta manasA pUjAm itAya-apravataH ? padA /
+   māyayācchādayet paścāt sādhyam antobahiryutam // VT_202 //	mAyayA-AcCAdayet paScAt sADyam antobahis-yutam // VT_202 //
+   māyākamalanālena sādhyam āveṣtam ānayet /	mAyA-kamala-nAlena sADyam Aveztam Anayet /
+   tataḥ svātmīkam ānīya māyātattvaślathīkṛtam // VT_203 //	tatas sva-AtmIkam AnIya mAyA-tattva-SlaTIkRtam // VT_203 //
+   pun as tat sthāpayitvā tu sammukhaḥ sādhakottamaḥ /	pun aH tat sTApayitvA tu sammuKaH sADaka-uttamaH /
+   nyastavyaṃ tu yad ādau tu ? sādhye vai bījapañcakam // VT_204 //	nyastavyam tu yat AdO tu ? sADye vE bIja-paQcakam // VT_204 //
+   māyāveṣtitaṃ tan mantrī japed aṣṭaśataṃ tataḥ /	mAyA-veztitam tat mantrI japet azwaSatam tatas /
+   sādhyanāmākṣaropetaṃ tatprabuddhāsane sthitam // VT_205 //	sADya-nAma-akzara-upetam tad-prabudDa-Asane sTitam // VT_205 //
+   evaṃ devi tataḥ śīghraṃ dhvastajānuśiroruhaḥ /	evam devi tatas SIGram Dvasta-jAnu-SiroruhaH /
+   ākṛṣto vidhinānena sādhyaḥ kiṃkarito mahān // VT_206 //	AkRztaH viDinA-anena sADyaH kiMkaritaH mahAn // VT_206 //
+   ataḥ paraṃ pravakṣyāmi baddhe ruddhe 'pi mokṣaṇam /	atas param pravakzyAmi badDe rudDe api mokzaNam /
+   yathā saṃharate śakraṃ tatprayogam idaṃ śṛṇu // VT_207 //	yaTA saMharate Sakram tad-prayogam idam SRNu // VT_207 //
+   sādhyahṛtkamalāntaḥsthaṃ dhyātvaivaṃ bījapañcakam /	sADya-hRd-kamala-antar-sTam DyAtvA-evam bIja-paQcakam /
+   kurvīta pūrvavat pūjāṃ suṣumnāyāganirgadā ? // VT_208 //	kurvIta pUrvavat pUjAm suzumnA-yAga-nirgadAH ? // VT_208 //
+   saṃhārāstraṃ tato mantrī tumburuṃ mūrdhni vinyaset /	saMhAra-astram tatas mantrI tumburum mUrDni vinyaset /
+   devīnāṃ ca tatas tena sādhyam āvṛtya yogavit // VT_209 //	devInAm ca tatas tena sADyam AvRtya yoga-vid // VT_209 //
+   tatra yo mūrdhni tenaiva jvalitānalavarcasā /	tatra yaH mUrDni tena-eva jvalita-anala-varcasA /
+   dṛṣtvā taṃ manasā bhūyo mūrcchitaṃ bhuvi vihvalam // VT_210 //	dRztvA tam manasA BUyas mUrcCitam Buvi vihvalam // VT_210 //
+   hṛdi baddhvāṅkuśenaiva ānayed ātmano 'ntikam /	hRdi badDvA-aFkuSena-eva Anayet AtmanaH antikam /
+   tatas tvadhomukhaṃ sthāpya pīḍitaṃ chardayed asṛk // VT_211 //	tatas tu-aDomuKam sTApya pIxitam Cardayet asRk // VT_211 //
+   paścāt tu hṛdaye tasya nyastavyaṃ bījapañcakam /	paScAt tu hRdaye tasya nyastavyam bIja-paQcakam /
+   proddhṛtya sādhyanāmaivaṃ saṃhārāstravidarbhitam // VT_212 //	prodDRtya sADya-nAma-evam saMhAra-astra-vidarBitam // VT_212 //
+   evaṃ vigatarakṣaṃ tu syāpyudgataṃ tu ? tataḥ /	evam vigata-rakzam tu sya-api-udgatam tu ? tatas /
+   japed aṣṭasahasraṃ tu jvālāmālābhir āvṛtam // VT_213 //	japet azwa-sahasram tu jvAlA-mAlABiH AvRtam // VT_213 //
+   tatas tu karmaṇānena tenaiva tu vidhānataḥ /	tatas tu karmaNA-anena tena-eva tu viDAnataH /
+   sādhyaḥ prayāti nidhanaṃ mṛtyur āntima ? kampayet // VT_214 //	sADyaH prayAti niDanam mRtyuH Antima ? kampayet // VT_214 //
+   ity etat kathitaṃ devi samāsādyaṃ tu pūrvaśaḥ /	iti etat kaTitam devi samAsAdyam tu pUrvaSas /
+   yathā saṃharate śakraṃ baddhe ruddhe 'tha mokṣaṇāt // VT_215 //	yaTA saMharate Sakram badDe rudDe aTa mokzaNAt // VT_215 //
+   krodhena mahatā dīptaḥ prayogam idam ārabhet /	kroDena mahatA dIptaH prayogam idam AraBet /
+   suṣumnāyāṃ yadā devaḥ svayaṃcāreṇa vartate // VT_216 //	suzumnAyAm yadA devaH svayaMcAreNa vartate // VT_216 //
+   suṣumnāntargataṃ dhyātvā raktavarṇaṃ vicintayet /	suzumnA-antargatam DyAtvA rakta-varNam vicintayet /
+   vidveṣoccāṭanādīni tataḥ karmāṇi kārayet // VT_217 //	vidveza-uccAwana-AdIni tatas karmANi kArayet // VT_217 //
+   bījapañcakadevasya vargāntarayutasya ca /	bIja-paQcaka-devasya varga-antara-yutasya ca /
+   varṇāntayāgam ekānte sadā gopitaṃ tan mayā // VT_218 //	varNa-anta-yAgam ekAnte sadA gopitam tat mayA // VT_218 //
+   tadā tu sarvakāryāṇāṃ siddhaye śṛṇu suvrate /	tadA tu sarva-kAryANAm sidDaye SRNu suvrate /
+   kusumbharajasāloḍyaṃ śālīnāṃ piṣṭakena ca // VT_219 //	kusumBa-raja-sAloxyam SAlInAm pizwakena ca // VT_219 //
+   bhasmanā candanenāpi nāgakeśarajena vā /	BasmanA candanena-api nAgakeSara-jena vA /
+   sugandhaiś ca vicitraiś ca likhec ca susamāhitaḥ // VT_220 //	suganDEH ca vicitrEH ca liKet ca su-samAhitaH // VT_220 //
+   vargātītasya garbhe tu nyaset padmaṃ caturdalam /	varga-atItasya garBe tu nyaset padmam catur-dalam /
+   tatra sabhrātṛkā devyaḥ pūjayed bījapañcake // VT_221 //	tatra sa-BrAtRkA devyaH pUjayet bIja-paQcake // VT_221 //
+   evaṃ pūjitamātrās tu sarvadāsarvakāmadāḥ /	evam pUjita-mAtrAH tu sarvadA-sarva-kAma-dAH /
+   bhavanti niyataṃ[nityaṃ] dharmakāmārthamokṣadāḥ // VT_222 //	Bavanti niyataM[nityan] Darma-kAma-arTa-mokza-dAH // VT_222 //
+   yāgam evaṃ ca kṛtvānte tato lakṣatrayaṃ japet /	yAgam evam ca kRtvA-ante tatas lakza-trayam japet /
+   tataḥ siddhim avāpnoti brahmaghno 'pi hi nānyathā // VT_223 //	tatas sidDim avApnoti brahma-GnaH api hi na-anyaTA // VT_223 //
+   manasā cintitaṃ kāmaṃ tadā prabhṛtim āpnuyāt /	manasA cintitam kAmam tadA praBRtim ApnuyAt /
+   ataḥ paraṃ pravakṣyāmi japasya vidhim uttamam // VT_224 //	atas param pravakzyAmi japasya viDim uttamam // VT_224 //
+   ekāsanasthito mantrī yāgaṃ kṛtvā vidhānavit /	eka-Asana-sTitaH mantrI yAgam kRtvA viDAna-vid /
+   ekacittaḥ prasannātmā vāmahastākṣasūtradhṛk // VT_225 //	ekacittaH prasanna-AtmA vAma-hasta-akza-sUtra-DRk // VT_225 //
+   japakarma sadākuryād viśeṣam aparaṃ śṛṇu /	japa-karma sadA-akuryAt viSezam aparam SRNu /
+   vaśyakāmo japaṃ kuryād anulomair vidarbhitam // VT_226 //	vaSya-kAmaH japam kuryAt anulomEH vidarBitam // VT_226 //
+   bījair etair yathānyāyaṃ sādhyanāmākṣarānvitaiḥ /	bIjEH etEH yaTAnyAyam sADya-nAma-akzara-anvitEH /
+   kālaṃ tatra vijānīyāt kālasiddhiḥ pravartate // VT_227 //	kAlam tatra vijAnIyAt kAla-sidDiH pravartate // VT_227 //
+   māraṇe pratilomais tu sādhyanāma tu pūrvataḥ /	mAraNe pratilomEH tu sADya-nAma tu pUrvatas /
+   vidveṣe 'pi vilomais tu phaṭkārāntaṃ prayojayet // VT_228 //	vidveze api vilomEH tu PawkAra-antam prayojayet // VT_228 //
+   māraṇe pratilomais tu hūṃphatkārānta dyan ? takaiḥ /	mAraNe pratilomEH tu hUMPatkAra-anta dyan ? takEH /
+   oṃ svāhā namo 'ntais tu vaśyākarṣaṇakarmasu // VT_229 //	om svAhA namaH antEH tu vaSya-AkarzaNa-karmasu // VT_229 //
+   homayed evam evaṃ tu sarvaṃ kuryād vicakṣaṇaḥ /	homayet evam evam tu sarvam kuryAt vicakzaNaH /
+   namaskāro japasyānte svāhā home prakīrtitam // VT_230 //	namaskAraH japasya-ante svAhA home prakIrtitam // VT_230 //
+   svaśoṇitāktaṃ laśunaṃ māraṇe pratihomayet /	sva-SoNita-aktam laSunam mAraNe pratihomayet /
+   uccātane kākapakṣaṃ vaśye jātiṃ tu homayet // VT_231 //	uccAtane kAkapakzam vaSye jAtim tu homayet // VT_231 //
+   vidveṣe śleṣa śigruṃ ca homayed avicāraṇāt /	vidveze Sleza Sigrum ca homayet avicAraNAt /
+   ākarṣaṇe bakulapuṣpaṃ homayec ca vicakṣaṇaḥ // VT_232 //	AkarzaNe bakula-puzpam homayet ca vicakzaNaH // VT_232 //
+   sarve yāgasamuddiṣtāḥ kālajñasya yaśasvini /	sarve yAga-samuddiztAH kAla-jQasya yaSasvini /
+   yena kālaṃ ca vai jñātaṃ tena jñātaḥ sadāśivaḥ // VT_233 //	yena kAlam ca vE jQAtam tena jQAtaH sadASivaH // VT_233 //
+   sadāśive parijñāte siddhiṃ śāmyanti sādhakāḥ /	sadASive parijQAte sidDim SAmyanti sADakAH /
+   kālatattvaṃ ca vijñeyaṃ tattvātsiddhiḥ pravartate // VT_234 //	kAla-tattvam ca vijQeyam tattvAt-sidDiH pravartate // VT_234 //
+   tattvahīnā na sidhyanti prayatnenāpi sādhakāḥ /	tattva-hInAH na siDyanti prayatnena-api sADakAH /
+   tasmāt sarvaprayatnena kālatattvaṃ vidur budhāḥ // VT_235 //	tasmAt sarva-prayatnena kAla-tattvam viduH buDAH // VT_235 //
+   kriyākālaṃ ca vai śūnyaṃ na sidhyantīha sādhakāḥ /	kriyA-kAlam ca vE SUnyam na siDyanti-iha sADakAH /
+   tasmāt kriyāṃ ca kālaṃ ca asaṃjñeyaṃ prayatnataḥ // VT_236 //	tasmAt kriyAm ca kAlam ca asaMjQA-iyam prayatnataH // VT_236 //
+   śrīdevy uvāca	SrI-devI uvAca
+   sa kālaś ca kathaṃ jñeyo yo 'sāv uktas tvayā prabho /	sa kAlaH ca kaTam jQeyaH yaH asO uktaH tvayA praBo /
+   kālahīnānṛtaṃ manye sarvam eva ca śaṅkara // VT_237 //	kAla-hIna-anRtam manye sarvam eva ca SaFkara // VT_237 //
+   śrī īśvara uvāca	SrI ISvaraH uvAca
+   śṛṇu devi paraṃ guhyaṃ kālatattvātmavigraham /	SRNu devi param guhyam kAla-tattva-Atma-vigraham /
+   yaj jñātvā tu sukhenaiva siddhir bhavati mantriṇām // VT_238 //	yat jQAtvA tu suKena-eva sidDiH Bavati mantriNAm // VT_238 //
+   ayutaṃ dve ca vijñeyāḥ ṣoḍaśaiva śatāni ca /	ayutam dve ca vijQeyAH zoxaSa-eva SatAni ca /
+   caturviṃśatisaṃkrāntyā dvādaśāṅgulagatāgate // VT_239 //	caturviMSati-saMkrAntyA dvAdaSa-aFgula-gata-Agate // VT_239 //
+   śarīre tu yathā devi sthitaṃ sakalaniṣkalam /	SarIre tu yaTA devi sTitam sakala-nizkalam /
+   tathā haṃsaṃ pravakṣyāmi sādhakānāṃ hitāya vai // VT_240 //	taTA haMsam pravakzyAmi sADakAnAm hitAya vE // VT_240 //
+   pādau pāyur upastham ca hastau vāgindriyas tathā /	pAdO pAyuH upasTam ca hastO vAc-indriyaH taTA /
+   śrotratvakcakṣuṣā jihvā nāsikā ca tathāparā // VT_241 //	Srotra-tvac-cakzuzA jihvA nAsikA ca taTA-aparAH // VT_241 //
+   pṛthvy āpas tathā tejo vāyur ākāśam eva ca /	pRTvI ApaH taTA tejaH vAyuH AkASam eva ca /
+   śabdaḥ sparśaś ca rūpaṃ ca raso gandhas tathaiva ca // VT_242 //	SabdaH sparSaH ca rUpam ca rasaH ganDaH taTA-eva ca // VT_242 //
+   mano buddhir ahaṃkāro avyaktam puruṣas tathā /	manaH budDiH ahaMkAraH avyaktam puruzaH taTA /
+   pañcaviṃśatitattvāni śarīre tu vidur budhāḥ // VT_243 //	paQcaviMSati-tattvAni SarIre tu viduH buDAH // VT_243 //
+   ebhir ādhārabhūtais tu ādheyo dhyāyate sadā /	eBiH ADAra-BUtEH tu ADeyaH DyAyate sadA /
+   ādhāraṃ puram ity uktaṃ puruṣaś cādheya ucyate // VT_244 //	ADAram puram iti uktam puruzaH ca-ADeyaH ucyate // VT_244 //
+   hṛtpadme karṇikāvastha ūrdhvagāmī sadātmakaḥ /	hRd-padme karNikA-avasTaH UrDva-gAmI sat-AtmakaH /
+   niṣkalasya tu devasya punar ādhārasaṃsthitiḥ // VT_245 //	nizkalasya tu devasya punar ADAra-saMsTitiH // VT_245 //
+   tatpuruṣam ādhārādheyaṃ niṣkalaṃ paramaṃ śivam /	tatpuruzam ADAra-ADeyam nizkalam paramam Sivam /
+   ṣatkauśikaśarīraṃ tu tattvānāṃ pañcaviṃśatiḥ // VT_246 //	zat-kOSika-SarIram tu tattvAnAm paQcaviMSatiH // VT_246 //
+   daśavāyusamāyuktaṃ nāḍībhir vyāpitaṃ puram /	daSa-vAyu-samAyuktam nAxIBiH vyApitam puram /
+   śarīraṃ triguṇaṃ caiva sarvadaivatasaṃyutam // VT_247 //	SarIram triguNam ca-eva sarva-dEvata-saMyutam // VT_247 //
+   anenādhiṣthitaṃ devi cakravat parivartate /	anena-ADizTitam devi cakra-vat parivartate /
+   yathā tāragaṇaṃ sarvaṃ grahanakṣatramaṇḍalam // VT_248 //	yaTA tAra-gaNam sarvam graha-nakzatra-maNxalam // VT_248 //
+   dhruvādhiṣthitaṃ tat sarvam acalaṃ parivartate /	Druva-aDizTitam tat sarvam acalam parivartate /
+   tadvac charīraṃ devasya sarvabījagaṇaṃ hi yat // VT_249 //	tadvat SarIram devasya sarva-bIja-gaNam hi yat // VT_249 //
+   śivenādhiṣthitaṃ jñātvā tantre siddhim avāpnuyāt /	Sivena-ADizTitam jQAtvA tantre sidDim avApnuyAt /
+   trikubjikutilākārā ṣaṣṭhasvarasamanvitā // VT_250 //	tri-kubji-kutila-AkArA zazWa-svara-samanvitAH // VT_250 //
+   śaktir binduvinirbhinnā dehasthā sakalātmakā /	SaktiH bindu-vinirBinnA deha-sTA sakala-AtmakAH /
+   asyās tejaḥśikhā sūkṣmā mṛṇālatantusaṃnibhā // VT_251 //	asyAH tejaH-SiKA sUkzmA mRNAla-tantu-saMniBAH // VT_251 //
+   jyotirūpā ca sā jñeyā tasyānte tu punaḥ śivaḥ /	jyoti-rUpA ca sA jQeyA tasya-ante tu punar SivaH /
+   akārādikṣakārāntam ābrahmabhuvanaṃ jagat // VT_252 //	akAra-Adi-kzakAra-antam Abrahma-Buvanam jagat // VT_252 //
+   asmiṃś codpadyate sarvaṃ tatraiva pralayaṃ bhavet /	asmin ca-udpadyate sarvam tatra-eva pralayam Bavet /
+   eṣa devaḥ paraḥ sūkṣma ādhārādheyasaṃsthitaḥ // VT_253 //	eza devaH paraH sUkzmaH ADAra-ADeya-saMsTitaH // VT_253 //
+   ayane viṣuve caiva āgneyāmṛtakāraṇam /	ayane vizuve ca-eva Agneya-amRta-kAraNam /
+   yadā vāruṇamārgastha iḍāmadhyagato bhavet // VT_254 //	yadA vAruNa-mArga-sTaH ixA-maDya-gataH Bavet // VT_254 //
+   himakundendusaṃkāśo vijñeyaḥ śucikarmaṇi /	hima-kunda-indu-saMkASaH vijQeyaH Suci-karmaNi /
+   dvādaśādityasaṃkāśaḥ piṅgalāntargato yadā // VT_255 //	dvAdaSa-Aditya-saMkASaH piFgala-antargataH yadA // VT_255 //
+   aruṇānalasaṃkāśaṃ raudrakarmaṇi yojayet /	aruNa-anala-saMkASam rOdra-karmaNi yojayet /
+   suṣumnāyāṃ yadā deva upaśānto vahaty asau // VT_256 //	suzumnAyAm yadA devaH upaSAntaH vahati asO // VT_256 //
+   mokṣamārgam idaṃ devi jyotīrūpaṃ parāparam /	mokza-mArgam idam devi jyotIrUpam para-aparam /
+   eṣa devo gatiś caiva kālatattvātmavigrahaḥ // VT_257 //	eza devaH gatiH ca-eva kAla-tattva-Atma-vigrahaH // VT_257 //
+   sādhakasya hitārthāya paramārtham udāhṛtam /	sADakasya hita-arTAya parama-arTam udAhRtam /
+   etatsarvaṃ samākhyātaṃ kālatattvātmavigraham // VT_258 //	etat-sarvam samAKyAtam kAla-tattva-Atma-vigraham // VT_258 //
+   trisaṃsthe tu samāsena sarvatantreṣu siddhidam /	tri-saMsTe tu samAsena sarva-tantrezu sidDi-dam /
+   nāḍīsaṃsthaṃ yathā karma kurute mantriṇaḥ sadā // VT_259 //	nAxI-saMsTam yaTA karma kurute mantriNaH sadA // VT_259 //
+   tad ahaṃ sampravakṣyāmi śṛṇu tvaṃ ca varānane /	tat aham sampravakzyAmi SRNu tvam ca varAnane /
+   iḍā ca piṅgalā caiva nāḍyau dve samudāhṛte // VT_260 //	ixA ca piFgalA ca-eva nAxyO dve samudAhRte // VT_260 //
+   yato nityaṃ cared devaḥ kramaśaś ca nivartate /	yatas nityam caret devaH kramaSas ca nivartate /
+   tāny ātmavatakarmāṇi prayuktaṃ kurute prabhuḥ // VT_261 //	tAni Atmavata-karmANi prayuktam kurute praBuH // VT_261 //
+   sa eva kurute karma bījanāḍīprayogataḥ /	saH eva kurute karma bIja-nAxI-prayogataH /
+   ayaṃ kālaḥ samākhyātas tṛtvedaya ? samanvitaḥ // VT_262 //	ayam kAlaH samAKyAtaH tRtvedayaH ? samanvitaH // VT_262 //
+   dehastham kathitaṃ devi ṛtuyuktas tu sādhakaḥ /	deha-sTam kaTitam devi Rtu-yuktaH tu sADakaH /
+   jñātvā kālaṃ ca tattvaṃ tu tataḥ karma samārabhet // VT_263 //	jQAtvA kAlam ca tattvam tu tatas karma samAraBet // VT_263 //
+   śāntikaṃ pauṣtikaṃ cāpi vidveṣoccāṭanaṃ tathā /	SAntikam pOztikam ca-api vidveza-uccAwanam taTA /
+   vaśyākarṣaṇakaṃ kuryād yadi kālaṃ vijānate // VT_264 //	vaSya-AkarzaNakam kuryAt yadi kAlam vijAnate // VT_264 //
+   saumyāni saumyakāle tu raudre raudrāṇi kārayet /	sOmyAni sOmya-kAle tu rOdre rOdrANi kArayet /
+   anyakālakṛtaṃ karma vṛthā bhavati sādhake // VT_265 //	anya-kAla-kRtam karma vRTA Bavati sADake // VT_265 //
+   tasmāt sarvaprayatnena kāle karmāṇi kārayet /	tasmAt sarva-prayatnena kAle karmANi kArayet /
+   svaraktaṃ gocanaṃ caiva tathā sindūram eva ca // VT_266 //	sva-raktam gocanam ca-eva taTA sindUram eva ca // VT_266 //
+   kusumbharajaḥsammiśraṃ dadhimadhvājyasaṃyutam /	kusumBa-rajaH-sammiSram daDi-maDu-Ajya-saMyutam /
+   khadirai raktasamidhair athavā raktacandanaiḥ // VT_267 //	KadirEH rakta-samiDEH aTavA raktacandanEH // VT_267 //
+   atra digdhvā hunen mantrī saptāhād vaśam ānayet /	atra digDvA hunet mantrI sapta-ahAt vaSam Anayet /
+   pratimāṃ lavaṇamayīṃ kṛtvā śatābhimantritāṃ budhaḥ // VT_268 //	pratimAm lavaNa-mayIm kRtvA Sata-aBimantritAm buDaH // VT_268 //
+   pādau prabhṛti hotavyaṃ yāvad aṣṭaśataṃ bhavet /	pAdO praBRti hotavyam yAvat azwa-Satam Bavet /
+   trisandhyām ekacittas tu amoghavaśyatāṃ nayet // VT_269 //	tri-sanDyAm ekacittaH tu amoGa-vaSya-tAm nayet // VT_269 //
+   saikthīṃ tu pratimāṃ kṛtvā tryūṣaṇena tu lepayet /	sEkTIm tu pratimAm kRtvA tryUzaNena tu lepayet /
+   pratimāsu susampūrṇaṃ kaṇṭakair madanodbhavaiḥ // VT_270 //	pratimAsu su-sampUrNam kaNwakEH madana-udBavEH // VT_270 //
+   vidarbhya pādau guhyaṃ ca lalātaṃ ca vicakṣaṇaḥ /	vidarBya pAdO guhyam ca lalAtam ca vicakzaNaH /
+   kucayugme ca devīnām agrato nikhaneta tu // VT_271 //	kuca-yugme ca devInAm agratas niKaneta tu // VT_271 //
+   adhomukhāṃ viliptāṅgāṃ rājikālavaṇena tu /	aDomuKAm vilipta-aFgAm rAjikA-lavaNena tu /
+   vāmanāsikaraktena nāmamantrair vidarbhitām // VT_272 //	vAma-nAsika-raktena nAma-mantrEH vidarBitAm // VT_272 //
+   likhitvā hṛdaye kuryād vahniṃ prajvālya copari /	liKitvA hRdaye kuryAt vahnim prajvAlya ca-upari /
+   rājikālavaṇaṃ caiva hotavyāṣtaśataṃ budhaḥ // VT_273 //	rAjikA-lavaNam ca-eva hotavyAzta-Satam buDaH // VT_273 //
+   trisandhyām eva saptāhāt trailokyaṃ vaśam ānayet /	tri-sanDyAm eva sapta-ahAt trElokyam vaSam Anayet /
+   kulālakaranirmukta- mṛdā pratimayīkṛtā // VT_274 //	kulAla-kara-nirmukta mRdA pratimayIkRtA // VT_274 //
+   tenaiva kaṇtakair viddhvā svasthānasthais tu mantriṇaḥ /	tena-eva kaNtakEH vidDvA sva-sTAna-sTEH tu mantriNaH /
+   bhage vā athavā liṅge sanmantrāṇy aṣṭaśatāni tu // VT_275 //	Bage vE aTavA liFge sat-mantrANi azwa-SatAni tu // VT_275 //
+   sūtrayed guhyadeśe tu gṛṇan mantraṃ tu sarvadā /	sUtrayet guhya-deSe tu gRNan mantram tu sarvadA /
+   saptāhād ānayed vaśyaṃ striyaṃ vā puruṣam api vā // VT_276 //	sapta-ahAt Anayet vaSyam striyam vA puruzam api vA // VT_276 //
+   mānuṣāsthimayaṃ kīlaṃ kṛtvā tu caturaṅgulam /	mAnuza-asTi-mayam kIlam kRtvA tu catur-aFgulam /
+   kṣīravṛkṣaṃ bhage likhya liṅgaṃ vā kīlayet tataḥ // VT_277 //	kzIravRkzam Bage liKya liFgam vA kIlayet tatas // VT_277 //
+   ṣaṇḍilas tu bhavet sādhya ārdrayogo na saṃśayaḥ /	zaNxilaH tu Bavet sADye Ardra-yogaH na saMSayaH /
+   uddhṛtena bhaven mokṣaṃ nātra kāryā vicāraṇā // VT_278 //	udDRtena Bavet mokzam na-atra kAryA vicAraNAH // VT_278 //
+   madhūkā śvetapadmaṃ ca rocanā nāgakeśaram /	maDUkA Svetapadmam ca rocanA nAgakeSaram /
+   tagaraṃ caiva sūkṣmelam añjanaṃ samabhāgikam // VT_279 //	tagaram ca-eva sUkzmelam aQjanam sama-BAgikam // VT_279 //
+   kanyayā piṣitaṃ kṛtvā yāgaṃ kṛtvā yathoditam /	kanyayA pizitam kRtvA yAgam kRtvA yaTA-uditam /
+   sahasrāṣtādhikaṃ japtvā japena yajane tataḥ // VT_280 //	sahasrAzta-aDikam japtvA japena yajane tatas // VT_280 //
+   sarvalokeṣu dṛśyante kāmadevasamo 'pi tat /	sarva-lokezu dRSyante kAmadeva-samaH api tat /
+   vicareta mahīṃ kṛtsnāṃ nātra kāryā vicāraṇā // VT_281 //	vicareta mahIm kRtsnAm na-atra kAryA vicAraNAH // VT_281 //
+   mañjiṣthā kunduruś caiva haridre dve tu pīṣayet /	maQjizTA kunduruH ca-eva haridre dve tu pIzayet /
+   piṣtvā pūrvavidhānena tato guhyaṃ pralepayet // VT_282 //	piztvA pUrva-viDAnena tatas guhyam pralepayet // VT_282 //
+   pravṛtte maithune kāle patir dāsaṃ kariṣyati /	pravRtte mETune kAle patiH dAsam karizyati /
+   meṣalocanamūlaṃ tu kambalyā kṣīrasādhitam // VT_283 //	meza-locana-mUlam tu kambalyA kzIra-sADitam // VT_283 //
+   śmaśāne sādhayen mantrī rātrau kāṣṭhais tadudbhavaiḥ /	SmaSAne sADayet mantrI rAtrO kAzWEH tad-udBavEH /
+   kapālair guṇḍayed aṅgaṃ raktavāsoparicchadam // VT_284 //	kapAlEH guNxayet aFgam rakta-vAsa-uparicCadam // VT_284 //
+   udvartano 'bhayo hy eṣa vajravat syāṅkuśopamaḥ /	udvartanaH aBayaH hi eza vajra-vat sya-aFkuSa-upamaH /
+   bhakṣayed deśayet kaṃcit kāmāṅkuśavinirgataḥ // VT_285 //	Bakzayet deSayet kaMcid kAma-aFkuSa-vinirgataH // VT_285 //
+   puruṣo vaśam āyāti strī vā madanagarvitā /	puruzaH vaSam AyAti strI vA madana-garvitA /
+   vālmīkamṛttikāṃ gṛhya balīvardaṃ tu kārayet // VT_286 //	vAlmIka-mRttikAm gRhya balIvardam tu kArayet // VT_286 //
+   kanyākartitasūtreṇa tasya nāsāṃ pravedhayet /	kanyA-kartita-sUtreNa tasya nAsAm praveDayet /
+   athavā padmasūtreṇa raktacandanalepitam // VT_287 //	aTavA padma-sUtreNa raktacandana-lepitam // VT_287 //
+   raktapuṣpaiḥ samabhyarcya sarvārṇavaṃ samānayet /	rakta-puzpEH samaByarcya sarva-arNavam samAnayet /
+   sādhyasya vilikhen nāma svaraktena vṛṣodare // VT_288 //	sADyasya viliKet nAma sva-raktena vRzodare // VT_288 //
+   śrīvṛkṣakotare sthāpya sādhyam evaṃ vaśīkuru /	SrI-vRkzakotare sTApya sADyam evam vaSIkuru /
+   anenaiva mṛdā meṣaṃ kārayen mantravit sadā // VT_289 //	anena-eva mRdA mezam kArayet mantra-vid sadA // VT_289 //
+   meṣasūtreṇa vai nāsāṃ vedhayet pūrvavac chuciḥ /	meza-sUtreNa vE na-AsAm veDayet pUrvavat SuciH /
+   devīnām agrataḥ sthāpya tasya nāsāṃ pracālayet // VT_290 //	devInAm agratas sTApya tasya nAsAm pracAlayet // VT_290 //
+   yaṃ yaṃ vijñāpayet kāmaṃ taṃ taṃ prāpnoti sādhakaḥ /	yam yam vijQApayet kAmam tam tam prApnoti sADakaH /
+   ete yogavarā devi mayā tava udāhṛtāḥ // VT_291 //	ete yoga-varAH devi mayA tava udAhRtAH // VT_291 //
+   varṇānām udare yāgaṃ sarvakāmaprasiddhidam /	varNAnAm udare yAgam sarva-kAma-prasidDi-dam /
+   evam eva magarbhasthaṃ māraṇe samprayojayet // VT_292 //	evam eva magarBa-sTam mAraNe samprayojayet // VT_292 //
+   gavāṃ rocanayā likhya evam eva prayojayet /	gavAm rocanayA liKyaH evam eva prayojayet /
+   sodaremūkatāṃ kuryād vāgīśam api mūkayet // VT_293 //	sa-udaremUka-tAm kuryAt vAgISam api mUkayet // VT_293 //
+   nit yam ākarṣayet proktam ākārodare pūjitā /	nit yam Akarzayet proktam AkAra-udare pUjitAH /
+   mahāpuruṣavarastrīṇāṃ japamānā tu kīrtanāt // VT_294 //	mahApuruza-vara-strINAm japamAnA tu kIrtanAt // VT_294 //
+   jñānāṅkuśagatā pūjā kṣipraṃ prāyeṣu vastuṣu /	jQAna-aFkuSa-gatA pUjA kzipram prAyezu vastuzu /
+   unmaneṣv atha ghoreṣu sākāreṇa tu sādhayet // VT_295 //	unmanezu aTa Gorezu sa-AkAreNa tu sADayet // VT_295 //
+   ekārodarayāgena bhavaty arthapradāyikā /	ekAra-udara-yAgena Bavati arTa-pradAyikA /
+   vakāramadhyagā caiva vaśīkaraṇakarmaṇi // VT_296 //	vakAra-maDya-gA ca-eva vaSIkaraNa-karmaNi // VT_296 //
+   dharmārthamokṣadā caiva puṣṭitejovivardhanī /	Darma-arTa-mokza-dA ca-eva puzwi-tejaH-vivarDanI /
+   bhavati niyatā devi haṃsamadhyeṣu pūjitam // VT_297 //	Bavati niyatAH devi haMsa-maDyezu pUjitam // VT_297 //
+   bhañjane yadi sainyānāṃ bhakārajathare sthitam /	BaQjane yadi sEnyAnAm BakAra-jaTare sTitam /
+   bhavati niyatā kṣipraṃ kṣemanābhigarīyasī // VT_298 //	Bavati niyatA kzipram kzemanABi-garIyasI // VT_298 //
+   māraṇe tu prayoktavyaṃ phatkārānte vyavasthitā /	mAraNe tu prayoktavyam PatkAra-ante vyavasTitAH /
+   vidveṣaṃ tu prayacchanti jakārajatharesthitā // VT_299 //	vidvezam tu prayacCanti jakAra-jaTaresTitAH // VT_299 //
+   śatrukulocchādaṃ kuryāt hūṃ phatkārānte vyavasthitā /	Satru-kula-ucCAdam kuryAt hUm PatkAra-ante vyavasTitAH /
+   svalpaprāyeṣu kāryeṣu yakārajatharodare // VT_300 //	su-alpa-prAyezu kAryezu yakAra-jaTara-udare // VT_300 //
+   dehanyāsaṃ punar vakṣye abhedyaṃ parameśvari /	deha-nyAsam punar vakzye aBedyam parameSvari /
+   vinyasya karaṇān sākṣān mahābhūteṣu pañcasu // VT_301 //	vinyasya karaNAn sAkzAt mahABUtezu paQcasu // VT_301 //
+   dehe tattvatrayaṃ nyasya prāṇāyāmapuraḥsaraḥ /	dehe tattva-trayam nyasya prANAyAma-puraHsaraH /
+   śarīre vinyased devi pūrvam uktakrameṇa tu // VT_302 //	SarIre vinyaset devi pUrvam ukta-krameNa tu // VT_302 //
+   māyayācchādayitvā tu aṅkuśena nirodhayet /	mAyayA-AcCAdayitvA tu aFkuSena niroDayet /
+   yoniṃ baddhvā tataḥ paścāt sādhakaḥ susamāhitaḥ // VT_303 //	yonim badDvA tatas paScAt sADakaH su-samAhitaH // VT_303 //
+   svadehe namasā mantrī kalpoktena tu karmaṇā /	sva-dehe namasA mantrI kalpa-uktena tu karmaNA /
+   kuryāt sarvāṇi kāryāṇi tataḥ siddhir na saṃśayaḥ // VT_304 //	kuryAt sarvANi kAryANi tatas sidDiH na saMSayaH // VT_304 //
+   nayottarāditantreṣu kalpoktaṃ karma kārayet /	naya-uttara-Adi-tantrezu kalpa-uktam karma kArayet /
+   athavādaśalakṣāṇi japed yas tu vidhānataḥ // VT_305 //	aTavA-daSa-lakzANi japet yaH tu viDAnataH // VT_305 //
+   tataḥ sabhrātṛkā devyaḥ sādhakasyāgrataḥ sthitāḥ /	tatas sa-BrAtRkAH devyaH sADakasya-agratas sTitAH /
+   varam iṣtaṃ prayacchanti trayātītaṃ padaṃ hi yat // VT_306 //	varam iztam prayacCanti traya-atItam padam hi yat // VT_306 //
+   bījapañcakam etad dhi na deyaṃ yasya kasyacit /	bIja-paQcakam etat Di na deyam yasya kasyacid /
+   vargāntanirguṇākrāntaṃ samyag vai bījapañcakam // VT_307 //	varga-anta-nirguNa-AkrAntam samyak vE bIja-paQcakam // VT_307 //
+   evam eva purā kṛtvā jñātvaivaṃ hi vidhānataḥ /	evam eva purA kRtvA jQAtvA-evam hi viDAnataH /
+   bījāni bījayet prājñaḥ tataḥ karma samārabhet // VT_308 //	bIjAni bIjayet prAjQaH tatas karma samAraBet // VT_308 //
+   evaṃ vidhānavid yas tu hīno vā sarvalakṣaṇaiḥ /	evam viDAna-vid yaH tu hInaH vA sarva-lakzaNEH /
+   api pātakasaṃyuktaḥ sa siddhiphalabhāg bhavet // VT_309 //	api pAtaka-saMyuktaH sa sidDi-Pala-BAj Bavet // VT_309 //
+   vargāntanirguṇākhyasya asyāpi paramaṃ smṛtam /	varga-anta-nirguNa-AKyasya asya-api paramam smRtam /
+   hṛdayaṃ devadevīnām ekākṣaram ataḥ param // VT_310 //	hRdayam deva-devInAm eka-akzaram atas param // VT_310 //
+   yatra sabhrātṛkā devyaḥ kūṭadehā vyavasthitāḥ /	yatra sa-BrAtRkAH devyaH kUwa-dehAH vyavasTitAH /
+   nātaḥ parataro mantras triṣu lokeṣu vidyate // VT_311 //	na-atas parataraH mantraH trizu lokezu vidyate // VT_311 //
+   gopitavyaṃ prayatnena tantrasāraṃ sudurlabham /	gopitavyam prayatnena tantra-sAram su-durlaBam /
+   mamāpi gopitaṃ devi sarvajñenāpi sarvadā // VT_312 //	mama-api gopitam devi sarvajQena-api sarvadA // VT_312 //
+   niścayaṃ mama baddhvānta ? yac ca devena bhāṣitam /	niScayam mama badDvA-anta ? yat ca devena BAzitam /
+   tvayāpi caivam evaṃ hi rakṣaṇīyaṃ prayatnataḥ // VT_313 //	tvayA-api ca-evam evam hi rakzaNIyam prayatnataH // VT_313 //
+   cintāratnam idaṃ guhyaṃ vratasādhanavarjitam /	cintA-ratnam idam guhyam vrata-sADana-varjitam /
+   anusmaraṇāmātreṇa samyagjñāya krameṇa tu // VT_314 //	anusmaraNa-amAtreNa samyak-jQAya krameNa tu // VT_314 //
+   varṇayāgakrameṇaiva pūrvoktena yathākramam /	varNa-yAga-krameNa-eva pUrva-uktena yaTAkramam /
+   sidhyate nātra saṃdehaḥ sarvakāmas tu mantriṇām // VT_315 //	siDyate na-atra saMdehaH sarva-kAmaH tu mantriNAm // VT_315 //
+   śāntikaṃ pauṣtikaṃ caiva vidveṣoccāṭanaṃ tathā /	SAntikam pOztikam ca-eva vidveza-uccAwanam taTA /
+   vaśyākarṣas tathā nāśaṃ sarvaṃ sidhyati sādhake // VT_316 //	vaSya-AkarzaH taTA nASam sarvam siDyati sADake // VT_316 //
+   śukreṇa sarvatobhadre mahāsammohane tathā /	SukreNa sarvatoBadre mahA-sammohane taTA /
+   nirmathya kathito devi dadhno ghṛtam ivoddhṛtam // VT_317 //	nirmaTya kaTitaH devi daDnaH GRtam iva-udDRtam // VT_317 //
+   parīkṣya guruṇā śiṣyaṃ gurudevāgnipūjakam /	parIkzya guruNA Sizyam guru-deva-agni-pUjakam /
+   tasya deyam idaṃ tantraṃ na ca nāstikanindake // VT_318 //	tasya deyam idam tantram na ca nAstika-nindake // VT_318 //
+   na dīkṣitā na sidhyanti sthitāḥ kalpaśatair api /	na dIkzitAH na siDyanti sTitAH kalpa-SatEH api /
+   svayaṃgṛhītamantrāś ca nāstikā vedanindakāḥ // VT_319 //	svayaMgRhIta-mantrAH ca nAstikAH veda-nindakAH // VT_319 //
+   samayebhyaḥ paribhraṣtās tathā tantravidūṣakāḥ /	samayeByaH pariBraztAH taTA tantra-vidUzakAH /
+   gurūṇāṃ viheṭhanaparās tantrasāravilopakāḥ // VT_320 //	gurUNAm viheWana-parAH tantra-sAra-vilopakAH // VT_320 //
+   yoginībhiḥ sadā bhraṣṭāḥ kathyante dharmalopakāḥ /	yoginIBiH sadA BrazwAH kaTyante Darma-lopakAH /
+   iti tathyaṃ mahādevi surāsuranamaskṛtam // VT_321 //	iti taTyam mahAdevi sura-asura-namaskRtam // VT_321 //
+   sāram etad dhi tantrasya tasya tatsthaṃ mahānaye /	sAram etat Di tantrasya tasya tat-sTam mahAnaye /
+   ājñā bhagavataś caiva śivasya paramātmanaḥ // VT_322 //	AjQA BagavataH ca-eva Sivasya paramAtmanaH // VT_322 //
+   śrīdevy uvāca	SrI-devI uvAca
+   śrutaṃ mayā mahādeva vīṇāsadbhāvam uttamam /	Srutam mayA mahAdeva vINA-sadBAvam uttamam /
+   tantraṃ vīṇāśikhaṃ nāma durlabhaṃ tridaśeṣv api // VT_323 //	tantram vINASiKam nAma durlaBam tridaSezu api // VT_323 //
+   vargāntanirguṇākhyasya asyāpi paramaṃ ca yat /	varga-anta-nirguNa-AKyasya asya-api paramam ca yat /
+   ekākṣaraṃ paraṃ guhyaṃ bhuktimuktipradāyakam // VT_324 //	eka-akzaram param guhyam Bukti-mukti-pradAyakam // VT_324 //
+   gopitaṃ tu tvayā deva sārabhūtaṃ maheśvara /	gopitam tu tvayA deva sAra-BUtam maheSvaraH /
+   tapasā durdharāllabdhaṃ yac ca jñānaṃ śivodbhavam // VT_325 //	tapasA durDarAt-labDam yat ca jQAnam Siva-udBavam // VT_325 //
+   prasādaṃ kuru deveśa yatra siddhir dhruvaṃ sthitā /	prasAdam kuru deveSa yatra sidDiH Druvam sTitA /
+   prāpte kaliyuge ghore saṃkate bahupātake // VT_326 //	prApte kali-yuge Gore saMkate bahu-pAtake // VT_326 //
+   sarvasrotaḥprapannānām āśu siddhir yathā nṛṇām /	sarva-srotaH-prapannAnAm ASu sidDiH yaTA nRNAm /
+   prasādaṃ kuru deveśa kaḥ parampārate mama // VT_327 //	prasAdam kuru deveSa kaH parampArate mama // VT_327 //
+   alpaprajñāḥ kumatayo bahuvyākulacetasā /	alpa-prajQAH kumatayaH bahu-vyAkula-cetasA /
+   tantraṃ naivādhigacchanti na caiva bahudhā śrutam // VT_328 //	tantram na-eva-aDigacCanti na ca-eva bahuDA Srutam // VT_328 //
+   iti deva tvayā pūrvaṃ kathitaṃ guruṇātmanā /	iti deva tvayA pUrvam kaTitam guruNA-AtmanA /
+   asmākam api saṃkṣepāt kathayasva maheśvara // VT_329 //	asmAkam api saMkzepAt kaTayasva maheSvaraH // VT_329 //
+   śrī īśvara uvāca	SrI ISvaraH uvAca
+   aho svabhāvaprakṛte kimpraśnāsi punaḥ 'punaḥ /	aho svaBAva-prakRte kimpraSnAsi punar apunar /
+   yan mayā kathitaṃ pūrvaṃ tad gṛhāṇa subhāṣitam // VT_330 //	yat mayA kaTitam pUrvam tat gRhANa suBAzitam // VT_330 //
+   śrīdevy uvāca	SrI-devI uvAca
+   na bhūyaḥ paripṛcchāmi praśnam ekā garīyasī /	na BUyas paripRcCAmi praSnam ekA garIyasI /
+   vāram ekaṃ kuru vyaktaṃ prasādaṃ sūkṣmagocaram // VT_331 //	vAram ekam kuru vyaktam prasAdam sUkzma-gocaram // VT_331 //
+   śrī īśvara uvāca	SrI ISvaraH uvAca
+   śṛṇu devi prayatnena sūkṣmāt sūkṣmataraṃ mahat /	SRNu devi prayatnena sUkzmAt sUkzmataram mahat /
+   prayogaṃ sarvatantrāṇām uttaraṃ sarvasiddhaye // VT_332 //	prayogam sarva-tantrANAm uttaram sarva-sidDaye // VT_332 //
+   yena saṃsmṛtamātreṇa siddhir hastatale sthitā /	yena saMsmRta-mAtreNa sidDiH hasta-tale sTitAH /
+   nāyāso na vrataś caiva na tapaś ca maheśvari // VT_333 //	na-AyAsaH na vrataH ca-eva na tapaH ca maheSvari // VT_333 //
+   nāgnikarma na caivārcā smaraṇāt siddhidaḥ smṛtaḥ /	na-agni-karma na ca-eva-arcA smaraNAt sidDi-daH smRtaH /
+   śṛṇuṣvaikākṣaraṃ devi sadbhāvaparasaṃhitam // VT_334 //	SRNuzva-eka-akzaram devi sadBAva-para-saMhitam // VT_334 //
+   śarīraṃ tattvarājānaṃ jātavedasi saṃsthitam /	SarIram tattva-rAjAnam jAtavedasi saMsTitam /
+   śikhāyāṃ saṃsthito devo bindudevī jayā smṛtā // VT_335 //	SiKAyAm saMsTitaH devaH bindudevI jayA smRtA // VT_335 //
+   yaścātrordhvaṃ bhaved devi saukaraḥ parikīrtitaḥ /	yaH-ca-atra-UrDvam Bavet devi sOkaraH parikIrtitaH /
+   tantudevaṃ vijānīyān makāraṃ bindudevatām // VT_336 //	tantudevam vijAnIyAt makAram bindudevatAm // VT_336 //
+   evaṃ tu pañcadhā devi tattvarājaṃ tu kīrtitam /	evam tu paQcaDA devi tattva-rAjam tu kIrtitam /
+   caturviṃśatikoṣthe tu yo mantranāyakaḥ smṛtaḥ // VT_337 //	caturviMSati-kozTe tu yaH mantra-nAyakaH smRtaH // VT_337 //
+   tattvarāja iti khyāta ūnaviṃśaty adhaḥ smṛtaḥ /	tattva-rAjaH iti KyAtaH UnaviMSati aDas smRtaH /
+   viṃśakena svareṇaiva bindumūrdhnā tu pīḍitam // VT_338 //	viMSakena svareNa-eva bindu-mUrDnA tu pIxitam // VT_338 //
+   eṣa ekākṣaraḥ proktas tvatpriyārthaṃ varānane /	ezaH eka-akzaraH proktaH tvad-priya-arTam varAnane /
+   suṣiraṃ tattvarājānaṃ jātavedasi saṃsthitam // VT_339 //	suziram tattva-rAjAnam jAtavedasi saMsTitam // VT_339 //
+   viṣṇor upari dīptena japel lakṣatrayaṃ budhaḥ /	vizNoH upari dIptena japet lakza-trayam buDaH /
+   ākarṣayed drumāṇy eṣa mṛgapakṣisarīsṛpān // VT_340 //	Akarzayet drumANi eza mRga-pakzi-sarIsRpAn // VT_340 //
+   mānuṣāṇāṃ tu kā cintā ākarṣaṇavidhiṃ prati /	mAnuzANAm tu kA cintA AkarzaNa-viDim prati /
+   ekādaśamaḥ saṃyuktas tattvarājena śobhane // VT_341 //	ekAdaSamaH saMyuktaH tattva-rAjena SoBane // VT_341 //
+   śirasā bindubhinnena hṛdi caiṣa nigadyate /	SirasA bindu-Binnena hRdi ca-eza nigadyate /
+   saptaviṃśa śiraḥ proktaṃ triṃśamas tu śikhā bhavet // VT_342 //	saptaviMSa SiraH proktam triMSamaH tu SiKA Bavet // VT_342 //
+   ūnacatvāriṃśatir devi tattvo 'yaṃ kavacaḥ smṛtaḥ /	UnacatvAriMSatiH devi tattvaH ayam kavacaH smRtaH /
+   ṣoḍaśasvarasaṃyuktam etad astraṃ prakīrtitam // VT_343 //	zoxaSa-svara-saMyuktam etat astram prakIrtitam // VT_343 //
+   netraṃ tu kathitaṃ devi viṃśatyakṣarayojitam /	netram tu kaTitam devi viMSati-akzara-yojitam /
+   eṣa ekākṣaro devi ṣaḍaṅgaḥ samudāhṛtaḥ // VT_344 //	ezaH eka-akzaraH devi zaxaFgaH samudAhRtaH // VT_344 //
+   haṃso māyāyukto devi nārācāstravidarbhitaḥ /	haMsaH mAyA-yuktaH devi nArAca-astra-vidarBitaH /
+   savisarganayapadaṃ bījāntasthaṃ(?) ū ī siddhikarī nṛṇām(?) // VT_345 //	sa-visarga-naya-padam bIja-anta-sTaM(?) U I sidDi-karI nRNAm(?) // VT_345 //
+   ha ra tra vṛddhiṃ karoti .... .... /	ha ra tra vRdDim karoti .... .... /
+   māyāṅkuśanirodhās te sarvamantragaṇādayaḥ // VT_346 //	mAyA-aFkuSa-niroDAH te sarva-mantra-gaNa-AdayaH // VT_346 //
+   kramaśo yojayen mantri yadīcched dīrgham ātmani /	kramaSas yojayet mantri yadi-icCet dIrGam Atmani /
+   sarvam etat parityajya kuryān mantraparigraham // VT_347 //	sarvam etat parityajya kuryAt mantra-parigraham // VT_347 //
+   ātmātīndriyādhārāṇāṃ kṛtvā kartavyaṃ muhur muhuḥ /	AtmA-atIndriya-ADArANAm kRtvA kartavyam muhur muhur /
+   padārthavidhisaṃyuktaṃ yan mayā gaditaṃ purā // VT_348 //	padArTa-viDi-saMyuktam yat mayA gaditam purA // VT_348 //
+   tad anena prayogeṇa kartavyaṃ siddhim icchatā /	tat anena prayogeNa kartavyam sidDim icCatA /
+   dhyāyet sindūrasadṛśaṃ vaśyākarṣaṇakarmaṇi // VT_349 //	DyAyet sindUra-sadRSam vaSya-AkarzaNa-karmaNi // VT_349 //
+   māraṇe kṛṣṇavarṇaṃ tu vidveṣe vāmarūpakam /	mAraNe kRzNa-varNam tu vidveze vAma-rUpakam /
+   uccāte dhūmravarṇaṃ tu śvetaṃ caiva puṣṭyarthinā // VT_350 //	uccAte DUmra-varNam tu Svetam ca-eva puzwi-arTinA // VT_350 //
+   mayūragrīvasadṛśaṃ stambhane cintayet sadā /	mayUra-grIva-sadRSam stamBane cintayet sadA /
+   sarvavarṇadharaṃ caiva sarvakāmikam eva ca // VT_351 //	sarva-varNa-Daram ca-eva sarva-kAmikam eva ca // VT_351 //
+   sarvendriyāṇāṃ kurvīta upahāre mahādhipe /	sarva-indriyANAm kurvIta upahAre mahA-aDipe /
+   hṛtpadmakarṇikordhvaṃ tu suṣiraṃ tatra cintayet // VT_352 //	hRd-padma-karNikA-UrDvam tu suziram tatra cintayet // VT_352 //
+   sphuliṅgaṃ karṇikārūpaṃ nirdhūmatejarūpiṇam /	sPuliFgam karNikA-rUpam nirDUma-teja-rUpiNam /
+   dhūmajvālāvinirmuktaṃ sūryakoṭisamaprabham // VT_353 //	DUma-jvAlA-vinirmuktam sUrya-kowi-sama-praBam // VT_353 //
+   tasyordhve tu śikhā sūkṣmā nirmalā sphātikopamā /	tasya-UrDve tu SiKA sUkzmA nirmalA sPAtika-upamA /
+   nityaṃ sā sevyate yuktair yogibhir niṣkalā parā // VT_354 //	nityam sA sevyate yuktEH yogiBiH nizkalA parA // VT_354 //
+   ūrṇātantusamākārā ūrdhvasrotā nirupamā /	UrNA-tantu-sama-AkArAH UrDvasrotAH nirupamA /
+   tatra madhye gataṃ paśyed devyā guhyottarambhavā // VT_355 //	tatra maDye gatam paSyet devyA guhya-uttaramBavAH // VT_355 //
+   vālāgraśatabhāgākhyā- vīṇādhārāsusaṃsthitā /	vAla-agra-Sata-BAga-AKyA vINA-ADArA-su-saMsTitA /
+   dhyāyeta nityaṃ yogīndraḥ sūkṣmaguhyasamudbhavām // VT_356 //	DyAyeta nityam yogi-indraH sUkzma-guhya-samudBavAm // VT_356 //
+   kṛtvā pūrvaṃ tu vinyāsaṃ sakalābāhyasaṃsthitam /	kRtvA pUrvam tu vinyAsam sakalA-bAhya-saMsTitam /
+   evaṃ varṇavibhāgaṃ tu jñātvā siddhim avāpnuyāt // VT_357 //	evam varNa-viBAgam tu jQAtvA sidDim avApnuyAt // VT_357 //
+   vaśyākarṣaṇakarmāṇi vācayā sa kariṣyati /	vaSya-AkarzaNa-karmANi vAcayA sa karizyati /
+   vīṇāśikhāyāḥ sarvasvaṃ cintāratnam ivāparam // VT_358 //	vINA-SiKAyAH sarva-svam cintA-ratnam iva-aparam // VT_358 //
+   etad bījavaraṃ prāpya yathepsasi tathā kuru /	etat bIjavaram prApya yaTA-Ipsasi taTA kuru /
+   ājñā bhagavataś caiṣā sarvadāvyabhicāriṇī // VT_359 //	AjQA BagavataH ca-ezA sarva-dAvyaBicAriNI // VT_359 //
+   dhyātavyā sā prayatnena yadīcchet siddhim ātmanaḥ /	DyAtavyA sA prayatnena yadi-icCet sidDim AtmanaH /
+   yajanaṃ yājanaṃ caiva saṃyogaṃ ca layaṃ tathā // VT_360 //	yajanam yAjanam ca-eva saMyogam ca layam taTA // VT_360 //
+   samayākṣarabījaṃ ca akṣarākṣarayojitam /	samaya-akzara-bIjam ca akzara-akzara-yojitam /
+   rakṣaṇīyaṃ tvayā bhadre prayatnena suniścalam // VT_361 //	rakzaNIyam tvayA Badre prayatnena su-niScalam // VT_361 //
+   etad guhyaṃ samākhyātaṃ tava snehād vicakṣaṇi /	etat guhyam samAKyAtam tava snehAt vicakzaNi /
+   etaj jñātvā tu mantrajñaḥ śivasāyujyatāṃ vrajet // VT_362 //	etat jQAtvA tu mantra-jQaH Siva-sAyujya-tAm vrajet // VT_362 //
+   (em: #sāyojyatāṃ Ed)	(em: #sAyojya-tAm Ed)
+   evaṃ vilayatāṃ yāti vidhinānena yoṣitām /	evam vilaya-tAm yAti viDinA-anena yozitAm /
+   amalīkṛtadehas tu vidhinānena sādhakaḥ // VT_363 //	amalIkRta-dehaH tu viDinA-anena sADakaH // VT_363 //
+   amalīkṛtaṃ tanmantraṃ hṛccakre viniyojayet /	amalIkRtam tat-mantram hRd-cakre viniyojayet /
+   somamaṇḍalamadhyasthaṃ dhyāyet kundendusaprabham // VT_364 //	soma-maNxala-maDya-sTam DyAyet kunda-indu-sapraBam // VT_364 //
+   amṛtena tu siñcanti lāntīsagatilitena ? tu /	amRtena tu siQcanti lAntI-sagatilitena ? tu /
+   evam āpyāyito mantraḥ sarvasiddhiprado bhavet // VT_365 //	evam ApyAyitaH mantraH sarva-sidDi-pradaH Bavet // VT_365 //
+   evam āpyāyanaṃ kṛtvā bindumadhyevicakṣaṇaḥ /	evam ApyAyanam kRtvA bindu-maDyevicakzaNaH /
+   aṣṭottarasahasraṃ tu mantrāṇāṃ mantravij japet // VT_366 //	azwottarasahasram tu mantrANAm mantra-vid japet // VT_366 //
+   paramīkaraṇaṃ hy etan mantrasyāpyāyanaṃ smṛtam /	paramIkaraNam hi etat mantrasya-ApyAyanam smRtam /
+   śivībhūtas tu mantro vai sādhayed akhilaṃ jagat // VT_367 //	SivIBUtaH tu mantraH vE sADayet aKilam jagat // VT_367 //
+   sūryacakraniruddhaṃ tu śirasi samavasthitam /	sUrya-cakra-nirudDam tu Sirasi samavasTitam /
+   japet hūṃkārasahitaṃ bodhanaṃ parikīrtitam // VT_368 //	japet hUMkAra-sahitam boDanam parikIrtitam // VT_368 //
+   ādityacakramadhyasthaṃ vahninā saṃnirodhitam /	Aditya-cakra-maDya-sTam vahninA saMniroDitam /
+   nirdahate mantraṃ devi yadā karma na kurvati // VT_369 //	nirdahate mantram devi yadA karma na kurvati // VT_369 //
+   śikhāmadhyagataṃ dhyātvā sahasraṃ parivartayet /	SiKA-maDya-gatam DyAtvA sahasram parivartayet /
+   mantram evaṃ samuddiṣtaṃ guhyaśaktipradīpanam // VT_370 //	mantram evam samuddiztam guhya-Sakti-pradIpanam // VT_370 //
+   dahanaṃ cāgninā kāryaṃ hūṃkāreṇa prabodhayet /	dahanam ca-agninA kAryam hUMkAreNa praboDayet /
+   dīpanaṃ tu śikhāmadhye mantrāṇāṃ mantravādinām // VT_371 //	dIpanam tu SiKA-maDye mantrANAm mantra-vAdinAm // VT_371 //
+   amalīkurutesūryaś candreṇāpyāyanaṃ smṛtam /	amalIkurutesUryaH candreNa-ApyAyanam smRtam /
+   śivīkurvīta bindusthaṃ mantrī mantraṃ tu yogavit // VT_372 //	SivIkurvIta bindu-sTam mantrI mantram tu yoga-vid // VT_372 //
+   evaṃ mantraviśuddhas tu candrasūryasamanvitam /	evam mantra-viSudDaH tu candra-sUrya-samanvitam /
+   dīpanaṃ śaktinā nityaṃ japen mantrī samāhitaḥ // VT_373 //	dIpanam SaktinA nityam japet mantrI samAhitaH // VT_373 //
+   amṛtodbhavakāle tu mantrī yatnena niścayāt /	amRta-udBava-kAle tu mantrI yatnena niScayAt /
+   vaśam ānayate kṣipraṃ viśvaṃ manata ? saṃśayaḥ // VT_374 //	vaSam Anayate kzipram viSvam manataH ? saMSayaH // VT_374 //
+   yāvatī māyā mantrāṇāṃ sarveṣāṃ kathitā mayā /	yAvatI mAyA mantrANAm sarvezAm kaTitAH mayA /
+   vidhir atra krame cāyaṃ paścād vakṣye jape vidhim // VT_375 //	viDiH atra krame ca-ayam paScAt vakzye jape viDim // VT_375 //
+   yajanakāle samprāpte ekacittaḥ samāhitaḥ /	yajana-kAle samprApte ekacittaH samAhitaH /
+   hṛtpadme karṇikāsīna- devatārpitamānasaḥ // VT_376 //	hRd-padme karNikA-AsIna devatA-arpita-mAnasaH // VT_376 //
+   śikhābinduṃ vinirdhārya tanmantraṃ hṛdi saṃsthitam /	SiKAbindum vinirDArya tad-mantram hRdi saMsTitam /
+   putavarṇavidhānaṃ syād akṛtoccāranisvanam // VT_377 //	puta-varNa-viDAnam syAt akRta-uccAra-nisvanam // VT_377 //
+   svasthacitto hy asammūḍha alākūrdhvasthitātmanaḥ /	svasTa-cittaH hi asammUXa alAku-UrDva-sTita-AtmanaH /
+   avicchinnaṃ drutaṃ caiva avilambitam eva ca // VT_378 //	avicCinnam drutam ca-eva avilambitam eva ca // VT_378 //
+   tāvan mantrī japen mantraṃ yāvac cittaṃ na khidyate /	tAvat mantrI japet mantram yAvat cittam na Kidyate /
+   alabhya mama mantraṃ syād drutaṃ kālasya sidhyati // VT_379 //	alaBya mama mantram syAt drutam kAlasya siDyati // VT_379 //
+   japaṃ kṛtvā tu medhāvī nānyam etat samarpayet /	japam kRtvA tu meDAvI na-anyam etat samarpayet /
+   mantrī kurvīta yatnena yathārthatvaṃ nibodhata // VT_380 //	mantrI kurvIta yatnena yaTArTa-tvam niboData // VT_380 //
+   prathame vāyavī proktā dvitīyā tv analā smṛtā /	praTame vAyavI proktA dvitIyA tu analA smRtA /
+   tṛtīyā caiva māhendrī vāruṇī tu tathāpare // VT_381 //	tRtIyA ca-eva mAhendrI vAruNI tu taTA-apare // VT_381 //
+   oṃkārapūrvato mantraṃ namaskārāntayojitam /	oMkAra-pUrvatas mantram namaskAra-anta-yojitam /
+   bījapiṇḍaṃ tu madhyasthaṃ mudrāyuktaṃ sadā yajet // VT_382 //	bIja-piNxam tu maDya-sTam mudrA-yuktam sadA yajet // VT_382 //
+   kṣipram arthas tathā karma bhuktibhogaṃ sudurlabham /	kzipram arTaH taTA karma Bukti-Bogam su-durlaBam /
+   sādhayen manasā sarvaṃ bījamudrāprayogataḥ // VT_383 //	sADayet manasA sarvam bIja-mudrA-prayogataH // VT_383 //
+   hūṃkāram adito nyastam namaskārāntavyavasthitam /	hUMkAram aditaH nyastam namaskAra-anta-vyavasTitam /
+   uccātayet sarvaduṣtān daityabhūtagrahāṃs tathā // VT_384 //	uccAtayet sarva-duztAn dEtya-BUta-grahAn taTA // VT_384 //
+   oṃkārayojitasyādau svāhākārāvasānataḥ /	oMkAra-yojitasya-AdO svAhAkAra-avasAnataH /
+   agnikāryaprayogo 'yaṃ kṣipram arthaṃ prasādhayet // VT_385 //	agni-kArya-prayogaH ayam kzipram arTam prasADayet // VT_385 //
+   oṃkārasamputaṃ piṇḍaṃ rakāreṇa tu dīpakam /	oMkAra-samputam piNxam rakAreNa tu dIpakam /
+   sādhayen manasā dhyātvā kāmārthaś ca yathepsitam // VT_386 //	sADayet manasA DyAtvA kAma-arTaH ca yaTA-Ipsitam // VT_386 //
+   suptaṃ bodhayate mantrī śīghraṃ siddhim avāpnuyāt /	suptam boDayate mantrI SIGram sidDim avApnuyAt /
+   oṃkāraś ca rakāraś ca phaṭkāraś caiva madhyataḥ // VT_387 //	oMkAraH ca rakAraH ca PawkAraH ca-eva maDyatas // VT_387 //
+   madhye vargāntapiṇḍas tu karma kuryād yathepsitam /	maDye varga-anta-piNxaH tu karma kuryAt yaTA-Ipsitam /
+   hūṃkāram ādau ante ca hakāraś cādimadhyataḥ // VT_388 //	hUMkAram AdO ante ca hakAraH ca-Adi-maDyataH // VT_388 //
+   japan tu bodhayen mantrī api suptam acetanam /	japan tu boDayet mantrI api suptam acetanam /
+   hūṃkāraś ca rakāraś ca phaṭkāram ādimadhyataḥ // VT_389 //	hUMkAraH ca rakAraH ca PawkAram Adi-maDyatas // VT_389 //
+   kruddhas tu jāpayen mantrī yadākarma na kurvati /	krudDaH tu jApayet mantrI yadA-akarma na kurvati /
+   oṃkārasamputaṃ kṛtvā namaskārāntayojitam // VT_390 //	oMkAra-samputam kRtvA namaskAra-anta-yojitam // VT_390 //
+   japet piṇḍākṣaraṃ mantrī sarvasiddhikaraṃ param /	japet piNxa-akzaram mantrI sarva-sidDi-karam param /
+   śāntikapauṣtikaṃ karma śubheṣu aśubheṣu ca // VT_391 //	SAntika-pOztikam karma SuBezu aSuBezu ca // VT_391 //
+   kṣipram āvāhane siddhir homabījaprayogataḥ /	kzipram AvAhane sidDiH homa-bIja-prayogataH /
+   homayet phalabījāni dhānyabījatṛṇāni ca // VT_392 //	homayet Pala-bIjAni DAnya-bIja-tRNAni ca // VT_392 //
+   payasā vāpi śuddhena homakarma hy udāhṛtam /	payasA vA-api SudDena homa-karma hi udAhRtam /
+   madhunā ghṛtasaṃyuktaṃ tilaṃ juhyād vicakṣaṇi // VT_393 //	maDunA GRta-saMyuktam tilam juhyAt vicakzaNi // VT_393 //
+   sādhayet sarvakarmāṇi vaṣatkṛtaṃ japiṣyati /	sADayet sarva-karmANi vazat-kRtam japizyati /
+   sarveṣāṃ guhyamantrāṇāṃ bījamudrāṃ prayojayet // VT_394 //	sarvezAm guhya-mantrANAm bIja-mudrAm prayojayet // VT_394 //
+   aprakāśyam idaṃ guhyaṃ śivavaktrād viniḥsṛtam /	aprakASyam idam guhyam Siva-vaktrAt viniHsRtam /
+   yas tv idaṃ dhyāyate nityaṃ pūjayen manasā japet // VT_395 //	yaH tu idam DyAyate nityam pUjayet manasA japet // VT_395 //
+   sa bhuṅkte vipulān bhogān īśānāntapadaṃ labhet // VT_396 //	sa BuFkte vipulAn BogAn ISAna-anta-padam laBet // VT_396 //
+   vīṇāśikhā sārdhaśatatrayaṃ yāmalatantraṃ samāptam iti	vINA-SiKA sArDa-Sata-trayam yAmalatantram samAptam iti
+   (Verse 375 in Ed. has only 2 pādas)	(VeH-se 375 id Ed. has onlI 2 pAdas)
+   Appendices :	AppendiceH :
+   A:	A:
+   hūṃkārādau svāhānte ākarṣaṇe	hUMkAra-AdO svAhA-ante AkarzaNe
+   oṃkārādau vauṣat ante śāntike	oMkAra-AdO vOzat ante SAntike
+   oṃkārādau su vaṣaḍ ante pauṣtike	oMkAra-AdO su vazaw ante pOztike
+   oṃkārādau vaṣaḍante 'mṛtīkaraṇe	oMkAra-AdO vazaw-ante amRtIkaraNe
+   phat phat māraṇe	Pat Pat mAraNe
+   oṃ kṣraṃ saṃhārāstra	om kzram saMhAra-astra
+   B:	B:
+   kṣa puruṣa/prakṛti buddhi/ahaṅkāra manaḥ	kza puruza/-prakRti budDi-/ahaFkAra manaH
+   ja śabdasparśarasarūpagandha tanmātraṃ	ja Sabda-sparSa-rasa-rUpa-ganDa tanmAtram
+   bha pṛthivī āpa teja vāyu ākāśa pañcamahābhūta	Ba pRTivI Apa teja vAyu AkASa paQca-mahABUta-
+   /ma/śrotratvaccakṣurjihvāghrāṇa buddhīndriya	/ma/-Srotra-tvad-cakzuH-jihvA-GrANa budDIndriya
+   ha/vākpāṇipādapāyūpastha karmendriya	ha/vAc-pANi-pAda-pAyu-upasTa karmendriya
+   C:	C:
+   jaya brāhmani bhūmi	jaya brAhmani BUmi
+   vijaya kṣatrāṇi / āpa	vijaya kzatrANi / Apa
+   ajita / vaisani / teja	ajitaH / vEsani / teja
+   aparājita sūdrani / vāyu	aparAjita sUdrani / vAyu
+   tumburu akāśa śūnya nirguṇa	tumburu akASa SUnya nirguNa
+   D:	D:
+   kṣakāraḥ puruṣaḥ sākṣāt makāraḥ prakṛtiḥ smṛtā	kzakAraH puruzaH sAkzAt makAraH prakRtiH smRtA
+   mahān hakāram ity āhur ahaṃkāras tu ya smṛtaḥ	mahAn hakAram iti AhuH ahaMkAraH tu ye smRtaH
+   oṃkāras tu manaḥ proktaṃ kathitaṃ devi te kramāt	oMkAraH tu manaH proktam kaTitam devi te kramAt-
+   Colophon :	ColoPon :
+   vīṇāśikhaṃ vāmatantraṃ sampūrṇam śubham astu	vINA-SiKam vAmatantram sampUrNam SuBam astu

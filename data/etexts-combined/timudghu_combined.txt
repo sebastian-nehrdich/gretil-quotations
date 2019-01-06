@@ -1,0 +1,841 @@
+   %Chapter 1: introduction,	%ChapteH 1: intra-uductiA-Un,
+   %visualisation of 5-faced, 16-armed Bhairava	%visuali-sation of 5-faced, 16-armet BhEH-ava
+   [[fol.26r2]]\orn oṃ namo mahābhairavāya //	[[fol.26r2]]\orn om namaH mahABEravAya //
+   TiUdgh1.1ab: kailāsaśikhare ramye & siddhacāraṇasevite	Tiu-udG1.1ab: kElAsa-SiKare ramye & sidDa-cAraNa-sevite
+   TiUdgh1.1cd: siddhayogīsamākīrṇṇe & nānādrumasamanvite	Tiu-udG1.1cd: sidDa-yogI-samAkIrNNe & nAnA-druma-samanvite
+   TiUdgh1.2ab: apsarogaṇasaṅkīrṇe & yakṣagandharvasevite	Tiu-udG1.2ab: apsaraH-gaNa-saFkIrNe & yakza-ganDarva-sevite
+   TiUdgh1.2cd: nānā**samākīrṇṇe & nānādhātuvicitrite	Tiu-udG1.2cd: nAnA-**samAkIrNNe & nAnA-DAtu-vicitrite
+   TiUdgh1.3ab: anekaśikharākīrṇe & gaṇagandharvasevite	Tiu-udG1.3ab: aneka-SiKara-AkIrNe & gaNa-ganDarva-sevite
+   TiUdgh1.3cd: sahasrakiraṇopeta&taptakāṃcanasaprabhaḥ %em.: -prabhe	Tiu-udG1.3cd: sahasra-kiraNa-upeta&-tapta-kAMcanasapraBaH %em.: -praBe
+   TiUdgh1.4ab: riṣibhiś caiva sevit[e] & siddhagaṇaniṣevite	Tiu-udG1.4ab: riziBiH ca-eva sevit[e] & sidDa-gaNa-nizevite
+   TiUdgh1.4cd: karṇṇikāravanāntaraṃ & puṣpitacampakādibhiḥ %em.: -āntare	Tiu-udG1.4cd: karNNikAra-vana-antaram & puzpita-campaka-AdiBiH %em.: -a-antare
+   TiUdgh1.5ab: sarjārjunakadambaiś ca & pāṭalyāśokaśobhitā %em.: -śobhite	Tiu-udG1.5ab: sarja-arjuna-kadambEH ca & pAwalya-aSoka-SoBitA %em.: -SoBite
+   TiUdgh1.5cd: tatra tasmiṃ gire ramye & sthitaḥ sa**yā saha % sa-umayā	Tiu-udG1.5cd: tatra tasmim gire ramye & sTitaH sa**yA saha % sa--umayA
+   saha?	saha?
+   TiUdgh1.6ab: vicitre ratnakhacita{ṃ} & āsanākāñcanāmaye	Tiu-udG1.6ab: vicitre ratna-Kacita-{M} & AsanA-kAQcana-Amaye
+   TiUdgh1.6cd: kapālamālinaṃ deva<ṃ> & pañcavaktrañ ca sevitam \testim{\Cf	Tiu-udG1.6cd: kapAla-mAlinam deva<M> & paQcavaktran ca sevitam \teH-tim{\Sf
+   \SvaTa 2.88ff.}%aiśa subj./obj. confusion	\SvaTa 2.88ff.}%ESa subj./obj. ca-unfusion
+   TiUdgh1.7ab: bhujaṣoḍaśasaṃyuktaṃ & kale dvau da* [[fol26v]]locane	Tiu-udG1.7ab: Buja-zoxaSa-saMyuktam & kale dvO da* [[fol26v]]locane
+   TiUdgh1.7cd: jaṭābaddhordhvamakuṭaṃ & śaśāṅkakṛtaśekharaṃ	Tiu-udG1.7cd: jawA-badDa-UrDvam-akuwam & SaSAFka-kRta-SeKaram
+   TiUdgh1.8ab: piṅgakeśamahāghoraṃ & jvalantam iva pāvakam	Tiu-udG1.8ab: piFga-keSa-mahA-Goram & jvalantam iva pAvakam
+   TiUdgh1.8cd: nāgayajñopavītī ca & mahāghonāsakuṇḍala[ṃ] %em.: -opavītinam	Tiu-udG1.8cd: nAga-yajQa-upavItI ca & mahA-GonAsa-kuNxala[M] %em.: -a-upavItinam
+   TiUdgh1.9ab: kaṭakanāgarājendra&keyūrai<ḥ> kaṭisūtrakai<ḥ>% kaṭaka=aṅgada	Tiu-udG1.9ab: kawaka-nAga-rAja-indra&keyUrE<H> kawi-sUtrakE<H>% kawaka-=aFgada
+   TiUdgh1.9cd: śobhate devadeveśaṃ & umādehārdhadhāriṇam	Tiu-udG1.9cd: SoBate devadeveSam & umA-deha-arDa-DAriNam
+   TiUdgh1.10ab: khaḍgāṅgadhāriṇaṃ deva<ṃ> & śūlapāṇibhayānakam	Tiu-udG1.10ab: Kaxga-aFga-DAriNam deva<M> & SUlapANi-BayAnakam
+   TiUdgh1.10cd: [mahā]sa*dharaṃ vīraṃ & tathā vajrāsidhāriṇam	Tiu-udG1.10cd: [mahA]-sa*Daram vIram & taTA vajra-asi-DAriNam
+   TiUdgh1.11ab: śaktiparaśuhastaś ca & akṣamālāvibhūṣitam \var{-hastaś\lem	Tiu-udG1.11ab: Sakti-paraSu-hastaH ca & akza-mAlA-viBUzitam \var{--hasta-S\lem
+   \em; hastāś \N}	\em; hastAH \N}
+   TiUdgh1.11cd: mahāśavakarāṃbhoja&sukṛtakarṇṇipūritaṃ	Tiu-udG1.11cd: mahA-Sava-kara-aMBoja&-su-kRta-karNNi-pUritam
+   \var{mahāśavakarāṃbhoja\lem \em; mahāśavakare bhojanaṃ \N}\testim{\SiYoMa	\var{-mahA-Sava-kara-aMBaH-ja\lem \em; mahA-Sava-kare Bojanam \N}\teH-tim{\-SiYoMa
+   6.22cd; \TaSaBha 4.18cd}\com{sukṛtakarṇṇipūritaṃ:: aiśa for:	6.22cd; \Ta-SaBha 4.18cd}\-ca-um{-su-kRta-karNNi-pUritaM:: ESa for:
+   karṇapūrīkṛta, ``made into earrings''.}	karNapUrIkRta, ``made intaH earrings-aa.}
+   TiUdgh1.12ab: gajacarmottarīyañ ca & ghaṇṭāhastabhayānakaṃ	Tiu-udG1.12ab: gaja-carma-uttarIyan ca & GaNwA-hasta-BayAnakam
+   \var{ghaṇṭā-\lem \em; ghaṣṭhā \N}	\var{-GaNwA--\lem \em; GazWAH \N}
+   TiUdgh1.12cd: vyāghracarmmaparīdhānād & duṣprekṣa<ṃ> tṛdaśair api	Tiu-udG1.12cd: vyAGra-carmma-parIDAnAt & duzprekza<M> tRdaSEH api
+   TiUdgh1.13ab: koṭarākṣamahāśastraḥ & mahāmudrāvibhūṣitā	Tiu-udG1.13ab: kowara-akza-mahA-SastraH & mahAmudrA-viBUzitA
+   TiUdgh1.13cd: lelihāntamahājihvā&saṃsārosṛṣṭikārakaḥ %or should it be	Tiu-udG1.13cd: lelihA-anta-mahA-jihvA&-saMsAraH-sRzwi-kArakaH %oH should id be
+   asṛṣṭi?	asRzwi?
+   TiUdgh1.14ab: kapālaṃ vāmahastasthaḥ & tathā ḍamarukaṃ kare	Tiu-udG1.14ab: kapAlam vAma-hasta-sTaH & taTA xamarukam kare
+   TiUdgh1.14cd: cakrapāṇidhanuś caiva & sarodyanakare tathā %em: śarodyata-	Tiu-udG1.14cd: cakrapANiDanuH ca-eva & sarodyana-kare taTA %em: Sara-udyata-
+   TiUdgh1.15ab: pa[dma?]hastasaṣīnañ ca & tathā bhaṭṭārikaṅ kare %em:	Tiu-udG1.15ab: pa[dma?]-hasta-sazInan ca & taTA BawwAri-kaF kare %em:
+   bhaṭṭārikāṃ?	BawwArikAM?
+   TiUdgh1.15cd: hasan{taṃ} kilakilāyantaṃ & mahābhīmo [']ṭṭahāsitam	Tiu-udG1.15cd: hasan{taM} kilakilAyantam & mahA-BImaH [-a]wwahAsitam
+   TiUdgh1.16ab: bhairavaṃ rūpam āsthāya & mahāyogibhir āvṛtaḥ	Tiu-udG1.16ab: BEravam rUpam AsTAya & mahA-yogiBiH AvRtaH
+   TiUdgh1.16cd: evaṃ sukha...	Tiu-udG1.16cd: evam suKa...
+   [[1 folio missing]]	[[1 foliaH missing]]
+   [[fol. 28r]] ...kaulikasya ca amṛtam	[[fol. 28r]] ...kOlikasya ca amRtam
+   mūrkhasya śāstrasadbhāvam & kumārīstrīsukhaṃ yathā	mUrKasya SAstra-sadBAvam & kumArI-strI-suKam yaTA
+   tathā pāpiṣṭhapuruṣaḥ & kaulikasya parā<ṅ>mukha<ḥ>	taTA pApizWa-puruzaH & kOlikasya parA<F>muKa<H>
+   eva ajñānamūḍh<ā>s tu & śāstrajālena mohitā<ḥ>	eva ajQAna-mUX<A>H tu & SAstra-jAlena mohitA<H>
+   na jānanti parānanda<ṃ> & kulajñānaparāmṛtam \var{-āmṛtam\lem -āmṛtā \N}	na jAnanti para-Ananda<M> & kula-jQAna-para-amRtam \var{-a-amRta-m\lem -A-amRtA \N}
+   %standard kaula liṅga-rejection passage:	%H-tandart kOla liFga-rejet-tion passage:
+   yatheṣṭasiddhidaṃ devi & icchāśaktir adhiṣṭhitā	yaTezwa-sidDi-dam devi & icCA-SaktiH aDizWitA
+   yena yena tu veśena & yena tena vratena vā	yena yena tu veSena & yena tena vratena vA
+   na yatra nānacācāra&dvaitādvaitayathepsayā	na yatra nAnacA-AcAra&-dvEtAt-vEtayaTa-IpsayA
+   avasare tu yadāhaṃ & tadāhañ carukopamaṃ	avasare tu yadA-aham & tadA-Ahan caruka-upamam
+   gṛhastho brahmacārī vā & [savāsā**]rūpi vā	gRhasTaH brahmacArI vA & [savAsA**]-rUpi vA
+   yathepsa varttamānasya & yatra tatra sthito pi vā	yaTA-Ipsa varttamAnasya & yatra tatra sTitaH pi vA
+   yathā tathāpi deveśi & gurugurutarasvinam	yaTA taTA-api deveSi & guru-gurutarasvinam
+   rudraśaktisamāveśā[t] & kaul[eyoṇi]na sidhyati %em: kaulayogena siddhyati?	rudra-Sakti-samAveSa-a[t] & kOl[eyoNi]na siDyati %em: kOla-yogena sidDyati?
+   \orn iti timirodghāṭane dvitīyaḥ paṭalaḥ	\a-Ur iti timira-udGAwane dvitIyaH pawalaH
+   %paṭala 3 praises kaula against vaineya (ordinary Śaiva)	%pawala 3 prEseH kOla agEnst vEneya (oH-dinarI ŚA-eva)
+   bhairava uvāca //	BEravaH uvAca //
+   TimUdgh3.1ab: granthārtha<ṃ> vadate loke & anyathātmā samācare	Timu-udG3.1ab: granTa-arTa<M> vadate loke & anyaTA-AtmA samAcare
+   TimUdgh3.1cd: [vidyāh*]paṇḍityair & garvvitā kugatir gatā	Timu-ud-G3.1cd: [vidyA-h*]-paNxityEH & garvvitA ku-gatiH gatA
+   TimUdgh3.2ab: akṣarārthena santuṣṭā & vedaśāstrārthacintakā	Timu-udG3.2ab: akzara-arTena santuzwA & veda-SAstra-arTa-cintakA
+   TimUdgh3.2cd: na vindati paraṃ śāntaṃ & mohitā arthapaṇḍitā	Timu-ud-G3.2cd: na vindati param SAntam & mohitA arTa-paNxitA
+   TimUdgh3.3ab: ***[[fol28v]]sya kuto jñānaṃ & granthakoṭiśatair api	Timu-udG3.3ab: ***[[fol28v]]sya kutas jQAnam & granTa-kowi-SatEH api
+   TimUdgh3.3cd: karpūrakuṃkumādīni & kharovāhi nirarthakaḥ%?	Timu-udG3.3cd: karpUra-kuMkuma-AdIni & KarovAhi nirarTakaH%?
+   TimUdgh3.4ab: vinayāsiddhābhiś caiva & bahava kṣipya mohitā % on vinaya,	Timu-udG3.4ab: vinaya-asidDABiH ca-eva & bahava kzipya mohitAH % on vinaya,
+   vaineya see also TaĀl 37.28	vA-eneya see alsaH TaĀt 37.28
+   TimUdgh3.4cd: kaula[k]**rānandaṃ & na vindanti varānane	Timu-ud-G3.4cd: kOla[k]**ra-Anandam & na vindanti varAnane
+   TimUdgh3.5ab: mantratantreṣu santuṣṭā & kiñci svāditapratyayaḥ	Timu-udG3.5ab: mantra-tantrezu santuzwA & kiQci svAdita-pratyayaH
+   TimUdgh3.5cd: aprāpya kaulikajñānaṃ & santuṣṭā vinaye narā<ḥ>	Timu-ud-G3.5cd: aprApya kOlika-jQAnam & santuzwAH vinaye narA<H>
+   TimUdgh3.6ab: śuklapītā[di]**ṣṭh[ā/o] & anyam vā kaṭukādikam	Timu-udG3.6ab: Sukla-pItA[di]**zW[A/o] & anyam vA kawuka-Adikam
+   TimUdgh3.6cd: kuṇḍalā varttulākārā & dahanāpyāyanan tathā	Timu-ud-G3.6cd: kuNxalAH varttula-AkArAH & dahana-ApyAyanan taTA
+   TimUdgh3.7ab: evamādi tathā cānya & bhūtaśuddhi tathāparā	Timu-udG3.7ab: evamAdi taTA ca-anyaH & BUtaSudDi taTA-aparA
+   TimUdgh3.7cd: bindunāda tathā [śakti] & sūkṣūṃsvādhvānam eva ca %stages of	Timu-ud-G3.7cd: bindunAda taTA [Sakti] & sUkzUMsva-aDvAnam eva ca %stageH of
+   uccāra?	uccAra?
+   TimUdgh3.8ab: jñānatattvavidhi<ṃ> jñātvā & śaivāsantuṣṭamānavāḥ	Timu-udG3.8ab: jQAna-tattva-viDi<M> jQAtvA & SEvA-santuzwa-mAnavAH
+   TimUdgh3.8cd: kaulikaṃ tu sarve saṅg<ā> & yoginīnām mahātmanā %metri causa	Timu-ud-G3.8cd: kOlikam tu sarve saFg<A> & yoginInAm mahAtmanA %metri cOsa
+   for mahātmānaḥ ?	foH mahAtmAnaH ?
+   TimUdgh3.9ab: [vaineyik<ās> ta]thā kīṭā & paśutvaṃ parikīrtitā<ḥ> %V's are	Timu-udG3.9ab: [vEneyik<As> ta]TA kIwAH & paSu-tvam parikIrtitA<H> %V-as are
+   worms!	wa-Urms!
+   TimUdgh3.9cd: sauvarṇamṛnmayā cāpi & gajasya maśakasya ca	Timu-ud-G3.9cd: sOvarNa-mRd-mayA ca-api & gajasya maSakasya ca
+   TimUdgh3.10ab: tādṛśamatena-n devi & kaulavainyikasya ca %defective	Timu-udG3.10ab: tAdRSa-matena-n devi & kOlavEnyikasya ca %defective
+   syntax. The passage presumably intends to compare gold and elephant to the	syntax. The passa-ge presum-ablI intends taH ca-umpare gold and elePant taH Te
+   kaula, and clay and mosquito to the vaineya.	kOla, and clay and mosquitaH taH Te vEneya.
+   TimUdgh3.10cd: gaganeṣu parācandra&saṃgra*ṣu gajaṃ yathā	Timu-ud-G3.10cd: gaganezu parA-candra&-saMgra*zu gajam yaTA
+   TimUdgh3.11ab: tathā śobhate kaulīśa & bhramanta pṛthivītale	Timu-udG3.11ab: taTA SoBate kOlISaH & Bramanta pRTivI-tale
+   TimUdgh3.11cd: rañji[t]okṣarasaṃyuktaṃ & kaulavidyākṣarānvitaṃ	Timu-ud-G3.11cd: raQji[t]a-ukzara-saMyuktam & kOla-vidyA-akzara-anvitam
+   TimUdgh3.12ab: dhyānacintāmaṇir yogaṃ & acintyaci	Timu-udG3.12ab: DyAna-cintAmaNiH yogam & acintyaci
+   [[folio missing]]	[[foliaH missing]]
+   %chapter 4 how śakti manifests (with symptoms) in the body	%CapteH 4 how Sakti manifestH (wiT symptoms) id Te body
+   TiUdgh04.1ab: [[fol.30r]] dehe katham bhavet	Tiu-udG04.1ab: [[fol.30r]] dehe kaTam Bavet-
+   TiUdgh04.1cd: saṃśayo me mahādeva & etat kathaya sureśvara{ḥ}	Tiu-udG04.1cd: saMSayaH me mahAdeva & etat kaTaya sureSvara{H}
+   bhairava uvāca	BEravaH uvAca
+   TiUdgh04.2ab: sarvvavyāpī tu sā devi & hṛdaye sarvadehinā[ṃ]	Tiu-udG04.2ab: sarvu-avyApI tu sA devi & hRdaye sarva-dehinA[M]
+   TiUdgh04.2cd: jñānopadeśaratnena & bodhitā sa vibudhyati	Tiu-udG04.2cd: jQAna-upadeSa-ratnena & boDitA sa vibuDyati
+   TiUdgh04.3ab: yo sau vyāpakarūpeṇa & śivaśaktisamek[ṣ]atau	Tiu-udG04.3ab: yaH sO vyApaka-rUpeNa & Siva-Sakti-samek[z]atO
+   TiUdgh04.3cd: rudraśaktir iyaṃ devi & āveśagurumukhe sthitaṃ	Tiu-udG04.3cd: rudra-SaktiH iyam devi & AveSa-guru-muKe sTitam
+   %hypermetrical	%hi-peH-metri-cal
+   TiUdgh04.4ab: yo sau acintyam ity āhu<ḥ> & śivaṃ paramakāraṇaḥ	Tiu-udG04.4ab: yaH sO acintyam iti Ahu<H> & Sivam parama-kAraNaH
+   TiUdgh04.4cd: tasye[ś]ānirgatā śakti & nādabinduprabhedinī	Tiu-udG04.4cd: tasye[S]A-nirgatA Sakti & nAdabindu-praBedinI
+   TiUdgh04.5ab: tasyoccāritamātreṇa & pratyayaś copajāyate	Tiu-udG04.5ab: tasya-uccArita-mAtreNa & pratyayaH ca-upajAyate
+   TiUdgh04.5cd: kar[mm]at**hapiṇḍaṃ tu & tasya stobha prajāyate	Tiu-udG04.5cd: kar[mm]at**hapiNxam tu & tasya stoBa prajAyate
+   TiUdgh04.6ab: ābhyāse divya vidyate & divya devi tanusthitaṃ	Tiu-udG04.6ab: AByAse divya vidyate & divya devi tanu-sTitam
+   TiUdgh04.6cd: tasya māse{s} tṛbhir devi & yoginī[bheda]darśanaṃ	Tiu-udG04.6cd: tasya mAse{-s} tRBiH devi & yoginI[Beda]-darSanam
+   TiUdgh04.7ab: paśyate divyadevāś ca & vimānastho varānane	Tiu-udG04.7ab: paSyate divya-devAH ca & vimAna-sTaH varAnane
+   TiUdgh04.7cd: yathābhyāsatayā devi &yathāsṛṣṭi pravarttate %sṛṣṭibīja	Tiu-udG04.7cd: yaTA-aByAsa-tayA devi &yaTA-sRzwi pravarttate %sRzwi-bIja
+   intended?	intA-inded?
+   TiUdgh04.8ab: hṛdayaṃ kampate pūrvvaḥ & tālukoccāram eva ca	Tiu-udG04.8ab: hRdayam kampate pUrvvaH & tAlukA-uccAram eva ca
+   TiUdgh04.8cd: śirañ ca bhramate na sā & sṛṣṭisaṃkrāntilakṣaṇaṃ	Tiu-udG04.8cd: Siran ca Bramate na sA & sRzwi-saMkrAnti-lakzaNam
+   TiUdgh04.9ab: ekaika bhrāmayed [evaṃ] & aṅgapratyaṅgasandhiṣu	Tiu-udG04.9ab: ekEka BrAmayet [evaM] & aFga-pratyaFga-sanDizu
+   TiUdgh04.9cd: ghūrmmitā sarvvadeho 'yaṃ & kaulavidyāprabhāvataḥ	Tiu-udG04.9cd: GUrmmitA sarvu-adehaH ayam & kOla-vidyA-praBAvataH
+   TiUdgh04.10ab: ***[[fol.30v]] ni vikārāṇi & avasthā kurutepsayā %double	Tiu-udG04.10ab: ***[[fol.30v]] ni vikArANi & avasTA kuruta-IpsayA %double
+   sandhi	sanDi
+   TiUdgh04.10cd: teṣu teṣu na bhetavyaṃ & krīḍate parameśvarī	Tiu-udG04.10cd: tezu tezu na Betavyam & krIxate parameSvarI
+   TiUdgh04.11ab: na ca bhūtapiśācāṃ vā & na mohena ca pīḍitā	Tiu-udG04.11ab: na ca BUta-piSAcAm vA & na mohena ca pIxitA
+   TiUdgh04.11cd: na cā*h*niruddhe gaṃ*&*ca pīḍā vimucyate	Tiu-udG04.11cd: na ca-a*h*nirudDe gaM*&*ca pIxA vimucyate
+   TiUdgh04.12ab: icchāśaktisvarūpeṇa & guruṃ bhavati yoginaḥ	Tiu-udG04.12ab: icCA-Sakti-svarUpeNa & gurum Bavati yoginaH
+   TiUdgh04.12cd: ratyānandakarī dehe & sarvvapāpaharim parā	Tiu-udG04.12cd: rati-Ananda-karI dehe & sarvu-apApa-harim parA
+   TiUdgh04.13ab: putramitrakala*ṇi& śā&*idhanasa*yaṃ	Tiu-udG04.13ab: putra-mitra-kala*Ni& SA&*iDana-sa*yam
+   TiUdgh04.13cd: iṣṭā aniṣṭatā yānti & yogasvāditamānasā	Tiu-udG04.13cd: izwAH anizwatA yAnti & yoga-svAdita-mAnasA
+   TiUdgh04.14ab: paśyate divyadevāś ca & vimānasthā varānane	Tiu-udG04.14ab: paSyate divya-devAH ca & vimAna-sTAH varAnane
+   TiUdgh04.14cd: mantratantrakṛtāveśā&***ṣṭam acetanam	Tiu-udG04.14cd: mantra-tantra-kRta-AveSA&***zwam acetanam
+   TiUdgh04.15ab: rudraśaktisamāveśaṃ & nityāveśam acetanaṃ	Tiu-udG04.15ab: rudra-Sakti-samAveSam & nitya-AveSam acetanam
+   TiUdgh04.15cd: divyadevaiś ca saṃyogā & paramānandakāraṇam	Tiu-udG04.15cd: divya-devEH ca saMyogAH & parama-Ananda-kAraNam
+   TiUdgh04.16ab: brahmāṇḍā[dara]pra[kṛ*]&bhuktimuktiphalapradā	Tiu-udG04.16ab: brahmANxA[-dara]-pra[kR*]&Bukti-mukti-Pala-pradA
+   TiUdgh04.16cd: rudraśaktisamāveśaṃ & śabdadṛṣṭiṣu jāyate	Tiu-udG04.16cd: rudra-Sakti-samAveSam & Sabda-dRzwizu jAyate
+   TiUdgh04.17ab: na jānāti divārātrau & yuktayogo varānane	Tiu-udG04.17ab: na jAnAti divArAtrO & yukta-yogaH varAnane
+   TiUdgh04.17cd: kṣudhātṛṣ<ṇ>aṃ na jānanti & aṅgapīḍā na tasya vai	Tiu-udG04.17cd: kzuDA-tRz<N>am na jAnanti & aFga-pIxA na tasya vE
+   TiUdgh04.18ab: jāyate hṛṣṭituṣṭiñ ca & sadā ānandam eva ca	Tiu-udG04.18ab: jAyate hRzwi-tuzwin ca & sadA Anandam eva ca
+   TiUdgh04.18cd: kurute cetanāyukto & mudrābandham anekadhā	Tiu-udG04.18cd: kurute cetanA-yuktaH & mudrA-banDam anekaDA
+   TiUdgh04.19ab: kampanaṃ geyanṛtyañ ca & vikārabahuvidhas tathā %	Tiu-udG04.19ab: kampanam geya-nRtyan ca & vikAra-bahuviDaH taTA %
+   hypermetrical	hi-peH-metri-cal
+   TiUdgh04.19cd: [[fol.31r]] kurute malavikāreṇa & bahujanyāsvayaṅkṛtaṃ	Tiu-udG04.19cd: [[fol.31r]] kurute mala-vikAreNa & bahu-janyA-svayaFkRtam
+   TiUdgh04.20ab: dhunate ca malasarddha&parāśaktitanusthitaṃ	Tiu-udG04.20ab: Dunate ca mala-saRdDa&parA-Sakti-tanu-sTitam
+   TiUdgh04.20cd: asatyayadita{ṃ?]ve coktaṃ & di[ṣṭyā] naiva pravarttate	Tiu-udG04.20cd: asatyayat-ita{M?]ve ca-uktam & di[zwyA] na-eva pravarttate
+   TiUdgh04.21ab: yogacihnan na paśyete & na vidyākramitā kvacit	Tiu-udG04.21ab: yoga-cihnan na paSyete & na vidyA-kramitA kvacid-
+   TiUdgh04.21cd: kramitā yadi bhave tasya & tataḥ paśyati niścitaṃ %	Tiu-udG04.21cd: kramitA yadi Bave tasya & tatas paSyati niScitam %
+   hypermetrical	hi-peH-metri-cal
+   TiUdgh04.22ab: anyathā śāstrakoṭiṣu & evaṃvin na pravartate	Tiu-udG04.22ab: anyaTA SAstra-kowizu & evaMvid na pravartate
+   iti timirodghāṭane caturthaḥ paṭalaḥ //\orn	iti timira-udGAwane caturTaH pawalaH //\oH-n
+   %kaulajñānopadeśa and its rewards	%kOla-jQAna-upadeSa and its rewards
+   bhairva uvāca	BErvaH uvAca
+   TimUdgh5.1ab: śṛṇu devi adhordhvena & kaulajñānopadeśikaṃ	Timu-udG5.1ab: SRNu devi aDorDvena & kOla-jQAna-upadeSikam
+   TimUdgh5.1cd: guro-padeśalabdhaṃ tu & bhuktimuktiphalapradaṃ %weird sandhi	Timu-ud-G5.1cd: guro-padeSa-labDam tu & Bukti-mukti-Pala-pradam %weird sanDi
+   guropadeśa- or is it meant to be guroḥ+upadeśa-	gura-upadeSa oH iH id meant taH be guroH+upadeSa-
+   TimUdgh5.2ab: yadā saṃkrāmitajñānaṃ & tadā mukti<ḥ> suniścitaṃ	Timu-udG5.2ab: yadA saMkrAmita-jQAnam & tadA mukti<H> su-niScitam
+   TimUdgh5.2cd: kulālacakravad devi & kramati dehapañjaraḥ	Timu-ud-G5.2cd: kulAla-cakra-vat devi & kramati deha-paQjaraH
+   TimUdgh5.3ab: [anu**ā*]ye satvā & jñānavīryāprakāśitaṃ	Timu-udG5.3ab: [anu**A*]ye satvA & jQAna-vIrya-aprakASitam
+   TimUdgh5.3cd: bhuñjate vividhā bhogā & bhuktimuktiphalapradaṃ	Timu-ud-G5.3cd: BuQjate viviDA BogAH & Bukti-mukti-Pala-pradam
+   TimUdgh5.4ab: ākarṣaṇavaśīkaraṇam & vidveṣoccāṭanamāraṇaṃ %hyperm.	Timu-udG5.4ab: AkarzaNa-vaSIkaraNam & vidveza-uccAwana-mAraNam %hi-perm.
+   TimUdgh5.4cd: rājasammānanañ caiva & stobhastambhādivās tathā	Timu-ud-G5.4cd: rAja-sammAnanan ca-eva & stoBa-stamBa-AdivAH taTA
+   TimUdgh5.5ab: kurute pratyayaṃ [hyetaṃ?] & vācāsiddhim anekadhā	Timu-udG5.5ab: kurute pratyayam [hi-etaM?] & vAcA-sidDim anekaDA
+   TimUdgh5.5cd: mantratantreṣu ye coktā & te pi vidyā prayacchati	Timu-udG5.5cd: mantra-tantrezu ye ca-uktA & te pi vidyA prayacCati
+   TimUdgh5.6ab: śa*karmāsu saṃsiddhā & sarvakarmaphalapradā	Timu-udG5.6ab: Sa*karmAsu saMsidDAH & sarva-karma-Pala-pradA
+   TimUdgh5.6cd: sarvatantrottam[āv*]ā & sarvavarṇeṣu bheditā	Timu-ud-G5.6cd: sarva-tantra-uttam[O=-*]A & sarva-varNezu BeditA
+   TimUdgh5.7ab: mṛtasaṃjīvanī śubhā & stobhākarṣe tu cāruṇā %orange	Timu-udG5.7ab: mRta-saMjIvanI SuBA & stoBAkarze tu ca-aruNA %a-urange
+   TimUdgh5.7cd: stambha**nipītābhā& sadhūmoccāṭane smṛtā %yellow	Timu-ud-G5.7cd: stamBa**-nipIta-ABA& sa-DUma-uccAwane smRtA %yet-low
+   TimUdgh5.8ab: ripumṛtyukarā kṛṣṇā & saṅkrāme raktavarṇikā %black, red	Timu-udG5.8ab: ripu-mRtyu-karA kRzNA & saFkrAme rakta-varNikA %black, red
+   TimUdgh5.8cd: śriyā vibhāti padmābhā & muktvāṃ <*> kāntitejasā	Timu-ud-G5.8cd: SriyA viBAti padma-ABA & muktvAm <*> kAnti-tejasA
+   TimUdgh5.9ab: aṇimālaghimāñ caiva & mahimāṃ prāptir eva ca	Timu-udG5.9ab: aNima-alaGimAn ca-eva & mahimAm prAptiH eva ca
+   TimUdgh5.9cd: prākāmyaśivatattvañ ca & vaśitvaṃ yatra kāmatāḥ	Timu-ud-G5.9cd: prAkAmya-Siva-tattvan ca & vaSitvam yatra kAma-tAH
+   TimUdgh5.10ab: śravaṇādarśanādaraṃ & aṣṭamaṃ parikīrtitam	Timu-udG5.10ab: SravaNa-adarSana-Adaram & azwamam parikIrtitam
+   TimUdgh5.10cd: kaulividyāprabhāvena & aiśvaryāṣṭaguṇām bhavet %em:	Timu-udG5.10cd: kOlividyA-praBAvena & ESvarya-azwaguNAm Bavet %em:
+   kaulavidyā-	kOlavidyA-
+   TimUdgh5.11ab: utpadyate guṇā yena & tam priyaṃ kathayāmy aham	Timu-udG5.11ab: utpadyate guNAH yena & tam priyam kaTayAmi aham
+   TimUdgh5.11cd: dvādaśāni ca ślokāni & [*ditāsarvvada]rśanaṃ %mudritāḥ /	Timu-ud-G5.11cd: dvAdaSAni ca SlokAni & [*ditA-sarvvada]rSanam %mudritAH /
+   gaditāḥ / uditā ?	gaditAH / uditA ?
+   %``taught in all sciences''? or ``said to be the essence	%``ta-oGt id all sciet-ces-aa? oH ``sEt taH be Te esset-ce
+   (sarvaṃ=sarvasvaṃ) of all schools''?	(sarvan=sarva-svaM) of all sSoolsaa?
+   TimUdgh5.12ab: gopitavyaṃ prayatnena & lekhakena na lekhayet	Timu-udG5.12ab: gopitavyam prayatnena & leKakena na leKayet-
+   TimUdgh5.12cd: dvādaśāni ca ślokāni & saptāhena varānane	Timu-ud-G5.12cd: dvAdaSAni ca SlokAni & sapta-ahena varAnane
+   TimUdgh5.13ab: nāpaṭhe dīyate tasya & karṇṇākarṇe [tu] sañcaret	Timu-udG5.13ab: na-apaWe dIyate tasya & karNNAkarNe [tu] saQcaret-
+   TimUdgh5.13cd: taṃ labdhvā tu bhave siddhi & ucchare	Timu-ud-G5.13cd: tam labDvA tu Bave sidDi & ucCare
+   sṛṣṭisamarasaṃ%hyperm.	sRzwi-samara-saM%hyperm.
+   TimUdgh5.14ab: tatkṣaṇā bandhate mudrā & khecarī tu na saṃśayaḥ	Timu-udG5.14ab: tad-kzaNA banDate mudrA & KecarI tu na saMSayaH
+   TimUdgh5.14cd: eka<ṃ> sṛṣṭimayaṃ bījaṃ & ek<ā> mudrā tu khecarī	Timu-udG5.14cd: eka<M> sRzwi-mayam bIjam & ek<A> mudrA tu KecarI
+   [[fol. 32r]]	[[fol. 32r]]
+   TimUdgh5.15ab: dvāv etau jñāyate yena & so pi śāntapade sthitaṃ %cf.	Timu-udG5.15ab: dvO etO jQAyate yena & saH pi SAnta-pade sTitam %cf.
+   TĀ32.64	TĀ32.64
+   TimUdgh5.15cd: tatpade saṃsthito yogī & trailokyam api darśayet %=paśyet?	Timu-ud-G5.15cd: tad-pade saMsTitaH yogI & trElokyam api darSayet %=paSyet-?
+   TimUdgh5.16ab: utpadyante kṣaṇād eva{ḥ} & tṛṣkāla[jñāti]<ḥ> sambhavet	Timu-udG5.16ab: utpadyante kzaNAt eva{H} & tRzkAla[-jQAti]<H> samBavet-
+   iti timirodghāṭane pañcamaḥ paṭalaḥ	iti timira-udGAwane paQcamaH pawalaH
+   %Cihna's of Rudraśaktisamāveśaḥ	%Cihna-as of Rudra-Sakti-samAveSaH
+   devy uvāca	devI uvAca
+   TimUdgh6.1ab: kā sā saṃkrāmate śaktiḥ & kāni cihnāni darśayet %archaic	Timu-udG6.1ab: kA sA saMkrAmate SaktiH & kAni cihnAni darSayet %arCEc
+   gupta style rśa!	gupta style rSa!
+   TimUdgh6.1cd: sa*stobhhāvikārāṇi & kurute dehasaṃsthitā	Timu-ud-G6.1cd: sa*stoBha-avikArANi & kurute deha-saMsTitA
+   TimUdgh6.2ab: kathaṃ saṃkramitā jñeyā & saṃkrāntā kā vidhīyate	Timu-udG6.2ab: kaTam saMkramitA jQeyA & saMkrAntA kA viDIyate
+   TimUdgh6.2cd: katha<ṃ> cokrama[ṇa]ratnā & adhordhvena kathaṃ vrajet	Timu-ud-G6.2cd: kaTa<M> cokrama[Na]ratnA & aDorDvena kaTam vrajet-
+   TimUdgh6.3ab: ***ti kathaṃ jñeyā & kena kālena siddhidā	Timu-udG6.3ab: ***ti kaTam jQeyA & kena kAlena sidDi-dA
+   TimUdgh6.3cd: siddhasya kāni cihnāni & etat katha parameśvara{ḥ}%hyperm.	Timu-ud-G6.3cd: sidDasya kAni cihnAni & etat kaTa parameSvara{H}%hi-perm.
+   bhairava uvāca	BEravaH uvAca
+   TimUdgh6.4ab: yā sā vyāpakarūpeṇa & brahmāṇḍe sacarācare	Timu-udG6.4ab: yA sA vyApaka-rUpeNa & brahmANxe sacarAcare
+   \var{brahmāṇḍe\lem \em; brahmāṇḍo \N}	\var{-brahmANxe\-lem \em; brahmANxaH \N}
+   TimUdgh6.4cd: vyāpayitvā adhordhvena & sarvvavyāpi tu sā smṛtā	Timu-ud-G6.4cd: vyApayitvA aDorDvena & sarvu-avyApi tu sA smRtA
+   TimUdgh6.5ab: sabāhyābhyantare dehe & sarvajantuṣu saṃsthitā	Timu-udG6.5ab: sa-bAhya-aByantare dehe & sarva-jantuzu saMsTitA
+   TimUdgh6.5cd: sadācāryopadeśena & paradehe tu saṃkrame	Timu-ud-G6.5cd: sat-AcArya-upadeSena & para-dehe tu saMkrame
+   TimUdgh6.6ab: sthitigati adhordhvena & dehasaṃkrāntilakṣaṇam	Timu-udG6.6ab: sTiti-gati aDorDvena & deha-saMkrAnti-lakzaNam
+   TimUdgh6.6cd: adhasaṃhārasaṃkrānti & ūrdhvasṛṣṭi varānane	Timu-ud-G6.6cd: aDa-saMhAra-saMkrAnti & UrDva-sRzwi varAnane
+   TimUdgh6.7ab: sthitigatisthitāma* &[[fol.32v]] tṛdhā yoga<ḥ> pravarttate	Timu-udG6.7ab: sTiti-gati-sTita-Ama* &[[fol.32v]] tRDA yoga<H> pravarttate
+   TimUdgh6.7cd: evaṃ krameṇa vedhavyaṃ & trivir ekena-m ādiśet% em: tribhir	Timu-ud-G6.7cd: evam krameNa veDavyam & trivis ekena-m AdiSet% em: triBiH-
+   TimUdgh6.8ab: dehavyāpyam adhordhvena & parāśakti<ḥ> praveśayet	Timu-udG6.8ab: deha-vyApyam aDorDvena & parASakti<H> praveSayet-
+   TimUdgh6.8cd: yasyaitāni tu cihnāni & sa guru*kṣadā smṛtā	Timu-ud-G6.8cd: yasya-etAni tu cihnAni & sa guru-*kzadA smRtA
+   % em: sa gurur mokṣadaḥ smṛtaḥ	% em: sa guruH mokza-daH smRtaH
+   %mokṣada is a known type of ācārya,	%mokza-daH iH a known type of AcArya,
+   %is this intended here?	%iH TiH inta-indet here?
+   TimUdgh6.9ab: kṛtvā sarvvopacārāṇi & ātmanena dhanena vā %ātmanena!	Timu-udG6.9ab: kRtvA sarvvA-upacArANi & Atmanena Danena vA %a-Atmanena!
+   TimUdgh6.9cd: grāhya tatparasaṃjñānaṃ & guruvaktreṣu saṃsthitā	Timu-ud-G6.9cd: grAhya tad-para-saMjQAnam & guru-vaktrezu saMsTitA
+   TimUdgh6.10ab: kaulopadeśaratnena & yoginā divyadarśanāṃ	Timu-udG6.10ab: kOla-upadeSa-ratnena & yoginA divya-darSanAm
+   TimUdgh6.10cd: paśyen nimīlitākṣes tu & punaf pratyakṣadarśanāt	Timu-ud-G6.10cd: paSyet nimIlita-akzeH tu & punaf pratyakza-darSanAt-
+   TimUdgh6.11ab: yoginī prathamaṃ chāyā&mātra<**> punaḥ punaḥ %hypom.	Timu-udG6.11ab: yoginI praTamam CAyA&-mAtra<**> punar punar %hi-pom.
+   TimUdgh6.11cd: yathā cābhyāsate yoga<ṃ?> & tathārūpaṃ pravarttate	Timu-ud-G6.11cd: yaTA ca-aByAsate yoga<M?> & taTArUpam pravarttate
+   TimUdgh6.12ab: <8> & paśyati kṛṣṇarūpiṇī	Timu-udG6.12ab: <8> & paSyati kRzNa-rUpiNI
+   TimUdgh6.12cd: raudrī vā saumyarūpeṇa & nānābharaṇabhūṣitā	Timu-ud-G6.12cd: rOdrI vA sOmya-rUpeNa & nAnA-ABaraNa-BUzitA
+   TimUdgh6.13ab: dṛṣṭānaṣṭe sthitā caiva & bahurūpeṇa [dṛ]śyate %	Timu-udG6.13ab: dRzwa-anazwe sTitA ca-eva & bahu-rUpeNa [dR]Syate %
+   TimUdgh6.13cd: antarikṣasthitā nityaṃ & sarvve paśyanti mātaram	Timu-udG6.13cd: antarikza-sTitAH nityam & sarvve paSyanti mAtaram
+   TimUdgh6.14ab: raudrabhairavarūpeṇa & bahuyogiparivṛtāṃ	Timu-udG6.14ab: rOdra-BErava-rUpeNa & bahu-yogi-parivRtAm
+   TimUdgh6.14cd: yogeśvarapurañ caiva & ātmānanda[ḥ] sa paśyati	Timu-ud-G6.14cd: yogeSvara-puran ca-eva & Atma-Ananda[H] sa paSyati
+   TimUdgh6.15ab: kaulikaṃ yogaratnena & samprāptena varānane	Timu-udG6.15ab: kOlikam yoga-ratnena & samprAptena varAnane
+   TimUdgh6.15cd: pṛthivyāṃ nāsti taṃ dravyaṃ & yan dattvā niraṇībhavet	Timu-udG6.15cd: pRTivyAm na-asti tam dravyam & yat dattvA niraNIBavet-
+   TimUdgh6.16ab: kaulopadeśadātāraṃ & durūbhaṃ (?) gurumokṣadaṃ [[fol. 33r]]	Timu-udG6.16ab: kOla-upadeSa-dAtAram & durUBam (?) guru-mokza-dam [[fol. 33r]]
+   TimUdgh6.16cd: chedayed yas tu saṃsāraṃ & tasya deyam atatparaṃ	Timu-udG6.16cd: Cedayet yaH tu saMsAram & tasya deyam atat-param
+   TimUdgh6.17ab: kaulajñānāmṛtaṃ divyaṃ & bahubhedeṣu saṃsthita<ṃ>	Timu-udG6.17ab: kOla-jQAna-amRtam divyam & bahu-Bedezu saMsTita-<M>
+   TimUdgh6.17cd: tan mayā kathitaṃ svalpaṃ & koṭibhedeṣu dṛśyate	Timu-udG6.17cd: tat mayA kaTitam su-alpam & kowi-Bedezu dRSyate
+   TimUdgh6.18ab: saptaviṅśativarṣeṣu& kathitā siddhikhecarī % em: kathitaḥ	Timu-udG6.18ab: sapta-viFSati-varza-izu& kaTitA sidDi-KecarI % em: kaTitaH
+   siddhakhecarī	sidDaKecarI
+   TimUdgh6.18cd: nityābhiyuktayogīśa<ḥ> & śīghram eva sa siddhyati	Timu-ud-G6.18cd: nitya-aBiyukta-yogi-ISa<H> & SIGram eva sa sidDyati
+   TimUdgh6.19ab: evaṃ sarvva<ṃ> mayākhyātaṃ & ya[t tva]yā pṛcchitaṃ priye	Timu-udG6.19ab: evam sarvu-a<M> mayA-AKyAtam & ya[t tva]yA pRcCitam priye
+   iti timirodghāṭane ṣaṣṭhaḥ paṭalaḥ	iti timira-udGAwane zazWaH pawalaH
+   %yogic vision of the triple universe in the sky	%yogit vision of Te tri-ple universe id Te sky
+   devy uvāca	devI uvAca
+   TimUdgh7.1ab: kathitan te mahādeva & kaulayoga<ṃ> suvistaraṃ %no it has	Timu-udG7.1ab: kaTitan te mahAdeva & kOla-yoga<M> su-vistaram %naH id has
+   not!	na-ut!
+   TimUdgh7.1cd: krameṇa divyarūpāṇi & dṛṣṭvā mokṣax katham bhavet	Timu-ud-G7.1cd: krameNa divya-rUpANi & dRzwvA mokzah kaTam Bavet-
+   \var{mokṣax\lem \em; mokṣaṅ \N}	\var{mokza-x\lem \em; mokzaF \N}
+   bhairava uvāca	BEravaH uvAca
+   TimUdgh7.2ab: nityābhiyuktayogīśaḥ & trailokyam paśyate <'>khilam	Timu-udG7.2ab: nitya-aBiyukta-yogISaH & trElokyam paSyate <-a>Kilam
+   TimUdgh7.2cd: bhinna<ṃ> paśyati brahmāṇḍaṃ & tasy[ordhve]* śivaṃ vrajet	Timu-ud-G7.2cd: Binna<M> paSyati brahmANxam & tasy[A-UrDve]* Sivam vrajet-
+   %-ordhvena ? -ordhve tu? -ordhve ca?	%-A-UrDvena ? -a-UrDve tu? -a-UrDve ca?
+   TimUdgh7.3ab: prathame pāsyti rūpaṃ & svapnānte cakṣumīlite %cakṣu metri	Timu-udG7.3ab: praTame pAsyti rUpam & svapna-ante cakzu-mIlite %cakzu metri
+   causa	cOsa
+   TimUdgh7.3cd: satatābhyāsayogena & pratyakṣadevadarśanam	Timu-ud-G7.3cd: satata-aByAsa-yogena & pratyakza-deva-darSanam
+   TimUdgh7.4ab: vācāpi śrṇoti teṣāṃ & sparśaś cāgandham eva ca% vācāpi	Timu-udG7.4ab: vAcA-api SrNoti tezAm & sparSaH ca-aganDam eva ca% vAcA-api
+   contracted sandhi for vācām api, āgandhaḥ ``even upto smell''	contractet sanDi foH vAcAm api, AganDaH ``even uptaH smell-'-a
+   TimUdgh7.4cd: balotkaṭas tu yogīśaḥ & satyādhiṣṭhitamānasaḥ	Timu-ud-G7.4cd: bala-utkawaH tu yogi-ISaH & satya-aDizWita-mAnasaH
+   TimUdgh7.5ab: darśaya divyarūpiṇī & sarvalokasya cāmbare	Timu-udG7.5ab: darSaya divya-rUpiNI & sarva-lokasya ca-ambare
+   TimUdgh7.5cd: āścārya<ṃ> kāraye & [[fol.33v]] yatheṣṭa<ṃ> kāraye sudhī	Timu-ud-G7.5cd: AScArya<M> kAraye & [[fol.33v]] yaTA-izwa<M> kAraye suDI
+   TimUdgh7.6ab: granthārthena tu saṃyuktaṃ & vedāntena tu saṃyutaṃ	Timu-udG7.6ab: granTa-arTena tu saMyuktam & vedAntena tu saMyutam
+   TimUdgh7.6cd: kāvyaṃ karoti lalitaṃ & sālaṅkāramanoharaṃ	Timu-ud-G7.6cd: kAvyam karoti lalitam & sa-alaFkAra-manoharam
+   TimUdgh7.7ab: kṣobhaya{n}ti jagatsarvaṃ & rañjikācārarañjitaṃ	Timu-udG7.7ab: kzoBaya{n}ti jagat-sarvam & raQjikA-AcAra-raQjitam
+   TimUdgh7.7cd: strīpuruṣam āveśañ ca & geyaṃ caiva manoharaṃ	Timu-ud-G7.7cd: strI-puruzam AveSan ca & geyam ca-eva manoharam
+   TimUdgh7.8ab: divyayogasthitaṃ yogī & manonmānena paśyati	Timu-udG7.8ab: divya-yoga-sTitam yogI & manonmAnena paSyati
+   TimUdgh7.8cd: pātāle nāgaloke ca & divyā tribhuvanāni ca	Timu-ud-G7.8cd: pAtAle nAga-loke ca & divyA triBuvanAni ca
+   TimUdgh7.9ab: mā[nu]ṣāṇi vicitrāṇi & tṛṇagulmalatāni ca	Timu-udG7.9ab: mA-a[nu]zANi vicitrANi & tRNa-gulma-latAni ca
+   TimUdgh7.9cd: dvipadañ catuṣpadañ caiva & jalacārīm anekadhā %hyperm.	Timu-ud-G7.9cd: dvipadan catuzpadan ca-eva & jalacArIm anekaDA %hi-perm.
+   perhaps em: dvipaccatuṣpadaṃ caiva	perhapH em: dvipad-catuzpadam ca-eva
+   TimUdgh7.10ab: deśamaṇḍalaramyāni & grāmāṇi nagarāṇi ca	Timu-udG7.10ab: deSa-maNxala-ramyAni & grAmANi nagarANi ca
+   TimUdgh7.10cd: akṣarāṇi vicitrāṇi & antarikṣan tu darśayet %em: antarikṣe	Timu-udG7.10cd: akzarANi vicitrANi & antarikzan tu darSayet %em: antarikze
+   tu	tu
+   TimUdgh7.11ab: dīpāntarasamudrāṇi & nandyopavanaparvatā<ḥ>	Timu-udG7.11ab: dIpa-antara-samudrANi & nandya-upavana-parvatA<H>
+   TimUdgh7.11cd: yakṣiṇā vividhākāraṃ & ā*nañ ca viśeṣataḥ	Timu-ud-G7.11cd: yakziNA viviDa-AkAram & A*nan ca viSezataH
+   TimUdgh7.12ab: candrasūryavimānāni & indraloka<ṃ> sa paśyati	Timu-udG7.12ab: candra-sUrya-vimAnAni & indra-loka<M> sa paSyati
+   TimUdgh7.12cd: diśāvālāpurī ramyā & brahmaviṣṇupurīs tathā	Timu-ud-G7.12cd: diSA-vAlA-purI ramyA & brahma-vizNu-purIH taTA
+   TimUdgh7.13ab: divyamānuṣyapātālā & vyāpāraṃ yaḥ pravartate	Timu-udG7.13ab: divya-mAnuzya-pAtAlAH & vyApAram yaH pravartate
+   TimUdgh7.13cd: darśayanti parāśakti & trailokyaṃ sacarācaraṃ	Timu-ud-G7.13cd: darSayanti parASakti & trElokyam sa-carAcaram
+   TimUdgh7.14ab: rudrasya purīsahitaṃ & pañcavaktrapura<ṃ> śivam	Timu-udG7.14ab: rudrasya purI-sahitam & paQcavaktra-pura<M> Sivam
+   TimUdgh7.14cd: saḥ sadāśivaparamaṃ & parāśaktir adhiṣṭhitam [[fol34r]]	Timu-ud-G7.14cd: saH sadASiva-paramam & parASaktiH aDizWitam [[fol34r]]
+   TimUdgh7.15ab: tasyopari śivaḥ śāntaḥ & avyavacchinnavyavasthitaḥ	Timu-udG7.15ab: tasya-upari SivaH SAntaH & avyavacCinna-vyavasTitaH
+   TimUdgh7.15cd: brahmāṇḍa<ṃ> śaktinā [bhe]dya & su***paraṃ vrajet	Timu-ud-G7.15cd: brahmANxa<M> SaktinA [Be]dya & su-***param vrajet-
+   TimUdgh7.16ab: dyomā[ṇīte yaḥ ś/mānte] & mokṣamuktimamavāpnuḥ % [vṛtta	Timu-udG7.16ab: dyomA[NIte yaH S/ma-ante] & mokza-muktimam-avApnuH % [vRtta
+   messed up]; em: ...mokṣamuktim avāpnuyāt	messet up]; em: ...mokza-muktim avApnuyAt-
+   TimUdgh7.16cd: etat te kathitaṃ devi & krameṇaiva parāparaṃ	Timu-ud-G7.16cd: etat te kaTitam devi & krameNa-eva para-aparam
+   TimUdgh7.17ab: kaulayogasthitan devi & śīghraṃ śāntam padam vrajet	Timu-udG7.17ab: kOla-yoga-sTitan devi & SIGram SAntam padam vrajet-
+   iti timitodghāṭane saptamaḥ paṭalaḥ	iti timita-udGAwane saptamaH pawalaH
+   %the five jewels (=topics) of Kaula teachings (pañcaratna)	%Te five jewelH (=topics) of KOla tea-CingH (paQcaratna)
+   %seems a parallel to the saiddhāntika padārthas	%seemH a parallet taH Te sEdDAntika padArTa-s
+   devy uvāca	devI uvAca
+   TimUdgh8.1ab: mantravidyākṣarair hīno & dheyadhāraṇavarjitaḥ \var{hīno\lem	Timu-udG8.1ab: mantra-vidyA-akzarEH hInaH & Deya-DAraNa-varjitaH \var{hIno\lem
+   \emV; hīnaṃ \N}	\emV; hInam \N}
+   TimUdgh8.1cd: kathaṃ vijñāyate jñānaṃ & pañcaratnopadeśikaḥ	Timu-ud-G8.1cd: kaTam vijQAyate jQAnam & paQcaratna-upadeSikaH
+   bhairava uvāca	BEravaH uvAca
+   TimUdgh8.2ab: kaulasṛṣṭyavatāre tu & parāgranthārthalakṣaṇam	Timu-udG8.2ab: kOla-sRzwi-avatAre tu & parAgranTa-arTa-lakzaNam
+   TimUdgh8.2cd: rudraśaktyopadeśan tu & guruvaktreṣu labhyate	Timu-ud-G8.2cd: rudra-SaktyA-upadeSan tu & guru-vaktrezu laByate
+   TimUdgh8.3ab: sarvāṇi mantratantrāṇi & devatākalpajalpanam %kalpa means	Timu-udG8.3ab: sarvANi mantra-tantrANi & devatA-kalpa-jalpanam %kalpa mean-s
+   text here?	text here?
+   TimUdgh8.3cd: mahato 'pi na sidhyante & rudraśaktivivarjitam	Timu-ud-G8.3cd: mahataH api na siDyante & rudra-Sakti-vivarjitam
+   TimUdgh8.4ab: hṛdayaṃ sarvavidyānāṃ & mantravīryaṃ paraṃ smṛtam	Timu-udG8.4ab: hRdayam sarva-vidyAnAm & mantra-vIryam param smRtam
+   \var{mantravīryaṃ paraṃ smṛtam\lem \em; mantravīryaparasmṛtaḥ \N}	\var{mantra-vIryam param smRta-m\lem \em; mantra-vIrya-para-smRtaH \N}
+   TimUdgh8.4cd: rudraśaktisamāveśa<ṃ> & yo na vetti na sidhyati	Timu-ud-G8.4cd: rudra-Sakti-samAveSa<n> & yaH na vetti na siDyati
+   TimUdgh8.5ab: ālekhyakaulikajñānaṃ & guruvaktreṣu saṃsthitaṃ % em:	Timu-udG8.5ab: AleKya-kOlika-jQAnam & guru-vaktrezu saMsTitam % em:
+   alekhyaṃ ?	aleKyam ?
+   TimUdgh8.5cd: karṇe karṇe tu saṃkrāme & dūrastho hi na saṃkramet	Timu-ud-G8.5cd: karNe karNe tu saMkrAme & dUra-sTaH hi na saMkramet-
+   TimUdgh8.6ab: vi[dy]ādhyānasamādhiñ ca & yoganādopadeśikaṃ [[fol34v]]	Timu-udG8.6ab: vi[dy]A-DyAna-samADin ca & yoga-nAda-upadeSikam [[fol34v]]
+   TimUdgh8.6cd: pañcaratnopadeśāni & granthārthena tu lekhayet	Timu-ud-G8.6cd: paQcaratna-upadeSAni & granTa-arTena tu leKayet-
+   TimUdgh8.7ab: prathamaṃ ratne tu saṃprāpte & abhyāse palitanāśanaṃ	Timu-udG8.7ab: praTamam ratne tu saMprApte & aByAse palita-nASanam
+   TimUdgh8.7cd: ūrdhvasa<ṃ>jvalitaṃ dehe & parāvastha sa gacchati	Timu-ud-G8.7cd: UrDva-sa<n>jvalitam dehe & para-avasTa sa gacCati
+   TimUdgh8.8ab: dvitīyaratnaprabhāvena & guruśiṣyeṇa toṣitam	Timu-udG8.8ab: dvitIya-ratna-praBAvena & guru-SizyeNa tozitam
+   TimUdgh8.8cd: yoginīcakrasaṃmānya & yatra tatra vyavasthitāḥ	Timu-ud-G8.8cd: yoginI-cakra-saMmAnya & yatra tatra vyavasTitAH
+   TimUdgh8.9ab: tṛtīye paradehan tu & svadehe śaktisaṃkrame	Timu-udG8.9ab: tRtIye para-dehan tu & sva-dehe Sakti-saMkrame
+   TimUdgh8.9cd: kṣobhayanti puraḥ sarve & samādhistho mahābalaḥ	Timu-ud-G8.9cd: kzoBayanti puras sarve & samADi-sTaH mahA-balaH
+   TimUdgh8.10ab: caturtha bhūcarīsiddhi & vrajitvā gacchate punaḥ	Timu-udG8.10ab: caturTa BUcarI-sidDi & vrajitvA gacCate punar-
+   TimUdgh8.10cd: pañcame khecarīmudrā & baddhvā cordhvā nigacchati	Timu-ud-G8.10cd: paQcame KecarI-mudrA & badDvA ca-UrDvA nigacCati
+   TimUdgh8.11ab: umāmaheśvarīpuraḥ & vrajitvā gacchate punaḥ //\orn//	Timu-udG8.11ab: umA-maheSvarI-puraH & vrajitvA gacCate punar //\oH-n//
+   %dhyāna + samādhi defined	%DyAnaH + samADi defined
+   TimUdgh8.11cd: acintitaṃ bhave dhyānaṃ & samādhyāya manonmanī	Timu-udG8.11cd: acintitam Bave DyAnam & samADyAya manonmanI
+   TimUdgh8.12ab: tatra sthito mahāyogī & akhilaṃ paśyati jagat	Timu-udG8.12ab: tatra sTitaH mahA-yogI & aKilam paSyati jagat-
+   %yoga defined	%yoga defined
+   TimUdgh8.12cd: niścitobhyāsato yogaḥ & aṭavyāṃ parvate 'pi vā	Timu-udG8.12cd: niScita-uByAsataH yogaH & awavyAm parvate api vA
+   TimUdgh8.13ab: sarvadvandvavinirmuktaḥ & śīghraṃ siddhyati yoginaṃ	Timu-udG8.13ab: sarva-dvandva-vinirmuktaH & SIGram sidDyati yoginam
+   TimUdgh8.13cd: siddhavidyāvalokitaṃ & kurute 'nekapratyayaṃ	Timu-udG8.13cd: sidDa-vidyA-avalokitam & kurute aneka-pratyayam
+   TimUdgh8.14ab: [duṣṭ]āpahamohaś caiva & unmādo ṣo[ṣaṇa]s tathā [[fol35r]]	Timu-udG8.14ab: [duzw]a-apaha-mohaH ca-eva & unmAdaH zo[zaNa]H taTA [[fol35r]]
+   %em: poṣaṇas?	%em: pozaNas?
+   TimUdgh8.14cd: sthūlahrasvas tathā dīrghaḥ & bālavṛddhayuvānaka	Timu-udG8.14cd: sTUla-hrasvaH taTA dIrGaH & bAla-vRdDa-yuvAnaka
+   TimUdgh8.15ab: [tiṣṭha jālāgni] madhye tu & sa[ṃ]krāmam a[nya]*[ti-ga/śa]	Timu-udG8.15ab: [tizWa jAla-agni] maDye tu & sa[M]krAmam a[nya]*[ti-ga/Sa]
+   %em: tiṣṭhed jvālāgnimadhye tu? not jvālāgni	%em: tizWet jvAlA-agni-maDye tu? na-ut jvAlA-agni
+   TimUdgh8.15cd: [jālā]gnisūryavāttavā & stambhaye ca mahā[na]dīn	Timu-ud-G8.15cd: [jAlA-]gni-sUrya-vAttavAH & stamBaye ca mahA[na]dIn
+   TimUdgh8.16ab: [deho]pasargapīḍāśca & paśuk[ā/o]ṣṭhe saṃkrame yas	Timu-udG8.16ab: [deha-u]pasarga-pIxAH-ca & paSuk[a-a/o]zWe saMkrame yaH-
+   TimUdgh8.16cd: tu nātra grahaṇaṃ kuryāt & svadehe parivartate /	Timu-udG8.16cd: tu na-atra grahaNam kuryAt & sva-dehe parivartate /
+   TimUdgh8.17ab: krīḍate yogasaṃsiddhā & anekākārapratyayaṃ //	Timu-udG8.17ab: krIxate yoga-saMsidDAH & aneka-AkAra-pratyayam //
+   TimUdgh8.17cd: lokālokagataṃ sarvaṃ yad vṛttayena yaṅ kṛtaṃ /	Timu-udG8.17cd: lokAloka-gatam sarvam yat vRttayena yaF kRtam /
+   TimUdgh8.18ab: yad bhaviṣyam anāgataṃ bhayam vāyatparā[bhe/te/śa]kaṃ //	Timu-udG8.18ab: yat Bavizyam anAgatam Bayam vAyat-parA[-Be/te/Sa]kam //
+   TimUdgh8.18cd: tat samādhisthitaf paśye & parāśaktiprabhāvataḥ	Timu-ud-G8.18cd: tat samADi-sTitaf paSye & parASakti-praBAvataH
+   TimUdgh8.19ab: nityayogarato yogī & tatkālasya na saṃśayaḥ //	Timu-udG8.19ab: nitya-yoga-rataH yogI & tad-kAlasya na saMSayaH //
+   iti timirodghāṭane aṣṭamaḥ paṭalaḥ	iti timira-udGAwane azwamaH pawalaH
+   %chapter 9: Śakti, guru	%CapteH 9: Śakti, guru
+   devy uvāca	devI uvAca
+   TimUdgh9.1ab: katham utpann<ā> parāśaktiḥ & trailokyavyāpinī kathaṃ	Timu-udG9.1ab: kaTam utpann<A> parASaktiH & trElokya-vyApinI kaTam
+   %hyperm.	%hi-perm.
+   TimUdgh9.1cd: dhyāyanti yoginā sarve & mokṣamārgapradāyakaḥ %em: yoginaḥ,	Ti-mu-ud-G9.1cd: DyAyanti yoginA sarve & mokza-mArga-pradAyakaH %em: yoginaH,
+   pradāyakām bhairava uvāca	pradAyakAm BEravaH uvAca
+   TimUdgh9.2ab: sarvadevamayī devi & sarvalokoparisthitaṃ	Timu-udG9.2ab: sarva-deva-mayI devi & sarva-loka-upari-sTitam
+   TimUdgh9.2cd: sarvavyāpī anādī ca & sarvadeveṣu pūjitaṃ	Timu-ud-G9.2cd: sarva-vyApI anAdI ca & sarva-devezu pUjitam
+   TimUdgh9.3ab: vyāptacaturdaśabhuvanā & brahmāṇ<ḍ>oparisaṃsthitaḥ	Timu-udG9.3ab: vyApta-caturdaSa-BuvanA & brahmAN<x>a-upari-saMsTitaH
+   TimUdgh9.3cd: śivaśaktisa**ntu & sarvva[**rupāsyate] [[fol.35v]]	Timu-ud-G9.3cd: Siva-Sakti-sa**ntu & sarvu-a[**ru-pAsyate] [[fol.35v]]
+   TimUdgh9.4ab: padmāsanopaviṣṭās tu & akṣasūtrakamaṇḍaluḥ	Timu-udG9.4ab: padma-Asana-upavizwAH tu & akzasUtra-kamaNxaluH
+   TimUdgh9.4cd: jaṭāvakkaladhārī ca & brahmasyaivam upā**	Timu-ud-G9.4cd: jawA-vakkala-DArI ca & brahmasya-evam upA**
+   TimUdgh9.5ab: ................................... *yogam upāsate	Timu-udG9.5ab: ................................... *yogam upAsate
+   TimUdgh9.5cd: śaṅkhacakragadādhārī & viṣṇu hyevam upāsyate	Timu-udG9.5cd: SaFKa-cakra-gadA-DArI & vizNu hi-evam upAsyate
+   TimUdgh9.6ab: tasmoddhūlitakhaṭvāṅgī & kapāl<ā>bharaṇojjvalā	Timu-udG9.6ab: tasma-udDUlita-KawvAFgI & kapAl<A>BaraNa-ujjvalA
+   TimUdgh9.6cd: nagnarūpaja*dhārī & [ahaṃ hyeva] sulocane	Timu-ud-G9.6cd: nagna-rUpa-ja*DArI & [aham hi-eva] su-locane
+   TimUdgh9.7ab: kiṃ nu paśyati suśrotre & nityāṃ tadgatamānasā	Timu-udG9.7ab: kim nu paSyati suSrotre & nityAm tad-gata-mAnasA
+   TimUdgh9.7cd: dhyāyanti paramāśākti<ṃ> & brahmaviṣṇumaheśvaraḥ	Ti-mu-ud-G9.7cd: DyAyanti parama-aSAkti<M> & brahma-vizNu-maheSvaraH
+   TimUdgh9.8ab: anye pi riṣayaḥ sarve & sadevāsurayoginaḥ \var{-yoginaḥ\lem	Timu-udG9.8ab: anye pi rizayaH sarve & sa-deva-asura-yoginaH \var{--yoginaH\lem
+   \em; -yoginām \N}	\em; -yoginAm \N}
+   TimUdgh9.8cd: devendracandrasūryādi & dhyāyanti paramā<ṃ> kalā<ṃ>	Timu-ud-G9.8cd: deva-indra-candra-sUrya-Adi & DyAyanti paramA<M> kalA<M>
+   TimUdgh9.9ab: kiṃ nu devi purā pṛṣṭaḥ & dānavaiś ca mahābalaiḥ	Timu-udG9.9ab: kim nu devi purA pRzwaH & dAnavEH ca mahA-balEH
+   TimUdgh9.9cd: [ni*]vā dānavai sarv & mama śaraṇa<ṃ> te gatā<ḥ>	Timu-ud-G9.9cd: [ni*]vAH dAnavE saru & mama SaraNa<M> te gatA<H>
+   TimUdgh9.10ab: mayāpi dhyāyitā śakti & sarvvadevais tathaiva ca	Timu-udG9.10ab: mayA-api DyAyitA Sakti & sarvu-adevEH taTA-eva ca
+   TimUdgh9.10cd: āgatā tatkṣaṇād eva & parāśaktimanā mayā	Timu-ud-G9.10cd: AgatA tad-kzaNAt eva & parASakti-manAH mayA
+   TimUdgh9.11ab: *****pāyukto & paśya**mupāgatāḥ	Timu-udG9.11ab: *****pAyuktaH & paSya**m-upAgatAH
+   TimUdgh9.11cd: tayā vyāptam idaṃ sarvvaṃ & trailokya<ṃ> sacarācaraṃ	Timu-udG9.11cd: tayA vyAptam idam sarvvam & trElokya<M> sacarAcaram
+   TimUdgh9.12ab:	Timu-udG9.12ab:
+   ta[sya..................................................th[i]tā	ta[sya..................................................T[i]tA
+   [[fol.36r]]	[[fol.36r]]
+   TimUdgh9.12cd: yoginīśatasahasrāṇi & lakṣakoṭim anekadhā	Timu-ud-G9.12cd: yoginI-Sata-sahasrANi & lakza-kowim anekaDA
+   TimUdgh9.13ab: ekāpi bahurūpasthā & vyāpy avasth<ā>paraṃ gatā	Timu-udG9.13ab: ekA-api bahu-rUpa-sTA & vyApI avasT<A>-param gatA
+   TimUdgh9.13cd: apa**parañ caiva & aparśakti**pakaṃ	Timu-ud-G9.13cd: apa**paran ca-eva & aparSakti-**pakam
+   %three types of śakti (uttamā (anugraha?), madhyamā, tritīyā)	%Tree typeH of Sakti (uttamA (anugraha-?), maDyamA, tritIyA)
+   TimUdgh9.14ab: ekā tribheda bhinn<ā> sā & bahubhedeṣu saṃsthitā	Timu-udG9.14ab: ekA tri-Beda Binn<A> sA & bahu-Bedezu saMsTitA
+   TimUdgh9.14cd: tvatprasādottamā hy ekā & jātamātrā mahābalā	Timu-ud-G9.14cd: tvad-prasAda-uttamA hi ekA & jAta-mAtrA mahAbalA
+   %second, jñānaśakti	%second, jQAnaSakti
+   TimUdgh9.15ab: dvitīyā madhyamā śakti & yogināṃ mukhe sthitā	Timu-udG9.15ab: dvitIyA maDyamA Sakti & yoginAm muKe sTitA
+   TimUdgh9.15cd: vidyādhyānasamādhiś ca & yoganādopadeśikaṃ	Timu-ud-G9.15cd: vidyA-DyAna-samADiH ca & yoga-nAda-upadeSikam
+   TimUdgh9.16ab: rudraśaktisamāveśa&jñānasaṃkrāntikārakaṃ	Timu-udG9.16ab: rudra-Sakti-samAveSa&-jQAna-saMkrAnti-kArakam
+   TimUdgh9.16cd: ...............khyātaṃ & madhyamāśaktilakṣaṇam	Timu-udG9.16cd: ...............KyAtam & maDyamA-Sakti-lakzaNam
+   TimUdgh9.17ab: gurūpadeśāt saṃsiddhim & bhyāsān mokṣadaṃ padam	Timu-udG9.17ab: guru-upadeSAt saMsidDim & ByAsAt mokza-dam padam
+   TimUdgh9.17cd: dvātriṃśatimātṛcakreṣu & tṛtīyā śa[kti]..........	Timu-ud-G9.17cd: dvAtriMSati-mAtR-cakrezu & tRtIyA Sa[kti]..........
+   TimUdgh9.18ab: **ṃ karotu mantreṇa & kiñci kālena sarvadā	Timu-udG9.18ab: **m karotu mantreNa & kiQci kAlena sarvadA
+   TimUdgh9.18cd: na bhavanti guṇā hy ete & divadarśanamokṣadā	Timu-udG9.18cd: na Bavanti guNAH hi ete & diva-darSana-mokza-dA
+   TimUdgh9.19ab: śakti tṛtīya śa*ānti & kathitante .... [[fol.36v]]	Timu-udG9.19ab: Sakti tRtIya Sa*Anti & kaTitante .... [[fol.36v]]
+   TimUdgh9.19cd: *[sa]nmārgavat[ā]reṇa & yogīṣīnāṃ kule gatā	Timu-udG9.19cd: *[sa]t-mArgavat[A]reNa & yogIzInAm kule gatA
+   %rarity of the teacher	%rariti of Te teaCeH-
+   TimUdgh9.20ab: sukho[padeśaratna]n tu & tena [tat kauladā] smṛtaḥ	Timu-udG9.20ab: suKa-u[padeSa-ratna]n tu & tena [tat kOladA] smRtaH
+   TimUdgh9.20cd: tattvajāla<ṃ> parityajya & ta[ntre]nārthan tu kaulikaṃ%em:	Timu-udG9.20cd: tattva-jAla<M> parityajya & ta[ntre]na-arTan tu kOlikaM%em:
+   tan mūlārthaṃ tu kaulikaṃ	tat mUla-arTam tu kOlikam
+   TimUdgh9.21ab: ...dati siddhyarthaṃ & saguruṃ sadyapratyayaḥ	Timu-udG9.21ab: ...dati sidDi-arTam & sa-gurum sadya-pratyayaH
+   TimUdgh9.21cd: durlabhaṃ saguruḥ devi & durlabhaṃ gurutaraṃ mahat	Timu-udG9.21cd: durlaBam sa-guruH devi & durlaBam gurutaram mahat-
+   TimUdgh9.22ab: durlabhā prāpti tasyaiva & prāptamokṣa...yaḥ	Timu-udG9.22ab: durlaBA prApti tasya-eva & prApta-mokza-...yaH
+   TimUdgh9.22cd: tas[y/m]ā hy evaṃ prayatnena & kaulapīṭhe pi durlabhaḥ	Timu-ud-G9.22cd: tas[y/m]A hi evam prayatnena & kOla-pIWe pi durlaBaH
+   TimUdgh9.23ab: bahudeśagatā kaś ci kṣetrapīṭhāni paryaṭe	Timu-udG9.23ab: bahu-deSa-gatA kaH ci kzetra-pIWAni paryawe
+   TimUdgh9.23cd: varṣe dvādaśava...& ... nī naiva paśyati	Timu-ud-G9.23cd: varze dvAdaSava...& ... nI na-eva paSyati
+   TimUdgh9.24ab: susaṃskṛto pi deveśi & bahugranthārthapaṇḍitaḥ	Timu-udG9.24ab: su-saMskRtaH pi deveSi & bahu-granTa-arTa-paNxitaH
+   TimUdgh9.24cd: bhramet pīṭhāni pīṭhāni & akṛtārtho nivartate \var{bhramet	Timu-udG9.24cd: Bramet pIWAni pIWAni & akRtArTaH nivartate \var{-Bramet-
+   pīṭhāni\lem \emV; bhrame pīṭhā \N} \var{akṛtārtho\lem \emV; akṛtārthā \N}	pIWa-ani\lem \emV; Brame pIWAH \N} \var{a-kRta-arTaH-\lem \emV; akRtArTAH \N}
+   TimUdgh9.25ab: asaṃskṛt..mūrkhaḥ &	Timu-udG9.25ab: asaMskRt..mUrKaH &
+   sarvagranthārthavarjitaḥ\var{-varjitaḥ\lem \em; -varjitam \N}	sarva-granTa-arTa-varjitaH\var{--varjitaH\lem \em; -varjitam \N}
+   TimUdgh9.25cd: kaulabījena labdhena & siddhi trailokyam ujjvalā	Timu-ud-G9.25cd: kOla-bIjena labDena & sidDi trElokyam ujjvalA
+   TimUdgh9.26ab: evaṃ kaulaparam yogaṃ & sarvatantottamottamaṃ [[fol.37r]]	Timu-udG9.26ab: evam kOla-param yogam & sarva-tantottama-uttamam [[fol.37r]]
+   TimUdgh9.26cd: ka.taṃ mokṣadā devi & gopanīyaṃ punaḥ punaḥ	Timu-ud-G9.26cd: ka.tam mokza-dA devi & gopanIyam punar punar-
+   iti timirodghāṭane navamaḥ paṭalaḥ	iti timira-udGAwane navamaH pawalaH
+   %śiṣyaparīkṣā	%Sizya-parIkzA
+   %(first the undesirable student, then the acceptable	%(first Te undesiH-able student, Tet Te at-cepta-ble
+   bhairava uvāca	BEravaH uvAca
+   TimUdgh10.1ab: guptagrantham idaṃ de[vi] & supriyasyāpi gopayet	Timu-udG10.1ab: gupta-granTam idam de[vi] & supriyasya-api gopayet-
+   TimUdgh10.1cd: na cābhinna ca sā deyā & nindakeṣṭeṣṭinasv api %em	Timu-ud-G10.1cd: na ca-aBinna ca sA deyA & nindaka-izwa-izwinasu api %em
+   nindakeṣv ?	nindakezu ?
+   TimUdgh10.2ab: vyasanīva vanakuṃjaḥ & krodhanakunakhīśaṭhaḥ	Timu-udG10.2ab: vyasanI-iva vana-kuMjaH & kroDana-kunaKI-SaWaH
+   TimUdgh10.2cd: capala khakhkhalaś caiva & hīnāṅga sūcaka kṣayī	Timu-udG10.2cd: capala KaKKalaH ca-eva & hIna-aFga sUcaka kzayI
+   TimUdgh10.3ab: vyādhinas tārkikaś caiva & nityācāro paravratī	Timu-udG10.3ab: vyADinaH tArkikaH ca-eva & nitya-AcAraH para-vratI
+   TimUdgh10.3cd: kākasvaro alpavidyā & matsarī samayadūṣaka<ḥ> %hyperm.	Timu-udG10.3cd: kAka-svaraH alpa-vidyA & matsarI samaya-dUzaka<H> %hi-perm.
+   TimUdgh10.4ab: antajaḥ sāhasi [lubdhaḥ] & śyāmadanto <'>jitendriyaḥ	Timu-udG10.4ab: anta-jaH sAhasi [lubDaH] & SyAma-dantaH <-a>jita-indriyaH
+   TimUdgh10.4cd: gurudevadvijādīnāṃ & nindake vṛṣalīpati %em: nindako	Timu-ud-G10.4cd: guru-deva-dvija-AdInAm & nindake vRzalIpati %em: nindakaH-
+   TimUdgh10.5ab: raṅgopajīvi[piśu]naḥ & [kṣa-ta-gha]kāmatatparaḥ %em: -jīvi	Timu-ud-G10.5ab: raFga-upajIvi[piSu]naH & [kza-ta-Ga]kAma-tatparaH %em: -jIvi
+   = jīvī metri causa	 jIvI metri cOsa
+   TimUdgh10.5cd: [t]ārkṣakaṇā nāstiko vṛka & adaḥ krūro	Timu-ud-G10.5cd: [t]a-arkza-kaNA nAstikaH vRkaH & adaH krUraH-
+   svadharmaparivarjitaḥ	svaDarma-parivarjitaH
+   TimUdgh10.6ab: parodhā sevakaś caiva & paṇyastrī paradārak	Timu-udG10.6ab: paroDA sevakaH ca-eva & paNya-strI para-dArak
+   TimUdgh10.6cd: ...................................śuciś cāpi saṃskṛtāḥ	Ti-mu-ud-G10.6cd: ...................................SuciH ca-api saMskRtAH
+   TimUdgh10.7ab: putrakāparaliṅgitā / śiṣyāṇā[m avivarjayet]	Timu-udG10.7ab: putraka-apara-liFgitA / SizyANA[m avivarjayet-]
+   TimUdgh10.7cd: śraddhā dāno jitakrodhaḥ & pra .......[fol.37v]	Timu-ud-G10.7cd: SradDA dAnaH jita-kroDaH & pra .......[fol.37v]
+   TimUdgh10.8ab: śucivi[dva/ddha]*sa & kṛtaghnaḥ śamatendriyaḥ /	Timu-udG10.8ab: Suci-vi[dva/dDa]*-saH & kRtaGnaH Samata-indriyaH /
+   TimUdgh10.8cd: śāntātmā śivaśaktā[śca/cca] & satyavā[cā] dṛḍha[vrataḥ]	Timu-ud-G10.8cd: SAnta-AtmA Siva-SaktA[H-ca/cca] & satya-vA[-cA] dRXa[-vrataH]
+   TimUdgh10.9ab: sahiṣṇuś cojitam iti & kṣaṇadva......	Timu-udG10.9ab: sahizNuH ca-ujitam iti & kzaNadva......
+   TimUdgh10.9cd: [sa]masarveṣu bhūteṣu & jñānī vigatamatsaraḥ	Timu-udG10.9cd: [sa]ma-sarvezu BUtezu & jQAnI vigata-matsaraH
+   TimUdgh10.10ab: sadāsaktagurudevaḥ & sarvaśāstrārthakuśalī	Timu-udG10.10ab: sadAsakta-guru-devaH & sarva-SAstra-arTa-kuSalI
+   TimUdgh10.10cd: <...> śivaśāsanatatparaṃ /	Timu-udG10.10cd: <...> Siva-SAsana-tatparam /
+   TimUdgh10.11ab: saṃsāra..... karttā karuṇikas tathā //	Timu-udG10.11ab: saMsAra..... karttA karuNikaH taTA //
+   TimUdgh10.11cd: mattāśīgatasaṅgaś ca & vitṛṣṇas tyaktalolupaḥ	Timu-udG10.11cd: matta-ASI-gata-saFgaH ca & vitRzNaH tyakta-lolupaH
+   \var{vitṛṣṇas\lem; \em; vitṛstras \N}	\var{-vitRzNa-s\lem; \em; vitRstraH \N}
+   TimUdgh10.12ab: sarvopavāsaniyamaḥ & sayuktātmā priya*vaḥ	Timu-udG10.12ab: sarva-upavAsa-niyamaH & sa-yukta-AtmA priya*vaH
+   TimUdgh10.12cd: [cā**]dyāvratasamyak & sādhu<ḥ> samayapālakaḥ	Timu-udG10.12cd: [cA**]dya-avrata-samyak & sADu<H> samaya-pAlakaH
+   TimUdgh10.13ab: praśāntagrahakṛd vīraḥ & śuddhātmā gurupūjakaḥ	Timu-udG10.13ab: praSAnta-graha-kRt vIraH & SudDa-AtmA guru-pUjakaH
+   TimUdgh10.13cd: suśīla<ḥ> śāntiko <'>vāgmī & brahmāṇo nānyavarṇṇakaḥ %em:	Timu-udG10.13cd: su-SIla<H> SAntikaH <-a>vAgmI & brahmANaH na-anyavarNNakaH %em:
+   nāntyavarṇakaḥ	na-antya-varNakaH
+   TimUdgh10.14ab: tṛṣkālo bhāvi{ni}bhūtasya & pañcakeṣu na dāpayet	Timu-udG10.14ab: tRzkAlaH BAvi{-ni}BUtasya & paQcakezu na dApayet-
+   TimUdgh10.14cd: suparīkṣitaśiṣyeṣu & gupte sudṛḍhe hitañ ca	Timu-udG10.14cd: su-parIkzita-Sizyezu & gupte su-dRXe hitan ca
+   TimUdgh10.15ab: <...> etais tu varṇṇeṣu dāpayet %em: etair varṇeṣu dāpayet	Timu-udG10.15ab: <...> etEH tu varNNezu dApayet %em: etEH varNezu dApayet-
+   TimUdgh10.15cd: tṛṇavat manyase dravyaṃ & gurorthe strīputrādikaṃ	Timu-udG10.15cd: tRNa-vat manyase dravyam & guroH-Te strI-putra-Adikam
+   TimUdgh10.16ab: evaṃ yo vartayec chiṣyaḥ & sarvātmā ca nivedayet	Timu-udG10.16ab: evam yaH vartayet SizyaH & sarva-AtmA ca nivedayet-
+   TimUdgh10.16cd: eteṣāṃ paramaṃ tattvaṃ & samadikṣumaviś.	Timu-udG10.16cd: etezAm paramam tattvam & samadikzum-aviS.
+   TimUdgh10.17ab: [\fol.38r] tvatpriyārthe mayākhyātaṃ & na deyaṃ na	Timu-udG10.17ab: [\fol.38r] tvad-priya-arTe mayA-AKyAtam & na deyam na
+   parīkṣitam	parIkzitam
+   TimUdgh10.17cd: mātmā bahuvidhā duṣṭā & paratattvārtha...	Timu-udG10.17cd: mA-AtmA bahuviDAH duzwAH & para-tattva-arTa...
+   TimUdgh10.18ab: dravyeṇa mayāyāvāpi & sevā dharmeṇa vā punaḥ	Timu-udG10.18ab: dravyeNa mayA-AyAvA-api & sevA DarmeNa vA punar-
+   TimUdgh10.18cd: tattvopahāra<ṃ> kurvanti & nābhinandati tattvaiva	Timu-udG10.18cd: tattva-upahAra<M> kurvanti & na-aBinandati tattva-eva
+   TimUdgh10.19ab: <...> ātmāpratyayakārakā	Timu-udG10.19ab: <...> Atma-apratyaya-kArakA
+   TimUdgh10.19cd: dhyāyate yas tu yuktātmā & dvādaśādvānatandritam	Ti-mu-udG10.19cd: DyAyate yaH tu yukta-AtmA & dvAdaSA-dvAnatandritam
+   TimUdgh10.20ab: aṇimādyādisaṃyukt[aḥ} & sarvajñatvo prajāyate	Timu-udG10.20ab: aNima-Adi-Adi-saMyukt[aH} & sarvajQa-tvaH prajAyate
+   TimUdgh10.20cd: tṛvaktraṃ pañcabhir vipraiḥ & ṣaṭsaptāṣṭabhiḥ kṣetriye	Timu-udG10.20cd: tRvaktram paQcaBiH viprEH & zaz-sapta-azwaBiH kzetriye
+   TimUdgh10.21ab: daśadvādaśabhir varṣaiḥ & vinmūtradreṣu dāpa	Timu-udG10.21ab: daSa-dvAdaSaBiH varzEH & vid-mUtra-drezu dApa
+   TimUdgh10.21cd: aparīkṣito dātavyaṃ & na ca nāstīkanindake	Timu-udG10.21cd: aparIkzitaH dAtavyam & na ca na-AstIka-nindake
+   TimUdgh10.22ab: māyāni na tathā kuruḥ & na deyaṃ yasya kasya cit	Timu-udG10.22ab: mAyAni na taTA kuruH & na deyam yasya kasya cit-
+   TimUdgh10.22cd: yathā ayuktimattaśiṣyaṃ & yadi tu<ṣya>ti vai guruḥ	Timu-udG10.22cd: yaTA ayukti-matta-Sizyam & yadi tu<zya>ti vE guruH
+   TimUdgh10.23ab: na tasya kālam ākhyātaṃ & sadya eva nibhedayet	Timu-udG10.23ab: na tasya kAlam AKyAtam & sadyas eva niBedayet-
+   TimUdgh10.23cd: brahmaṇo māyavāyas tu & mlecchaś cāpi na māyavā	Timu-udG10.23cd: brahmaNaH mAyavAyaH tu & mlecCaH ca-api na mAyavA
+   TimUdgh10.24ab: mlecchaś cāpi pradātavyaṃ & na tu *[yā] pradāpayet	Timu-udG10.24ab: mlecCaH ca-api pradAtavyam & na tu *[yA] pradApayet-
+   TimUdgh10.24cd: śivatulyasya -m- ācāryo & loke cānugrahaṃ kuruḥ	Timu-udG10.24cd: Siva-tulyasya -m AcAryaH & loke ca-anugraham kuruH
+   TimUdgh10.25ab: dravyalobhe pariprāpte & na tu bandhu{sva}janais tathā	Timu-udG10.25ab: dravya-loBe pariprApte & na tu banDu{-sva}janEH taTA
+   TimUdgh10.25cd: guru[ṃ] ya...[\fol 38v] [vā] & ta[ntu/ntra] yāsyati	Timu-udG10.25cd: guru[M] ya...[\fot 38v] [vA] & ta[ntu/ntra] yAsyati
+   saṃsrahaḥ	saMsrahaH
+   TimUdgh10.26ab: adhyāpanañ ca vyākhyānaṃ & guruśiṣyaprabodhakaḥ	Timu-udG10.26ab: aDyApanan ca vyAKyAnam & guru-Sizya-praboDakaH
+   TimUdgh10.26cd: [pra]pū**tathā jñeyaṃ & dṛṣṭvā ca suciraṃ guruḥ	Timu-udG10.26cd: [pra]pU**-taTA jQeyam & dRzwvA ca su-ciram guruH
+   %prapūjayet tathā jñeyaṃ ?	%prapUjayet taTA jQeyam ?
+   TimUdgh10.27ab: nivedaye** & pūjaye ca tathā guruḥ	Timu-udG10.27ab: nivedaye** & pUjaye ca taTA guruH
+   TimUdgh10.27cd: parāsaṃkrāntiyad devi & na dadyā ca sphuṭa priye %em:	Timu-udG10.27cd: parAsaMkrAntiyat devi & na dadyA ca sPuwa priye %em:
+   parāsaṃkrāntīyaṃ devi	parAsaMkrAntIyam devi
+   TimUdgh10.28ab: arthā[r]ttha[ṃ] kiñciśaṃ vedya & nadyānaśiṣya suvrate %	Timu-udG10.28ab: arTa-a[r]tTa[M] kiQciSam vedyaH & nadyAna-Sizya suvrate %
+   em: kilbiśaṃ	em: kilbi-Sam
+   TimUdgh10.28cd: a[nya?]thā ***ṣā & guhyagrantha praṇāśate	Timu-udG10.28cd: a[nya-?]TAH ***zA & guhyagranTa praNASate
+   TimUdgh10.29ab: tasmān na deyaṃ nākhyeyaṃ & sāragranthārthamokṣadaṃ	Timu-udG10.29ab: tasmAt na deyam na-AKyeyam & sAra-granTa-arTa-m-okza-dam
+   iti timirodghāṭane daśamaḥ paṭalaḥ	iti timira-udGAwane daSamaH pawalaH
+   %kāṣṭhayoga and amṛtayoga	%kAzWa-yoga and amRta-yoga
+   devy uvāca	devI uvAca
+   TimUdgh11.1ab: kāṣṭhayogāmṛtayoga & dvābhyāṃ lakṣaṇam ādiśet %em: ādiśeḥ	Timu-udG11.1ab: kAzWa-yoga-amRta-yogaH & dvAByAm lakzaNam AdiSet %em: AdiSeH
+   TimUdgh11.1cd: mokṣadaṃ sukhasādhyañ ca & tan me brūhi guṇādhikaṃ	Timu-udG11.1cd: mokza-dam suKa-sADyan ca & tat me brUhi guNa-aDikam
+   bhairava uvāca	BEravaH uvAca
+   TiUdgh11.2ab: pūrvva<ṃ> yoga mayākhyātaṃ & ṣaḍaṅgaṣaḍvidhaṃ pṛye	Tiu-udG11.2ab: pUrvva<n> yoga mayA-AKyAtam & zaxaFga-zaxviDam pRye
+   TiUdgh11.2cd: anekākārabhedena & dhyānamantrādikarmaṇi	Tiu-udG11.2cd: aneka-AkAra-Bedena & DyAna-mantra-Adi-karmaNi
+   TiUdgh11.3ab: kāṣṭhakriyādhikan devi & amṛtayogam {a}cintaye	Tiu-udG11.3ab: kAzWa-kriyA-aDikan devi & amRta-yogam {a}cintaye
+   TiUdgh11.3cd: gaccha tiṣṭha tato vāpi & jagratasuptam eva ca %em:	Tiu-udG11.3cd: gacCa tizWa tatas vA-api & jagrata-suptam eva ca %em:
+   jāgratsuṣuptam eva ca, or better leave?	jAgrat-suzuptam eva ca, oH betteH leave?
+   TiUdgh11.4ab: karmābhiratayuktasya & nityayoga pravarttate	Tiu-udG11.4ab: karma-aBirata-yuktasya & nitya-yoga pravarttate
+   TiUdgh11.4cd: mano -m- anyatra yuñjītaṃ & dṛṣṭim anyatra pātitaṃ [\fol	Tiu-udG11.4cd: manaH -m anyatra yuQjItam & dRzwim anyatra pAtitam [\fol
+   39\r]	39\r]
+   TiUdgh11.5ab: tathā yoginaṃ yoga & avyucchinna<ḥ> pravarttate %em: yogino	Tiu-udG11.5ab: taTA yoginam yogaH & avyucCinna<H> pravarttate %em: yoginaH-
+   yoga	yoga
+   TiUdgh11.5cd: na ca dhāraṇā vedhañ ca & nāvāhanavisarjanaṃ	Tiu-udG11.5cd: na ca DAraNA veDan ca & na-AvAhana-visarjanam
+   TiUdgh11.6ab: sarvvāvasthāgato vāpi & krīḍamāno 'pi yoginaḥ	Tiu-udG11.6ab: sarvvA-avasTA-gataH vA-api & krIxamAnaH api yoginaH
+   TiUdgh11.6cd: icchayā vasate [']ra<ṇ>ye & icchayā janasaṃkule	Tiu-udG11.6cd: icCayA vasate [-a]ra<N>ye & icCayA jana-saMkule
+   TiUdgh11.7ab: icchayā bhuñjate bhogaṃ & icchayā vratam ācaret	Tiu-udG11.7ab: icCayA BuQjate Bogam & icCayA vratam Acaret-
+   TiUdgh11.7cd: yatraṇārahitaṃ yogaḥ & sarvakarmavivarjitaṃ	Tiu-udG11.7cd: yatraNA-rahitam yogaH & sarva-karma-vivarjitam
+   TiUdgh11.8ab: nātaḥ parataraṃ devi & manohlādakaram param	Tiu-udG11.8ab: na-atas parataram devi & manohlAda-karam param
+   TiUdgh11.8cd: tantravidyākṣarair hīnaṃ & dhyānadhāraṇavarjitaṃ	Tiu-udG11.8cd: tantra-vidyA-akzarEH hInam & DyAna-DAraNa-varjitam
+   TiUdgh11.9ab: cintayārahitaṃ guhyaṃ & susūkṣmāmṛtam uttamam	Tiu-udG11.9ab: cintayA-rahitam guhyam & su-sUkzma-amRtam uttamam
+   TiUdgh11.9cd: evaṃ yogāmṛtā devi & **āl labhyanti kaulikaṃ	Tiu-udG11.9cd: evam yoga-amRtAH devi & **At laByanti kOlikam
+   TiUdgh11.10ab: amṛtasamādhiparāḥ & abhyāsā mokṣadam bhavet	Tiu-udG11.10ab: amRta-samADi-parAH & aByAsAH mokza-dam Bavet-
+   TiUdgh11.10cd: abhyāso paramayogaṃ & samādhispṛṣṭi* bhavet	Tiu-udG11.10cd: aByAsaH parama-yogam & samADi-spRzwi* Bavet-
+   TiUdgh11.11ab: vimala {pu?]na paśyati & <...>	Tiu-udG11.11ab: vimalaH {pu?]na paSyati & <...>
+   TiUdgh11.11cd: kadambagolakākāraṃ & ravikoṭisamaprabhaṃ	Tiu-udG11.11cd: kadamba-golaka-AkAram & ravi-kowi-sama-praBam
+   TiUdgh11.12ab: paśyate dehamadhyasthaṃ & vimalāyā tu yoginaṃ	Tiu-udG11.12ab: paSyate deha-maDya-sTam & vimalAyA tu yoginam
+   TiUdgh11.12cd: dī*ikhākṣavamavarṇṇā & śūlām vā kāntitejasā	Tiu-udG11.12cd: dI*iKa-akza-vama-varNNA & SUlAm vA kAnti-tejasA
+   TiUdgh11.13ab: paśyate dehamadhyasthaṃ & divyayogena yoginaṃ	Tiu-udG11.13ab: paSyate deha-maDya-sTam & divya-yogena yoginam
+   TiUdgh11.13cd: sarvvadehasthitam paśye & brahmāṇ*[rvva?]gata**[\fol 39v]	Tiu-udG11.13cd: sarvu-adeha-sTitam paSye & brahmAN*[rvva?]-gata-**[\fot 39v]
+   TiUdgh11.14ab: lo-kā-[m/n]ā-[nu/nta]-ga-ta-mātmā &	Tiu-udG11.14ab: lo-ka-a-[m/n]A-[nu/nta-]-ga-ta-m-AtmA &
+   sarvavyāpitordhordhvataḥ	sarva-vyApita-UrDa-UrDvatas-
+   TiUdgh11.14cd: ekakaulikavistāraṃ & divya[yogasya] suvrate	Tiu-udG11.14cd: eka-kOlika-vistAram & divya-[yogasya] suvrate
+   TiUdgh11.15ab: nānyatra paśyate hy etat & sarvayoga[ś/s]...ṣu %em: to aiśa	Tiu-udG11.15ab: na-anyatra paSyate hi etat & sarva-yoga[-S/s]...zu %em: taH ESa
+   yogasamādhiṣu ?	yoga-samADizu ?
+   TiUdgh11.15cd: kath[ya]mānam aśraddheyaṃ & kim āścāryañ ca vismayam	Tiu-udG11.15cd: kaT[ya]-mAnam aSradDeyam & kim AScAryan ca vismayam
+   TiUdgh11.16ab: yasyeha sarvato divyaṃ & ātmā samvetti pratyayam	Tiu-udG11.16ab: yasya-iha sarvatas divyam & AtmA samvetti pratyayam
+   TiUdgh11.16cd: bhāvabhrāntapriyaṃ jñānaṃ & pratyakṣa yā[vad] ātmani	Tiu-udG11.16cd: BAva-BrAnta-priyam jQAnam & pratyakza yA[vad] Atmani
+   TiUdgh11.17ab: *yaṃ dṛṣṭe tu pratyakṣe & bhrāntijñānaṃ vinaśyati	Tiu-udG11.17ab: *yam dRzwe tu pratyakze & BrAnti-jQAnam vinaSyati
+   TiUdgh11.17cd: evaṃ paśyati pratyakṣe & rudraśakti<ṃ> gurupriye	Tiu-udG11.17cd: evam paSyati pratyakze & rudra-Sakti<M> guru-priye
+   TiUdgh11.18ab: yad uktaṃ divyayogeṣu & sidhyate nāthā priye	Tiu-udG11.18ab: yat uktam divya-yogezu & siDyate nATA priye
+   TiUdgh11.18cd: śaktihīnaṃ guruṃ prāpya & śiṣyasiddhi<ḥ> kutaḥ priye	Tiu-udG11.18cd: Sakti-hInam gurum prApya & Sizya-sidDi<H> kutas priye
+   \var{-hīnaṃ\lem \em; -hīne \N}	\var{-hInaM\lem \em; -hIne \N}
+   TiUdgh11.19ab: mūle naṣṭe drumā devi & kutaḥ puṣpaphalādiṣu	Tiu-udG11.19ab: mUle nazwe drumAH devi & kutas puzpa-Pala-Adizu
+   TiUdgh11.19cd: rudraśaktisamāve<ś*> & guruḥ gurutaram param	Tiu-udG11.19cd: rudra-Sakti-samAve<S*> & guruH gurutaram param
+   TiUdgh11.20ab: viditātmā priyedyuktaṃ & sa guruḥ mokṣadam padam	Tiu-udG11.20ab: vidita-AtmA priyet-yuktam & sa guruH mokza-dam padam
+   TiUdgh11.20cd: paraloke tu vā sarve & āgatā puna mokṣadā % puna metri	Tiu-udG11.20cd: para-loke tu vA sarve & AgatA puna mokza-dA % puna metri
+   causa	cOsa
+   TiUdgh11.21ab: pratyakṣapratyaya<ṃ> kaula[ṃ] & iha loke paratra ca	Tiu-udG11.21ab: pratyakza-pratyaya-<M> kOla[M] & iha loke paratra ca
+   TiUdgh11.21cd: aihikapratyaye yas tu & paralokam api sādhayet %hyperm.	Tiu-udG11.21cd: Ehika-pratyaye yaH tu & para-lokam api sADayet %hi-perm.
+   TiUdgh11.22ab: aihikapratyayaṃ nāsti & kutaḥ tatra paro bhavet	Tiu-udG11.22ab: Ehika-pratyayam na-asti & kutas tatra paraH Bavet-
+   TiUdgh11.22cd: evaṃ[\fol 40r]...ānaṃ & pratyakṣaṃ tu yadā bhavet	Tiu-udG11.22cd: evaM[\fot 40r]...Anam & pratyakzam tu yadA Bavet-
+   TiUdgh11.23ab: guro vidyam ātmānaṃ & trividhenāntarātmanā	Tiu-udG11.23ab: guro vidyam AtmAnam & triviDena-antarAtmanA
+   TiUdgh11.23cd: **u**gurul*[tu?] & t[ā]sa[dv/ddh]ipatanabha*	Tiu-udG11.23cd: **u**gurul*[tu?] & t[A]sa[dv/dD]ipatana-Ba*
+   TiUdgh11.24ab: [gurupra]***pūjyā & yadīcchet siddhim ātmanaḥ	Tiu-udG11.24ab: [guru-pra]***-pUjyA & yadi-icCet sidDim AtmanaH
+   \var{yadīcchet\lem \em; yadicche \N}	\var{yadi-icCet\lem \em; yat-icCe \N}
+   TiUdgh11.24cd: divyopadeśadātāraṃ & ācāryadevadurlabhaṃ	Tiu-udG11.24cd: divya-upadeSa-dAtAram & AcArya-deva-durlaBam
+   TiUdgh11.25ab: bahavo guravo yatra & śūnyavākyam apratyayaḥ	Tiu-udG11.25ab: bahavaH guravaH yatra & SUnya-vAkyam apratyayaH
+   TiUdgh11.25cd: a*nāni pramāhīna&marmaghnā keci yoginaḥ	Tiu-udG11.25cd: a*nAni pramA-hIna&-marma-GnA keci yoginaH
+   TiUdgh11.26ab: keci ta[tdnḍ]vāvalopena & garvitā jñānavarjitā<ḥ>{ṃ}	Tiu-udG11.26ab: keci ta[tdnx]va-avalopena & garvitAH jQAna-varjitA<H>{M}
+   TiUdgh11.26cd: keci mantreṇa saṃtuṣṭā & svalpa...	Tiu-udG11.26cd: keci mantreNa saMtuzwAH & su-alpa...
+   TiUdgh11.27ab: adhamottama[jā]*ādau & nācāryapraṇave śirā	Tiu-udG11.27ab: aDama-uttama[-jA]*a-AdO & na-AcArya-praNave SirA
+   TiUdgh11.27cd: keci diśanti guru devi & saṃsārocchittikārakaḥ %hyperm.	Tiu-udG11.27cd: keci diSanti guru devi & saMsAra-ucCitti-kArakaH %hi-perm.
+   TiUdgh11.28ab: lādevihāray...&..kṣa kathaṃ bhavet	Tiu-udG11.28ab: lAdevihAra-y...&..kza kaTam Bavet-
+   TiUdgh11.28cd: rāgadveṣa-ahaṅkāre & dviye dviṣanti parasparau	Tiu-udG11.28cd: rAga-dveza--ahaFkAre & dviye dvizanti parasparO
+   TiUdgh11.29ab: kaulikajñānasadbhāvaṃ & kutaḥ teṣāṃ varānane	Tiu-udG11.29ab: kOlika-jQAna-sadBAvam & kutas tezAm varAnane
+   TiUdgh11.29cd: a.... <...> aśaktan[n/t][a]pare yuktā %meter?	Tiu-udG11.29cd: a.... <...> aSaktan[n/t][a]pare yuktAH %meteH-?
+   TiUdgh11.30ab: kule na yuktaṃ jātiṣu & kathyante mokṣadā bhavet	Tiu-udG11.30ab: kule na yuktam jAtizu & kaTyante mokza-dA Bavet-
+   TiUdgh11.30cd: kaulikena vinā devi & divyacakṣu na jā...[\fol 40v]	Tiu-udG11.30cd: kOlikena vinA devi & divya-cakzu na jA...[\fot 40v]
+   TiUdgh11.31ab: ...teṣā<ṃ> & kaulapatimahad bhavet	Tiu-udG11.31ab: ...tezA<M> & kOlapati-mahat Bavet-
+   TiUdgh11.31cd: aśaktā yogapaṭhe ca & yoginī ca gaveśayet	Tiu-udG11.31cd: aSaktA yoga-paWe ca & yoginI ca gaveSayet-
+   TiUdgh11.32ab: ....ñca & tāv amokṣo na vidyate	Tiu-udG11.32ab: ....Qca & tO amokzaH na vidyate
+   TiUdgh11.32cd: .......tā & yukto yoge tu kaulikaṃ	Tiu-udG11.32cd: .......tA & yuktaH yoge tu kOlikam
+   TiUdgh11.33ab: jātādhika tathā yoga & sarvaiśvaryaguṇādhikam	Tiu-udG11.33ab: jAta-aDika taTA yogaH & sarva-ESvarya-guNa-aDikam
+   iti timirodghāṭane ekādaśamaḥ	iti timira-udGAwane ekAdaSamaH
+   devy uvāca	devI uvAca
+   TiUdgh12.1ab: atra yogāvatāre tu & **yogā kramāgatā	Tiu-udG12.1ab: atra yoga-avatAre tu & **yogA krama-AgatA
+   TiUdgh12.1cd: liṅgapūjā kathan teṣāṃ & mantratantrākṣarādiṣu	Tiu-udG12.1cd: liFga-pUjA kaTan tezAm & mantra-tantra-akzara-Adizu
+   bairava u	bEravaH u
+   TiUdgh12.2ab: susaṃskṛtya guruṃ siṣya & kathayet sakalaṃ parā	Tiu-udG12.2ab: susaMskRtya gurum sizya & kaTayet sakalam parA
+   TiUdgh12.2cd: sūkṣmā caiva param paścā & samvedya ya*sambhave	Tiu-udG12.2cd: sUkzmA ca-eva param paScA & samvedya ya*samBave
+   TiUdgh12.3ab: sthūlan tu tadbhāva proktaṃ & ........	Tiu-udG12.3ab: sTUlan tu tad-BAva proktam & ........
+   TiUdgh12.3cd: paraṃ mokṣapadaṃ jñeyaṃ & divyaṃ [bh]avyaṃ tu putrakai<ḥ>	Tiu-udG12.3cd: param mokza-padam jQeyam & divyam [B]avyam tu putrakE<H>
+   TiUdgh12.4ab: na teṣāṃ mṛnmayaṃ liṅgaṃ & na [śailaṃ] rūpyakāñcanam	Tiu-udG12.4ab: na tezAm mRd-mayam liFgam & na [SElaM] rUpya-kAQcanam
+   TiUdgh12.4cd: na citrasa[**liṅga] & [svadeh ... m]	Tiu-udG12.4cd: na citra-sa[**liFga] & [svadeh ... m]
+   TiUdgh12.5ab: liṅga<ṃ> svadehe{ṣu} saṃpūjyaṃ & dharmapuṇyamahā[spadam?]	Tiu-udG12.5ab: liFga<M> sva-dehe{zu} saMpUjyam & Darma-puNya-mahA[spadam?]
+   TiUdgh12.5cd: yo... & ukto bhogan tu mokṣa*ṃ [\fol 41r]	Tiu-udG12.5cd: yaH-... & uktaH Bogan tu mokza*m [\fot 41r]
+   TiUdgh12.6ab: ... & ... yoginaḥ	Tiu-udG12.6ab: ... & ... yoginaH
+   TiUdgh12.6cd: tasya pūjyam adhordvena & ...	Tiu-udG12.6cd: tasya pUjyam aDoH-dvena & ...
+   TiUdgh12.7ab: ....	Tiu-udG12.7ab: ....
+   TiUdgh12.7cd: ...gamokṣan tu & icchāsiddhi karoti iti	Tiu-udG12.7cd: ...gamokzan tu & icCA-sidDi karoti iti
+   TiUdgh12.8ab: yogeśvaro yathepsayā & ........	Tiu-udG12.8ab: yogeSvaraH yaTA-IpsayA & ........
+   TiUdgh12.8cd: ..pi bhavate mokṣa& ........	Tiu-udG12.8cd: ..pi Bavate mokza& ........
+   TiUdgh12.9ab: nānyatra gamanaṃ tasya & iti loka niścaya{ṃ}<ḥ>	Tiu-udG12.9ab: na-anyatra gamanam tasya & iti loka niScaya-{M}<H>
+   TiUdgh12.9cd: evaṃ brahmāṇḍodarasthaṃ & sarvva ...raṃ	Tiu-udG12.9cd: evam brahmANxa-udara-sTam & sarvva ...ram
+   TiUdgh12.10ab: kurute tu pa ...& ....niṣkalam	Tiu-udG12.10ab: kurute tu paH ...& ....nizkalam
+   TiUdgh12.10cd: sar**ṃ yoginaṃ liṅgaṃ & parāśaktir adhiṣṭhitam	Tiu-udG12.10cd: sar**m yoginam liFgam & parASaktiH aDizWitam
+   TiUdgh12.11ab: ātma saṃvetti pratya[kṣaṃ] & sakalaniṣkalāśritaṃ	Tiu-udG12.11ab: Atma saMvetti pratya[kzan] & sakala-nizkala-ASritam
+   TiUdgh12.11cd: ...& sarvadevata-m-āśritā	Tiu-udG12.11cd: ...& sarva-devata-m-a-ASritA
+   TiUdgh12.12ab: sarvvātriṅśasamāpannaṃ & sarvapratyakṣapratyayam	Tiu-udG12.12ab: sarvvAtriFSa-samApannam & sarva-pratyakza-pratyayam
+   TiUdgh12.12cd: divya paśyati yo deva & antarikṣe [bh/ti]pratya...	Tiu-udG12.12cd: divya paSyati yaH deva & antarikze [B/ti]pratya...
+   TiUdgh12.13ab: ...mṛtkāṣṭhe & liṅga<ṃ> pratimam eva ca	Tiu-udG12.13ab: ...mRd-kAzWe & liFga<M> pratimam eva ca
+   TiUdgh12.13cd: manuṣyayoginā tais tu & yasya pudgalaliṅgākṛti%hyperm.	Tiu-udG12.13cd: manuzya-yoginA tEH tu & yasya pudgala-liFga-AkRti%hi-perm.
+   TiUdgh12.14ab: divyacakṣusthito yogī & paśyanti ..... [\fol 41v]	Tiu-udG12.14ab: divya-cakzu-sTitaH yogI & paSyanti ..... [\fot 41v]
+   TiUdgh12.14cd: kiṃ tasya pratimārūpaiḥ & yasya divyāgatisthitā	Tiu-udG12.14cd: kim tasya pratimA-rUpEH & yasya divya-agati-sTitA
+   TiUdgh12.15ab: paśyanti divyaliṅgāni & trailokyajñānam uttamam	Tiu-udG12.15ab: paSyanti divya-liFgAni & trElokya-jQAnam uttamam
+   TiUdgh12.15cd: kiṃ karoti -m- iti liṅga & yasya ....tā	Tiu-udG12.15cd: kim karoti -m iti liFga & yasya ....tA
+   TiUdgh12.16ab: brāhmāṇḍa vetti dehasthā & trailokyodarasambhavam	Tiu-udG12.16ab: brAhmANxa vetti deha-sTAH & trElokya-udara-samBavam
+   TiUdgh12.16cd: etal liṅgamahātmānaṃ & yogendra pūjayet sadā	Tiu-udG12.16cd: etat liFga-mahAtmAnam & yoga-indra pUjayet sadA
+   pratibimbañ ca [t/bh]e... & ...s tu	pratibimban ca [t/B]e... & ...H tu
+   ...pratyakṣaṃ na*e & kāṣṭhayogottarottaraḥ	...pratyakzam na*e & kAzWayoga-uttarottaraH
+   amrtena vinā devi & yogendro *mate**ṃ	amrtena vinA devi & yoga-indraH *mate**m
+   gatalajjā iv{ā} nārī &*i......	gata-lajjA iv{A} nArI &*i......
+   vijane kānte gupte vā & ramate tu yathepsayā	vijane kAnte gupte vA & ramate tu yaTA-IpsayA
+   aṅganā-m iva nāṅgāni & ....tilālasā	aFganA-m iva na-aFgAni & ....ti-lAlasA
+   rama... & ...	rama... & ...
+   ..raktānuraktasya & ratyānandakarī priyā	..rakta-anuraktasya & rati-Ananda-karI priyA
+   <...> vairāgya<ṃ> [caiva] gacchati	<...> vErAgya<M> [ca-eva] gacCati
+   ....&...dhikaulakī hye...	....&...Di-kOlakI hi-e...
+   ...sadyapratyayakārakaṃ	...sadya-pratyaya-kArakam
+   ...sarva [\fol 42r]	...sarvaH [\fot 42r]
+   satya satya punaḥ ....	satya satya punar ....
+   iti timirodghāṭane dvādaśaḥ paṭalaḥ samāptaḥ \orn	iti timira-udGAwane dvAdaSaH pawalaH samAptaH \oH-n
+   %Jñānaśula	%JQAna-Sula
+   puprakīrtitā	puprakIrtitA
+   kriyāśaktisthito viṣṇuḥ & umāsoma prakīrtitaḥ	kriyA-Sakti-sTitaH vizNuH & umAsoma prakIrtitaH
+   icchā<śaktithit>....śaktiśiva....	icCA<-SaktiTit>....Sakti-Siva-....
+   ..nāḍī & [vāmā]śāktiprakīrttitā	..nAxI & [vAmA]SAkti-prakIrttitA
+   brāhmī caiva suṣumnā & jyeṣṭhāśakti prakīrtitā	brAhmI ca-eva suzumnA & jyezWA-Sakti prakIrtitA
+   [madhya]sthā piṅgalā jñeyā & ........	[maDya]sTA piFgalA jQeyA & ........
+   jñānaśūlam idaṃ proktaṃ & śaktitrayasamanvitam	jQAna-SUlam idam proktam & Sakti-traya-samanvitam
+   bhittvā somañ ca sūryañ ca & tṛtīyāvahnimaṇḍalam	BittvA soman ca sUryan ca & tRtIyOvahni-maNxalam
+   rekhatraya ta.... vyavasthitā	reKa-traya ta.... vyavasTitA
+   bhasme vā salile vātha & jñānaśūlena vinyaset	Basme vA salile vA-aTa & jQAna-SUlena vinyaset-
+   agnimadhye yajed yas tu & svāyambhubhuvaneśvaram	agni-maDye yajet yaH tu & svAyamBu-Buvana-ISvaram
+   yū...[\fol 42v] & trailokya[ṃ] sacarācaraṃ	yU...[\fot 42v] & trElokya[M] sacarAcaram
+   <...> & yātā labhanti tatphalaṃ	<...> & yAtAH laBanti tad-Palam
+   somatīrthe yajed yas tu & svayambhukāyapālanam	somatIrTe yajet yaH tu & svayamBu-kAya-pAlanam
+   pūjitan tena sarvasyā & niṣkala...	pUjitan tena sarvasyAH & nizkala...
+   pātālañ ca mahīcārddha&madhyāhne candram ucchrayam	pAtAlan ca mahI-ca-ardDa&maDyAhne candram ucCrayam
+   ratnānāṃ pūrṇṇa yo dadyā & yoginā śaṃsitavratam	ratnAnAm pUrNNa yaH dadyA & yoginA SaMsita-vratam
+   svadehe puṣpam eke. & ..labhanti tatphalaṃ	sva-dehe puzpam eke. & ..laBanti tad-Palam
+   viśuddhe samvidhasyā* & prajā tribhuvaneśvaram	viSudDe samviDasyA* & prajA triBuvana-ISvaram
+   abhāvepraji....vairāgyasadato*i...	aBAvepraji....vErAgya-sat-ato*i...
+   ..ryantaṃ	..ryantam
+   stuti kṛtvā ca ratnānāṃ	stuti kRtvA ca ratnAnAm
+   pūrṇṇa yo dadyā ācārya	pUrNNa yaH dadyAH AcArya
+   koṭikoṭiji*... dehe śivapuṣpe ca	kowi-kowiji*... dehe Siva-puzpe ca
+   dviguṇaṃ [gandha]saṃyuktaṃ & dhūpenaiva caturguṇam	dviguNam [ganDa]-saMyuktam & DUpena-eva caturguNam
+   gandha[uṣpamalābhena **i	ganDa-[uzpama-lABena **i
+   nyo hṛdaya / māṃ	nyaH hRdaya / mAm
+   [\fol 43r]	[\fot 43r]
+   ṣṭhi ...pivamantrapadecchayā ... sa	zWi ...piva-mantra-pada-icCayA ... sa
+   taṃ sunirmalaṃ	tam su-nirmalam
+   yojayet tatra -m- ātmānaṃ & tantunā saha yogavit	yojayet tatra -m AtmAnam & tantunA saha yoga-vid-
+   ...lam pibet ...	...lam pibet ...
+   ...mantra /	...mantra /
+   prāṇā[pt?]ikeṣu nādāśati /	prANA[pt?]ikezu na-adASati /
+   brahmahatyāsahasrāṇi & hayamedhaśatāni ca	brahmahatyA-sahasrANi & hayameDa-SatAni ca
+   ...pāpenanyāsakṛ...	...pApena-nyAsa-kR...
+   ātmānaṃ *i* saṃyojya & tula brahmā ṇivadanti //\orn//	AtmAnam *i* saMyojya & tula brahmA Nivadanti //\oH-n//
+   \orn oṃ namaḥ śivāya //	\orn om namaH SivAya //
+   devyovāca	devyA-uvAca
+   yad eta niṣkala... &...tanaṃ	yat eta nizkala... &...tanam
+   niṣkalaṃ nirmalaṃ śāntaṃ & niṣprapañcam alakṣaṇam	nizkalam nirmalam SAntam & nizprapaQcam alakzaNam
+   apratarkyam avijnneyam & vināśotpattivarjitam	apratarkyam avijnneyam & vinASa-utpatti-varjitam
+   kaivalyaṃ kevalaṃ śāntaṃ & śuddham...	kEvalyam kevalam SAntam & SudDam...
+   karaṇam yoganirmuktaṃ & hetusādhanavarjitaṃ	karaNam yoga-nirmuktam & hetu-sADana-varjitam
+   tat kṣaṇād eva mucyante & taṃ jñānam brūhi śaṅkara	tat kzaNAt eva mucyante & tam jQAnam brUhi SaFkara
+   yatra śakti tadākāśaṃ & dehasthaṃ dehavarjita[ṃ]	yatra Sakti tad-AkASam & deha-sTam deha-varjita-[M]
+   [\fol 43v] ..kathaṃ deh[e?] kathaṃ dehavarjitaṃ	[\fot 43v] ..-kaTam deh[e?] kaTam deha-varjitam
+   kathaṃ jīvo sthito dehe & jīva jīva prakīrttitam	kaTam jIvaH sTitaH dehe & jIva jIva prakIrttitam
+   kena jīvaty asau jīva & kena mārgeṇa saṃcare	kena jIvati asO jIva & kena mArgeNa saMcare
+   sakalas tu kathaṃ jīvo & niṣka bhavet	sakalaH tu kaTam jIvaH & nizka Bavet-
+   kathaṃ paśyaty asau jīvo & ki* jīvasya bhojanam	kaTam paSyati asO jIvaH & ki* jIvasya Bojanam
+   kutra vā līyate jīvo & jāyate ko tra -m- eva hi	kutra vA lIyate jIvaH & jAyate kaH tra -m eva hi
+   kiṃvarṇṇe kimpramaṇan tu & jīvasya .....	kiMvarNNe kimpramaNan tu & jIvasya .....
+   sarvam etan mayākhyāhi & devadeva maheśvara	sarvam etat mayA-AKyAhi & devadeva maheSvara
+   bhavasāgarabandhāt tu & ādimokṣadaviprabho	Bava-sAgara-banDAt tu & Adi-mokza-davi-praBo
+   īśvara uvāca //	ISvaraH uvAca //
+   vāyus tejas tadā... saṃjñitaṃ	vAyuH tejaH tadA-a... saMjQitam
+   jīva prāṇam ity uktam vā & vālāgraśatakalpitam	jIva prANam iti uktam vA & vAla-agra-Sata-kalpitam
+   jīva śuklas tu vijñeyaṃ & yāva sa[ttve]na saṃyutaṃ	jIva SuklaH tu vijQeyam & yAva sa[ttve]na saMyutam
+   rajena...&...prakīrttitaṃ	rajena-...&...-prakIrttitam
+   tamena tu samāyuktaṃ & jīva kṛṣṇo bhave dhruvam	tamena tu samAyuktam & jIva kRzNaH Bave Druvam
+   jīvaṃ sattvasamāyukto & ....te	jIvam sattva-samAyuktaH & ....te
+   rajena tu sa[māyu]...&...bhuḥ	rajena tu sa[m-Ayu]...&...BuH
+   tamena [tu samā]yukto & tadā pāpe pravarttate	tamena [tu samA]-yuktaH & tadA pApe pravarttate
+   nāsā[gra]ṇai....	nAsA[gra-]NE....
+   [\fol 44r]	[\fot 44r]
+   *tu /	*tu /
+   hṛtpadman tu ***tu & adhaś cordhvañ ca dhā	hRd-padman tu ***tu & aDas ca-UrDvan ca DA
+   ...dharm...	...Darm...
+   ..prāṇaś ca vijñeyaṃ & nāsāgraṃ yāva saṃsthitam	..prANaH ca vijQeyam & nAsA-agram yAva saMsTitam
+   tatrastho niṣkalaḥ proktaḥ & [yāvano]śvāsa[te punaḥ]	tatrasTaH nizkalaH proktaH & [yAvano]SvAsa[te punar-]
+   [śva]sanasahasrayukto * & hṛday...	[Sva]sana-sahasra-yuktaH * & hRday...
+   tasthavyomnī tadā līna & tāva niṣkalatāṅ gataḥ	tasTa-vyomnI tadA lInaH & tAva nizkala-tAF gataH
+   punaḥ śvāsatṛtīyaṃ tu & jīvasya parikīrtitam	punar SvAsa-tRtIyam tu & jIvasya parikIrtitam
+   hṛtpadmasuśureṇaiva & adho... taṃ	hRd-padma-suSureNa-eva & aDas-... tam
+   jīva[me?]vaśam ityuktaṃ & śivena paramātmanā	jIva[me?]-vaSam iti-uktam & Sivena paramAtmanA
+   yāva na nośvāsa devī & tāva niṣkalam ucyate %em: nocchvasanaṃ... devi	yAva na na-uSvAsa devI & tAva nizkalam ucyate %em: na-ucCvasanaM... devi
+   nāsthito niṣkalo jñā[tvā] & va[r/n/t?]ma....	na-AsTitaH nizkalaH jQA[tvA] & va[r/n/t?]ma....
+   nābhisthaṃ sarvvakāryeṣu & hṛdisthaṃ kāryavarjitaṃ	nABi-sTam sarvu-akAryezu & hRdisTam kArya-varjitam
+   vaktranāsāpuṭāntastho & bhuñjate viṣayān prabhuḥ	vaktra-nAsA-puwa-anta-sTaH & BuQjate vizayAn praBuH
+   dehastham paśyate jīvo & jighrate ca śṛṇot...	deha-sTam paSyate jIvaH & jiGrate ca SRNot...
+   bhukte śubhāśubhaṃ jīvo & dehe dehe vyavasthitaḥ	Bukte SuBa-aSuBam jIvaH & dehe dehe vyavasTitaH
+   dehaṃ tyaktvā yadā jīvo & bahirākāśam āśritaḥ	deham tyaktvA yadA jIvaH & bahis-AkASam ASritaH
+   tadā nirviṣayo jīvo & bhavate .....	tadA nirvizayaH jIvaH & Bavate .....
+   [\fol 44v]	[\fot 44v]
+   tad eva nirbhayaṃ brahmā & taṃ dhyātvā sa sadāśivaḥ	tat eva nirBayam brahmA & tam DyAtvA sa sadASivaH
+   dhyātvā śivam ajam nityaṃ & mucyate pāpapañjaraṃ %em:-pañjarāt	DyAtvA Sivam ajam nityam & mucyate pApa-paQjaram %em:--paQjarAt-
+   ananto sarvvadehasthā & nāsāgravasthitaṃ śivam	anantaH sarvu-adeha-sTA & nAsA-agravasTitam Sivam
+   ...sarvabhūtānāṃ & dṛśyante na calatk[ṛ?]te	...-sarva-BUtAnAm & dRSyante na calat-k[R?]te
+   nābhimadhyasthitaṃ devī & siddhitattvasunirmalam	nABi-maDya-sTitam devI & sidDi-tattva-su-nirmalam
+   ādityam iva dīpyattarasthibhiḥ prajvalanti ca...	Adityam iva dIpyattara-sTiBiH prajvalanti ca...
+   ...cāṣṭamam bījaṃ & jīvākhyaṃ dehasaṃsthitam	...ca-azwamam bIjam & jIva-AKyam deha-saMsTitam
+   tenedaṃ vyāpya malinaṃ & kṣīravan **i...	tena-idam vyApya malinam & kzIra-van **i...
+   ...karaṇerātmakai gṛhya & prāṇaprāṇasadaṅgakaiḥ %em: prāṇāpāna-?	...karaNeH-AtmakEH gRhya & prANa-prANa-sadaFgakEH %em: prANa-apAna-?
+   śvāsaniśvāsayogena & adhaś cordhvañ ca līyate	SvAsa-niSvAsa-yogena & aDas ca-UrDvan ca lIyate
+   śuṣkapatraṃ tu vātena & ...yathā /	Suzka-patram tu vAtena & ...yaTA /
+   tathā bhrāmyati jīvākhyā & prāṇāprāṇākhyānokaje	taTA BrAmyati jIva-AKyA & prANa-aprANa-AKya-anoka-je
+   prāṇāprāṇasamāyukto & jīvo py eva hṛdi sthitaḥ	prANa-aprANa-samAyuktaH & jIvaH pi eva hRdi sTitaH
+   śvāsani<śvās...> ... & puṇyapāpai samāyutaṃ	SvAsa-ni<SvAs...> ... & puNya-pApEH samAyutam
+   antaryāmī śaktyā[-tā-nā-da-re-cā-ne-ca dṛ-śya-te] %bottoms missing	antaryAmI Sakti-A[-tA--nA--da-re--ca-a-net-ca dR-Sya-te] %bottomH mis-sing
+   [\fol 45r]	[\fot 45r]
+   ...nirgataṃ /	...-nirgatam /
+   siddhakaulaṃ ca vikhyātaṃ & adha<ḥ>saṃcāravarjitam	sidDa-kOlam ca viKyAtam & aDa<H>-saMcAra-varjitam
+   sva...	sva...
+   ..natāñ caiva & pa[n?/t]itāś ca viśeṣataḥ	..natAn ca-eva & pa[n?/t]itAH ca viSezataH
+   ajarāmarapadaṃ vyāptaṃ & labhate cakram āgataṃ	ajara-amara-padam vyAptam & laBate cakram Agatam
+   natī...	natI...
+   ...maṇḍalādhikāraṃ & akulaṃ yogam āśṛtāḥ	...-maNxala-aDikAram & akulam yogam ASRtAH
+   <...> ekapādukam eva ca /	<...> eka-pAdukam eva ca /
+   tathaiva pūjaye nityaṃ & ātmānas tu vicakṣaṇaḥ	taTA-eva pUjaye nityam & AtmAnaH tu vicakzaNaH
+   yena kaulārṇṇavaṃ proktaṃ & samsaṃsārasyā...mokṣadā	yena kOla-arNNavam proktam & samsaMsArasya-a...mokza-dA
+   cāturyugī prati nātha & kaliyugā[tkṣa]yantakaḥ	cAturyugI prati nATa & kali-yugA[t-kza]I-antakaH
+   tasya kaulam idaṃ divyaṃ & nirnnāśaṃ tu kadā cana{ḥ}	tasya kOlam idam divyam & nirnnASam tu kadA cana{H}
+   yena vyāpta sadā sarvva....	yena vyApta sadA sarvu-a....
+   ekam eva tu mūlasyā & śākhā tasya -m- anekadhā	ekam eva tu mUlasyA & SAKA tasya -m anekaDA
+   tasya mūlaprabhāvena & prarohaṃ sacarācaram	tasya mUla-praBAvena & praroham sa-carAcaram
+   ekabījan tu tattvasthaṃ & ekākārasamāsthitam	eka-bIjan tu tattva-sTam & eka-AkAra-samAsTitam
+   vyāpakaṃ vyoma.peṇa & anantam vimala prabhuḥ	vyApakam vyoma.peNa & anantam vimala praBuH
+   kāraṇan nirmmalasyānte & śāśvataṃ rūpa -niścalaḥ	kAraNan nirmmalasya-ante & SASvatam rUpaH -niScalaH
+   nirātmeti nānākāśaṃ & nirācārasvabhāvataḥ	nirAtmA-iti nAnA-AkASam & nirAcAra-svaBAvataH
+   ṣaḍvarṇṇarahitaṃ tatvanirāla[\fol 45v]mbitolambakaḥ	zaz-varNNa-rahitam tatu-a-nirAla[\fot 45v]mbitolambakaH
+   svabhāve varttanirūpaṃ & svabhāve piṇḍamadhyamaḥ	svaBAve vartta-nirUpam & svaBAve piNxa-maDyamaH
+   nitya[bha]vya sadā yogī & sādhaye piṇḍam uttamam	nitya[Ba]vya sadA yogI & sADaye piNxam uttamam
+   ekāśramasamāyuktaṃ & ekasthānanivāsinī	eka-ASrama-samAyuktam & eka-sTAna-nivAsinI
+   na pīṭhagamanañ caiva & na balikṣetram eva ca	na pIWa-gamanan ca-eva & na bali-kzetram eva ca
+   dehasthaṃ pīṭhakṣetre tu & nānyakṣetraṃ paryaṭate	deha-sTam pIWa-kzetre tu & na-anya-kzetram paryawate
+   balivahniparaṃ yatra & tatrāsau kula{sa}mudbhavam	bali-vahni-param yatra & tatra-asO kula{sa-}mudBavam
+   kulādhāraṅ kulam pīṭha & akulaṃ kṣetrapālakaṃ	kula-ADAraF kulam pIWa & akulam kzetrapAlakam
+   na yoginīmelakañ caiva & na tu caryāvidhikramā	na yoginI-melakan ca-eva & na tu caryA-viDi-kramA
+   śivaśaktimahāmelā & divyamelā sa ucyate	Siva-Sakti-mahAm-elA & divyam-elA saH ucyate
+   na [dhyā]nayogapaṭṭāsaṃ & na yogadaṇḍadhāraṇam	na [DyA]na-yoga-pawwAsam & na yoga-daNxa-DAraNam
+   na keśavañcanañ caiva & muñjamekhalādikaṃ	na keSavaQcanan ca-eva & muQja-meKala-Adikam
+   na kaupīnaṃ vrataṃ caiva & avyaktaliṅgavarjitaṃ	na kOpInam vratam ca-eva & avyakta-liFga-varjitam
+   na saṃdhyā agnikāryañ ca & na dravyaṃ homakādikaṃ	na saMDyA agnikAryan ca & na dravyam homaka-Adikam
+   dehasthan tu mahākuṇḍaṃ & jvalantattajamaṇḍalaṃ	deha-sTan tu mahA-kuNxam & jvalan-tattaja-maNxalam
+   kālānalapratīkāśaṃ & vidyutkāntisamaprabhaḥ	kAla-anala-pratIkASam & vidyut-kAnti-sama-praBaH
+   samaya[śatayogīśi... ]jagasāśayaḥ	samaya[-Sata-yogISi... ]jagasa-ASayaH
+   anādhikramasamprāptaṃ & kulabhedena nir**	anADikrama-samprAptam & kula-Bedena nir**
+   ki.......siddhānta...bhairava[p/v]rat...	ki.......sidDAnta...BErava[p/v]rat...
+   [\fol 47r]	[\fot 47r]
+   varjanā vā prayatnena & ekākārapadāsthitam	varjanAH vA prayatnena & eka-AkAra-pada-AsTitam
+   sarveṣāṃ ta...	sarvezAm ta...
+   ...samudre..	...-samudre..
+   ...te yadvat /	...te yadvat /
+   mahāmārga yadā dṛṣṭvā & sarvatattva na saṃśayaḥ	mahAmArga yadA dRzwvA & sarva-tattva na saMSayaH
+   ekākārasthitaṃ tattvaṃ & vyāpti[vyāpa]kasaṃthitam	eka-AkAra-sTitam tattvam & vyApti[-vyApa]ka-saMTitam
+   etat kaulam idaṃ divyaṃ & śivaśaktisamanvitam	etat kOlam idam divyam & Siva-Sakti-samanvitam
+   siddhāś ca yoginī caiva & sarvapīṭhasamāśṛtāḥ	sidDAH ca yoginI ca-eva & sarva-pIWa-samASRtAH
+   pūjayet kulamārgeṇa & vyomasthitayena vyāptaṃ	pUjayet kula-mArgeNa & vyoma-sTitayena vyAptam
+   samanuprāptam idaṃ divyaṃ & yat kulaṃ pīṭham uttamam	samanuprAptam idam divyam & yat kulam pIWam uttamam
+   na tasya yantramantrāṇi & nakṣatramantrasādhane	na tasya yantra-mantrANi & nakzatra-mantra-sADane
+   sa paśyate samarasaṃ & vāṅmayaṃ sacarācaram	sa paSyate sama-rasam & vAc-mayam sa-carAcaram
+   samatvā vītarāgan tu & udāsī śāntacetasā %	samatvA vIta-rAgan tu & udAsI SAnta-cetasA %
+   tathā vaktravinirmuktaṃ & gurubhakti samāhitaṃ	taTA vaktra-vinirmuktam & guru-Bakti samAhitam
+   samaya pālayen nityaṃ & ekākārapadāsthitaṃ	samaya pAlayet nityam & eka-AkAra-pada-AsTitam
+   tadātmakaulam āyānti & nirvāṇaṃ padavāpnuyāt %em: nirvāṇaṃ padam āpnuyāt	tad-Atma-kOlam AyAnti & nirvANam padavApnuyAt %em: nirvANam padam ApnuyAt-
+   tāñ ca acchayā yogī & nirācārapade sthitaṃ	tAn ca acCayA yogI & nirAcAra-pade sTitam
+   sa mukti sarvatattveṣu & mukti saṃsārabandhanāt	sa mukti sarva-tattvezu & mukti saMsAra-banDanAt-
+   ajarāmarapadaṃ vyāptaṃ & tadā mukti na saṃśayaḥ	ajara-amara-padam vyAptam & tadA mukti na saMSayaH
+   divya[pi]<ṇḍo>[\fol 47v] bhaved yogī & valīpālitavarjitaḥ	divya[pi]<Nxo>[\fot 47v] Bavet yogI & valI-pAlita-varjitaH
+   paryaṣṭanti gaganābhogā & sadevāsuramānuṣāṃ % em: paryaṭati	paryazwanti gagana-ABogAH & sa-deva-asura-mAnuzAm % em: paryawati
+   na punaḥ badhyate teṣām & padmapatram ivāmbhasā	na punar baDyate tezAm & padma-patram iva-amBasA
+   etan tu vimalan divyam & paśūnān timirāpahaṃ	etat tu vimalan divyam & paSUnAn timira-apaham
+   jñātavyaṃ siddhakaulaṃ tu & siddhanāthena bhāṣitam	jQAtavyam sidDa-kOlam tu & sidDanATena BAzitam
+   na candraravimadhyasthaṃ & na vahnipavanaṃ tathā	na candra-ravi-maDya-sTam & na vahni-pavanam taTA
+   upadeśena taṃ gamya & guruvaktre vyavasthitaṃ	upadeSena tam gamya & guru-vaktre vyavasTitam
+   avikalpaṃ na gṛhīta & śrīmukhena vinirggataḥ	avikalpam na gRhIta & SrImuKena vinirggataH
+   ananta<ṃ> vimala<ṃ> śānta<ṃ> & hetulakṣaṇavarjitaḥ	ananta<M> vimala<M> SAnta<M> & hetu-lakzaNa-varjitaH
+   kathitaṃ mīnanāthena & etad yoga<ṃ> sudurlabham	kaTitam mIna-nATena & etat yoga<M> su-durlaBam
+   ete yogasadbhāva<ḥ> samāptaḥ //	ete yoga-sadBAva<H> samAptaH //
+   bhairava uvāca	BEravaH uvAca
+   na nābhihṛdaye caiva & na kaṇṭhenaiva tāluke	na nABi-hRdaye ca-eva & na kaNWena-eva tAluke
+   nan lalāṭe varārohe & ghaṇṭikāgre na vidyate	nan lalAwe varArohe & GaNwikA-agre na vidyate
+   brahmarandhrapravāhena & na mokṣ naiva sādhane	brahmaranDra-pravAhena & na mokH na-eva sADane
+   dvādaśānte na cittasya & dvitā** na bhāvanam	dvAdaSAnte na cittasya & dvi-tA** na BAvanam
+   manasā tattva*yeṇa & na mokṣa na ca vidyate	manasA tattva*yeNa & na mokza na ca vidyate
+   buddhinetra bhavet kiñ ci & buddhibandhavikalpanā	budDi-netra Bavet kiQ ci & budDi-banDa-vikalpanA
+   gu..ye varārohe & ...ma vidyate	gu..ye varArohe & ...ma vidyate
+   [\fol 48r]	[\fot 48r]
+   malamālā tathā varṇṇa & jīvaśakti varānane	mala-mAlA taTA varNNaH & jIva-Sakti varAnane
+   uccāraye...	uccAraye...
+   ...rvatattvarūpeṇa & teṣāṃ mokṣo na vidyate	...rvatattva-rUpeNa & tezAm mokzaH na vidyate
+   yā sā granthi mahābhāge & jñānarūpaparāparaṃ	yA sA granTi mahABAge & jQAna-rUpa-para-aparam
+   jñātvā granthi mahādevi & anyajñāna...	jQAtvA granTi mahAdevi & anya-jQAna-...
+   cakṣu[ḥ]śrotraṃ tathā ghrāṇa & vaktra gṛhya sadorgatiḥ	cakzu[H]Srotram taTA GrANaH & vaktra gRhya sadoH-gatiH
+   nāḍī divya sureśāni & jñatvā vyāptaṃ sacarācaraṃ	nAxI divya sureSAni & jQatvA vyAptam sa-carAcaram
+   pūrakakumbhakañ caiva & recakan tu tṛtīyaykam	pUraka-kumBakan ca-eva & recakan tu tRtIyaykam
+   varjayet tāni devi & yadi -m- iccha siddhim uttamam % em: vārjayet tāni tu	varjayet tAni devi & yadi -m icCa sidDim uttamam % em: vA-arjayet tAni tu
+   devi yadīcchet siddhim...	devi yadi-icCet sidDim...
+   athāta sampravakṣyami & yathā tattvasya lakṣaṇam	aTa-atas sampravakzyami & yaTA tattvasya lakzaNam
+   na cetā na jaḍāś caiva & nātm<ā> paras tathā{ś} caiva	na cetAH na jaxAH ca-eva & na-Atm<A> paraH taTA-a{S} ca-eva
+   bharitāvasthāsampūrṇṇa&sarvvajñena śrīdhāriṇī	Barita-avasTA-sampUrNNa&-saru-vajQena SrI-DAriNI
+   na śūnyaṃ na pratyakṣaṃ & na dūre nāpi madhyame	na SUnyam na pratyakzam & na dUre na-api maDyame
+   bharitāvasthāsampūrṇṇa&sarvvajñena śrīdhāriṇī	Barita-avasTA-sampUrNNa&-saru-vajQena SrI-DAriNI
+   na dehe gagane nāpi & lolībhūte naiva ca	na dehe gagane na-api & lolIBUte na-eva ca
+   eta yat ka ci nirmuktaṃ & sāvasthā kaulikā gatā % em: kaulikā matā	eta yat kaH ci nirmuktam & sA-avasTA kOlikA gatA % em: kOlikA matA
+   [\fol 48v] etāvasthā parityajya & pūrṇṇāvasthā mahāsukha	[\fot 48v] etAvasTA parityajya & pUrNNa-avasTA mahA-suKa
+   bharitāvasthāmantrās tu & yo janāti sa kaulikaṃ	Barita-avasTA-mantrAH tu & yaH janAti sa kOlikam
+   ekākāragatā śāntā & parāparasya tatvasya // \orn //	eka-AkAra-gatA SAntAH & parAparasya tatvasya // \orn //
+   %List of deities	%List of deitieH-
+   prayāge veśyā /	prayAge veSyA /
+   vārāṇasyāṃ dhīmara /	vArANasyAm DImara /
+   kolakaṃ dunī /	kolakam dunI /
+   aṭṭahāse khaṭinī /	awwahAse KawinI /
+   jayantyāyāñ *mbinī /	jayantyAyAn *mbinI /
+   eritrā cchipiṇī /	eritrA cCipiNI /
+   ekambā bhālinīdevī	ekambA BAlinI-devI
+   koṇḍe mālinī /	koNxe mAlinI /
+   śrīmadanapāda /	SrI-madanapAdaH /
+   śrībhaṭṭapāda /	SrI-BawwapAda /
+   śrīkālavyā /	SrI-kAlavyA /
+   śrī...ravvā /	SrI-...ravvA /
+   śrī-ānandavvā /	SrI--AnandavvA /
+   śrīnantavvā /	SrInantavvA /
+   śrīvanadavvā /	SrIvanadavvA /
+   śrīmacchandapāda /	SrImat-CandapAda /
+   śrībhoṭṭapāda /	SrI-BowwapAda /
+   śrīhariṇapāda /	SrI-hariNa-pAdaH /
+   śrīdhavalapāda /	SrIDavala-pAda /
+   śrīvyāghrapāda /	SrI-vyAGrapAda /
+   ākhyāï /	AKyAï /
+   illāï /	illAï /
+   uhāï /	uhAï /
+   [si]ṣāï /	[si]zAï /
+   dhisāï /	DisAï /
+   esāï /	esAï /
+   īhāï /	IhAï /
+   brāhmaṇī /	brAhmaNI /
+   māheśvarī /	mAheSvarI /
+   kaumārī /	kOmArI /
+   indrāṇī /	indrANI /
+   [vaiṣṇavī /]	[vEzNavI /]
+   vārāhī /	vArAhI /
+   cāmuṇḍī /	cAmuNxI /
+   mahābhairavalakṣmī /	mahABErava-lakzmI /
+   %Here begin the Nirvāṇakārikā	%Here begin Te NiH-vANa-kArikA
+   amala....lācai...	amala-....lA-cE...
+   [\fol 49r]	[\fot 49r]
+   ***[ptā?] yathā devī vipulaḥ kṛta...vibuddhatatkṣaṇādevī....	***[ptA?] yaTA devI vipulaH kRta-...vibudDa-tad-kzaNA-devI....
+   jīvo py eva yadā devī & puṇyapāpais tu veṣṭita<ḥ>	jIvaH pi eva yadA devI & puNya-pApEH tu vezwita<H>
+   jñānavijñānayogena & ....	jQAna-vijQAna-yogena & ....
+   ...ccāryaśivo devī & likhyate na ca paṭhyate	...cca-Arya-SivaH devI & liKyate na ca paWyate
+   puṭadvayaviniṣkrānte & vāyu putra pralīyate	puwa-dvaya-vinizkrAnte & vAyu putra pralIyate
+   sa muktita<ḥ> paraṃ brahma & taṃ śiva<ṃ> paramam padam	sa muktita<H> param brahma & tam Siva<M> paramam padam
+   mukhāgre yaḥ [pa]ramaṃ sūkṣmaṃ & dṛśyate vyomamadhyayaṃ %em	muKa-agre yaH [pa]ramam sUkzmam & dRSyate vyomam-aDyayam %em
+   paraṃ...madhyamam	paraM...maDyamam
+   nāsāpuṭaviniṣkrānto & vāyu tatra pralīyate	nAsA-puwa-vinizkrAntaH & vAyu tatra pralIyate
+   tas tu saṃsthaṃ mana kṛtvā & ta dhyāyasva varānane	taH tu saMsTam mana kRtvA & te DyAyasva varAnane
+   sa śivas tu **rtti & sa mokṣamokṣadaṃ śvase	sa SivaH tu **rtti & sa mokza-mokza-dam Svase
+   vanivyāmantraya proktaṃ nāsāgre tu vyavasthitam	vanivyAmantraya proktam nAsA-agre tu vyavasTitam
+   //nirvāṇakārikā //	//nirvANa-kArikAH //

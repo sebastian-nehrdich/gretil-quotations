@@ -1,0 +1,916 @@
+   TEXT IN PAUSA	TA-eXT Iz PAUSA
+   GG_1.1-1 meghaiḥ meduram ambaram vana-bhuvaḥ śyāmāḥ tamāla-drumaiḥ	Gu-_1.1-1 meGEH meduram ambaram vana--BuvaH SyAmAH tamAla-drumEH
+   GG_1.1-2 naktam bhīruḥ ayam tvam eva tat imam rādhe gṛham prāpaya /	Gu-_1.1-2 naktam BIruH ayam tvam eva tat imam rADe gRham prApaya /
+   GG_1.1-3 ittham nanda-nideśataḥ calitayoḥ prati-adhva-kuñja-drumam	Gu-_1.1-3 itTam nanda--nideSataH calitayoH prati-a-Dva-kuQja--drumam
+   GG_1.1-4 rādhā-mādhavayoḥ jayanti yamunā-kūle rahaḥ-kelayaḥ //	Gu-_1.1-4 rADA--mADavayoH jayanti yamunA--kUle rahaH--kelayaH //
+   GG_1.2-1 vāk-devatā-carita-citrita-citta-sadmā	Gu-_1.2-1 vAk-devatA--carita--citrita-citta-sadmA
+   GG_1.2-2 padmāvatī-caraṇa-cāraṇa-cakravartī	Gu-_1.2-2 padmA=-atI--caraNa--cAraNa--cakravartI
+   GG_1.2-3 śrī-vāsudeva-rati-keli-kathā-sametam	Gu-_1.2-3 SrI-vAsudeva-rati--keli--kaTA--sametam
+   GG_1.2-4 etam karoti jayadeva-kaviḥ prabandham //	Gu-_1.2-4 etam karoti jayadeva--kaviH prabanDam //
+   GG_1.3-1 vācaḥ pallavayati umāpatidharaḥ saṃdarbha-śuddhim girām	Gu-_1.3-1 vAcaH pallavayati umApati-DaraH saMdarBa--SudDim girAm
+   GG_1.3-2 jānīte jayadevaḥ eva śaraṇaḥ ślāghyaḥ durūha-drute /	Gu-_1.3-2 jAnIte jayadevaH eva SaraNaH SlAGyaH durUha-drute /
+   GG_1.3-3 śṛṅgāra-uttara-sat-prameya-racanaiḥ ācāryagovardhana-	Gu-_1.3-3 SRFgAra-uttara--sat--prameya--racanEH AcArya-govarDana-
+   GG_1.3-4 spardhī kaḥ api na viśrutaḥ śrutidharaḥ dhoyī kavi-kṣmāpatiḥ //	Gu-_1.3-4 sparDI kaH api na viSrutaH Sruti-DaraH DoyI kavi--kzmApatiH //
+   GG_1.4-1 yadi hari-smaraṇe sarasam manaḥ	Gu-_1.4-1 yadi hari-smaraNe sarasam manaH
+   GG_1.4-2 yadi vilāsa-kalāsu kutūhalam /	Gu-_1.4-2 yadi vilAsa-kalAsu kutUhalam /
+   GG_1.4-3 madhura-komala-kānta-pada-āvalīm	Gu-_1.4-3 maDura--komala--kAnta-pada-AvalIm
+   GG_1.4-4 śṛṇu tadā jayadeva-sarasvatīm //	Gu-_1.4-4 SRNu tadA jayadeva--sarasvatIm //
+   GG_1.5-1 pralaya-payodhi-jale dhṛtavān asi vedam/	Gu-_1.5-1 pralaya--payoDi--jale DRtavAn asi vedam/
+   GG_1.5-2 vihita-vahitra-caritram akhedam //	Gu-_1.5-2 vihita--vahitra--caritram aKedam //
+   GG_1.5-3 keśava dhṛta-mīna-śarīra	Gu-_1.5-3 keSava DRta-mIna--SarIra
+   GG_1.5-4 jaya jagadīśa hare //	Gu-_1.5-4 jaya jagadISa hare //
+   GG_1.6-1 kṣitiḥ ativipulatare tava tiṣṭhati pṛṣṭhe /	Gu-_1.6-1 kzitiH ati-vipulatare tava tizWati pRzWe /
+   GG_1.6-2 dharaṇi-dharaṇa-kiṇa-cakra-gariṣṭhe //	Gu-_1.6-2 DaraNi-DaraNa-kiNa--cakra--garizWe //
+   GG_1.6-3 keśava dhṛta-kacchapa-rūpa	Gu-_1.6-3 keSava DRta-kacCapa--rUpa
+   GG_1.6-4 jaya jagadīśa hare //	Gu-_1.6-4 jaya jagadISa hare //
+   GG_1.7-1 vasati daśana-śikhare dharaṇī tava lagnā /	Gu-_1.7-1 vasati daSana-SiKare DaraNI tava lagnA /
+   GG_1.7-2 śaśini kalaṅka-kalā iva nimagnā //	Gu-_1.7-2 SaSini kalaFka-kalAH iva nimagnAH //
+   GG_1.7-3 keśava dhṛta-śūkara-rūpa	Gu-_1.7-3 keSava DRta-SUkara--rUpa
+   GG_1.7-4 jaya jagadīśa hare //	Gu-_1.7-4 jaya jagadISa hare //
+   GG_1.8-1 tava kara-kamala-vare nakham adbhuta-śṛṅgam /	Gu-_1.8-1 tava kara--kamala-vare naKam adButa--SRFgam /
+   GG_1.8-2 dalita-hiraṇyakaśipu-tanu-bhṛṅgam //	Gu-_1.8-2 dalita-hiraNyakaSipu--tanu--BRFgam //
+   GG_1.8-3 keśava dhṛta-narahari-rūpa	Gu-_1.8-3 keSava DRta--nara-hari--rUpa
+   GG_1.8-4 jaya jagadīśa hare //	Gu-_1.8-4 jaya jagadISa hare //
+   GG_1.9-1 chalayasi vikramaṇe balim adbhuta-vāmana /	Gu-_1.9-1 Calayasi vikramaNe balim adButa--vAmana /
+   GG_1.9-2 pada-nakha-nīra-janita-jana-pāvana //	Gu-_1.9-2 pada-naKa--nIra--janita-jana--pAvane //
+   GG_1.9-3 keśava dhṛta-vāmana-rūpa	Gu-_1.9-3 keSava DRta-vAmana--rUpa
+   GG_1.9-4 jaya jagadīśa hare //	Gu-_1.9-4 jaya jagadISa hare //
+   GG_1.10-1 kṣatriya-rudhira-maye jagat apagata-pāpam /	Gu-_1.10-1 kzatriya--ruDira--maye jagat apagata-pApam /
+   GG_1.10-2 snapayasi payasi śamita-bhava-tāpam //	Gu-_1.10-2 snapayasi payasi Samita-Bava--tApam //
+   GG_1.10-3 keśava dhṛta-bhṛgupati-rūpa	Gu-_1.10-3 keSava DRta--BRgupati--rUpa
+   GG_1.10-4 jaya jagadīśa hare //	Gu-_1.10-4 jaya jagadISa hare //
+   GG_1.11-1 vitarasi dikṣu raṇe dikpati-kamanīyam /	Gu-_1.11-1 vitarasi dikzu raNe dikpati-kamanIyam /
+   GG_1.11-2 daśamukha-mauli-balim ramaṇīyam //	Gu-_1.11-2 daSamuKa--mOli--balim ramaNIyam //
+   GG_1.11-3 keśava dhṛta-rāma-śarīra	Gu-_1.11-3 keSava DRta--rAma--SarIra-
+   GG_1.11-4 jaya jagadīśa hare //	Gu-_1.11-4 jaya jagadISa hare //
+   GG_1.12-1 vahasi vapuṣi viśade vasanam jalada-ābham /	Gu-_1.12-1 vahasi vapuzi viSade vasanam jalada--ABam /
+   GG_1.12-2 hala-hati-bhīti-milita-yamunā-ābham //	Gu-_1.12-2 hala-hati--BIti-milita-yamunA-A-ABam //
+   GG_1.12-3 keśava dhṛta-haladhara-rūpa	Gu-_1.12-3 keSava DRta-hala-Dara--rUpa
+   GG_1.12-4 jaya jagadīśa hare //	Gu-_1.12-4 jaya jagadISa hare //
+   GG_1.13-1 nindasi yajña-vidheḥ ahaha śruti-jātam /	Gu-_1.13-1 nindasi yajQa-viDeH ahaha Sruti-jAtam /
+   GG_1.13-2 sadaya-hṛdaya darśita-paśu-ghātam //	Gu-_1.13-2 sa-daya--hRdaya darSita-paSu--GAtam //
+   GG_1.13-3 keśava dhṛta-buddha-śarīra	Gu-_1.13-3 keSava DRta--budDa--SarIra-
+   GG_1.13-4 jaya jagadīśa hare //	Gu-_1.13-4 jaya jagadISa hare //
+   GG_1.14-1 mleccha-nivaha-nidhane kalayasi karavālam /	Gu-_1.14-1 mlecCa--nivaha--niDane kalayasi karavAlam /
+   GG_1.14-2 dhūma-ketum iva kim api karālam //	Gu-_1.14-2 DUma-ketum iva kim api karAlam //
+   GG_1.14-3 keśava dhṛta-kalki-śarīra	Gu-_1.14-3 keSava DRta--kalki--SarIra-
+   GG_1.14-4 jaya jagadīśa hare //	Gu-_1.14-4 jaya jagadISa hare //
+   GG_1.15-1 śrījayadeva-kaveḥ idam uditam udāram /	Gu-_1.15-1 SrI-jayadeva--kaveH idam uditam udAram /
+   GG_1.15-2 śṛṇu sukhadam śubhadam bhava-sāram //	Gu-_1.15-2 SRNu suKa-dam SuBa-dam Bava--sAram //
+   GG_1.15-3 keśava dhṛta-daśa-vidha-rūpa	Gu-_1.15-3 keSava DRta-daSa-viDa--rUpa
+   GG_1.15-4 jaya jagadīśa hare //	Gu-_1.15-4 jaya jagadISa hare //
+   GG_1.16-1 vedān uddharate jagat nivahate bhūgolam udbibhrate	Gu-_1.16-1 vedAn udDarate jagat nivahate BU-golam udbiBrate
+   GG_1.16-2 daityam dārayate balim chalayate kṣatra-kṣayam kurvate /	GG_1.16-2 dEtyam dArayate balim Calayate kzatra-kzayam kurvate /
+   GG_1.16-3 paulastyam jayate halam kalayate kāruṇyam ātanvate	Gu-_1.16-3 pOlastyam jayate halam kalayate kAruNyam Atanvate
+   GG_1.16-4 mlecchān mūrcchayate daśa-ākṛti-kṛte kṛṣṇāya tubhyam namaḥ //	Gu-_1.16-4 mlecCAn mUrcCayate daSa-a-AkRti-kRte kRzNAya tuByam namaH //
+   GG_1.17-1 śrita-kamalā-kuca-maṇḍala dhṛta-kuṇḍala e /	Gu-_1.17-1 Srita-kamalA-kuca--maNxala DRta--kuNxalaH e /
+   GG_1.17-2 kalita-lalita-vana-māla jaya jayadeva hare //	Gu-_1.17-2 kalita-lalita--vana--mAla jaya jayadeva hare //
+   GG_1.18-1 dina-maṇi-maṇḍala-maṇḍana bhava-khaṇḍana e /	Gu-_1.18-1 dina-maNi--maNxala-maNxana Bava--KaNxane e /
+   GG_1.18-2 muni-jana-mānasa-haṃsa jaya jayadeva hare //	Gu-_1.18-2 muni-jana--mAnasa--haMsa jaya jayadeva hare //
+   GG_1.19-1 kāliya-viṣa-dhara-gañjana jana-rañjana e /	Gu-_1.19-1 kAliya--viza--Dara--gaQjana jana-raQjanaH e /
+   GG_1.19-2 yadu-kula-nalina-dineśa jaya jayadeva hare //	Gu-_1.19-2 yadu-kula-nalina-dina-ISa jaya jayadeva hare //
+   GG_1.20-1 madhu-mura-naraka-vināśana garuḍa-āsana e /	Gu-_1.20-1 maDu-mura--naraka-vinASana garuxa--Asane e /
+   GG_1.20-2 sura-kula-keli-nidāna jaya jayadeva hare //	Gu-_1.20-2 sura-kula--keli-nidAna jaya jayadeva hare //
+   GG_1.21-1 amala-kamala-dala-locana bhava-mocana e /	Gu-_1.21-1 amala-kamala-dala--locana Bava--mocanaH e /
+   GG_1.21-2 tribhuvana-bhavana-nidhāna jaya jayadeva hare //	Gu-_1.21-2 triBuvana--Bavana--niDAna jaya jayadeva hare //
+   GG_1.22-1 janaka-sutā-kṛta-bhūṣaṇa jita-dūṣaṇa e /	Gu-_1.22-1 janaka--sutA--kRta-BUzaNa jita-dUzaNaH e /
+   GG_1.22-2 samara-śamita-daśakaṇṭha jaya jayadeva hare //	Gu-_1.22-2 samara--Samita-daSa-kaNWa jaya jayadeva hare //
+   GG_1.23-1 abhinava-jaladhara-sundara dhṛta-mandara e /	Gu-_1.23-1 aBinava--jalaDara--sundara DRta-mandaraH e /
+   GG_1.23-2 śrī-mukha-candra-cakora jaya jayadeva hare //	Gu-_1.23-2 SrI-muKa-candra-cakora jaya jayadeva hare //
+   GG_1.24-1 śrījayadeva-kaveḥ idam kurute mudam e /	Gu-_1.24-1 SrI-jayadeva--kaveH idam kurute mudam e /
+   GG_1.24-2 maṅgalam ujjvala-gītam jaya jayadeva hare //	Gu-_1.24-2 maFgalam ujjvala--gItam jaya jayadeva hare //
+   GG_1.25-1 padmā-payodhara-taṭī-parirambha-lagna-kāśmīra-mudritam	Gu-_1.25-1 padmA--payoDara--tawI--pariramBa--lagna--kASmIra-mudritam
+   GG_1.25-2 uraḥ madhusūdanasya /	Gu-_1.25-2 uraH maDusUdanasya /
+   GG_1.25-3 vyakta-anurāgam iva khelat-anaṅga-kheda-sveda-ambu-pūram	Gu-_1.25-3 vyakta--anurAgam iva Kelat-a-naFga--Keda--sveda--ambu--pUram
+   GG_1.25-4 anupūrayatu priyam vaḥ //	Gu-_1.25-4 anupUrayatu priyam vaH //
+   GG_1.26-1 vasante vāsantī-kusuma-sukumāraiḥ avayavaiḥ	Gu-_1.26-1 vasante vAsantI--kusuma--su-kumArEH avayavEH
+   GG_1.26-2 bhramantīm kāntāre bahu-vihita-kṛṣṇa-anusaraṇām /	Gu-_1.26-2 BramantIm kAntAre bahu-vihita--kRzNa--anusaraNAm /
+   GG_1.26-3 amandam kandarpa-jvara-janita-cintā-ākulatayā	Gu-_1.26-3 amandam kandarpa--jvara--janita--cintA--a-Akula-tayA
+   GG_1.26-4 valat-bādhām rādhām sarasam idam ūce sahacarī //	Gu-_1.26-4 valat--bADAm rADAm sarasam idam Uce sahacarI //
+   GG_1.27-1 lalita-lavaṅga-latā-pariśīlana-komala-malaya-samīre /	GG_1.27-1 lalita-lavaFga-la-tA--pariSIlana--komala---malaya--samIre /
+   GG_1.27-2 madhukara-nikara-karambita-kokila-kūjita-kuñja-kuṭīre //	Gu-_1.27-2 maDukara--nikara--karambita--kokila--kUjita-kuQja--kuwIre //
+   GG_1.27-3 viharati hariḥ iha sarasa-vasante	Gu-_1.27-3 viharati hariH iha sarasa-vasante
+   GG_1.27-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.27-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.28-1 unmada-madana-manoratha-pathika-vadhū-jana-janita-vilāpe /	Gu-_1.28-1 unmada--madana--manoraTa--paTika-vaDU--jana--janita--vilApe /
+   GG_1.28-2 ali-kula-saṃkula-kusuma-samūha-nirākula-bakula-kalāpe //	Gu-_1.28-2 ali-kula--saMkula--kusuma--samUha--nirAkula--bakula--kalApe //
+   GG_1.28-3 viharati hariḥ iha sarasa-vasante	Gu-_1.28-3 viharati hariH iha sarasa-vasante
+   GG_1.28-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.28-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.29-1 mṛgamada-saurabha-rabhasa-vaśaṃvada-nava-dala-māla-tamāle /	Gu-_1.29-1 mRga-mada--sOraBa--raBasa--vaSaMvada--nava-dala--mAla-tamAle /
+   GG_1.29-2 yuva-jana-hṛdaya-vidāraṇa-manasija-nakha-ruci-kiṃśuka-jāle //	Gu-_1.29-2 yuva-jana--hRdaya--vidAraNa--manasi-ja-naKa--ru-ci--kiMSuka-jAle //
+   GG_1.29-3 viharati hariḥ iha sarasa-vasante	Gu-_1.29-3 viharati hariH iha sarasa-vasante
+   GG_1.29-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.29-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.30-1 madana-mahīpati-kanaka-daṇḍa-ruci-keśara-kusuma-vikāse /	Gu-_1.30-1 madana--mahIpati--kanaka-daNxa--ruci-keSara--kusuma--vikAse /
+   GG_1.30-2 milita-śilīmukha-pāṭali-paṭala-kṛta-smara-tūṇa-vilāse //	Gu-_1.30-2 milita-SilImuKa-pAwali--pawala-kRta-smara--tUNa--vilAse //
+   GG_1.30-3 viharati hariḥ iha sarasa-vasante	Gu-_1.30-3 viharati hariH iha sarasa-vasante
+   GG_1.30-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.30-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.31-1 vigalita-lajjita-jagat-avalokana-taruṇa-karuṇa-kṛta-hāse /	Gu-_1.31-1 vigalita--lajjita---jagat-avalokana--taruNa--karuNa--kRta-hAse /
+   GG_1.31-2 virahi-nikṛntana-kunta-mukha-ākṛti-ketaka-danturita-āśe //	Gu-_1.31-2 virahi--nikRntana--kunta--muKa-a-AkRti-ketaka--danturita--ASe //
+   GG_1.31-3 viharati hariḥ iha sarasa-vasante	Gu-_1.31-3 viharati hariH iha sarasa-vasante
+   GG_1.31-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.31-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.32-1 mādhavikā-parimala-lalite navamālika-jāti-sugandhau /	Gu-_1.32-1 mADavikA--parimala-lalite navamAlika-jAti--suganDO /
+   GG_1.32-2 muni-manasām api mohana-kāriṇi taruṇa-akāraṇa-bandhau //	Gu-_1.32-2 muni-manasAm api mohana--kAriNi taruNa-a-kAraNa---banDO //
+   GG_1.32-3 viharati hariḥ iha sarasa-vasante	Gu-_1.32-3 viharati hariH iha sarasa-vasante
+   GG_1.32-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.32-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.33-1 sphurat-atimukta-latā-parirambhaṇa-mukulita-pulakita-cūte /	Gu-_1.33-1 sPurat-atimukta--latA--pariramBaNa--mukulita--pulakita--cUte /
+   GG_1.33-2 vṛndāvana-vipine parisara-parigata-yamunā-jala-pūte //	Gu-_1.33-2 vRndAvana--vipine parisara--parigata--yamunA--jala--pUte //
+   GG_1.33-3 viharati hariḥ iha sarasa-vasante	Gu-_1.33-3 viharati hariH iha sarasa-vasante
+   GG_1.33-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.33-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.34-1 śrījayadeva--bhaṇitam idam udayati hari-caraṇa-smṛti-sāram /	Gu-_1.34-1 SrI-jayadeva---BaNitam idam udayati hari-caraNa--smRti--sAram /
+   GG_1.34-2 sarasa-vasanta-samaya-vana-varṇanam anugata-madana-vikāram //	Gu-_1.34-2 sa-rasa--vasanta--samaya-vana-varNanam anugata--madana--vikAram //
+   GG_1.34-3 viharati hariḥ iha sarasa-vasante	Gu-_1.34-3 viharati hariH iha sarasa-vasante
+   GG_1.34-4 nṛtyati yuvati-janena samam sakhi virahi-janasya durante //	Gu-_1.34-4 nRtyati yuvati-janena samam saKi virahi--janasya durante //
+   GG_1.35-1 dara-vidalita-mallī-valli-cañcat-parāga-	GG_1.35-1 dara--vidalita-mallI-valli--caQcat-parAga-
+   GG_1.35-2 prakaṭita-paṭa-vāsaiḥ vāsayan kānanāni /	Gu-_1.35-2 prakawita-pawa--vAsEH vAsayan kAnanAni /
+   GG_1.35-3 iha hi dahati cetaḥ ketakī-gandha-bandhuḥ	Gu-_1.35-3 iha hi dahati cetaH ketakI--ganDa--banDuH
+   GG_1.35-4 prasarat-asamabāṇa-prāṇavat-gandhavāhaḥ //	Gu-_1.35-4 prasarat-a-sama-bANa--prANavat--ganDavAhaH //
+   GG_1.36-1 unmīlat-madhu-gandha-lubdha-madhupa-vyādhūta-cūta-aṅkura-	Gu-_1.36-1 unmIlat--maDu--ganDa--lubDa--maDupa--vyADUta--cUta-aFkura-
+   GG_1.36-2 krīḍat-kokila-kākalī-kalakalaiḥ udgīrṇa-karṇa-jvarāḥ /	Gu-_1.36-2 krIxat--kokila--kAka-lI-kalakalEH udgIrNa--karNa--jvarAH /
+   GG_1.36-3 nīyante pathikaiḥ katham katham api dhyāna-avadhāna-kṣaṇa-	Gu-_1.36-3 nIyante paTikEH kaTam kaTam api DyAna--avaDAna-kzaNa-
+   GG_1.36-4 prāpta-prāṇa-samā-samāgama-rasa-ullāsaiḥ amī vāsarāḥ //	Gu-_1.36-4 prApta--prANa--samA-samAgama-rasa--ullAsEH amI vAsarAH //
+   GG_1.37-1 aneka-nārī-parirambha-sambhrama-sphurat-manohāri-vilāsa-lālasam	Gu-_1.37-1 aneka-nArI--pariramBa--samBrama--sPurat--manohAri-vilAsa--lAlasam
+   GG_1.37-2 murārim ārāt upadarśayantī asau sakhī samakṣam punaḥ āha	Gu-_1.37-2 murArim ArAt upadarSayantI asO saKI samakzam punar Aha
+   rādhikām //	rADikAm //
+   GG_1.38-1 candana-carcita-nīla-kalevara-pīta-vasana-vanamālī /	Gu-_1.38-1 candana--carcita--nIla--kalevara--pIta-vasana-vanamAlI /
+   GG_1.38-2 keli-calat-maṇi-kuṇḍala-maṇḍita-gaṇḍa-yuga-smita-śālī //	Gu-_1.38-2 keli-cala-t-maNi--kuNxala-maNxita--gaNxa--yuga--smita-SAlI //
+   GG_1.38-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.38-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.39-1 pīna-payodhara-bhāreṇa harim parirabhya sarāgam /	Gu-_1.39-1 pIna--payoDara--BAreNa harim pariraBya sa-rAgam /
+   GG_1.39-2 gopa-vadhūḥ anugāyati kācit udañcita-pañcama-rāgam //	GG_1.39-2 gopa-vaDUH anugAyati kAcid udaQcita--paQcama--rAgam //
+   GG_1.39-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.39-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.40-1 kāpi vilāsa-vilola-vilocana-khelana-janita-manojam /	Gu-_1.40-1 kA-api vilAsa--vilola--vilocana--Kela-na--janita--manojam /
+   GG_1.40-2 dhyāyati mugdha-vadhūḥ adhikam madhu-sūdana-vadana-sarojam //	Gu-_1.40-2 DyAyati mugDa--vaDUH aDikam maDu--sUdana--vadana--sarojam //
+   GG_1.40-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.40-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.41-1 kāpi kapola-tale militā lapitum kimapi śruti-mūle /	Gu-_1.41-1 kA-api kapola-tale militA lapitum kim-api Sruti-mUle /
+   GG_1.41-2 cāru cucumba nitambavatī dayitam pulakaiḥ anukūle //	Gu-_1.41-2 cAru cucumba nitambavatI dayitam pulakEH anukUle //
+   GG_1.41-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.41-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.42-1 keli-kalā-kutukena ca kācit amum yamunā-jala-kūle /	Gu-_1.42-1 keli-kalA--kutukena ca kAcid amum yamunA--jala-kUle /
+   GG_1.42-2 mañjula-vañjula-kuñja-gatam vicakarṣa kareṇa dukūle //	Gu-_1.42-2 maQjula--vaQjula---kuQja--gatam vicakarza kareNa dukUle //
+   GG_1.42-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.42-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.43-1 kara-tala-tāla-tarala-valaya-āvali-kalita-kala-svana-vaṃśe /	Gu-_1.43-1 kara-tala-tAla--tarala--valaya--Avali--kalita-kala--svana--vaMSe /
+   GG_1.43-2 rāsa-rase saha-nṛtya-parā hariṇā yuvatiḥ praśaśaṃse //	Gu-_1.43-2 rAsa--rase saha--nRtya--parA hariNA yuvatiH praSaSaMse //
+   GG_1.43-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.43-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.44-1 śliṣyati kāmapi cumbati kāmapi kāmapi ramayati rāmām /	Gu-_1.44-1 Slizyati kAm-api cumbati kAm-api kAm-api ramayati rAmAm /
+   GG_1.44-2 paśyati sasmita-cāru-parām aparām anugacchati vāmām //	Gu-_1.44-2 paSyati sa-smita--cAru-parAm aparAm anugacCati vAmAm //
+   GG_1.44-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.44-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.45-1 śrījayadeva-kaveḥ idam adbhuta-keśava-keli-rahasyam /	Gu-_1.45-1 SrI-jayadeva--kaveH idam adButa-keSava--keli-rahasyam /
+   GG_1.45-2 vṛndāvana-vipine lalitam vitanotu śubhāni yaśasyam //	Gu-_1.45-2 vRndAvana--vipine lalitam vitanotu SuBAni yaSasyam //
+   GG_1.45-3 hariḥ iha mugdha-vadhū-nikare vilāsini vilasati kelipare //	Gu-_1.45-3 hariH iha mugDa--vaDU--nikare vilAsini vilasati keli-pare //
+   GG_1.46-1 viśveṣām anurañjanena janayan ānandam indīvara-	Gu-_1.46-1 viSvezAm anuraQjanena janayan Anandam indIvara-
+   GG_1.46-2 śreṇī-śyāmala-komalaiḥ upanayan aṅôaiḥ anaṅga-utsavam /	Gu-_1.46-2 SreNI-SyAmala--komalEH upanayan aFôEH anaFga--utsavam /
+   GG_1.46-3 svacchandam vraja-sundarībhiḥ abhitaḥ prati-aṅgam āliṅgitaḥ	Gu-_1.46-3 svacCandam vraja--sundarIBiH aBitas prati-aFgam AliFgitaH
+   GG_1.46-4 śṛṅgāraḥ sakhi mūrtimān iva madhau mugdhaḥ hariḥ krīḍati //	Gu-_1.46-4 SRFgAraH saKi mUrtimAn iva maDO mugDaH hariH krIxati //
+   GG_1.47-1 adya utsaṅga-vasat-bhujaṅga-kavala-kleśāt iva īśa-acalam	Gu-_1.47-1 adya utsaFga--vasat--BujaFga--kavala--kleSAt iva ISa-acalam
+   GG_1.47-2 prāleya-plavana-icchayā anusarati śrīkhaṇḍa-śaila-anilaḥ /	Gu-_1.47-2 prAleya--plavana--icCayA anusarati SrIKaNxa--SEla--anilaH /
+   GG_1.47-3 kim ca snigdha-rasāla-mauli-mukulāni ālokya harṣa-udayāt	Gu-_1.47-3 kim ca snigDa---rasAla--mOli--mukulAni Alokya harza--udayAt-
+   GG_1.47-4 unmīlanti kuhūḥ kuhūḥ iti kala-uttālāḥ pikānām giraḥ //	Gu-_1.47-4 unmIlanti kuhUH kuhUH iti kala--uttAlAH pikAnAm giraH //
+   GG_2.1-1 viharati vane rādhā sādhāraṇa-praṇaye harau	Gu-_2.1-1 viharati vane rADA sADAraNa--praNaye harO
+   GG_2.1-2 vigalita-nija-utkarṣāt īrṣyā-vaśena gatā anyataḥ /	Gu-_2.1-2 vigalita-nija--utkarzAt IrzyA--vaSena gatAH anyatas /
+   GG_2.1-3 kvacit api latā-kuñje guñjat-madhuvrata-maṇḍalī-	Gu-_2.1-3 kvacid api latA-kuQje guQjat--maDuvrata-maNxalI-
+   GG_2.1-4 mukhara-śikhare līnā dīnā api uvāca rahaḥ sakhīm //	Gu-_2.1-4 muKara--SiKare lInAH dInAH api uvAca rahaH saKIm //
+   GG_2.2-1 saṃcarat-adhara-sudhā-madhura-dhvani-mukharita-mohana-vaṃśam /	Gu-_2.2-1 saMcarat-aDara--suDA--maDura-Dva-ni-muKarita--mohana--vaMSam /
+   GG_2.2-2 calita-dṛk-añcala-cañcala-mauli-kapola-vilola-vataṃsam //	Gu-_2.2-2 calita--dRS--aQcala--caQcala--mOli--kapola--vilola-vataMsam //
+   GG_2.2-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.2-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.3-1 candraka-cāru-mayūra-śikhaṇḍaka-maṇḍala-valayita-keśam /	Gu-_2.3-1 candraka-cAru--mayUra--SiKaNxaka--maNxala--valayita-keSam /
+   GG_2.3-2 pracura-purandara-dhanuḥ-anurañjita-medura-mudira-suveśam //	Gu-_2.3-2 pracura--purandara--DanuH--anuraQjita--meduH-a-mudira--suveSam //
+   GG_2.3-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.3-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.4-1 gopa-kadamba-nitambavatī-mukha-cumbana-lambhita-lobham /	Gu-_2.4-1 gopa-kadamba--nitambavatI--muKa--cumbana--lamBita-loBam /
+   GG_2.4-2 bandhujīva-madhura-adhara-pallavam ullasita-smita-śobham //	Gu-_2.4-2 banDujIva--maDura--aDara--pallavam ullasita-smita--SoBam //
+   GG_2.4-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.4-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.5-1 vipula-pulaka-bhuja-pallava-valayita-ballava-yuvati-sahasram /	Gu-_2.5-1 vipula--pulaka-Buja--pallava--valayita--ballava--yuvati--sahasram /
+   GG_2.5-2 kara-caraṇa-urasi maṇi-gaṇa-bhūṣaṇa-kiraṇa-vibhinna-tamisram //	Gu-_2.5-2 kara-caraNa--urasi maNi--gaNa--BUzaNa--kiraNa--viBinna--tamisram //
+   GG_2.5-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.5-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.6-1 jalada-paṭala-valat-indu-vinindaka-candana-tilaka-lalāṭam /	Gu-_2.6-1 jalada--pawala--valat-indu-vinindaka-candana-tila-ka-lalAwam /
+   GG_2.6-2 pīna-ghana-stana-maṇḍala-mardana-nirdaya-hṛdaya-kapāṭam //	Gu-_2.6-2 pIna-Gana--stana--maNxala-mardana--nirdaya--hRdaya--kapAwam //
+   GG_2.6-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.6-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.7-1 maṇi-maya-makara-manohara-kuṇḍala-maṇḍita-gaṇḍam udāram /	Gu-_2.7-1 maNi-maya--makara--manohara--kuNxala-maNxita--gaNxam udAram /
+   GG_2.7-2 pīta-vasanam anugata-muni-manuja-sura-asura-vara-parivāram //	Gu-_2.7-2 pIta-vasanam anugata--muni-manuja--sura-asura--vara--parivAram //
+   GG_2.7-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.7-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.8-1 viśada-kadamba-tale militam kali-kaluṣa-bhayaṃ śamayantam /	Gu-_2.8-1 viSada--kadamba-tale militam kali-kaluza--Bayam Samayantam /
+   GG_2.8-2 mām api kimapi taraṅgat-anaṅga-dṛśā manasā ramayantam //	Gu-_2.8-2 mAm api kim-api taraFgat-a-naFga-dRSAH manasA ramayantam //
+   GG_2.8-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.8-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.9-1 śrījayadeva-bhaṇitam atisundara-mohana-madhuripu-rūpam /	Gu-_2.9-1 SrI-jayadeva--BaNitam ati-sundara--mohana--maDu-ripu-rUpam /
+   GG_2.9-2 hari-caraṇa-smaraṇam prati saṃprati puṇyavatām anurūpam //	Gu-_2.9-2 hari-caraNa-smaraNam prati saMprati puNyavatAm anurUpam //
+   GG_2.9-3 rāse harim iha vihita-vilāsam smarati manaḥ mama kṛta-parihāsam	Gu-_2.9-3 rAse harim iha vihita-vilAsam smarati manaH mama kRta--parihAsam
+   GG_2.10-1 gaṇayati guṇa-grāmam bhāmam bhramāt api na īhate	Gu-_2.10-1 gaNayati guNa-grAmam BAmam BramAt api na Ihate
+   GG_2.10-2 vahati ca parītoṣam doṣam vimuñcati dūrataḥ /	Gu-_2.10-2 vahati ca parItozam dozam vimuQcati dUratas /
+   GG_2.10-3 yuvatiṣu valat-tṛṣṇe kṛṣṇe vihāriṇi mām vinā	Gu-_2.10-3 yuvatizu valat--tRzNe kRzNe vihAriNi mAm vinA
+   GG_2.10-4 punaḥ api manaḥ vāmam kāmam karoti karomi kim //	Gu-_2.10-4 punar api manaH vAmam kAmam karoti karomi kim //
+   GG_2.11-1 nibhṛta-nikuñja-gṛham gatayā niśi rahasi nilīya vasantam /	Gu-_2.11-1 niBRta-nikuQja--gRham gatayA niSi rahasi nilIya vasantam /
+   GG_2.11-2 cakita-vilokita-sakala-diśā rati-rabhasa-rasena hasantam //	Gu-_2.11-2 cakita--vilokita-sakala-diSA rati--raBasa--rasena hasantam //
+   GG_2.11-3 sakhi he keśimathanam udāram	Gu-_2.11-3 saKi he keSimaTanam udAram
+   GG_2.11-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.11-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.12-1 prathama-samāgama-lajjitayā paṭu-cāṭu-śataiḥ anukūlam /	Gu-_2.12-1 praTama--samAgama--lajjitayA pawu--cAwu--SatEH anukUlam /
+   GG_2.12-2 mṛdu-madhura-smita-bhāṣitayā śithilī-kṛta-jaghana-dukūlam //	Gu-_2.12-2 mRdu-maDura-smita-BAzitayA SiTilI-kRta---jaGana--dukUlam //
+   GG_2.12-3 sakhi he keśimathanam udāram	Gu-_2.12-3 saKi he keSimaTanam udAram
+   GG_2.12-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.12-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.13-1 kisalaya-śayana-niveśitayā ciram urasi mama eva śayānam /	Gu-_2.13-1 kisalaya--Sayana--niveSitayA ciram urasi mama eva SayAnam /
+   GG_2.13-2 kṛta-parirambhaṇa-cumbanayā parirabhya kṛta-adhara-pānam //	Gu-_2.13-2 kRta--pariramBaNa--cumbanayA pariraBya kRta--aDara--pAnam //
+   GG_2.13-3 sakhi he keśimathanam udāram	Gu-_2.13-3 saKi he keSimaTanam udAram
+   GG_2.13-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.13-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.14-1 alasa-nimīlita-locanayā pulaka-āvali-lalita-kapolam /	Gu-_2.14-1 alasa-nimIlita--locanayA pulaka--Avali--lalita-kapolam /
+   GG_2.14-2 śrama-jala-sakala-kalevarayā vara-madana-madāt atilolam //	Gu-_2.14-2 Srama-jala--sakala--kalevarayA vara--madana-madAt ati-lolam //
+   GG_2.14-3 sakhi he keśimathanam udāram	Gu-_2.14-3 saKi he keSimaTanam udAram
+   GG_2.14-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.14-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.15-1 kokila-kala-rava-kūjitayā jita-manasija-tantra-vicāram /	Gu-_2.15-1 kokila--kala--rava--kUjitayA jita--manasija--tantra--vicAram /
+   GG_2.15-2 ślatha-kusuma-ākula-kuntalayā nakha-likhita-ghana-stana-bhāram	Gu-_2.15-2 SlaTa---kusuma--Akula-kuntalayA naKa-liKita-Gana--stana--BAram
+   GG_2.15-3 sakhi he keśimathanam udāram	Gu-_2.15-3 saKi he keSimaTanam udAram
+   GG_2.15-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.15-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.16-1 caraṇa-raṇita-maṇi-nūpurayā paripūrita-surata-vitānam /	Gu-_2.16-1 caraNa-raNita-maNi--nUpurayA paripUrita--surata-vitAnam /
+   GG_2.16-2 mukhara-viśṛṅkhala-mekhalayā sa-kacagraha-cumbana-dānam //	Gu-_2.16-2 muKara--viSRFKala--meKalayA sa-kaca-graha--cumbana-dAnam //
+   GG_2.16-3 sakhi he keśimathanam udāram	Gu-_2.16-3 saKi he keSimaTanam udAram
+   GG_2.16-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.16-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.17-1 rati-sukha-samaya-rasa-ālasayā dara-mukulita-nayana-sarojam /	Gu-_2.17-1 rati-suKa--samaya--rasa--AlasayA dara--mukulita--nayana--sarojam /
+   GG_2.17-2 niḥsaha-nipatita-tanu-latayā madhusūdanam udita-manojam //	Gu-_2.17-2 niHsaha--nipatita--tanu--latayA maDusUdanam udita--manojam //
+   GG_2.17-3 sakhi he keśimathanam udāram	Gu-_2.17-3 saKi he keSimaTanam udAram
+   GG_2.17-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.17-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.18-1 śrījayadeva-bhaṇitam idam atiśaya-madhuripu-nidhuvana-śīlam /	Gu-_2.18-1 SrI-jayadeva--BaNitam idam atiSaya--maDuripu-niDuvana--SIlam /
+   GG_2.18-2 sukham utkaṇṭhita-gopa-vadhū-kathitam vitanotu salīlam //	Gu-_2.18-2 suKam utkaNWita-gopa--vaDU--kaTitam vitanotu sa-lIlam //
+   GG_2.18-3 sakhi he keśimathanam udāram	Gu-_2.18-3 saKi he keSimaTanam udAram
+   GG_2.18-4 ramaya mayā saha madana-manoratha-bhāvitayā savikāram //	Gu-_2.18-4 ramaya mayA saha madana--manoraTa--BAvitayA sa-vikAram //
+   GG_2.19-1 hasta-srasta-vilāsa-vaṃśam anṛju-bhrū-vallimat ballavī-	Gu-_2.19-1 hasta-srasta--vilAsa--vaMSam anRju--BrU--vallimat ballavI-
+   GG_2.19-2 vṛnda-utsāri-dṛk-anta-vīkṣitam atisveda-ārdra-gaṇḍa-sthalam /	Gu-_2.19-2 vRnda--utsAri-dRS--anta--vIkzitam ati-sveda-Ardra--gaNxa--sTalam /
+   GG_2.19-3 mām udvīkṣya vilakṣitam smita-sudhā-mugdha-ānanam kānane	Gu-_2.19-3 mAm udvIkzya vilakzitam smita-suDA-mugDa-a-Ananam kAnane
+   GG_2.19-4 govindam vraja-sundarī-gaṇa-vṛtam paśyāmi hṛṣyāmi ca //	Gu-_2.19-4 govindam vraja--sundarI--gaNa-vRtam paSyAmi hRzyAmi ca //
+   GG_2.20-1 durāloka-stoka-stabaka-navaka-aśoka-latikā-	Gu-_2.20-1 durAloka--stoka-stabaka-nava-ka-aSoka--latikA-
+   GG_2.20-2 vikāsaḥ kāsāra-upavana-pavanaḥ'pi vyathayati /	Gu-_2.20-2 vikAsaH kAsAra-upavana--pavanaH-api vyaTayati /
+   GG_2.20-3 api bhrāmyat-bhṛṅgī-raṇita-ramaṇīyā na mukula-	Gu-_2.20-3 api BrAmyat--BRFgI--raNita--ramaNIyA na mukula-
+   GG_2.20-4 prasūtiḥ cūtānām sakhi śikhariṇī iyam sukhayati //	Gu-_2.20-4 prasUtiH cUtAnAm saKi SiKariNI iyam suKayati //
+   GG_3.1-1 kaṃsāriḥ api saṃsāra-vāsanā-bandha-śṛṅkhalām /	Gu-_3.1-1 kaMsAriH api saMsAra--vAsanA--banDa--SRFKalAm /
+   GG_3.1-2 rādhām ādhāya hṛdaye tatyāja vraja-sundarīḥ //	Gu-_3.1-2 rADAm ADAya hRdaye tatyAja vraja--sundarIH //
+   GG_3.2-1 itaḥ tataḥ tām anusṛtya rādhikām anaṅga-bāṇa-vraṇa-khinna-mānasaḥ	Gu-_3.2-1 itas tatas tAm anusRtya rADikAm anaFga--bANa-vraNa--Kinna--mAnasaH
+   GG_3.2-2 kṛta-ānutāpaḥ sa kalinda-nandinī-taṭa-anta-kuñje viṣasāda	Gu-_3.2-2 kRta-a-anutApaH sa kalinda-nandinI--tawa-anta--kuQje vizasAda
+   mādhavaḥ //	mADavaH //
+   GG_3.3-1 mām iyam calitā vilokya vṛtam vadhū-nicayena /	Gu-_3.3-1 mAm iyam calitA vilokya vRtam vaDU--nicayena /
+   GG_3.3-2 sa-aparādhatayā mām api na vārita-atibhayena //	Gu-_3.3-2 sa-a-parADa-tayA mAm api na vArita--ati-Bayena //
+   GG_3.3-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.3-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.4-1 kim kariṣyati kim vadiṣyati sā ciram viraheṇa /	Gu-_3.4-1 kim karizyati kim vadizyati sA ciram viraheNa /
+   GG_3.4-2 kim dhanena janena kim mama jīvitena gṛheṇa //	Gu-_3.4-2 kim Danena janena kim mama jIvitena gRheNa //
+   GG_3.4-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.4-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.5-1 cintayāmi tat-ānanam kuṭila-bhru kopa-bhareṇa /	Gu-_3.5-1 cintayAmi tat-a-Ananam kuwila--Bru kopa--BareNa /
+   GG_3.5-2 śoṇa-padmam iva upari bhramatā ākulam bhramareṇa //	Gu-_3.5-2 SoNa--padmam iva upari BramatA Akulam BramareNa //
+   GG_3.5-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.5-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.6-1 tām aham hṛdi saṃgatām aniśam bhṛśam ramayāmi /	Gu-_3.6-1 tAm aham hRdi saMgatAm aniSam BRSam ramayAmi /
+   GG_3.6-2 kim vane anusarāmi tām iha kim vṛthā vilapāmi //	Gu-_3.6-2 kim vane anusarAmi tAm iha kim vRTA vilapAmi //
+   GG_3.6-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.6-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.7-1 tanvi khinnam asūyayā hṛdayam tava ākalayāmi /	Gu-_3.7-1 tanvi Kinnam asUyayA hRdayam tava AkalayAmi /
+   GG_3.7-2 tat na vedmi kutaḥ gatā asi na tena te anunayāmi //	Gu-_3.7-2 tat na vedmi kutas gatAH asi na tena te anunayAmi //
+   GG_3.7-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.7-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.8-1 dṛśyase purataḥ gata-āgatam eva me vidadhāsi /	Gu-_3.8-1 dRSyase puratas gata-Agatam eva me vidaDAsi /
+   GG_3.8-2 kim purā iva sasaṃbhramaṃ parirambhaṇam na dadāsi //	Gu-_3.8-2 kim purA iva sa-saMBramam pariramBaNam na dadAsi //
+   GG_3.8-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.8-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.9-1 kṣamyatām aparam kadāpi tava īdṛśam na karomi /	Gu-_3.9-1 kzamyatAm aparam kadApi tava IdRSam na karomi /
+   GG_3.9-2 dehi sundari darśanam mama manmathena dunomi //	Gu-_3.9-2 dehi sundari darSanam mama manmaTena dunomi //
+   GG_3.9-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.9-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.10-1 varṇitam jayadevakena hareḥ idam pravaṇena /	Gu-_3.10-1 varNitam jayadevakena hareH idam pravaNena /
+   GG_3.10-2 kindubilva-samudra-sambhava-rohiṇī-ramaṇena //	Gu-_3.10-2 kindu-bilva--samudra--samBava--rohiNI--ramaNena //
+   GG_3.10-3 harihari hata-ādaratayā gatā sā kupitā iva //	Gu-_3.10-3 hari-hari hata--Adara-tayA gatA sA kupitAH iva //
+   GG_3.11-1 hṛdi bisa-latā-hāraḥ na ayam bhujaṅgama-nāyakaḥ	Gu-_3.11-1 hRdi bisa-latA-hAraH na ayam BujaFgama-nAyakaH
+   GG_3.11-2 kuvalaya-dala-śreṇī kaṇṭhe na sā garala-dyutiḥ /	Gu-_3.11-2 kuvalaya-dala--SreNI kaNWe na sA garala-dyutiH /
+   GG_3.11-3 malayaja-rajaḥ na idam bhasma prihāra-hite mayi	Gu-_3.11-3 malayaja---rajaH na idam Basma prihAra-hite mayi
+   GG_3.11-4 prahara na hara-bhrāntyā anaṅga krudhā kim u dhāvasi //	Gu-_3.11-4 prahara na hara-BrAntyA anaFga kruDA kim u DAvasi //
+   GG_3.12-1 pāṇau mā kuru cūta-sāyakam amum mā cāpam āropaya	Gu-_3.12-1 pANO mA kuru cUta--sAyakam amum mA cApam Aropaya
+   GG_3.12-2 krīḍā-nirjita-viśva mūrcchita-jana-āghātena kim pauruṣam /	Gu-_3.12-2 krIxA--nirjita-viSva mUrcCita-jana--AGAtena kim pOruzam /
+   GG_3.12-3 tasyāḥ eva mṛgī-dṛśaḥ manasija-preṅkhat-kaṭākṣa-āśuga-	Gu-_3.12-3 tasyAH eva mRgI-dRSaH manasija--preFKat--kawAkza--ASu-ga-
+   GG_3.12-4 śreṇī-jarjaritam manāk api manaḥ na adya api saṃdhukṣate //	Gu-_3.12-4 SreNI--jarjaritam manAk api manaH na adya api saMDukzate //
+   GG_3.13-1 bhrū-cāpe nihitaḥ kaṭākṣa-viśikhaḥ nirmātu marma-vyathām	Gu-_3.13-1 BrU-cApe nihitaH kawAkza--viSiKaH nirmAtu marma--vyaTAm
+   GG_3.13-2 śyāma-ātmā kuṭilaḥ karotu kabarī-bhāraḥ api māra-udyamam /	Gu-_3.13-2 SyAma-AtmA kuwilaH karotu kabarI--BAraH api mAra--udyamam /
+   GG_3.13-3 moham tāvat ayam ca tanvi tanutām bimba-adharaḥ rāgavān	Gu-_3.13-3 moham tAvat ayam ca tanvi tanu-tAm bimba-a-DaraH rAgavAn
+   GG_3.13-4 sat-vṛtta-stana-maṇḍalaḥ tava katham prāṇaiḥ mama krīḍati //	Gu-_3.13-4 sat--vRtta--stana--maNxalaH tava kaTam prANEH mama krIxati //
+   GG_3.14-1 tāni sparśa-sukhāni te ca taralāḥ snigdhāḥ dṛśoḥ vibhramāḥ	Gu-_3.14-1 tAni sparSa--suKAni te ca taralAH snigDAH dRSoH viBramAH
+   GG_3.14-2 tat-vaktra-ambuja-saurabham saḥ ca sudhā-syandī girām vakrimā /	Gu-_3.14-2 tat--vaktra--ambuja--sOraBam saH ca suDA-syandI girAm vakrimA /
+   GG_3.14-3 sā bimba-adhara-mādhurī iti viṣaya-āsaṅge api cet mānasam	Gu-_3.14-3 sA bimba-a-Dara--mADurI iti vizaya--AsaFge api ced mAnasam
+   GG_3.14-4 tasyām lagna-samādhi hanta viraha-vyādhiḥ katham vardhate //	Gu-_3.14-4 tasyAm lagna--samADi hanta viraha--vyADiH kaTam varDate //
+   GG_3.15-1 bhrū-pallavam dhanuḥ apāṅga-taraṅgitāni	Gu-_3.15-1 BrU--pallavam DanuH apAFga-taraFgitAni
+   GG_3.15-2 bāṇāḥ guṇaḥ śravaṇa-pāliḥ iti smareṇa /	Gu-_3.15-2 bANAH guNaH SravaNa-pAliH iti smareNa /
+   GG_3.15-3 tasyām anaṅga-jaya-jaṅgama-devatāyām	Gu-_3.15-3 tasyAm anaFga-jaya--jaFgama--devatAyAm
+   GG_3.15-4 astrāṇi nirjita-jaganti kim arpitāni //	Gu-_3.15-4 astrANi nirjita--jaganti kim arpitAni //
+   GG_4.1-1 yamunā-tīra-vānīra-nikuñje mandam-āsthitam /	Gu-_4.1-1 yamunA--tIra--vAnIra--nikuQje mandam-a-AsTitam /
+   GG_4.1-2 prāha prema-bhara-udbhrāntam mādhavam rādhikā-sakhī //	Gu-_4.1-2 prAha prema-Bara--udBrAntam mADavam rADikA--saKI //
+   GG_4.2-1 nindati candanam indukaraṇam anu vindati khedam adhīram /	Gu-_4.2-1 nindati candanam indu-karaNam anu vindati Kedam aDIram /
+   GG_4.2-2 vyāla-nilaya-milanena garalam iva kalayati malaya-samīram //	Gu-_4.2-2 vyAla--nilaya--milanena garalam iva kalayati malaya--samIram //
+   GG_4.2-3 sā virahe tava dīnā	Gu-_4.2-3 sA virahe tava dInA
+   GG_4.2-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.2-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.3-1 avirala-nipatita-madana-śarāt iva bhavat-avanāya viśālam /	Gu-_4.3-1 avirala--nipatita--madana--SarAt iva Bavat-avanAya viSAlam /
+   GG_4.3-2 sva-hṛdaya-marmaṇi varma karoti sajala-nalinī-dala-jālam //	Gu-_4.3-2 sva--hRdaya--marmaNi varma karoti sa-jala-nalinI--dala--jAlam //
+   GG_4.3-3 sā virahe tava dīnā	Gu-_4.3-3 sA virahe tava dInA
+   GG_4.3-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.3-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.4-1 kusuma-viśikha-śara-talpam analpa-vilāsa-kalā-kamanīyam /	Gu-_4.4-1 kusuma--viSiKa--Sara--talpam analpa-vilAsa-kalA--kamanIyam /
+   GG_4.4-2 vratam iva tava parirambha-sukhāya karoti kusuma-śayanīyam //	Gu-_4.4-2 vratam iva tava pariramBa--suKAya karoti kusuma-SayanIyam //
+   GG_4.4-3 sā virahe tava dīnā	Gu-_4.4-3 sA virahe tava dInA
+   GG_4.4-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.4-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.5-1 vahati ca galita-vilocana-jala-bharam ānana-kamalam udāram /	Gu-_4.5-1 vahati ca galita--vilocana--jala--Baram Anana-kamalam udAram /
+   GG_4.5-2 vidhum iva vikaṭa-vidhuntuda-danta-dalana-galita-amṛta-dhāram //	Gu-_4.5-2 viDum iva vikawa-viDuntuda-danta--dalana--galita--amRta--DAram //
+   GG_4.5-3 sā virahe tava dīnā	Gu-_4.5-3 sA virahe tava dInA
+   GG_4.5-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.5-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.6-1 vilikhati rahasi kuraṅga-madena bhavantam asamaśara-bhūtam /	Gu-_4.6-1 viliKati rahasi kuraFga--madena Bavantam asama-Sara--BUtam /
+   GG_4.6-2 praṇamati makaram adhaḥ vinidhāya kare ca śaram nava-cūtam //	Gu-_4.6-2 praNamati makaram aDas viniDAya kare ca Saram nava--cUtam //
+   GG_4.6-3 sā virahe tava dīnā	Gu-_4.6-3 sA virahe tava dInA
+   GG_4.6-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.6-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.7-1 prati-padam idam api nigadati mādhava tava caraṇe patitā aham /	Gu-_4.7-1 prati-padam idam api nigadati mADava tava caraNe patitAH aham /
+   GG_4.7-2 tvayi vimukhe mayi sapadi sudhā-nidhiḥ api tanute tanu-dāham //	Gu-_4.7-2 tvayi vimuKe mayi sapadi suDA-niDiH api tanute tanu-dAham //
+   GG_4.7-3 sā virahe tava dīnā	Gu-_4.7-3 sA virahe tava dInA
+   GG_4.7-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.7-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.8-1 dhyāna-layena puraḥ parikalpya bhavantam atīva durāpam /	Gu-_4.8-1 DyAna--layena puras parikalpya Bavantam atIva durApam /
+   GG_4.8-2 vilapati hasati viṣīdati roditi cañcati muñcati tāpam //	Gu-_4.8-2 vilapati hasati vizIdati roditi caQcati muQcati tApam //
+   GG_4.8-3 sā virahe tava dīnā	Gu-_4.8-3 sA virahe tava dInA
+   GG_4.8-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.8-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.9-1 śrījayadeva-bhaṇitam idam adhikam yadi manasā naṭanīyam /	Gu-_4.9-1 SrI-jayadeva--BaNitam idam aDikam yadi manasA nawanIyam /
+   GG_4.9-2 hari-viraha-ākula-ballava-yuvati-sakhī-vacanam paṭhanīyam //	Gu-_4.9-2 hari--viraha--Akula--balla-va--yuvati-saKI--vacanam paWanIyam //
+   GG_4.9-3 sā virahe tava dīnā	Gu-_4.9-3 sA virahe tava dInA
+   GG_4.9-4 mādhava manasija-viśikha-bhayāt iva bhāvanayā tvayi līnā //	Gu-_4.9-4 mADava manasija--viSiKa--BayAt iva BAvanayA tvayi lInAH //
+   GG_4.10-1 āvāsaḥ vipināyate priya-sakhī-mālā api jālāyate	Gu-_4.10-1 AvAsaH vipinAyate priya-saKI-mAlA api jAlAyate
+   GG_4.10-2 tāpaḥ api śvasitena dāva-dahana-jvālā-kalāpāyate /	Gu-_4.10-2 tApaH api Svasitena dAva-dahana--jvAlA-kalA-ApAyate /
+   GG_4.10-3 sā api tvat-viraheṇa hanta hariṇīrūpāyate hā katham	Gu-_4.10-3 sA api tvat--viraheNa hanta hariNIru-upAyate hA kaTam
+   GG_4.10-4 kandarpaḥ api yamāyate viracayan śārdūla-vikrīḍitam //	Gu-_4.10-4 kandarpaH api yamAyate viracayan SArdUla--vikrIxitam //
+   GG_4.11-1 stana-vinihitam api hāram udāram /	Gu-_4.11-1 stana--vinihitam api hAram udAram /
+   GG_4.11-2 sā manute kṛśa-tanuḥ atibhāram //	Gu-_4.11-2 sA manute kRSa-tanuH ati-BAram //
+   GG_4.11-3 rādhikā virahe tava keśava //	Gu-_4.11-3 rADikAH virahe tava keSavaH //
+   GG_4.12-1 sarasa-masṛṇam api malayaja-paṅkam /	Gu-_4.12-1 sarasa--masRNam api malayaja--paFkam /
+   GG_4.12-2 paśyati viṣam iva vapuṣi saśaṅkam //	Gu-_4.12-2 paSyati vizam iva vapuzi sa-SaFkam //
+   GG_4.12-3 rādhikā virahe tava keśava //	Gu-_4.12-3 rADikAH virahe tava keSavaH //
+   GG_4.13-1 śvasita-pavanam anupama-pariṇāham /	Gu-_4.13-1 Svasita-pavanam anupama--pariNAham /
+   GG_4.13-2 madana-dahanam iva vahati sadāham //	Gu-_4.13-2 madana--dahanam iva vahati sadA-aham //
+   GG_4.13-3 rādhikā virahe tava keśava //	Gu-_4.13-3 rADikAH virahe tava keSavaH //
+   GG_4.14-1 diśi diśi kirati sajala-kaṇa-jālam /	Gu-_4.14-1 diSi diSi kirati sa-jala--kaNa--jAlam /
+   GG_4.14-2 nayana-nalinam iva vigalita-nālam //	Gu-_4.14-2 nayana-nalinam iva vigalita-nAlam //
+   GG_4.14-3 rādhikā virahe tava keśava //	Gu-_4.14-3 rADikAH virahe tava keSavaH //
+   GG_4.15-1 nayana-viṣayam api kisalaya-talpam /	Gu-_4.15-1 nayana--vizayam api kisalaya--talpam /
+   GG_4.15-2 kalayati vihita-hutāśa-vikalpam //	Gu-_4.15-2 kalayati vihita-hutASa--vikalpam //
+   GG_4.15-3 rādhikā virahe tava keśava //	Gu-_4.15-3 rADikAH virahe tava keSavaH //
+   GG_4.16-1 tyajati na pāṇi-talena kapolam /	Gu-_4.16-1 tyajati na pANi--talena kapolam /
+   GG_4.16-2 bāla-śaśinam iva sāyam alolam //	Gu-_4.16-2 bAla-SaSinam iva sAyam alolam //
+   GG_4.16-3 rādhikā virahe tava keśava //	Gu-_4.16-3 rADikAH virahe tava keSavaH //
+   GG_4.17-1 hariḥ iti hariḥ iti japati sakāmam /	Gu-_4.17-1 hariH iti hariH iti japati sa-kAmam /
+   GG_4.17-2 viraha-vihita-maraṇā iva nikāmam //	Gu-_4.17-2 viraha--vihita--maraNAH iva nikAmam //
+   GG_4.17-3 rādhikā virahe tava keśava //	Gu-_4.17-3 rADikAH virahe tava keSavaH //
+   GG_4.18-1 śrījayadeva-bhaṇitam iti gītam /	Gu-_4.18-1 SrI-jayadeva--BaNitam iti gItam /
+   GG_4.18-2 sukhayatu keśava-padam upanītam //	Gu-_4.18-2 suKayatu keSava-padam upanItam //
+   GG_4.18-3 rādhikā virahe tava keśava //	Gu-_4.18-3 rADikAH virahe tava keSavaH //
+   GG_4.19-1 sā romāñcati sītkaroti vilapati utkampate tāmyati	Gu-_4.19-1 sA romAQcati sItkaroti vilapati utkampate tAmyati
+   GG_4.19-2 dhyāyati udbhramati pramīlati patati udyāti mūrcchati api /	Gu-_4.19-2 DyAyati udBramati pramIlati patati udyAti mUrcCati api /
+   GG_4.19-3 etāvati atanu-jvare vara-tanuḥ jīvet na kim te rasāt	Gu-_4.19-3 etAvati atanu--jvare vara-tanuH jIvet na kim te rasAt-
+   GG_4.19-4 svaḥ-vaidya-pratima prasīdasi yadi tyaktaḥ anyathā na antakaḥ //	Gu-_4.19-4 svaH-vEdya--pratima prasIdasi yadi tyaktaH anyaTA na antakaH //
+   GG_4.20-1 smara-āturām daivata-vaidya-hṛdya	Gu-_4.20-1 smara-AturAm dEvata--vEdya--hRdya
+   tvat-aṅga-saṅga-amṛta-mātra-sādhyām /	tvat-aFga--saFga-a-mRta--mAtra--sADyAm /
+   GG_4.20-2 vimukta-bādhām kuruṣe na rādhām upendra vajrāt api dāruṇaḥ asi	Gu-_4.20-2 vimukta--bADAm kuruze na rADAm upendra vajrAt api dAruNaH asi
+   GG_4.21-1 kandarpa-jvara-saṃjvara-ātura-tanoḥ āścaryam asyāḥ ciram	Gu-_4.21-1 kandarpa--jvara--saMjvara-Atura--tanoH AScaryam asyAH ciram
+   GG_4.21-2 cetaḥ candana-candramaḥ-kamalinī-cintāsu saṃtāmyati /	Gu-_4.21-2 cetaH candana--candramaH--kamalinI--cintAsu saMtAmyati /
+   GG_4.21-3 kiṃtu klānti-vaśena śītala-tanum tvām ekam eva priyam	Gu-_4.21-3 kiMtu klAnti--vaSena SItala--tanum tvAm ekam eva priyam
+   GG_4.21-4 dhyāyantī rahasi sthitā katham api kṣīṇā kṣaṇam prāṇiti //	Gu-_4.21-4 DyAyantI rahasi sTitA kaTam api kzINA kzaNam prANiti //
+   GG_4.22-1 kṣaṇam api virahaḥ purā na sehe	Gu-_4.22-1 kzaNam api virahaH purA na sehe
+   GG_4.22-2 nayana-nimīlana-khinnayā yayā te /	Gu-_4.22-2 nayana--nimIlana--KinnayA yayA te /
+   GG_4.22-3 śvasiti katham asau rasāla-śākhām	Gu-_4.22-3 Svasiti kaTam asO rasAla--SAKAm
+   GG_4.22-4 cira-viraheṇa vilokya puṣpita-agrām //	Gu-_4.22-4 cira--viraheNa vilokya puzpita--agrAm //
+   GG_5.1-1 aham iha nivasāmi yāhi rādhām anunaya mat-vacanena ca ānayethāḥ /	Gu-_5.1-1 aham iha nivasAmi yAhi rADAm anunaya mat--vacanena ca AnayeTAH /
+   GG_5.1-2 iti madhuripuṇā sakhī niyuktā svayam idam etya punaḥ jagāda	Gu-_5.1-2 iti maDuripuNA saKI niyuktA svayam idam etya punar jagAda
+   rādhām //	rADAm //
+   GG_5.2-1 vahati malaya-samīre madanam upanidhāya /	Gu-_5.2-1 vahati malaya--samIre madanam upaniDAya /
+   GG_5.2-2 sphuṭati kusuma-nikare virahi-hṛdaya-dalanāya //	Gu-_5.2-2 sPuwati kusuma--nikare virahi--hRdaya--dalanAya //
+   GG_5.2-3 tava virahe vanamālī sakhi sīdati //	Gu-_5.2-3 tava virahe vanamAlI saKi sIdati //
+   GG_5.3-1 dahati śiśira-mayūkhe maraṇam anukaroti /	Gu-_5.3-1 dahati SiSira--mayUKe maraNam anukaroti /
+   GG_5.3-2 patati madana-viśikhe vilapati vikalataraḥ ati //	Gu-_5.3-2 patati madana--viSiKe vilapati vikalataraH ati //
+   GG_5.3-3 tava virahe vanamālī sakhi sīdati //	Gu-_5.3-3 tava virahe vanamAlI saKi sIdati //
+   GG_5.4-1 dhvanati madhupa-samūhe śravaṇam apidadhāti /	Gu-_5.4-1 Dvanati maDupa--samUhe SravaNam apidaDAti /
+   GG_5.4-2 manasi valita-virahe niśi niśi rujam upayāti //	Gu-_5.4-2 manasi valita-virahe niSi niSi rujam upayAti //
+   GG_5.4-3 tava virahe vanamālī sakhi sīdati //	Gu-_5.4-3 tava virahe vanamAlI saKi sIdati //
+   GG_5.5-1 vasati vipina-vitāne tyajati lalita-dhāma /	Gu-_5.5-1 vasati vipina--vitAne tyajati lalita--DAma /
+   GG_5.5-2 luṭhati dharaṇi-śayane bahu vilapati tava nāma //	Gu-_5.5-2 luWati DaraNi--Sayane bahu vilapati tava nAma //
+   GG_5.5-3 tava virahe vanamālī sakhi sīdati //	Gu-_5.5-3 tava virahe vanamAlI saKi sIdati //
+   GG_5.6-1 bhaṇati kavi-jayadeve virahi-vilasitena /	Gu-_5.6-1 BaNati kavi-jayadeve virahi--vilasitena /
+   GG_5.6-2 manasi rabhasa-vibhave hariḥ udayatu sukṛtena //	Gu-_5.6-2 manasi raBasa-viBave hariH udayatu sukRtena //
+   GG_5.6-3 tava virahe vanamālī sakhi sīdati //	Gu-_5.6-3 tava virahe vanamAlI saKi sIdati //
+   GG_5.7-1 pūrvam yatra samam tvayā ratipateḥ āsāditāḥ siddhayaḥ	Gu-_5.7-1 pUrvam yatra samam tvayA rati-pateH AsAditAH sidDayaH
+   GG_5.7-2 tasmin eva nikuñja-manmatha-mahā-tīrthe punaḥ mādhavaḥ /	Gu-_5.7-2 tasmin eva nikuQja--manmaTa--mahA-tIrTe punar mADavaH /
+   GG_5.7-3 dhyāyan tvām aniśam japan api tava eva ālāpa-mantra-āvalīm	Gu-_5.7-3 DyAyan tvAm aniSam japan api tava eva AlApa--mantra--AvalIm
+   GG_5.7-4 bhūyaḥ tvat-kuca-kumbha-nirbhara-parīrambha-amṛtam vāñchati //	Gu-_5.7-4 BUyas tu-at-kuca-kumBa--nirBara--parIramBa-amRtam vAQCati //
+   GG_5.8-1 rati-sukha-sāre gatam abhisāre madana-manohara-veśam /	Gu-_5.8-1 rati--suKa--sAre gatam aBisAre madana--manohara-veSam /
+   GG_5.8-2 na kuru nitambini gamana-vilambanam anusara tam hṛdaya-īśam //	Gu-_5.8-2 na kuru nitambini gamana--vilambanam anusara tam hRdaya--ISam //
+   GG_5.8-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.8-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.9-1 nāma-sametam kṛta-saṅketam vādayate mṛdu-veṇum /	Gu-_5.9-1 nAma--sametam kRta-saFketam vAdayate mRdu-veNum /
+   GG_5.9-2 bahu manute nanu te tanu-saṃgata-pavana-calitam api reṇum //	Gu-_5.9-2 bahu manute nanu te tanu--saMgata-pavana--calitam api reNum //
+   GG_5.9-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.9-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.10-1 patati patatre vicalati patre śaṅkita-bhavat-upayānam /	Gu-_5.10-1 patati patatre vicalati patre SaFkita-Bavat--upayAnam /
+   GG_5.10-2 racayati śayanam sacakita-nayanam paśyati tava panthānam //	Gu-_5.10-2 racayati Sayanam sacakita-nayanam paSyati tava panTAnam //
+   GG_5.10-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.10-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.11-1 mukharam adhīram tyaja mañjīram ripum iva keli-sulolam /	Gu-_5.11-1 muKaram aDIram tyaja maQjIram ripum iva keli--su-lolam /
+   GG_5.11-2 cala sakhi kuñjam satimira-puñjam śīlaya nīla-nicolam //	Gu-_5.11-2 cala saKi kuQjam sa-timira--puQjam SIlaya nIla--nicolam //
+   GG_5.11-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.11-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.12-1 urasi murāreḥ upahita-hāre ghane iva tarala-balāke /	Gu-_5.12-1 urasi murAreH upahita-hAre Gane iva tarala--balAke /
+   GG_5.12-2 taḍit iva pīte rati-viparīte rājasi sukṛta-vipāke //	Gu-_5.12-2 taxit iva pIte rati-viparIte rAjasi su-kRta--vipAke //
+   GG_5.12-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.12-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.13-1 vigalita-vasanam parihṛta-rasanam ghaṭaya jaghanam apidhānam /	Gu-_5.13-1 vigalita--vasanam parihRta--rasanam Gawaya jaGanam apiDAnam /
+   GG_5.13-2 kisalaya-śayane paṅkaja-nayane nidhim iva harṣa-nidānam //	Gu-_5.13-2 kisalaya--Sayane paFkaja--nayane niDim iva harza--nidAnam //
+   GG_5.13-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.13-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.14-1 hariḥ abhimānī rajaniḥ idānīm iyam api yāti virāmam /	Gu-_5.14-1 hariH aBimAnI rajaniH idAnIm iyam api yAti virAmam /
+   GG_5.14-2 kuru mama vacanam satvara-racanam pūraya madhuripu-kāmam //	Gu-_5.14-2 kuru mama vacanam sa-tvara--racanam pUraya maDuripu-kAmam //
+   GG_5.14-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.14-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.15-1 śrījayadeve kṛta-hari-seve bhaṇati parama-ramaṇīyam /	Gu-_5.15-1 SrI-jayadeve kRta-hari--seve BaNati parama--ramaNIyam /
+   GG_5.15-2 pramudita-hṛdayam harim atisadayam namata sukṛta-kamanīyam //	Gu-_5.15-2 pramudita-hRdayam harim ati-sadayam namata sukRta-kamanIyam //
+   GG_5.15-3 dhīra-samīre yamunā-tīre vasati vane vanamālī //	Gu-_5.15-3 DIra--samIre yamunA--tIre vasati vane vanamAlI //
+   GG_5.16-1 vikirati muhuḥ śvāsān āśāḥ puraḥ muhuḥ īkṣate	Gu-_5.16-1 vikirati muhur SvAsAn ASAH puras muhur Ikzate
+   GG_5.16-2 praviśati muhuḥ kuñjam guñjan muhuḥ bahu tāmyati /	Gu-_5.16-2 praviSati muhur kuQjam guQjan muhur bahu tAmyati /
+   GG_5.16-3 racayati muhuḥ śayyām paryākulam muhuḥ īkṣate	Gu-_5.16-3 racayati muhur SayyAm paryAkulam muhur Ikzate
+   GG_5.16-4 madana-kadana-klāntaḥ kānte priyaḥ tava vartate //	Gu-_5.16-4 madana--kadana--klAntaH kAnte priyaH tava vartate //
+   GG_5.17-1 tvat-vāmyena samam samagram adhunā tigmāṃśuḥ astam gataḥ	Gu-_5.17-1 tvat-vAmyena samam samagram aDunA tigmAMSuH astam gataH
+   GG_5.17-2 govindasya manorathena ca samam prāptam tamaḥ sāndratām /	Gu-_5.17-2 govindasya manoraTena ca samam prAptam tamaH sAndra-tAm /
+   GG_5.17-3 kokānām karuṇa-svanena sadṛśī dīrghā mat-abhyarthanā	Gu-_5.17-3 kokAnAm karuNa--svanena sadRSI dIrGA mat-aByarTanA
+   GG_5.17-4 tat mugdhe viphalam vialambanam asau ramyaḥ abhisāra-kṣaṇaḥ //	Gu-_5.17-4 tat mugDe viPalam vialambanam asO ramyaH aBisAra--kzaNaH //
+   GG_5.18-1 āśleṣāt anu cumbanāt anu nakha-ullekhāt anu svāntaja-	Gu-_5.18-1 ASlezAt anu cumbanAt anu naKa-ulleKAt anu svAnta-ja-
+   GG_5.18-2 prodbodhāt anu saṃbhramāt anu rata-ārambhāt anu prītayoḥ /	Gu-_5.18-2 prodboDAt anu saMBramAt anu rata-AramBAt anu prItayoH /
+   GG_5.18-3 anya-artham gatayoḥ bhramāt militayoḥ saṃbhāṣaṇaiḥ jānatoḥ	Gu-_5.18-3 anya--arTam gatayoH BramAt militayoH saMBAzaNEH jAnatoH
+   GG_5.18-4 dampatyoḥ iha kaḥ na kaḥ na tamasi vrīḍā-vimiśraḥ rasaḥ //	Gu-_5.18-4 dampatyoH iha kaH na kaH na tamasi vrIxA--vimiSraH rasaH //
+   GG_5.19-1 sabhaya-cakitam vinyasyantīm dṛśam timire pathi	Gu-_5.19-1 sa-Baya-cakitam vinyasyantIm dRSam timire paTi
+   GG_5.19-2 pratitaru muhuḥ sthitvā mandam padāni vitanvatīm /	Gu-_5.19-2 pratitaru muhur sTitvA mandam padAni vitanvatIm /
+   GG_5.19-3 katham api rahaḥ prāptām aṅgaiḥ anaṅga-taraṅgibhiḥ	Gu-_5.19-3 kaTam api rahaH prAptAm aFgEH anaFga-taraFgiBiH
+   GG_5.19-4 sumukhi subhagaḥ paśyan saḥ tvām upaitu kṛta-arthatām //	Gu-_5.19-4 su-muKi suBagaH paSyan saH tvAm upEtu kRta--arTa-tAm //
+   GG_6.1-1 atha tām gantum aśaktām ciram anuraktām latā-gṛhe dṛṣṭvā /	Gu-_6.1-1 aTa tAm gantum aSaktAm ciram anuraktAm latA-gRhe dRzwvA /
+   GG_6.1-2 tat-caritam govinde manasija-mande sakhī prāha //	Gu-_6.1-2 tat--caritam govinde manasija--mande saKI prAha //
+   GG_6.2-1 paśyati diśi diśi rahasi bhavantam /	Gu-_6.2-1 paSyati diSi diSi rahasi Bavantam /
+   GG_6.2-2 tat-adhara-madhura-madhūni pibantam //	Gu-_6.2-2 tat-a-Dara--maDura--maDUni pibantam //
+   GG_6.2-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.2-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.3-1 tvat-abhisaraṇa-rabhasena valantī /	Gu-_6.3-1 tvad--aBisaraNa--raBasena valantI /
+   GG_6.3-2 patati padāni kiyanti calantī //	Gu-_6.3-2 patati padAni kiyanti calantI //
+   GG_6.3-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.3-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.4-1 vihita-viśada-bisa-kisalaya-valayā /	Gu-_6.4-1 vihita--viSada-bisa-ki-salaya--valayA /
+   GG_6.4-2 jīvati param iha tava rati-kalayā //	Gu-_6.4-2 jIvati param iha tava rati-kalayA //
+   GG_6.4-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.4-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.5-1 muhuḥ avalokita-maṇḍana-līlā /	Gu-_6.5-1 muhur avalokita--maNxana--lIlA /
+   GG_6.5-2 madhuripuḥ aham iti bhāvana-śīlā //	Gu-_6.5-2 maDuripuH aham iti BAvana--SIlAH //
+   GG_6.5-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.5-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.6-1 tvaritam upaiti na katham abhisāram /	Gu-_6.6-1 tvaritam upEti na kaTam aBisAram /
+   GG_6.6-2 hariḥ iti vadati sakhīm anuvāram //	Gu-_6.6-2 hariH iti vadati saKIm anuvAram //
+   GG_6.6-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.6-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.7-1 śliṣyati cumbati jaladhara-kalpam /	Gu-_6.7-1 Slizyati cumbati jalaDara--kalpam /
+   GG_6.7-2 hariḥ upagataḥ iti timiram analpam //	Gu-_6.7-2 hariH upagataH iti timiram analpam //
+   GG_6.7-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.7-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.8-1 bhavati vilambini vigalita-lajjā /	Gu-_6.8-1 Bavati vilambini vigalita--lajjA /
+   GG_6.8-2 vilapati roditi vāsaka-sajjā //	Gu-_6.8-2 vilapati roditi vAsaka--sajjA //
+   GG_6.8-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.8-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.9-1 śrījayadeva-kaveḥ idam uditam /	Gu-_6.9-1 SrI-jayadeva--kaveH idam uditam /
+   GG_6.9-2 rasika-janam tanutām atimuditam //	Gu-_6.9-2 rasi-ka-janam tanu-tAm ati-muditam //
+   GG_6.9-3 nātha hare sīdati rādhā vāsa-gṛhe //	Gu-_6.9-3 nATa hare sIdati rADA vAsa-gRhe //
+   GG_6.10-1 vipula-pulaka-pāliḥ sphīta-sītkāram antar-	Gu-_6.10-1 vipula--pulaka-pAliH sPIta--sItkAram antar-
+   GG_6.10-2 janita-jaḍima-kāku-vyākulam vyāharantī /	Gu-_6.10-2 janita--jaxima-kAku-vyAkulam vyAharantI /
+   GG_6.10-3 tava kitava vidhāya amanda-kandarpa-cintām	Gu-_6.10-3 tava kitava viDAya amanda-kandarpa-cintAm
+   GG_6.10-4 rasa-jaladhi-nimagnā dhyāna-lagnā mṛgākṣī //	GG_6.10-4 rasa--jalaDi--nimagnA DyAna--lagnA mRgAkzI //
+   GG_6.11-1 aṅgeṣu ābharaṇam karoti bahuśaḥ patre api saṃcāriṇi	Gu-_6.11-1 aFgezu ABaraNam karoti bahuSas patre api saMcAriNi
+   GG_6.11-2 prāptam tvām pariśaṅkate vitanute śayyām ciram dhyāyati /	Gu-_6.11-2 prAptam tvAm pariSaFkate vitanute SayyAm ciram DyAyati /
+   GG_6.11-3 iti ākalpa-vikalpa-talpa-racanā-saṃkalpa-līlā-śata-	Gu-_6.11-3 iti Akalpa--vikalpa--talpa--racanA--saMkalpa--lIlA-Sata-
+   GG_6.11-4 vyāsaktā api vinā tvayā vara-tanuḥ naiṣā niśām neṣyati //	Gu-_6.11-4 vyAsaktAH api vinA tvayA vara-tanuH na-ezA niSAm nezyati //
+   GG_7.1-1 atra antare ca kulaṭā-kula-vartma-pāta-	Gu-_7.1-1 atra antare ca kulawA--kula--vartma-pAta-
+   GG_7.1-2 saṃjāta-pātakaḥ iva sphuṭa-lāñchana-śrīḥ /	Gu-_7.1-2 saMjAta-pAtakaH iva sPuwa--lAQCana--SrIH /
+   GG_7.1-3 vṛndāvana-antaram adīpayat aṃśu-jālaiḥ	Gu-_7.1-3 vRndAvana--antaram adIpayat aMSu--jAlEH
+   GG_7.1-4 diksundarī-vadana-candana-binduḥ induḥ //	Gu-_7.1-4 diS-sundarI--vadana-candana--binduH induH //
+   GG_7.2-1 prasarati śaśa-dhara-bimbe vihita-vilambe ca mādhave vidhurā /	Gu-_7.2-1 prasarati SaSa-Dara--bimbe vihita--vilambe ca mADave viDurA /
+   GG_7.2-2 viracita-vividha-vilāpam sā paritāpam cakāra uccaiḥ //	Gu-_7.2-2 viracita-viviDa--vilApam sA paritApam cakAraH uccEs //
+   GG_7.3-1 kathita-samaye api hariḥ ahaha na yayau vanam /	Gu-_7.3-1 kaTita--samaye api hariH ahaha na yayO vanam /
+   GG_7.3-2 mama viphalam idam amala-rūpam api yauvanam //	Gu-_7.3-2 mama viPalam idam amala---rUpam api yOvanam //
+   GG_7.3-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.3-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.4-1 yat anugamanāya niśi gahanam api śīlitam /	Gu-_7.4-1 yat anugamanAya niSi gahanam api SIlitam /
+   GG_7.4-2 tena mama hṛdayam idam asamaśara-kīlitam //	Gu-_7.4-2 tena mama hRdayam idam asamaSara--kIlitam //
+   GG_7.4-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.4-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.5-1 mama maraṇam eva varam ativitatha-ketanā /	Gu-_7.5-1 mama maraNam eva varam ati-vitaTa--ketanA /
+   GG_7.5-2 kim iha viṣahāmi viraha-analam acetanā //	Gu-_7.5-2 kim iha vizahAmi viraha--analam acetanAH //
+   GG_7.5-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.5-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.6-1 mām ahaha vidhurayati madhura-madhu-yāminī /	Gu-_7.6-1 mAm ahaha viDurayati maDura-maDu-yAminI /
+   GG_7.6-2 kāpi harim anubhavati kṛta-sukṛta-kāminī //	Gu-_7.6-2 kA-api harim anuBavati kRta--sukRta--kAminI //
+   GG_7.6-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.6-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.7-1 ahaha kalayāmi valaya-ādi-maṇi-bhūṣaṇam /	Gu-_7.7-1 ahaha kalayAmi valaya--Adi-maNi--BUzaNam /
+   GG_7.7-2 hari-viraha-dahana-vahanena bahu-dūṣaṇam //	Gu-_7.7-2 hari-viraha--dahana-vahanena bahu-dUzaNam //
+   GG_7.7-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.7-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.8-1 kusuma-sukumāra-tanum atanu-śara-līlayā /	Gu-_7.8-1 kusuma-sukumAra--tanum atanu--Sara--lIlayA /
+   GG_7.8-2 srak api hṛdi hanti mām ativiṣama-śilayā //	Gu-_7.8-2 sraj api hRdi hanti mAm ati-viza-ma-SilayA //
+   GG_7.8-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.8-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.9-1 aham iha nivasāmi nagaṇita-vana-vetasā /	Gu-_7.9-1 aham iha nivasAmi na-gaNita--vana--vetasA /
+   GG_7.9-2 smarati madhusūdanaḥ mām api na cetasā //	Gu-_7.9-2 smarati maDusUdanaH mAm api na cetasA //
+   GG_7.9-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.9-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.10-1 hari-caraṇa-śaraṇa-jayadeva-kavi-bhāratī /	GG_7.10-1 hari-caraNa--SaraNa--jaya-deva-ka-vi-BAratI /
+   GG_7.10-2 vasatu hṛdi yuvatiḥ iva komala-kalāvatī //	Gu-_7.10-2 vasatu hRdi yuvatiH iva komala-kalAvatI //
+   GG_7.10-3 yāmi he kam iha śaraṇam sakhī-jana-vacana-vañcitā //	Gu-_7.10-3 yAmi he kam iha SaraNam saKI--jana---vacana--vaQcitAH //
+   GG_7.11-1 tat kim kāmapi kāminīm abhisṛtaḥ kim vā kalā-kelibhiḥ	Gu-_7.11-1 tat kim kAm-api kAminIm aBisRtaH kim vA kalA--keliBiH
+   GG_7.11-2 baddhaḥ bandhubhiḥ andhakāriṇi vana-upānte kim u bhrāmyati /	Gu-_7.11-2 badDaH banDuBiH anDa-kAriNi vana--upAnte kim u BrAmyati /
+   GG_7.11-3 kāntaḥ klānta-manāḥ manāk api pathi prasthātum eva akṣamaḥ	Gu-_7.11-3 kAntaH klAnta-manAH manAk api paTi prasTAtum eva akzamaH
+   GG_7.11-4 saṃketī-kṛta-mañju-vañjula-latā-kuñje api yat na āgataḥ //	Gu-_7.11-4 saMketI--kRta--maQju--vaQjula-latA-kuQje api yat naH AgataH //
+   GG_7.12-1 atha āgatām mādhavam antareṇa sakhīm iyam vīkṣya viṣāda-mūkām /	Gu-_7.12-1 aTa AgatAm mADavam antareNa saKIm iyam vIkzya vizAda-mUkAm /
+   GG_7.12-2 viśaṅkamānā ramitam kayāpi janārdanam dṛṣṭavat etat āha //	Gu-_7.12-2 viSaFkamAnA ramitam kayA-api janArdanam dRzwa-vat etat Aha //
+   GG_7.13-1 smara-samara-ucita-viracita-veśā /	Gu-_7.13-1 smara--samara--ucita-viracita--veSA /
+   GG_7.13-2 galita-kusuma-dara-vilulita-keśā //	Gu-_7.13-2 galita--kusuma-dara--vilulita-keSAH //
+   GG_7.13-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.13-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.14-1 hari-parirambhaṇa-valita-vikārā /	Gu-_7.14-1 hari--pariramBaNa-valita-vikArAH /
+   GG_7.14-2 kuca-kalaśa-upari taralita-hārā //	Gu-_7.14-2 kuca-kalaSa--upari taralita-hArAH //
+   GG_7.14-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.14-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.15-1 vicalat-alaka-lalita-ānana-candrā /	Gu-_7.15-1 vicala-t-ala-ka-lalita--Anana--candrAH /
+   GG_7.15-2 tat-adhara-pāna-rabhasa-kṛta-tandrā //	Gu-_7.15-2 tat-a-Dara--pAna---raBasa-kRta-tandrA //
+   GG_7.15-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.15-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.16-1 cañcala-kuṇḍala-dalita-kapolā /	Gu-_7.16-1 caQcala--kuNxala-dalita-kapolAH /
+   GG_7.16-2 mukharita-rasana-jaghana-gati-lolā //	Gu-_7.16-2 muKarita-rasana--jaGana-gati--lolAH //
+   GG_7.16-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.16-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.17-1 dayita-vilokita-lajjita-hasitā /	Gu-_7.17-1 dayita--vilokita--lajjita--hasitAH /
+   GG_7.17-2 bahu-vidha-kūjita-rati-rasa-rasitā //	Gu-_7.17-2 bahu-viDa--kUjita--rati-rasa--rasitAH //
+   GG_7.17-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.17-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.18-1 vipula-pulaka-pṛthu-vepathu-bhaṅgā /	Gu-_7.18-1 vipula--pulaka--pRTu--vepaTu-BaFgAH /
+   GG_7.18-2 śvasita-nimīlita-vikasat-anaṅgā //	Gu-_7.18-2 Svasita--nimIlita--vikasat-anaFgAH //
+   GG_7.18-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.18-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.19-1 śramajala-kaṇa-bhara-subhaga-śarīrā /	Gu-_7.19-1 Srama-jala--kaNa--Bara--suBaga--SarIrAH /
+   GG_7.19-2 paripatitā urasi rati-raṇa-dhīrā //	Gu-_7.19-2 paripatitAH urasi rati--raNa--DIrAH //
+   GG_7.19-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.19-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.20-1 śrījayadeva-bhaṇita-hari-ramitam /	Gu-_7.20-1 SrI-jayadeva--BaNita--hari--ramitam /
+   GG_7.20-2 kali-kaluṣam janayatu pariśamitam //	Gu-_7.20-2 kali-kaluzam janayatu pariSamitam //
+   GG_7.20-3 kāpi madhuripuṇā vilasati yuvatiḥ adhika-guṇā //	Gu-_7.20-3 kA-api maDuripuNA vilasati yuvatiH aDika-guNAH //
+   GG_7.21-1 viraha-pāṇḍu-murāri-mukha-ambuja-dyutiḥ iyam tirayan api cetanām	Gu-_7.21-1 viraha--pANxu-murAri--muKa--ambuja--dyutiH iyam tirayan api cetanAm
+   GG_7.21-2 vidhuḥ atīva tanoti manobhuvaḥ sahṛdaye hṛdaye madana-vyathām //	Gu-_7.21-2 viDuH atIva tanoti manoBuvaH sahRdaye hRdaye madana--vyaTAm //
+   GG_7.22-1 samudita-madane ramaṇī-vadane cumbana-valita-adhare /	Gu-_7.22-1 samudita--madane ramaNI--vadane cumbana-valita--aDare /
+   GG_7.22-2 mṛgamada-tilakam likhati sapulakam mṛgam iva rajanī-kare //	Gu-_7.22-2 mRgamada-tilakam liKati sa-pulakam mRgam iva rajanI--kare //
+   GG_7.22-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.22-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.23-1 ghana-caya-rucire racayati cikure taralita-taruṇa-ānane /	Gu-_7.23-1 Gana--caya--rucire racayati cikure taralita-taruNa--a-Anane /
+   GG_7.23-2 kurabaka-kusumam capalā-suṣamam rati-pati-mṛga-kānane //	Gu-_7.23-2 kurabaka--kusumam capalA--suzamam rati-pati--mRga-kAnane //
+   GG_7.23-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.23-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.24-1 ghaṭayati sughane kuca-yuga-gagane mṛgamada-ruci-rūṣite /	Gu-_7.24-1 Gawayati su-Gane kuca--yuga--gagane mRgamada-ruci-rUzite /
+   GG_7.24-2 maṇi-saram amalam tāraka-paṭalam nakha-pada-śaśi-bhūṣite //	Gu-_7.24-2 maNi-saram amalam tAraka-pawalam naKa-pada-SaSi--BUzite //
+   GG_7.24-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.24-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.25-1 jita-bisa-śakale mṛdu-bhuja-yugale kara-tala-nalinī-dale /	Gu-_7.25-1 jita-bisa-Sakale mRdu-Buja--yugale kara-tala-nalinI--dale /
+   GG_7.25-2 marakata-valayam madhu-kara-nicayam vitarati hima-śītale //	Gu-_7.25-2 marakata--valayam maDu-kara--nicayam vitarati hima-SItale //
+   GG_7.25-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.25-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.26-1 rati-gṛha-jaghane vipula-apaghane manasija-kanaka-āsane /	Gu-_7.26-1 rati-gRha--jaGane vipula--apaGane manasi-ja--kanaka--Asane /
+   GG_7.26-2 maṇi-maya-rasanam toraṇa-hasanam vikirati kṛta-vāsane //	Gu-_7.26-2 maNi-maya--rasanam toraNa--hasanam vikirati kRta--vAsane //
+   GG_7.26-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.26-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.27-1 caraṇa-kisalaye kamalā-nilaye nakha-maṇi-gaṇa-pūjite /	Gu-_7.27-1 caraNa--kisalaye kamalA--nilaye naKa-maNi--gaNa--pUjite /
+   GG_7.27-2 bahiḥ-apavaraṇam yāvaka-bharaṇam janayati hṛdi yojite //	Gu-_7.27-2 bahis--apavaraNam yAvaka-BaraNam janayati hRdi yojite //
+   GG_7.27-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.27-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.28-1 ramayati sudṛśam kāmapi subhṛśam khala-haladhara-sodare /	Gu-_7.28-1 ramayati sudRSam kAm-api su-BRSam Kala-halaDara--sodare /
+   GG_7.28-2 kim aphalam avasam ciram iha virasam vada sakhi viṭapa-udare //	Gu-_7.28-2 kim aPalam avasam ciram iha virasam vada saKi viwapa--udare //
+   GG_7.28-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.28-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.29-1 iha rasa-bhaṇane kṛta-hari-guṇane madhuripu-pada-sevake /	Gu-_7.29-1 iha rasa--BaNane kRta--hari--guNane maDuripu-pada--sevake /
+   GG_7.29-2 kaliyuga-caritam na vasatu duritam kavi-nṛpa-jayadevake //	Gu-_7.29-2 kali-yuga--caritam na vasatu duritam kavi--nRpa-jayadevake //
+   GG_7.29-3 ramate yamunā-pulina-vane vijayī murāriḥ adhunā //	Gu-_7.29-3 ramate yamunA--pulina-vane vijayI murAriH aDunA //
+   GG_7.30-1 na āyātaḥ sakhi nirdayaḥ yadi śaṭhaḥ tvam dūti kim dūyase	Gu-_7.30-1 na AyAtaH saKi nirdayaH yadi SaWaH tvam dUti kim dUyase
+   GG_7.30-2 svacchandam bahu-vallabhaḥ saḥ ramate kim tatra te dūṣaṇam /	Gu-_7.30-2 svacCandam bahu-vallaBaH saH ramate kim tatra te dUzaNam /
+   GG_7.30-3 paśya adya priya-saṃgamāya dayitasya ākṛṣyamāṇam guṇaiḥ	Gu-_7.30-3 paSya adya priya--saMgamAya dayitasya AkRzyamANam guNEH
+   GG_7.30-4 utkaṇṭha-ārti-bharāt iva sphuṭat idam cetaḥ svayam yāsyāmi //	Gu-_7.30-4 utkaNWa--Arti--BarAt iva sPuwat idam cetaH svayam yAsyAmi //
+   GG_7.31-1 anila-tarala-kuvalaya-nayanena /	Gu-_7.31-1 anila-tarala--kuvalaya--nayanena /
+   GG_7.31-2 tapati na sā kisalaya-śayanena //	Gu-_7.31-2 tapati na sA kisalaya--Sayanena //
+   GG_7.31-3 sakhi yā ramitā vanamālinā //	Gu-_7.31-3 saKi yA ramitA vanamAlinA //
+   GG_7.32-1 vikasita-sarasija-lalita-mukhena /	Gu-_7.32-1 vikasita--sarasija---lalita-muKena /
+   GG_7.32-2 sphuṭati na sā manasija-viśikhena //	Gu-_7.32-2 sPuwati na sA manasija--viSiKena //
+   GG_7.32-3 sakhi yā ramitā vanamālinā //	Gu-_7.32-3 saKi yA ramitA vanamAlinA //
+   GG_7.33-1 amṛta-madhura-mṛdutara-vacanena /	Gu-_7.33-1 amRta--maDura--mRdutara-vacanena /
+   GG_7.33-2 jvalati na sā malayaja-pavanena //	Gu-_7.33-2 jvalati na sA malayaja--pavanena //
+   GG_7.33-3 sakhi yā ramitā vanamālinā //	Gu-_7.33-3 saKi yA ramitA vanamAlinA //
+   GG_7.34-1 sthala-jala-ruha-rucikara-caraṇena /	Gu-_7.34-1 sTala--jala--ruha--ruci-kara--caraNena /
+   GG_7.34-2 luṭhati na sā himakara-kiraṇena //	Gu-_7.34-2 luWati na sA himakara--kiraNena //
+   GG_7.34-3 sakhi yā ramitā vanamālinā //	Gu-_7.34-3 saKi yA ramitA vanamAlinA //
+   GG_7.35-1 sajala-jalada-samudaya-rucireṇa /	Gu-_7.35-1 sa-jala--jala-da--samudaya--rucireNa /
+   GG_7.35-2 dalati na sā hṛdi cira-viraheṇa //	Gu-_7.35-2 dalati na sA hRdi cira--viraheNa //
+   GG_7.35-3 sakhi yā ramitā vanamālinā //	Gu-_7.35-3 saKi yA ramitA vanamAlinA //
+   GG_7.36-1 kanaka-nikaṣa-ruci-śuci-vasanena /	Gu-_7.36-1 kanaka-nikaza--ruci--Suci-vasanena /
+   GG_7.36-2 śvasiti na sā parijana-hasanena //	Gu-_7.36-2 Svasiti na sA parijana--hasanena //
+   GG_7.36-3 sakhi yā ramitā vanamālinā //	Gu-_7.36-3 saKi yA ramitA vanamAlinA //
+   GG_7.37-1 sakala-bhuvana-jana-vara-taruṇena /	Gu-_7.37-1 sakala--Buvana--jana-vara--taruNena /
+   GG_7.37-2 vahati na sā rujam atikaruṇena //	Gu-_7.37-2 vahati na sA rujam ati-karuNena //
+   GG_7.37-3 sakhi yā ramitā vanamālinā //	Gu-_7.37-3 saKi yA ramitA vanamAlinA //
+   GG_7.38-1 śrījayadeva-bhaṇita-vacanena /	Gu-_7.38-1 SrI-jayadeva--BaNita--vacanena /
+   GG_7.38-2 praviśatu hariḥ api hṛdayam anena //	Gu-_7.38-2 praviSatu hariH api hRdayam anena //
+   GG_7.38-3 sakhi yā ramitā vanamālinā //	Gu-_7.38-3 saKi yA ramitA vanamAlinA //
+   GG_7.39-1 manobhava-ānandana candana-anila	Gu-_7.39-1 manoBava-Anandana candana--anila
+   GG_7.39-2 prasīda re dakṣiṇa muñca vāmatām /	Gu-_7.39-2 prasIda re dakziNa muQca vAma-tAm /
+   GG_7.39-3 kṣaṇam jagat-prāṇa vidhāya mādhavam	Gu-_7.39-3 kzaNam jagat-prANa viDAya mADavam
+   GG_7.39-4 puraḥ mama prāṇa-haraḥ bhaviṣyasi //	Gu-_7.39-4 puras mama prANa-haraH Bavizyasi //
+   GG_7.40-1 ripuḥ iva sakhī-saṃvāsaḥ ayam śikhī iva hima-anilaḥ	Gu-_7.40-1 ripuH iva saKI--saMvAsaH ayam SiKI iva hima-anilaH
+   GG_7.40-2 viṣam iva sudhā-raśmiḥ yasmin dunoti manaḥ-gate /	Gu-_7.40-2 vizam iva suDA-raSmiH yasmin dunoti manaH--gate /
+   GG_7.40-3 hṛdayam adaye tasmin evam punaḥ valate balāt	Gu-_7.40-3 hRdayam adaye tasmin evam punar valate balAt-
+   GG_7.40-4 kuvalaya-dṛśām vāmaḥ kāmaḥ nikāma-niraṅkuśaḥ //	Gu-_7.40-4 kuvalaya-dRSAm vAmaH kAmaH nikAma--niraFkuSaH //
+   GG_7.41-1 bādhām vidhehi malaya-anila pañcabāṇa	Gu-_7.41-1 bADAm viDehi malaya--anila paQcabANa-
+   GG_7.41-2 prāṇān gṛhāṇa na gṛham punaḥ āśrayiṣye /	Gu-_7.41-2 prANAn gRhANa na gRham punar ASrayizye /
+   GG_7.41-3 kim te kṛta-anta-bhagini kṣamayā taraṅgaiḥ	Gu-_7.41-3 kim te kRta--anta-Bagini kzamayA taraFgEH
+   GG_7.41-4 aṅgāni siñca mama śāmyatu deha-dāhaḥ //	Gu-_7.41-4 aFgAni siQca mama SAmyatu deha-dAhaH //
+   GG_8.1-1 atha katham api yāminīm vinīya smara-śara-jarjaritā api sā	Gu-_8.1-1 aTa kaTam api yAminIm vinIya smara-Sara--jarjaritA api sA
+   prabhāte /	praBAte /
+   GG_8.1-2 anunaya-vacanam vadantam agre praṇatam api priyam āha sābhyasūyam	Gu-_8.1-2 anunaya-vacanam vadantam agre praNatam api priyam Aha sa-aByasUyam
+   GG_8.2-1 rajani-janita-guru-jāgara-rāga-kaṣāyitam alasa-niveśam /	Gu-_8.2-1 raja-ni-janita---guru--jAgara--rAga--kazAyitam alasa-niveSam /
+   GG_8.2-2 vahati nayanam anurāgam iva sphuṭam udita-rasa-abhiniveśam //	Gu-_8.2-2 vahati nayanam anurAgam iva sPuwam udita--rasa--aBiniveSam //
+   GG_8.2-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.2-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.2-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.2-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.3-1 kajjala-malina-vilocana-cumbana-viracita-nīlima-rūpam /	Gu-_8.3-1 kajjala--malina--vilocana--cumbana-viracita--nIlim-a-rUpam /
+   GG_8.3-2 daśana-vasanam aruṇam tava kṛṣṇa tanoti tanoḥ anurūpam //	Gu-_8.3-2 daSana-vasanam aruNam tava kRzNa tanoti tanoH anurUpam //
+   GG_8.3-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.3-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.3-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.3-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.4-1 vapuḥ anuharati tava smara-saṅgara-khara-nakhara-kṣata-rekham /	Gu-_8.4-1 vapuH anuharati tava smara--saFgara--Kara--naKara--kzata-reKam /
+   GG_8.4-2 marakata-śakala-kalita-kaladhauta-lipeḥ iva rati-jaya-lekham //	Gu-_8.4-2 maraka-ta-Sakala--kalita-kalaDOta-lipeH iva rati-jaya--leKam //
+   GG_8.4-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.4-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.4-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.4-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.5-1 caraṇa-kamala-galat-alaktaka-siktam idam tava hṛdayam udāram /	Gu-_8.5-1 caraNa--kamala--galat-a-laktaka--siktam idam tava hRdayam udAram /
+   GG_8.5-2 darśayati iva bahiḥ madana-druma-nava-kisalaya-parivāram //	Gu-_8.5-2 darSayati iva bahis madana-druma-nava--kisalaya--parivAram //
+   GG_8.5-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.5-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.5-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.5-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.6-1 daśana-padam bhavat-adhara-gatam mama janayati cetasi khedam /	Gu-_8.6-1 daSana--padam Bavat-a-Dara--gatam mama janayati cetasi Kedam /
+   GG_8.6-2 kathayati katham adhunā api mayā saha tava vapuḥ etat abhedam //	Gu-_8.6-2 kaTayati kaTam aDunA api mayA saha tava vapuH etat aBedam //
+   GG_8.6-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.6-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.6-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.6-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.7-1 bahiḥ iva malinataram tava kṛṣṇa manaḥ api bhaviṣyati nūnam /	Gu-_8.7-1 bahis iva malinataram tava kRzNa manaH api Bavizyati nUnam /
+   GG_8.7-2 katham atha vañcayase janam anugatam asamaśara-jvara-dūnam //	Gu-_8.7-2 kaTam aTa vaQcayase janam anugatam asama-Sara--jvara-dUnam //
+   GG_8.7-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.7-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.7-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.7-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.8-1 bhramati bhavān abalā-kavalāya vaneṣu kim atra vicitram /	Gu-_8.8-1 Bramati BavAn abalA--kavalAya vanezu kim atra vicitram /
+   GG_8.8-2 prathayati pūtanikā eva vadhū-vadha-nirdaya-bāla-caritram //	Gu-_8.8-2 praTayati pUtanikAH eva vaDU-vaDa--nirdaya-bAla--caritram //
+   GG_8.8-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.8-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.8-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.8-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.9-1 śrījayadeva-bhaṇita-rati-vañcita-khaṇḍita-yuvati-vilāpam /	Gu-_8.9-1 SrI-jayadeva--BaNita-rati-vaQcita--KaNxita--yuvati--vilApam /
+   GG_8.9-2 śṛṇuta sudhā-madhuram vibudhāḥ vibudha-ālayataḥ api durāpam //	Gu-_8.9-2 SRNuta suDA--maDuram vibuDAH vibuDa--AlayataH api durApam //
+   GG_8.9-3 harihari yāhi mādhava yāhi keśava mā vada kaitava-vādam	Gu-_8.9-3 hari-hari yAhi mADava yAhi keSava mA vada kEtava-vAdam
+   GG_8.9-4 tām anusara sarasīruha-locana yā tava harati viṣādam //	Gu-_8.9-4 tAm anusara sarasIruha--locana yA tava harati vizAdam //
+   GG_8.10-1 tava idam paśyantyāḥ prasarat anurāgam bahiḥ iva	Gu-_8.10-1 tava idam paSyantyAH prasarat anurAgam bahis iva
+   GG_8.10-2 priyā-pāda-alakta-churitam aruṇa-chāya-hṛdayam /	Gu-_8.10-2 priyA--pAda-alakta-Curitam aruNa--CAya--hRdayam /
+   GG_8.10-3 mama adya prakhyāta-praṇaya-bhara-bhaṅgena kitava	Gu-_8.10-3 mama adya praKyAta--praNaya--Bara--BaFgena kitava
+   GG_8.10-4 tvat-ālokaḥ śokāt api kim api lajjām janayati //	Gu-_8.10-4 tu-at-AlokaH SokAt api kim api lajjAm janayati //
+   GG_9.1-1 tām atha manmatha-khinnām rati-rasa-bhinnām viṣāda-sampannām /	Gu-_9.1-1 tAm aTa manmaTa-KinnAm rati-rasa-BinnAm vizAda--sampannAm /
+   GG_9.1-2 anucintita-hari-caritām kalaha-antar-itām uvāca sakhī //	Gu-_9.1-2 anucintita--hari--caritAm kalaha--antar-itAm uvAca saKI //
+   GG_9.2-1 hariḥ abhisarati vahati madhu-pavane /	Gu-_9.2-1 hariH aBisarati vahati maDu-pavane /
+   GG_9.2-2 kim aparam adhika-sukham sakhi bhavane //	Gu-_9.2-2 kim aparam aDika--suKam saKi Bavane //
+   GG_9.2-3 mādhave mā kuru mānini mānam aye //	Gu-_9.2-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.3-1 tāla-phalāt api gurum atisarasam /	Gu-_9.3-1 tAla--PalAt api gurum ati-sarasam /
+   GG_9.3-2 kim viphalīkuruṣe kuca-kalaśam //	Gu-_9.3-2 kim viPalIkuruze kuca--kalaSam //
+   GG_9.3-3 mādhave mā kuru mānini mānam aye //	Gu-_9.3-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.4-1 kati na kathitam idam anupadam aciram /	Gu-_9.4-1 kati na kaTitam idam anupadam aciram /
+   GG_9.4-2 mā parihara harim atiśaya-ruciram //	Gu-_9.4-2 mA parihara harim atiSaya--ruciram //
+   GG_9.4-3 mādhave mā kuru mānini mānam aye //	Gu-_9.4-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.5-1 kim iti viṣīdasi rodiṣi vikalā /	Gu-_9.5-1 kim iti vizIdasi rodizi vikalAH /
+   GG_9.5-2 vihasati yuvati-sabhā tava sakalā //	Gu-_9.5-2 vihasati yuvati--saBA tava sakalAH //
+   GG_9.5-3 mādhave mā kuru mānini mānam aye //	Gu-_9.5-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.6-1 sajala-nalinī-dala-śītala-śayane /	Gu-_9.6-1 sa-jala-nalinI--dala--SItala--Sayane /
+   GG_9.6-2 harim avalokaya saphalaya nayane //	Gu-_9.6-2 harim avalokaya saPalaya nayane //
+   GG_9.6-3 mādhave mā kuru mānini mānam aye //	Gu-_9.6-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.7-1 janayasi manasi kim iti guru-khedam /	Gu-_9.7-1 janayasi manasi kim iti guru--Kedam /
+   GG_9.7-2 śṛṇu mama vacanam anīhita-bhedam //	Gu-_9.7-2 SRNu mama vacanam anIhita--Bedam //
+   GG_9.7-3 mādhave mā kuru mānini mānam aye //	Gu-_9.7-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.8-1 hariḥ upayātu vadatu bahu-madhuram /	Gu-_9.8-1 hariH upayAtu vadatu bahu-maDuram /
+   GG_9.8-2 kim iti karoṣi hṛdayam atividhuram //	Gu-_9.8-2 kim iti karozi hRdayam ati-viDuram //
+   GG_9.8-3 mādhave mā kuru mānini mānam aye //	Gu-_9.8-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.9-1 śrījayadeva-bhaṇitam atilalitam /	Gu-_9.9-1 SrI-jayadeva--BaNitam ati-lalitam /
+   GG_9.9-2 sukhayatu rasika-janam hari-caritam //	Gu-_9.9-2 suKayatu rasi-ka-janam hari-caritam //
+   GG_9.9-3 mādhave mā kuru mānini mānam aye //	Gu-_9.9-3 mADave mA kuru mAnini mAnam aye //
+   GG_9.10-1 snigdhe yat paruṣā asi yat praṇamati stabdhā asi yat rāgiṇi	Gu-_9.10-1 snigDe yat paruzAH asi yat praNamati stabDAH asi yat rAgiNi
+   GG_9.10-2 dveṣa-sthā asi yat unmukhe vimukhatām yātā asi tasmin priye /	Gu-_9.10-2 dveza--sTAH asi yat unmuKe vimuKa-tAm yAtAH asi tasmin priye /
+   GG_9.10-3 yuktam tat viparīta-kāriṇi tava śrīkhaṇḍa-carcā viṣam	Gu-_9.10-3 yuktam tat viparIta--kAriNi tava SrIKaNxa-carcA vizam
+   GG_9.10-4 śītāṃśuḥ tapanaḥ himam hutavahaḥ krīḍā-mudaḥ yātanāḥ //	Gu-_9.10-4 SItAMSuH tapanaH himam hutavahaH krIxA-mudaH yAtanAH //
+   GG_10.1-1 atra antare masṛṇa-roṣa-vaśām asīma-	Gu-_10.1-1 atra antare masRNa--roza--vaSAm asIma-
+   GG_10.1-2 niḥśvāsa-niḥsaha-mukhīm sumukhīm upetya /	Gu-_10.1-2 niHSvAsa--niHsaha--muKIm su-muKIm upetya /
+   GG_10.1-3 savrīḍam īkṣita-sakhī-vadanām dinānte	Gu-_10.1-3 sa-vrIxam Ikzita-saKI--vadanAm dina-ante
+   GG_10.1-4 sānanda-gadgada-padam hariḥ iti uvāca //	Gu-_10.1-4 sa-Ananda--gadgada-padam hariH iti uvAca //
+   GG_10.2-1 vadasi yadi kiṃcit api danta-ruci-kaumudī	Gu-_10.2-1 vadasi yadi kiMcid api danta--ruci--kOmudI
+   GG_10.2-2 harati dara-timiram atighoram /	Gu-_10.2-2 harati dara--timiram ati-Goram /
+   GG_10.2-3 sphurat-adhara-sīdhave tava vadana-candramāḥ	Gu-_10.2-3 sPurat-a-Dara--sIDave tava vadana--candramAH
+   GG_10.2-4 rocayatu locana-cakoram //	Gu-_10.2-4 rocayatu locana--cakoram //
+   GG_10.2-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.2-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.2-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.2-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.2-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.2-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.3-1 satyam eva asi yadi sudati mayi kopinī	Gu-_10.3-1 satyam eva asi yadi sudati mayi kopinI
+   GG_10.3-2 dehi khara-nakhara-śara-ghātam /	Gu-_10.3-2 dehi Kara--naKara-Sara--GAtam /
+   GG_10.3-3 ghaṭaya bhuja-bandhanam janaya rada-khaṇḍanam	Gu-_10.3-3 Gawaya Buja--banDanam janaya rada--KaNxanam
+   GG_10.3-4 yena vā bhavati sukha-jātam //	Gu-_10.3-4 yena vA Bavati suKa--jAtam //
+   GG_10.3-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.3-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.3-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.3-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.3-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.3-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.4-1 tvam asi mama bhūṣaṇam tvam asi mama jīvanam	Gu-_10.4-1 tvam asi mama BUzaNam tvam asi mama jIvanam
+   GG_10.4-2 tvam asi mama bhava-jaladhi-ratnam /	Gu-_10.4-2 tvam asi mama Bava--jalaDi-ratnam /
+   GG_10.4-3 bhavatu bhavatī iha mayi satatam anurodhinī	Gu-_10.4-3 Bavatu BavatI iha mayi satatam anuroDinI
+   GG_10.4-4 tatra mama hṛdayam atiyatnam //	Gu-_10.4-4 tatra mama hRdayam atiyatnam //
+   GG_10.4-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.4-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.4-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.4-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.4-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.4-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.5-1 nīla-nalina-ābham api tanvi tava locanam	Gu-_10.5-1 nIla-nalina--ABam api tanvi tava locanam
+   GG_10.5-2 dhārayati koka-nada-rūpam /	Gu-_10.5-2 DArayati koka-nada--rUpam /
+   GG_10.5-3 kusumaśara-bāṇa-bhāvena yadi rañjayasi	Gu-_10.5-3 kusuma-Sara--bANa--BAvena yadi raQjayasi
+   GG_10.5-4 kṛṣṇam idam etat anurūpam //	Gu-_10.5-4 kRzNam idam etat anurUpam //
+   GG_10.5-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.5-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.5-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.5-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.5-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.5-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.6-1 sphuratu kuca-kumbhayoḥ upari maṇi-mañjarī	Gu-_10.6-1 sPuratu kuca-kumBayoH upari maNi-maQjarI
+   GG_10.6-2 rañjayatu tava hṛdaya-deśam /	Gu-_10.6-2 raQjayatu tava hRdaya-deSam /
+   GG_10.6-3 rasatu raśanā api tava ghana-jaghana-maṇḍale	Gu-_10.6-3 rasatu raSanAH api tava Gana--jaGana--maNxale
+   GG_10.6-4 ghoṣayatu manmatha-nideśam //	Gu-_10.6-4 Gozayatu manmaTa--nideSam //
+   GG_10.6-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.6-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.6-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.6-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.6-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.6-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.7-1 sthala-kamala-gañjanam mama hṛdaya-rañjanam	Gu-_10.7-1 sTala--kamala--gaQjanam mama hRdaya--raQjanam
+   GG_10.7-2 janita-rati-raṅga-parabhāgam /	Gu-_10.7-2 janita--rati-raFga-para-BAgam /
+   GG_10.7-3 bhaṇa masṛṇa-vāṇi karavāṇi pada-paṅkajam	Gu-_10.7-3 BaNa masRNa-vANi karavANi pada--paFkajam
+   GG_10.7-4 sarasa-lasat-alaktaka-rāgam //	Gu-_10.7-4 sarasa-lasat-a-laktaka-rAgam //
+   GG_10.7-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.7-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.7-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.7-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.7-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.7-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.8-1 smara-garala-khaṇḍanam mama śirasi maṇḍanam	Gu-_10.8-1 smara-garala--KaNxanam mama Sirasi maNxanam
+   GG_10.8-2 dehi pada-pallavam udāram /	Gu-_10.8-2 dehi pada--pallavam udAram /
+   GG_10.8-3 jvalati mayi dāruṇaḥ madana-kadana-aruṇaḥ	Gu-_10.8-3 jvalati mayi dAruNaH madana-kadana--aruNaH
+   GG_10.8-4 haratu tat-upāhita-vikāram //	Gu-_10.8-4 haratu tat-upAhita-vikAram //
+   GG_10.8-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.8-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.8-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.8-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.8-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.8-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.9-1 iti caṭula-cāṭu-paṭu-cāru muravairiṇaḥ	Gu-_10.9-1 iti cawula--cAwu--pawu--cAru muravEriNaH
+   GG_10.9-2 rādhikām adhi vacana-jātam /	Gu-_10.9-2 rADikAm aDi vacana-jAtam /
+   GG_10.9-3 jayati padmāvatī-ramaṇa-jayadeva-kavi-	Gu-_10.9-3 jayati padmAvatI--ramaNa--jayadeva--kavi-
+   GG_10.9-4 bhāratī-bhaṇitam atiśātam //	Gu-_10.9-4 BAratI--BaNitam ati-SAtam //
+   GG_10.9-5 priye cāru-śīle muñca mayi mānam anidānam	Gu-_10.9-5 priye cAru--SIle muQca mayi mAnam anidAnam
+   GG_10.9-6 sapadi madana-analaḥ dahati mama mānasam	Gu-_10.9-6 sapadi madana-analaH dahati mama mAnasam
+   GG_10.9-7 dehi mukha-kamala-madhu-pānam //	Gu-_10.9-7 dehi muKa--kamala--maDu--pAnam //
+   GG_10.10-1 parihara kṛta-ātaṅke śaṅkām tvayā satatam ghana-	Gu-_10.10-1 parihara kRta--AtaFke SaFkAm tvayA satatam Gana-
+   GG_10.10-2 stana-jaghanayā ākrānte svānte para-anavakāśini /	Gu-_10.10-2 stana--jaGanayA AkrAnte svAnte para--anavakASini /
+   GG_10.10-3 viśati vitanoḥ anyaḥ dhanyaḥ na kaḥ api mama-antaram	Gu-_10.10-3 viSati vitanoH anyaH DanyaH na kaH api mama-antaram
+   GG_10.10-4 stana-bhara-parīrambha-ārambhe vidhehi vidheyatām //	Gu-_10.10-4 stana--Bara--parIramBa-A-AramBe viDehi viDeya-tAm //
+   GG_10.11-1 mugdhe vidhehi mayi nirdaya-danta-daṃśa-	Gu-_10.11-1 mugDe viDehi mayi nirdaya-danta--daMSa-
+   GG_10.11-2 doḥ-valli-bandha-nibiḍa-stana-pīḍanāni /	Gu-_10.11-2 doH-valli--banDa--nibixa--stana--pIxanAni /
+   GG_10.11-3 caṇḍi tvam eva mudam añca na pañcabāṇa-	Gu-_10.11-3 caNxi tvam eva mudam aQca na paQcabANa-
+   GG_10.11-4 caṇḍāla-kāṇḍa-dalanāt asavaḥ prayāntu //	Gu-_10.11-4 caNxAla--kANxa--dalanAt asavaH prayAntu //
+   GG_10.12-1 vyathayati vṛthā maunam tanvi prapañcaya pañcamam	Gu-_10.12-1 vyaTayati vRTA mOnam tanvi prapaQcaya paQcamam
+   GG_10.12-2 taruṇi madhura-ālāpaiḥ tāpam vinodaya dṛṣṭibhiḥ /	Gu-_10.12-2 taruNi maDura--AlApEH tApam vinodaya dRzwiBiH /
+   GG_10.12-3 sumukhi vimukhī-bhāvam tāvat vimuñca na muñca mām	Gu-_10.12-3 su-muKi vimuKI--BAvam tAvat vimuQca na muQca mAm
+   GG_10.12-4 svayam atiśaya-snigdhaḥ mugdhe priyaḥ aham upasthitaḥ //	Gu-_10.12-4 svayam atiSaya--snigDaH mugDe priyaH aham upasTitaH //
+   GG_10.13-1 bandhūka-dyuti-bāndhavaḥ ayam adharaḥ snigdhaḥ madhūka-chaviḥ	Gu-_10.13-1 banDUka-dyuti--bAnDavaH ayam aDaraH snigDaH maDUka-CaviH
+   GG_10.13-2 gaṇḍaḥ caṇḍi cakāsti nīla-nalina-śrī-mocanam locanam /	Gu-_10.13-2 gaNxaH caNxi cakAsti nIla-nalina--SrI--mocanam locanam /
+   GG_10.13-3 nāsā abhyeti tila-prasūna-padavīm kunda-ābha-danti priye	GG_10.13-3 nAsA aByeti tila--prasUna---padavIm kunda-ABa-danti priye
+   GG_10.13-4 prāyaḥ tvat-mukha-sevayā vijayate viśvam saḥ puṣpāyudhaḥ //	Gu-_10.13-4 prAyas tu-at--muKa--sevayA vijayate viSvam saH puzpa-AyuDaH //
+   GG_10.14-1 dṛśau tava mada-ālase vadanam indu-saṃdīpakam	Gu-_10.14-1 dRSO tava mada-Alase vadanam indu--saMdIpakam
+   GG_10.14-2 gatiḥ jana-manoramā vidhuta-rambham ūru-dvayam /	Gu-_10.14-2 gatiH jana--manoramAH viDuta-ramBam Uru--dvayam /
+   GG_10.14-3 ratiḥ tava kalāvatī rucira-citra-lekhe bhruvau	GG_10.14-3 ratiH tava kalAvatI rucira--citra--leKe BruvO
+   GG_10.14-4 aho vibudha-yauvatam vahasi tanvi pṛthvī-gatā //	Gu-_10.14-4 aho vibuDa--yOvatam vahasi tanvi pRTvI--gatAH //
+   GG_11.1-1 suciram anunayena prīṇayitvā mṛga-akṣīm	Gu-_11.1-1 su-ciram anunayena prINayitvA mRga--akzIm
+   GG_11.1-2 gatavati kṛta-veśe keśave kuñja-śayyām /	Gu-_11.1-2 gatavati kRta--veSe keSave kuQja-SayyAm /
+   GG_11.1-3 racita-rucira-bhūṣām dṛṣṭi-moṣe pradoṣe	Gu-_11.1-3 racita-rucira-BUzAm dRzwi-moze pradoze
+   GG_11.1-4 sphurati niravasādām kāpi rādhām jagāda //	Gu-_11.1-4 sPurati niravasAdAm kA-api rADAm jagAda //
+   GG_11.2-1 viracita-cāṭu-vacana-racanam caraṇe racita-praṇipātam /	Gu-_11.2-1 viracita--cAwu-vacana--racanam caraNe racita--praNipAtam /
+   GG_11.2-2 saṃprati mañjula-vañjula-sīmani keli-śayanam anuyātam //	Gu-_11.2-2 saMprati maQjula--vaQjula--sImani keli--Sayanam anuyAtam //
+   GG_11.2-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.2-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.3-1 ghana-jaghana-stana-bhāra-bhare dara-manthara-caraṇa-vihāram /	Gu-_11.3-1 Gana--jaGana--stana--BAra--Bare dara--manTara--caraNa--vihAram /
+   GG_11.3-2 mukharita-maṇi-mañjīram upaihi vidhehi marāla-vikāram //	Gu-_11.3-2 muKarita-maNi--maQjIram upEhi viDehi marAla--vikAram //
+   GG_11.3-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.3-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.4-1 śṛṇu ramaṇīyataram taruṇī-jana-mohana-madhupa-virāvam /	Gu-_11.4-1 SRNu ramaNIyataram taruNI--jana--mohana--maDupa-virAvam /
+   GG_11.4-2 kusumaśarāsana-śāsana-bandini pika-nikare bhaja bhāvam //	Gu-_11.4-2 kusuma-SarAsana--SAsana-bandini pika-nikare Baja BAvam //
+   GG_11.4-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.4-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.5-1 anila-tarala-kisalaya-nikareṇa kareṇa latā-nikurambam /	Gu-_11.5-1 anila-tarala-ki-salaya--nikareNa kareNa latA--nikurambam /
+   GG_11.5-2 preraṇam iva karabha-ūru karoti gatim pratimuñca vilambam //	Gu-_11.5-2 preraNam iva karaBa-Uru karoti gatim pratimuQca vilambam //
+   GG_11.5-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.5-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.6-1 sphuritam anaṅga-taraṅga-vaśāt iva sūcita-hari-parirambham /	Gu-_11.6-1 sPuritam anaFga-taraFga--vaSAt iva sUcita--hari--pariramBam /
+   GG_11.6-2 pṛccha manohara-hāra-vimala-jala-dhāram amum kuca-kumbham //	Gu-_11.6-2 pRcCa manohara--hAra--vimala--jala--DAram amum kuca-kumBam //
+   GG_11.6-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.6-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.7-1 adhigatam akhila-sakhībhiḥ idam tava vapuḥ api rati-raṇa-sajjam	Gu-_11.7-1 aDigatam aKila--saKIBiH idam tava vapuH api rati--raNa--sajjam
+   GG_11.7-2 caṇḍi rasita-raśanā-rava-ḍiṇḍimam abhisara sarasam alajjam //	Gu-_11.7-2 caNxi rasita-raSanA--rava--xiNximam aBisara sarasam alajjam //
+   GG_11.7-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.7-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.8-1 smara-śara-subhaga-nakhena kareṇa sakhīm avalambya salīlam /	Gu-_11.8-1 smara-Sara--suBaga--naKena kareNa saKIm avalambya sa-lIlam /
+   GG_11.8-2 cala valaya-kvaṇitaiḥ avabodhaya harim api nijagati-śīlam //	Gu-_11.8-2 cala valaya--kvaNitEH avaboDaya harim api nija-gati--SIlam //
+   GG_11.8-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.8-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.9-1 śrījayadeva-bhaṇitam adharīkṛta-hāram udāsita-vāmam /	Gu-_11.9-1 SrI-jayadeva--BaNitam aDarIkRta--hAram udAsita-vAmam /
+   GG_11.9-2 hari-vinihita-manasām adhitiṣṭhatu kaṇṭha-taṭīm avirāmam //	Gu-_11.9-2 hari--vinihita--manasAm aDitizWatu kaNWa-tawIm avirAmam //
+   GG_11.9-3 mugdhe madhumathanam anugatam anusara rādhike //	Gu-_11.9-3 mugDe maDumaTanam anugatam anusara rADike //
+   GG_11.10-1 sā mām drakṣyati vakṣyati smara-kathām prati-aṅgam āliṅganaiḥ	Gu-_11.10-1 sA mAm drakzyati vakzyati smara--kaTAm prati-aFgam AliFganEH
+   GG_11.10-2 prītim yāsyati raṃsyate sakhi samāgatya iti cintā-ākulaḥ /	Gu-_11.10-2 prItim yAsyati raMsyate saKi samAgatya iti cintA-AkulaH /
+   GG_11.10-3 saḥ tvām paśyati vepate pulakayati ānandati svidyati	Gu-_11.10-3 saH tvAm paSyati vepate pulakayati Anandati svidyati
+   GG_11.10-4 pratyudgacchati mūrcchati sthira-tamaḥ-puñje nikuñje priyaḥ //	Gu-_11.10-4 pratyudgacCati mUrcCati sTira-tamaH-puQje nikuQje priyaH //
+   GG_11.11-1 akṣṇoḥ nikṣipat-añjanam śravaṇayoḥ tāpiccha-guccha-āvalīm	Gu-_11.11-1 akzNoH nikzipat-aQjanam SravaNayoH tApicCa--gucCa-AvalIm
+   GG_11.11-2 mūrdhni śyāma-saroja-dāma kucayoḥ kastūrikā-patrakam /	Gu-_11.11-2 mUrDni SyAma-saroja--dAma kucayoH kastUrikA--patrakam /
+   GG_11.11-3 dhūrtānām abhisāra-satvara-hṛdām viṣvak-nikuñje sakhi	Gu-_11.11-3 DUrtAnAm aBisAra--satvara--hRdAm vizvak--nikuQje saKi
+   GG_11.11-4 dhvāntam nīla-nicola-cāru sudṛśām prati-aṅgam āliṅgati //	Gu-_11.11-4 DvAntam nIla--nicola--cAru su-dRSAm prati-aFgam AliFgati //
+   GG_11.12-1 kāśmīra-gaura-vapuṣām abhisārikāṇām	Gu-_11.12-1 kASmIra-gOra-vapuzAm aBisArikANAm
+   GG_11.12-2 ābaddha-rekham abhitaḥ ruci-mañjarībhiḥ /	Gu-_11.12-2 AbadDa--reKam aBitas ruci--maQjarIBiH /
+   GG_11.12-3 etat tamāla-dala-nīla-tamam tamisram	Gu-_11.12-3 etat tamAla--dala--nIla-tamam tamisram
+   GG_11.12-4 tat-prema-hema-nikaṣa-upalatām tanoti //	Gu-_11.12-4 tat--prema--hema--nikaza--upalatAm tanoti //
+   GG_11.13-1 hāra-āvalī-tarala-kāñci-dāma-	GG_11.13-1 hAra--AvalI--tarala--kAQci--dAma-
+   GG_11.13-2 keyūra-kaṅkaṇa-maṇi-dyuti-dīpitasya /	Gu-_11.13-2 keyUra--kaFkaNa--maNi--dyuti--dIpitasya /
+   GG_11.13-3 dvāre nikuñja-nilayasya harim nirīkṣya	Gu-_11.13-3 dvAre nikuQja--nilayasya harim nirIkzya
+   GG_11.13-4 vrīḍāvatīm atha sakhī nijagāda rādhām //	GG_11.13-4 vrIxAvatIm aTa saKI nijagAda rADAm //
+   GG_11.14-1 mañjutara-kuñja-tala-keli-sadane /	Gu-_11.14-1 maQjutara--kuQja--tala--keli--sadane /
+   GG_11.14-2 vilasa rati-rabhasa-hasita-vadane //	Gu-_11.14-2 vilasa rati--raBasa-hasita--vadane //
+   GG_11.14-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.14-3 praviSa rADe mADava--samIpam iha //
+   GG_11.15-1 nava-bhavat-aśoka-dala-śayana-sāre /	Gu-_11.15-1 nava--Bavat-a-Soka-dala--Sayana---sAre /
+   GG_11.15-2 vilasa kuca-kalaśa-tarala-hāre //	Gu-_11.15-2 vilasa kuca-kalaSa--tarala--hAre //
+   GG_11.15-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.15-3 praviSa rADe mADava--samIpam iha //
+   GG_11.16-1 kusuma-caya-racita-śuci-vāsa-gehe /	Gu-_11.16-1 kusuma--caya--racita--Suci-vAsa--gehe /
+   GG_11.16-2 vilasa kusuma-sukumāra-dehe //	Gu-_11.16-2 vilasa kusuma--sukumAra--dehe //
+   GG_11.16-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.16-3 praviSa rADe mADava--samIpam iha //
+   GG_11.17-1 cala-malaya-vana-pavana-surabhi-śīte /	Gu-_11.17-1 cala--malaya-vana--pavana--suraBi--SIte /
+   GG_11.17-2 vilasa rasa-valita-lalita-gīte //	Gu-_11.17-2 vilasa rasa--valita-lalita--gIte //
+   GG_11.17-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.17-3 praviSa rADe mADava--samIpam iha //
+   GG_11.18-1 madhu-mudita-madhupa-kula-kalita-rāve /	Gu-_11.18-1 maDu--mudita--maDu-pa-kula--kalita--rAve /
+   GG_11.18-2 vilasa madana-rasa-sarasa-bhāve //	Gu-_11.18-2 vilasa madana--rasa--sarasa-BAve //
+   GG_11.18-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.18-3 praviSa rADe mADava--samIpam iha //
+   GG_11.19-1 madhuratara-pika-nikara-ninada-mukhare /	Gu-_11.19-1 maDuratara--pika-nikara--ninada--muKare /
+   GG_11.19-2 vilasa daśana-ruci-rucira-śikhare //	Gu-_11.19-2 vilasa daSana--ruci-rucira--SiKare //
+   GG_11.19-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.19-3 praviSa rADe mADava--samIpam iha //
+   GG_11.20-1 vitata-bahu-valli-nava-pallava-ghane /	Gu-_11.20-1 vitata--bahu--valli-nava--pallava--Gane /
+   GG_11.20-2 vilasa ciram alasa-pīna-jaghane //	Gu-_11.20-2 vilasa ciram alasa--pIna--jaGane //
+   GG_11.20-3 praviśa rādhe mādhava-samīpam iha //	Gu-_11.20-3 praviSa rADe mADava--samIpam iha //
+   GG_11.21-1 vihita-padmāvatī-sukha-samāje /	Gu-_11.21-1 vihita-padmAvatI--suKa--samAje /
+   GG_11.21-2 kuru murāre maṅgala-śatāni	Gu-_11.21-2 kuru murAre maFgala--SatAni
+   GG_11.21-3 bhaṇati jayadeva-kavi-rāje //	Gu-_11.21-3 BaNati jayadeva-kavi-rAje //
+   GG_11.21-4 praviśa rādhe mādhava-samīpam iha //	Gu-_11.21-4 praviSa rADe mADava--samIpam iha //
+   GG_11.22-1 tvām cittena ciram vahan ayam atiśrāntaḥ bhṛśam tāpitaḥ	Gu-_11.22-1 tvAm cittena ciram vahan ayam atiSrAntaH BRSam tApitaH
+   GG_11.22-2 kandarpeṇa tu pātum icchati sudhā-saṃbādha-bimba-adharam /	Gu-_11.22-2 kandarpeNa tu pAtum icCati suDA--saMbADa--bimba-a-Daram /
+   GG_11.22-3 asya aṅgam tat alaṃkuru kṣaṇam iha bhrū-kṣepa-lakṣmī-lava-	Gu-_11.22-3 asya aFgam tat alaMkuru kzaNam iha BrU--kzepa--lakzmI-lava-
+   GG_11.22-4 krīte dāse iva upasevita-pada-ambhoje kutaḥ sambhramaḥ //	Gu-_11.22-4 krIte dAse iva upasevita-pada--amBoje kutas samBramaH //
+   GG_11.23-1 sā sasādhvasa-sānandam govinde lola-locanā /	Gu-_11.23-1 sA sa-sADvasa-sa-Anandam govinde lola--locanA /
+   GG_11.23-2 siñjāna-mañju-mañjīram praviveśa niveśanam //	Gu-_11.23-2 siQjAna--maQju--maQjIram praviveSa niveSanam //
+   GG_11.24-1 rādhā-vadana-vilokana-vikasita-vividha-vikāra-vibhaṅgam /	Gu-_11.24-1 rADA--vadana--vilokana-vikasita-viviDa--vikAra--viBaFgam /
+   GG_11.24-2 jalanidhim iva vidhu-maṇḍala-darśana-taralita-tuṅga-taraṅgam //	GG_11.24-2 jalaniDim iva viDu--maNxala-darSana-taralita--tuFga-taraFgam //
+   GG_11.24-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.24-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.24-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.24-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.25-1 hāram amalatara-tāram urasi dadhatam parirabhya vidūram /	GG_11.25-1 hAram amalatara--tAram urasi daDatam pariraBya vidUram /
+   GG_11.25-2 sphuṭatara-phena-kadamba-karambitam iva yamunā-jala-pūram //	Gu-_11.25-2 sPuwatara-Pena--kadamba-karambitam iva yamunA--jala--pUram //
+   GG_11.25-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.25-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.25-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.25-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.26-1 śyāmala-mṛdula-kalevara-maṇḍalam adhigata-gaura-dukūlam /	Gu-_11.26-1 SyAmala--mRdula--kalevara--maNxalam aDigata-gOra-dukUlam /
+   GG_11.26-2 nīla-nalinam iva pīta-parāga-paṭala-bhara-valayita-mūlam //	Gu-_11.26-2 nIla-nalinam iva pIta-parAga--pawala--Bara-valayita--mUlam //
+   GG_11.26-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.26-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.26-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.26-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.27-1 tarala-dṛk-añcala-calana-manohara-vadana-janita-rati-rāgam /	Gu-_11.27-1 tarala-dRS--aQcala--calana--manohara--vadana--janita-rati-rAgam /
+   GG_11.27-2 sphuṭa-kamala-udara-khelita-khañjana-yugam iva śaradi taḍāgam	Gu-_11.27-2 sPuwa--kamala--udara---Kelita--KaQjana---yugam iva Saradi taxAgam
+   GG_11.27-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.27-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.27-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.27-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.28-1 vadana-kamala-pariśīlana-milita-mihira-sama-kuṇḍala-śobham /	Gu-_11.28-1 vadana--kamala--pariSIlana--milita--mi-hira--sama-kuNxala--SoBam /
+   GG_11.28-2 smita-ruci-rucira-samullasita-adhara-pallava-kṛta-rati-lobham	Gu-_11.28-2 smita-ruci--rucira--samullasita--aDara--pallava--kRta--rati-loBam
+   GG_11.28-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.28-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.28-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.28-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.29-1 śaśi-kiraṇa-churita-udara-jaladhara-sundara-sakusuma-kośam /	Gu-_11.29-1 SaSi--kiraNa--Curita-udara--jalaDara--sunda-ra-sa-kusuma--koSam /
+   GG_11.29-2 timira-udita-vidhu-maṇḍala-nirmala-malayaja-tilaka-niveśam //	Gu-_11.29-2 timira--udita--viDu--maNxala--nirmala---malayaja-tilaka-niveSam //
+   GG_11.29-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.29-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.29-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.29-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.30-1 vipula-pulaka-bhara-danturitam rati-keli-kalābhiḥ adhīram /	Gu-_11.30-1 vipula--pulaka-Bara--danturitam rati--keli-kalABiH aDIram /
+   GG_11.30-2 maṇi-gaṇa-kiraṇa-samūha-samujjvala-bhūṣaṇa-subhaga-śarīram //	Gu-_11.30-2 maNi--gaNa--kiraNa--samUha--samujjvala--BUzaNa--suBaga--SarIram //
+   GG_11.30-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.30-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.30-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.30-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.31-1 śrījayadeva-bhaṇita-vibhava-dviguṇīkṛta-bhūṣaṇa-bhāram /	Gu-_11.31-1 SrI-jayadeva--BaNita--viBava--dvi-guNIkRta-BUzaNa--BAram /
+   GG_11.31-2 praṇamata hṛdi suciram vinidhāya harim sukṛta-udaya-sāram //	Gu-_11.31-2 praNamata hRdi su-ciram viniDAya harim su-kRta--udaya--sAram //
+   GG_11.31-3 harim eka-rasam ciram abhilaṣita-vilāsam	Gu-_11.31-3 harim eka-rasam ciram aBilazita-vilAsam
+   GG_11.31-4 sā dadarśa guru-harṣa-vaśaṃvada-vadanam anaṅga-nivāsam //	Gu-_11.31-4 sA dadarSa guru--harza--vaSaMvada--vadanam anaFga-nivAsam //
+   GG_11.32-1 atikramya apāṅgam śravaṇa-patha-paryanta-gamana-	Gu-_11.32-1 atikramya apAFgam SravaNa--paTa--paryanta--gamana-
+   GG_11.32-2 prayāsena iva akṣṇoḥ taralatara-tāram patitayoḥ /	Gu-_11.32-2 prayAsena iva akzNoH taralatara--tAram patitayoH /
+   GG_11.32-3 idānīm rādhāyāḥ priyatama-samāloka-samaye	Gu-_11.32-3 idAnIm rADAyAH priyatama--samAloka--samaye
+   GG_11.32-4 papāta sveda-ambu-prasara iva harṣa-aśru-nikaraḥ //	Gu-_11.32-4 papAta sveda--ambu--prasaraH iva harza--aSru-nikaraH //
+   GG_11.33-1 bhajantyāḥ talpa-antam kṛta-kapaṭa-kaṇḍūti-pihita-	Gu-_11.33-1 BajantyAH talpa-antam kRta-ka-pawa--kaNxUti-pihita-
+   GG_11.33-2 smitam yāte gehāt bahiḥ avahita-ālī-parijane /	Gu-_11.33-2 smitam yAte gehAt bahis avahita--AlI--parijane /
+   GG_11.33-3 priya-āsyam paśyantyāḥ smara-śara-samākūta-subhagam	Gu-_11.33-3 priya--Asyam paSyantyAH smara-Sara--samAkUta--suBagam
+   GG_11.33-4 salajjā lajjā api vyagamat iva dūram mṛga-dṛśaḥ //	Gu-_11.33-4 sa-lajjA lajjA api vyagamat iva dUram mRga-dRSaH //
+   GG_12.1-1 gatavati sakhī-vṛnde amanda-trapā-bhara-nirbhara-	Gu-_12.1-1 gatavati saKI--vRnde amanda--tra-pA-Bara--nirBara-
+   GG_12.1-2 smara-para-vaśa-ākūta-sphīta-smita-snapita-adharām /	Gu-_12.1-2 smara--para--vaSa--AkUta--sPIta-smita-snapita--aDarAm /
+   GG_12.1-3 sarasa-manasam dṛṣṭvā rādhām muhuḥ nava-pallava-	Gu-_12.1-3 sarasa-manasam dRzwvA rADAm muhur nava--pallava-
+   GG_12.1-4 prasava-śayane nikṣipta-akṣīm uvāca hariḥ priyām //	Gu-_12.1-4 prasava--Sayane nikzipta--akzIm uvAca hariH priyAm //
+   GG_12.2-1 kisalaya-śayana-tale kuru kāmini caraṇa-nalina-viniveśam /	Gu-_12.2-1 kisalaya--Sayana--tale kuru kAmini caraNa-nalina--viniveSam /
+   GG_12.2-2 tava pada-pallava-vairi-parābhavam idam anubhavatu suveśam //	Gu-_12.2-2 tava pada--pallava-vEri-parABavam idam anuBavatu su-veSam //
+   GG_12.2-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.2-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.3-1 kara-kamalena karomi caraṇamaham āgamitā asi vidūram /	Gu-_12.3-1 kara-kamalena karomi caraNam-aham AgamitAH asi vidUram /
+   GG_12.3-2 kṣaṇam upakuru śayana-upari mām iva nūpuram anugata-śūram //	Gu-_12.3-2 kzaNam upakuru Sayana--upari mAm iva nUpuram anugata--SUram //
+   GG_12.3-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.3-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.4-1 vadana-sudhā-nidhi-galitam amṛtamiva racaya vacanam anukūlam /	Gu-_12.4-1 vadana--suDA--niDi--galitam amRtam-iva racaya vacanam anukUlam /
+   GG_12.4-2 viraham iva apanayāmi payodhara-rodhakam urasi dukūlam //	Gu-_12.4-2 viraham iva apanayAmi payoDara-roDakam urasi dukUlam //
+   GG_12.4-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.4-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.5-1 priya-parirambhaṇa-rabhasa-valitam iva pulakitam atiduravāpam /	Gu-_12.5-1 priya--pariramBaNa--raBasa-valitam iva pulakitam ati-duravApam /
+   GG_12.5-2 mat-urasi kuca-kalaśam viniveśaya śoṣaya manasija-tāpam //	Gu-_12.5-2 mat-urasi kuca-kalaSam viniveSaya Sozaya manasija-tApam //
+   GG_12.5-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.5-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.6-1 adhara-sudhā-rasam upanaya bhāvini jīvaya mṛtam iva dāsam /	Gu-_12.6-1 aDara--suDA-rasam upanaya BAvini jIvaya mRtam iva dAsam /
+   GG_12.6-2 tvayi vinihita-manasam viraha-anala-dagdha-vapuṣam avilāsam //	Gu-_12.6-2 tvayi vinihita--manasam viraha--anala--dagDa--vapuzam avilAsam //
+   GG_12.6-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.6-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.7-1 śaśi-mukhi mukharaya maṇi-raśanā-guṇam anuguṇa-kaṇṭha-ninādam /	Gu-_12.7-1 SaSi-muKi muKaraya maNi-raSanA--guNam anuguNa--kaNWa--ninAdam /
+   GG_12.7-2 śruti-yugale pika-ruta-vikale mama śamaya cirāt avasādam //	Gu-_12.7-2 Sruti-yugale pika-ruta--vikale mama Samaya cirAt avasAdam //
+   GG_12.7-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.7-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.8-1 mām ativiphala-ruṣā vikalīkṛtam avalokitum adhunā idam /	Gu-_12.8-1 mAm ati-viPala--ruzA vikalIkRtam avalokitum aDunA idam /
+   GG_12.8-2 mīlita-lajjitam iva nayanam tava virama visṛja rati-khedam //	Gu-_12.8-2 mIlita--lajjitam iva nayanam tava virama visRja rati--Kedam //
+   GG_12.8-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.8-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.9-1 śrījayadeva-bhaṇitam idam anupada-nigadita-madhuripu-modam /	Gu-_12.9-1 SrI-jayadeva--BaNitam idam anupada--nigadita-maDuripu-modam /
+   GG_12.9-2 janayatu rasika-janeṣu manorama-rati-sabhāva-vinodam //	Gu-_12.9-2 janayatu rasi-ka-janezu manorama-rati--sa-BAva--vinodam //
+   GG_12.9-3 kṣaṇam adhunā nārāyaṇam anugatam anusara rādhike //	Gu-_12.9-3 kzaNam aDunA nArAyaNam anugatam anusara rADike //
+   GG_12.10-1 māra-aṅke rati-keli-saṃkula-raṇa-ārambhe tayā sāhasa-	Gu-_12.10-1 mAra--aFke rati--keli--saMkula--raNa-A-AramBe tayA sAhasa-
+   GG_12.10-2 prāyam kānta-jayāya kiṃcit upari prārambhi yat-sambhramāt /	Gu-_12.10-2 prAyam kAnta--jayAya kiMcid upari prAramBi yat--samBramAt /
+   GG_12.10-3 niṣpandā jaghana-sthalī śithilā doḥ-valliḥ utkampitam	Gu-_12.10-3 nizpandA jaGana--sTalI SiTilA doH-valliH utkampitam
+   GG_12.10-4 vakṣaḥ mīlitam akṣi pauruṣa-rasaḥ strīṇām kutaḥ sidhyati //	Gu-_12.10-4 vakzaH mIlitam akzi pOruza-rasaH strINAm kutas siDyati //
+   GG_12.11-1 atha kāntam rati-klāntam api maṇḍana-vāñchayā /	Gu-_12.11-1 aTa kAntam rati-klAntam api maNxana-vAQCayA /
+   GG_12.11-2 nijagāda nirābādhā rādhā svādhīna-bhartṛkā //	Gu-_12.11-2 nijagAda nirAbADAH rADA svADIna--BartRkA //
+   GG_12.12-1 kuru yadu-nandana candana-śiśiratareṇa kareṇa payodhare /	Gu-_12.12-1 kuru yadu-nandana candana-SiSiratareNa kareNa payoDare /
+   GG_12.12-2 mṛgamada-patrakam atra manobhava-maṅgala-kalaśa-sahodare //	Gu-_12.12-2 mRgamada--patrakam atra manoBava--maFgala--kalaSa--sahodare //
+   GG_12.12-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.12-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.13-1 ali-kula-gañjanam añjanakam rati-nāyaka-sāyaka-mocane /	Gu-_12.13-1 ali-kula---gaQjanam aQjanakam rati-nAyaka-sAyaka--mocane /
+   GG_12.13-2 tvat-adhara-cumbana-lambita-kajjalam ujjvalaya priya locane //	Gu-_12.13-2 tu-at-a-Dara--cumbana--lambita-kajjalam ujjvalaya priya locane //
+   GG_12.13-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.13-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.14-1 nayana-kuraṅga-taraṅga-vikāsa-nirāsa-kare śruti-maṇḍale /	Gu-_12.14-1 nayana--kuraFga--taraFga-vikAsa--nirAsa--kare Sruti--maNxale /
+   GG_12.14-2 manaasija-pāśa-vilāsa-dhare śubha-veśa niveśaya kuṇḍale //	Gu-_12.14-2 manaasija--pASa--vilAsa--Dare SuBa-veSa niveSaya kuNxale //
+   GG_12.14-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.14-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.15-1 bhramara-cayam racayantam upari ruciram suciram mama saṃmukhe /	Gu-_12.15-1 Bramara-cayam racayantam upari ruciram su-ciram mama saMmuKe /
+   GG_12.15-2 jita-kamale vimale parikarmaya narma-janakam alakam mukhe //	Gu-_12.15-2 jita--kamale vimale parikarmaya narma--janakam alakam muKe //
+   GG_12.15-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.15-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.16-1 mṛgamada-rasa-valitam lalitam kuru tilakam alika-rajanīkare /	Gu-_12.16-1 mRga-mada-rasa-valitam lalitam kuru tilakam alika-rajanI-kare /
+   GG_12.16-2 vihita-kalaṅka-kalam kamala-ānana viśramita-śrama-śīkare //	Gu-_12.16-2 vihita--kalaFka-kalam kamala--Anana viSramita--Srama--SIkare //
+   GG_12.16-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.16-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.17-1 mama rucire cikure kuru mānada mānasaja-dhvaja-cāmare /	Gu-_12.17-1 mama rucire cikure kuru mAnada mAnasaja-Dvaja--cAmare /
+   GG_12.17-2 rati-galite lalite kusumāni śikhaṇḍi-śikhaṇḍaka-ḍāmare //	Gu-_12.17-2 rati-galite lalite kusumAni SiKaNxi--SiKaNxaka--xAmare //
+   GG_12.17-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.17-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.18-1 sarasa-ghane jaghane mama śambara-dāraṇa-vāraṇa-kandare /	Gu-_12.18-1 sarasa--Gane jaGane mama Sambara--dAraNa--vAraNa--kandare /
+   GG_12.18-2 maṇi-raśanā-vasana-ābharaṇāni śubha-āśaya vāsaya sundare //	Gu-_12.18-2 maNi-raSanA--vasana--ABaraNAni SuBa--ASaya vAsaya sundare //
+   GG_12.18-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.18-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.19-1 śrījayadeva-vacasi rucire hṛdayam sadayam kuru maṇḍane /	Gu-_12.19-1 SrI-jayadeva--vacasi rucire hRdayam sa-dayam kuru maNxane /
+   GG_12.19-2 hari-caraṇa-smaraṇa-amṛta-kṛta-kali-kaluṣa-bhava-jvara-khaṇḍane	Gu-_12.19-2 hari-caraNa--smaraNa--amRta-kRta-kali-kaluza--Bava--jvara---KaNxane
+   GG_12.19-3 nijagāda sā yadu-nandane krīḍati hṛdaya-ānandane //	Gu-_12.19-3 nijagAda sA yadu-nandane krIxati hRdaya--Anandane //
+   GG_12.20-1 racaya kucayoḥ patram citram kuruṣva kapolayoḥ	Gu-_12.20-1 racaya kucayoH patram citram kuruzva kapolayoH
+   GG_12.20-2 ghaṭaya jaghane kāñcīm añca srajā kabarī-bharam /	Gu-_12.20-2 Gawaya jaGane kAQcIm aQca srajA kabarI--Baram /
+   GG_12.20-3 kalaya valaya-śreṇīm pāṇau pade kuru nūpurau	Gu-_12.20-3 kalaya valaya--SreNIm pANO pade kuru nUpurO
+   GG_12.20-4 iti nigaditaḥ prītaḥ pītāmbaraḥ api tathā akarot //	Gu-_12.20-4 iti nigaditaH prItaH pIta-ambaraH api taTA akarot //
+   GG_12.21-1 yat gāndharva-kalāsu kauśalam anudhyānam ca yat vaiṣṇavam	Gu-_12.21-1 yat gAnDarva--kalAsu kOSalam anuDyAnam ca yat vEzNavam
+   GG_12.21-2 yat śṛṅgāra-viveka-tattvam api yat kāvyeṣu līlāyitam /	Gu-_12.21-2 yat SRFgAra--viveka--tattvam api yat kAvyezu lIlAyitam /
+   GG_12.21-3 tat sarvam jayadeva-paṇḍita-kaveḥ kṛṣṇa-eka-tāna-ātmanaḥ	Gu-_12.21-3 tat sarvam jayadeva--paNxita-kaveH kRzNa--eka-tAna-a-AtmanaH
+   GG_12.21-4 sānandāḥ pariśodhayantu sudhiyaḥ śrīgītagovindataḥ //	Gu-_12.21-4 sa-AnandAH pariSoDayantu suDiyaH SrI-gIta-govindataH //
+   GG_12.22-1 śrībhojadeva-prabhavasya rāmādevī-suta-śrījayadevakasya /	Gu-_12.22-1 SrI-Bojadeva--praBavasya rAmA-devI--suta--SrI-jayadevakasya /
+   GG_12.22-2 parāśara-ādi-priya-varga-kaṇṭhe śrīgītagovinda-kavitvam astu //	Gu-_12.22-2 parASara--Adi-priya-varga--kaNWe SrI-gIta-govinda--kavi-tvam astu //

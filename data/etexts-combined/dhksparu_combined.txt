@@ -1,0 +1,109 @@
+   Explanatory Remarks	Explana-torI Rema-Rc-s
+   A number of five figures at the left side indicates the location of the	A numbeH of five figureH at Te left side indi-cateH Te location of Te
+   key word	key woH-d
+   in the basic texts. In the case of the SV, the HB and the VN, the first	id Te basit texts. It Te case of Te SV, Te HB and Te VN, Te firH-t
+   three figures	Tree figureH-
+   indicate the page number, and the last two indicate the line number (for	indicate Te page number, and Te last twaH indicate Te line numbeH (foH-
+   example,	example,
+   SV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the	SV16026=SV 160,26; HB02314=HB 23,14; VN06110=Vj 61,10). It Te case of Te
+   PV and the NB, the second figure indicates the chapter number and the last	PV and Te NB, Te secA-Und figure indi-cateH Te CapteH numbeH and Te last
+   three	Tree
+   figures indicate the karika or sutra number (for example, PV02232=PV, the	figureH indicate Te karika oH sutra numbeH (foH example, PV02232=PV, Te
+   Pramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra	Pramana-sidDi--CapteH v.232; NB03015=NB, Te PararTa-numana--CapteH sutra
+   In the case of the SP, the last two figures indicate the karika number	It Te case of Te SP, Te last twaH figureH indicate Te karika numbeH-
+   (for example,	(foH example,
+   SP00015=SP, v.15).	SP00015=SP, v.15).
+   3. In this database, sentences are artificially divided into word-units,	3. In TiH database, sa-intences are arti-ficiallI dividet intaH woH-d-u-nits,
+   although they	alTouG Tey
+   involve a phonetic fusion or union in the basic texts. Further, compound	invA-ulve a Ponetit fusion oH union id Te basit texts. FurTer, ca-umpound
+   words are	woH-dH are
+   divided into their shortest constitutive elements (we use a hyphen to	dividet intaH TeiH sha-Urtest ca-unstitutive elements (we use a hi-Pet taH-
+   indicate that	indicate Tat-
+   hyphenated elements originally form a compound word) with the following	hi-Penatet elema-ints originallI fA-Urm a ca-umpount word) wiT Te fa-ullowing
+   exceptions:	exceptiA-uns:
+   3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of	3.1. The prefixeH a-, dur-, nih remEn undivided, irrespective of
+   attachment to	attaSment taH-
+   words or compound words.	wordH oH ca-umpound words.
+   3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But	3.2. SuffixeH making an adveH-b, foH example -vat, -vasa, are divided. But-
+   suffixes	suffixeH-
+   making a possessive adjective, for example -vat, -mat, remain undivided,	makinc a possessive adjet-tive, foH example -vat, -mat, remEn undivided,
+   and terms	and terms
+   such as a numeral+ -dha/-vidha/-prakara remain also undivided.	suC as a numeral+ -Da/-viDa/--prakara remEn alsaH undivided.
+   3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta	3.3. Compound wordH wiT Te suffixeH -ta/-tvaH oH -Bava/-Buta
+   fundamentally	fundamentally
+   remain undivided. For example: karyakaranabhava/-bhuta/-ta.	remEn undivided. FoH example: karya-kara-na-Bava/-Buta-/-ta.
+   3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in	3.4. Compound wordH wiT evam-, tat-, taTa-, para-, yaTa-, su-, sva in
+   the	Te
+   wordhead fundamentally remain undivided. For example: evamjatiya,	wos-Deat fundamentallI remEn undivided. FoH example: evamjatiya,
+   tadutpatti,	tad-utpatti,
+   tathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.	taTA-krta, paratantra, yaTarTa, yaTasvam, su-jnana-tva, sva-Bava.
+   3.5. Some compound words which are regarded as terminology remain also	3.5. Some ca-umpound wordH whiC are regardet aH terminaH-logI remEn alsaH-
+   undivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,	undivided. FoH example: agnihotra, ayoga-vyavacCeda, arTapatti, padarTa,
+   paramartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,	param-arTa, prasajya-pratiseDa, virudDa-vyaBicarin, samanantara-pratyaya,
+   samtanaparinama, samanyalaksana, svabhavapratibandha.	samtana-parinama, samanya-laksana, sva-Bava-pratibanDa.
+   4. Those terms whose wordhead is subject to the Sandhi rules (for example,	4. Tha-use termH whose wos-Deat iH subject taH Te SanDi ruleH (foH example,
+   -d	-d
+   dhetu-) are cited in their original form (for example, -d *hetu-) for the	Detu-) are citet id TeiH originan fa-Urm (foH example, -d *hetu-) foH Te
+   sake of	sake of
+   using this database to make an KWIC index.	usinc TiH database taH make an KWIC index.
+   1. August. 1997 / Tsukuba	1. AuguH-t. 1997 / Tsukuba
+   Motoi ONO	Motoi ONO
+   Note:	Note:
+   This database is quite a tentative one, and I must admit that there are a	ThiH data-base iH quite a tentative one, and I musD admit Tat Tere are a
+   lot of	lot of
+   errors and defects in this version. I would appreciate it very much if the	erroH-H and defects id TiH version. I woult ap-preciate id verI muC if Te
+   user would	useH would
+   point out any errors in this version so that we can make a better new	point oud ani errorH id TiH version saH Tat we cat make a betteH new
+   version in the	version id Te
+   future.	future.
+   E-mail: ono@logos.tsukuba.ac.jp	E-mEl: ono@loga-us.tsukuba.a-c.jp
+   00001 pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā	00001 pAratantryam hi sambanDaH sidDe kA paratantra-tA
+   00001 tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ	00001 tasmAt sarvasya BAvasya sambanDaH na asti tattvataH
+   00002 rūpa-śleṣo hi sambandho dvitve sa ca kathaṃ bhavet	00002 rUpa-SlezaH hi sambanDaH dvi-tve sa ca kaTam Bavet-
+   00002 tasmāt prakṛti-bhinnānāṃ sambandho na asti tattvataḥ	00002 tasmAt prakRti-BinnAnAm sambanDaH na asti tattvataH
+   00003 para-apekṣā hi sambandhaḥ so asan katham apekṣate	00003 para--apekzAH hi sambanDaH saH asan kaTam apekzate
+   00003 saṃś ca sarva-nirāśaṃso bhāvaḥ katham apekṣate	00003 san ca sarva-nirASaMsaH BAvaH kaTam apekzate
+   00004 dvayor eka-abhisambandhāt sambandho yadi tad-dvayoḥ	00004 dvayoH eka--aBisambanDAt sambanDaH yadi tad--dvayoH
+   00004 kaḥ sambandho anavasthā ca na sambandha-matis tathā	00004 kaH sambanDaH anavasTA ca na sambanDa-matiH taTA
+   00005 tau ca bhāvau tad-anyaś ca sarve te sva-ātmani sthitāḥ	00005 tO ca BAvO tad--anyaH ca sarve te sva-Atmani sTitAH
+   00005 ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā	00005 iti amiSrAH svayam BAvAH tAn miSrayati kalpanA
+   00006 tām eva ca anurundhānaiḥ kriyā-kāraka-vācinaḥ	00006 tAm eva ca anurunDAnEH kriyA-kAraka-vAcinaH
+   00006 bhāva-bheda-pratīty-arthaṃ saṃyojyante abhidhāyakāḥ	00006 BAva-Beda--prati-iti--arTam saMyojyante aBiDAyakAH
+   00007 kāryakāraṇabhāvo api tayor asahabhāvataḥ	00007 kArya-kAraNa-BAvaH api tayoH asahaBAvataH
+   00007 prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham	00007 prasidDyati kaTam dvizWaH advizWe sambanDa-tA kaTam
+   00008 krameṇa bhāva ekatra vartamāṇo anya-nispṛhaḥ	00008 krameNa BAvaH ekatra vartamANaH anya-nispRhaH
+   00008 tadbhāve api tad-bhāvāt sambandho na eka-vṛttimān	00008 tad-BAve api tad--BAvAt sambanDaH naH eka-vRttimAn
+   00009 yady apekṣya tayor ekam anyatra asau pravartate	00009 yadi apekzya tayoH ekam anyatra asO pravartate
+   00009 upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan	00009 upakArI hi apekzyaH syAt kaTam ca upakaroti asan
+   00010 yady eka-artha-abhisambandhāt kāryakāraṇatā tayoḥ	00010 yadi eka--arTa--aBisambanDAt kArya-kAraNa-tA tayoH
+   00010 prāptā dvitva-ādi-sambandhāt savyetara-viśāṇayoḥ	00010 prAptAH dvi-tva--Adi-sambanDAt savya-itara--viSANayoH
+   00011 dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam	00011 dvizWaH hi kaScid sambanDaH na atas anyat tasya lakzaNam
+   00011 bhāva-abhāva-upadhir yogaḥ kāryakāraṇatā yadi	00011 BAva--a-BAva--upaDiH yogaH kArya-kAraNa-tA yadi
+   00012 yoga-upādhī na tāv eva kāryakāraṇatā atra kim	00012 yoga--upADI na tO eva kArya-kAraNa-tA atra kim
+   00012 bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ	00012 BedAt ced nanu ayam SabdaH niyoktAram samASritaH
+   00013 paśyann ekam adṛṣṭasya darśane tad-adarśane	00013 paSyan ekam adRzwasya darSane tat--a-darSane
+   00013 apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ	00013 apaSyat kAryam anveti vinA vyAKyAtRBiH janaH
+   00014 darśanād adarśane muktvā kārya-buddher asambhavāt	00014 darSanAt adarSane muktvA kArya--budDeH asamBavAt-
+   00014 kārya-ādi-śrutir apy atra lāghava-arthaṃ niveśitā	00014 kArya--Adi-SrutiH api atra lAGava--arTam niveSitA
+   00015 tad-bhāva-abhāvāt tat-kārya-gatir yā apy anuvarṇyate	00015 tad--BAva--aBAvAt tat-kArya--gatiH yA api anuvarNyate
+   00015 saṃketa-viṣaya-ākhyā sā sāsnā-āder go-gatir yathā	00015 saMketa--vizaya--AKyA sA sAsnA-a-AdeH go-gatiH yaTA
+   00016 bhāve bhāvini tad-bhāvo bhāva eva ca bhāvitā	00016 BAve BAvini tad--BAvaH BAvaH eva ca BAvitA
+   00016 prasiddhe hetu-phalate pratyakṣa-anupalambhataḥ	00016 prasidDe hetu-Palate pratyakza--anupalamBataH
+   00017 etāvanmātra-tattva-arthāḥ kārya-kāraṇa-gocarāḥ	00017 etAvat-mAtra--tattva--arTAH kArya--kAraNa--gocarAH
+   00017 vikalpā darśayanty arthān mithyā-arthā ghaṭitān iva	00017 vikalpAH darSayanti arTAn miTyA-arTAH GawitAn iva
+   00018 bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā	00018 Binne kA GawanA aBinne kArya-kAraNa-tA api kA
+   00018 bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau	00018 BAve hi anyasya viSlizwO SilazwO syAtAm kaTam ca tO
+   00019 saṃyogi-samavāyya-ādi sarvam etena cintitam	00019 saMyogi--samavAyi-a-a-Adi sarvam etena cintitam
+   00019 anyonya-anupakārāc ca na sambandhī ca tādṛśaḥ	00019 anyonya-anupakArAt ca na sambanDI ca tAdRSaH
+   00020 janane api hi kāryasya kenacit samavāyinā	00020 janane api hi kAryasya kenacid samavAyinA
+   00020 samavāyī tadā na asau na tato atiprasaṅgataḥ	00020 samavAyI tadA na asO na tatas atiprasaFgataH
+   00021 tayor anupakāre api samavāye paratra vā	00021 tayoH anupakAre api samavAye paratra vA
+   00021 sambandho yadi viśvaṃ syāt samavāyi parasparam	00021 sambanDaH yadi viSvam syAt samavAyi parasparam
+   00022 saṃyoga-janane api iṣṭau tataḥ saṃyoginau na tau	00022 saMyoga--janane api izwO tatas saMyoginO na tO
+   00022 karma-ādi-yogita-āpatteḥ sthiteś ca prativarṇitā	00022 karma--Adi--yogita--ApatteH sTiteH ca prativarNitA
+   00023 saṃyoga-ādy-āśraye yogyam ayogyaṃ tac ca jāyate	00023 saMyoga-Adi--ASraye yogyam ayogyam tat ca jAyate
+   00023 nityaṃ yogya-svabhāvasya tad-vaikalya-virodhataḥ	00023 nityam yogya--svaBAvasya tat--vEkalya--viroDataH
+   00024 iti tad-yogyatā-vācyaḥ svabhāvo asya nirucyatām	00024 iti tad--yogya-tA--vAcyaH svaBAvaH asya nirucyatAm
+   00024 vibhāga-yoga-gatibhiḥ kim anyair gamana-ādibhiḥ	00024 viBAga--yoga--gatiBiH kim anyEH gamana--AdiBiH
+   00025 teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ	00025 tezu satsu api tasya iti sambanDasya aprasidDitaH
+   00025 yuktaḥ svabhāva-bhedo ayam tat pratikṣaṇa-janmanām	00025 yuktaH svaBAva--BedaH ayam tat pratikzaNa--janmanAm

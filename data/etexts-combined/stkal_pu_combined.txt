@@ -1,0 +1,691 @@
+   bhagavandevadeveśa lokanātha jagatpate /	Bagavan-devadeveSa lokanATa jagatpate /
+   mantratantraṃ tvayā proktaṃ vistarādvastusādhanam // Stk_1.1 //	mantra-tantram tvayA proktam vistarAt-vastu-sADanam // Stc-_1.1 //
+   alpāyuṣastvime martyā alpavīryālpabuddhayaḥ /	alpa-AyuzaH-tu-ime martyAH alpa-vIrya-alpabudDayaH /
+   alpasattvālpavittāśca lobhamohāsamanvitāḥ // Stk_1.2 //	alpa-sattva-alpa-vittAH-ca loBa-moha-asamanvitAH // Stc-_1.2 //
+   alpagranthaṃ mahārthaṃ ca padārthānīkasaṃkulam /	alpa-granTam mahA-arTam ca padArTa-anIka-saMkulam /
+   vaktumarhasi devaiṣāṃ prasādārthaṃ mama prabho // Stk_1.3 //	vaktum-arhasi deva-ezAm prasAda-arTam mama praBo // Stc-_1.3 //
+   athātaḥ sampravakṣyāmi śāstraṃ paramadurlabham /	aTa-atas sampravakzyAmi SAstram parama-durlaBam /
+   nāmnā tu vātulāttantrād dadhno ghṛtamivoddhṛtam // Stk_1.4 //	nAmnA tu vA-atulAt-tantrAt daDnaH GRtam-iva-udDRtam // Stc-_1.4 //
+   nādākhyaṃ yatparaṃ bījaṃ sarvabhūteṣvavasthitam /	nAda-AKyam yat-param bIjam sarva-BUtezu-avasTitam /
+   muktidaṃ paramaṃ kiṃ ca divyasiddhipradāyakam // Stk_1.5 //	mukti-dam paramam kim ca divya-sidDi-pradAyakam // Stc-_1.5 //
+   tadviditvā mahāsena deśikaḥ pāśahā bhavet /	tat-viditvA mahAsena deSikaH pASa-hA Bavet /
+   āgopālāṅganā bālā mlecchāḥ prākṛtabhāṣiṇaḥ // Stk_1.6 //	AgopAla-aFganAH bAlAH mlecCAH prAkRta-BAziNaH // Stc-_1.6 //
+   antarjalagatāḥ sattvāste api nityaṃ bruvanti tam /	antar-jala-gatAH sattvAH-te api nityam bruvanti tam /
+   sthūlaṃ sūkṣmaṃ paraṃ jñātvā karma kuryādyathepsitam // Stk_1.7 //	sTUlam sUkzmam param jQAtvA karma kuryAt-yaTA-Ipsitam // Stc-_1.7 //
+   sthūlaṃ śabda iti proktaṃ sūkṣmaṃ cintāmayaṃ bhavet /	sTUlam SabdaH iti proktam sUkzmam cintA-mayam Bavet /
+   cintayā rahitaṃ yattu tatparaṃ parikīrtitam // Stk_1.8 //	cintayA rahitam yat-tu tat-param parikIrtitam // Stc-_1.8 //
+   sāntaṃ sarvagataṃ śūnyaṃ mātrādvādaśake sthitam /	sa-antam sarva-gatam SUnyam mAtrA-dvAdaSake sTitam /
+   brahmāṇi hrasvāḥ proktāni dīrghā hyaṅgāni ṣaṇmukha // Stk_1.9 //	brahmANi hrasvAH proktAni dIrGAH hi-aFgAni zaNmuKaH // Stc-_1.9 //
+   anusvāro bhavennetraṃ sarveṣāṃ copari sthitaḥ /	anusvAraH Bavet-netram sarvezAm ca-upari sTitaH /
+   savisargaṃ bhavedastram anusvāravivarjitam // Stk_1.10 //	sa-visargam Bavet-astram anusvAra-vivarjitam // Stc-_1.10 //
+   ṣaṣṭhaṃ trayodaśāntaṃ ca pañcame viniyojayet /	zazWam trayodaSa-antam ca paQcame viniyojayet /
+   śivaṃ tattu vijānīyān mantramūrtiṃ sadāśivam // Stk_1.11 //	Sivam tat-tu vijAnIyAt mantra-mUrtim sadASivam // Stc-_1.11 //
+   ṣaṣṭhamasya dvitīyaṃ tu caturthādyena saṃyutam /	zazWam-asya dvitIyam tu caturTa-Adyena saMyutam /
+   dvitīyātpañcamāccaiva ādimaṃ yojayetpunaḥ // Stk_1.12 //	dvitIyAt-paQcamAt-ca-eva Adimam yojayet-punar // Stc-_1.12 //
+   hanti vighnāñśivāstreṇa śikhayā muktidaṃ smṛtam /	hanti viGnAn-Siva-astreNa SiKayA mukti-dam smRtam /
+   etatpāśupataṃ divyaṃ sarvapāśanikṛntanam // Stk_1.13 //	etat-pASupatam divyam sarva-pASa-nikRntanam // Stc-_1.13 //
+   brahmāṇi ca śivaṃ sāṅgaṃ netraṃ pāśupataṃ ca yat /	brahmANi ca Sivam sAFgam netram pASupatam ca yat /
+   samāsātkathitaḥ sarvo mantroddhārastvayaṃ śubhaḥ // Stk_1.14 //	samAsAt-kaTitaH sarvaH mantra-udDAraH-tu-ayam SuBaH // Stc-_1.14 //
+   asya mudrāṃ pravakṣyāmi sādhakānāṃ hitāya vai /	asya mudrAm pravakzyAmi sADakAnAm hitAya vE /
+   hastābhyāṃ saṃspṛśetpādād ūrdhvaṃ yāvattu mastakam // Stk_1.15 //	hastAByAm saMspRSet-pAdAt UrDvam yAvat-tu mastakam // Stc-_1.15 //
+   eṣā mudrā mahāmudrā sarvakāmārthasādhikā /	ezA mudrA mahAmudrA sarva-kAma-arTa-sADikAH /
+   karanyāsaṃ purā kṛtvā mudrābandhaṃ tu kārayet // Stk_1.16 //	karanyAsam purA kRtvA mudrA-banDam tu kArayet // Stc-_1.16 //
+   talikāṃ hastapṛṣṭhaṃ ca astrabījena śodhayet /	talikAm hasta-pRzWam ca astra-bIjena SoDayet /
+   kaniṣṭhāmāditaḥ kṛtvā aṅguṣṭhaṃ cāpyapaścimam // Stk_1.17 //	kanizWAm-Aditas kRtvA aFguzWam ca-api-apaScimam // Stc-_1.17 //
+   brahmāṇi vinyasettatra tathaivāṅgāni yatnataḥ /	brahmANi vinyaset-tatra taTA-eva-aFgAni yatnatas /
+   prāsādaṃ vinyasetpaścād vyāpinaṃ sarvatomukham // Stk_1.18 //	prAsAdam vinyaset-paScAt vyApinam sarvatomuKam // Stc-_1.18 //
+   prathamaḥ paṭalaḥ	praTamaH pawalaH
+   antaḥkaraṇavinyāso bhūtaśuddhistathaiva ca /	antaHkaraNa-vinyAsaH BUtaSudDiH-taTA-eva ca /
+   bhūtaśuddhiṃ purā kṛtvā tato 'ntaḥkaraṇaṃ kuru // Stk_2.1 //	BUtaSudDim purA kRtvA tatas antaHkaraNam kuru // Stc-_2.1 //
+   hṛdbījaṃ pārthive yuktaṃ pārthivīṃ dhārayetkramāt /	hRd-bIjam pArTive yuktam pArTivIm DArayet-kramAt /
+   śiro 'psu tejasi śikhāṃ kavacaṃ vāyunā saha // Stk_2.2 //	SiraH apsu tejasi SiKAm kavacam vAyunA saha // Stc-_2.2 //
+   astraṃ ca śivasaṃyuktam ākāśaṃ dhārayetsadā /	astram ca Siva-saMyuktam AkASam DArayet-sadA /
+   huṃphaḍantena paṭalaṃ bhittvā cordhvaṃ viśeṣataḥ // Stk_2.3 //	huMPaw-antena pawalam BittvA ca-UrDvam viSezataH // Stc-_2.3 //
+   pañcodghātāśca catvāras trayo dvāveka eva ca /	paQca-udGAtAH-ca catvAraH trayaH dvO=-ekaH eva ca /
+   dvādaśānte nirālambaṃ vijñānaṃ kevalaṃ sthitam // Stk_2.4 //	dvAdaSAnte nirAlambam vijQAnam kevalam sTitam // Stc-_2.4 //
+   dīkṣāyāṃ tu yathā vatsa tatprayogaṃ samācaret /	dIkzAyAm tu yaTA vatsa tad-prayogam samAcaret /
+   prakriyāntasthamamṛtaṃ sravantaṃ cintayettataḥ // Stk_2.5 //	prakriyA-anta-sTam-amRtam sravantam cintayet-tatas // Stc-_2.5 //
+   omityanena kamalaṃ yogapīṭhaṃ tadā bhavet /	om-iti-anena kamalam yoga-pIWam tadA Bavet /
+   sūryamaṇḍalasaṃkāśam akāraṃ hyātmasambhavam // Stk_2.6 //	sUrya-maNxala-saMkASam akAram hi-Atma-samBavam // Stc-_2.6 //
+   vidyātattvamukāraṃ tu śivatattvaṃ makārajam /	vidyA-tattva-mukAram tu Siva-tattvam makAra-jam /
+   puryaṣṭakaṃ ca tanmātraṃ turyātītaṃ sadāśivam // Stk_2.7 //	puryazwakam ca tanmAtram turyAtItam sadASivam // Stc-_2.7 //
+   cintayetparamaṃ dhāma suṣumnābhinnamastakam /	cintayet-paramam DAma suzumnA-aBinna-mastakam /
+   tenāplāvitamātmānaṃ paripūrṇaṃ vicintayet // Stk_2.8 //	tena-AplAvitam-AtmAnam paripUrNam vicintayet // Stc-_2.8 //
+   yo 'bhasedīdṛśaṃ martyaḥ samādhiṃ mṛtyunāśanam /	yaH aBaset-IdRSam martyaH samADim mRtyu-nASanam /
+   na tasya jāyate mṛtyur iti śāstrasya niścayaḥ // Stk_2.9 //	na tasya jAyate mRtyuH iti SAstrasya niScayaH // Stc-_2.9 //
+   paścādguroḥ sādhakānāṃ mūrtestu grahaṇaṃ bhavet /	paScAt-guroH sADakAnAm mUrteH-tu grahaNam Bavet /
+   īśānādyāstu sadyāntaṃ mūrdhna ārabhya vinyaset // Stk_2.10 //	ISAna-AdyAH-tu sadyAntam mUrDnaH AraBya vinyaset // Stc-_2.10 //
+   netraṃ dattvā tadāvāhyo devadevaḥ sadāśivaḥ /	netram dattvA tadA-avAhyaH devadevaH sadASivaH /
+   sarvajñaṃ ca tadātmānaṃ cintayettu vicakṣaṇaḥ // Stk_2.11 //	sarvajQam ca tadA-AtmAnam cintayet-tu vicakzaNaH // Stc-_2.11 //
+   hṛdayaṃ ca śiraścaiva śikhāṃ kavacameva ca /	hRdayam ca SiraH-ca-eva SiKAm kavacam-eva ca /
+   nyasedastraṃ ca mantrajño yathāsthāneṣvanukramāt // Stk_2.12 //	nyaset-astram ca mantra-jQaH yaTA-sTAnezu-anukramAt // Stc-_2.12 //
+   hṛdaye 'rcāvidhānaṃ tu nābhau homaṃ prakalpayet /	hRdaye arcA-viDAnam tu nABO homam prakalpayet /
+   lalāṭe tvīśvaraṃ dhyāyed varadaṃ sarvatomukham // Stk_2.13 //	lalAwe tu-ISvaram DyAyet vara-dam sarvatomuKam // Stc-_2.13 //
+   yathārcane tathāgnau ca dhyāne snāne tathaiva ca /	yaTA-arcane taTA-agnO ca DyAne snAne taTA-eva ca /
+   yathā deve tathā dehe cintayettu vicakṣaṇaḥ // Stk_2.14 //	yaTA deve taTA dehe cintayet-tu vicakzaNaH // Stc-_2.14 //
+   kṛtvāntaḥkaraṇaṃ hyevaṃ paścādbāhyaṃ tu ṣaṇmukha /	kRtvA-antaHkaraNam hi-evam paScAt-bAhyam tu zaNmuKaH /
+   sabāhyantaraṃ kṛtvā paścādyajanamārabhet // Stk_2.15 //	sa-bAhyantaram kRtvA paScAt-yajanam-AraBet // Stc-_2.15 //
+   antaḥkaraṇavinyāsapaṭalaḥ	antaHkaraNa-vinyAsa-pawalaH
+   iti dvitīyaḥ paṭalaḥ	iti dvitIyaH pawalaH
+   ataḥ paraṃ pravakṣyāmi snānaṃ pāpaharaṃ śubham /	atas param pravakzyAmi snAnam pApa-haram SuBam /
+   sakṛjjaptena saṃgṛhya mṛdā astreṇa mantravit // Stk_3.1 //	sakRt-japtena saMgRhya mRdA astreNa mantra-vid // Stc-_3.1 //
+   malasnānaṃ purā kṛtvā sakṛjjaptvā tu saṃhitām /	mala-snAnam purA kRtvA sakRt-japtvA tu saMhitAm /
+   tāmeva mṛttikāṃ paścād abhimantrya sakṛtsakṛt // Stk_3.2 //	tAm-eva mRttikAm paScAt aBimantrya sakRt-sakRt // Stc-_3.2 //
+   bhāgatrayaṃ tataḥ kṛtvā ekamastreṇa mantrayet /	BAga-trayam tatas kRtvA ekam-astreNa mantrayet /
+   dvitīyaṃ brahmabhirvatsa śivajaptaṃ tṛtīyakam // Stk_3.3 //	dvitIyam brahmaBiH-vatsa Siva-japtam tRtIyakam // Stc-_3.3 //
+   astrajaptena bhāgena diśāṃ bandhaṃ tu kārayet /	astra-japtena BAgena diSAm banDam tu kArayet /
+   śivajaptena tīrthaṃ tu brahmajaptena vigraham // Stk_3.4 //	Siva-japtena tIrTam tu brahma-japtena vigraham // Stc-_3.4 //
+   kuṇṭhayitvā tataḥ snāyāc chivatīrthasya madhyataḥ /	kuNWayitvA tatas snAyAt Siva-tIrTasya maDyatas /
+   cakravatyupacāreṇa sugandhāmalakādibhiḥ // Stk_3.5 //	cakravatI-upacAreNa suganDa-Amalaka-AdiBiH // Stc-_3.5 //
+   upaspṛśya vidhānena saṃdhyāṃ vandeta sādhakaḥ /	upaspRSya viDAnena saMDyAm vandeta sADakaH /
+   mantraiḥ sarvaiḥ sakṛdvatsa upasthānaṃ tu kārayet // Stk_3.6 //	mantrEH sarvEH sakRt-vatsaH upasTAnam tu kArayet // Stc-_3.6 //
+   abhiṣekaṃ purā kṛtvā tataḥ saṃdhyāṃ samācaret /	aBizekam purA kRtvA tatas saMDyAm samAcaret /
+   astraṃ na yojayeddehe kṣipettadbahireva ca // Stk_3.7 //	astram na yojayet-dehe kzipet-tat-bahis-eva ca // Stc-_3.7 //
+   śarīraṃ śoṣayedvatsa tenātmani na yojayet /	SarIram Sozayet-vatsa tena-Atmani na yojayet /
+   vighneṣu pāśajāleṣu sadā yojyaṃ vicakṣaṇaiḥ // Stk_3.8 //	viGnezu pASa-jAlezu sadA yojyam vicakzaNEH // Stc-_3.8 //
+   hṛdayena tato vidvān pitṛdevāṃśca tarpayet /	hRdayena tatas vidvAn pitR-devAn=-ca tarpayet /
+   saṃhāraṃ tasya tīrthasya prāsādenaiva kārayet // Stk_3.9 //	saMhAram tasya tIrTasya prAsAdena-eva kArayet // Stc-_3.9 //
+   vāruṇasnānaprakaraṇam iti tṛtīyaḥ paṭalaḥ	vAruNa-snAna-prakaraNam iti tRtIyaH pawalaH
+   bhasmasnānaṃ pravakṣyāmi tadūrdhvaṃ ca ṣaḍānana /	Basma-snAnam pravakzyAmi tad-UrDvam ca zaxAnanaH /
+   mantraiḥ sarvaiḥ sakṛdbhasma abhimantrya yathākramam // Stk_4.1 //	mantrEH sarvEH sakRt-Basma aBimantrya yaTAkramam // Stc-_4.1 //
+   jalasnānaṃ purā kṛtvā astrabījena ṣaṇmukha /	jala-snAnam purA kRtvA astra-bIjena zaNmuKaH /
+   vidhisnānaṃ tataḥ kuryān mūrdhna ārabhya mantravit // Stk_4.2 //	viDi-snAnam tatas kuryAt mUrDnaH AraBya mantra-vid // Stc-_4.2 //
+   īśānena śiraḥ snāyān mukhaṃ tatpuruṣeṇa tu /	ISAnena SiraH snAyAt muKam tatpuruzeNa tu /
+   hṛdayaṃ bahurūpeṇa guhyaṃ vai guhyakena tu // Stk_4.3 //	hRdayam bahu-rUpeNa guhyam vE guhyakena tu // Stc-_4.3 //
+   sarvāṅgāṇi tvajātena abhiṣekaṃ tu pañcabhiḥ /	sarva-aFgANi tu-ajAtena aBizekam tu paQcaBiH /
+   upariṣṭātprasādena snānaṃ kurvīta ṣaṇmukha // Stk_4.4 //	uparizwAt-prasAdena snAnam kurvIta zaNmuKaH // Stc-_4.4 //
+   bhasmasnānaprakaraṇam	Basma-snAna-prakaraNam
+   iti caturthaḥ paṭalaḥ	iti caturTaH pawalaH
+   yajanaṃ saṃpravakṣyāmi yathāvidhyanupūrvaśaḥ /	yajanam saMpravakzyAmi yaTAviDi-anupUrvaSas /
+   bījāṅkuraṃ purā śaktyā paścādānantamāsanam // Stk_5.1 //	bIja-aFkuram purA SaktyA paScAt-Anantam-Asanam // Stc-_5.1 //
+   anantaṃ cāntagaṃ kuryāt krameṇaiva ṣaḍānana /	anantam ca-antagam kuryAt krameNa-eva zaxAnanaH /
+   hṛdayaṃ karṇikā padmaṃ dharmaṃ jñānādimeva ca // Stk_5.2 //	hRdayam karNikA padmam Darmam jQAna-Adim-eva ca // Stc-_5.2 //
+   vairāgyaṃ ca tathaiśvaryam īśāntaṃ vahnito nyaset /	vErAgyam ca taTA-ESvaryam ISa-antam vahnitaH nyaset /
+   śaktibhiḥ kesaravyūhaṃ hṛdayena ca kalpayet // Stk_5.3 //	SaktiBiH kesara-vyUham hRdayena ca kalpayet // Stc-_5.3 //
+   āvāhayettato devaṃ hṛdayena tu ṣaṇmukha /	AvAhayet-tatas devam hRdayena tu zaNmuKaH /
+   sthāpanaṃ pādyamarghyaṃ ca tathācamanameva ca // Stk_5.4 //	sTApanam pAdyam-arGyam ca taTA-Acamanam-eva ca // Stc-_5.4 //
+   snapanaṃ pūjanaṃ caiva hṛdayena tu kārayet /	snapanam pUjanam ca-eva hRdayena tu kArayet /
+   uktānuktaṃ ca yatkiñcit tatsarvaṃ hṛdayena tu // Stk_5.5 //	ukta-anuktam ca yat-kiQcit tat-sarvam hRdayena tu // Stc-_5.5 //
+   ekāvaraṇametattu sarvakāmārthasādhanam /	eka-AvaraNam-etat-tu sarva-kAma-arTa-sADanam /
+   sarvatantreṣu sāmānyaṃ sarvajñāneṣu cottamam // Stk_5.6 //	sarva-tantrezu sAmAnyam sarva-jQAnezu ca-uttamam // Stc-_5.6 //
+   yajanaprakaraṇam	yajana-prakaraNam
+   iti pañcamaḥ paṭalaḥ	iti paQcamaH pawalaH
+   ataḥ paraṃ pravakṣyāmi agnikāryavidhiṃ kramāt /	atas param pravakzyAmi agni-kArya-viDim kramAt /
+   astreṇollekhanaṃ kuryād varmaṇābhyukṣaṇaṃ tataḥ // Stk_6.1 //	astreNa-ulleKanam kuryAt varmaNA-aByukzaNam tatas // Stc-_6.1 //
+   śaktinyāsaṃ tato darbhair hṛdayenaiva kārayet /	Sakti-nyAsam tatas darBEH hRdayena-eva kArayet /
+   hṛdā vai śaktigarbhe tu prakṣipejjātavedasam // Stk_6.2 //	hRdA vE Sakti-garBe tu prakzipet-jAtavedasam // Stc-_6.2 //
+   garbhādhānādikaṃ kṛtvā niṣkṛtiṃ cāpyapaścimām /	garBADAna-Adikam kRtvA nizkRtim ca-api-apaScimAm /
+   hṛdayenaiva mantrajñaḥ sarvakarmāṇi kārayet // Stk_6.3 //	hRdayena-eva mantra-jQaH sarva-karmANi kArayet // Stc-_6.3 //
+   paścātpadmavidhānaṃ tu prāguktaṃ parikalpayet /	paScAt-padma-viDAnam tu prAk-uktam parikalpayet /
+   śivādisarvamantrāṃśca homayedanupūrvaśaḥ // Stk_6.4 //	Siva-Adi-sarva-mantrAn=-ca homayet-anupUrvaSas // Stc-_6.4 //
+   agnikāryaprakaraṇam	agni-kArya-prakaraNam
+   iti ṣaṣṭhaḥ paṭalaḥ	iti zazWaH pawalaH
+   ataḥ paraṃ pravakṣyāmi maṇḍalaṃ sārvakāmikam /	atas param pravakzyAmi maNxalam sArvakAmikam /
+   bhūmiśodhanaṃ kṛtvā śāstradṛṣṭena karmaṇā // Stk_7.1 //	BUmi-SoDanam kRtvA SAstra-dRzwena karmaNA // Stc-_7.1 //
+   adhivāsaṃ tataḥ kṛtvā nakṣatre guruṇānvite /	aDivAsam tatas kRtvA nakzatre guruNA-anvite /
+   ālikhenmaṇḍalaṃ prājñaḥ sarvasiddhipradaṃ śubham // Stk_7.2 //	AliKet-maNxalam prAjQaH sarva-sidDi-pradam SuBam // Stc-_7.2 //
+   sūtreṇa sumitaṃ kṛtvā caturaśraṃ samantataḥ /	sUtreNa sumitam kRtvA caturaSram samantataH /
+   madhye padmaṃ pratiṣṭhāpyam aṣṭapatra sakarṇikam // Stk_7.3 //	maDye padmam pratizWApyam azwapatra sa-karNikam // Stc-_7.3 //
+   ekahastaṃ dvihastaṃ vā caturhastamathāpi vā /	eka-hastam dvi-hastam vA catur-hastam-aTa-api vA /
+   svatantravihitaṃ prājño likhedāvaraṇatrayam // Stk_7.4 //	svatantra-vihitam prAjQaH liKet-AvaraNa-trayam // Stc-_7.4 //
+   vāhayetpaścimadvāram ācāryaḥ susamāhitaḥ /	vAhayet-paScima-dvAram AcAryaH su-samAhitaH /
+   āgneyyāṃ kārayetkuṇḍaṃ hastamātrapramāṇataḥ // Stk_7.5 //	AgneyyAm kArayet-kuNxam hasta-mAtra-pramANataH // Stc-_7.5 //
+   yajñakarmavidhiṃ kuryāt susamiddhe hutāśane /	yajQa-karma-viDim kuryAt su-samidDe hutASane /
+   pūrvādārabhya vaktrādīn vinyasedanupūrvaśaḥ // Stk_7.6 //	pUrvAt-AraBya vaktra-AdIn vinyaset-anupUrvaSas // Stc-_7.6 //
+   pavitrāṇi purā nyasya śivāṅgāni nyasettataḥ /	pavitrANi purA nyasya Siva-aFgAni nyaset-tatas /
+   āgneyyāṃ hṛdayaṃ nyasya aiśānyāṃ tu śirastathā // Stk_7.7 //	AgneyyAm hRdayam nyasya ESAnyAm tu SiraH-taTA // Stc-_7.7 //
+   nairṛtyāṃ tu śikhā jñeyā kavacaṃ vāyugocare /	nErRtyAm tu SiKA jQeyA kavacam vAyu-gocare /
+   astra dikṣvatha vinyasya karṇikāyāṃ sadāśivam // Stk_7.8 //	astra dikzu-aTa vinyasya karNikAyAm sadASivam // Stc-_7.8 //
+   garbhanyāsavidhiḥ prokto dvitīyāvaraṇe śṛṇu /	garBanyAsa-viDiH proktaH dvitIya-AvaraNe SRNu /
+   hṛdā pūrvaṃ samārabhya lokapālānprapūjayet // Stk_7.9 //	hRdA pUrvam samAraBya lokapAlAn-prapUjayet // Stc-_7.9 //
+   [tṛtīyāvaraṇe 'strāṇi svamantreṇa prapūjayet|]	[tRtIya-AvaraNe astrANi sva-mantreNa prapUjayet|]
+   saṃkṣepeṇa mayā skanda vidhānaṃ parikīrtitam // Stk_7.10 //	saMkzepeNa mayA skanda viDAnam parikIrtitam // Stc-_7.10 //
+   anuktaṃ yadbhavetkiṃcit tatsarvaṃ mūlamāśrayet /	anuktam yat-Bavet-kiMcid tat-sarvam mUlam-ASrayet /
+   evaṃ vidhividhānajño dīkṣākarma samācaret // Stk_7.11 //	evam viDi-viDAna-jQaH dIkzA-akarma samAcaret // Stc-_7.11 //
+   maṇḍalavidhānaprakaraṇam	maNxala-viDAna-prakaraNam
+   iti sapatamaḥ paṭalaḥ	iti sapatamaH pawalaH
+   atha dīkṣāṃ pravakṣyāmi pañcatattvavyavasthitām /	aTa dIkzAm pravakzyAmi paQcatattva-vyavasTitAm /
+   pṛthivyāpastathā tejo vāyurākāśameva ca // Stk_8.1 //	pRTivI-ApaH-taTA tejaH vAyuH-AkASam-eva ca // Stc-_8.1 //
+   pañcaitāni ca tattvāni yairvyāptamakhilaṃ jagat /	paQca-etAni ca tattvAni yEH-vyAptam-aKilam jagat /
+   sarvatattvāni tatraiva draṣṭavyāni tu sādhakaiḥ // Stk_8.2 //	sarva-tattvAni tatra-eva drazwavyAni tu sADakEH // Stc-_8.2 //
+   brahmāṇḍe tu nivṛttirvai śatarudrāvadhistathā /	brahmANxe tu nivRttiH-vE Sata-rudra-avaDiH-taTA /
+   tadūrdhvaṃ tu pratiṣṭhā syād yāvadavyaktagocaram // Stk_8.3 //	tad-UrDvam tu pratizWA syAt yAvat-avyakta-gocaram // Stc-_8.3 //
+   tato vidyā niyuktā sā yāvadvidyeśvarāntikam /	tatas vidyA niyuktA sA yAvat-vidyeSvara-antikam /
+   śāntistadūrdhvamadhvānte śaktireva śive pade // Stk_8.4 //	SAntiH-tad-UrDvam-aDva-ante SaktiH-eva Sive pade // Stc-_8.4 //
+   ajñātvaitāni tattvāni yo dīkṣāṃ kartumicchati /	ajQAtvA-etAni tattvAni yaH dIkzAm kartum-icCati /
+   vṛthā pariśramastasya naiva tatphalamāpnuyāt // Stk_8.5 //	vRTA pariSramaH-tasya na-eva tad-Palam-ApnuyAt // Stc-_8.5 //
+   nivṛttiḥ pṛthivī jñeyā pratiṣṭhā āpa ucyate /	nivRttiH pRTivI jQeyA pratizWA ApaH ucyate /
+   vidyāṃ tejo vijānīyād vāyuḥ śāntiḥ prakīrtitaḥ // Stk_8.6 //	vidyAm tejaH vijAnIyAt vAyuH SAntiH prakIrtitaH // Stc-_8.6 //
+   śāntyatītā bhavedvyoma tatparaṃ śāntamavyayam /	SAnti-atItA Bavet-vyoma tat-param SAntam-avyayam /
+   taṃ viditvā mahāsena śvapacānapi dīkṣayet // Stk_8.7 //	tam viditvA mahAsena SvapacAn-api dIkzayet // Stc-_8.7 //
+   nivṛttiṃ hṛdayenaiva pratiṣṭhāṃ śirasā guruḥ /	nivRttim hRdayena-eva pratizWAm SirasA guruH /
+   śivo vidyāṃ tu śikhayā śāntiṃ vai kavacena tu // Stk_8.8 //	SivaH vidyAm tu SiKayA SAntim vE kavacena tu // Stc-_8.8 //
+   śāntyatītaṃ paraṃ vyoma prāsādena tu homayet /	SAnti-atItam param vyoma prAsAdena tu homayet /
+   ekaikasya śataṃ homyam ityevaṃ pañca homayet // Stk_8.9 //	ekEkasya Satam homyam iti-evam paQca homayet // Stc-_8.9 //
+   pañcapūrṇāhutīrdadyāt prāsādena tu ṣaṇmukha /	paQca-pUrNAhutIH-dadyAt prAsAdena tu zaNmuKaH /
+   prāyaścittaviśuddhyartham aṣṭāvekaikayāhutīḥ // Stk_8.10 //	prAyaScitta-viSudDi-arTam azwO=-eka-ekayA-AhutIH // Stc-_8.10 //
+   astrabījena mantrajño homayedanupūrvaśaḥ /	astra-bIjena mantra-jQaH homayet-anupUrvaSas /
+   evaṃ samāpyate dīkṣā jananādivivarjitā // Stk_8.11 //	evam samApyate dIkzA janana-Adi-vivarjitAH // Stc-_8.11 //
+   hutenaiva tu mucyante sādhakā janmabandhanāt /	hutena-eva tu mucyante sADakAH janma-banDanAt /
+   iyamiṣṭirna prakāśyā gopanīyā prayatnataḥ // Stk_8.12 //	iyam-izwiH-na prakASyAH gopanIyA prayatnataH // Stc-_8.12 //
+   rahasyaṃ sarvatantrāṇām eṣa saṃskāra uttamaḥ /	rahasyam sarva-tantrANAm eza saMskAraH uttamaH /
+   yoninyāsādikaṃ karmod- dhāraṇaṃ cāpyapaścimam // Stk_8.13 //	yoni-nyAsa-Adikam karma-ud DAraNam ca-api-apaScimam // Stc-_8.13 //
+   śodhanānukramaṃ deva kathayasva yathāvidhi /	SoDana-anukramam deva kaTayasva yaTAviDi /
+   daśa sapta ca ye śodhyāḥ pṛṣṭāścātra tvayā guha // Stk_8.14 //	daSa sapta ca ye SoDyAH pRzwAH-ca-atra tvayA guhaH // Stc-_8.14 //
+   yasya yadbījamuktaṃ tu tadvakṣyāmyanupūrvaśaḥ /	yasya yat-bIjam-uktam tu tat-vakzyAmi-anupUrvaSas /
+   yonibījaṃ tu hṛdaye kalpayecca yathākramam // Stk_8.15 //	yoni-bIjam tu hRdaye kalpayet-ca yaTAkramam // Stc-_8.15 //
+   arcanaṃ prokṣaṇaṃ caiva tāḍanaṃ ca tathā param /	arcanam prokzaNam ca-eva tAxanam ca taTA param /
+   saṃdhānaṃ caiva saṃyogaṃ nikṣepaṃ tadanantaram // Stk_8.16 //	saMDAnam ca-eva saMyogam nikzepam tad-anantaram // Stc-_8.16 //
+   arcanaṃ ca tataḥ kuryād garbhādhānaṃ tathaiva ca /	arcanam ca tatas kuryAt garBADAnam taTA-eva ca /
+   jananaṃ cādhikāraṃ ca bhogaṃ caiva layaṃ tathā // Stk_8.17 //	jananam ca-aDikAram ca Bogam ca-eva layam taTA // Stc-_8.17 //
+   svatattve cāhutiśataṃ hṛdayena tu ṣaṇmukha /	sva-tattve ca-Ahuti-Satam hRdayena tu zaNmuKaH /
+   pāśacchedaṃ tathāstreṇa dadyātpūrṇāhutiṃ tataḥ // Stk_8.18 //	pASa=-Cedam taTA-astreNa dadyAt-pUrNAhutim tatas // Stc-_8.18 //
+   hṛdayenātra tūddhāraḥ kartavyaścāpyanukramāt /	hRdayena-atra tu-udDAraH kartavyaH-ca-api-anukramAt /
+   uddhāre prokṣaṇe caiva tāḍane ca tathaiva ca // Stk_8.19 //	udDAre prokzaNe ca-eva tAxane ca taTA-eva ca // Stc-_8.19 //
+   humphaṭkārasamāyuktaṃ kartavyaṃ cānupūrvaśaḥ /	humPawkAra-samAyuktam kartavyam ca-anupUrvaSas /
+   saṃdhānaṃ caiva tattvānāṃ kartavyaṃ tu yathākramam // Stk_8.20 //	saMDAnam ca-eva tattvAnAm kartavyam tu yaTAkramam // Stc-_8.20 //
+   tattve tattve tvidaṃ karma eṣa eva vidhikramaḥ /	tattve tattve tu-idam karma ezaH eva viDi-kramaH /
+   ebhistu śodhitairvatsa vidhiṃ prāpnoti puṣkalam // Stk_8.21 //	eBiH-tu SoDitEH-vatsa viDim prApnoti puzkalam // Stc-_8.21 //
+   anyathā naiva mucyante vidhihīnāḥ ṣaḍānana /	anyaTA na-eva mucyante viDi-hInAH zaxAnanaH /
+   pūrṇāhutipradānaṃ ca kartavyaṃ dhāraṇāyutam // Stk_8.22 //	pUrNAhuti-pradAnam ca kartavyam DAraNA-yutam // Stc-_8.22 //
+   amṛtaṃ yatparaṃ vatsa sravantaṃ manasā smaret /	amRtam yat-param vatsa sravantam manasA smaret /
+   dīkṣāprakaraṇe hyetad yojyaṃ sarvatra sarvadā // Stk_8.23 //	dIkzA-prakaraNe hi-etat yojyam sarvatra sarvadA // Stc-_8.23 //
+   liṅgoddhāravidhāne ca nityasaṃskārakarmasu /	liFga-udDAra-viDAne ca nitya-saMskAra-karmasu /
+   paśorgrahaṇamokṣaṃ tu yattvayoktaṃ purānagha // Stk_8.24 //	paSoH-grahaNa-mokzam tu yat-tvayA-uktam purA-anaGaH // Stc-_8.24 //
+   pāśā ābhyantarā bāhyāḥ kamsinsthāne kathaṃ sthitāḥ /	pASAH AByantarAH bAhyAH kamsin-sTAne kaTam sTitAH /
+   kasminsthāne tu vicchedyāḥ sadya utkramaṇaṃ katham // Stk_8.25 //	kasmin-sTAne tu vicCedyAH sadyas utkramaNam kaTam // Stc-_8.25 //
+   paśūnāṃ caiva nirdeśaṃ kathayasva maheśvara /	paSUnAm ca-eva nirdeSam kaTayasva maheSvaraH /
+   ādimasya dvitīyena gṛhītvātmānamātmanā // Stk_8.26 //	Adimasya dvitIyena gRhItvA-AtmAnam-AtmanA // Stc-_8.26 //
+   muṣṭinā yāvatsthānaṃ tan nayettaṃ suvicakṣaṇaḥ /	muzwinA yAvat-sTAnam tat nayet-tam su-vicakzaNaH /
+   viṣuvatsamprayogeṇa brahmādyāste śivāntakāḥ // Stk_8.27 //	vizuvat-samprayogeNa brahma-AdyAH-te Siva-antakAH // Stc-_8.27 //
+   ekatra samatāṃ yānti anyathā tu pṛthakpṛthak /	ekatra sama-tAm yAnti anyaTA tu pRTak-pRTak /
+   dvādaśānte tu te cchedyāḥ śareṇāstreṇa saṃyutāḥ // Stk_8.28 //	dvAdaSAnte tu te cCedyAH SareNa-astreNa saMyutAH // Stc-_8.28 //
+   tadā sāyujyatāṃ yānti samayaiḥ parivarjitāḥ /	tadA sAyujya-tAm yAnti samayEH parivarjitAH /
+   anirdiṣṭamasaṃjñaṃ ca yatkṛtaṃ tadvṛthā bhavet // Stk_8.29 //	anirdizwam-asaMjQam ca yat-kRtam tat-vRTA Bavet // Stc-_8.29 //
+   tamuddiśya kṛtaṃ karma mokṣadaṃ tanna saṃśayaḥ /	tam-uddiSya kRtam karma mokza-dam tat-na saMSayaH /
+   sūryasya grahaṇe vatsa viṣuvadyogasaṃyutam // Stk_8.30 //	sUryasya grahaNe vatsa vizuvat-yoga-saMyutam // Stc-_8.30 //
+   āyāmānte yadā cchinnaṃ tadā cotkramate dhruvam /	AyAma-ante yadA cCinnam tadA ca-utkramate Druvam /
+   manasi grathitāḥ pāśāḥ sūtre maṇigaṇā iva // Stk_8.31 //	manasi graTitAH pASAH sUtre maNi-gaNAH iva // Stc-_8.31 //
+   hṛtpadmādyāvattatpadmaṃ manastantuvitānitam /	hRd-padmAt-yAvat-tat-padmam manaH-tantu-vitAnitam /
+   taddṛṣṭvā chedanaṃ kuryān manovṛttyā manaścchidā // Stk_8.32 //	tat-dRzwvA Cedanam kuryAt manaH-vRttyA manaS=-CidA // Stc-_8.32 //
+   manasā manasi cchinne jīvaḥ kevalatāṃ vrajet /	manasA manasi cCinne jIvaH kevala-tAm vrajet /
+   vistaraṃ tyaja deveśa saṃkṣepātkathayasva me // Stk_8.33 //	vistaram tyaja deveSa saMkzepAt-kaTayasva me // Stc-_8.33 //
+   yena vijñātamātreṇa paśūnmocayate kṣaṇāt /	yena vijQAta-mAtreNa paSUn-mocayate kzaNAt /
+   vijñātamātreṇa] conj; vijñānamātreṇa Bhatt	vijQAta-mAtreNa] ca-unj; vijQAna-mAtreNa Bhatt
+   śṛṇu ṣaṇmukha tattvena yena mokṣo dhruvaṃ bhavet // Stk_8.34 //	SRNu zaNmuKa tattvena yena mokzaH Druvam Bavet // Stc-_8.34 //
+   prayogeṇātisūkṣmeṇa yogadṛṣṭena mantravit /	prayogeNa-ati-sUkzmeNa yoga-dRzwena mantra-vid /
+   divyena yogamārgeṇa śaktiṃ yaḥ prerayettu tām // Stk_8.35 //	divyena yoga-mArgeNa Saktim yaH prerayet-tu tAm // Stc-_8.35 //
+   taṃ viditvā mahāsena jīvaṃ prāṇamayaṃ budhaḥ /	tam viditvA mahAsena jIvam prANa-mayam buDaH /
+   viṣuvatsamprayogeṇa yojayecchāśvate pade // Stk_8.36 //	vizuvat-samprayogeNa yojayet-SASvate pade // Stc-_8.36 //
+   yogaṃ tu viṣuvaṃ prāpya ko na mucyeta bandhanāt /	yogam tu vizuvam prApya kaH na mucyeta banDanAt /
+   pṛthivyādyabjanāḍīrvai śabdādiguṇavāyubhiḥ // Stk_8.37 //	pRTivI-Adi-abja-nAxIH-vE Sabda-Adi-guNa-vAyuBiH // Stc-_8.37 //
+   ātmādhidevatā mantrāñ jñātvā muktastu mocayet /	Atma-aDidevatA mantrAn jQAtvA muktaH-tu mocayet /
+   nāḍīvivarasambandhā ūrdhvanālā hyadhomukhāḥ // Stk_8.38 //	nAxI-vivara-sambanDAH UrDvanAlAH hi-aDomuKAH // Stc-_8.38 //
+   granthidvayayutāḥ sarve humphaḍantena yojitāḥ /	granTi-dvaya-yutAH sarve humPaxantena yojitAH /
+   tataścordhvatvamāyānti udghātaiḥ pūrvavadguha // Stk_8.39 //	tatas-ca-UrDva-tvam-AyAnti udGAtEH pUrvavat-guha // Stc-_8.39 //
+   kṣmādyānālokya manasā sabāhyābhyantaraṃ punaḥ /	kzmA-AdyAn-Alokya manasA sa-bAhya-aByantaram punar /
+   tattve tattve niyoktavyā viyuktā nirahaṃkṛtā // Stk_8.40 //	tattve tattve niyoktavyA viyuktA nirahaMkRtAH // Stc-_8.40 //
+   brahmādyāñśrāvayedvatsa na punarjanmatāṃ vrajet /	brahma-AdyAn-SrAvayet-vatsa na punar-janma-tAm vrajet /
+   tejaśceto dvirabhyasya āyāmo bhāskarasya tu // Stk_8.41 //	tejaH-cetaH dvis-aByasya AyAmaH BAskarasya tu // Stc-_8.41 //
+   tāḍayitvā purā vatsa grahaṇaṃ pūrvavadbhavet /	tAxayitvA purA vatsa grahaNam pUrvavat-Bavet /
+   bhittvārgalāṃ nyasedyoniṃ tattvaṃ tattvena saṃdhayet /	BittvA-argalAm nyaset-yonim tattvam tattvena saMDayet /
+   śaktibhiḥ sampuṭīkṛtya vauṣaḍantena nikṣipet // Stk_8.42 //	SaktiBiH sampuwIkRtya vOzaw-antena nikzipet // Stc-_8.42 //
+   dīkṣāprakaraṇam aṣṭamam	dIkzA-prakaraNam azwamam
+   abhiṣekaṃ pravakṣyāmi saṃkṣepānna tu vistarāt /	aBizekam pravakzyAmi saMkzepAt-na tu vistarAt /
+   hitāya sādhakendrāṇāṃ parameśena bhāṣitam // Stk_9.1 //	hitAya sADaka-indrANAm parameSena BAzitam // Stc-_9.1 //
+   mṛṇmayaṃ kalaśaṃ hyekaṃ candanena vilepitam /	mRNmayam kalaSam hi-ekam candanena vilepitam /
+   brahmapatrapuṭaṃ vātha padmapatramathāpi vā // Stk_9.2 //	brahma-patra-puwam vA-aTa padma-patram-aTa-api vA // Stc-_9.2 //
+   sarvauṣadhiyutaṃ kṛtvā sarvagandhopaśobhitam /	sarva-ozaDi-yutam kRtvA sarva-ganDa-upaSoBitam /
+   śatamaṣṭottaraṃ japtvā prāsādaṃ sarvatomukham // Stk_9.3 //	Satam-azwa-uttaram japtvA prAsAdam sarvatomuKam // Stc-_9.3 //
+   yāgaṃ kṛtvā tu pūrvoktam abhiṣekaṃ tu kārayet /	yAgam kRtvA tu pUrva-uktam aBizekam tu kArayet /
+   śubhanakṣatradivase muhūrte karaṇānvite // Stk_9.4 //	SuBa-nakzatra-divase muhUrte karaNa-anvite // Stc-_9.4 //
+   bahumaṅgalanirghoṣaiḥ śaṅkhavāditraniḥsvanaiḥ /	bahu-maFgala-nirGozEH SaFKa-vAditra-niHsvanEH /
+   brahmaghoṣaiśca vividhair nṛttagītasamanvitaiḥ /	brahmaGozEH-ca viviDEH nRtta-gIta-samanvitEH /
+   anujñāto 'bhiṣiktaśca ācāryaḥ pāśahā bhavet // Stk_9.5 //	anujQAtaH aBiziktaH-ca AcAryaH pASa-hA Bavet // Stc-_9.5 //
+   abhiṣekaprakaraṇaṃ navamam	aBizeka-prakaraNam navamam
+   nāḍīcakraṃ paraṃ sūkṣmaṃ pravakṣyāmyanupūrvaśaḥ /	nAxI-cakram param sUkzmam pravakzyAmi-anupUrvaSas /
+   nābheradhastādyatkandam aṅkurāstatra nirgatāḥ // Stk_10.1 //	nABeH-aDastAt-yat-kandam aFkurAH-tatra nirgatAH // Stc-_10.1 //
+   dvāsaptatisahasrāṇi nābhimadhye vyavasthitāḥ /	dvAsaptati-sahasrANi nABi-maDye vyavasTitAH /
+   tiryagūrdhvamadhaścaiva vyāptaṃ nābheḥ samantataḥ // Stk_10.2 //	tiryak-UrDvam-aDas-ca-eva vyAptam nABeH samantataH // Stc-_10.2 //
+   cakravatsaṃsthitā nāḍyaḥ pradhānā daśa tāsu yāḥ /	cakra-vat-saMsTitAH nAxyaH praDAnAH daSa tAsu yAH /
+   iḍā ca piṅgalā caiva suṣumnā ca tṛtīyakā // Stk_10.3 //	ixA ca piFgalA ca-eva suzumnA ca tRtIyakAH // Stc-_10.3 //
+   gāndhārī hastijihvā ca pūṣā caiva yaśāstathā /	gAnDArI hastijihvA ca pUzA ca-eva yaSAH-taTA /
+   alambuṣā kuhūścaiva śaṅkhinī daśamī smṛtā // Stk_10.4 //	alambuzA kuhUH-ca-eva SaFKinI daSamI smRtAH // Stc-_10.4 //
+   daśa prāṇavahā hyetā nāḍayaḥ parikīrtitāḥ /	daSa prANa-vahAH hi-etAH nAxayaH parikIrtitAH /
+   prāṇo 'pānaḥ samānaśca udāno vyāna eva ca // Stk_10.5 //	prANaH apAnaH samAnaH-ca udAnaH vyAnaH eva ca // Stc-_10.5 //
+   nāgaḥ kūrmo 'tha kṛkaro devadatto dhanaṃjayaḥ /	nAgaH kUrmaH aTa kRkaraH devadattaH DanaMjayaH /
+   prāṇastu prathamo vāyur navānāmapi sa prabhuḥ // Stk_10.6 //	prANaH-tu praTamaH vAyuH navAnAm-api sa praBuH // Stc-_10.6 //
+   prāṇaḥ prāṇamayaḥ prāṇo visargaḥ pūraṇaṃ prati /	prANaH prANa-mayaH prANaH visargaH pUraNam prati /
+   nityamāpūrayatyeṣa prāṇināmurasi sthitaḥ // Stk_10.7 //	nityam-ApUrayati-eza prANinAm-urasi sTitaH // Stc-_10.7 //
+   niśvāsocchvāsakāsaistu prāṇo jīvasamāśritaḥ /	niSvAsa-ucCvAsa-kAsEH-tu prANaH jIva-sam-ASritaH /
+   prayāṇaṃ kurute yasmāt tasmātprāṇaḥ prakīrtitaḥ // Stk_10.8 //	prayANam kurute yasmAt tasmAt-prANaH prakIrtitaH // Stc-_10.8 //
+   apānayatyapānastu āhāraṃ ca nṛṇāmadhaḥ /	apAnayati-apAnaH-tu AhAram ca nRNAm-aDas /
+   mūtraśuklamalānvāyur apānastena kīrtitaḥ // Stk_10.9 //	mUtra-Sukla-mala-an-vAyuH apAnaH-tena kIrtitaH // Stc-_10.9 //
+   pītaṃ bhakṣitamāghrātaṃ raktapittakaphādikam /	pItam Bakzitam-AGrAtam rakta-pitta-kaPa-Adikam /
+   read raktapittakaphānilam with the Nepalese MSS	reat rakta-pitta-kaPa-anilam wiT Te Nepalese MSS
+   and unpublished Nepalese MSS of Saptaśatika and Dviśatika recensions,	and unpubli-shet Nepa-lese MSS of Sapta-Satika and DviSatika recet-siA-uns,
+   according to Sanderson (lecture notes on Tantrasāra)	at-ca-Urdink taH SandeH-son (lecture noteH on TantrasAra)
+   samaṃ nayati gātreṣu samāno nāma mārutaḥ // Stk_10.10 //	samam nayati gAtrezu samAnaH nAma mArutaH // Stc-_10.10 //
+   spandatyadharaṃ vaktraṃ netragātraprakopanaḥ /	spandati-aDaram vaktram netra-gAtra-prakopanaH /
+   udvejayati marmāṇi udāno nāma mārutaḥ // Stk_10.11 //	udvejayati marmANi udAnaH nAma mArutaH // Stc-_10.11 //
+   vyāno vināmayatyaṅgaṃ vyāno vyādhiprakopanaḥ /	vyAnaH vinAmayati-aFgam vyAnaH vyADi-prakopanaH /
+   prītervināśakaraṇo vyāpanādvyāna ucyate // Stk_10.12 //	prIteH-vinASa-karaNaH vyApanAt-vyAnaH ucyate // Stc-_10.12 //
+   udgāre nāga ityuktaḥ kūrma unmīlane smṛtaḥ /	udgAre nAgaH iti-uktaH kUrmaH unmIlane smRtaH /
+   kṛkarastu kṣute caiva devadatto vijṛmbhaṇe /	kRkaraH-tu kzute ca-eva devadattaH vijRmBaNe /
+   dhanaṃjayaḥ sthito ghoṣe mṛtasyāpi na muñcati // Stk_10.13 //	DanaMjayaH sTitaH Goze mRtasya-api na muQcati // Stc-_10.13 //
+   ityetadvāyuvṛndaṃ hṛdi ca vinihitaṃ nābhicakrapratiṣṭhitam	iti-etat-vAyu-vRndam hRdi ca vinihitam nABi-cakra-pratizWitam
+   niśvāsocchvāsakaiḥ śvasanapuramadhaḥ kampitāghūrṇitaiśca /	niSvAsa-ucCvAsakEH Svasana-puram-aDas kampita-AGUrNitEH-ca /
+   nityaṃ nityālpajanmā vyasanayati paśuṃ yauvane bālabhāve ākrānto vāyurekaḥ	nityam nitya-alpa-janmA vyasanayati paSum yOvane bAla-BAve AkrAntaH vAyuH-ekaH
+   sa jananamaraṇaiḥ krīḍati bhrāntasattvaiḥ // Stk_10.14 //	sa janana-maraNEH krIxati BrAnta-sattvEH // Stc-_10.14 //
+   nāḍīcakraṃ yathāvasthaṃ pravakṣyāmyanupūrvaśaḥ /	nAxI-cakram yaTAvasTam pravakzyAmi-anupUrvaSas /
+   daśāraṃ cakramettattu vibhāgo jāyate yathā // Stk_10.15 //	daSAram cakramet-tat-tu viBAgaH jAyate yaTA // Stc-_10.15 //
+   cakre bhramatyasau jīvo daśasthāneṣvanukramāt /	cakre Bramati-asO jIvaH daSa-sTAnezu-anukramAt /
+   sa jīvo jīvalokasya budhyante naiva mohitāḥ // Stk_10.16 //	sa jIvaH jIva-lokasya buDyante na-eva mohitAH // Stc-_10.16 //
+   jīvaḥ prayāti daśadhā tena cakraṃ prakīrtitam /	jIvaH prayAti daSaDA tena cakram prakIrtitam /
+   nāḍīcakramiti proktaṃ yena saṃkrāmati hyasau // Stk_10.17 //	nAxIcakram-iti proktam yena saMkrAmati hi-asO // Stc-_10.17 //
+   hṛdvyomamadhye paṅkajamaṣṭadalaṃ karṇikā ca tasyāntaḥ /*	hRd-vyoma-maDye paFkajam-azwa-dalam karNikA ca tasya-antar /*
+   hṛdaye paṅkajamarkendvagnihiraṇyadyotābhāḥ śaktayastasmin // Stk_10.18 //*	hRdaye paFkajam-arka-indu-agni-hiraNyadyota-ABAH SaktayaH-tasmin // Stc-_10.18 //*
+   WHAT metre is this?? Bad (because of transmission) āryā.	WHAT metre iH Tis?? Bat (becOse of tran-smis-sion) AryA.
+   uparicarī khalu śaktistāsāṃ prāgbhāvinī śivasya tataḥ /*	uparicarI Kalu SaktiH-tAsAm prAgBAvinI Sivasya tatas /*
+   śakticatuṣṭayapaṅkajamadhye puruṣo 'liriva sa līnaḥ // Stk_10.19 //*	Sakti-catuzwaya-paFkaja-maDye puruzaH aliH-iva sa lInaH // Stc-_10.19 //*
+   āryā metre	AryA metre
+   śūnyamarutsaṃdaṃśakagṛhītakaraṇātmako hyubhayato 'pi /*	SUnya-marut-saMdaMSaka-gRhIta-karaNa-AtmakaH hi-uBayatas api /*
+   saṃyāti yatra neyaḥ śuṣkadalaṃ māruteneva // Stk_10.20 //*	saMyAti yatra neyaH Suzka-dalam mArutena-iva // Stc-_10.20 //*
+   bhrāmyati paṅkajamadhye kalācatuṣkātmapāśasaṃruddhaḥ /*	BrAmyati paFkaja-maDye kalA-catuzka-Atma-pASa-saMrudDaH /*
+   golakamiva helābhihatamutpatanaṃ nipātanaṃ kurute // Stk_10.21 //*	golakam-iva helA-aBihatam-utpatanam nipAtanam kurute // Stc-_10.21 //*
+   īśvarayogādviṣuvatsaṃkrāntiścaiva siddhisaṃyogāt /*	ISvara-yogAt-vizuvat-saMkrAntiH-ca-eva sidDi-saMyogAt /*
+   sauraniyogāddakṣiṇamudagayanaṃ cāndrasaṃyogāt // Stk_10.22 //*	sOra-niyogAt-dakziNam-udagayanam cAndra-saMyogAt // Stc-_10.22 //*
+   ayane savyāsavye dvau puṭakau yugmato viṣuvadāhuḥ /*	ayane sa-vyAsavye dvO puwakO yugmataH vizuvat-AhuH /*
+   saṃkrāntiritaścetaśca gacchatastena samākhyātā // Stk_10.23 //*	saMkrAntiH-itas-ca-itas-ca gacCataH-tena samAKyAtAH // Stc-_10.23 //*
+   sauraḥ savyo mārgaścāndramasaścetaraḥ samākhyātaḥ /*	sOraH savyaH mArgaH-cAndramasaH-ca-itaraH samAKyAtaH /*
+   dhanyo 'bhiṣeka induḥ sauraḥ khalu vahnisaṃdhāne // Stk_10.24 //*	DanyaH aBizekaH induH sOraH Kalu vahni-saMDAne // Stc-_10.24 //*
+   dhyānādyo viṣuvati ca prāgdalasaṃstho nṛpāvalepī syāt /*	DyAna-AdyaH vizuvati ca prAc-dala-saMsTaH nRpa-avalepI syAt /*
+   tejasvī ca bubhukṣā pīḍā vā jāyate 'gnidikpatre // Stk_10.25 //*	tejasvI ca buBukzA pIxA vA jAyate agni-diS-patre // Stc-_10.25 //*
+   jāyate] conj; saṃjāyate Bhatt unmetrical	jAyate] ca-unj; saMjAyate Bhatt unmetri-cal
+   yāmye yāmyo bhāvo nairṛtye nairṛto vinirdiṣṭaḥ /*	yAmye yAmyaH BAvaH nErRtye nErRtaH vinirdizwaH /*
+   nairṛtye] conj; nairṛte Bhatt unmetrical	nErRtye] ca-unj; nErRte Bhatt unmetri-cal
+   vāruṇapatre vāruṇo mārutpatre gato marudbhāvam // Stk_10.26 //*	vAruNa-patre vAruNaH mArut-patre gataH marut-BAvam // Stc-_10.26 //*
+   saumye saumyo bhāvastvaiśe tvaiśaḥ samākhyātaḥ /*	sOmye sOmyaH BAvaH-tu-ESe tu-ESaH samAKyAtaH /*
+   yāṃ yāṃ diśamabhigacchati tadbhāvaṃ nikhilamāyāti // Stk_10.27 //*	yAm yAm diSam-aBigacCati tad-BAvam niKilam-AyAti // Stc-_10.27 //*
+   patrāntarālayogācchūnyamivātmā tato bhāti /*	patra-antarAla-yogAt-SUnyam-iva-AtmA tatas BAti /*
+   iti khalu pudgalacāro nāḍīsadhānamaṇḍalaṃ mukhyam /*	iti Kalu pudgala-cAraH nAxI-saDAna-maNxalam muKyam /*
+   kathitamiha siddhihetorboddhyavyaṃ yatnataḥ siddham // Stk_10.28 //*	kaTitam-iha sidDi-hetoH-bodDi-avyam yatnatas sidDam // Stc-_10.28 //*
+   nāḍīcakraprakaraṇaṃ daśamam	nAxI-cakra-prakaraNam daSamam
+   sa jīvo jīvalokasya jñāyate 'dhyātmago yathā /	sa jIvaH jIva-lokasya jQAyate aDyAtma-gaH yaTA /
+   saṃśayo me mahādeva prasādībhava śūladhṛk // Stk_11.1 //	saMSayaH me mahAdeva prasAdIBava SUla-DRk // Stc-_11.1 //
+   jīvasya puruṣākhyasya darśanaṃ śṛṇu ṣaṇmukha /	jIvasya puruza-AKyasya darSanam SRNu zaNmuKaH /
+   kathayāmi na sandehaḥ putrasnehādviśeṣataḥ // Stk_11.2 //	kaTayAmi na sandehaH putra-snehAt-viSezataH // Stc-_11.2 //
+   saṃkrāntiṃ viṣuvaṃ caiva ahorātrāyanāni ca /	saMkrAntim vizuvam ca-eva ahorAtrAyanAni ca /
+   adhimāsamṛṇaṃ cāpi ūnarātraṃ dhanaṃ tathā // Stk_11.3 //	aDimAsam-RNam ca-api UnarAtram Danam taTA // Stc-_11.3 //
+   ūnarātraṃ kṣutaṃ jñeyam adhimāso vijṛmbhikā /	UnarAtram kzutam jQeyam aDimAsaH vijRmBikA /
+   ṛṇaṃ ca kāso vijñeyo niśvāso dhanamucyate // Stk_11.4 //	RNam ca kAsaH vijQeyaH niSvAsaH Danam-ucyate // Stc-_11.4 //
+   uttaraṃ dakṣiṇaṃ jñeyaṃ vāmadakṣiṇasaṃsthitam /	uttaram dakziNam jQeyam vAma-dakziNa-saMsTitam /
+   madhye tu viṣuvatproktaṃ puṭadvayaviniḥsṛtam // Stk_11.5 //	maDye tu vizuvat-proktam puwa-dvaya-viniHsRtam // Stc-_11.5 //
+   saṃkrāntiḥ punarasyaiva svasthānātsthāna eva ca /	saMkrAntiH punar-asya-eva sva-sTAnAt-sTAnaH eva ca /
+   iḍā ca piṅgalā caiva amā caiva tṛtīyakā // Stk_11.6 //	ixA ca piFgalA ca-eva amA ca-eva tRtIyakAH // Stc-_11.6 //
+   suṣumnā madhyame hyaṅge iḍā vāme prakīrtitā /	suzumnA maDyame hi-aFge ixA vAme prakIrtitA /
+   piṅgalā dakṣiṇe hyaṅge eṣu saṃkrāntirucyate // Stk_11.7 //	piFgalA dakziNe hi-aFge ezu saMkrAntiH-ucyate // Stc-_11.7 //
+   ūrdhvaṃ prāṇo hyahaḥ proktaḥ apāno rātrirucayte /	UrDvam prANaH hi-ahar proktaH apAnaH rAtriH-ucayte /
+   8ab = Niśvāsa-uttarasūtra 5:17cd	8aB  NiSvAsa--uttara-sUtra 5:17cd
+   vibhāgā daśa prāṇasya yo vettyevaṃ sa vedavit // Stk_11.8 //	viBAgAH daSa prANasya yaH vetti-evam sa veda-vid // Stc-_11.8 //
+   āyāmo dehamadhyasthaḥ somagrahaṇamiṣyate /	AyAmaH deha-maDya-sTaH soma-grahaNam-izyate /
+   dehātītaṃ tu taṃ vidyād ādityagrahaṇaṃ budhaḥ // Stk_11.9 //	deha-atItam tu tam vidyAt Aditya-grahaNam buDaH // Stc-_11.9 //
+   ayute dve sahasraṃ tu ṣaṭśatāni tathaiva ca /	ayute dve sahasram tu zaz-SatAni taTA-eva ca /
+   ahorātreṇa yogīndro japasaṃkhyāṃ karoti saḥ // Stk_11.10 //	ahorAtreNa yogi-indraH japa-saMKyAm karoti saH // Stc-_11.10 //
+   prāṇāyāmaṃ samāsena kathayāmi tavākhilam /	prANAyAmam samAsena kaTayAmi tava-aKilam /
+   uccārayettu praṇavaṃ svareṇaikena yogavit // Stk_11.11 //	uccArayet-tu praNavam svareNa-ekena yoga-vid // Stc-_11.11 //
+   udaraṃ pūrayitvā tu vāyunā yāvadīpsitam /	udaram pUrayitvA tu vAyunA yAvat-Ipsitam /
+   prāṇāyāmo bhavedeṣa pūrako dehapūrakaḥ // Stk_11.12 //	prANAyAmaH Bavet-eza pUrakaH dehapUrakaH // Stc-_11.12 //
+   pidhāya sarvadvārāṇi niśvāsocchvāsavarjitaḥ /	piDAya sarva-dvArANi niSvAsa-ucCvAsa-varjitaH /
+   sampūrṇakumbhavattiṣṭhet prāṇāyāmaḥ sa kumbhakaḥ // Stk_11.13 //	sampUrNa-kumBa-vat-tizWet prANAyAmaH sa kumBakaH // Stc-_11.13 //
+   muñcedvāyuṃ tataścordhvaṃ śvāsenaikena yogavit /	muQcet-vAyum tatas-ca-UrDvam SvAsena-ekena yoga-vid /
+   niśvāsayogayuktastu yāvadūrdhvaṃ sa recayet // Stk_11.14 //	niSvAsa-yoga-yuktaH-tu yAvat-UrDvam sa recayet // Stc-_11.14 //
+   recakastveṣa vikhyātaḥ prāṇasaṃśayakārakaḥ /	recakaH-tu-eza viKyAtaH prANa-saMSaya-kArakaH /
+   yattaddhṛdi sadā padmam adhomukhamavasthitam // Stk_11.15 //	yat-tat-hRdi sadA padmam aDomuKam-avasTitam // Stc-_11.15 //
+   vikasatyetadūrdhvaṃ tu pūrakeṇa tu pūritam /	vikasati-etat-UrDvam tu pUrakeNa tu pUritam /
+   ūrdhvasroto bhavetpadmaṃ kumbhakena nirodhitam // Stk_11.16 //	UrDvasrotaH Bavet-padmam kumBakena niroDitam // Stc-_11.16 //
+   recakena tathā kṣiptaṃ sadyaḥprāṇahareṇa tu /	recakena taTA kziptam sadyas-prANa-hareNa tu /
+   cf. Kir 59:1	cf. KiH 59:1
+   muktvā hṛdayapadmaṃ tu ūrdhvasrotovyavasthitam // Stk_11.17 //	muktvA hRdaya-padmam tu UrDvasrotaH-vyavasTitam // Stc-_11.17 //
+   recito gacchati hyūrdhvaṃ granthiṃ bhittvā kṣaṇena tu /	recitaH gacCati hi-UrDvam granTim BittvA kzaNena tu /
+   bhittvā kapāladvāraṃ tu jīvo hyūrdhvaṃ tu recitaḥ // Stk_11.18 //	BittvA kapAla-dvAram tu jIvaH hi-UrDvam tu recitaH // Stc-_11.18 //
+   sadāśivapadaṃ gatvā na bhūyo janma cāpnuyāt /	sadASiva-padam gatvA na BUyas janma ca-ApnuyAt /
+   āyāmaḥ kriyate tasya nānyasya tu kadācana /	AyAmaH kriyate tasya na-anyasya tu kadAcana /
+   sa jīvo jīvalokasya mayā proktaḥ samāsataḥ // Stk_11.19 //	sa jIvaH jIva-lokasya mayA proktaH samAsatas // Stc-_11.19 //
+   ityekādaśaḥ paṭalaḥ	iti-ekAdaSaH pawalaH
+   candrāgniriva saṃyuktā ādyā kuṇḍalinī tu yā /	candra-agniH-iva saMyuktA AdyA kuNxalinI tu yA /
+   hṛtpradeśe tu sā jñeyā aṅkurākāravatsthitā // Stk_12.1 //	hRd-pradeSe tu sA jQeyAH aFkura-AkAra-vat-sTitAH // Stc-_12.1 //
+   sṛṣṭinyāsaṃ nyasettatra dvirabhyāsapaderitam /	sRzwi-nyAsam nyaset-tatra dvis-aByAsa-pada-Iritam /
+   sravantaṃ cintayettasminn amṛtaṃ sādhakottamaḥ // Stk_12.2 //	sravantam cintayet-tasmin amRtam sADaka-uttamaH // Stc-_12.2 //
+   agnīṣomātmakaṃ sarvaṃ jagatsthāvarajaṅgamam /	agnIzoma-Atmakam sarvam jagat-sTAvara-jaFgamam /
+   cintayedviparītaṃ tu siddhikāmaḥ samāhitaḥ // Stk_12.3 //	cintayet-viparItam tu sidDi-kAmaH samAhitaH // Stc-_12.3 //
+   svadehaṃ cintayedvidvān divyarūpamanaupamam /	sva-deham cintayet-vidvAn divya-rUpam-anOpamam /
+   yasya yatkarma coddiṣṭaṃ tatkarma paricintayet // Stk_12.4 //	yasya yat-karma ca-uddizwam tat-karma paricintayet // Stc-_12.4 //
+   idaṃ ca yo 'bhyasedevam amṛtaṃ sarvatomukham /	idam ca yaH aByaset-evam amRtam sarvatomuKam /
+   acireṇaiva kālena sa siddhiphalabhāgbhavet // Stk_12.5 //	acireNa-eva kAlena sa sidDi-Pala-BAj-Bavet // Stc-_12.5 //
+   sṛṣṭinyāsamavijñāya kathaṃ yuñjīta sādhakaḥ /	sRzwinyAsam-avijQAya kaTam yuQjIta sADakaH /
+   hanyānmuṣṭibhirākāśaṃ tuṣānkuṭṭayatīva saḥ // Stk_12.6 //	hanyAt-muzwiBiH-AkASam tuzAn-kuwwayati-iva saH // Stc-_12.6 //
+   iti dvādaśaḥ paṭalaḥ	iti dvAdaSaH pawalaH
+   athātaḥ sampravakṣyāmi sṛṣṭiṃ mantralipeḥ kramāt /	aTa-atas sampravakzyAmi sRzwim mantra-lipeH kramAt /
+   yathā tu sakalo devo niṣkalena samanvitaḥ // Stk_13.1 //	yaTA tu sakalaH devaH nizkalena samanvitaH // Stc-_13.1 //
+   kalāmutpādayāmāsa sarvamantrapravartikām /	kalAm-utpAdayAmAsa sarva-mantra-pravartikAm /
+   oṃkāramūrdhni madhyastha oṃkāravyāpakastathā // Stk_13.2 //	oMkAra-mUrDni maDyasTaH oMkAra-vyApakaH-taTA // Stc-_13.2 //
+   oṃkāraprathamāṃ rekhāṃ sṛjati prabhuḥ(?) /	oMkAra-praTamAm reKAm sRjati praBuH(?) /
+   vidyā nāma kalā sā tu varṇe varṇe vyavasthitā // Stk_13.3 //	vidyA nAma kalA sA tu varNe varNe vyavasTitAH // Stc-_13.3 //
+   oṃkārasya ukārābhā rekhā yā sampradṛśyate /	oMkArasya ukAra-ABA reKA yA sampradRSyate /
+   pratiṣṭhā nāma sā jñeyā ukārākṣarasambhavā // Stk_13.4 //	pratizWA nAma sA jQeyA ukAra-akzara-samBavAH // Stc-_13.4 //
+   mūrdhni tasya bhavedyāsau sūkṣmarekhā nirañjanā /	mUrDni tasya Bavet-yAsO sUkzma-reKA niraQjanAH /
+   makāro hyabhavattatra nivṛttirnāma sā kalā // Stk_13.5 //	makAraH hi-aBavat-tatra nivRttiH-nAma sA kalA // Stc-_13.5 //
+   oṃkāramūrdhni saṃyuktā laya oṃkāramūrdhani /	oMkAra-mUrDni saMyuktAH layaH oMkAra-mUrDani /
+   rekheyaṃ vyomni nirvāṇā sā kalā śāntirucyate // Stk_13.6 //	reKeyam vyomni nirvANA sA kalA SAntiH-ucyate // Stc-_13.6 //
+   saṃyogātsamprakāśeta niṣkale sakale sthitā /	saMyogAt-samprakASeta nizkale sakale sTitA /
+   mūrdhanyākrāna oṃkāre śabdastatra tu jāyate // Stk_13.7 //	mUrDanyAkrAnaH oMkAre SabdaH-tatra tu jAyate // Stc-_13.7 //
+   sā śaktiḥ paramā sūkṣmā bindunā sahitā matā /	sA SaktiH paramA sUkzmA bindunA sahitAH matA /
+   dīpādiva mahattejo visphuliṅgaśikhānvitam // Stk_13.8 //	dIpAt-iva mahat-tejaH visPuliFga-SiKA-anvitam // Stc-_13.8 //
+   nipatantī tridhā yāti śivavidyātmakairyathā /	nipatantI triDA yAti Siva-vidyA-AtmakEH-yaTA /
+   śāntirvidyā pratiṣṭhā ca nivṛttiśceti tāḥ kalāḥ // Stk_13.9 //	SAntiH-vidyA pratizWA ca nivRttiH-ca-iti tAH kalAH // Stc-_13.9 //
+   yā kalā rekhinī tatra patitā bindunā saha /	yA kalA reKinI tatra patitA bindunA saha /
+   savidyeśaḥ śivaḥ prokto devadevaḥ sadāśivaḥ // Stk_13.10 //	sa-vidyA-ISaH SivaH proktaH devadevaH sadASivaH // Stc-_13.10 //
+   prathamaṃ tasya tadbījaṃ nādabinduritīritam /	praTamam tasya tat-bIjam nAdabinduH-iti-Iritam /
+   na jahāti paraṃ sthānaṃ śāśvataṃ dhruvamavyayam // Stk_13.11 //	na jahAti param sTAnam SASvatam Druvam-avyayam // Stc-_13.11 //
+   binduṃ tadudare kṣiptvā mātṛvatparirakṣati /	bindum tad-udare kziptvA mAtR-vat-parirakzati /
+   tasyordhvaṃ vāmapārśve 'tha viṣṇubījaṃ pratiṣṭhitam // Stk_13.12 //	tasya-UrDvam vAma-pArSve aTa vizNu-bIjam pratizWitam // Stc-_13.12 //
+   dakṣiṇaṃ brahmayonistham ekameva tridhā sthitam /	dakziNam brahma-yoni-sTam ekam-eva triDA sTitam /
+   pārśvabindudvayopetā sā rekhā madhyataḥ sthitā // Stk_13.13 //	pArSva-bindu-dvaya-upetA sA reKA maDyatas sTitAH // Stc-_13.13 //
+   tatra devaḥ śivaḥ sūkṣmo gūḍhastiṣṭhati śaṃkaraḥ /	tatra devaH SivaH sUkzmaH gUXaH-tizWati SaMkaraH /
+   tadbījaṃ paramaṃ devaṃ śaktigarbho maheśvaraḥ // Stk_13.14 //	tad-bIjam paramam devam Sakti-garBaH maheSvaraH // Stc-_13.14 //
+   yataḥ pravartate sarvaṃ mantratantraṃ carācaram /	yatas pravartate sarvam mantra-tantram carAcaram /
+   avyaktaṃ paramaṃ sūkṣmaṃ śaktidehaṃ nirañjanam // Stk_13.15 //	avyaktam paramam sUkzmam Sakti-deham niraQjanam // Stc-_13.15 //
+   śivaṃ tvanādinidhanaṃ yaṃ buddhvā nābhijāyate /	Sivam tu-anAdi-niDanam yam budDvA na-aBijAyate /
+   dakṣiṇasthaṃ hi yadbījaṃ jñānaśaktiḥ parā hi sā // Stk_13.16 //	dakziNa-sTam hi yat-bIjam jQAnaSaktiH parA hi sA // Stc-_13.16 //
+   tadbījamaparaṃ brahmā yatra gūḍhaḥ sa tiṣṭhati /	tat-bIjam-aparam brahmA yatra gUXaH sa tizWati /
+   vāmago 'tha paro binduḥ kriyāśaktiḥ parā hi sā // Stk_13.17 //	vAma-gaH aTa paraH binduH kriyASaktiH parA hi sA // Stc-_13.17 //
+   tatra viṣṇuḥ svayaṃ bīje gūḍhaḥ sūkṣmo nirañjanaḥ /	tatra vizNuH svayam bIje gUXaH sUkzmaH niraQjanaH /
+   eṣa devo 'pi sargastho visṛṣṭo yaḥ sa śambhunā // Stk_13.18 //	eza devaH api sarga-sTaH visRzwaH yaH sa SamBunA // Stc-_13.18 //
+   nigūḍhatvānna paśyanti yena sṛṣṭaṃ carācaram /	nigUXa-tvAt-na paSyanti yena sRzwam carAcaram /
+   visargājjāyate sṛṣṭir īśvaraḥ prabhureva saḥ // Stk_13.19 //	visargAt-jAyate sRzwiH ISvaraH praBuH-eva saH // Stc-_13.19 //
+   visṛṣṭaṃ yena tadbījaṃ visargastena cocyate /	visRzwam yena tat-bIjam visargaH-tena ca-ucyate /
+   tena cāpūritamidaṃ jagatsarvaṃ ca tanmayam // Stk_13.20 //	tena ca-ApUritam-idam jagat-sarvam ca tad-mayam // Stc-_13.20 //
+   śaktiraśmisamūhena śataśo 'tha sahasraśaḥ /	Sakti-raSmi-samUhena SataSas aTa sahasraSas /
+   sṛjati grasati hyeṣa saṃyojakaviyojakaḥ // Stk_13.21 //	sRjati grasati hi-eza saMyojaka-viyojakaH // Stc-_13.21 //
+   jñānaśaktyā ca bhagavān anugṛhṇāti vai śivaḥ /	jQAna-SaktyA ca BagavAn anugRhNAti vE SivaH /
+   visargācca bhavetsṛṣṭiḥ saṃhāro bindunā saha /	visargAt-ca Bavet-sRzwiH saMhAraH bindunA saha /
+   nirvāṇaṃ tattvavijñānaṃ tantravistāragocaraḥ // Stk_13.22 //	nirvANam tattva-vijQAnam tantra-vistAra-gocaraH // Stc-_13.22 //
+   mantrasṛṣṭiprakaraṇam	mantra-sRzwi-prakaraNam
+   saṃhāraścaiva sṛṣṭiśca sarvaṃ nigaditaṃ prabho /	saMhAraH-ca-eva sRzwiH-ca sarvam nigaditam praBo /
+   dīkṣitānāṃ gatibhraṃśaṃ saṃkṣepāt kathayasva me // Stk_14.1 //	dIkzitAnAm gati-BraMSam saMkzepAt kaTayasva me // Stc-_14.1 //
+   māyāvini śaṭhe krūre niḥsattve kalahapriye /	mAyAvini SaWe krUre niHsattve kalaha-priye /
+   gatibhraṃśakare yoge tattvaṃ tacchṛṇu ṣaṇmukha // Stk_14.2 //	gati-BraMSa-kare yoge tattvam tat-SRNu zaNmuKaH // Stc-_14.2 //
+   vidhāya mūrdhni kṣiptasya āyāme śaśinaḥ kramāt /	viDAya mUrDni kziptasya AyAme SaSinaH kramAt /
+   pūrvavanmanasālokya gatiṃ tasya nivartayet // Stk_14.3 //	pUrvavat-manasA-Alokya gatim tasya nivartayet // Stc-_14.3 //
+   saṃhārasampuṭaṃ kūṭam ādāvante ṣaḍānana /	saMhAra-sampuwam kUwam AdO=-ante zaxAnanaH /
+   mātṛkāyāṃ śataṃ hutvā ekaikasya pṛthak pṛthak // Stk_14.4 //	mAtRkAyAm Satam hutvA ekEkasya pRTak pRTak // Stc-_14.4 //
+   gatibhraṃśaprakaraṇam	gati-BraMSa-prakaraNam
+   prāsādaṃ nādamutthāpya japedyaḥ satataṃ naraḥ /	prAsAdam nAdam-utTApya japet-yaH satatam naraH /
+   ṣaṇmāsātprāpnuyātsiddhiṃ yogayukto na saṃśayaḥ // Stk_15.1 //	zaz-mAsAt-prApnuyAt-sidDim yoga-yuktaH na saMSayaH // Stc-_15.1 //
+   gamāgamasya japataḥ sarvapāpakṣayo bhavet /	gamAgamasya japataH sarva-pApa-kzayaH Bavet /
+   aṇimādiguṇaiśvaryaṃ ṣaṇmāsaistu na saṃśayaḥ // Stk_15.2 //	aNima-Adi-guNa-ESvaryam zaz-mAsEH-tu na saMSayaH // Stc-_15.2 //
+   gamāgamaṃ viditvā tu mucyate nātra saṃśayaḥ /	gamAgamam viditvA tu mucyate na-atra saMSayaH /
+   tanmayastallayo bhūtvā ṣaṇmāsātsiddhimāpnuyāt // Stk_15.3 //	tad-mayaH-tad-layaH BUtvA zaz-mAsAt-sidDim-ApnuyAt // Stc-_15.3 //
+   sthūlaḥ sūkṣmaḥ paraścaiva prāsādaḥ kathito mayā /	sTUlaH sUkzmaH paraH-ca-eva prAsAdaH kaTitaH mayA /
+   prāsādaṃ ye na budhyanti te na budhyanti śaṅkaram // Stk_15.4 //	prAsAdam ye na buDyanti te na buDyanti SaFkaram // Stc-_15.4 //
+   prāsādabhedaprakaraṇam	prAsAda-Beda-prakaraNam
+   ataḥ paraṃ pravakṣyāmi prāsādasya tu lakṣaṇam /	atas param pravakzyAmi prAsAdasya tu lakzaNam /
+   hrasvaṃ dīrghaṃ plutaṃ caiva lakṣayenmantravitsadā // Stk_16.1 //	hrasvam dIrGam plutam ca-eva lakzayet-mantra-vid-sadA // Stc-_16.1 //
+   hrasvo dahati pāpāni dīrgho mokṣaprado bhavet /	hrasvaH dahati pApAni dIrGaH mokza-pradaH Bavet /
+   āpyāyane plutaścaiva bindunā mūrdhni bhūṣitaḥ // Stk_16.2 //	ApyAyane plutaH-ca-eva bindunA mUrDni BUzitaH // Stc-_16.2 //
+   sthūlabhedāstrayaḥ proktā vaśyoccāṭanamāraṇe /	sTUla-BedAH-trayaH proktAH vaSya-uccAwana-mAraNe /
+   plutena tu sadā vaśyaṃ kurute nātra saṃśayaḥ // Stk_16.3 //	plutena tu sadA vaSyam kurute na-atra saMSayaH // Stc-_16.3 //
+   dīrghastūccāṭayetkṣipraṃ phaṭkāreṇa na saṃśayaḥ /	dIrGaH-tu-uccAwayet-kzipram PawkAreNa na saMSayaH /
+   ādāvante ca hrasvasya phaṭkāro māraṇe smṛtaḥ // Stk_16.4 //	AdO=-ante ca hrasvasya PawkAraH mAraNe smRtaH // Stc-_16.4 //
+   ādāvante ca hṛdaya- yoga ākarṣaṇe smṛtaḥ /	AdO=-ante ca hRdaya yogaH AkarzaNe smRtaH /
+   ākarṣayeddhruvaṃ yukto yojanānāṃ śate sthitam // Stk_16.5 //	Akarzayet-Druvam yuktaH yojanAnAm Sate sTitam // Stc-_16.5 //
+   evamākarṣayetsādhyaṃ nāma vijñāya tattvataḥ /	evam-Akarzayet-sADyam nAma vijQAya tattvataH /
+   sādhakasya bhavedbahvī nyūnā sādhyasya kīrtitā // Stk_16.6 //	sADakasya Bavet-bahvI nyUnA sADyasya kIrtitAH // Stc-_16.6 //
+   evaṃ viditvā medhāvī ākarṣaṃ kurute dhruvam /	evam viditvA meDAvI Akarzam kurute Druvam /
+   avijñāya tvidaṃ samyaṅ naiva siddhyate sarvadā // Stk_16.7 //	avijQAya tu-idam samyak na-eva sidDyate sarvadA // Stc-_16.7 //
+   yāgaṃ kṛtvā tu pūrvoktaṃ mantrasyārghyaṃ ca dāpayet /	yAgam kRtvA tu pUrva-uktam mantrasya-arGyam ca dApayet /
+   arghyaṃ dattvā tu mantrasya japaṃ kuryādvicakṣaṇaḥ // Stk_16.8 //	arGyam dattvA tu mantrasya japam kuryAt-vicakzaNaH // Stc-_16.8 //
+   devasya dakṣiṇe bhāge pañcalakṣaṃ sthito japet /	devasya dakziNe BAge paQcalakzam sTitaH japet /
+   japānte ghṛtahomastu daśasāhasriko bhavet // Stk_16.9 //	japa-ante GRta-homaH-tu daSa-sAhasrikaH Bavet // Stc-_16.9 //
+   evamāpyāyito mantraḥ karmayogyo bhavettataḥ /	evam-ApyAyitaH mantraH karma-yogyaH Bavet-tatas /
+   uktānuktāni karmāṇi siddhiṃ yānti na saṃśayaḥ // Stk_16.10 //	ukta-anuktAni karmANi sidDim yAnti na saMSayaH // Stc-_16.10 //
+   daśalakṣāṇi japato janāḥ svasthānavāsinaḥ /	daSa-lakzANi japataH janAH sva-sTAna-vAsinaH /
+   vaśamāyānti te kṣipram iti śāstrasya niścayaḥ // Stk_16.11 //	vaSam-AyAnti te kzipram iti SAstrasya niScayaH // Stc-_16.11 //
+   tripañcalakṣaṃ japato daśagrāmanivāsinaḥ /	tri-paQcalakzam japataH daSa-grAma-nivAsinaH /
+   te janā vaśamāyānti ātmanā ca dhanena ca // Stk_16.12 //	te janAH vaSam-AyAnti AtmanA ca Danena ca // Stc-_16.12 //
+   evaṃ viṃśatibhirlakṣaiḥ prāsādasya ṣaḍānana /	evam viMSatiBiH-lakzEH prAsAdasya zaxAnanaH /
+   deśadeśādhipānmantrī niyataṃ vaśamānayet // Stk_16.13 //	deSa-deSa-aDipAn-mantrI niyatam vaSam-Anayet // Stc-_16.13 //
+   lakṣāṇāṃ pañcaviṃśatyā viṣayaṃ vaśamānayet /	lakzANAm paQcaviMSatyA vizayam vaSam-Anayet /
+   triṃśallakṣajapādasya vaśo vai maṇḍalī bhavet // Stk_16.14 //	triMSat-lakza-ja-pAdasya vaSaH vE maNxalI Bavet // Stc-_16.14 //
+   pañcatriṃśacca lakṣāṇi japanpṛthvīṃ vaśaṃ nayet /	paQcatriMSat-ca lakzANi japan-pRTvIm vaSam nayet /
+   catvāriṃśajjapāddevam īkṣate hāṭakeśvaram // Stk_16.15 //	catvAriMSat-japAt-devam Ikzate hAwakeSvaram // Stc-_16.15 //
+   lakṣāṇi japtvā pañcāśad- vidyādharasamo bhavet /	lakzANi japtvA paQcASad vidyADara-samaH Bavet /
+   tatraiva modate mantrī yāvadābhūtasamplavam // Stk_16.16 //	tatra-eva modate mantrI yAvat-ABUtasamplavam // Stc-_16.16 //
+   prāsādalakṣaṇaprakaraṇaṃ ṣoḍaśam	prAsAda-lakzaNa-prakaraNam zoxaSam
+   iti ṣoḍaśaḥ paṭalaḥ	iti zoxaSaH pawalaH
+   adyāpi saṃśayo deva jñānavijñānayoḥ sphuṭam /	adya-api saMSayaH deva jQAna-vijQAnayoH sPuwam /
+   kathaṃ vā jñāyate jñānaṃ kathaṃ vā jñeyamucyate // Stk_17.1 //	kaTam vA jQAyate jQAnam kaTam vA jQeyam-ucyate // Stc-_17.1 //
+   vijñāya pūrvamādhāraṃ paścādādheyameva ca /	vijQAya pUrvam-ADAram paScAt-ADeyam-eva ca /
+   ādhārādheyavitprājñaḥ samarthaḥ sarvakarmasu // Stk_17.2 //	ADAra-ADeya-vid-prAjQaH samarTaH sarva-karmasu // Stc-_17.2 //
+   ādhāraḥ puramityuktam ādheyastvīśa ucyate /	ADAraH puram-iti-uktam ADeyaH-tu-ISaH ucyate /
+   īśaṃ vijñāya medhāvī sadā yo nandati svayam // Stk_17.3 //	ISam vijQAya meDAvI sadA yaH nandati svayam // Stc-_17.3 //
+   puryaṣṭakasamāyukto hyadha ūrdhvaṃ sa gacchati /	puryazwaka-samAyuktaH hi-aDas UrDvam sa gacCati /
+   śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca pañcakam // Stk_17.4 //	SabdaH sparSaH-ca rUpam ca rasaH ganDaH-ca paQcakam // Stc-_17.4 //
+   buddhirmanastvahaṅkāraḥ puryaṣṭakamudāhṛtam /	budDiH-manaH-tu-ahaFkAraH puryazwakam-udAhRtam /
+   Note that this definition of the puryaṣṭaka is not	Note Tat TiH definition of Te puryazwakaH iH na-ut
+   accepted by Ram without considerable distortion.	at-ceptet bi Ram wiTout ca-unsideH-able dista-Urtion.
+   yāvadetairna nirmuktaḥ kathaṃ mucyeta bandhanāt // Stk_17.5 //	yAvat-etEH-na nirmuktaH kaTam mucyeta banDanAt // Stc-_17.5 //
+   brahmaṇi sparśaśabdau tu rasaṃ vai keśave tyajet /	brahmaNi sparSa-SabdO tu rasam vE keSave tyajet /
+   rūpagandhau tyajedrudre buddhyahaṅkāramīśvare /	rUpa-ganDO tyajet-rudre budDi-ahaFkAram-ISvare /
+   mano binduṃ śive tyaktvā ebhirmuktaḥ śivaṃ vrajet // Stk_17.6 //	manaH bindum Sive tyaktvA eBiH-muktaH Sivam vrajet // Stc-_17.6 //
+   vijñānaprakaraṇam	vijQAna-prakaraNam
+   iti saptadaśaḥ paṭalaḥ	iti saptadaSaH pawalaH
+   kālacakravidhānaṃ tu pravakṣyāmyanupūrvaśaḥ /	kAla-cakra-viDAnam tu pravakzyAmi-anupUrvaSas /
+   kālacakramiti khyātaṃ yena kālaḥ prabudhyate // Stk_18.1 //	kAlacakram-iti KyAtam yena kAlaH prabuDyate // Stc-_18.1 //
+   tryahorātrapracāreṇa trīṇyabdāni sa jīvati /	tri-ahorAtra-pracAreNa trINi-abdAni sa jIvati /
+   dvyahorātrapracāreṇa jīvedvarṣadvayaṃ tu saḥ // Stk_18.2 //	dvi-ahorAtra-pracAreNa jIvet-varza-dvayam tu saH // Stc-_18.2 //
+   ahorātrapracāreṇa abdamekaṃ sa jīvati /	ahorAtra-pracAreNa abdam-ekam sa jIvati /
+   aharekaṃ vrajedyasya rātrimekāṃ tathaiva ca // Stk_18.3 //	ahar-ekam vrajet-yasya rAtrim-ekAm taTA-eva ca // Stc-_18.3 //
+   ṣaṇmāsājjāyate mṛtyur iti śāstrasya niścayaḥ /	zaz-mAsAt-jAyate mRtyuH iti SAstrasya niScayaH /
+   dvitīyasyānucāreṇa ahorātraṃ sa jīvati // Stk_18.4 //	dvitIyasya-anucAreNa ahorAtram sa jIvati // Stc-_18.4 //
+   yathā cādyā tathā vāmā madhyamā ca tathaiva ca /	yaTA ca-AdyA taTA vAmA maDyamA ca taTA-eva ca /
+   kālacakraṃ samākhyātaṃ putrasnehādviśeṣataḥ // Stk_18.5 //	kAlacakram samAKyAtam putra-snehAt-viSezataH // Stc-_18.5 //
+   kālacakraprakaraṇam	kAla-cakra-prakaraNam
+   iti aṣṭādaśaḥ paṭalaḥ	iti azwAdaSaH pawalaH
+   pūrvamevaṃ pratijñātaṃ śivabhedo 'ṣṭadhā sthitaḥ /	pUrvam-evam pratijQAtam Siva-BedaH azwaDA sTitaH /
+   kathaṃ bhidyeta deveśa tattvataḥ kathaya prabho // Stk_19.1 //	kaTam Bidyeta deveSa tattvataH kaTaya praBo // Stc-_19.1 //
+   sakalaṃ niṣkalaṃ śūnyaṃ kalāḍhyaṃ khamalaṅkṛtam /	sakalam nizkalam SUnyam kalA-AXyam Kam-alaFkRtam /
+   kṣapaṇaṃ ca tathāntasthaṃ kaṇṭhoṣṭhyaṃ cāṣṭamaṃ viduḥ // Stk_19.2 //	kzapaNam ca taTA-antasTam kaNWa-uzWyam ca-azwamam viduH // Stc-_19.2 //
+   This verse is NisMula 6:6 (f.21verso, line 2) [reading smṛtam for viduḥ]	ThiH verse iH NisMulaH 6:6 (f.21va-IH-so, line 2) [reading smRtam foH viduH]
+   prāsādaṃ ṣaṣṭhasaṃyuktaṃ ṣaḍantena samanvitam /	prAsAdam zazWa-saMyuktam zaw-antena samanvitam /
+   3b = NisMula 6:7b	3B  NisMula 6:7b
+   sakalaṃ sarvabhūtasthaṃ śivatattvaṃ prakīrtitam // Stk_19.3 //	sakalam sarva-BUta-sTam Siva-tattvam prakIrtitam // Stc-_19.3 //
+   3cd = NisMula 6:7cd [with @dehasthaṃ for @bhūtasthaṃ]	3cd  NisMulaH 6:7cd [wiT @deha-sTam foH @BUta-sTaM]
+   niṣkrāmati svayaṃ devo dehaṃ tyaktvā samārutaḥ /	nizkrAmati svayam devaH deham tyaktvA sa-mArutaH /
+   niṣkalaṃ taṃ vijānīyāt ṣaḍvarṇarahitaṃ śivam // Stk_19.4 //	nizkalam tam vijAnIyAt zaz-varNa-rahitam Sivam // Stc-_19.4 //
+   4abcd = NisMula 6:8	4abcd  NisMulaH 6:8
+   niśvāsocchvasane hitvā sthito dehe tu kāṣṭhavat /	niSvAsa-ucCvasane hitvA sTitaH dehe tu kAzWa-vat /
+   śūnyaṃ taṃ tu vijānīyād dhṛdayena tu bhāvayet // Stk_19.5 //	SUnyam tam tu vijAnIyAt DRdayena tu BAvayet // Stc-_19.5 //
+   5abcd = NisMula 6:9	5abcd  NisMulaH 6:9
+   cumbākāreṇa vaktreṇa yattattvaṃ parikīrtitam /	cumba-AkAreNa vaktreNa yat-tattvam parikIrtitam /
+   kalāḍhyaṃ taṃ vijānīyād ākāśasthamatha śṛṇu // Stk_19.6 //	kalA-AXyam tam vijAnIyAt AkASa-sTam-aTa SRNu // Stc-_19.6 //
+   aiśa treatment of ṛ in śṛṇu [making the previous syllable long]	ESa treatment of R id SRNu [makinc Te previouH syllable long]
+   6acd = NisMula 6:10acd	6acd  NisMulaH 6:10acd
+   ūrdhvanādasya kṣīṇasya yadantaṃ parikīrtitam /	UrDva-nAdasya kzINasya yat-antam parikIrtitam /
+   tatrasthaṃ taṃ vijānīyād ākāśena tvalaṅkṛtam // Stk_19.7 //	tatrasTam tam vijAnIyAt AkASena tu-alaFkRtam // Stc-_19.7 //
+   7abcd = NisMula 6:11	7abcd  NisMulaH 6:11
+   vyāvṛtenaiva vaktreṇa brūyadevaṃ jagadgurum /	vyAvRtena-eva vaktreNa brUyadevam jagadgurum /
+   duḥkhakṣapaṇamityuktaṃ tatkṣayātkṣapaṇaṃ smṛtam // Stk_19.8 //	duHKa-kzapaNam-iti-uktam tad-kzayAt-kzapaNam smRtam // Stc-_19.8 //
+   8abcd = NisMula 6:12	8abcd  NisMulaH 6:12
+   adhonādasya kṣīṇasya yadantaṃ parikīrtitam /	aDas-nAdasya kzINasya yat-antam parikIrtitam /
+   antasthaṃ taṃ vijānīyād anuccāryaṃ prakīrtitam // Stk_19.9 //	antasTam tam vijAnIyAt anuccAryam prakIrtitam // Stc-_19.9 //
+   9abcd = NisMula 6:13	9abcd  NisMulaH 6:13
+   saptavargāṣṭamaṃ koṭiḥ saptamasya dvitīyakam /	saptavarga-azwamam kowiH saptamasya dvitIyakam /
+   vargātītaṃ ṣaḍantaṃ ca saptamāttricaturthakam // Stk_19.10 //	varga-atItam zaw-antam ca saptamAt-tri-caturTakam // Stc-_19.10 //
+   10 = NisMula 6:14	10  NisMulaH 6:14
+   ādimaṃ tu punaryojyaṃ ṣaṣṭhaṃ vai prathamasya tu /	Adimam tu punar-yojyam zazWam vE praTamasya tu /
+   khaśekharasamāyuktaṃ kaṇṭhoṣṭhyaṃ cāṣṭamaṃ smṛtam // Stk_19.11 //	Ka-SeKara-samAyuktam kaNWa-uzWyam ca-azwamam smRtam // Stc-_19.11 //
+   11 = NisMula 6:15	11  NisMulaH 6:15
+   ete bhedāḥ samākhyātā aṇimādiprasādhane /	ete BedAH samAKyAtAH aNima-Adi-prasADane /
+   anuccāryamasandigdhaṃ mokṣa ityabhidhīyate // Stk_19.12 //	anuccAryam-asan-digDam mokzaH iti-aBiDIyate // Stc-_19.12 //
+   śivabhedāṣṭakapratipādanaprakaraṇam	Siva-Beda-azwaka-pratipAdana-prakaraNam
+   ityekonaviṃśaḥ paṭalaḥ	iti-ekonaviMSaH pawalaH
+   kathaṃ vyāpī adhaścordhvaṃ tiryak caiva kathaṃ bhavet /	kaTam vyApI aDas-ca-UrDvam tiryak ca-eva kaTam Bavet /
+   etanme brūhi tattvena kāruṇyāttvaṃ maheśvara // Stk_20.1 //	etat-me brUhi tattvena kAruNyAt-tvam maheSvaraH // Stc-_20.1 //
+   yāvaddehe sthito jantor adhastāvadvyavasthitaḥ /	yAvat-dehe sTitaH jantoH aDas-tAvat-vyavasTitaH /
+   nirgato vyāpayettiryag- antasthaḥ sarvataḥ sthitaḥ // Stk_20.2 //	nirgataH vyApayet-tiryag antasTaH sarvatas sTitaH // Stc-_20.2 //
+   trimārgāvasthito devaḥ sarvadeheṣu vartate /	tri-mArga-avasTitaH devaH sarva-dehezu vartate /
+   aviditvā na mucyeta yadyapyetallayo bhavet // Stk_20.3 //	aviditvA na mucyeta yadi-api-etat-layaH Bavet // Stc-_20.3 //
+   tattrimārgaṃ tryadhiṣṭhānaṃ sarvadeheṣu vartate /	tat-tri-mArgam tri-aDizWAnam sarva-dehezu vartate /
+   yo vettyevamimāṃ vyāptiṃ sarvavyāpī na saṃśayaḥ // Stk_20.4 //	yaH vetti-evam-imAm vyAptim sarva-vyApI na saMSayaH // Stc-_20.4 //
+   na tasya garbhasambhūtir yathā devaḥ prabhāṣate /	na tasya garBa-samBUtiH yaTA devaH praBAzate /
+   tāvadbhramati saṃsāre yāvadvyāptiṃ na vindati // Stk_20.5 //	tAvat-Bramati saMsAre yAvat-vyAptim na vindati // Stc-_20.5 //
+   viditvā vyāpinaṃ jīvaṃ mucyate nātra saṃśayaḥ /	viditvA vyApinam jIvam mucyate na-atra saMSayaH /
+   yathā tṛṇajalūkā nu tṛṇāgraṃ yāvadāgatā // Stk_20.6 //	yaTA tRNajalUkA nu tRNa-agram yAvat-AgatAH // Stc-_20.6 //
+   upariṣṭānnirālambā tadvajjīvo 'tra saṃsthitaḥ /	uparizwAt-nirAlambA tadvat-jIvaH atra saMsTitaH /
+   ūrdhvaśūnyamadhaḥ śūnyaṃ śūnyaṃ dehāntarasthitam // Stk_20.7 //	UrDva-SUnyam-aDas SUnyam SUnyam deha-antara-sTitam // Stc-_20.7 //
+   triśūnyaṃ yo vijānāti mucyate sa dhruvaṃ guha /	triSUnyam yaH vijAnAti mucyate sa Druvam guhaH /
+   vyāptiścāsya mayā proktā saṃkṣepānna tu vistarāt /	vyAptiH-ca-asya mayA proktA saMkzepAt-na tu vistarAt /
+   ataḥ parataraṃ nāsti vyāpakaṃ vyāpakasya tu // Stk_20.8 //	atas parataram na-asti vyApakam vyApakasya tu // Stc-_20.8 //
+   vyāptiprakaraṇam	vyApti-prakaraNam
+   iti viṃśaḥ paṭalaḥ	iti viMSaH pawalaH
+   ataḥ paraṃ pravakṣyāmi aṣṭadhā pratyayo yathā /	atas param pravakzyAmi azwaDA pratyayaH yaTA /
+   anagnijvalanaṃ caiva vṛkṣasyālabhanaṃ tathā // Stk_21.1 //	anagni-jvalanam ca-eva vRkzasya-AlaBanam taTA // Stc-_21.1 //
+   pāśānāṃ stobhanaṃ caiva mahāpātakanāśanam /	pASAnAm stoBanam ca-eva mahApAtaka-nASanam /
+   viṣasaṃharaṇaṃ caiva nirbījakaraṇaṃ tathā // Stk_21.2 //	viza-saMharaNam ca-eva nirbIja-karaNam taTA // Stc-_21.2 //
+   grahajvaravināśaśca pratyayo 'ṣṭavidhaḥ smṛtaḥ /	graha-jvara-vinASaH-ca pratyayaH azwaviDaH smRtaH /
+   evaṃ jñātvā tu vidhivat khyātiḥ sarvatra jāyate // Stk_21.3 //	evam jQAtvA tu viDivat KyAtiH sarvatra jAyate // Stc-_21.3 //
+   praṇavenāgnimadhyastho hakāro hrīṃ tathaiva ca /	praNavena-agni-maDya-sTaH hakAraH hrIm taTA-eva ca /
+   ādiroṃ ca namaścānte anagnijvalane hitam // Stk_21.4 //	Adirom ca namaH-ca-ante anagni-jvalane hitam // Stc-_21.4 //
+   agniṃ srotasi saṃyojya sahasrodghātasaṃyutam /	agnim srotasi saMyojya sahasra-udGAta-saMyutam /
+   pañcākṣaraprayogeṇa jvalatyeva na saṃśayaḥ // Stk_21.5 //	paQcAkzara-prayogeNa jvalati-eva na saMSayaH // Stc-_21.5 //
+   oṃkāraḥ sarvato 'dhastād rephastasyordhvataḥ sthitaḥ /	oMkAraH sarvatas aDastAt rePaH-tasya-UrDvatas sTitaH /
+   pūrvavatsamprayukto 'yaṃ prayogo bhuvi durlabhaḥ // Stk_21.6 //	pUrvavat-samprayuktaH ayam prayogaH Buvi durlaBaH // Stc-_21.6 //
+   śataiḥ saptabhirudghātair ālabdho mriyate drumaḥ /	SatEH saptaBiH-udGAtEH AlabDaH mriyate drumaH /
+   bhūyasścāpyāyanaṃ tasya vāruṇe srotasi sthitam // Stk_21.7 //	BUyasH-ca-ApyAyanam tasya vAruNe srotasi sTitam // Stc-_21.7 //
+   sa jīvati punarvṛkṣo yathāpūrvaṃ tathaiva saḥ /	sa jIvati punar-vRkzaH yaTApUrvam taTA-eva saH /
+   tādṛgeva punaścāsau kiṃ tu rephavivarjitaḥ // Stk_21.8 //	tAdRS-eva punar-ca-asO kim tu rePa-vivarjitaH // Stc-_21.8 //
+   āpyāyanavidhau hyeṣa pañcadhā bindudīpitaḥ /	ApyAyana-viDO hi-eza paQcaDA bindu-dIpitaH /
+   aukāramadhyasaṃyuktaḥ praṇavenāntadīpitaḥ // Stk_21.9 //	OkAra-maDya-saMyuktaH praNavena-anta-dIpitaH // Stc-_21.9 //
+   īkārādiḥ sa hau madhye vahnimadhyaṃ tataḥ param /	IkAra-AdiH sa hO maDye vahni-maDyam tatas param /
+   prayogo viṣuvatkāle pāśānāṃ stobhakārakaḥ // Stk_21.10 //	prayogaH vizuvat-kAle pASAnAm stoBa-kArakaH // Stc-_21.10 //
+   śataiḥ pañcabhirudghātaiḥ patatyeva na saṃśayaḥ /	SatEH paQcaBiH-udGAtEH patati-eva na saMSayaH /
+   punaścotthāpanaṃ tasya yathā bhavati tacchṛṇu // Stk_21.11 //	punar-ca-utTApanam tasya yaTA Bavati tat-SRNu // Stc-_21.11 //
+   īkārādyantasaṃyuktaṃ hau ca madhye niyojitam /	IkAra-Adi-anta-saMyuktam hO ca maDye niyojitam /
+   prāṇānusvārasandīptaṃ namo 'ntaṃ praṇavaṃ punaḥ // Stk_21.12 //	prANa-anusvAra-sandIptam namaH antam praNavam punar // Stc-_21.12 //
+   utthāpane prayuñjīta sarvabhūteṣu tattvavit /	utTApane prayuQjIta sarva-BUtezu tattva-vid /
+   tāvadbhireva codghātair yojanīyaḥ prayatnataḥ // Stk_21.13 //	tAvadBiH-eva ca-udGAtEH yojanIyaH prayatnataH // Stc-_21.13 //
+   labījaṃ jīvasaṃviṣṭaṃ hakārādyantasaṃsthitam /	labIjam jIva-saMvizwam hakAra-Adi-anta-saMsTitam /
+   pūrvavanmadhyasaṃsthaṃ ca vāyubindusamanvitam // Stk_21.14 //	pUrvavat-maDya-saMsTam ca vAyu-bindu-samanvitam // Stc-_21.14 //
+   yadasyārohaṇe proktaṃ gurutvaṃ jāyate yathā /	yat-asya-ArohaNe proktam guru-tvam jAyate yaTA /
+   bhūya eva pravakṣyāmi laghutvaṃ jāyate yathā // Stk_21.15 //	BUyas eva pravakzyAmi laGu-tvam jAyate yaTA // Stc-_21.15 //
+   oṃkāro haṃ yakāreṇa hyaukāro haṃ namastathā /	oMkAraH ham yakAreNa hi-OkAraH ham namaH-taTA /
+   tulāpuruṣayogo 'yam udghātairayutena tu // Stk_21.16 //	tulApuruza-yogaH ayam udGAtEH-ayutena tu // Stc-_21.16 //
+   sa hakāro vakāreṇa yakāreṇa ca dīpitaḥ /	sa hakAraH vakAreNa yakAreNa ca dIpitaH /
+   hyau madhye hlīṃ namaścānte vāruṇena tu buddhimat // Stk_21.17 //	hyO maDye hlIm namaH-ca-ante vAruNena tu budDimat // Stc-_21.17 //
+   udghātāṣṭaśatenaiva viṣaṃ saṃharati dhruvam /	udGAta-azwaSatena-eva vizam saMharati Druvam /
+   yathāgnijvalane dṛṣṭo nirbījakaraṇe tathā // Stk_21.18 //	yaTA-agni-jvalane dRzwaH nirbIja-karaNe taTA // Stc-_21.18 //
+   śataiḥ pañcabhirudghātair viśeṣo 'tra vidhīyate /	SatEH paQcaBiH-udGAtEH viSezaH atra viDIyate /
+   oṃkāramāditaḥ kṛtvā hrūṃkāraṃ tadanantaram // Stk_21.19 //	oMkAram-Aditas kRtvA hrUMkAram tad-anantaram // Stc-_21.19 //
+   hrauṃ hrūṃ ca phaṇṇamaścānte grahāṇāṃ nāśane mataḥ /	hrOm hrUm ca PaNNamaH-ca-ante grahANAm nASane mataH /
+   prayoge vāruṇe mārge udghātāṣṭaśatena tu // Stk_21.20 //	prayoge vAruNe mArge udGAta-azwaSatena tu // Stc-_21.20 //
+   praṇavādi tato huṃ phaṭ huṃ phaṭ huṃ phaṭ tathaiva ca /	praNava-Adi tatas hum Paw hum Paw hum Paw taTA-eva ca /
+   phaṭ phaṭ phaṭ phaṭ phaḍevaṃ syād vāruṇena tu buddhimān /	Paw Paw Paw Paw Paw-evam syAt vAruNena tu budDimAn /
+   udghātāṣṭaśatenaiva kṣipraṃ nāśayati jvaram // Stk_21.21 //	udGAta-azwaSatena-eva kzipram nASayati jvaram // Stc-_21.21 //
+   pratyayaprakaraṇam	pratyaya-prakaraNam
+   ityekaviṃśaḥ paṭalaḥ	iti-ekaviMSaH pawalaH
+   prāsādaḥ kīdṛśo jñeyo vyāptistasya ca kīdṛśī /	prAsAdaH kIdRSaH jQeyaH vyAptiH-tasya ca kIdRSI /
+   śarīraṃ kīdṛśaṃ tasya kathayasva maheśvara // Stk_22.1 //	SarIram kIdRSam tasya kaTayasva maheSvaraH // Stc-_22.1 //
+   prāsādaṃ yo na jānāti pañcamantramahātanum /	prAsAdam yaH na jAnAti paQcamantra-mahA-tanum /
+   aṣṭatriṃśatkalopetaṃ nāsāvācārya ucyate // Stk_22.2 //	azwatriMSat-kalA-upetam na-asO=-AcAryaH ucyate // Stc-_22.2 //
+   prāsādaṃ samyagajñātvā yo dīkṣāṃ kurute guruḥ /	prAsAdam samyak-ajQAtvA yaH dIkzAm kurute guruH /
+   adhastācchiṣyamātmānaṃ nayatyatra na saṃśayaḥ // Stk_22.3 //	aDastAt-Sizyam-AtmAnam nayati-atra na saMSayaH // Stc-_22.3 //
+   prāsādābjaśikhāntastho yastu dīkṣāṃ karoti saḥ /	prAsAda-abja-SiKA-anta-sTaH yaH-tu dIkzAm karoti saH /
+   ācāryaḥ saha śiṣyeṇa śivasāyujyamāpnuyāt // Stk_22.4 //	AcAryaH saha SizyeNa Siva-sAyujyam-ApnuyAt // Stc-_22.4 //
+   brahmā viṣṇuśca rudraśca indraścandro bṛhaspatiḥ /	brahmA vizNuH-ca rudraH-ca indraH-candraH bRhaspatiH /
+   prajāpatistathādityaḥ śukraḥ skando bhṛgustathā // Stk_22.5 //	prajApatiH-taTA-AdityaH SukraH skandaH BRguH-taTA // Stc-_22.5 //
+   ye cānye prāṇino devāḥ sarve proktāḥ prasādajāḥ /	ye ca-anye prANinaH devAH sarve proktAH prasAda-jAH /
+   ete cānye ca bahavo munayaḥ saṃśitavratāḥ // Stk_22.6 //	ete ca-anye ca bahavaH munayaH saMSita-vratAH // Stc-_22.6 //
+   dhyāyanti paramaṃ haṃsaṃ prāsādaṃ nāmarūpataḥ /	DyAyanti paramam haMsam prAsAdam nAma-rUpataH /
+   vibhāgaṃ cāsya vakṣyāmi yaṃ dhyātvāmṛtamaśnute // Stk_22.7 //	viBAgam ca-asya vakzyAmi yam DyAtvA-amRtam-aSnute // Stc-_22.7 //
+   sadyaḥ kalāṣṭasaṃyuktam akārākṣarajaṃ viduḥ /	sadyas kalA-azwa-saMyuktam akAra-akzara-jam viduH /
+   vidyādukārajaṃ vāmam aghoraṃ ca makārajam // Stk_22.8 //	vidyAt-ukAra-jam vAmam aGoram ca makAra-jam // Stc-_22.8 //
+   bindujaḥ puruṣo jñeya īśānastu śikhātmajaḥ /	bindujaH puruzaH jQeyaH ISAnaH-tu SiKA-AtmajaH /
+   evaṃ mantrāstu pañcaite prāsādātsambhavanti ye // Stk_22.9 //	evam mantrAH-tu paQca-ete prAsAdAt-samBavanti ye // Stc-_22.9 //
+   daśakoṭiḥ sahasrāṇāṃ mantrāṇāmamitaujasām /	daSa-kowiH sahasrANAm mantrANAm-amita-ojasAm /
+   iṣṭena tu prasādena sarva iṣṭā na saṃśayaḥ // Stk_22.10 //	izwena tu prasAdena sarve izwAH na saMSayaH // Stc-_22.10 //
+   mārutā nava śaktyādyā ye mantrāḥ parikīrtitāḥ /	mArutAH nava Sakti-AdyAH ye mantrAH parikIrtitAH /
+   prāsādābjasamutpannāḥ sarve cāmoghaśaktayaḥ // Stk_22.11 //	prAsAda-abja-samutpannAH sarve ca-amoGa-SaktayaH // Stc-_22.11 //
+   sadyastu pṛthivī jñeyo vāmo hyāpaḥ prakīrtitaḥ /	sadyas-tu pRTivI jQeyaH vAmaH hi-ApaH prakIrtitaH /
+   aghorasteja ityukto vāyustatpuruṣaḥ smṛtaḥ // Stk_22.12 //	aGoraH-tejaH iti-uktaH vAyuH-tatpuruzaH smRtaH // Stc-_22.12 //
+   ākāśastu bhavedīśaḥ svayaṃ devo maheśvaraḥ /	AkASaH-tu Bavet-ISaH svayam devaH maheSvaraH /
+   sadyojātastu ṛgvedo vāmadevo yajuḥ smṛtaḥ // Stk_22.13 //	sadyojAtaH-tu RgvedaH vAmadevaH yajuH smRtaH // Stc-_22.13 //
+   aghoraḥ sāmavedaḥ syād atharvaḥ puruṣaḥ smṛtaḥ /	aGoraH sAmavedaH syAt aTarvaH puruzaH smRtaH /
+   pañcamastu paraḥ sūkṣmo vyomavyāpī sadāśivaḥ // Stk_22.14 //	paQcamaH-tu paraH sUkzmaH vyoma-vyApI sadASivaH // Stc-_22.14 //
+   sadyojātastu vai brahmā vāmo viṣṇuḥ prakīrtitaḥ /	sadyojAtaH-tu vE brahmA vAmaH vizNuH prakIrtitaH /
+   aghoro rudradaivatya īśvaraḥ puruṣaḥ smṛtaḥ // Stk_22.15 //	aGoraH rudra-dEvatyaH ISvaraH puruzaH smRtaH // Stc-_22.15 //
+   īśānaḥ śivadaivatyo hṛdayādāvavasthitaḥ /	ISAnaH Siva-dEvatyaH hRdaya-AdO=-avasTitaH /
+   ṣaṣṭhaṃ tu yatparaṃ tattvam asādṛśyaguṇaiḥ sthitam // Stk_22.16 //	zazWam tu yat-param tattvam asAdRSya-guNEH sTitam // Stc-_22.16 //
+   tasya deho na vaktavyaḥ prākṛtairguṇasambhavaiḥ /	tasya dehaH na vaktavyaH prAkRtEH-guNa-samBavEH /
+   jñātvā paramaniḥśreṇīṃ pañcasaṃsthānagāminīm // Stk_22.17 //	jQAtvA parama-niHSreNIm paQca-saMsTAna-gAminIm // Stc-_22.17 //
+   jñātameva sakṛdyena vistṛtaṃ tu tadeva tat /	jQAtam-eva sakRt-yena vistRtam tu tat-eva tat /
+   tatkāla eva mukto 'sau yadā jñātaṃ hi tatpadam // Stk_22.18 //	tad-kAle eva muktaH asO yadA jQAtam hi tad-padam // Stc-_22.18 //
+   prāsādanirṇayaprakaraṇam	prAsAda-nirNaya-prakaraNam
+   iti dvāviṃśaḥ paṭalaḥ	iti dvAviMSaH pawalaH
+   śṛṇu ṣaṇmukha tattvena jñānāmṛtamanuttamam /	SRNu zaNmuKa tattvena jQAna-amRtam-anuttamam /
+   yanna kasyacidākhyātaṃ nākhyeyaṃ kathayāmi tat // Stk_23.1 //	yat-na kasyacid-AKyAtam na-AKyeyam kaTayAmi tat // Stc-_23.1 //
+   dehasthaḥ sakalo jñeyo niṣkalo dehavarjitaḥ /	deha-sTaH sakalaH jQeyaH nizkalaH deha-varjitaH /
+   āptopadeśagamyo 'sau sarvataḥ kimapi sthitaḥ // Stk_23.2 //	Apta-upadeSa-gamyaH asO sarvatas kim-api sTitaH // Stc-_23.2 //
+   haṃsa haṃseti yo brūyad dhaṃso devaḥ sadāśivaḥ /	haMsa haMsa-iti yaH brUyat DaMsaH devaH sadASivaH /
+   guruvaktrāttu labhyeta pratyakṣaṃ sarvatomukhaḥ // Stk_23.3 //	guru-vaktrAt-tu laByeta pratyakzam sarvatomuKaH // Stc-_23.3 //
+   tileṣu ca yathā tailaṃ puṣpe gandha iva sthitaḥ /	tilezu ca yaTA tElam puzpe ganDaH iva sTitaH /
+   puruṣastu śarīre 'smin sabāhyābhyantare sthitaḥ // Stk_23.4 //	puruzaH-tu SarIre asmin sa-bAhya-aByantare sTitaH // Stc-_23.4 //
+   ulkāhasto yathā kaścid dravyamālokya tāṃ tyajet /	ulkA-hastaH yaTA kaScid dravyam-Alokya tAm tyajet /
+   jñānena jñeyamālokya tathā jñānaṃ parityajet // Stk_23.5 //	jQAnena jQeyam-Alokya taTA jQAnam parityajet // Stc-_23.5 //
+   puṣpaṃ tu sakalaṃ vidyād gandhastasya tu niṣkalaḥ /	puzpam tu sakalam vidyAt ganDaH-tasya tu nizkalaH /
+   vṛkṣaṃ tu sakalaṃ vidyāc chāyā tasya tu niṣkalā // Stk_23.6 //	vRkzam tu sakalam vidyAt CAyA tasya tu nizkalAH // Stc-_23.6 //
+   sakale niṣkalo bhāvaḥ sarvatraiva vyavasthitaḥ /	sakale nizkalaH BAvaH sarvatra-eva vyavasTitaH /
+   upāyaḥ sakalastadvad upeyaścaiva niṣkalaḥ // Stk_23.7 //	upAyaH sakalaH-tadvat upeyaH-ca-eva nizkalaH // Stc-_23.7 //
+   sakale sakalo bhāvo niṣkale niṣkalastathā /	sakale sakalaH BAvaH nizkale nizkalaH-taTA /
+   trimātraśca dvimātraśca ekamātrastathaiva ca // Stk_23.8 //	tri-mAtraH-ca dvi-mAtraH-ca eka-mAtraH-taTA-eva ca // Stc-_23.8 //
+   ardhamātrā parā sūkṣmā tasyā ūrdhvaṃ parātparam /	arDa-mAtrA parA sUkzmA tasyAH UrDvam parAtparam /
+   brahmā viṣṇuśca rudraśca īśvaraḥ śiva eva vā // Stk_23.9 //	brahmA vizNuH-ca rudraH-ca ISvaraH SivaH eva vA // Stc-_23.9 //
+   pañcadhā pañcadaivatyaḥ sakalaḥ paripaṭhyate /	paQcaDA paQca-dEvatyaH sakalaH paripaWyate /
+   brahmaṇo hṛdayaṃ sthānaṃ kaṇṭhe viṣṇuḥ samāśritaḥ // Stk_23.10 //	brahmaNaH hRdayam sTAnam kaNWe vizNuH samASritaH // Stc-_23.10 //
+   tālumadhye sthito rudro lalāṭastho maheśvaraḥ /	tAlu-maDye sTitaH rudraH lalAwa-sTaH maheSvaraH /
+   nāsāgre tu śivaṃ vidyāt tasyānte tu paraṃ padam // Stk_23.11 //	nAsA-agre tu Sivam vidyAt tasya-ante tu param padam // Stc-_23.11 //
+   nāsāgre MSS i,ī,u,mu; nādānte Bhatt	nAsA-agre MSS i,I,u,mu; nAda-ante Bhatt
+   parasmāttu paraṃ nāsti iti śāstrasya niścayaḥ /	parasmAt-tu param na-asti iti SAstrasya niScayaH /
+   gamāgamaḥ kathaṃ tasya kena vā nīyate tu saḥ // Stk_23.12 //	gamAgamaH kaTam tasya kena vA nIyate tu saH // Stc-_23.12 //
+   saṃśayo me mahādeva kathayasva yathārthataḥ /	saMSayaH me mahAdeva kaTayasva yaTArTataH /
+   śaktyā tu nīyate jīvas tasminprāpya nivartate // Stk_23.13 //	SaktyA tu nIyate jIvaH tasmin-prApya nivartate // Stc-_23.13 //
+   asyāntaṃ te pravakṣyāmi śṛṇu ṣaṇmukha tattvataḥ /	asya-antam te pravakzyAmi SRNu zaNmuKa tattvataH /
+   dehātītaṃ tu tadvidyān nāsāgre dvādaśāṅgulam // Stk_23.14 //	deha-atItam tu tad-vidyAt nAsA-agre dvAdaSa-aFgulam // Stc-_23.14 //
+   tadantaṃ tadvijānīyāt tatrastho vyāpayetprabhuḥ /	tad-antam tat-vijAnIyAt tatrasTaH vyApayet-praBuH /
+   mano 'pyanyatra nikṣiptaṃ cakṣuranyatra pātitam // Stk_23.15 //	manaH api-anyatra nikziptam cakzuH-anyatra pAtitam // Stc-_23.15 //
+   tathāpi yogināṃ yogo hyavicchinnaḥ pravartate /	taTA-api yoginAm yogaH hi-avicCinnaH pravartate /
+   etattatparamaṃ guhyam etattatparamākṣaram // Stk_23.16 //	etat-tat-paramam guhyam etat-tad-parama-akzaram // Stc-_23.16 //
+   nātaḥ parataraṃ kiñcin nātaḥ parataraṃ śivam /	na-atas parataram kiQcid na-atas parataram Sivam /
+   nātaḥ parataraṃ jñānam ityāha bhagavāñśivaḥ // Stk_23.17 //	na-atas parataram jQAnam iti-Aha BagavAn-SivaH // Stc-_23.17 //
+   śivajñānāmṛtaṃ prāpya saṃkṣepānna tu vistarāt /	Siva-jQAna-amRtam prApya saMkzepAt-na tu vistarAt /
+   kathito devadevena paramākṣaranirṇayaḥ // Stk_23.18 //	kaTitaH devadevena parama-akzara-nirNayaH // Stc-_23.18 //
+   etatte śivasadbhāvaṃ śivavaktrādviniḥsṛtam /	etat-te Siva-sadBAvam Siva-vaktrAt-viniHsRtam /
+   guhyādguhyatamaṃ guhyaṃ gūhanīyaṃ prayatnataḥ // Stk_23.19 //	guhyAt-guhyatamam guhyam gUhanIyam prayatnataH // Stc-_23.19 //
+   nāśiṣyāya pradātavyaṃ nāputrāya kadācana /	na-aSizyAya pradAtavyam na-aputrAya kadAcana /
+   gurudevāgnibhaktāya nityaṃ muktiratāya ca // Stk_23.20 //	guru-deva-agni-BaktAya nityam mukti-ratAya ca // Stc-_23.20 //
+   pradātavyamidaṃ śāstraṃ netarebhyaḥ pradāpayet /	pradAtavyam-idam SAstram na-itareByaH pradApayet /
+   dātāsya narakaṃ yāti siddhyecca na kadācana // Stk_23.21 //	dAtA-asya narakam yAti sidDyet-ca na kadAcana // Stc-_23.21 //
+   śivāmṛtaṃ mayā khyātaṃ satyaṃ satyamidaṃ tava /	Siva-amRtam mayA KyAtam satyam satyam-idam tava /
+   evaṃ jñātvā tu medhāvī vicarettu yathāsukham // Stk_23.22 //	evam jQAtvA tu meDAvI vicaret-tu yaTAsuKam // Stc-_23.22 //
+   gṛhastho brahmacārī ca vānaprastho 'tha bhaikṣukaḥ /	gRhasTaH brahmacArI ca vAnaprasTaH aTa BEkzukaH /
+   yatra yatra sthito jñānī paramākṣaravit sadā // Stk_23.23 //	yatra yatra sTitaH jQAnI parama-akzara-vid sadA // Stc-_23.23 //
+   viṣayī viṣayāsakto yāti dehāntake śivam /	vizayI vizaya-AsaktaH yAti dehAntake Sivam /
+   jñānādevāsya śāstrasya sarvāvastho 'pi mānavaḥ // Stk_23.24 //	jQAnAt-eva-asya SAstrasya sarva-avasTaH api mAnavaH // Stc-_23.24 //
+   brahmahatyāśvamedhādyaiḥ puṇyapāpairna lipyate /	brahmahatyA-aSvameDa-AdyEH puNya-pApEH-na lipyate /
+   codako bodhakaścaiva mokṣadaśca paraḥ smṛtaḥ // Stk_23.25 //	ca-udakaH boDakaH-ca-eva mokza-daH-ca paraH smRtaH // Stc-_23.25 //
+   ityevaṃ trividho jñeya ācāryastu mahītale /	iti-evam triviDaH jQeyaH AcAryaH-tu mahI-tale /
+   codako darśayenmārgaṃ bodhakaḥ sthānamādiśet /	ca-udakaH darSayet-mArgam boDakaH sTAnam-AdiSet /
+   mokṣadastu paraṃ tattvaṃ yajjñātvāmṛtamaśnute // Stk_23.26 //	mokza-daH-tu param tattvam yat-jQAtvA-amRtam-aSnute // Stc-_23.26 //
+   jñānāmṛtaprakaraṇam	jQAna-amRta-prakaraNam
+   iti trayoviṃśaḥ paṭalaḥ	iti trayoviMSaH pawalaH

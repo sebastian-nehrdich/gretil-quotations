@@ -1,0 +1,443 @@
+   ekam evādvitīyaṃ tad brahmety upaniṣadvacaḥ /	ekam eva-advitIyam tat brahma-iti upanizad-vacaH /
+   brahmaṇo 'nyasya sadbhāvaṃ nanu tat pratiṣedhati // YSsi_1 //	brahmaNaH anyasya sadBAvam nanu tat pratizeDati // YSsi_1 //
+   atra brūmo 'dvitīyoktau samāsaḥ ko vivakṣitaḥ /	atra brUmaH advitIya-uktO samAsaH kaH vivakzitaH /
+   kiṃsvit tatpuruṣaḥ kiṃ vā bahuvrīhir athocyatām // YSsi_2 //	kiMsvid tatpuruzaH kim vA bahuvrIhiH aTa-ucyatAm // YSsi_2 //
+   pūrvasminn uttaras tāvat pradhānyena vivakṣyate /	pUrvasmin uttaraH tAvat praDAnyena vivakzyate /
+   padārthas tatra tad brahma tato'nyat sadṛśaṃ tu vā // YSsi_3 //	padArTaH tatra tat brahma tatas-anyat sadRSam tu vA // YSsi_3 //
+   tadviruddham atho vā syāt triṣv apy anyan na bādhate /	tad-virudDam aTo vA syAt trizu api anyat na bADate /
+   anyatve sadṛśatve vā dvitīyaṃ sidhyati dhruvam // YSsi_4 //	anya-tve sadRSa-tve vA dvitIyam siDyati Druvam // YSsi_4 //
+   viruddhatve dvitīyena tṛtīyaṃ prathamaṃ tu vā /	virudDa-tve dvitIyena tRtIyam praTamam tu vA /
+   brahma prāpnoti yasmāt tad dvitīyena virudhyate // YSsi_5 //	brahma prApnoti yasmAt tat dvitIyena viruDyate // YSsi_5 //
+   ataḥ saprathamāḥ sarve tṛtīyādyartharāśayaḥ /	atas sa-praTamAH sarve tRtIya-Adi-arTa-rASayaH /
+   dvitīyena tathā spṛṣṭvā svārthās tiṣṭhanty abādhitāḥ // YSsi_6 //	dvitIyena taTA spRzwvA sva-arTAH tizWanti abADitAH // YSsi_6 //
+   nanu nañ brahmaṇo 'nyasya sarvasyaiva niṣedhakam /	nanu nan brahmaNaH anyasya sarvasya-eva nizeDakam /
+   dvitīyagrahaṇaṃ yasmāt sarvasyaivopalakṣaṇam // YSsi_7 //	dvitIya-grahaNam yasmAt sarvasya-eva-upalakzaNam // YSsi_7 //
+   naivaṃ niṣedho na hy asmād dvitīyasyāvagamyate /	na-evam nizeDaH na hi asmAt dvitIyasya-avagamyate /
+   tato 'nyat tadviruddhaṃ vā sadṛśaṃ vātra vakti saḥ // YSsi_8 //	tatas anyat tad-virudDam vA sadRSam vA-atra vakti saH // YSsi_8 //
+   dvitīyaṃ yasya naivāsti tad brahmeti vivakṣite /	dvitIyam yasya na-eva-asti tat brahma-iti vivakzite /
+   satyādilakṣaṇoktīnām apalakṣaṇatā bhavet // YSsi_9 //	satya-Adi-lakzaNa-uktInAm apalakzaNa-tA Bavet // YSsi_9 //
+   advitīye dvitīyārtha- nāstitāmātragocare /	advitIye dvitIya-arTa na-astitA-mAtra-gocare /
+   svaniṣṭhatvān nañarthasya na syād brahmapadānvayaḥ // YSsi_10 //	sva-nizWa-tvAt naQarTasya na syAt brahma-pada-anvayaH // YSsi_10 //
+   dvitīyaśūnyatā tatra brahmaṇo na viśeṣaṇam /	dvitIya-SUnyatA tatra brahmaNaH na viSezaNam /
+   viśeṣaṇe vā tad brahama tṛtīyaṃ prathamaṃ tu vā // YSsi_11 //	viSezaNe vA tat brahama tRtIyam praTamam tu vA // YSsi_11 //
+   prasaktaṃ pūrvavat sarvaṃ bahuvrīhau samasyati /	prasaktam pUrvavat sarvam bahuvrIhO samasyati /
+   brahmaṇaḥ prathamā ye ca tṛtīyādyā jagattraye // YSsi_12 //	brahmaNaH praTamA ye ca tRtIya-AdyAH jagattraye // YSsi_12 //
+   brahma praty advitīyatvāt svasthās tiṣṭhanty abādhitāḥ /	brahma prati advitIya-tvAt svasTAH tizWanti abADitAH /
+   kiñ ca tatra bahuvrīhau samāse saṃśrite sati // YSsi_13 //	kiQ ca tatra bahuvrIhO samAse saMSrite sati // YSsi_13 //
+   vṛttyarthasya nañarthasya na padārthāntarānvayaḥ /	vRtti-arTasya naQarTasya na padArTa-antara-anvayaH /
+   saty arthāntarasambandhe ṣaṣṭhī yasyeti yujyate // YSsi_14 //	sati arTa-antara-sambanDe zazWI yasya-iti yujyate // YSsi_14 //
+   dvitīyavastunāstitvaṃ na brahma na viśeṣaṇam /	dvitIya-vastu-nA-astitvam na brahma na viSezaNam /
+   asattvān na hy asad brahma bhaven nāpi viśeṣaṇam // YSsi_15 //	asattvAt na hi asat brahma Bavet na-api viSezaNam // YSsi_15 //
+   tasmāt prapañcasadbhāvo nādvaitaśrutibādhitaḥ /	tasmAt prapaQca-sadBAvaH na-advEta-Sruti-bADitaH /
+   svapramāṇabalāt siddhaḥ śrutyā cāpy anumoditaḥ // YSsi_16 //	sva-pramANa-balAt sidDaH SrutyA ca-api anumoditaH // YSsi_16 //
+   tenādvitīyaṃ brahmeti śruter artho 'yam ucyate /	tena-advitIyam brahma-iti SruteH arTaH ayam ucyate /
+   dvitīyagaṇanāyogyo nāsīd asti bhaviṣyati // YSsi_17 //	dvitIya-gaNanA-yogyaH na-AsIt asti Bavizyati // YSsi_17 //
+   samo vābhyadhiko vāsya yo dvitīyas tu guṇyate /	samaH vA-aByaDikaH vA-asya yaH dvitIyaH tu guNyate /
+   yato 'sya vibhavavyūha- kalāmātram idaṃ jagat // YSsi_18 //	yatas asya viBava-vyUha kalA-mAtram idam jagat // YSsi_18 //
+   dvitīyavāgāspadatāṃ pratipadyeta tatkatham /	dvitIya-vAc-Aspada-tAm pratipadyeta tat-kaTam /
+   yathā colanṛpaḥ samrāḍ- advitīyo 'dya bhūtale // YSsi_19 //	yaTA cola-nRpaH samrAx advitIyaH adya BU-tale // YSsi_19 //
+   iti tattulyanṛpati- nivāraṇaparaṃ vacaḥ /	iti tad-tulya-nRpati nivAraNa-param vacaH /
+   na tu tadbhṛtyatatputra- kalatrādiniṣedhakam // YSsi_20 //	na tu tad-BRtya-tad-putra kalatra-Adi-nizeDakam // YSsi_20 //
+   tathā surāsuranara- brahmabrahmāṇḍakoṭayaḥ /	taTA sura-asura-nara brahma-brahmANxa-kowayaH /
+   kleśakarmavipākādyair aspṛṣṭasyākhileśituḥ // YSsi_21 //	kleSa-karma-vipAka-AdyEH aspRzwasya-aKila-ISituH // YSsi_21 //
+   jñānādiṣāṇguṇyanidher acintyavibhavasya tāḥ /	jQAna-AdizANguNya-niDeH acintya-viBavasya tAH /
+   viṣṇor vibhūtimahima- samudradrapsavipraṣaḥ // YSsi_22 //	vizNoH viBUti-mahima samudra-drapsa-viprazaH // YSsi_22 //
+   kaḥ khalv aṅgulibhaṅgena samudrān saptasaṅkhyayā /	kaH Kalu aFguli-BaFgena samudrAn sapta-saFKyayA /
+   gaṇayan gaṇayed ūrmi- phenabudbudavipruṣaḥ // YSsi_23 //	gaNayan gaNayet Urmi Pena-budbuda-vipruzaH // YSsi_23 //
+   yathaika eva savitā na dvitīyo nabhaḥsthale /	yaTA-ekaH eva savitA na dvitIyaH naBaH-sTale /
+   ityuktyā na hi sāvitrā niṣidhyante 'tra raśmayaḥ // YSsi_24 //	iti-uktyA na hi sAvitrAH niziDyante atra raSmayaH // YSsi_24 //
+   yathā pradhānasaṅkhyeya- saṅkhyāyāṃ naiva gaṇyate /	yaTA praDAna-saFKyeya saFKyAyAm na-eva gaNyate /
+   saṅkhyā pṛthaksatī tatra saṅkhyeyānyapadārthavat // YSsi_25 //	saFKyA pRTak-satI tatra saFKyeya-anya-padArTa-vat // YSsi_25 //
+   tathā	taTA
+   pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divi /	pAdaH asya viSvA BUtAni tripAdasya-amRtam divi /
+   iti bruvan jagat sarvam itthambhāve nyaveśayat // YSsi_26 //	iti bruvan jagat sarvam itTam-BAve nyaveSayat // YSsi_26 //
+   tathā	taTA
+   etāvān asya mahimā tato jyāyastaro hi saḥ /	etAvAn asya mahimA tatas jyAyastaraH hi saH /
+   yatrānyan na vijānāti sa bhūmod aram antaram /	yatra-anyat na vijAnAti sa BUma-ut aram antaram /
+   kurute 'sya bhayaṃ vyaktam ityādiśrutayaḥ parāḥ // YSsi_27 //	kurute asya Bayam vyaktam iti-Adi-SrutayaH parAH // YSsi_27 //
+   meror ivāṇur yasyedaṃ brahmāṇḍam akhilaṃ jagat /	meroH iva-aNuH yasya-idam brahmANxam aKilam jagat /
+   ityādikāḥ samastasya taditthambhāvatāparāḥ // YSsi_28 //	iti-AdikAH samastasya tat-itTam-BAvatA-parAH // YSsi_28 //
+   vācārambhaṇamātraṃ tu jagat sthāvarajaṅgamam /	vAcA-AramBaNa-mAtram tu jagat sTAvara-jaFgamam /
+   vikārajātaṃ, kūṭasthaṃ mūlakāraṇam eva sat // YSsi_29 //	vikAra-jAtaM, kUwasTam mUla-kAraNam eva sat // YSsi_29 //
+   ananyat kāraṇāt kāryaṃ pāvakād visphuliṅgavat /	ananyat kAraNAt kAryam pAvakAt visPuliFga-vat /
+   mṛttikālohabījādi- nānādṛṣṭāntavistaraiḥ // YSsi_30 //	mRttikA-loha-bIja-Adi nAnA-dRzwAnta-vistarEH // YSsi_30 //
+   nāśakad dagdham analas tṛṇaṃ majjayituṃ jalam /	na-aSakat dagDam analaH tRNam majjayitum jalam /
+   na vāyuś calituṃ śaktaḥ tacchaktyāpy āyanād ṛte // YSsi_31 //	na vAyuH calitum SaktaH tad-SaktyA-api AyanAt Rte // YSsi_31 //
+   ekapradhānavijñānād vijñātam akhilaṃ bhavet /	eka-praDAna-vijQAnAt vijQAtam aKilam Bavet /
+   ityādivedavacana- tanmūlāptāgamair api // YSsi_32 //	iti-Adi-veda-vacana tad-mUla-Apta-AgamEH api // YSsi_32 //
+   brahmātmanātmalābho 'yaṃ prapañcaś cidacinmayaḥ /	brahma-AtmanA-Atma-lABaH ayam prapaQcaH cit-acit-mayaH /
+   iti pramīyate brāmhī vibhūtir na niṣidhyate // YSsi_33 //	iti pramIyate brAmhI viBUtiH na niziDyate // YSsi_33 //
+   tanniṣedhe samasta tasya mithyātvāl lokavedayoḥ /	tad-nizeDe samasta tasya miTyAtvAt loka-vedayoH /
+   vyavahārās tu lupyeran tathā syād brahmadhīr api // YSsi_34 //	vyavahArAH tu lupyeran taTA syAt brahma-DIH api // YSsi_34 //
+   vyāvahārikasatyatvān mṛṣātve 'py aviruddhatā /	vyAvahArika-satya-tvAt mRzA-tve api avirudDa-tA /
+   pratyakṣāder iti mataṃ prāg eva samadūduṣam // YSsi_35 //	pratyakza-AdeH iti matam prAk eva sama-dUduzam // YSsi_35 //
+   ataś copaniṣañjāta- brahmādvaitadhiyā jagat /	atas ca-upanizaQjAta brahmAdvEta-DiyA jagat /
+   na bādhyate vibhūtitvād brahmaṇaś cetyavasthitam // YSsi_36 //	na bADyate viBUti-tvAt brahmaNaH ca-iti-avasTitam // YSsi_36 //
+   nanu sattve prapañcasya nāstīti pratyayaḥ katham /	nanu sattve prapaQcasya na-asti-iti pratyayaH kaTam /
+   asattve vā kathaṃ tasminn astīti pratyayo bhavet // YSsi_37 //	asattve vA kaTam tasmin asti-iti pratyayaH Bavet // YSsi_37 //
+   sadasattvaṃ tathaikasya viruddhatvād asambhavi /	sat-asat-tvam taTA-ekasya virudDa-tvAt asamBavi /
+   sadasatpratyayaprāpta- viruddhadvandvasaṅgame // YSsi_38 //	sat-asat-pratyaya-prApta virudDa-dvandva-saFgame // YSsi_38 //
+   tayor anyatarārthasya niścayābhāvahetutaḥ /	tayoH anyatara-arTasya niScaya-aBAva-hetutaH /
+   sadasattvaṃ prapañcasya jainās tu pratipedire // YSsi_39 //	sat-asat-tvam prapaQcasya jEnAH tu pratipedire // YSsi_39 //
+   sattvaprāptiṃ puraskṛtya nāstīti pratyayodayāt /	sattva-prAptim puraskRtya na-asti-iti pratyaya-udayAt /
+   sadā sattvaṃ prapañcasya sāṅkhyās tu pratipādire // YSsi_40 //	sadA sattvam prapaQcasya sAFKyAH tu pratipAdire // YSsi_40 //
+   sadasatpratyayaprāpta- viruddhadvandvasaṅkaṭe /	sat-asat-pratyaya-prApta virudDa-dvandva-saFkawe /
+   virodhaparihārārthaṃ sattvāsattvāṃśabhaṅgataḥ /	viroDa-parihAra-arTam sattva-asattva-aMSa-BaFgataH /
+   sadasadbhyām anirvācyaṃ prapañcaṃ kecid ūcire // YSsi_41 //	sat-asadByAm anirvAcyam prapaQcam kecid Ucire // YSsi_41 //
+   sattvāsattve vibhāgena deśakālādibhetataḥ /	sattva-asattve viBAgena deSa-kAla-Adi-BetataH /
+   ghaṭāder iti manvānā vyavasthām apare jaguḥ // YSsi_42 //	Gawa-AdeH iti manvAnAH vyavasTAm apare jaguH // YSsi_42 //
+   tad evaṃ vādisammardāt saṃśaye samupasthite /	tat evam vAdi-sammardAt saMSaye samupasTite /
+   nirṇayaḥ kriyate tatra mīmaṃsakamatena tu // YSsi_43 //	nirNayaH kriyate tatra mImaMsaka-matena tu // YSsi_43 //
+   ghaṭasvarūpe nāstitvam astitvaṃ yady abūbudhat /	Gawa-svarUpe nAstitvam astitvam yadi abUbuDat /
+   syād eva yugapatsattvam asattvaṃ ca ghatādiṣu // YSsi_44 //	syAt eva yugapad-sattvam asattvam ca Gata-Adizu // YSsi_44 //
+   idānīm idam atrāsti nāstītyevaṃvidhā yataḥ /	idAnIm idam atra-asti na-asti-iti-evaMviDAH yatas /
+   deśakāladaśābhedād asti nāstīti no dhiyaḥ // YSsi_45 //	deSa-kAla-daSA-BedAt asti na-asti-iti naH DiyaH // YSsi_45 //
+   ato deśādibhedena sadasattvaṃ ghaṭādiṣu /	atas deSa-Adi-Bedena sat-asat-tvam Gawa-Adizu /
+   vyavasthitaṃ nirastatvād vādasyeha na sambhavaḥ // YSsi_46 //	vyavasTitam nirasta-tvAt vAdasya-iha na samBavaH // YSsi_46 //
+   nanu deśādisambandhaḥ sata evopapadyate /	nanu deSa-Adi-sambanDaH sataH eva-upapadyate /
+   na deśakālasambandhād asataḥ sattvam iṣyate // YSsi_47 //	na deSa-kAla-sambanDAt asataH sattvam izyate // YSsi_47 //
+   sambandho dvyāśrayas tasmāt sataḥ sattvaṃ sadā bhavet /	sambanDaH dvi-ASrayaH tasmAt sataH sattvam sadA Bavet /
+   asataḥ kārakaiḥ sattvaṃ janmanetyatidurghaṭam // YSsi_48 //	asataH kArakEH sattvam janmanA-iti-ati-durGawam // YSsi_48 //
+   ādyantavān prapañco 'taḥ satkakṣāntarniveśyate /	Adi-antavAn prapaQcaH atas sat-kakza-antar-niveSyate /
+   uktaṃ ca	uktam ca
+   "ādāv ante ca yan nāsti nāsti madhye 'pi tat tathā" /	"AdO ante ca yat na-asti na-asti maDye api tat taTA" /
+   ato niścitasadbhāvaḥ sadā sann abhyupeyatām // YSsi_49 //	atas niScita-sadBAvaH sadA san aByupeyatAm // YSsi_49 //
+   iti	iti
+   asataḥ sarvadāsattvaṃ janyayogāt khapuṣpavat /	asataH sarvadA-asattvam janya-yogAt Ka-puzpa-vat /
+   asattve na viśeṣo 'sti prāgatyantāsator iha // YSsi_50 //	asattve na viSezaH asti prAk-atyanta-asatoH iha // YSsi_50 //
+   śvetaketum upādāya tat tvam ity api yac chrutam /	Svetaketum upAdAya tat tvam iti api yat Srutam /
+   ṣaṣṭhaprapāṭake tasya kuto mukhyārthasambhavaḥ // YSsi_51 //	zazWa-prapAwake tasya kutas muKya-arTa-samBavaH // YSsi_51 //
+   kārpaṇyaśokaduḥkhārtaś cetanas tvaṃpadoditaḥ /	kArpaNya-Soka-duHKa-ArtaH cetanaH tu-aMpadA-uditaH /
+   sarvajñas satyasaṅkalpo nissīmasukhasāgaraḥ /	sarvajQaH satya-saFkalpaH nissIma-suKa-sAgaraH /
+   tatpadārthas tayor aikyaṃ tejas timiravat katham // YSsi_52 //	tad-padArTaH tayoH Ekyam tejaH timira-vat kaTam // YSsi_52 //
+   tvamarthasthe taṭasthe vā (tadarthasthe vibhedake) /	tvam-arTa-sTe tawa-sTe vA (tad-arTa-sTe viBedake) /
+   guṇe tattvaṃpadaśrutyor aikārthyaṃ dūravāritam // YSsi_53 //	guNe tattvaMpada-SrutyoH EkArTyam dUra-vAritam // YSsi_53 //
+   ajñatvasarvaveditva- duḥkhitvasukhitādike /	ajQa-tva-sarva-vedi-tva duHKi-tva-suKita-Adike /
+   viśeṣaṇe vā ciddhātor atha vāpy upalakṣaṇe /	viSezaNe vA cit-DAtoH aTa vA-api upalakzaNe /
+   viruddhaguṇasaṅkrānter bhedaḥ syāt tvaṃtadarthayoḥ // YSsi_54 //	virudDa-guNa-saFkrAnteH BedaH syAt tvaMtad-arTayoH // YSsi_54 //
+   vācyaikadeśabhaṅgena cidekavyaktiniṣṭhatā /	vAcya-eka-deSa-BaFgena cit-eka-vyakti-nizWatA /
+   so 'yaṃ gaur itivat tattvaṃ padayor ity apeśalam // YSsi_55 //	saH ayam gOH iti-vat tattvam padayoH iti apeSalam // YSsi_55 //
+   deśakāladaśābhedād ekasminn api dharmiṇi /	deSa-kAla-daSA-BedAt ekasmin api DarmiNi /
+   viruddhadvandvasaṅkrānteḥ so 'yaṃ gaur iti yujyate // YSsi_56 //	virudDa-dvandva-saFkrAnteH saH ayam gOH iti yujyate // YSsi_56 //
+   svaprakāśasya ciddhātor viruddhadvandvasaṅgatau /	sva-prakASasya cit-DAtoH virudDa-dvandva-saFgatO /
+   na vyavasthāpakaṃ kiñcid deśakāladaśādike // YSsi_57 //	na vyavasTApakam kiQcid deSa-kAla-daSA-Adike // YSsi_57 //
+   nirdhūtanikhiladvandva- svaprakāśe cidātmani /	nirDUta-niKila-dvandva sva-prakASe cit-Atmani /
+   dvaitānarthabhramābhāvāc chāstraṃ nirviṣayaṃ bhavet // YSsi_58 //	dvEta-anarTa-Brama-aBAvAt SAstram nirvizayam Bavet // YSsi_58 //
+   etena satyakāmatva- jagatkāraṇatādayaḥ /	etena satya-kAma-tva jagat-kAraNa-tA-AdayaH /
+   mā(yopādhau pare) 'dhyastāḥ śokamohādayaḥ punaḥ // YSsi_59 //	mA(ya-upADO pare) aDyastAH Soka-moha-AdayaH punar // YSsi_59 //
+   avidyopādhike jīve vināśe neti yan matam /	avidyA-upADike jIve vinASe na-iti yat matam /
+   kṣudrabrahmavidām etan mataṃ prāg eva dūṣitam // YSsi_60 //	kzudra-brahma-vidAm etat matam prAk eva dUzitam // YSsi_60 //
+   cidsvarūpe viśiṣṭe vā māyāvidyādyupādhayaḥ /	cit-svarUpe viSizwe vA mAyA-vidyA-Adi-upADayaH /
+   pūrvasmin sarvasāaṅkaryaṃ parajīvāvibhāgataḥ // YSsi_61 //	pUrvasmin sarva-sAaFkaryam para-jIva-aviBAgataH // YSsi_61 //
+   uttarasminn api tathā viśiṣṭam api cid yadi /	uttarasmin api taTA viSizwam api cit yadi /
+   citsvarūpaṃ hi nirbhedaṃ māyāvidyādyupādhibhiḥ /	cit-svarUpam hi nirBedam mAyA-vidyA-Adi-upADiBiH /
+   vibhinnam iva vibhrāntaṃ viśiṣṭaṃ ca ... (mataṃ tava) // YSsi_62 //	viBinnam iva viBrAntam viSizwam ca ... (matam tava) // YSsi_62 //
+   taṭasthāvasthitā dharmāḥ svarūpaṃ na spṛśanti kim /	tawasTa-avasTitAH DarmAH svarUpam na spRSanti kim /
+   na hi daṇḍiśiraśchedād devadatto na hiṃsitaḥ // YSsi_63 //	na hi daNxiSiraH-CedAt devadattaH na hiMsitaH // YSsi_63 //
+   acidaṃśavyapohena cidekapariśeṣatā /	acit-aMSa-vyapohena cit-eka-pariSeza-tA /
+   atas tat tvam asīty āder arthe ity apy asundaram // YSsi_64 //	atas tat tvam asi-iti AdeH arTe iti api asundaram // YSsi_64 //
+   abrahmānātmatābhāve pratyak cit pariśiṣyate /	abrahmAn-Atma-tA-aBAve pratyak cit pariSizyate /
+   tattvaṃpadadvayaṃ jīva- paratādātmyagocaram /	tattvaMpada-dvayam jIva para-tAdAtmya-gocaram /
+   tanmukhyavṛtti tādātmyam api vastudvayāśrayam // YSsi_65 //	tad-muKya-vRtti tAdAtmyam api vastu-dvaya-ASrayam // YSsi_65 //
+   bhedābhedavikalpas tu yat tvayā paricoditaḥ /	Beda-aBeda-vikalpaH tu yat tvayA paricoditaH /
+   abhedābhedino 'satye bandhe sati nirarthakaḥ // YSsi_66 //	aBeda-aBedinaH asatye banDe sati nirarTakaH // YSsi_66 //
+   abhedo bhedamardī tu svāśrayībhūtavastunoḥ /	aBedaH Beda-mardI tu sva-ASrayIBUta-vastunoH /
+   bhedaḥ parasparānātmyaṃ bhāvānām evam etayoḥ // YSsi_67 //	BedaH paraspara-anAtmyam BAvAnAm evam etayoH // YSsi_67 //
+   svarūpam abhyupetyaiva bhedābhedavikalpayoḥ /	sva-rUpam aByupetya-eva Beda-aBeda-vikalpayoH /
+   (bādhanaṃ) tena vāgabādhā virodhena nigṛhyase // YSsi_68 //	(bADanaM) tena vAc-abADAH viroDena nigRhyase // YSsi_68 //
+   bhinnābhinnatvasambandha- sadasattvavikalpanam /	Binna-aBinna-tva-sambanDa sat-asattva-vikalpanam /
+   pratyakṣānubhavāpārataṃ kevalaṃ kaṇṭhaśoṣaṇam // YSsi_69 //	pratyakza-anuBava-apAratam kevalam kaNWa-SozaNam // YSsi_69 //
+   nīle nīlamatir yādṛg- utpale nīladhīr hi sā /	nIle nIla-matiH yAdRg utpale nIla-DIH hi sA /
+   nīlam utpalam evedam iti sākṣāccakāsti naḥ // YSsi_70 //	nIlam utpalam eva-idam iti sAkzAt-cakAsti naH // YSsi_70 //
+   yathā viditasaṃyoga- sambandhe 'py akṣagocare /	yaTA vidita-saMyoga sambanDe api akza-gocare /
+   bhedābhedādidustarka- vikalpādhānavibhramaḥ // YSsi_71 //	Beda-aBeda-Adi-duH-tarka vikalpa-ADAna-viBramaH // YSsi_71 //
+   tadvat tādātmyasambandhe śrutipratyakṣamūlake /	tadvat tAdAtmya-sambanDe Sruti-pratyakza-mUlake /
+   śrutidaṇḍena dustarka- vikalpabhramavāraṇam // YSsi_72 //	Sruti-daNxena dustarka vikalpa-Brama-vAraNam // YSsi_72 //
+   nirdoṣāpauruṣeyī ca śrutir atyartham ādarāt /	nirdozA-pOruzeyI ca SrutiH atyarTam AdarAt /
+   asakṛttattvam ity āha tādātmyaṃ brahmajīvayoḥ // YSsi_73 //	asakRt-tattvam iti Aha tAdAtmyam brahma-jIvayoH // YSsi_73 //
+   brahmānandahradāntaḥsthoḥ muktātmā sukham edhate /	brahma-Ananda-hrada-antar-sToH mukta-AtmA suKam eDate /
+   phale ca phalino 'bhāvān mokṣasyāpuruṣārthatā /	Pale ca PalinaH aBAvAt mokzasya-apuruzArTa-tA /
+   ekaśeṣe hi ciddhātoḥ kasya mokṣaḥ phalaṃ bhavet // YSsi_74 //	eka-Seze hi cit-DAtoH kasya mokzaH Palam Bavet // YSsi_74 //
+   kiñ ca prapañcarūpeṇa kā nu saṃvid vivartate /	kiQ ca prapaQca-rUpeNa kA nu saMvid vivartate /
+   na tāvad ghaṭadhīs tasyām asatyām api darśanāt // YSsi_75 //	na tAvat Gawa-DIH tasyAm asatyAm api darSanAt // YSsi_75 //
+   na hi tasyām ajātāyāṃ naṣṭāyāṃ vākhilaṃ jagat /	na hi tasyAm ajAtAyAm nazwAyAm vA-aKilam jagat /
+   nāstīti śakyate vaktum uktau pratyakṣabadhanāt /	na-asti-iti Sakyate vaktum uktO pratyakza-baDanAt /
+   nāpy anyasaṃvit tannāśe 'py anyeṣām upalambhanāt // YSsi_76 //	na-api anya-saMvid tad-nASe api anyezAm upalamBanAt // YSsi_76 //
+   nanu saṃvidabhinnaikā na tasyām asti bhedadhīḥ /	nanu saMvid-aBinnA-ekA na tasyAm asti Beda-DIH /
+   ghaṭādayo hi bhidyante na tu sā cit prakāśanāt // YSsi_77 //	Gawa-AdayaH hi Bidyante na tu sA cit prakASanAt // YSsi_77 //
+   ghaṭadhīḥ paṭasaṃvitti- samaye nāvabhāti cet /	Gawa-DIH pawa-saMvitti samaye na-avaBAti ced /
+   naivaṃ, ghaṭo hi nābhāti sā sphuraty eva tu sphuṭam // YSsi_78 //	na-evaM, GawaH hi na-ABAti sA sPurati eva tu sPuwam // YSsi_78 //
+   ghaṭavyāvṛttasaṃvittir atha na sphuratīti cet /	Gawa-vyAvRtta-saMvittiH aTa na sPurati-iti ced /
+   tadvyāvṛttipadenāpi kiṃ saivoktātha vetarat /	tad-vyAvRtti-padena-api kim sA-eva-uktA-aTa vA-itarat /
+   saiva ced bhāsate 'nyac cen na brūhas tasya bhāsanam // YSsi_79 //	sA-eva ced BAsate anyat ced na brUhaH tasya BAsanam // YSsi_79 //
+   kiñ cāsyāḥ svaprakāśāyā nīrūpāyā na hi svataḥ /	kiQ ca-asyAH sva-prakASAyAH nIrUpAyAH na hi svatas /
+   ṛte viṣayanānātvān nānātvāvagrahabhramaḥ // YSsi_80 //	Rte vizaya-nAnA-tvAt nAnA-tva-avagraha-BramaH // YSsi_80 //
+   na vastu vastudharmo vā na pratyakṣo na laukikaḥ /	na vastu vastu-DarmaH vA na pratyakzaH na lOkikaH /
+   ghaṭādivedyabhedo 'pi kevalaṃ bhramalakṣaṇaḥ // YSsi_81 //	Gawa-Adi-vedya-BedaH api kevalam Brama-lakzaNaH // YSsi_81 //
+   yadā, tadā tadāyato dhībhedāvagrahodayaḥ /	yadA, tadA tadAyataH DI-Beda-avagraha-udayaH /
+   kutaḥ, kutastarāṃ tasya paramārthatvasambandhaḥ // YSsi_82 //	kutas-, kutastarAm tasya paramArTa-tva-sambanDaH // YSsi_82 //
+   kiñ ca svayaṃprakāśasya svato vā parato 'pi vā /	kiQ ca svayaMprakASasya svatas vA paratas api vA /
+   prāgabhāvādisiddhiḥ syāt, svatas tāvan na yujyate // YSsi_83 //	prAc-aBAva-Adi-sidDiH syAt, svatas tAvat na yujyate // YSsi_83 //
+   svasmin sati viruddhatvād abhāvasyānavasthiteḥ /	svasmin sati virudDa-tvAt aBAvasya-anavasTiteH /
+   svanimittaprakāśasya svasyābhāve 'py asambhavāt /	sva-nimitta-prakASasya svasya-aBAve api asamBavAt /
+   ananyagocaratvena cito na parato 'pi ca // YSsi_84 //	ananya-gocara-tvena citaH na paratas api ca // YSsi_84 //
+   kiñ ca vedyasya bhedāder na ciddharmatvasambhavaḥ /	kiQ ca vedyasya Beda-AdeH na cit-Darma-tva-samBavaH /
+   rūpādivat, ataḥ saṃvid- advitīyā svayaṃprabhā // YSsi_85 //	rUpa-Adi-vat, atas saMvid advitIyA svayaMpraBA // YSsi_85 //
+   atas tadbhedam āśritya yadvilakṣaṇādijalpitam /	atas tad-Bedam ASritya yat-vilakzaNa-Adi-jalpitam /
+   tadavidyā+vilāso 'yam iti brahmavido viduḥ // YSsi_86 //	tad-avidyA+-vilAsaH ayam iti brahma-vidaH viduH // YSsi_86 //
+   hanta brahmopadeśo 'yaṃ śraddadhāneṣu śobhate /	hanta brahma-upadeSaH ayam SraddaDAnezu SoBate /
+   vayam aśraddadhānāḥ so ye yuktiṃ prārthayāmahe // YSsi_87 //	vayam aSraddaDAnAH saH ye yuktim prArTayAmahe // YSsi_87 //
+   pratipramātṛviṣayaṃ parasparavilakṣaṇāḥ /	pratipramAtR-vizayam paraspara-vilakzaNAH /
+   aparokṣaṃ prakāśante sukhaduḥkhādivad dhiyaḥ // YSsi_88 //	aparokzam prakASante suKa-duHKa-Adi-vat DiyaH // YSsi_88 //
+   sambandhivyaṅgyabhedasya saṃyogecchādikasya naḥ /	sambanDi-vyaFgya-Bedasya saMyoga-icCA-Adikasya naH /
+   na hi bhedaḥ svato nāsti nāpratyakṣaś ca saṃataḥ // YSsi_89 //	na hi BedaH svatas na-asti na-apratyakzaH ca saMataH // YSsi_89 //
+   yadi sarvagatā nityā saṃvid evābhyupeyate /	yadi sarva-gatA nityA saMvid eva-aByupeyate /
+   tataḥ sarvaṃ sadā bhāyāt, na vā kiñcit kadācana // YSsi_90 //	tatas sarvam sadA BAyAt, na vA kiQcid kadAcana // YSsi_90 //
+   tadānīṃ na hi vedyasya sannnidhītarakāritā /	tadAnIm na hi vedyasya san=-niDItara-kAritA /
+   vyavasthā ghaṭate, vitter vyomavad vaibhavāśrayāt // YSsi_91 //	vyavasTA Gawate, vitteH vyoma-vat vEBava-ASrayAt // YSsi_91 //
+   nāpi kāraṇabhedena. nityāyās tadabhāvataḥ /	na-api kAraNa-Bedena. nityAyAH tad-aBAvataH /
+   na ca svarūpanānātvāt, tad ekatvaparigrahāt // YSsi_92 //	na ca svarUpa-nAnA-tvAt, tat eka-tva-parigrahAt // YSsi_92 //
+   tataś ca badhirāndhādeḥ śabdādigrahaṇaṃ bhavet /	tatas ca baDira-anDa-AdeH Sabda-Adi-grahaNam Bavet /
+   guruśiṣyādibhedaś ca nirnimittaḥ prasajyate // YSsi_93 //	guru-Sizya-Adi-BedaH ca nirnimittaH prasajyate // YSsi_93 //
+   nanu naḥ saṃvido bhinnaṃ sarvaṃ nāma na kiñcana /	nanu naH saMvidaH Binnam sarvam nAma na kiQcana /
+   ataḥ sarvaṃ sadā bhāyād ityakaṇḍe 'nuyujyate // YSsi_94 //	atas sarvam sadA BAyAt iti-akaNxe anuyujyate // YSsi_94 //
+   idam ākhyāhi bho kiṃ nu nīlādir na prakāśate /	idam AKyAhi Bo kim nu nIla-AdiH na prakASate /
+   prakāśamāno nīlādiḥ saṃvido vā na bhidyate // YSsi_95 //	prakASamAnaH nIla-AdiH saMvidaH vA na Bidyate // YSsi_95 //
+   ādau pratītisubhago nivāho lokavedayoḥ /	AdO pratIti-suBagaH nivAhaH loka-vedayoH /
+   yataḥ padapadārthādi na kiñcid avabhāsate // YSsi_96 //	yatas pada-padArTa-Adi na kiQcid avaBAsate // YSsi_96 //
+   dvitīye saṃvido 'dvaitaṃ vyāhanyeta samīhitam /	dvitIye saMvidaH advEtam vyAhanyeta samIhitam /
+   yady ayaṃ vividhākāra- prapañcaḥ saṃvidātmakaḥ /	yadi ayam viviDa-AkAra prapaQcaH saMvid-AtmakaH /
+   sāpi saṃvit tad ātmeti yato nānā prasajyate // YSsi_97 //	sA-api saMvid tat AtmA-iti yatas nAnA prasajyate // YSsi_97 //
+   na cāvidyāvilāsatvād bhedābhedānirūpaṇā /	na ca-avidyA-vilAsa-tvAt Beda-aBedAnirUpaNA /
+   sā hi nyāyānalaspṛṣṭā jātuṣābharaṇāyate // YSsi_98 //	sA hi nyAya-anala-spRzwAH jAtuza-ABaraNa-Ayate // YSsi_98 //
+   tathā hi yady avidyeyaṃ vidyābhāvātmikeṣyate /	taTA hi yadi avidyA-iyam vidyA-aBAva-AtmikA-izyate /
+   nirupākhyasvabhāvatvāt sā na kiñcin niyacchati // YSsi_99 //	nirupAKya-svaBAva-tvAt sA na kiQcid niyacCati // YSsi_99 //
+   arthāntaram avidyā cet sādhvī bhedānirūpaṇā /	arTa-antaram avidyA ced sADvI BedAnirUpaNA /
+   arthānarthāntaratvādi- vikalpo 'syā na yujyate /	arTa-anarTa-antara-tva-Adi vikalpaH asyAH na yujyate /
+   vidyāto 'rthāntaraṃ cāsāv iti suvyāhṛtaṃ vacaḥ // YSsi_100 //	vidyAtaH arTa-antaram ca-asO iti su-vyAhRtam vacaH // YSsi_100 //
+   athārthāntarabhāvo 'pi tasyās te bhrāntikalpitaḥ /	aTa-arTa-antara-BAvaH api tasyAH te BrAnti-kalpitaH /
+   hantaivaṃ saty avidyaiva vidyā syāt paramārthataḥ // YSsi_101 //	hanta-evam sati avidyA-eva vidyA syAt paramArTataH // YSsi_101 //
+   kiñ ca śuddhājaḍā saṃvit, avidyeyaṃ tu nesṛśī /	kiQ ca SudDa-ajaxA saMvit, avidyA-iyam tu nesRSI /
+   tat kena hetunā seyam anyaiva na nirūpyate // YSsi_102 //	tat kena hetunA sA-iyam anyA-eva na nirUpyate // YSsi_102 //
+   api ceyam avidyā te yadabhāvādirūpiṇī /	api ca-iyam avidyA te yad-aBAva-Adi-rUpiNI /
+   sā vidyā kiṃ nu saṃvittir vedyaṃ vā veditātha vā // YSsi_103 //	sA vidyA kim nu saMvittiH vedyam vA veditA-aTa vA // YSsi_103 //
+   vedyatve veditṛtve ca nāsyās tābhyāṃ nivartanam /	vedya-tve veditR-tve ca na-asyAH tAByAm nivartanam /
+   na hi jñānād ṛte 'jñānam anyatas te nivartate /	na hi jQAnAt Rte ajQAnam anyatas te nivartate /
+   saṃvid eveti cet tasyā nanu bhavād asambhavaḥ // YSsi_104 //	saMvid eva-iti ced tasyAH nanu BavAt asamBavaH // YSsi_104 //
+   kiñceyaṃ tadviruddhā vā, na tasyāḥ kvāpi sambhavaḥ /	kiQca-iyam tad-virudDAH vA, na tasyAH kvApi samBavaH /
+   yato 'khilaṃ jagadvyāptaṃ vidyayaivādvitīyayā // YSsi_105 //	yatas aKilam jagat-vyAptam vidyayA-eva-advitIyayA // YSsi_105 //
+   abhāvo 'nyo viruddho vā saṃvido 'pi yad īṣyate /	aBAvaH anyaH virudDaH vA saMvidaH api yat Izyate /
+   tadānīṃ saṃvid advaita- pratijñāṃ dūratas tyaja // YSsi_106 //	tadAnIm saMvid advEta pratijQAm dUratas tyaja // YSsi_106 //
+   kiñ cāsau kasya? jīvasya, ko jīvo yasya seti cet /	kiQ ca-asO kasya? jIvasya, kaH jIvaH yasya sA-iti ced /
+   nanv evam asamādhānam anyonyāśrayaṇaṃ bhavet // YSsi_107 //	nanu evam asamADAnam anyonya-ASrayaNam Bavet // YSsi_107 //
+   na tu jīvād avidyā syāt, na ca jīvas tayā vinā /	na tu jIvAt avidyA syAt, na ca jIvaH tayA vinA /
+   na vījāṅkuratulyatvaṃ jīvotpatter ayogataḥ // YSsi_108 //	na vIja-aFkura-tulya-tvam jIva-utpatteH ayogataH // YSsi_108 //
+   brahmaṇaś cen na sarvajñaṃ kathaṃ tad baṃbhramīti te(bhoḥ) /	brahmaNaH ced na sarvajQam kaTam tat baMBrami-iti te(BoH) /
+   avidyākṛtadehātma- pratyayādhīnatā na te /	avidyA-kRta-deha-Atma pratyaya-aDIna-tA na te /
+   brahmasarvajñabhāvasya, tatsvābhāvikatāśruteḥ // YSsi_109 //	brahma-sarvajQa-BAvasya, tad-svABAvika-tA-SruteH // YSsi_109 //
+   bhedāvabhāsagabhatvād atha sarvajñatā mṛṣā /	Beda-avaBAsa-gaBa-tvAt aTa sarvajQa-tA mRzA /
+   tata evāmṛṣā kasmān na svāc chabdāntarādivat // YSsi_110 //	tatas eva-amRzA kasmAt na svAt Sabda-antara-Adi-vat // YSsi_110 //
+   yathā śabdāntarābhyāsa- sañkhyādyāḥ śāstrabhedakāḥ /	yaTA Sabda-antara-aByAsa saQKI-a-AdyAH SAstra-BedakAH /
+   bhedāvabhāsagarbhāś ca yathārthāḥ, tādṛśī na kim // YSsi_111 //	Beda-avaBAsa-garBAH ca yaTArTAH, tAdRSI na kim // YSsi_111 //
+   sarvajñe nityamukte 'pi yady ajñānasya sambhavaḥ /	sarvajQe nityam-ukte api yadi ajQAnasya samBavaH /
+   tejasīva tamas tasmān na nivarteta kenacit // YSsi_112 //	tejasi-iva tamaH tasmAt na nivarteta kenacid // YSsi_112 //
+   sarvajñatvādivacana- prāmāṇyaṃ vyāvahārikam /	sarvajQa-tva-Adi-vacana prAmANyam vyAvahArikam /
+   tāttvikaṃ tu pramāṇatvam advaitavacasām iti /	tAttvikam tu pramANa-tvam advEta-vacasAm iti /
+   niyāmakaṃ na paśyāmo nirbandhāt tāvakād ṛte // YSsi_113 //	niyAmakam na paSyAmaH nirbanDAt tAvakAt Rte // YSsi_113 //
+   āśrayapratiyogitve parasparavirodhinī /	ASraya-pratiyogi-tve paraspara-viroDinI /
+   kathaṃ vaikarasaṃ brahma sad iti pratipadyate // YSsi_114 //	kaTam vA-eka-rasam brahma sat iti pratipadyate // YSsi_114 //
+   pratyaktvenāśrayo brahma- rūpeṇa pratiyogi cet /	pratyaktvena-ASrayaH brahma rUpeNa pratiyogi ced /
+   rūpabhedaḥ kṛtasya 'yaṃ yady avidyāprasādajaḥ /	rUpa-BedaH kRtasya ayam yadi avidyA-prasAda-jaH /
+   nanu sāpi tadāyattety anyonyāśrayaṇaṃ punaḥ // YSsi_115 //	nanu sA-api tat-AyattA-iti anyonya-ASrayaNam punar // YSsi_115 //
+   avastutvād avidyāyāḥ ...(nedaṃ tadrūpaṇaṃ yadi) /	avastu-tvAt avidyAyAH ...(nedam tad-rUpaNam yadi) /
+   vastuno dūṣaṇatvena tvayā kvedaṃ nirīkṣitam // YSsi_116 //	vastunaH dUzaNa-tvena tvayA kva-idam nirIkzitam // YSsi_116 //
+   (svasādhyasya puraskārād) doṣo 'nyonyasamāśrayaḥ /	(su-asADyasya puraskArAd) dozaH anyonya-samASrayaH /
+   na vastutvād avastutvād ity ato nedam uttaram // YSsi_117 //	na vastu-tvAt avastu-tvAt iti atas na-idam uttaram // YSsi_117 //
+   kiñcāvidyā na cet ... (vastu vyavaharyaṃ kathaṃ bhavet) /	kiQca-avidyA na ced ... (vastu vyavaharyam kaTam Bavet) /
+   (na cāsadvyoma)puṣpādi- vyavahāravad iṣyate // YSsi_118 //	(na ca-asat-vyoma)-puzpa-Adi vyavahAra-vat izyate // YSsi_118 //
+   nāpy avastv iti co(ktau tu vastutvaṃ sidhyati dhruvam) /	na-api avastu iti ca-u(ktO tu vastu-tvam siDyati Druvam) /
+   (niṣidhyate) samastena nañā vastv iti cen (matam) // YSsi_119 //	(niziDyate) samastena naQAH vastu iti ced (matam) // YSsi_119 //
+   samastena nañā vastu prathamaṃ yanniṣidhyate /	samastena naQA vastu praTamam yat-niziDyate /
+   pratiprasūtaṃ vyastena punas tad iti vastutā // YSsi_120 //	pratiprasUtam vyastena punar tat iti vastu-tAH // YSsi_120 //
+   ato na vastu nā(vastu na sadvacyaṃ na cāpy asat) /	atas na vastu na-a(vastu na sat-vacyam na ca-api asat) /
+   (bhedo) na kaś cakāstīti (vivakṣīr mā) sma jātucit // YSsi_121 //	(BedaH-) na kaH cakAsti-iti (vivakzIH mA) sma jAtucit // YSsi_121 //
+   kiñca prapañcanirvāha- jananī yeyam āśritā /	kiQca prapaQca-nirvAha jananI yA-iyam ASritAH /
+   avidyā sā kim ekaiva naikā vā tad idaṃ vada /	avidyA sA kim ekA-eva na-ekA vA tat idam vada /
+   tadāśrayaś ca saṃsārī tathaiko naika eva vā // YSsi_122 //	tad-ASrayaH ca saMsArI taTA-ekaH na-ekaH eva vA // YSsi_122 //
+   sā ced ekā, tatas saikā śukasya brahmavidyayā /	sA ced ekA, tatas sA-ekA Sukasya brahma-vidyayA /
+   pūrvam eva nirasteti vyarthas te muktaye śramaḥ // YSsi_123 //	pUrvam eva nirastA-iti vyarTaH te muktaye SramaH // YSsi_123 //
+   syān mataṃ naiva te santi vāmadevaśukādayaḥ /	syAt matam na-eva te santi vAmadeva-Suka-AdayaH /
+   yadvidyayā nirastatvān nādyāvidyeti codyate // YSsi_124 //	yat-vidyayA nirasta-tvAt na-adya-avidyA-iti codyate // YSsi_124 //
+   muktāmuktādibhedo hi kalpito madavidyayā /	muktA-muktA-Adi-BedaH hi kalpitaH mada-vidyayA /
+   dṛśyatvān māmakasvapna- dṛśyabhedaprapañcavat // YSsi_125 //	dRSya-tvAt mAmaka-svapna dRSya-Beda-prapaQca-vat // YSsi_125 //
+   yat punar brahmavidyātas teṣāṃ muktir abhūd iti /	yat punar brahma-vidyAtaH tezAm muktiH aBUt iti /
+   vākyaṃ tatsvāpnamuktyukti- yuktyā pratyūhyatām iti // YSsi_126 //	vAkyam tad-svApna-m-ukti-ukti yuktyA pratyUhyatAm iti // YSsi_126 //
+   nanv īdṛśānumānena svāvidyāparikalpitam /	nanu IdRSa-anumAnena sva-avidyA-parikalpitam /
+   prapañcaṃ sādhayaty anyaḥ kathaṃ praty ucyate tvayā // YSsi_127 //	prapaQcam sADayati anyaH kaTam prati ucyate tvayA // YSsi_127 //
+   tvad avidyānimittatve yo hetus te vivakṣitaḥ /	tvat avidyA-nimitta-tve yaH hetuH te vivakzitaH /
+   sa eva hetus tasyāpi bhavet sarajñasiddhivat // YSsi_128 //	saH eva hetuH tasya-api Bavet sa-rajQa-sidDi-vat // YSsi_128 //
+   ity anyonyaviruddhokti- vyāhate bhavatāṃ mate /	iti anyonya-virudDa-ukti vyAhate BavatAm mate /
+   mukham astīti yat kiñcit pralapann iva lakṣyase // YSsi_129 //	muKam asti-iti yat kiQcid pralapan iva lakzyase // YSsi_129 //
+   yathā ca svāpnamuktyukti- sadṛśī tadvimuktibhīḥ /	yaTA ca svApna-m-ukti-ukti sadRSI tad-vimukti-BIH /
+   tathaiva bhavato 'pīti vyartho mokṣāya te śramaḥ // YSsi_130 //	taTA-eva BavataH api-iti vyarTaH mokzAya te SramaH // YSsi_130 //
+   yathā teṣām abhūtaiva purastād ātmavudyayā /	yaTA tezAm aBUta-eva purastAt Atma-vudyayA /
+   muktir bhūtocyate tadvat parastād ātmavidyayā // YSsi_131 //	muktiH BUtA-ucyate tadvat parastAt Atma-vidyayA // YSsi_131 //
+   abhāviny eva sā mithyā bhāvinīty apadiśyatām /	aBAvinI eva sA miTyA BAvinI-iti apadiSyatAm /
+   santi ca svapnadṛṣṭāni dṛṣṭāntavacanāni te // YSsi_132 //	santi ca svapna-dRzwAni dRzwAnta-vacanAni te // YSsi_132 //
+   nanu nedam aniṣṭaṃ me yan muktir na bhaviṣyati /	nanu na-idam anizwam me yat muktiH na Bavizyati /
+   ātmano nityamuktatvān nityasiddhaiva sā yataḥ // YSsi_133 //	AtmanaH nitya-mukta-tvAt nitya-sidDA-eva sA yatas // YSsi_133 //
+   tad idaṃ śāntikarmādau vetālavāhanaṃ bhavet /	tat idam SAnti-karma-AdO vetAla-vAhanam Bavet /
+   yenaivaṃ sutarāṃ vyartho brahmavidyārjanaśramaḥ // YSsi_134 //	yena-evam sutarAm vyarTaH brahma-vidyA-arjana-SramaH // YSsi_134 //
+   avidyāpratibaddhatvād atha sā nityasaty api /	avidyA-pratibadDa-tvAt aTa sA nitya-sati api /
+   asatīveti tadvyaktir vidyāphalam upeyate // YSsi_135 //	asatI-iva-iti tad-vyaktiH vidyA-Palam upeyate // YSsi_135 //
+   hastastham eva hemādi vismṛtaṃ mṛgyate yathā /	hasta-sTam eva hema-Adi vismRtam mRgyate yaTA /
+   yathā tad eva hastastham avagamyopaśāmyati // YSsi_136 //	yaTA tat eva hasta-sTam avagamya-upaSAmyati // YSsi_136 //
+   tathaiva nityasiddhātma- svarūpānavabodhataḥ /	taTA-eva nitya-sidDa-Atma sva-rUpa-anavaboDataH /
+   saṃsāriṇas tathābhāvo vyajyate brahmavidyayā // YSsi_137 //	saMsAriNaH taTA-aBAvaH vyajyate brahma-vidyayA // YSsi_137 //
+   hanta keyam abhivyaktir yā vidyāphalam iṣyate /	hanta kA-iyam aBivyaktiH yA vidyA-Palam izyate /
+   svaprakāśasya cidchātor yā svarūpapade sthitā // YSsi_138 //	sva-prakASasya cit-CAtoH yA sva-rUpa-pade sTitA // YSsi_138 //
+   saṃvit kiṃ saiva kiṃ vāhaṃ brahmāstītīti kīdṛśī /	saMvid kim sA-eva kim vA-aham brahmAsti-iti-iti kIdRSI /
+   yadi svarūpasaṃvit sā, nityaiveti na tatpjhalam // YSsi_139 //	yadi svarUpa-saMvid sA, nityA-eva-iti na tat-pJalam // YSsi_139 //
+   atha brahmāham asmīti saṃvittir vyaktir iṣyate /	aTa brahmA-aham asmi-iti saMvittiH vyaktiH izyate /
+   nanu te brahmavidyā sā saiva tasyāḥ phalaṃ katham // YSsi_140 //	nanu te brahma-vidyA sA sA-eva tasyAH Palam kaTam // YSsi_140 //
+   kiñ ca sā tat tvam asy ādi- vākyajanyā bhavan mate /	kiQ ca sA tat tvam asi Adi vAkya-janyA Bavat mate /
+   utpattimaty anityeti muktasyāpi bhayaṃ bhavet // YSsi_141 //	utpattimatI anityA-iti muktasya-api Bayam Bavet // YSsi_141 //
+   api ca vyavahārajñāḥ sati puṣkalakāreṇa /	api ca vyavahAra-jQAH sati puzkalakAreNa /
+   kāryaṃ na jāyate yena tam āhuḥ pratibandhakam // YSsi_142 //	kAryam na jAyate yena tam AhuH pratibanDakam // YSsi_142 //
+   iha kiṃ tad yad utpattum upakrāntaṃ svahetutaḥ /	iha kim tat yat utpattum upakrAntam sva-hetutaH /
+   avidyāpratibaddhatvād utpattiṃ na prapadyate // YSsi_143 //	avidyA-pratibadDa-tvAt utpattim na prapadyate // YSsi_143 //
+   na muktir nityasiddhatvāt, na brahmāsmīti dhīr api /	na muktiH nitya-sidDa-tvAt, na brahma-asmi-iti DIH api /
+   na hi brahmāham asmīti saṃvitpuṣkalakāraṇam /	na hi brahmA-aham asmi-iti saMvid-puzkala-kAraNam /
+   saṃsāriṇas tadāstīti kathaṃ sā pratibadhyate // YSsi_144 //	saMsAriNaH tadA-asti-iti kaTam sA pratibaDyate // YSsi_144 //
+   yataḥ sā kāraṇābhāvād idānīṃ nopajāyate /	yatas sA kAraNa-aBAvAt idAnIm na-upajAyate /
+   na punaḥ pratibaddhatvād asthāne tena tadvacaḥ // YSsi_145 //	na punar pratibadDa-tvAt asTAne tena tad-vacaH // YSsi_145 //
+   kiñ caiko jīva ity etad vastusthityā na yujyate /	kiQ ca-ekaH jIvaH iti etat vastu-sTityA na yujyate /
+   avidyātatsamāśleṣa- jīvatvādi mṛṣā hi te // YSsi_146 //	avidyA-tad-samASleza jIvatu-Adi mRzA hi te // YSsi_146 //
+   prātibhāsikam ekatvaṃ pratibhāsaparāhatam /	prAtiBAsikam eka-tvam pratiBAsa-parAhatam /
+   yato naḥ pratibhāsante saṃsarantaḥ sahasraśaḥ // YSsi_147 //	yatas naH pratiBAsante saMsarantaH sahasraSas // YSsi_147 //
+   āsaṃsarasamucchedaṃ vyavahārāś ca tatkṛtāḥ /	AsaMsara-samucCedam vyavahArAH ca tad-kRtAH /
+   abādhitāḥ pratīyante svapnavṛttivilakṣaṇāḥ // YSsi_148 //	abADitAH pratIyante svapna-vRtti-vilakzaNAH // YSsi_148 //
+   tena yauktikam ekatvam api yuktiparāhatam /	tena yOktikam eka-tvam api yukti-parAhatam /
+   pravṛttibhedānumitā viruddhamitivṛttayaḥ /	pravRtti-Beda-anumitAH virudDam-iti-vRttayaH /
+   tattatsvātmavad anye 'pi dehino 'śakyanihnavāḥ // YSsi_149 //	tad-tad-svAtma-vat anye api dehinaH aSakya-nihnavAH // YSsi_149 //
+   yathānumeyād vahnyāder a(ā)numānā vilakṣaṇāḥ /	yaTA-anumeyAt vahni-AdeH a(A)numAnAH vilakzaNAH /
+   pratyakṣaṃ te (kṣyante) tathānyebhyo jīvebhyo na pṛthak katham // YSsi_150	pratyakzam te (kzyante) taTA-anyeByaH jIveByaH na pRTak kaTam // YSsi_150
+   na cec ceṣṭāviśeṣeṇa paro boddhānumīyate /	na ced cezwA-viSezeNa paraH bodDA-anumIyate /
+   vyavahāro 'valupyeta sarvo laukikavaidikaḥ // YSsi_151 //	vyavahAraH avalupyeta sarvaH lOkika-vEdikaH // YSsi_151 //
+   na caupādhikabhedena meyamātṛvibhāgadhīḥ /	na ca-OpADika-Bedena meya-mAtR-viBAga-DIH /
+   svaśarīre 'pi tatprāpteḥ śiraḥpāṇyādibhedataḥ // YSsi_152 //	sva-SarIre api tad-prApteH SiraH-pANi-Adi-BedataH // YSsi_152 //
+   yathā tatra śiraḥpāṇi- pādādau vedanodaye /	yaTA tatra SiraH-pANi pAda-AdO vedanA-udaye /
+   anusandhānamekatve, tathā sarvatra te bhavet // YSsi_153 //	anusanDAnam-eka-tve, taTA sarvatra te Bavet // YSsi_153 //
+   prāyaṇām narakakleśāt prasūtivyasanād api /	prAyaNAm naraka-kleSAt prasUti-vyasanAt api /
+   cirātivṛttāḥ prāgjanma- bhogā na smṛtigocarāḥ // YSsi_154 //	cira-ativRttAH prAc-janma BogAH na smRti-gocarAH // YSsi_154 //
+   yugapajjāyamāneṣu (sukhaduḥkhādiṣu sphuṭaḥ) /	yugapad-jAyamAnezu (suKa-duHKa-Adizu sPuwaH) /
+   āśrayāsaṅkaras tatra katham aikārthyavibhramaḥ // YSsi_155 //	ASraya-asaFkaraH tatra kaTam EkArTya-viBramaH // YSsi_155 //
+   na ca prātisvikāvidyā- kalpitasvasvadṛśyakaiḥ /	na ca prAtisvika-avidyA kalpita-sva-sva-dRSyakEH /
+   jīvair anekair apy eṣā lokayātropapadyate // YSsi_156 //	jIvEH anekEH api ezA lokayAtrA-upapadyate // YSsi_156 //
+   paravartānabhijñās te svasvasvapnaikadarśinaḥ /	para-varta-anaBijQAH te sva-sva-svapna-eka-darSinaH /
+   kathaṃ pravartayeyus tāṃ saṅgādyekanibandhanām // YSsi_157 //	kaTam pravartayeyuH tAm saFga-Adi-eka-nibanDanAm // YSsi_157 //
+   kiṅ ca svayaṃprakāśatva- vibhutvaikatvanityatāḥ /	kiF ca svayaMprakASa-tva viBu-tvA-eka-tva-nitya-tAH /
+   tvadabhyupetā bādheran saṃvidas te 'dvitīyatām // YSsi_158 //	tvad-aByupetAH bADeran saMvidaH te advitIya-tAm // YSsi_158 //
+   saṃvid eva na te dharmāḥ, siddhāyām api saṃvidi /	saMvid eva na te DarmAH, sidDAyAm api saMvidi /
+   vivādadarśanāt teṣu; tardrūpāṇāṃ ca bhedataḥ // YSsi_159 //	vivAda-darSanAt tezu; tart-rUpANAm ca BedataH // YSsi_159 //
+   na ca te bhrāntisiddhās te yenādvaitāvirodhinaḥ /	na ca te BrAnti-sidDAH te yena-advEta-aviroDinaH /
+   tattvāvedakavedānta- vākyasiddhā hi te guṇāḥ // YSsi_160 //	tattva-Avedaka-vedAnta vAkya-sidDAH hi te guNAH // YSsi_160 //
+   ānandasvaprakāśatva- nityatvamahimādy atha /	Ananda-sva-prakASa-tva nitya-tva-mahimA-Adi aTa /
+   brahmasvarūpam eveṣṭaṃ, tatrāpīdaṃ vivicyatām // YSsi_161 //	brahma-svarUpam eva-izwan, tatra-api-idam vivicyatAm // YSsi_161 //
+   brahmeti yāvan nirdiṣṭaṃ tanmātraṃ kiṃ sukhādayaḥ /	brahma-iti yAvat nirdizwam tanmAtram kim suKa-AdayaH /
+   atha vā tasya te, yad vā ta eva brahmasaṃjñinaḥ // YSsi_162 //	aTa vA tasya te, yat vA te eva brahma-saMjQinaH // YSsi_162 //
+   ādye tattatpadāmnāna- vaiyarthyaṃ vedalokayoḥ /	Adye tad-tad-padAmnAna vEyarTyam veda-lokayoH /
+   pūrvoktanītyā bhedaś ca, jagajjanmādikāraṇam // YSsi_163 //	pUrva-ukta-nItyA BedaH ca, jagat-janma-Adi-kAraNam // YSsi_163 //
+   abhyupetyaiva hi brahma vivādās teṣu vadinām /	aByupetya-eva hi brahma vivAdAH tezu vadinAm /
+   dvitīye saiva tair eva brahmaṇaḥ sadvitīyatā // YSsi_164 //	dvitIye sA-eva tEH eva brahmaNaH sa-dvitIya-tA // YSsi_164 //
+   tṛtīye brahma bhidyeta tanmātratvāt pade pade /	tRtIye brahma Bidyeta tanmAtra-tvAt pade pade /
+   tatsamūho 'tha vā brahma taruvṛndavanādivat // YSsi_165 //	tat-samUhaH aTa vA brahma taru-vRnda-vana-Adi-vat // YSsi_165 //
+   prakarṣaś ca prakāśaś ca bhinnāv evārkavartinau /	prakarzaH ca prakASaH ca BinnO eva-arka-vartinO /
+   tena na kvāpi vākyārtho vibhāgo 'sti nidarśanam // YSsi_166 //	tena na kvApi vAkya-arTaH viBAgaH asti nidarSanam // YSsi_166 //
+   jāḍyaduḥkhādyapohena yady ekatraiva vartitā /	jAxya-duHKa-Adi-apohena yadi ekatra-eva vartitA /
+   jñanānandādiśabdānāṃ na satas sadvitīyatā // YSsi_167 //	jQana-Ananda-Adi-SabdAnAm na sataH sa-dvitIya-tA // YSsi_167 //
+   apohāḥ kiṃ na santy eva, santo vā, nobhaye 'pi vā /	apohAH kim na santi eva, santaH vA, na-uBaye api vA /
+   sattve sat sadvitīyaṃ syāj jaḍādyātmakatetare (tā pare) // YSsi_168 //	sattve sat sa-dvitIyam syAt jaxa-Adi-Atmaka-tA-itare (tA pare) // YSsi_168 //
+   sadasadvyatirekoktiḥ pūrvam eva parākṛtā /	sat-asat-vyatireka-uktiH pUrvam eva parAkRtAH /
+   tathātve ca ghaṭādibhyo brahmāpi na viśiṣyate // YSsi_169 //	taTA-tve ca Gawa-AdiByaH brahmA-api na viSizyate // YSsi_169 //
+   kiñ cāpohyajaḍatvādi- viruddhārthāsāmarpaṇe /	kiQ ca-apohya-jaxa-tva-Adi virudDa-arTa-AsAm-arpaNe /
+   naiva tattadapohyate tadekārthaiḥ padair iva // YSsi_170 //	na-eva tat-tat-apohyate tad-eka-arTEH padEH iva // YSsi_170 //
+   pratiyogini dṛśye tu yā bhāvāntaramātradhīḥ /	pratiyogini dRSye tu yAH BAva-antara-mAtra-DIH /
+   saivābhāva itīhāpi sadbhis te sadvitīyatā // YSsi_171 //	sA-eva-aBAvaH iti-iha-api sadBiH te sa-dvitIya-tA // YSsi_171 //
+   bhūtabhautikabhedānāṃ sadasadvyatirrekitā /	BUta-BOtika-BedAnAm sat-asat-vyatiH-rekitAH /
+   kuto 'vasīyate kiṃ nu pratyakṣāder utāgamāt // YSsi_172 //	kutas avasIyate kim nu pratyakza-AdeH uta-AgamAt // YSsi_172 //
+   pratyakṣādīni mānāni svaṃ svam arthaṃ yathāyatham /	pratyakza-AdIni mAnAni svam svam arTam yaTAyaTam /
+   vyavacchindanti jāyanta iti yāvat svasākṣikam // YSsi_173 //	vyavacCindanti jAyante iti yAvat sva-sAkzikam // YSsi_173 //
+   yathāgrataḥ sthite nīle nīlimānyakathā na, dhīḥ /	yaTA-agratas sTite nIle nIlimAnya-kaTA na, DIH /
+   ekākārā, na hi tayā sphaṭike dhavale matiḥ // YSsi_174 //	eka-AkArA, na hi tayA sPawike Davale matiH // YSsi_174 //
+   kṣīre madhuradhīr yadṛk, naiva nimbakaṣāyadhīḥ /	kzIre maDura-DIH yadRk, na-eva nimba-kazAya-DIH /
+   vyavahārāś ca niyataḥ sarve laukikavaidikāḥ // YSsi_175 //	vyavahArAH ca niyataH sarve lOkika-vEdikAH // YSsi_175 //
+   satyaṃ pratītir asaty asyā mūlaṃ nāstīti cen na tat /	satyam pratItiH asati asyAH mUlam na-asti-iti ced na tat /
+   sā ced asti tasyā mūlaṃ kalpyatāṃ kāryabhūtayā // YSsi_176 //	sA ced asti tasyAH mUlam kalpyatAm kArya-BUtayA // YSsi_176 //
+   kḷpaṃ cendriyaliṅgādi tadbhāvānuvidhānataḥ /	k?pam ca-indriya-liFga-Adi tad-BAva-anuviDAnataH /
+   yaugapadyakramāyogādy- avacchedavidhānayoḥ // YSsi_177 //	yOgapadya-krama-ayoga-Ady avacCeda-viDAnayoH // YSsi_177 //
+   aikyāyogāc ca bhedo na pratyakṣa iti yo bhramaḥ /	Ekya-ayogAt ca BedaH na pratyakzaH iti yaH BramaH /
+   bhedetaretarābhāva- vivekāgrahaṇena saḥ // YSsi_178 //	Beda-itara-itara-aBAva viveka-agrahaNena saH // YSsi_178 //
+   svarūpam eva bhāvābāṃ pratyakṣeṇa pariśurat /	svarUpam eva BAva-AbAm pratyakzeNa pariSurat /
+   bhedavyāhārahetuḥ syāt pratiyogivyapekṣayā // YSsi_179 //	Beda-vyAhAra-hetuH syAt pratiyogi-vyapekzayA // YSsi_179 //
+   yathā tanmātradhīr nānā- nāstivyāhārasādhanī /	yaTA tanmAtra-DIH nAnA nAstivyAhAra-sADanI /
+   hlasvadīrghatvabhedā vā yathaikatra ṣaḍaṅgule // YSsi_180 //	hlasva-dIrGa-tva-BedAH vA yaTA-ekatra zaz-aFgule // YSsi_180 //
+   evaṃ vyavasthitāneka- prakārākāravattayā /	evam vyavasTitAn-eka prakAra-AkAravat-tayA /
+   pratyakṣasya prapañcasya tadbhāvo 'śakyanihnavaḥ // YSsi_181 //	pratyakzasya prapaQcasya tad-BAvaH aSakya-nihnavaH // YSsi_181 //
+   āgamaḥ kāryaniṣṭhatvād īdṛśe 'rthe na tu pramā /	AgamaH kArya-nizWa-tvAt IdRSe arTe na tu pramA /
+   prāmāṇye 'py anvayāyogya- padārthatvān na bodhakaḥ // YSsi_182 //	prAmANye api anvayA-yogya padArTa-tvAt na boDakaH // YSsi_182 //
+   nāsat pratīteḥ, bādhāc ca na sad ity api yan na tat /	na-asat pratIteH, bADAt ca na sat iti api yat na tat /
+   pratīter eva sat kiṃ na bādhān nāsat kuto jagat ? /	pratIteH eva sat kim na bADAn na-asat kutas jagat ? /
+   tasmād avidyayaiveyam avidyā bhavatāśritā // YSsi_183 //	tasmAt avidyayA-eva-iyam avidyA BavatA-ASritA // YSsi_183 //
+   kiñ ca bhedaprapañcasya dharmo mithyātvalakṣaṇaḥ /	kiQ ca Beda-prapaQcasya DarmaH miTyAtva-lakzaNaH /
+   mithyā vā paramārtho vā nādyaḥ kalpo 'yam añjasā // YSsi_184 //	miTyA vA parama-arTaH vA na-AdyaH kalpaH ayam aQjasA // YSsi_184 //
+   tanmithyātve prapañcasya satyatvaṃ durapahnavam /	tat-miTyA-tve prapaQcasya satya-tvam durapahnavam /
+   pāramārthye 'pi tenaiva tavādvaitaṃ vihanyate // YSsi_185 //	pAramArTye api tena-eva tava-advEtam vihanyate // YSsi_185 //
+   sarvāṇy eva pramāṇāni svaṃ svam arthaṃ yathoditam /	sarvANi eva pramANAni svam svam arTam yaTA-uditam /
+   asato 'rthāntarebhyaś ca vyavacchindanti bhānti naḥ // YSsi_183 //	asataH arTa-antareByaH ca vyavacCindanti BAnti naH // YSsi_183 //
+   tathā hīha ghaṭo 'stīti yeyaṃ dhīr upajāyate /	taTA hi-iha GawaH asti-iti yA-iyam DIH upajAyate /
+   sā tadā tasya nābhāvaṃ paṭatvaṃ vānumanyate // YSsi_187 //	sA tadA tasya na-aBAvam pawa-tvam vA-anumanyate // YSsi_187 //
+   nanv astīti yad uktaṃ kiṃ tanmātraṃ ghaṭa ity api /	nanu asti-iti yat uktam kim tanmAtram GawaH iti api /
+   arthāntaraṃ vā, tanmātre sadadvaitaṃ prasajyate /	arTa-antaram vA, tanmAtre sat-advEtam prasajyate /
+   arthāntaratve siddhaṃ tat sadasadbhyāṃ vilakṣaṇam // YSsi_188 //	arTa-antara-tve sidDam tat sat-asadByAm vilakzaNam // YSsi_188 //
+   yady evam asti brahmeti brahmaupaniṣadaṃ matam /	yadi evam asti brahma-iti brahma-Opanizadam matam /
+   ghaṭavat sadasattvābhyām anirvācyaṃ tavāpatet // YSsi_189 //	Gawa-vat sat-asat-tvAByAm anirvAcyam tava-Apatet // YSsi_189 //
+   ānandasatyajñānādi- nirdeśair eva vaidikaiḥ /	Ananda-satya-jQAna-Adi nirdeSEH eva vEdikEH /
+   brahmaṇo 'py atathābhāvas tvayaivaivaṃ samarthitaḥ // YSsi_190 //	brahmaNaH api ataTA-BAvaH tvayA-eva-evam samarTitaH // YSsi_190 //
+   sadasadvyatirekoktiḥ prapañcasya ca hīyate /	sat-asat-vyatireka-uktiH prapaQcasya ca hIyate /
+   yad yathā kiñcid ucyeta tatsarvasya tathā bhavet // YSsi_191 //	yat yaTA kiQcid ucyeta tat-sarvasya taTA Bavet // YSsi_191 //
+   tasmād astīti saṃvittir jāyamānā ghaṭādiṣu /	tasmAt asti-iti saMvittiH jAyamAnA Gawa-Adizu /
+   tattatpadārthasaṃsthāna- pāramārthyāvabodhinī // YSsi_192 //	tad-tad-padArTa-saMsTAna pAramArTya-avaboDinI // YSsi_192 //
+   sajātīyavijātīya- vyavacchedanibandhanaiḥ /	sajAtIya-vijAtIya vyavacCeda-nibanDanEH /
+   svaiḥ svair vyavasthitai rūpaiḥ padārthānāṃ tu yā sthitiḥ /	svEH svEH vyavasTitEH rUpEH padArTAnAm tu yA sTitiH /
+   sā sattā na svatantrānyā tatrādvaitakathā katham // YSsi_193 //	sA sattA na svatantrA-anyA tatra-advEta-kaTA kaTam // YSsi_193 //
+   na ca nānāvidhākāra- pratītiḥ śakyanihnavā /	na ca nAnAviDa-AkAra pratItiH Sakya-nihnavAH /
+   na vedyaṃ vittidharmaḥ syād iti yatprāgudīritam // YSsi_194 //	na vedyam vitti-DarmaH syAt iti yad-prAc-udIritam // YSsi_194 //
+   tenāpi sādhitaṃ kiñcit saṃvido 'sti na vā tvayā /	tena-api sADitam kiQcid saMvidaH asti na vA tvayA /
+   asti cet pakṣapātaḥ syān na cet te viphalaḥ śramaḥ // YSsi_195 //	asti ced pakzapAtaH syAt na ced te viPalaH SramaH // YSsi_195 //
+   ataḥ svarasavispaṣṭa- dṛṣṭabhedās tu saṃvidaḥ /	atas svarasa-vispazwa dRzwa-BedAH tu saMvidaH /
+   (yathāvasthāyibhir bāhyai)r naikyaṃ yānti ghaṭādibhiḥ // YSsi_196 //	(yaTA-avasTAyiBiH bAhyE)H na-Ekyam yAnti Gawa-AdiBiH // YSsi_196 //
+   sahopalambhaniyamo na khalv ekaikasaṃvidā /	saha-upalamBa-niyamaH na Kalu ekEka-saMvidA /
+   na ced asti sasāmānyaṃ sarvaṃ saṃvedanāspadam // YSsi_197 //	na ced asti sa-sAmAnyam sarvam saMvedana-Aspadam // YSsi_197 //
+   sahopalambhaniyamān nānyo 'rthaḥ saṃvido bhavet /	saha-upalamBa-niyamAt na-anyaH arTaH saMvidaH Bavet /
+   yad etad aparādhīna- svaprakāśaṃ tad eva hi /	yat etat apara-aDIna sva-prakASam tat eva hi /
+   svayamprakāśatāśabdam iti bṛddhāḥ pracakṣate // YSsi_198 //	svayamprakASa-tA-Sabdam iti bRdDAH pracakzate // YSsi_198 //
+   yasminn abhāsamāne 'pi yo nāmārtho na bhāsate /	yasmin aBAsamAne api yaH nAma-arTaH na BAsate /
+   nāsāv arthāntaras tasmān mithyendur iva candrataḥ // YSsi_199 //	na-asO arTa-antaraH tasmAt miTyA-induH iva candrataH // YSsi_199 //
+   abhāsamāne vijñāne na cātmārthāvabhāsanam /	aBAsamAne vijQAne na ca-Atma-arTa-avaBAsanam /
+   iti saṃvidvivartatvaṃ prapañcaḥ sphuṭam añcati // YSsi_200 //	iti saMvid-vivarta-tvam prapaQcaH sPuwam aQcati // YSsi_200 //
+   (maivaṃ smārthān paribhavaḥ) pratyakṣeṇa balīyasā /	(mA-evam sma-arTAn pariBavaH) pratyakzeNa balIyasA /
+   saṃrakṣyamāṇabhedās te nānumānānuvartinaḥ // YSsi_201 //	saMrakzyamANa-BedAH te na-anumAna-anuvartinaH // YSsi_201 //
+   tathā hīdam ahaṃ vedmīty anyonyānātmanā sphuṭam /	taTA hi-idam aham vedmi-iti anyonya-anAtmanA sPuwam /
+   trayaṃ sākṣāc cakāstīti sarveṣām atmasākṣikam // YSsi_202 //	trayam sAkzAt cakAsti-iti sarvezAm atma-sAkzikam // YSsi_202 //
+   pratyakṣapratipakṣaṃ ca nānumānaṃ pravartate /	pratyakza-pratipakzam ca na-anumAnam pravartate /
+   na hi vahner anuṣṇatvaṃ dravyatvād anumīyate // YSsi_203 //	na hi vahneH anuzNa-tvam dravya-tvAt anumIyate // YSsi_203 //
+   kiñ ca hetur viruddho 'yaṃ sahabhāvo dvayor yataḥ /	kiQ ca hetuH virudDaH ayam sahaBAvaH dvayoH yatas /
+   tavāpi na hi saṃvitiḥ svātmanā saha bhāsate // YSsi_204 //	tava-api na hi saMvitiH sva-AtmanA saha BAsate // YSsi_204 //
+   nīlādyupaplavāpeta- svacchacinmātrasantatiḥ /	nIla-Adi-upaplava-apeta svacCa-cit-mAtra-santatiH /
+   svāpādau bhāsate, naivam arthaḥ saṃvedanāt pṛthak /	svApa-AdO BAsate, na-evam arTaH saMvedanAt pRTak /
+   tena saṃvedanaṃ satyaṃ aṃvedyo 'rthas tv asann iti // YSsi_205 //	tena saMvedanam satyam aMvedyaH arTaH tu asan iti // YSsi_205 //
+   tad etad aparāmṛṣṭa- svavāgbādhasya jalpitam /	tat etat aparAmRzwa sva-vAc-bADasya jalpitam /
+   ahopalambhaniyamo yenaivaṃ sati hīyate // YSsi_206 //	aha-upalamBa-niyamaH yena-evam sati hIyate // YSsi_206 //
+   yasmād ṛte yad ābhāti bhāti (ta)smād ṛte 'pi tat /	yasmAt Rte yat ABAti BAti (ta)smAt Rte api tat /
+   ghaṭād ṛte 'pi nirbhātaḥ paṭād iva ghaṭaḥ svayam // YSsi_207 //	GawAt Rte api nirBAtaH pawAt iva GawaH svayam // YSsi_207 //

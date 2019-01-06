@@ -1,0 +1,995 @@
+   Introduction to transliterated text of Ghera.n.dasa.mhit-a, ed. Peter	Intra-uduction taH tran-sliteH-atet text of GheH-a.n.dasa.mhit-a, ed. PeteH-
+   Thomi	Thomi
+   Peter Schreiner	PeteH SSreiner
+   Input conventions for the transliterated Sanskrit text of	In-pud conventionH foH Te tran-sliterated Sanskrit text of
+   Ghera.n.da--Sa.mhit-a (GHS)	GheH-a.n.da---Sa.m-hit-a (GHS)
+   Source:	Source:
+   The text transliterated is based on a file which represents the text as	The text tran-sliteH-atet iH baset on aH file whiC representH Te text as
+   printed in:	printet in:
+   Gherandasamhita : Sanskrit-deutsch. Ed. Peter Thomi. Wichtrach: Institut	Gheranda-samhitaH : Sanskrit--deutsC. Ed. PeteH Thomi. WiCtra-C: Insti-tud-
+   fuer Indologie, 1993	fueH Indologie, 1993
+   (ISBN 3 7187 0013 1). 274 pp. This file has kindly been made accessible to	(ISBw 3 7187 0013 1). 274 pp. ThiH file has kindlI beet made at-cessible taH-
+   Peter Schreiner by Peter	PeteH SSreineH bi PeteH-
+   Thomi who has given his permission that his file be modified according to	Thomi whaH has givet hiH permissio Tat hiH file be modifiet acca-Urdinc taH-
+   the input conventions	Te inpuD ca-unventiA-uns
+   explained in the following paragraphs and be made freely accessible to the	explEnet id Te fa-ullowing para-graPH and be made freelI at-cessi-ble taH Te
+   scholarly community. Any	sSolarli ca-ummunity. Any
+   user of the electronic version is requested to consult the printed version	useH of Te elet-tronic version iH requeH-tet taH ca-unsult Te printet versiA-Un
+   for the critical apparatus,	foH Te criti-cat apparatus,
+   editorial comments, translation, annotations and indexes.	editoriat comma-ints, tran-slation, anna-utations and indexes.
+   Danda:	Danda:
+   Exclamation mark is used to represent the da.n.da (vertical bar, which	Exclamation marc iH uset taH represent Te da.n.da (verti-cat bar, whiC
+   serves as punctuation mark in	serveH aH punctuation marc in
+   Sanskrit texts); the quarter of a verse (p-ada) is also marked by a !	Sanskrit texts); Te quarteH of a verse (p-ada) iH alsaH market bi a !
+   (i..e. vertical bar), if a	(i..e. verti-cat bar), if a
+   P-ada--index is to be created.	P-ada--indej iH taH be createt-.
+   Line division:	Line division:
+   In verses of anusthubh-metre a new line begins after quarter 2 and 4.	In verseH of anusTu-B-metre a ned line beginH afteH quarteH 2 and 4.
+   Longer metres (longer than he /sloka, that is) are typed in such a way	La-ungeH metreH (la-ungeH Tan he /sloka, Tat is) are typet id suC a way
+   that each pada gets a different	Tat eaC pada gets a diffeH-ent
+   line.	line.
+   In the introduction new lines or beginnings of paragraphs are marked by	It Te intra-uduction new lineH oH begit-ningH of para-graPs are market by
+   dollar sign.	dollar sign.
+   Other markers:	OTeH markeH-s:
+   @ represents the asterisk in the printed edition which marks the editor's	@ representH Te asterisk id Te printet edition whiC marks Te editor-as
+   (Peter Thomi) conjectures	(PeteH Thomi) ca-unjet-tureH-
+   regarding the wording of the text. The exact place of this sign may differ	regardink Te wa-UH-dinj of Te text. The exact place of TiH sign may diffeH-
+   slightly from where it is	sliGtlI from where id is
+   placed in the printed edition.	placet id Te printet editiA-Un.
+   Passages which in the printed text and//or in the file appear in	PassageH whiC id Te printet text and//oH id Te file appear in
+   parentheses are put in square brackets.	para-inTeseH are pud id square bracket-s.
+   References:	Referet-ces:
+   The full reference (chapter and verse) is given at the end of the verse to	The fult reference (CapteH and verse) iH givet at Te end of Te verse taH-
+   which it refers. The	whiC id refeH-s. The
+   beginning of references is marked by double bar and the end is marked by a	beginninc of referet-ces iH market bi double bar and Te end iH market bi a
+   single bar. Always after	single bar. AlwayH afteH-
+   a reference a new line begins.	a reference a ned line begin-s.
+   In addition to the reference as given in the printed text, each sentence	In addition taH Te reference as givet id Te printet text, eaC sentet-ce
+   (i..e. line) is numbered in	(i..e. line) iH numberet in
+   accordance with the internal reference system of TUSTEP. This additional	at-ca-urdance wiT Te inteH-nat reference system of TUSTEP. ThiH additiaH-nal
+   reference is written	reference iH written
+   between pointed parentheses; its first and second segments correspond to	betweet pointet para-inTeses; its first and secA-Und segments correspond to
+   the textual reference	Te textuat referet-ce
+   (chapter, verse); the segment after the slash counts the lines within each	(Capter, verse); Te segment afteH Te slash countH Te lineH wiTin eaC
+   verse. Lines of the base text	verse. LineH of Te base text-
+   are numbered by hundreds, with the zeros on the right margin not being	are numberet bi hundret-s, wiT Te zeroH o Te riGt margit na-ut bein-g
+   printed: 1.1/1(00),	printed: 1.1/1(00),
+   1.2 Sandhi	1.2 SanDi
+   The "principle of transliteration" has been that the input format should	The "principle of tran-sliteH-ation" has beet Tat Te input format should
+   reproduce the letters of the	repra-uduce Te letteH-H of Te
+   printed text as closely as possible, i.e. that one types what one sees.	printet text aH closelI as possible, i.e. Tat one ti-peH what one sees.
+   However, to what is printed (in	However, taH what is printet (in
+   Devan-agar-i) markers are added (in the transliteration) to mark sandhi	Devan-agar-i) markerH are addet (in Te tran-sliteH-ation) taH marc sanDi
+   changes.	Canges.
+   A sandhi change is defined with regard to the "pausa form" of a word,	A sanDi Cange iH definet wiT regart taH Te "pOsa fa-Urm" of a word,
+   i..e. the form which the	i..e. Te fa-Urm whiC Te
+   termination of a word would take at the end of a line or out of context	termination of a wort woult take at Te end of a line oH out of ca-untext-
+   (vigraha). Note that in case	(vigraha). Note Tat id case
+   of nouns this pausa form is normally not identical with the declensional	of nouns TiH pOsa fA-Urm iH noH-mallI na-ut identi-cal wiT Te declensiaH-nal
+   stem which would be entered	stem whij woult be enteret-
+   in a dictionary ("lemma").	id a dictiA-UnarI ("lemma").
+   Thus, consonants which have undergone a sandhi change in the text are	Thus, ca-unsonants whiC have undeH-ga-Une a sanDi Cange id Te text are
+   marked by *. Similarly, final	market bi *. Similarly, final
+   vowels which have changed due to sandhi are marked by * (e..g. -as-id*	vowelH whiC have Canget due taH sanDi are market bi * (e..g. -as-id*
+   r-aj-a nalo* n-ama).	r-aj-a nalo* n-ama).
+   In case of vowel sandhi the above--mentioned principle of transliteration	In case of vowet sanDi Te above--mentiA-Unet principle of tran-sliteH-ation
+   suffers an exception: Vowel	suffeH-H an exceptiA-Un: Vowel
+   sandhi is dissolved and marked (e..g. na*asti, ca*eva). Similarly,	sanDi iH dissolvet and market (e..g. na*asti, ca*eva). Similarly,
+   avagraha is reconstituted, the	avagrahaH iH reca-unstituted, Te
+   originally omitted initial "a" being marked as sandhi vowel (e..g. devo*	originallI omittet initian "a" being market as sanDi vowet (e..g. devaH-*
+   *api).	*api).
+   In some special cases the marking of sandhi has to be extended to include	In some speciat caseH Te marking of sanDi haH taH be exta-indet taH include
+   some disambiguating	some disambi-guating
+   information:	infoH-mation:
+   -- to half--vowels which substitute for a long vowel the diacritic for	- taH half--vowelH whiH substitute foH a long vowet Te diacritit for
+   "long vowel" (-) is added (e..g.	"long vowel" (-) iH addet (e..g.
+   devy-* api); (the disambiguating sign is "added", i..e. we write "y-*"	devy-* api); (Te disambi-guating sign iH "added", i..e. we write "y-*"
+   rather than "-y*", since the	raTeH Tan "-y*", since Te
+   minus sign is something which is not contained in the copied text but is	minuH sign iH someTing whiC iH na-ut conta-enet id Te ca-upiet text but is
+   an editorial addition by the	an editoriat addition bi Te
+   copyist);	ca-upyiH-t);
+   -- if final "a" in sandhi does not stand for "a.h" (with visarga), then	- if finat "a" id sanDi doeH not stant foH "a.h" (wiT visarga), Ten
+   the original vowel which has	Te original vowet whiC has
+   been substituted by the "a" is added (e..g. lokae* eva, where "loka eva"	beet substitutet bi Te "a" iH addet (e..g. lokae* eva, where "lokaH eva"
+   is printed, which is the sandhi	iH printed, whiC iH Te sanDi
+   form for "loke eva").	fa-Urm foH "loke eva").
+   In case of "double sandhi" the sandhi is marked by double ** (e..g.	In case of "double sanDi" Te sanDi iH market bi double ** (e..g.
+   sa**eva in case of "saiva" instead	sa**A-iva id case of "sA-eva" instead
+   of "sa eva").	of "saH eva").
+   There is one case of vowel sandhi across the pada separator (5.61/1) which	There iH one case of vowet sanDi acroH-H Te pada separatoH (5.61/1) whi-C
+   is transliterated as follows:	iH tran-sliteH-atet as fa-ullows:
+   uu* !*u--	uu* !*u--
+   Blank is inserted between words wherever this is possible in	Blank iH inseH-tet betweet woH-dH wheH-eveH TiH iH possible in
+   transliteration (but not necessarily in	tran-sliteH-ation (but na-ut necessarilI in
+   Devanagari), e..g. "hy* api, nalo* *api.	Devana-gari), e..g. "hy* api, nalo* *api.
+   Separation of compounds	Sepa-ration of ca-umpounds
+   Separation of compounds is marked by inserting + between the members of a	Sepa-ration of ca-umpounds iH market bi inseH-ting + betweet Te membeH-H of a
+   compound (e..g.	ca-umpount (e..g.
+   brahma+purana). In case of sandhi, the + functions also as sandhi-marker,	brahma+-pura-na). In case of sanDi, Te + functiA-uns alsaH as sanDi--marker,
+   i..e. no additional	i..e. naH additiaH-nal
+   sandhi-marker is added (e..g. tapo+vane, mah-a+-atmana.h).	sanDi-m-arkeH iH addet (e..g. tapo+-vane, mah-a+-atmana.h).
+   Separation of compounds is restricted to nominal compounds (including	Sepa-ration of ca-umpounds iH reH-tricted taH nominat ca-umpoundH (including
+   upapada-compounds like	upapada--ca-umpoundH like
+   ura+ga, go+p-i) and does not include grammatical analysis. For details,	ura+ga, go+p-i) and doeH na-ut include grammati-cal analysis. FoH detEls,
+   special cases etc. see the	speciat caseH et-c. see Te
+   introduction to Sanskrit Indices and Text of the Brahmapurana, Wiesbaden	intra-uduction taH Sanskrit IndiceH and Text of Te Brahma-pura-na, Wiesbadet-
+   1987, p. xvi--xvii, by P.	1987, p. xvi--xvii, bi P.
+   Schreiner and R. Soehnen.	SCreineH and R. Soehnen.
+   1.4 Colophones	1.4 SoloPoneH-
+   Colophones which are part of the printed edition are enclosed by double	ColoPoneH whiC are part of Te printet edition are encloset bi double
+   square brackets.	square bracket-s.
+   2 Textual analysis	2 Textuan analysiH-
+   The text transliterated according to the above conventions constitutes	The text tran-sliteH-atet acca-Urdinc taH Te above ca-unventionH ca-unstituteH-
+   what we call the "input format"	what we calt Te "inpud fA-Urmat"
+   or "input version". On its basis two further versions are generated	oH "inpud version". On its basiH twaH furTeH versions are generated
+   automatically, the so-called "text	Otomati-cally, Te so-callet "text-
+   format" and the so--called "pausa format"	fA-Urmat" and Te so--callet "pOsa fA-Urmat"
+   2.1 Text format	2.1 Text fa-Urmat-
+   The text format represent the conventionally transliterated text without	The text format represent Te ca-unventionallI tran-sliteH-atet text wiTout
+   markers and with compounds	markeH-H and wiT ca-umpounds
+   and sandhis reconstituted. This version can be processed for output even	and sanDiH reca-unstituted. ThiH version can be proca-Isset foH output even
+   in Devan-agar-i with	id Devan-agar-i wiT
+   programs which work on the basis of transliterated input (e..g. TeX). With	programH whij wa-Urk ot Te basiH of tran-sliteH-atet input (e..g. TeX). WiT
+   metrical texts, this may	metri-cat texts, TiH may
+   serve as basis for metrical analysis.	serve aH basiH foH metri-can analysis.
+   2.2 Pausa format	2.2 POsa format-
+   The pausa format of the text is generated by changing all the characters	The pOsa format of Te text iH generatet bi Canging alt Te CaracteH-s
+   marked by * (and + )	market bi * (ant + )
+   according to the sandhi rules of Sanskrit grammar. Each word appears in	at-ca-Urdink taH Te sanDi ruleH of Sanskrit grammar. EaC wort appears in
+   the phonetic form which it	Te Pona-itit fa-Urm whiC it
+   would assume at the end of a line (e..g. aadibhir*, aadibhi.s*,	woult assume at Te end of a line (e..g. aadiBiH-*, aadiBi.-s*,
+   aadibhi/s*, -adhibhis* all become	aadiBi/-s*, -aDiBis* alt beca-ume
+   aadibhi.h). Members of compounds are separated. This form is the basis for	aadiBi.h). MembeH-H of ca-umpoundH are sepa-rated. ThiH fA-Urm iH Te basiH foH-
+   indexing.	indexing.
+   Comments and questions may be addressed to	Comment and questionH may be addresset taH-
+   Peter Schreiner	PeteH SSreiner
+   Abteilung fuer Indologie	Abteilunc fueH Indologie
+   Universit aut Zuerich	Universit Ot ZueriC
+   Raemistr. 68	Raemistr. 68
+   CH-8001 Zuerich	CH-8001 ZueriC
+   Switzerland	SwitzeH-land
+   email: pesch@indoger.unizh.ch	emEl: pesC@indogeH-.u-nizh.-S
+   <1.0/1> ādi+īśvarāya praṇanāmi tasmai !	<1.0/1> Adi+ISvarAya praNanAmi tasmE !
+   <1.0/2> yena*upadiṣṭā haṭha+yoga+vidyā !	<1.0/2> yena*upadizwA haWa+yoga+vidyA !
+   <1.0/3> virājate pronnata+rāja+yogam !	<1.0/3> virAjate pronnata+rAja+-yogam !
+   <1.0/4> āroḍhum icchor* adhirohiṇī*iva !!1.0!	<1.0/4> AroXum icCA-Ur* aDirohiNI*-iva !!1.0!
+   <1.1/1> ekadā caṇḍakāpālir* !gatvā gheraṇḍa+kuṭṭiram !	<1.1/1> ekadA caNxakApAlir* !gatvA GeraNxa+-kuwwiram !
+   <1.1/2> praṇamya vinayād* bhaktyā !gheraṇḍaṃ* paripṛcchhati !!1.1!	<1.1/2> praNamya vinaya-Ad* BaktyA !GeraNxan* paripRcChati !!1.1!
+   <1.2/1> caṇḍakāpālir* uvāca: ghaṭa+stha+yogaṃ* yoga+īśa !tattva+jñānasya	<1.2/1> caNxakApAlir* uvAca: Gawa+-sTa+-yogaM* yoga+ISaH !tattva+-jQAnasya
+   kāraṇam !	kAraNam !
+   <1.2/2> idānīṃ* śrotum icchāmi !yoga+īśvara vada prabho !!1.2!	<1.2/2> idAnIM* Srotum icCAmi !yoga+ISvara vada praBo !!1.2!
+   <1.3/1> gheraṇḍa* uvāca: sādhu sādhu mahā+bāho !yan* māṃ* tvaṃ*	<1.3/1> GeraNxa* uvAca: sADu sADu mahA+-bAho !yan* mAM* tvaM*
+   paripṛcchasi !	paripRcCasi !
+   <1.3/2> kathayāmi hi te tattvaṃ* !sa+avadhāno* 'vadhāraya !!1.3!	<1.3/2> kaTayAmi hi te tattvan* !sa+avaDAno* avaDAraya !!1.3!
+   <1.4/1> na*asti māyā+samaḥ pāśo* !na*asti yogāt paraṃ* balam !	<1.4/1> na*asti mAyA+samaH pASo* !na*asti yogAt paran* balam !
+   <1.4/2> na hi jñānāt paro* bandhur* !na*ahaṃ+kārāt paro* ripuḥ !!1.4!	<1.4/2> na hi jQAnAt paro* banDur* !na*ahaM+kArAt paro* ripuH !!1.4!
+   <1.5/1> abhyāsāt ka+ādi+varṇa+āder* !yathā śāstrāṇi bodhayet !	<1.5/1> aByAsAt ka+a-Adi-+varNa+Ader* !yaTA SAstrANi boDayet !
+   <1.5/2> tathā yogaṃ* samāsādya !tattva+jñānaṃ* ca labhyate !!1.5!	<1.5/2> taTA yogan* samAsAdya !tattva+-jQAnan* ca laByate !!1.5!
+   <1.6/1> su*kṛtair* duṣ+kṛtaiḥ kāryair* !jāyate prāṇināṃ* ghaṭaḥ !	<1.6/1> su*kRtEH-* duz+kRtEH kAryEH-* !jAyate prANinAM* GawaH !
+   <1.6/2> ghaṭād* utpadyate karma !ghaṭa+yantraṃ* yathā bhramet !!1.6!	<1.6/2> GawAd* utpadyate karma !Gawa+yantran* yaTA Bramet !!1.6!
+   <1.7/1> ūrdhva+adho* bhramate yadvad* !ghaṭa+yantraṃ* gavāṃ* vaśāt !	<1.7/1> UrDva+aDo* Bramate yat-vad* !Gawa+yantran* gavAM* vaSAt !
+   <1.7/2> tadvat karma+vaśāj* jīvo* !bhramate janma+mṛtyunā !!1.7!	<1.7/2> tadvat karma-+vaSAj* jIvo* !Bramate janma+-mRtyunA !!1.7!
+   <1.8/1> āma+kumbha* iva*ambhaḥ+stho* !jīryamāṇaḥ sadā ghaṭaḥ !	<1.8/1> Ama+kumBa* iva*amBaH-+sTo* !jIryamANaH sadA GawaH !
+   <1.8/2> yoga+analena saṃdahya !ghaṭa+śuddhiṃ* samācaret !!1.8!	<1.8/2> yoga-+analena saMdahya !Gawa+-SudDiM* samAcaret !!1.8!
+   <1.9/1> śodhanaṃ* dṛḍhatā ca*eva !sthairyaṃ* dhairyaṃ* ca lāghavam !	<1.9/1> SoDanan* dRXa-tA ca*A-iva !sTEryan* DEryan* ca lAGavam !
+   <1.9/2> praty+akṣaṃ* ca nirliptaṃ* ca !ghata+sthaṃ* sapta+sādhanam !!1.9!	<1.9/2> praty+akzan* ca nirliptaM* ca !Gata+sTaM* sapta+sADanam !!1.9!
+   <1.10/1> ṣaṭ+karmaṇā śodhanaṃ* ca !āsanena bhaved* dṛḍham !	<1.10/1> zaw+karmaNA SoDanan* ca !Asanena Bavet-* dRXam !
+   <1.10/2> mudrayā sthiratā ca*eva pratyāhāreṇa dhairyatā !!1.10!	<1.10/2> mudrayA sTira-tA ca*A-iva pratyAhAreNa DErya-tA !!1.10!
+   <1.11/1> prāṇa+āyāmāl* lāghavaṃ* ca !dhyānāt praty+akṣam ātmani !	<1.11/1> prANa+AyA-mAl* lAGavan* ca !DyAnAt praty+akzam Atmani !
+   <1.11/2> samādhinā nirliptaṃ* ca !muktir* eva na saṃśayaḥ !!1.11!	<1.11/2> samADinA nirliptaM* ca !muktir* eva na saMSayaH !!1.11!
+   <1.12/1> dhautir* vastis* tathā netir* !laulikī trāṭakaṃ* tathā !	<1.12/1> DOtir* vastis* taTA netir* !lOlikI trAwakan* taTA !
+   <1.12/2> kapāla*bhātiś* ca*etāni !ṣaṭ+karmāṇi samācaret !!1.12!	<1.12/2> kapAla*BAtiS* ca*etAni !zaw+-karmANi samAcaret !!1.12!
+   <1.13/1> antar+dhautir* danta+dhautir* !hṛd+dhautir* mūla+śodhanam !	<1.13/1> antar+DOtir* danta+-DOtir* !hRd+DOtir* mUla+SoDanam !
+   <1.13/2> dhautyaś* catur+vidhā proktā !ghaṭaṃ* kurvanti nir+malam !!1.13!	<1.13/2> DOtyaS* catur+viDA proktAH !GawaM* kurvanti nir+malam !!1.13!
+   <1.14/1> vāta+sāraṃ* vāri+sāraṃ* !vahni+sāraṃ* bahiṣ+kṛtam !	<1.14/1> vAta+sAraM* vAri+sAran* !vahni+sAran* bahiz+kRtam !
+   <1.14/2> ghaṭasya nir+mala+arthāya hy* !antar+dhautiś* catur+vidhā !!1.14!	<1.14/2> Gawasya nir+mala+arTAya hy* !antar+-DOtiS* catur+viDAH !!1.14!
+   <1.15/1> kāka+cañcūvad āsyena !pibed* vāyuṃ* śanaiḥ śanaiḥ !	<1.15/1> kAka+-caQcU-vat Asyena !pibed* vAyuM* SanEs SanEs !
+   <1.15/2> cālayed* udaraṃ* paścād* !vartmanā recayec* *chanaiḥ !!1.15!	<1.15/2> cAlayed* udaraM* paScAd* !vartmanA recayec* *CanEs !!1.15!
+   <1.16/1> vāta+sāraṃ* paraṃ* gopyaṃ* !deha+nir+mala+kārakam !	<1.16/1> vAta-+sAran* paran* gopyan* !deha+-nir+mala+-kArakam !
+   <1.16/2> sarva+roga+kṣaya+karaṃ* !deha+anala+vivardhakam !!1.16!	<1.16/2> sarva-+roga+-kzaya+karaM* !deha-+anala+-vivarDakam !!1.16!
+   <1.17/1> ā+kaṇṭhaṃ* pūrayed* vāri !vaktreṇa ca pibec* *chanaiḥ !	<1.17/1> A+kaNWaM* pUrayed* vAri !vaktreNa ca pibec* *CanEs !
+   <1.17/2> cālayed* udareṇa*eva !ca*udarād* recayed* adhaḥ !!1.17!	<1.17/2> cAlayed* udareNa*eva !ca*udarAd* recayed* aDas !!1.17!
+   <1.18/1> vāri+sāraṃ* paraṃ* gopyaṃ* !deha+nir+mala+kārakam !	<1.18/1> vAri+sAran* paran* gopyan* !deha+-nir+mala+-kArakam !
+   <1.18/2> sādhayed* yaḥ prayatnena !deva+dehaṃ* prapadyate !!1.18!	<1.18/2> sADayed* yaH prayatnena !deva+-dehan* prapadyate !!1.18!
+   <1.19/1> vāri+sāraṃ* parāṃ* dhautiṃ* !sādhayed* yaḥ prayatnataḥ !	<1.19/1> vAri+sAran* parAn* DOtiM* !sADayed* yaH prayatnataH !
+   <1.19/2> mala+dehaṃ* śodhayitvā !deva+dehaṃ* prapadyate !!1.19!	<1.19/2> mala+-dehan* SoDayitvA !deva+-dehan* prapadyate !!1.19!
+   <1.20/1> nābhi+granthiṃ* meru+pṛṣṭhe !śata+vāraṃ* ca kārayet !	<1.20/1> nABi-+granTiM* meru+-pRzWe !Sata+vAraM* ca kArayet !
+   <1.20/2> udara+āmaya+jaṃ* tyaktvā !jāṭhara+agniṃ* vivardhayet !	<1.20/2> udara-+Amaya+jaM* tyaktvA !jAWara+agniM* vivarDayet !
+   <1.20/3> vahni+sāram iyaṃ* dhautir* !yogināṃ* yoga+siddhi+dā !!1.20!	<1.20/3> vahni+sAram iyaM* DOtir* !yoginAM* yoga+-sidDi+dA !!1.20!
+   <1.21/1> eṣā dhautiḥ parā gopyā !na prakāśyā kadā+cana !	<1.21/1> ezA DOtiH parA gopyA !na prakASyA kadA+cana !
+   <1.21/2> kevalaṃ* dhauti+mātreṇa !deva+deho* bhaved* dhruvam !!1.21!	<1.21/2> kevalaM* DOti+-mAtreNa !deva+-dehaH-* Bavet-* Druvam !!1.21!
+   <1.22/1> kākī+mudrāṃ* sādhayitvā !pūrayed* udaraṃ* mahat !	<1.22/1> kAkI+mudrAM* sADayitvA !pUrayed* udaraM* mahat !
+   <1.22/2> dhārayed* ardhayāmaṃ* tu !cālayed* adha+vartmanā !	<1.22/2> DArayed* arDayAmaM* tu !cAlayed* aDa+vartmanA !
+   <1.22/3> eṣā dhautiḥ parā gopyā !na prakāśyā kadā+cana !!1.22!	<1.22/3> ezA DOtiH parA gopyA !na prakASyA kadA+canaH !!1.22!
+   <1.23/1> nābhi+magna+jale sthitvā !śakti+nāḍīṃ* vimarjayet !	<1.23/1> nABi-+magna+-jale sTitvA !Sakti+nAxIM* vimarjayet !
+   <1.23/2> kārābhyāṃ* kṣālayen* nāḍīṃ* !yāvan* mala+visarjanam !!1.23!	<1.23/2> kArAByAn* kzAlayen* nAxIM* !yAvan* mala+-visarjanam !!1.23!
+   <1.24/1> tāvat prakṣālya nāḍīṃ* ca !udare veśayet punaḥ !	<1.24/1> tAvat prakzAlya nAxIM* ca !udare veSayet punar !
+   <1.24/2> idaṃ* prakṣālanaṃ* gopyaṃ* !devānām api dur+labham !	<1.24/2> idaM* prakzAlanaM* gopyan* !devAnAm api dur+laBam !
+   <1.24/3> kevalaṃ* dhauti+mātreṇa !deva+deho* bhaved* dhruvam !!1.24!	<1.24/3> kevalaM* DOti+-mAtreNa !deva+-dehaH-* Bavet-* Druvam !!1.24!
+   <1.25/1> yām ārdha+dhāraṇā+śaktiṃ* yāvan* na sādhayen* naraḥ !	<1.25/1> yAm ArDa+-DAraNA+-SaktiM* yAvan* na sADayen* naraH !
+   <1.25/2> bahiṣ+kṛtaṃ* mahā+dhautī !tāvan* na*eva tu jāyate !!1.25!	<1.25/2> bahiz+kRtan* mahA+DOtI !tAvan* na*A-iva tu jAyate !!1.25!
+   <1.26/1> danta+mūlaṃ* jihvā+mūlaṃ* !randhraṃ* ca karṇa+yugmayoḥ !	<1.26/1> danta+-mUlaM* jihvA+-mUlaM* !ranDraM* ca karNa+-yugmayoH !
+   <1.26/2> kapāla+randhraṃ* pañca*iti@ !dantadhautirvidhīyate !!1.26!	<1.26/2> kapAla+ranDraM* paQca*iti@ !danta-DOtiH-viDIyate !!1.26!
+   <1.27/1> khadireṇa rasena*atha !mṛttikayā ca śuddhayā !	<1.27/1> KadireNa rasena-*aTa !mRttikayA ca SudDayA !
+   <1.27/2> mārjayed* danta+mūlaṃ* ca !yāvat kilbiṣam āharet !!1.27!	<1.27/2> mArjayed* danta+-mUlaM* ca !yAvat kilbizam Aharet !!1.27!
+   <1.28/1> danta+mūlaṃ* parā dhautir* !yogināṃ* yoga+sādhane !	<1.28/1> danta+-mUlaM* parA DOtir* !yoginAM* yoga+-sADane !
+   <1.28/2> nityaṃ* kuryāt prabhāte ca !danta+rakṣāya yoga+vit !	<1.28/2> nityan* kuryAt praBAte ca !danta+rakzAya yoga+vid !
+   <1.28/3> danta+mūlaṃ* dhāraṇā+ādi+ !+kāryeṣu yogināṃ* yataḥ !!1.28!	<1.28/3> danta+-mUlaM* DAraNA+Adi+ !+-kAryezu yoginAn* yatas !!1.28!
+   <1.29/1> atha*ataḥ saṃpravakṣyāmi !jihvā+śodhana+kāraṇam !	<1.29/1> aTa*ataH saMpravakzyAmi !jihvA+SoDana+-kAraNam !
+   <1.29/2> jarā+maraṇa+roga+ādīn !nāśayed* dīrgha+lambikā !!1.29!	<1.29/2> jarA+maraNa-+roga+AdIn !nASayed* dIrGa-+lambikA !!1.29!
+   <1.30/1> tarjanī+madhyamā+nāmā !aṅguli+traya+yogataḥ !	<1.30/1> tarjanI+-maDyamA+nAmA !aFguli+traya+-yogataH !
+   <1.30/2> veśayed* gala+madhye tu !mārjayel* lambikā+malam !	<1.30/2> veSayed* gala+-maDye tu !mArjayel* lambikA+malam !
+   <1.30/3> śanaiḥ śanair* mārjayitvā !kapha+doṣaṃ* nivārayet !!1.30!	<1.30/3> SanEs SanEs-* mArjayitvA !kaPa-+dozaM* nivArayet !!1.30!
+   <1.31/1> mārjayen* navanītena !dohayec* ca punaḥ punaḥ !	<1.31/1> mArjayen* navanItena !dohayec* ca punar punar !
+   <1.31/2> tad+agraṃ* lauha+yantreṇa !karṣayitvā punaḥ punaḥ !!1.31!	<1.31/2> tad-+agran* lOha+yantreNa !karzayitvA punar punar !!1.31!
+   <1.32/1> nityaṃ* kuryāt prayatnena !raver* udayake 'stake !	<1.32/1> nityan* kuryAt prayatnena !raver* udayake astake !
+   <1.32/2> evaṃ* kṛte tu nitye ca !lambikā dīrghatāṃ* gatā !!1.32!	<1.32/2> evaM* kRte tu nitye ca !lambikA dIrGa-tAn* gatAH !!1.32!
+   <1.33/1> tarjany-+aṅguly+agra+yogān@ !mārjayet karṇa+randhrayoḥ !	<1.33/1> tarjanI--+aFgulI-+agra+-yogAn@ !mArjayet karNa+ranDrayoH !
+   <1.33/2> nityam abhyāsa+yogena !nāda+antaraṃ* prakāśanam !!1.33!	<1.33/2> nityam aByAsa+-yogena !nAda-+antaran* prakASanam !!1.33!
+   <1.34/1> vṛddha+aṅguṣṭhena dakṣeṇa !mardayed* bhāla+randhrakam !	<1.34/1> vRdDa-+aFguzWena dakzeNa !mardayet-* BAla+ranDrakam !
+   <1.34/2> evam abhyāsa+yogena !kapha+doṣaṃ* nivārayet !!1.34!	<1.34/2> evam aByAsa+-yogena !kaPa-+dozan* nivArayet !!1.34!
+   <1.35/1> nāḍī nir+malatāṃ* yāti !divya+dṛṣṭiḥ prajāyate !	<1.35/1> nAxI nir+mala-tAn* yAti !divya+dRzwiH prajAyate !
+   <1.35/2> nidrā+ante bhojana+ante ca !diva+ante ca dine dine !!1.35!	<1.35/2> nidrA+ante Bojana+ante ca !diva+ante ca dine dine !!1.35!
+   <1.36/1> hṛd+dhautiṃ* tri+vidhāṃ* kuryād* !daṇḍa+vamana+vāsasā !!1.36!	<1.36/1> hRd+DOtiM* tri+viDAM* kuryAt-* !daNxa-+vamana+-vAsasA !!1.36!
+   <1.37/1> rambhā+daṇḍaṃ* harid+daṇḍaṃ* !vetra+daṇḍaṃ* tathā*eva ca !	<1.37/1> ramBA+-daNxaM* harid+daNxan* !vetra+daNxan* taTA*eva ca !
+   <1.37/2> hṛn+madhye cālayitvā tu !punaḥ pratyāharec* *chanaiḥ !!1.37!	<1.37/2> hRn+-maDye cAlayitvA tu !punar pratyAharec* *CanEs !!1.37!
+   <1.38/1> kapha+pittaṃ* tathā kledaṃ* !recayed* ūrdhva+vartmanā !	<1.38/1> kaPa-+pittaM* taTA kledan* !recayed* UrDva-+vartmanA !
+   <1.38/2> daṇḍa+dhauti+vidhānena !hṛd+rogaṃ* nāśayed* dhruvam !!1.38!	<1.38/2> daNxa+DOti+-viDAnena !hRd-+rogan* nASayed* Druvam !!1.38!
+   <1.39/1> bhojana+ante pibed* vāri !ā+karṇa+pūritaṃ* su+dhīḥ !	<1.39/1> Bojana-+ante pibed* vAri !A+karNa+pUritaM* su+DIH !
+   <1.39/2> ūrdhva+dṛṣṭiṃ* kṣaṇaṃ* kṛtvā !taj* jalaṃ* vamayet punaḥ !	<1.39/2> UrDva+-dRzwiM* kzaNaM* kRtvA !taj* jalaM* vamayet punar !
+   <1.39/3> nityam abhyāsa+yogena !kapha+pittaṃ* nivārayet !!1.39!	<1.39/3> nityam aByAsa+-yogena !kaPa-+pittaM* nivArayet !!1.39!
+   <1.40/1> eka+ūna+viṃśatiḥ hastaḥ !pañca+viṃśati vai tathā !	<1.40/1> eka+Una+viMSatiH hastaH !paQca+viMSati vE taTA !
+   <1.40/2> catur+aṅgula+vistāraṃ* !sūkṣma+vastraṃ* śanair* graset !	<1.40/2> catur-+aFgula+vistAran* !sUkzma-+vastraM* SanEs-* graset !
+   <1.40/3> punaḥ pratyāhared* etat !procyate dhauti+karmakam !!1.40!	<1.40/3> punar pratyAhared* etat !procyate DOti+karmakam !!1.40!
+   <1.41/1> gulma+jvara+plīhā+kuṣṭha+ !+kapha+pittaṃ* vinaśyati !	<1.41/1> gulma+-jvara+-plIhA+-kuzWa+ !+kaPa-+pittaM* vinaSyati !
+   <1.41/2> ārogyaṃ* bala+puṣṭiś* ca !bhavet tasya dine dine !!1.41!	<1.41/2> Arogyan* bala+-puzwiS* ca !Bavet tasya dine dine !!1.41!
+   <1.42/1> apāna+krūratā tāvad* !yāvan+mūlaṃ* na śodhayet !	<1.42/1> apAna-+krUra-tA tAvat-* !yAvan+-mUlaM* na SoDayet !
+   <1.42/2> tasmāt sarva+prayatnena !mūla+śodhanam ācaret !!1.42!	<1.42/2> tasmAt sarva+-prayatnena !mUla+SoDanam Acaret !!1.42!
+   <1.43/1> pīta+mūlasya daṇḍena !madhyama+aṅgulinā*api vā !	<1.43/1> pIta+mUlasya daNxena !maDyama+aFgulinA*-api vA !
+   <1.43/2> yatnena kṣālayed* guhyaṃ* !vāriṇā ca punaḥ punaḥ !!1.43!	<1.43/2> yatnena kzAlayet-* guhyaM* !vAriNA ca punar punar !!1.43!
+   <1.44/1> vārayet koṣṭha+kāṭhinyam !āmā+jīrṇaṃ* nivārayet !	<1.44/1> vArayet kozWa+-kAWinyam !AmA+-jIrNaM* nivArayet !
+   <1.44/2> kāraṇaṃ* kānti+puṣṭyoś* ca !dīpanaṃ* vahni+maṇḍalam !!1.44!	<1.44/2> kAraNaM* kAnti+-puzwya-uS* ca !dIpanaM* vahni+-maNxalam !!1.44!
+   <1.45/1> jala+vastiḥ śuṣka+vastir* !vastī ca dvi+vidhau smṛtau !	<1.45/1> jala+vastiH Suzka+vastir* !vastI ca dvi-+viDO smRtO !
+   <1.45/2> jala+vastiṃ* jale kuryāc* !*chuṣka+vastiṃ* kṣitau sadā !!1.45!	<1.45/2> jala+vastiM* jale kuryAc* !*Cuzka-+vastiM* kzitO sadA !!1.45!
+   <1.46/1> nābhi+magna+jale pāyu+ !+nyasta+nāla+utkaṭa+āsanaḥ !	<1.46/1> nABi-+magna+-jale pAyu+ !+nyaH-ta+nAla+utkawa+AsanaH !
+   <1.46/2> ākuñcanaṃ* prakāśaṃ* ca !jala+vastiṃ* samācaret !!1.46!	<1.46/2> AkuQcanan* prakASan* ca !jala+vastiM* samAcaret !!1.46!
+   <1.47/1> pramehaṃ* ca guda+āvartaṃ* !krūra+vāyuṃ* nivārayet !	<1.47/1> pramehan* ca guda+Avartan* !krUra+vAyuM* nivArayet !
+   <1.47/2> bhavet sva+cchanda+dehaś* ca !kāma+deva+samo* bhavet !!1.47!	<1.47/2> Bavet sva+cCanda+-dehaS* ca !kAma+deva+-samo* Bavet !!1.47!
+   <1.48/1> vastiṃ* paścima+tānena !cālayitvā śanaiḥ śanaiḥ !	<1.48/1> vastiM* paScima+tAnena !cAlayitvA SanEs SanEs !
+   <1.48/2> aśvinī+mudrayā pāyum !ākuñcayet prakāśayet !!1.48!	<1.48/2> aSvinI+-mudrayA pAyum !A-AkuQcayet prakASayet !!1.48!
+   <1.49/1> evam abhyāsa+yogena !koṣṭha+doṣo* na vidyate !	<1.49/1> evam aByAsa+-yogena !kozWa+-dozaH-* na vidyate !
+   <1.49/2> vivardhayej* jāṭhara+agnim !āma+vātaṃ* vināśayet !!1.49!	<1.49/2> vivarDa-yej* jAWara+agnim !Am-a+vAtaM* vinASayet !!1.49!
+   <1.50/1> vitastimānaṃ* sūkṣma+sūtraṃ* !nāsā+nāle praveśayet !	<1.50/1> vitasti-mAnaM* sUkzma+sUtraM* !nAsA-a+nAle praveSayet !
+   <1.50/2> mukhān* nirgamayet paścāt !procyate neti+karmakam !!1.50!	<1.50/2> muKAn* nirgamayet paScAt !procyate na-iti+karmakam !!1.50!
+   <1.51/1> sādhanān* neti+karma*api !khecarī+siddhim āpnuyāt !	<1.51/1> sADanAn* na-iti+karma*api !KecarI+-sidDim ApnuyAt !
+   <1.51/2> kapha+doṣā* vinaśyanti !divya+dṛṣṭiḥ prajāyate !!1.51!	<1.51/2> kaPa-+dozA* vinaSyanti !divya+dRzwiH prajAyate !!1.51!
+   <1.52/1> a+manda+vegaṃ* tundaṃ* ca !bhrāmayed* ubha+pārśvayoḥ !	<1.52/1> a+manda+vegan* tundan* ca !BrAmayed* uBa+-pArSvayoH !
+   <1.52/2> sarva+rogān* nihanti*iha !deha+anala+vivardhanam !!1.52!	<1.52/2> sarva-+rogAn* nihanti*-iha !deha-+anala+-vivarDanam !!1.52!
+   <1.53/1> nimeṣa+unmeṣakaṃ* tyaktvā !sūkṣma+lakṣyaṃ* nirīkṣayet !	<1.53/1> nimeza+-unmezakaM* tyaktvA !sUkzma-+lakzyan* nirIkzayet !
+   <1.53/2> yāvad* aśrū nipatate !trāṭakaṃ* procyate budhaiḥ !!1.53!	<1.53/2> yAvad* aSrU nipatate !trAwakaM* procyate buDEH !!1.53!
+   <1.54/1> evam abhyāsa+yogena !śāṃbhavī jāyate dhruvam !	<1.54/1> evam aByAsa+-yogena !SAMBavI jAyate Druvam !
+   <1.54/2> na jāyate netra+rogaḥ !divya+dṛṣṭi+pradāyakam !!1.54!	<1.54/2> na jAyate netra-+rogaH !divya+-dRzwi+-pradAyakam !!1.54!
+   <1.55/1> vāma+krameṇa vyutkrameṇa !śīt+krameṇa viśeṣataḥ !	<1.55/1> vAma+krameNa vyutkrameNa !SIt+-krameNa viSezataH !
+   <1.55/2> bhāla+bhātiṃ* tridhā kuryāt !kapha+doṣaṃ* nivārayet !!1.55!	<1.55/2> BAla+BAtiM* triDA kuryAt !kaPa-+dozan* nivArayet !!1.55!
+   <1.56/1> iḍayā pūrayed* vāyuṃ* +recayet piṅgalā punaḥ !	<1.56/1> ixayA pUrayed* vAyuM* +recayet piFgalA punar !
+   <1.56/2> piṅgalayā pūrayitvā !punaś* candreṇa recayet !!1.56!	<1.56/2> piFgalayA pUrayitvA !punaS* candreNa recayet !!1.56!
+   <1.57/1> pūrakaṃ* recakaṃ* kṛtvā !vegena na tu cālayet !	<1.57/1> pUrakaM* recakaM* kRtvA !vegena na tu cAlayet !
+   <1.57/2> evam abhyāsa+yogena !kapha+doṣaṃ* nivārayet !!1.57!	<1.57/2> evam aByAsa+-yogena !kaPa-+dozan* nivArayet !!1.57!
+   <1.58/1> nāsābhyāṃ* jalam ākṛṣya !punar* vaktreṇa recayet !	<1.58/1> nAsAByAn* jalam AkRzya !punar* vaktreNa recayet !
+   <1.58/2> pāyaṃ* pāyaṃ* prakurvaṃś* cec* !*chleṣma+doṣaṃ* nivārayet !!1.58!	<1.58/2> pAyaM* pAyaM* prakurvaMS* cec* !*-Slezma+-dozan* nivArayet !!1.58!
+   <1.59/1> śīt+kṛtya pītvā vaktreṇa !nāsā+nalair* virecayet !	<1.59/1> SIt+kRtya pItvA vaktreNa !nAsA-a+nalEr* virecayet !
+   <1.59/2> evam abhyāsa+yogena !kāma+deva+samo* bhavet !!1.59!	<1.59/2> evam aByAsa+-yogena !kAma+deva+-samo* Bavet !!1.59!
+   <1.60/1> na jāyate vārddhakaṃ* ca !jvaro* na*eva prajāyate !	<1.60/1> na jAyate vArdDakaM* ca !jvaro* na*A-iva prajAyate !
+   <1.60/2> bhavet sva+cchanda+dehaś* ca !kapha+doṣaṃ* nivārayet !!1.60!	<1.60/2> Bavet sva+cCanda+-dehaS* ca !kaPa-+dozan* nivArayet !!1.60!
+   <1.61/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<1.61/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghaṭa+stha+yoge	Gawa+-sTa+-yoge
+   ṣaṭ+karma+sādhanaṃ* nāma prathama+upadeśaḥ !!1!! ]]	zaw+karma+-sADanaM* nAma praTama-+upadeSaH !!1!! ]]
+   <2.1/1> gheraṇḍa* uvāca:	<2.1/1> GeraNxa* uvAca:
+   <2.1/11> āsanāni samastāni !yāvanto* jīva+jantavaḥ !	<2.1/11> AsanAni samastAni !yAvanto* jIva+-jantavaH !
+   <2.1/2> catur+aśīti lakṣāṇi !śivena kathitaṃ* purā !!2.1!	<2.1/2> catur+aSI-iti lakzANi !Sivena kaTitan* purA !!2.1!
+   <2.2/1> teṣāṃ* madhye viśiṣṭāni !ṣo+ḍaśa+ūnaṃ* śataṃ* kṛtam !	<2.2/1> tezAn* maDye viSizwAni !zo+xaSa-+UnaM* SataM* kRtam !
+   <2.2/2> teṣāṃ* madhye martya+loke !dvā+triṃśad* āsanaṃ* śubham !!2.2!	<2.2/2> tezAn* maDye martya+loke !dvA+-triMSad* AsanaM* SuBam !!2.2!
+   <2.3/1> siddhaṃ* padmaṃ* tathā bhadraṃ* !muktaṃ* vajraṃ* ca svastikam !	<2.3/1> sidDaM* padman* taTA BadraM* !muktaM* vajran* ca svastikam !
+   <2.3/2> siṃhaṃ* ca go+mukhaṃ* vīraṃ* !dhanur+āsanam eva ca !!2.3!	<2.3/2> siMhan* ca go+muKaM* vIran* !DanuH-+Asanam eva ca !!2.3!
+   <2.4/1> mṛtaṃ* guptaṃ* tathā mātsyaṃ* !matsya+indra+āsanam eva ca !	<2.4/1> mRtaM* guptaM* taTA mAtsyan* !matsya+indra-+Asanam eva ca !
+   <2.4/2> go+rakṣaṃ* paścima+uttānam !ut+kaṭaṃ* saṃ+kaṭaṃ* tathā !!2.4!	<2.4/2> go+rakzaM* paScima-+uttAnam !ut+-kawan* saM+kawaM* taTA !!2.4!
+   <2.5/1> mayūraṃ* kukkuṭaṃ* kūrmaṃ* !tathā uttāna+kūrmakam !	<2.5/1> mayUraM* kukkuwaM* kUrman* !taTA uttAna+-kUrmakam !
+   <2.5/2> uttāna+maṇḍukaṃ* vṛkṣaṃ* !maṇḍūkaṃ* garuḍaṃ* vṛṣam !!2.5!	<2.5/2> uttAna+-maNxukaM* vRkzaM* !maNxUkaM* garuxan* vRzam !!2.5!
+   <2.6/1> śalabhaṃ* makaraṃ* ca*uṣṭraṃ* !bhujaṃ+gaṃ* ca yoga+āsanam !	<2.6/1> SalaBaM* makaraM* ca*uzwraM* !BujaM+gan* ca yoga+Asanam !
+   <2.6/2> dvā+triṃśad* āsanāny* eva !martya+loke ca siddhi+dā !!2.6!	<2.6/2> dvA+triMSad* AsanAny* eva !martya+-loke ca sidDi+dAH !!2.6!
+   <2.7/1> yoni+sthānakam aṅghri+mūla+ghaṭitaṃ* saṃpīḍya gulpha+itaraṃ* !	<2.7/1> yoni+sTAnakam aFGri+-mUla+-GawitaM* saMpIxya gulPa-+itaran* !
+   <2.7/11> meḍhra+upary* atha saṃnidhāya cibukaṃ* kṛtvā hṛdi sthāpitam !	<2.7/11> meXra+-upary* aTa saMniDAya cibukaM* kRtvA hRdi sTApitam !
+   <2.7/2> sthāṇuḥ saṃyamita+indriyo* '+cala+dṛśā paśyan bhruvor* antare !	<2.7/2> sTANuH saMyamita-+indriyo* a+cala+dRSA paSyan Bruvor* antare !
+   <2.7/3> etan* mokṣa+kapāṭa+bhedana+karaṃ* siddha+āsanaṃ* procyate !!2.7!	<2.7/3> etan* mokza+kapAwa+Bedana+karaM* sidDa+AsanaM* procyate !!2.7!
+   <2.8/1> vāmor* ūpari dakṣiṇaṃ* hi caraṇaṃ* saṃsthāpya vāmaṃ* tathā !	<2.8/1> vAma-Ur* Upari dakziNaM* hi caraNan* saMsTApya vAmaM* taTA !
+   <2.8/11> dakṣor* ūpari paścimena vidhinā kṛtvā karābhyāṃ* dṛḍham !	<2.8/11> dakza-Ur* Upari paScimena viDinA kRtvA karAByAn* dRXam !
+   <2.8/2> aṅguṣṭhau hṛdaye nidhāya cibukaṃ* nāsā+agram ālokayed* !	<2.8/2> aFguzWO hRdaye niDAya cibukaM* nAsA-+agram Alokayed* !
+   <2.8/3> etad* vyādhi+vikāra+nāśana+karaṃ* padma+āsanaṃ* procyate !!2.8!	<2.8/3> etat-* vyADi+-vikAra+-nASana+-karaM* padma+AsanaM* procyate !!2.8!
+   <2.9/1> gulphau ca vṛṣaṇasya*adho* !vyutkrameṇa samāhitau@ !	<2.9/1> gulPO ca vRzaNasya-*aDo* !vyutkrameNa samAhitO@ !
+   <2.9/2> pāda+aṅguṣṭhau karābhyāṃ* ca !dhṛtvā ca pṛṣṭha+deśataḥ !!2.9!	<2.9/2> pAda-+aFguzWO karAByAn* ca !DRtvA ca pRzWa+deSataH !!2.9!
+   <2.10/1> jālaṃ+dharaṃ* samāsādya !nāsā+agram avalokayet !	<2.10/1> jAlaM+DaraM* samAsAdya !nAsA-+agram avalokayet !
+   <2.10/2> bhadra+āsanaṃ* bhaved* etat !sarva+vyādhi+vināśakam !!2.10!	<2.10/2> Badra+AsanaM* Bavet-* etat !sarva+-vyADi+-vinASakam !!2.10!
+   <2.11/1> pāyu+mūle vāma+gulphaṃ* !dakṣa+gulphaṃ* tathā*upari !	<2.11/1> pAyu+mUle vAma+gulPaM* !dakza+-gulPaM* taTA*-upari !
+   <2.11/2> śiro+grīva+āsame kāye@ !mukta+āsanaṃ* tu siddhi+dam !!2.11!	<2.11/2> SiraH-+grIva-+A-same kAye@ !mukta-+AsanaM* tu sidDi+dam !!2.11!
+   <2.12/1> jaṅghayor* vajravat kṛtvā !guda+pārśve padāv* ubhau !	<2.12/1> jaFGayor* vajra-vat kRtvA !guda+-pArSve padAv* uBO !
+   <2.12/2> vajra+āsanaṃ* bhaved* etad* !yogināṃ* siddhi+dāyakam !!2.12!	<2.12/2> vajra-+AsanaM* Bavet-* etad* !yoginAM* sidDi+dAyakam !!2.12!
+   <2.13/1> jānu+urvor* antare kṛtvā !yogī pāda+tale ubhe !	<2.13/1> jAnu+urvor* antare kRtvA !yogI pAda+tale uBe !
+   <2.13/2> ṛju+kāyaḥ samāsīnaḥ !svastikaṃ* tat pracakṣate !!2.13!	<2.13/2> Rju+-kAyaH samAsInaH !svastikaM* tat pracakzate !!2.13!
+   <2.14/1> gulphau ca vṛṣaṇasya*adho* !vyutkrameṇa*ūrdhvatāṃ* gatau !	<2.14/1> gulPO ca vRzaNasya-*aDo* !vyutkrameNa-*UrDvatAM* gatO !
+   <2.14/2> citi+mūlau bhūmi+saṃsthau !karau ca jānunā*upari !!2.14!	<2.14/2> citi+mUlO BUmi+-saMsTO !karO ca jAnunA*-upari !!2.14!
+   <2.15/1> vyātta+vaktro* jalaṃ+dhreṇa !nāsā+agram avalokayet !	<2.15/1> vyAtta+vaktro* jalaM+DreNa !nAsA-+agram avalokayet !
+   <2.15/2> siṃha+āsanaṃ* bhaved* etat !sarva+vyādhi+vināśakam !!2.15!	<2.15/2> siMha-+AsanaM* Bavet-* etat !sarva+-vyADi+-vinASakam !!2.15!
+   <2.16/1> pādau bhūmau ca saṃsthāpya !pṛṣṭha+pārśve niveśayet !	<2.16/1> pAdO BUmO ca saMsTApya !pRzWa+-pArSve niveSayet !
+   <2.16/2> sthira+kāyaṃ* samāsādya !go+mukhaṃ* go+mukha+ākṛti !!2.16!	<2.16/2> sTira+kAyaM* samAsAdya !go+muKaM* go+muKa+a-AkRti !!2.16!
+   <2.17/1> eka+pādam atha*ekasmin !vinyased* ūru+saṃsthitam !	<2.17/1> eka+pAdam aTa-*ekasmin !vinyased* Uru+-saMsTitam !
+   <2.17/2> itarasmiṃs* tathā paścād* !vīra+āsanam iti*īritam !!2.17!	<2.17/2> itarasmins* taTA paScAd* !vIra+Asanam iti*Iritam !!2.17!
+   <2.18/1> prasārya pādau bhuvi daṇḍa+rūpau !	<2.18/1> prasArya pAdO Buvi daNxa+-rUpO !
+   <2.18/11> karau ca pṛṣṭhaṃ* dhṛta+pāda+yugmam !	<2.18/11> karO ca pRzWaM* DRta+pAda+-yugmam !
+   <2.18/2> kṛtvā dhanus+tulya+vivartita+aṅgaṃ* !	<2.18/2> kRtvA Danus+tulya+-vivartita-+aFgan* !
+   <2.18/3> nigadyate vai dhanur+āsanaṃ* tat !!2.18!	<2.18/3> nigadyate vE DanuH-+AsanaM* tat !!2.18!
+   <2.19/1> uttānaṃ* śavavad* bhūmau !śayānaṃ* tu śava+āsanam !	<2.19/1> uttAnaM* Sava-vad* BUmO !SayAnaM* tu Sava-+Asanam !
+   <2.19/2> śava+āsanaṃ* śrama+haraṃ* !citta+viśrānti+kāraṇam !!2.19!	<2.19/2> Sava-+AsanaM* Srama+-haran* !citta+-viSrAnti+kAraNam !!2.19!
+   <2.20/1> jānu+ūrvor* antare pādau !kṛtvā pādau ca gopayet !	<2.20/1> jAnu+Urvor* antare pAdO !kRtvA pAdO ca gopayet !
+   <2.20/2> pādaupari ca saṃsthāpya !gudaṃ* gupta+āsanaṃ* viduḥ !!2.20!	<2.20/2> pAda-Opari ca saMsTApya !gudan* gupta-+AsanaM* viduH !!2.20!
+   <2.21/1> mukta+padma+āsanaṃ* kṛtvā !uttāna+śayanaṃ* caret !	<2.21/1> mukta+padma+AsanaM* kRtvA !uttAna+-Sayanan* caret !
+   <2.21/2> kūrparābhyāṃ* śiro* veṣṭya !matsya+āsanaṃ* tu roga+hā !!2.21!	<2.21/2> kUrparAByAn* Siro* vezwya !matsya-+AsanaM* tu roga+hAH !!2.21!
+   <2.22/1> udare paścimaṃ*@ tānaṃ* !kṛtvā tiṣṭhati yatnataḥ !	<2.22/1> udare paScimaM*@ tAnaM* !kRtvA tizWati yatnatas !
+   <2.22/2> namra+aṅgaṃ* vāma+padaṃ* hi !dakṣa+jānu+ūpari nyaset !!2.22!	<2.22/2> namra-+aFgaM* vAma+padaM* hi !dakza+ja-anu+u-upari nyaset !!2.22!
+   <2.23/1> tatra yāmyaṃ* kūrparaṃ* ca !yāmya+kare ca vaktrakam !	<2.23/1> tatra yAmyan* kUrparaM* ca !yAmi-a+kare ca vaktrakam !
+   <2.23/2> bhruvor* madhye gatā dṛṣṭiḥ !pīṭhaṃ* matsya+indram ucyate !!2.23!	<2.23/2> Bruvor* maDye gatA dRzwiH !pIWaM* matsya+indram ucyate !!2.23!
+   <2.24/1> jānu+ūrvor* antare pādau !uttānau vyakta+saṃsthitau !	<2.24/1> jAnu+Urvor* antare pAdO !uttAnO vyakta+-saMsTitO !
+   <2.24/2> gulphau ca*ācchādya hastābhyām !uttānābhyaṃ* prayatnataḥ !!2.24!	<2.24/2> gulPO ca*a-AcCAdya hastAByAm !uttAnAByaM* prayatnataH !!2.24!
+   <2.25/1> kaṇṭha+saṃkocanaṃ* kṛtvā !nāsa+agram avalokayet !	<2.25/1> kaNWa+-saMkocanaM* kRtvA !nAsa+agram avalokayet !
+   <2.25/2> go+rakṣa+āsanam ity* āhur* !yogināṃ* siddhi+kāraṇam !!2.25!	<2.25/2> go+rakza+Asanam ity* Ahur* !yoginAM* sidDi+-kAraNam !!2.25!
+   <2.26/1> prasārya pādau bhuvi daṇḍa+rūpau !	<2.26/1> prasArya pAdO Buvi daNxa+-rUpO !
+   <2.26/2> saṃnyasta+bhālaṃ* citi+yugma+madhye !	<2.26/2> saMnyasta+-BAlaM* citi+-yugma+-maDye !
+   <2.26/3> yatnena pādau ca dhṛtau karābhyāṃ* !	<2.26/3> yatnena pAdO ca DRtO karAByAn* !
+   <2.26/4> yoga+indra+pīṭhaṃ* paścima+tānam āhuḥ !!2.26!	<2.26/4> yoga+indra+-pIWaM* paScima+tAnam AhuH !!2.26!
+   <2.27/1> aṅguṣṭhābhyām avaṣṭabhya !dharāṃ* gulphau ca khe gatau !	<2.27/1> aFguzWAByAm avazwaBya !DarAM* gulPO ca Ke gatO !
+   <2.27/2> tatra*upari gudaṃ* nyased* !vijñeyam utkaṭa+āsanam !!2.27!	<2.27/2> tatra*upari gudaM* nyased* !vijQeyam utkawa-+Asanam !!2.27!
+   <2.28/1> vāma+pāda+citer* mūlaṃ* !saṃnyasya dharaṇī+tale !	<2.28/1> vAma+pAda+citer* mUlaM* !saMnyasya DaraNI+tale !
+   <2.28/2> pāda+daṇḍena yāmyena !veṣṭayed* vāma+pādakam !	<2.28/2> pAda+-daNxena yAmyena !vezwayed* vAma+pAdakam !
+   <2.28/3> jānu+yugme kara+yugmam !etat saṃkaṭam āsanam !!2.28!	<2.28/3> jAnu+-yugme kara+-yugmam !etat saMkawam Asanam !!2.28!
+   <2.29/1> dharām avaṣṭabhya kara+dvayābhyāṃ* !	<2.29/1> DarAm avazwaBya kara+-dvayAByAn* !
+   <2.29/2> tat kūrpare sthāpita+nābhi+pārśvam !	<2.29/2> tat kUrpare sTApita+nABi+-pArSvam !
+   <2.29/3> ucca+āsane daṇḍavad* utthitaḥ khe !	<2.29/3> ucca+Asane daNxa-vad* utTitaH Ke !
+   <2.29/4> mayūram etat pravadanti pīṭham !!2.29!	<2.29/4> mayUram etat pravadanti pIWam !!2.29!
+   <2.30/1> bahu+kad+aśana+bhuktaṃ* bhasma kuryād* a+śeṣaṃ* !	<2.30/1> bahu+kad+aSana+-BuktaM* Basma kuryAt-* a+SezaM* !
+   <2.30/2> janayati jaṭhara+agniṃ* jārayet kāla+kūṭam !	<2.30/2> janayati jaWara+agniM* jArayet kAla+kUwam !
+   <2.30/3> harati sa+kala+rogān āśu gulma+jvara+ādīn !	<2.30/3> harati sa+kala+-rogAn ASu gulma+-jvara+AdIn !
+   <2.30/4> bhavati vigata+doṣaṃ* hy* āsanaṃ* śrī+mayūram !!2.30!	<2.30/4> Bavati vigata+dozaM* hy* AsanaM* SrI+-mayUram !!2.30!
+   <2.31/1> padma+āsanaṃ* samāsādya !jānu+ūrvor* antare karau !	<2.31/1> padma+AsanaM* samAsAdya !jA-anu+Urvor* antare karO !
+   <2.31/2> kūrparābhyāṃ* samāsīno* !mañca+sthaḥ kukkuṭa+āsanam !!2.31!	<2.31/2> kUrparAByAn* samAsIno* !maQca+sTaH kukkuwa+Asanam !!2.31!
+   <2.32/1> gulphau ca vṛṣaṇasya*adho* !vyutkrameṇa samāhitau !	<2.32/1> gulPO ca vRzaNasya-*aDo* !vyutkrameNa samAhitO !
+   <2.32/2> ṛju+kāya+śiro+grīvaṃ* !kūrma+āsanam iti*īritam !!2.32!	<2.32/2> Rju+kAya+-SiraH-+grIvan* !kUrma+a-Asanam iti*Iritam !!2.32!
+   <2.33/1> kukkuṭa+āsana+bandha+sthaṃ* !karābhyāṃ* dhṛta+kandharam !	<2.33/1> kukkuwa-+Asana-+banDa+-sTaM* !karAByAn* DRta+-kanDaram !
+   <2.33/2> kha+ga+kūrmavad* uttānam !etad* uttāna+kūrmakam !!2.33!	<2.33/2> Ka+ga+kUrma-vad* uttAnam !etad* uttAna+-kUrmakam !!2.33!
+   <2.34/1> pāda+talau pṛṣṭha+deśe !aṅguṣṭhau dvau ca saṃspṛśet !	<2.34/1> pAda+talO pRzWa+deSe !aFguzWO dvO ca saMspRSet !
+   <2.34/2> jānu+yugmaṃ* puraskṛtya !sādhayen* maṇḍuka+āsanam !!2.34!	<2.34/2> jAnu+-yugmaM* puraskRtya !sADayen* maNxuka+Asanam !!2.34!
+   <2.35/1> maṇḍūka+āsana+bandha+sthaṃ* !kūrparābhyāṃ* dhṛtaṃ* śiraḥ !	<2.35/1> maNxUka-+Asana+banDa+-sTaM* !kUrparAByAn* DRtaM* SiraH !
+   <2.35/2> etad* bhekavad* uttānam !etad* uttāna+maṇḍukam !!2.35!	<2.35/2> etat-* Beka-vad* uttAnam !etad* uttAna+-maNxukam !!2.35!
+   <2.36/1> vāma+ūru+mūla+deśe ca !yāmyaṃ* pādaṃ* nidhāya tu !	<2.36/1> vAma-+Uru+-mUla+deSe ca !yAmyan* pAdaM* niDAya tu !
+   <2.36/2> tiṣṭhati vṛkṣavad* bhūmau !vṛkṣa+āsanam idaṃ* viduḥ !!2.36!	<2.36/2> tizWati vRkza-vad* BUmO !vRkza-+Asanam idaM* viduH !!2.36!
+   <2.37/1> jaṅgha+urubhyāṃ* dharāṃ* pīḍya !sthira+kāyo* dvi+jānunā !	<2.37/1> jaFGa+uruByAn* DarAM* pIxya !sTira+kAyo* dvi+ja-anunA !
+   <2.37/2> jānu+ūpari kara+yugmaṃ* !garuḍa+āsanam ucyate !!2.37!	<2.37/2> jAnu+u-upari kara+-yugmaM* !garuxa-+Asanam ucyate !!2.37!
+   <2.38/1> yāmya+gulphe pāyu+mūlaṃ* !vāma+bhāge pada+itaram !	<2.38/1> yAmya+-gulPe pAyu+mUlaM* !vAma+-BAge pada+itaram !
+   <2.38/2> viparītaṃ* spṛśed* bhūmiṃ* !vṛṣa+āsanam idaṃ* bhavet !!2.38!	<2.38/2> viparItaM* spRSed* BUmiM* !vRza+Asanam idaM* Bavet !!2.38!
+   <2.39/1> adhyāsya śete pada+yugma+vakṣe !	<2.39/1> aDyAsya Sete pada+-yugma+-vakze !
+   <2.39/2> bhūmim avaṣṭabhya kara+dvayābhyām !	<2.39/2> BUmim avazwaBya kara+-dvayAByAm !
+   <2.39/3> pādau ca śūnye ca vitasti ca*ūrdhvaṃ* !	<2.39/3> pAdO ca SUnye ca vitasti ca*UrDvan* !
+   <2.39/4> vadanti pīṭhaṃ* śalabhaṃ* muni+indrāḥ !!2.39!	<2.39/4> vadanti pIWaM* SalaBaM* muni+indrAH !!2.39!
+   <2.40/1> adhyāsya śete hṛdayaṃ* nidhāya !	<2.40/1> aDyAsya Sete hRdayaM* niDAya !
+   <2.40/2> bhūmau ca pādau pravisāryamāṇau !	<2.40/2> BUmO ca pAdO pravisAryamANO !
+   <2.40/3> śiraś* ca dhṛtvā kara+daṇḍa+yugme !	<2.40/3> SiraS* ca DRtvA kara+daNxa+-yugme !
+   <2.40/4> deha+agni+kāraṃ* makara+āsanaṃ* tat !!2.40!	<2.40/4> deha-+agni+kAraM* makara+AsanaM* tat !!2.40!
+   <2.41/1> adhyāsya śete pada+yugmam astaṃ*@ !	<2.41/1> aDyAsya Sete pada+-yugmam astaM*@ !
+   <2.41/11> pṛṣṭhe nidhāya*api dhṛtaṃ* karābhyām !	<2.41/11> pRzWe niDAya*api DRtaM* karAByAm !
+   <2.41/2> ākuñcya samyag* ghy* udara+āsya+gaṇḍam@ !	<2.41/2> AkuQcya samyag* Gy* udara-+Asya+-gaNxam@ !
+   <2.41/3> uṣṭraṃ* ca pīṭhaṃ* yatayo* vadanti !!2.41!	<2.41/3> uzwraM* ca pIWaM* yatayo* vadanti !!2.41!
+   <2.42/1> aṅguṣṭha+nābhi+pary+antam !adho* bhūmau ca vinyaset !	<2.42/1> aFguzWa+nABi+pary+antam !aDo* BUmO ca vinyaset !
+   <2.42/2> kara+talābhyāṃ* dharāṃ* dhṛtvā !ūrdhvaṃ* śīrṣaṃ* phaṇī*iva hi	<2.42/2> kara+talAByAn* DarAM* DRtvA !u-UrDvan* SIrzaM* PaNI*-iva hi
+   <2.43/1> deha+agnir* vardhate nityaṃ* !sarva+roga+vināśanam !	<2.43/1> deha-+agnir* varDate nityan* !sarva+roga+-vinASanam !
+   <2.43/2> jāgarti bhuja+gī devī !sādhanād* bhujaṃ+ga+āsanam !!2.43!	<2.43/2> jAgarti Buja+gI devI !sADanAd* BujaM+ga+Asanam !!2.43!
+   <2.44/1> uttānau caraṇau kṛtvā !saṃsthāpya jānunā*upari !	<2.44/1> uttAnO caraNO kRtvA !saMsTApya jAnunA*-upari !
+   <2.44/2> āsana*upari saṃsthāpya !uttānaṃ* kara+yugmakam !!2.44!	<2.44/2> Asana*-upari saMsTApya !uttAnaM* kara+-yugmakam !!2.44!
+   <2.45/1> pūrakair* vāyum ākṛṣya !nāsa+agram avalokayet !	<2.45/1> pUrakEr* vAyum AkRzya !nAsa+agram avalokayet !
+   <2.45/2> yoga+āsanaṃ* bhaved* etad* !yogināṃ* yoga+sādhane !!2.45!	<2.45/2> yoga-+AsanaM* Bavet-* etad* !yoginAM* yoga+-sADane !!2.45!
+   <2.46/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<2.46/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghata+stha+yogae*	Gata+sTa+-yogae*
+   āsana+prayogo* nāma dvitīya+upadeśaḥ !!2!! ]]	Asana+-prayogo* nAma dvitIya-+upadeSaH !!2!! ]]
+   <3.1/1> gheraṇḍa* uvāca: mahā+mudrā nabho+mudrā !uḍḍīyānaṃ* jalaṃ+dharam !	<3.1/1> GeraNxa* uvAca: mahA+mudrA naBo+mudrA !uxxIyAnaM* jalaM+Daram !
+   <3.1/2> mūla+bandhaṃ* mahā+bandhaṃ* !mahā+vedhaś ca khe+carī !!3.1!	<3.1/2> mUla+banDan* mahA+banDan* !mahA+veDaH ca Ke+carI !!3.1!
+   <3.2/1> viparīta+karaṇī yonir* !vajrolī śakti+cālanī !	<3.2/1> viparIta+karaNI yoniH-* !vajrolI Sakti+cAlanI !
+   <3.2/2> taḍāgī māṇḍukī mudrā !śāṃbhavī pañca+dhāraṇā !!3.2!	<3.2/2> taxAgI mANxukI mudrA !SAMBavI paQca+-DAraNAH !!3.2!
+   <3.3/1> aśvinī pāśinī kākī !mātaṅgī ca bhujaṃ+ginī !	<3.3/1> aSvinI pASinI kAkI !mAtaFgI ca BujaM+ginI !
+   <3.3/2> pañca+viṃśati+mudrāś* ca !siddhi+dā iha yoginām !!3.3!	<3.3/2> paQca+viMSati+-mudrA-AS* ca !sidDi+dAH iha yoginAm !!3.3!
+   <3.4/1> mudrāṇāṃ* paṭalaṃ* devi !kathitaṃ* tava saṃnidhau !	<3.4/1> mudrANAM* pawalaM* devi !kaTitaM* tava saMniDO !
+   <3.4/2> yena vijñāta+mātreṇa !sarva+siddhiḥ prajāyate !!3.4!	<3.4/2> yena vijQAta+-mAtreNa !sarva+-sidDiH prajAyate !!3.4!
+   <3.5/1> gopanīyaṃ* prayatnena !na deyaṃ* yasya kasya+cit !	<3.5/1> gopanIyan* prayatnena !na deyan* yasya kasya+cid !
+   <3.5/2> prīti+daṃ* yogināṃ* ca*eva !durl+abhaṃ* marutām api !!3.5!	<3.5/2> prIti+daM* yoginAM* ca*A-iva !durl+aBaM* marutAm api !!3.5!
+   <3.6/1> pāyu+mūlaṃ* vāma+gulphe !saṃpīḍya dṛḍha+yatnataḥ !	<3.6/1> pAyu+-mUlaM* vAma+-gulPe !saMpIxya dRXa-+yatnataH !
+   <3.6/2> yāmya+pādaṃ* prasārya*atha !karābhyāṃ* dhṛta+pada+aṅguliḥ !!3.6!	<3.6/2> yAmya+pAdaM* prasArya-*aTa !karAByAn* DRta+pada+aFguliH !!3.6!
+   <3.7/1> kaṇṭha+saṃkocanaṃ* kṛtvā !bhruvor* madhye nirīkṣayet !	<3.7/1> kaNWa+-saMkocanaM* kRtvA !Bruvor* maDye nirIkzayet !
+   <3.7/2> pūrakair* vāyuṃ* saṃpūrya !mahā+mudrā nigadyate !!3.7!	<3.7/2> pUrakEr* vAyuM* saMpUryaH !mahA+mudrA nigadyate !!3.7!
+   <3.8/1> valitaṃ* palitaṃ* ca*eva !jarāṃ*@ mṛtyuṃ* nivārayet !	<3.8/1> valitan* palitaM* ca*A-iva !jarAM*@ mRtyuM* nivArayet !
+   <3.8/2> kṣaya+kāsaṃ* guda+āvartaṃ* !plīhā+jīrṇaṃ* jvaraṃ* tathā !	<3.8/2> kzaya+kAsan* guda+Avartan* !plIhA+-jIrNaM* jvaraM* taTA !
+   <3.8/3> nāśayet sarva+rogāṃś* ca !mahā+mudrā+abhisevanāt !!3.8!	<3.8/3> nASayet sarva-+roga-aMS* ca !mahA+mudrA-+aBisevanAt !!3.8!
+   <3.9/1> yatra yatra sthito* yogī !sarva+kāryeṣu sarvadā !	<3.9/1> yatra yatra sTito* yogI !sarva+-kAryezu sarvadA !
+   <3.9/2> ūrdhva+jihvaḥ sthiro* bhūtvā !dhārayet pavanaṃ* sadā !	<3.9/2> UrDva+jihvaH sTiro* BUtvA !DArayet pavanaM* sadA !
+   <3.9/3> nabho+mudrā bhaved* eṣā !yogināṃ* roga+nāśinī !!3.9!	<3.9/3> naBo+mudrA Bavet-* ezA !yoginAM* roga+nASinI !!3.9!
+   <3.10/1> udare paścimaṃ* tānaṃ* !nābher* ūrdhvaṃ* tu kārayet !	<3.10/1> udare paSciman* tAnaM* !nABer* UrDvan* tu kArayet !
+   <3.10/2> uḍḍīnaṃ* kurute yasmād* !a+viśrāntaṃ* mahā+kha+gaḥ !	<3.10/2> uxxInaM* kurute yasmAd* !a+viSrAntaM* mahA-+Ka+gaH !
+   <3.10/3> uḍḍīyānaṃ* tv* asau bandho* !mṛtyu+mātaṃga+kesarī !!3.10!	<3.10/3> uxxIya-AnaM* tv* asO banDo* !mRtyu+-mAtaMga+-kesarI !!3.10!
+   <3.11/1> samagrād* bandhanād* *dhy* etad* !uḍḍīyānaṃ* viśiṣyate !	<3.11/1> samagrAd* banDanAd* *Dy* etat-* !uxxIyAnaM* viSizyate !
+   <3.11/2> uḍḍīyāne samabhyaste !muktiḥ svābhāvikī bhavet !!3.11!	<3.11/2> uxxIyAne samaByaste !muktiH svABAvikI Bavet !!3.11!
+   <3.12/1> kaṇṭha+saṃkocanaṃ* kṛtvā !cibukaṃ* hṛdaye nyaset !	<3.12/1> kaNWa+-saMkocanaM* kRtvA !cibukaM* hRdaye nyaset !
+   <3.12/2> jālaṃ+dhare kṛte bandhe !ṣo+ḍaśa+ādhāra+bandhanam !	<3.12/2> jAlaM+Dare kRte banDe !zo+xaSa-+a-ADAra+-banDanam !
+   <3.12/3> jālaṃ+dhara+mahā+mudrā !mṛtyoś* ca kṣaya+kāriṇī !!3.12!	<3.12/3> jAlaM+Dara+-mahA+mudrA !mRtya-uS* ca kzaya+kAriNI !!3.12!
+   <3.13/1> siddhaṃ* jālaṃ+dharaṃ* bandhaṃ* !yogināṃ* siddhi+dāyakam !	<3.13/1> sidDaM* jAlaM+DaraM* banDan* !yoginAM* sidDi+dAyakam !
+   <3.13/2> ṣaṇ+māsam abhyased* yo* hi !sa* siddho* na*atra saṃśayaḥ !!3.13!	<3.13/2> zaN+mAsam aByased* yo* hi !sa* sidDaH-* na*atra saMSayaH !!3.13!
+   <3.14/1> pārṣṇinā vāma+pādasya !yonim ākuñcayet tataḥ !	<3.14/1> pArzNinA vAma+pAdasya !yonim AkuQcayet tatas !
+   <3.14/2> nābhi+granthiṃ* meru+daṇḍe !saṃpīḍya yatnataḥ su+dhīḥ !!3.14!	<3.14/2> nABi-+granTiM* meru+-daNxe !saMpIxya yatnatas su+DIH !!3.14!
+   <3.15/1> meḍhraṃ* dakṣiṇa+gulphena !dṛḍha+bandhaṃ* samācaret !	<3.15/1> meXran* dakziNa+-gulPena !dRXa+-banDaM* samAcaret !
+   <3.15/2> nābher* ūrdhvam adhaś* ca*api !tānaṃ* kuryāt prayatnataḥ !	<3.15/2> nABer* UrDvam aDaS* ca*api !tAnaM* kuryAt prayatnataH !
+   <3.15/3> jarā+vināśinī mudrā !mūla+bandho* nigadyate !!3.15!	<3.15/3> jarA+-vinASinI mudrA !mUla+banDo* nigadyate !!3.15!
+   <3.16/1> saṃsāra+sāgaraṃ* tartum !abhilaṣati yaḥ pumān !	<3.16/1> saMsAra+-sAgaran* tartum !aBilazati yaH pumAn !
+   <3.16/2> virale su+gupto* bhūtvā !mudrām etāṃ* samabhyaset !!3.16!	<3.16/2> virale su+gupto* BUtvA !mudrAm etAM* samaByaset !!3.16!
+   <3.17/1> abhyāsād* bandhanasya*asya !marut+siddhir* bhaved* dhruvam !	<3.17/1> aByAsAd* banDanasya*asya !marut+-sidDir* Bavet-* Druvam !
+   <3.17/2> sādhayed* yatnatas tarhi !maunī tu vijita+ālasaḥ !!3.17!	<3.17/2> sADayed* yatnatas tarhi !mOnI tu vijita-+AlasaH !!3.17!
+   <3.18/1> vāma+pādasya gulphena !pāyu+mūlaṃ* nirodhayet !	<3.18/1> vAma+pAdasya gulPena !pAyu+-mUlaM* niroDayet !
+   <3.18/2> dakṣa+pādena tad* gulphaṃ* !saṃpīḍya yatnataḥ su+dhīḥ !!3.18!	<3.18/2> dakza+-pAdena tad* gulPaM* !saMpIxya yatnatas su+DIH !!3.18!
+   <3.19/1> śanaiḥ śanaiś* cālayet pārṣṇiṃ* !yonim ākuñcayec* *chanaiḥ !	<3.19/1> SanEs SanES* cAlayet pArzNiM* !yonim AkuQcayec* *CanEs !
+   <3.19/2> jālaṃ+dhare dhārayet prāṇaṃ* !mahā+bandho* nigadyate !!3.19!	<3.19/2> jAlaM+Dare DArayet prANan* !mahA+banDo* nigadyate !!3.19!
+   <3.20/1> mahā+bandhaḥ paro* bandho* !jarā+maraṇa+nāśanaḥ !	<3.20/1> mahA+banDaH paro* banDo* !jarA+-maraNa+nASanaH !
+   <3.20/2> prasādād* asya bandhasya !sādhayet sarva+vāñchitam !!3.20!	<3.20/2> prasAdAd* asya banDasya !sADayet sarva-+vAQCitam !!3.20!
+   <3.21/1> rūpa+yauvana+lāvaṇyaṃ* !nārīṇāṃ* puruṣaṃ* vinā !	<3.21/1> rUpa+yOvana-+lAvaNyan* !nArINAM* puruzaM* vinA !
+   <3.21/2> mūla+bandha+mahā+bandhau !mahā+vedhaṃ* vinā tathā !!3.21!	<3.21/2> mUla+banDa+-mahA+banDO !mahA+-veDan* vinA taTA !!3.21!
+   <3.22/1> mahā+bandhaṃ* samāsādya !uḍḍāna!kumbhakaṃ* caret !	<3.22/1> mahA+banDan* samAsAdya !uxxAna!kumBakaM* caret !
+   <3.22/2> mahā+vedhaḥ samākhyāto* !yogināṃ* siddhi+dāyakaḥ !!3.22!	<3.22/2> mahA+veDaH samAKyAto* !yoginAn* sidDi+dAyakaH !!3.22!
+   <3.23/1> mahā+bandha+mūla+bandhau !mahā+vedha+samanvitau !	<3.23/1> mahA+banDa+-mUla+banDO !mahA+-veDa+-samanvitO !
+   <3.23/2> praty+ahaṃ* kurute yas* tu !sa* yogī yoga+vittamaḥ !!3.23!	<3.23/2> praty+ahaM* kurute yas* tu !sa* yogI yoga+vittamaH !!3.23!
+   <3.24/1> na mṛtyuto* bhayaṃ* tasya !na jarā tasya vidyate !	<3.24/1> na mRtyuto* Bayan* tasya !na jarA tasya vidyate !
+   <3.24/2> gopanīyaḥ prayatnena !vedho* *yaṃ* yogi+puṃ+gavaiḥ !!3.24!	<3.24/2> gopanIyaH prayatnena !veDo* *yaM* yogi+-puM+gavEH !!3.24!
+   <3.25/1> jihvā*adho* nāḍīṃ* saṃchitya !rasanāṃ* cālayet sadā !	<3.25/1> jihvA-*aDo* nAxIM* saMCitya !rasanAM* cAlayet sadA !
+   <3.25/2> dohayen* nava+nītena !lauha+yantreṇa karṣayet !!3.25!	<3.25/2> dohayen* nava+nItena !lOha+yantreNa karzayet !!3.25!
+   <3.26/1> evaṃ* nityaṃ* samabhyāsāl* !lambikā dīrghatāṃ* vrajet !	<3.26/1> evaM* nityaM* samaByAsAl* !lambikA dIrGa-tAn* vrajet !
+   <3.26/2> yāvadgacchedbhruvormadhye tadā sidhyati khecarī !!3.26!	<3.26/2> yAvat-gacCet-BruvoH-maDye tadA siDyati KecarI !!3.26!
+   <3.27/1> rasanāṃ* tālu+madhye tu !śanaiḥ śanaiḥ praveśayet !	<3.27/1> rasanAM* tAlu+-maDye tu !SanEs SanEs praveSayet !
+   <3.27/2> kapāla+kuhare jihvā !praviṣṭā viparīta+gā !	<3.27/2> kapAla+kuhare jihvA !pravizwA viparIta+gAH !
+   <3.27/3> bhruvor* madhye gatā dṛṣṭir* !mudrā bhavati khe+carī !!3.27!	<3.27/3> Bruvor* maDye gatA dRzwir* !mudrA Bavati Ke+carI !!3.27!
+   <3.28/1> na ca mūrcchā kṣudhā tṛṣṇā !na*eva*ālasyaṃ* prajāyate !	<3.28/1> na ca mUrcCA kzuDA tRzNA !na*A-iva*Alasyan* prajAyate !
+   <3.28/2> na ca rogo* jarā mṛtyur* !deva+dehaṃ* prapadyate !!3.28!	<3.28/2> na ca rogo* jarA mRtyuH-* !deva+-dehan* prapadyate !!3.28!
+   <3.29/1> na ca*agnir* dahate gātraṃ* !na śoṣayati mārutaḥ !	<3.29/1> na ca*agnir* dahate gAtraM* !na Sozayati mArutaH !
+   <3.29/2> na dehaṃ* kledayanty* āpo* !daṃśayen* na bhujaṃ+gamaḥ !!3.29!	<3.29/2> na dehan* kledayanty* Apo* !daMSayen* na BujaM+gamaH !!3.29!
+   <3.30/1> lāvaṇyaṃ* ca bhaved* gātre !samādhir* jāyate dhruvam !	<3.30/1> lAvaNyaM* ca Bavet-* gAtre !samADir* jAyate Druvam !
+   <3.30/2> kapāla+vaktra+saṃyoge !rasanā rasam āpnuyāt !!3.30!	<3.30/2> kapAla+-vaktra+-saMyoge !rasanAH rasam ApnuyAt !!3.30!
+   <3.31/1> nānā+vidhi+samudbhūtam !ānandaṃ* ca dine dine !	<3.31/1> nAnA+-viDi+samudBUtam !a-Anandan* ca dine dine !
+   <3.31/2> ādau lavaṇa+kṣāraṃ* ca !tatas* tikta+kaṣāyakam !!3.31!	<3.31/2> AdO lavaNa+kzAraM* ca !tatas* tikta+kazAyakam !!3.31!
+   <3.32/1> nava+nītaṃ* ghṛtaṃ* kṣīraṃ* !dadhi+takra+madhūni ca !	<3.32/1> nava+nItaM* GRtaM* kzIraM* !daDi+takra+-maDUni ca !
+   <3.32/2> drākṣā+rasaṃ* ca pīyūṣaṃ* !jāyate rasanā+udakam !!3.32!	<3.32/2> drAkzA+-rasaM* ca pIyUzan* !jAyate rasanA+udakam !!3.32!
+   <3.33/1> nābhi+mūle vaset sūryas* !tālu+mūle ca candramāḥ !	<3.33/1> nABi+mUle vaset sUryas* !tAlu+mUle ca candramAH !
+   <3.33/2> a+mṛtaṃ* grasate sūryas* !tato* mṛtyu+vaśo* naraḥ !!3.33!	<3.33/2> a+mRtaM* grasate sUryas* !tato* mRtyu+-vaSo* naraH !!3.33!
+   <3.34/1> ūrdhvaṃ* ca yojayet sūryaṃ* !candraṃ* ca adha* ānayet !	<3.34/1> UrDvaM* ca yojayet sUryaM* !candraM* ca aDa* Anayet !
+   <3.34/2> viparīta+karī mudrā !sarva+tantreṣu gopitā !!3.34!	<3.34/2> viparIta+karI mudrA !sarva+tantrezu gopitA !!3.34!
+   <3.35/1> bhūmau śiraś* ca saṃsthāpya !kara+yugmaṃ* samāhitaḥ !	<3.35/1> BUmO SiraS* ca saMsTApya !kara+-yugmaM* samAhitaH !
+   <3.35/2> ūrdhva+pādaḥ sthiro* bhūtvā !viparīta+karī matā !!3.35!	<3.35/2> UrDva+pAdaH sTiro* BUtvA !viparIta+karI matA !!3.35!
+   <3.36/1> mudrā*iyaṃ* sādhayen* nityaṃ* !jarāṃ* mṛtyuṃ* ca nāśayet !	<3.36/1> mudrA*-iyan* sADayen* nityan* !jarAM* mRtyuM* ca nASayet !
+   <3.36/2> sa* siddhaḥ sarva+lokeṣu !pralaye 'pi na sīdati !!3.36!	<3.36/2> sa* sidDaH sarva+lokezu !pralaye api na sIdati !!3.36!
+   <3.37/1> siddha+āsanaṃ* samāsādya !karṇa+akṣi+nāsikā+mukham !	<3.37/1> sidDa-+AsanaM* samAsAdya !karNa-+akzi+-nAsikA+muKam !
+   <3.37/2> aṅguṣṭha+tarjanī+madhya+a+ !+nāmā+ādibhiś* ca dhārayet !!3.37!	<3.37/2> aFguzWa-+tarjanI+-maDya+a+ !+nAmA+AdiBiS* ca DArayet !!3.37!
+   <3.38/1> kākībhiḥ prāṇaṃ* saṃkṛṣya !apāne yojayet tataḥ !	<3.38/1> kAkIBiH prANaM* saMkRzya !apAne yojayet tatas !
+   <3.38/2> ṣaṭ cakrāṇi kramād* dhṛtvā !huṃ+haṃ+sa+manunā su+dhīḥ !!3.38!	<3.38/2> zaw cakrANi kramAd* DRtvA !hum+haM+sa+-manunA su+DIH !!3.38!
+   <3.39/1> caitanyam ānayed* devīṃ* !nidritā yā bhujaṃ+ginī !	<3.39/1> cEtanyam Anayed* devIM* !nidritA yA BujaM+ginI !
+   <3.39/2> jīvena sahitāṃ* śaktiṃ* !samutthāpya para+ambu+je !!3.39!	<3.39/2> jIvena sahitAM* Saktin* !samutTApya para-+ambu+-je !!3.39!
+   <3.40/1> śaktimayaṃ* svayaṃ* bhūtvā !paraṃ* śivena saṃgamam !	<3.40/1> Sakti-mayan* svayan* BUtvA !paran* Sivena saMgamam !
+   <3.40/2> nānā+sukhaṃ* vihāraṃ* ca !cintayet paramaṃ* sukham !!3.40!	<3.40/2> nAnA+-suKaM* vihAraM* ca !cintayet paraman* suKam !!3.40!
+   <3.41/1> śiva+śakti+samāyogād* !eka+antaṃ* bhuvi bhāvayet !	<3.41/1> Siva+-Sakti+-samAyogAd* !eka+antaM* Buvi BAvayet !
+   <3.41/2> ānanda+mānaso* bhūtvā !ahaṃ* brahma*iti saṃbhavet !!3.41!	<3.41/2> Ananda+-mAnaso* BUtvA !ahaM* brahma*iti saMBavet !!3.41!
+   <3.42/1> yoni+mudrā parā gopyā !devānām api dur+labhā !	<3.42/1> yoni+mudrA parA gopyA !devAnAm api dur+laBA !
+   <3.42/2> sakṛt+tad+bhāva+saṃsiddhaḥ !samādhi+sthaḥ sa* eva hi !!3.42!	<3.42/2> sakRt+-tad+BAva+-saMsidDaH !samADi+-sTaH sa* eva hi !!3.42!
+   <3.43/1> brahma+hā bhrūṇa+hā ca*eva !surā+po* guru+talpa+gaḥ !	<3.43/1> brahma+hA BrUNa+hA ca*A-iva !surA+po* guru+talpa+gaH !
+   <3.43/2> etaiḥ pāpair* na lipyate !yoni+mudrā+nibandhanāt !!3.43!	<3.43/2> etEH pApEH-* na lipyate !yoni+mudrA+-nibanDanAt !!3.43!
+   <3.44/1> yāni pāpāni ghorāṇi !upa+pāpāni yāni ca !	<3.44/1> yAni pApAni GorANi !upa+pApAni yAni ca !
+   <3.44/2> tāni sarvāṇi naśyanti !yoni+mudrā+nibandhanāt !	<3.44/2> tAni sarvANi naSyanti !yoni+mudrA+-nibanDanAt !
+   <3.44/3> tasmād* abhyasanaṃ* kuryād* !yadi muktiṃ* samicchati !!3.44!	<3.44/3> tasmAd* aByasanaM* kuryAt-* !yadi muktiM* samicCati !!3.44!
+   <3.45/1> dharām avaṣṭabhya kara+dvayābhyām !	<3.45/1> DarAm avazwaBya kara+-dvayAByAm !
+   <3.45/11> ūrdhvaṃ* kṣipet pāda+yugaṃ* śiraḥ khe !	<3.45/11> UrDvaM* kzipet pAda+yugaM* SiraH Ke !
+   <3.45/2> śakti+prabodhāya cira+jīvanāya !	<3.45/2> Sakti+praboDAya cira+-jIvanAya !
+   <3.45/3> vajroli+mudrāṃ* munayo* vadanti !!3.45!	<3.45/3> vajra-uli+-mudrAM* munayo* vadanti !!3.45!
+   <3.46/1> ayaṃ* yogo* yoga+śreṣṭho* !yogināṃ* mukti+kāraṇam !	<3.46/1> ayaM* yogo* yoga+-SrezWo* !yoginAn* mukti+kAraNam !
+   <3.46/2> ayaṃ* hita+prado* yogo* !yogināṃ* siddhi+dāyakaḥ !!3.46!	<3.46/2> ayaM* hita+-prado* yogo* !yoginAn* sidDi+dAyakaH !!3.46!
+   <3.47/1> etad* yoga+prasādena !bindu+siddhir* bhaved* dhruvam !	<3.47/1> etad* yoga+-prasAdena !bindu+-sidDir* Bavet-* Druvam !
+   <3.47/2> siddhe bindau mahā+yatne !kiṃ* na sidhyati bhū+tale !!3.47!	<3.47/2> sidDe bindO mahA+yatne !kiM* na siDyati BU+-tale !!3.47!
+   <3.48/1> bhogena mahatā yukto* !yadi mudrāṃ* samācaret !	<3.48/1> Bogena mahatA yukto* !yadi mudrAM* samAcaret !
+   <3.48/2> tathā*api sa!kalā siddhis* !tasya bhavati niścitam !!3.48!	<3.48/2> taTA-a*api sa!kalA sidDi-s* !tasya Bavati niScitam !!3.48!
+   <3.49/1> mūla+ādhāre ātma+śaktiḥ !kuṇḍalī para+devatā !	<3.49/1> mUla+ADAre Atma+-SaktiH !kuNxalI para+devatA !
+   <3.49/2> śayitā bhuja+ga+ākārā !sa+ardha+tri+valaya+anvitā !!3.49!	<3.49/2> SayitA Buja+-ga+a-AkArA !sa+arDa+-tri+valaya-+anvitAH !!3.49!
+   <3.50/1> yāvat sā nidritā dehe !tāvaj* jīvaḥ paśur* yathā !	<3.50/1> yAvat sA nidritAH dehe !tAvaj* jIvaH paSur* yaTA !
+   <3.50/2> jñānaṃ* na jāyate tāvat !koṭi+yogaṃ* samabhyaset !!3.50!	<3.50/2> jQAnan* na jAyate tAvat !kowi+-yogaM* samaByaset !!3.50!
+   <3.51/1> udghāṭayet kavāṭaṃ* ca !yathā kuñcikayā haṭhāt !	<3.51/1> udGAwayet kavAwaM* ca !yaTA kuQcikayA haWAt !
+   <3.51/2> kuṇḍalinyāḥ prabodhena !brahma+dvāraṃ* vibhedayet !!3.51!	<3.51/2> kuNxalinyAH praboDena !brahma+-dvAraM* viBedayet !!3.51!
+   <3.52/1> nābhiṃ* bṛhad+veṣṭanaṃ* ca !na ca nagnaṃ* bahiḥ sthitam !	<3.52/1> nABiM* bRhat-+vezwanan* ca !na ca nagnan* bahis sTitam !
+   <3.52/2> gopanīya+gṛhe sthitvā !śakti+cālanam abhyaset !!3.52!	<3.52/2> gopanIya+-gRhe sTitvA !Sakti+-cAlanam aByaset !!3.52!
+   <3.53/1> vitasti+pramitaṃ* dīrghaṃ* !vistāre catur+aṅgulam !	<3.53/1> vitasti+pramitaM* dIrGaM* !vistAre catur-+aFgulam !
+   <3.53/2> mṛdulaṃ* dhavalaṃ* sūkṣma+ !+@veṣṭana+ambara+lakṣaṇam !	<3.53/2> mRdulaM* DavalaM* sUkzma+ !+@vezwana-+ambara+-lakzaNam !
+   <3.53/3> evam ambaram uktaṃ* @ ca !kaṭi+sūtreṇa yojayet !!3.53!	<3.53/3> evam ambaram uktan* @ ca !kawi+sUtreNa yojayet !!3.53!
+   <3.54/1> bhāsmanā gātra+saṃliptaṃ* !siddha+āsanaṃ* samācaret !	<3.54/1> BAsmanA gAtra+-saMliptan* !sidDa-+AsanaM* samAcaret !
+   <3.54/2> nāsābhyāṃ* prāṇam ākṛṣya !apāne yojayed* balāt !!3.54!	<3.54/2> nAsAByAn* prANam AkRzya !apAne yojayed* balAt !!3.54!
+   <3.55/1> tāvad* ākuñcayed* guhyaṃ* !śanair* aśvini+mudrayā !	<3.55/1> tAvat-* AkuQcayed* guhyan* !SanEr* aSvi-ni+mudrayA !
+   <3.55/2> yāvad* gacchet suṣumṇāyāṃ* !vāyuḥ prakāśayed* *dhaṭhāt !!3.55!	<3.55/2> yAvat-* gacCet suzumNAyAM !vAyuH prakASayed* *DaWAt !!3.55!
+   <3.56/1> tāvad* vāyu+prabhedena !kumbhikā ca bhujaṃ+ginī !	<3.56/1> tAvat-* vAyu+-praBedena !kumBikA ca BujaM+ginI !
+   <3.56/2> baddha+śvāsas* tato* bhūtvā !ca* ūrdhva+mātraṃ* prapadyate !	<3.56/2> badDa+-SvAsas* tato* BUtvA !ca* UrDva+-mAtran* prapadyate !
+   <3.56/3> śabda+dvayaṃ* phala+ekaṃ* tu !yoni+mudrāṃ* ca cālayet !!3.56!	<3.56/3> Sabda+-dvayan* Pala-+ekan* tu !yoni+mudrAM* ca cAlayet !!3.56!
+   <3.57/1> vinā śakti+cālanena !yoni+mudrā na sidhyati !	<3.57/1> vinA Sakti+cAlanena !yoni+mudrA na siDyati !
+   <3.57/2> ādau cālanam* abhyasya !yoni+mudrāṃ* samabhyaset !!3.57!	<3.57/2> AdO cAla-nam* aByasya !yoni+mudrAM* samaByaset !!3.57!
+   <3.58/1> iti te kathitaṃ* caṇḍa !prakāraṃ* śakti+cālanam !	<3.58/1> iti te kaTitaM* caNxaH !prakAraM* Sakti+cAlanam !
+   <3.58/2> gopanīyaṃ* prayatnena !dine dine samabhyaset !!3.58!	<3.58/2> gopanIyan* prayatnena !dine dine samaByaset !!3.58!
+   <3.59/1> mudrā*iyaṃ* paramā gopyā !jarā+maraṇa+nāśinī !	<3.59/1> mudrA*-iyan* paramA gopyA !jarA+-maraNa+nASinI !
+   <3.59/2> tasmād abhyasanaṃ* kāryaṃ* !yogibhiḥ siddhi+kāṅkṣibhiḥ !!3.59!	<3.59/2> tasmAt aByasanaM* kAryan* !yogiBiH sidDi+kAFkziBiH !!3.59!
+   <3.60/1> nityaṃ* yo* 'bhyasate yogī !siddhis* tasya kare sthitā !	<3.60/1> nityan* yo* aByasate yogI !sidDis* tasya kare sTitA !
+   <3.60/2> tasya vigraha+siddhiḥ syād* !rogāṇāṃ* saṃkṣayo* bhavet !!3.60!	<3.60/2> tasya vigraha+-sidDiH syAd* !rogANAM* saMkzayaH-* Bavet !!3.60!
+   <3.61/1> udare paścimaṃ* @ tānaṃ* !kṛtvā ca taḍāga+ākṛti !	<3.61/1> udare paSciman* @ tAnaM* !kRtvA ca taxAga+a-AkRti !
+   <3.61/2> taḍāgī sā parā mudrā !jarā+mṛtyu+vināśinī !!3.61!	<3.61/2> taxAgI sA parA mudrA !jarA+-mRtyu+-vinASinI !!3.61!
+   <3.62/1> mukhaṃ* saṃmudritaṃ* kṛtvā !jihvā+mūlaṃ* pracālayet !	<3.62/1> muKaM* saMmudritaM* kRtvA !jihvA+-mUlaM* pracAlayet !
+   <3.62/2> śanair* grased* a+mṛtaṃ* tan* !māṇḍukīṃ* mudrikāṃ* viduḥ !!3.62!	<3.62/2> SanEs-* grased* a+mRtan* tan* !mANxukIM* mudrikAM* viduH !!3.62!
+   <3.63/1> valitaṃ* palitaṃ* na*eva !jāyate nitya+yauvanam !	<3.63/1> valitan* palitaM* na*A-iva !jAyate nitya+-yOvanam !
+   <3.63/2> na keśe jāyate pāko* !yaḥ kuryān* nitya māṇḍukīm !!3.63!	<3.63/2> na keSe jAyate pAko* !yaH kuryAn* nitya mANxukIm !!3.63!
+   <3.64/1> netra+añjanaṃ* samālokya !ātma+ārāmaṃ* nirīkṣayet !	<3.64/1> netra-+aQjanan* samAlokya !a-Atma+ArAman* nirIkzayet !
+   <3.64/2> sā bhavec* *chāṃbhavī mudrā !sarva+tantreṣu gopitā !!3.64!	<3.64/2> sA Bavec* *CAMBavI mudrA !sarva+tantrezu gopitA !!3.64!
+   <3.65/1> veda+śāstra+purāṇāni !sāmānya+gaṇikā iva !	<3.65/1> veda+-SAstra+purANAni !sAmAnya+-gaNikAH iva !
+   <3.65/2> iyaṃ* tu śāṃbhavī mudrā !guptā kula+vadhūr* iva !!3.65!	<3.65/2> iyaM* tu SAMBavI mudrA !guptA kula+vaDUr* iva !!3.65!
+   <3.66/1> sa* eva ādi+nāthaś* ca !sa* ca nārāyaṇaḥ svayam !	<3.66/1> sa* eva Adi+nATaS* ca !sa* ca nArAyaNaH svayam !
+   <3.66/2> sa* ca brahmā sṛṣṭi+kārī !yo* mudrāṃ* vetti śāṃbhavīm !!3.66!	<3.66/2> sa* ca brahmA sRzwi+kArI !yo* mudrAM* vetti SAMBavIm !!3.66!
+   <3.67/1> satyaṃ* satyaṃ* punaḥ satyaṃ* !satyam uktaṃ* mahā+īśvara !	<3.67/1> satyan* satyan* punar satyan* !satyam uktaM* mahA+ISvara !
+   <3.67/2> śāṃbhavīṃ* yo* vijānīyāt !sa* ca brahma na ca*anyathā !!3.67!	<3.67/2> SAMBavIM* yo* vijAnIyAt !sa* ca brahma na ca*anyaTA !!3.67!
+   <3.68/1> kathitā śāṃbhavī mudrā !śṛṇuṣva pañca+dhāraṇām !	<3.68/1> kaTitA SAMBavI mudrA !SRNuzva paQca+-DAraNAm !
+   <3.68/2> dhāraṇāni samāsādya !kiṃ* na sidhyati bhū+tale !!3.68!	<3.68/2> DAraNAni samAsAdya !kiM* na siDyati BU+-tale !!3.68!
+   <3.69/1> anena nara+dehena !svargeṣu gamana+āgamam !	<3.69/1> anena nara+-dehena !svargezu gamana-+Agamam !
+   <3.69/2> mano+gatir* bhavet tasya !khe+caratvaṃ* na ca*anyathā !!3.69!	<3.69/2> mano+-gatir* Bavet tasya !Ke+cara-tvan* na ca*anyaTA !!3.69!
+   <3.70/1> yat tattvaṃ* hari+tāla+deśa+racitaṃ* bhaumaṃ* la+kāra+anvitaṃ* !	<3.70/1> yat tattvan* hari+tAla+-deSa+-racitaM* BOmaM* la+kAra-+anvitaM* !
+   <3.70/11> veda+āsraṃ* kamala+āsanena sahitaṃ* kṛtvā hṛdi sthāyinam !	<3.70/11> veda+AsraM* kamala-+Asanena sahitaM* kRtvA hRdi sTAyinam !
+   <3.70/2> prāṇaṃ* tatra vinīya pañca+ghaṭikāś* citta+anvitaṃ* dhārayed* !	<3.70/2> prANan* tatra vinIya paQca+-GawikAS* citta-+anvitaM* DArayed* !
+   <3.70/3> eṣā stambha+karī sadā kṣiti+jayaṃ* kuryād* adho+dhāraṇā !!3.70!	<3.70/3> ezA stamBa+-karI sadA kziti+jayaM* kuryAt-* aDo+DAraNAH !!3.70!
+   <3.71/1> pārthivī+dhāraṇā+mudrāṃ* !yaḥ karoti ca nityaśaḥ !	<3.71/1> pArTivI+-DAraNA+-mudrAn* !yaH karoti ca nityaSas !
+   <3.71/2> mṛtyuṃ+jayaḥ svayaṃ* so* 'pi !sa* siddho* vicared* bhuvi !!3.71!	<3.71/2> mRtyuM+jayaH svayan* so* api !sa* sidDaH-* vicared* Buvi !!3.71!
+   <3.72/1> śaṅkha+indu+pratimaṃ* ca kunda+dhavalaṃ* tattvaṃ* kilālaṃ*	<3.72/1> SaFKa+indu+pratimaM* ca kunda+-DavalaM* tattvan* kila-AlaM*
+   śubhaṃ* !	SuBaM* !
+   <3.72/11> tat pīyūṣa+va+kāra+bīja+sahitaṃ* yuktaṃ* sadā viṣṇunā !	<3.72/11> tat pIyUza+va+kAra+-bIja+-sahitan* yuktaM* sadA vizNunA !
+   <3.72/2> prāṇaṃ* tatra vinīya pañca+ghaṭikāś* citta+anvitaṃ* dhārayed* !	<3.72/2> prANan* tatra vinIya paQca+-GawikAS* citta-+anvitaM* DArayed* !
+   <3.72/3> eṣā duḥ+saha+tāpa+pāpa+hariṇī syād* āmbhasī dhāraṇā !!3.72!	<3.72/3> ezA duH+saha+tApa+pApa+-hariNI syAt-* AmBasI DAraNA !!3.72!
+   <3.73/1> āmbhasīṃ* paramāṃ* mudrāṃ* !yo* jānāti sa* yoga+vit !	<3.73/1> AmBasIM* paramAn* mudrAM* !yo* jAnAti sa* yoga+vid !
+   <3.73/2> jale ca gabhīre ghore !maraṇaṃ* tasya na*u bhavet !!3.73!	<3.73/2> jale ca gaBIre Gore !maraNaM* tasya na*u Bavet !!3.73!
+   <3.74/1> iyaṃ* tu paramā mudrā !gopanīyā prayatnataḥ !	<3.74/1> iyaM* tu paramA mudrA !gopanIyA prayatnataH !
+   <3.74/2> prakāśāt siddhi+hāniḥ syāt !satyaṃ* vacmi ca tattvataḥ !!3.74!	<3.74/2> prakASAt sidDi+-hAniH syAt !satyan* vacmi ca tattvataH !!3.74!
+   <3.75/1> yan* nābhi+sthitam indra=gopa+sa+dṛśaṃ* bīja+tri+koṇa+anvitaṃ* @	<3.75/1> yan* nABi+sTitam indra=gopa-+-sa+dRSan* bIja+-tri+koNa-+anvitaM* @
+   <3.75/11> tattvaṃ* tejamayaṃ* pradīptam aruṇaṃ* rudreṇa yat siddhi+dam !	<3.75/11> tattvan* teja-mayan* pradIptam aruNaM* rudreNa yat sidDi+dam !
+   <3.75/2> prāṇaṃ* tatra vinīya pañca+ghaṭikāś* citta+anvitaṃ* dhārayed* !	<3.75/2> prANan* tatra vinIya paQca+-GawikAS* citta-+anvitaM* DArayed* !
+   <3.75/3> eṣā kāla+gabhīra+bhīti+haraṇī vaiśvānarī dhāraṇā !!3.75!	<3.75/3> ezA kAla+gaBIra+BIti+haraNI vESvAnarI DAraNA !!3.75!
+   <3.76/1> pradīpte jvalite vahnau !yadi patati sādhakaḥ !	<3.76/1> pradIpte jvalite vahnO !yadi patati sADakaH !
+   <3.76/2> etan+mudrā+prasādena !sa* jīvati na mṛtyu+bhāk !!3.76!	<3.76/2> etan+mudrA+-prasAdena !sa* jIvati na mRtyu+BAj !!3.76!
+   <3.77/1> yad* bhinna+añjana+puñja+saṃnibham idaṃ* dhūmra+avabhāsaṃ* paraṃ*	<3.77/1> yad* Binna-+aQjana+-puQja+-saMniBam idan* DUmra-+ava-BAsan* paraM*
+   <3.77/11> tattvaṃ* sattvamayaṃ* ya+kāra+sahitaṃ* yatra*īśvaro* devatā !	<3.77/11> tattvan* sattva-mayan* ya+kAra+-sahitaM* yatra*ISvaro* devatAH !
+   <3.77/2> prāṇaṃ* tatra vinīya pañca+ghaṭikāś* citta+anvitaṃ* dhārayed* !	<3.77/2> prANan* tatra vinIya paQca+-GawikAS* citta-+anvitaM* DArayed* !
+   <3.77/3> eṣā khe gamanaṃ* karoti yamināṃ* syād* vāyavī dhāraṇā !!3.77!	<3.77/3> ezA Ke gamanaM* karoti yaminAM* syAt-* vAyavI DAraNA !!3.77!
+   <3.78/1> iyaṃ* tu paramā mudrā !jarā+mṛtyu+vināśinī !	<3.78/1> iyaM* tu paramA mudrA !jarA+-mRtyu+-vinASinI !
+   <3.78/2> vāyunā mriyate na*api !khe ca gati+pradāyinī !!3.78!	<3.78/2> vAyunA mriyate na*api !Ke ca gati+-pradAyinI !!3.78!
+   <3.79/1> śaṭhāya bhakti+hīnāya !na deyā yasya kasya+cit !	<3.79/1> SaWAya Bakti+hInAya !na deyA yasya kasya+cid !
+   <3.79/2> datte ca siddhi+hāniḥ syāt !satyaṃ* vacmi ca caṇḍa te !!3.79!	<3.79/2> datte ca sidDi+-hAniH syAt !satyan* vacmi ca caNxa te !!3.79!
+   <3.80/1> yat sindhau vara+śuddha+vāri+sa+dṛśaṃ* vyomaṃ* paraṃ* bhāsitaṃ* !	<3.80/1> yat sinDO vara+-SudDa+-vAri+-sa+dRSan* vyoman* paran* BAsitaM* !
+   <3.80/11> tattvaṃ* deva+sadā+śivena sahitaṃ* bījaṃ* ha+kāra+anvitam !	<3.80/11> tattvan* deva+-sadA+Sivena sahitan* bIjaM* ha+kAra-+anvitam !
+   <3.80/2> prāṇaṃ* tatra vinīya pañca+ghaṭikāś* citta+anvitaṃ* dhārayed* !	<3.80/2> prANan* tatra vinIya paQca+-GawikAS* citta-+anvitaM* DArayed* !
+   <3.80/3> eṣā mokṣa+kavāṭa+bhedana+karī tu syān* @ nabho+dhāraṇā !!3.80!	<3.80/3> ezA mokza+kavAwa+-Bedana+-karI tu syAn* @ naBo+DAraNAH !!3.80!
+   <3.81/1> ākāśī+dhāraṇāṃ* mudrāṃ* !yo* vetti sa* ca yoga+vit !	<3.81/1> AkASI+-DAraNAM* mudrAM* !yo* vetti sa* ca yoga+vid !
+   <3.81/2> na mṛtyur* jāyate tasya !pralaye na*avasīdati !!3.81!	<3.81/2> na mRtyuH-* jAyate tasya !pralaye na*avasIdati !!3.81!
+   <3.82/1> ākuñcayed* guda+dvāraṃ* !prakāśayet punaḥ punaḥ !	<3.82/1> AkuQcayed* guda+dvAran* !prakASayet punar punar !
+   <3.82/2> sā bhaved* aśvinī mudrā !śakti+prabodha+kāriṇī !!3.82!	<3.82/2> sA Bavet-* aSvinI mudrA !Sakti+-praboDa+-kAriNI !!3.82!
+   <3.83/1> aśvinī paramā mudrā guhya+roga+vināśinī !	<3.83/1> aSvinI paramA mudrA guhya+roga+-vinASinI !
+   <3.83/2> bala+puṣṭi+karī ca*eva !a+kāla+maraṇaṃ* haret !!3.83!	<3.83/2> bala+-puzwi+-karI ca*A-iva !a+kAla+-maraNaM* haret !!3.83!
+   <3.84/1> kaṇṭha+pṛṣṭe kṣipet pādau !pāśavad* dṛḍha+bandhanam !	<3.84/1> kaNWa+-pRzwe kzipet pAdO !pASa-vad* dRXa+-banDanam !
+   <3.84/2> sā eva pāśinī mudrā !śakti+prabodha+kāriṇī !!3.84!	<3.84/2> sA eva pASinI mudrA !Sakti+-praboDa+-kAriNI !!3.84!
+   <3.85/1> pāśinī mahatī mudrā !bala+puṣṭi+vidhāyinī !	<3.85/1> pASinI mahatI mudrA !bala+-puzwi+-viDAyinI !
+   <3.85/2> sādhanīyā prayatnena !sādhakaiḥ siddhi+kāṅkṣibhiḥ !!3.85!	<3.85/2> sADanIyA prayatnena !sADakEH sidDi+kAFkziBiH !!3.85!
+   <3.86/1> kāka+cañcuvad* āsyena !pibed* vāyuṃ* śanaiḥ śanaiḥ !	<3.86/1> kAka+caQcu-vad* Asyena !pibed* vAyuM* SanEs SanEs !
+   <3.86/2> kākī mudrā bhaved* eṣā !sarva+roga+vināśinī !!3.86!	<3.86/2> kAkI mudrA Bavet-* ezA !sarva+roga+-vinASinI !!3.86!
+   <3.87/1> kākī+mudrā parā mudrā !sarva+tantreṣu gopitā !	<3.87/1> kAkI+mudrA parA mudrA !sarva+tantrezu gopitA !
+   <3.87/2> asyāḥ prasāda+mātreṇa !na rogī kākavad* bhavet !!3.87!	<3.87/2> asyAH prasAda+-mAtreNa !na rogI kAka-vad* Bavet !!3.87!
+   <3.88/1> kaṇṭha+magna+jale sthitvā !nāsābhyāṃ* jalam āharet !	<3.88/1> kaNWa+magna+-jale sTitvA !nAsAByAn* jalam Aharet !
+   <3.88/2> mukhān* nirgamayet paścāt !punar* vaktreṇa ca*āharet !!3.88!	<3.88/2> muKAn* nirgamayet paScAt !punar* vaktreNa ca*Aharet !!3.88!
+   <3.89/1> nāsābhyāṃ* recayet paścāt !kuryād* evaṃ* punaḥ punaḥ !	<3.89/1> nAsAByAn* recayet paScAt !kuryAt-* evaM* punar punar !
+   <3.89/2> mātaṅginī parā mudrā !jarā+mṛtyu+vināśinī !!3.89!	<3.89/2> mAtaFginI parA mudrA !jarA+-mRtyu+-vinASinI !!3.89!
+   <3.90/1> virale nir+jane deśe !sthitvā ca*eka+agra+mānasaḥ !	<3.90/1> virale nir+jane deSe !sTitvA ca*eka-+agra+-mAnasaH !
+   <3.90/2> kuryān* mātaṅginīṃ* mudrāṃ* !mātaṅga* iva jāyate !!3.90!	<3.90/2> kuryAn* mAtaFginIM* mudrAM* !mAtaFga* iva jAyate !!3.90!
+   <3.91/1> yatra yatra sthito* yogī !sukham aty+antam aśnute !	<3.91/1> yatra yatra sTito* yogI !suKam aty+antam aSnute !
+   <3.91/2> tasmāt sarva+prayatnena !sādhayen* mudrikāṃ* parām !!3.91!	<3.91/2> tasmAt sarva+-prayatnena !sADayen* mudrikAn* parAm !!3.91!
+   <3.92/1> vaktraṃ* kiṃ+cit+su+prasārya !cālinaṃ* galayā pibet !	<3.92/1> vaktraM* kiM+cit+su+-prasArya !cAlinaM* galayA pibet !
+   <3.92/2> sā bhaved* bhuja+gī mudrā !jarā+mṛtyu+vināśinī !!3.92!	<3.92/2> sA Bavet-* Buja+gI mudrA !jarA+-mRtyu+-vinASinI !!3.92!
+   <3.93/1> yāvac* ca udare rogam !a+jīrṇa+ādi viśeṣataḥ !	<3.93/1> yAvac* ca udare rogam !a+jIrNa-+Adi viSezataH !
+   <3.93/2> tat sarvaṃ* nāśayed* āśu !yatra mudrā bhujaṃ+ginī !!3.93!	<3.93/2> tat sarvan* nASayed* ASu !yatra mudrA BujaM+ginI !!3.93!
+   <3.94/1> idaṃ* tu mudrā+paṭalaṃ* !kathitaṃ* caṇḍa te śubham !	<3.94/1> idaM* tu mudrA+-pawalaM* !kaTitaM* caNxa te SuBam !
+   <3.94/2> vallabhaṃ* sarva+siddhānāṃ* !jarā+maraṇa+nāśanam !!3.94!	<3.94/2> vallaBaM* sarva+sidDAnAM* !jarA+-maraNa+nASanam !!3.94!
+   <3.95/1> śaṭhāya bhakti+hīnāya !na deyaṃ* yasya kasya+cit !	<3.95/1> SaWAya Bakti+hInAya !na deyan* yasya kasya+cid !
+   <3.95/2> gopanīyaṃ* prayatnena !dur+labhaṃ* marutām api !!3.95!	<3.95/2> gopanIyan* prayatnena !duH-+laBaM* marutAm api !!3.95!
+   <3.96/1> ṛjave śānta+cittāya !guru+bhakti+parāya ca !	<3.96/1> Rjave SAnta+-cittAya !guru+-Bakti-+parAya ca !
+   <3.96/2> kulīnāya pradātavyaṃ* !bhoga+mukti+pradāyakam !!3.96!	<3.96/2> kulInAya pradAtavyan* !Boga+mukti+-pradAyakam !!3.96!
+   <3.97/1> mudrāṇāṃ* paṭalaṃ* hy* etat !sarva+vyādhi+vināśanam !	<3.97/1> mudrANAM* pawalaM* hy* etat !sarva+-vyADi+-vinASanam !
+   <3.97/2> nityam abhyāsa+śīlasya !jaṭhara+agni+vivardhanam !!3.97!	<3.97/2> nityam aByAsa+-SIlasya !jaWara-+agni+vivarDanam !!3.97!
+   <3.98/1> na tasya jāyate mṛtyur* !na*asya jarā+ādikaṃ* tathā !	<3.98/1> na tasya jAyate mRtyuH-* !na*asya jarA+AdikaM* taTA !
+   <3.98/2> na*agni+jala+bhayaṃ* tasya !vāyor* api kuto* bhayam !!3.98!	<3.98/2> na*agni+jala+-Bayan* tasya !vAyor* api kuto* Bayam !!3.98!
+   <3.99/1> kāsaḥ śvāsaḥ plīhā kuṣṭhaṃ* !śleṣma+rogāś* ca viṃśatiḥ !	<3.99/1> kAsaH SvAsaH plIhA kuzWan* !Slezma-+-roga-AS* ca viMSatiH !
+   <3.99/2> mudrāṇāṃ* sādhanāc* ca*eva !vinaśyanti na saṃśayaḥ !!3.99!	<3.99/2> mudrANAM* sADanAc* ca*A-iva !vinaSyanti na saMSayaH !!3.99!
+   <3.100/1> bahunā kim iha*uktena !sāraṃ* vacmi ca caṇḍa te !	<3.100/1> bahunA kim iha*uktena !sAran* vacmi ca caNxa te !
+   <3.100/2> na*asti mudrā+samaṃ* kiṃ+cit !siddhi+daṃ* kṣiti+maṇḍale !!3.100!	<3.100/2> na*asti mudrA+-samaM* kiM+cid !sidDi+daM* kziti+-maNxale !!3.100!
+   <3.101/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<3.101/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghaṭa+stha+yoga+prakaraṇe	Gawa+-sTa+-yoga+-prakaraNe
+   mudrā+prayogo* nāma tṛtīya+upadeśaḥ !!3!! ]]	mudrA+-prayogo* nAma tRtIya-+upadeSaH !!3!! ]]
+   <4.1/1> gheraṇḍa* uvāca:	<4.1/1> GeraNxa* uvAca:
+   <4.1/11> atha*ataḥ saṃpravakṣyāmi !pratyāhārakam uttamam !	<4.1/11> aTa*ataH saMpravakzyAmi !pratyAhArakam uttamam !
+   <4.1/2> yasya vijñāna+mātreṇa !kāma+ādi+ripu+nāśanam !!4.1!	<4.1/2> yasya vijQAna+-mAtreNa !kAma-+Adi-+ripu+nASanam !!4.1!
+   <4.2/1> yato* yato* niścarati !manaś* cañcalam a+sthiram !	<4.2/1> yato* yato* niScarati !manaS* caQcalam a+sTiram !
+   <4.2/2> tatas* tato* niyamya*etad* !ātmany* eva vaśaṃ* nayet !!4.2!	<4.2/2> tatas* tato* niyamya-*etad* !a-Atmany* eva vaSaM* nayet !!4.2!
+   <4.3/1> yatra yatra gatā dṛṣṭir* !manas* tatra pragacchati !	<4.3/1> yatra yatra gatAH dRzwir* !manas* tatra pragacCati !
+   <4.3/2> tataḥ pratyāhared* etad* !ātmany* eva vaśaṃ* nayet !!4.3!	<4.3/2> tatas pratyAhared* etad* !a-Atmany* eva vaSaM* nayet !!4.3!
+   <4.4/1> puras+kāraṃ* tiras+kāraṃ* !su+śrāvyaṃ* vā bhayānakam !	<4.4/1> puras+kAraM* tiras+kAraM* !su+SrAvyaM* vA BayAnakam !
+   <4.4/2> manas* tasmān* niyamya*etad* !ātmany* eva vaśaṃ* nayet !!4.4!	<4.4/2> manas* tasmAn* niyamya-*etad* !a-Atmany* eva vaSaM* nayet !!4.4!
+   <4.5/1> śītaṃ* vā*api tathā ca*uṣṇaṃ* !yan* manaḥ+sparśa+yogataḥ !	<4.5/1> SItaM* vA*api taTA ca*uzNaM* !yan* manaH+-sparSa+-yogataH !
+   <4.5/2> tasmāt pratyāhared* etad* !ātmany* eva vaśaṃ* nayet !!4.5!	<4.5/2> tasmAt pratyAhared* etad* !a-Atmany* eva vaSaM* nayet !!4.5!
+   <4.6/1> su+gandhe vā*api dur+gandhe !ghrāṇeṣu jāyate manaḥ !	<4.6/1> su+ganDe vA*api dur+ganDe !GrANezu jAyate manaH !
+   <4.6/2> tasmāt pratyāhared* etad* !ātmany* eva vaśaṃ* nayet !!4.6!	<4.6/2> tasmAt pratyAhared* etad* !a-Atmany* eva vaSaM* nayet !!4.6!
+   <4.7/1> madhura+āmlaka+tikta+ādi+ !+rasaṃ* gataṃ* yadā manaḥ !	<4.7/1> maDura+a-amlaka+tikta-+Adi+ !+rasaM* gataM* yadA manaH !
+   <4.7/2> tasmāt pratyāhared* etad* !ātmany* eva vaśaṃ* nayet !!4.7!	<4.7/2> tasmAt pratyAhared* etad* !a-Atmany* eva vaSaM* nayet !!4.7!
+   <4.8/1> śabda+ādiṣv* anuraktāni !nigṛhya*akṣāṇi yoga+vit !	<4.8/1> Sabda+Adizv* anuraktAni !nigRhya-*akzANi yoga+vid !
+   <4.8/2> kuryāc* citta+anucārīṇi !pratyāhāra+parāyaṇaḥ !!4.8!	<4.8/2> kuryAc* citta-+anucArINi !pratyAhAra+-parAyaNaH !!4.8!
+   <4.9/1> vaśyatā paramā tena !jāyate 'ti+cala+ātmanām !	<4.9/1> vaSya-tA paramA tena !jAyate ati-+cala+AtmanAm !
+   <4.9/2> indriyāṇām a+vaśyais* tair* !na yogī yoga+sādhakaḥ !!4.9!	<4.9/2> indriyANAm a+vaSyEs* tEr* !na yogI yoga+-sADakaH !!4.9!
+   <4.10/1> prāṇa+āyāmair* dahed* doṣān !dhāraṇābhiś* ca kilbiṣam !	<4.10/1> prANa+AyAmEr* dahet-* dozAn !DAraNa-aBiS* ca kilbizam !
+   <4.10/2> pratyāhāreṇa viṣayān !dhyānena*an+īśvarān guṇān !!4.10!	<4.10/2> pratyAhAreNa vizayAn !DyAnena*an+ISvarAn guNAn !!4.10!
+   <4.11/1> yathā parvata+dhātūnāṃ* !doṣā* dahyanti dhāmyatām !	<4.11/1> yaTA parvata+DAtUnAM* !dozA* dahyanti DAmyatAm !
+   <4.11/2> tathā*indriya+kṛtā* doṣā* !dahyante prāṇa+nigrahāt !!4.11!	<4.11/2> taTA*indriya+kRtA* dozA* !dahyante prANa+-nigrahAt !!4.11!
+   <4.12/1> samaḥ sama+āsano* bhūtvā !saṃhṛtya caraṇāv* ubhau !	<4.12/1> samaH sama+Asano* BUtvA !saMhRtya caraNa-av* uBO !
+   <4.12/2> saṃvṛta+āsyas* tathā*eva*urū !samyag* viṣṭabhya ca*agrataḥ	<4.12/2> saMvRta-+Asyas* taTA*eva-*urU !samyak-* vizwaBya ca*agrataH
+   <4.13/1> pārṣṇibhyāṃ* liṅga+vṛṣaṇāv* !a+spṛśan prayataḥ sthitaḥ !	<4.13/1> pArzNiByAM* liFga+-vRzaNAv* !a+spRSan prayataH sTitaH !
+   <4.13/2> kiṃ+cid+unnāmita+śirā* !dantair* dantān na saṃspṛśet !	<4.13/2> kiM+cid-+unnAmi-ta+SirA* !dantEr* dantAn na saMspRSet !
+   <4.13/3> saṃpaśyan nāsika+agraṃ* svaṃ* !diśaś* ca*an+avalokayan !!4.13!	<4.13/3> saMpaSyan nAsika+a-graM* svaM* !diSaS* ca*an+avalokayan !!4.13!
+   <4.14/1> rajasā tamaso* vṛttiṃ* !sattvena rajasas* tathā !	<4.14/1> rajasA tamaso* vRttiM* !sattvena rajasas* taTA !
+   <4.14/2> saṃchādya nir+male sattve !sthito* yuñjīta yoga+vit !!4.14!	<4.14/2> saMCAdya nir+male sattve !sTito* yuQjIta yoga+vid !!4.14!
+   <4.15/1> indriyāṇi*indriya+arthebhyaḥ !prāṇa+ādīn mana* eva ca !	<4.15/1> indriya-aNi*indriya-+arTeByaH !prANa+AdIn mana* eva ca !
+   <4.15/2> nigṛhya samavāyena !pratyāhāram upakramet !!4.15!	<4.15/2> nigRhya samavAyena !pratyAhAram upakramet !!4.15!
+   <4.16/1> yas* tu pratyāharet kāmān !sarva+aṅgān īva kacchapaḥ !	<4.16/1> yas* tu pratyAharet kAmAn !sarva-+aFgAn Iva kacCapaH !
+   <4.16/2> sadā*ātma+ratir* eka+sthaḥ !paśyaty* ātmānam ātmani !!4.16!	<4.16/2> sadA*Atma-+ratir* eka+sTaH !paSyaty* AtmAnam Atmani !!4.16!
+   <4.17/1> sa* bāhya+abhy+antaraṃ* śaucaṃ* !niṣpādya*ā+kaṇṭha+nābhitaḥ !	<4.17/1> sa* bAhya-+aBy+antaran* SOcaM* !nizpAdya-*A+-kaNWa+nABitaH !
+   <4.17/2> pūrayitvā budho* dehaṃ* !pratyāhāram upakramet !!4.17!	<4.17/2> pUrayitvA buDo* dehan* !pratyAhAram upakramet !!4.17!
+   <4.18/1> tathā vai yoga+yuktasya !yogino* niyata+ātmanaḥ !	<4.18/1> taTA vE yoga+-yuktasya !yogino* niyata-+AtmanaH !
+   <4.18/2> (sarve doṣāḥ praṇaśyanti !sva+sthaś* ca*eva*upajāyate) !!4.18!	<4.18/2> (sarve dozAH praNaSyanti !sva+-sTaS* ca*eva*-upajAyate) !!4.18!
+   <4.19/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<4.19/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghaṭa+stha+yoge	Gawa+-sTa+-yoge
+   pratyāhāra+prayogo* nāma caturtha+upadeśaḥ !!4!! ]]	pratyAhAra+-prayogo* nAma caturTa-+upadeSaH !!4!! ]]
+   <5.1/1> gheraṇḍa* uvāca:	<5.1/1> GeraNxa* uvAca:
+   <5.1/11> atha*ataḥ saṃpravakṣyāmi !prāṇa+āyāmasya yad+vidhim !	<5.1/11> aTa*ataH saMpravakzyAmi !prANa+AyAmasya yad+viDim !
+   <5.1/2> yasya sādhana+mātreṇa !deva+tulyo* bhaven* naraḥ !!5.1!	<5.1/2> yasya sADana+-mAtreNa !deva+-tulyo* Baven* naraH !!5.1!
+   <5.2/1> ādau sthānaṃ* tathā kālaṃ* !mita+āhāraṃ* tathā+aparam !	<5.2/1> AdO sTAnaM* taTA kAlaM* !mita-+AhAraM* taTA-a+aparam !
+   <5.2/2> nāḍī+śuddhiṃ* tataḥ paścāt !prāṇa+āyāmaṃ* ca sādhayet !!5.2!	<5.2/2> nAxI+-SudDiM* tatas paScAt !prANa+AyAmaM* ca sADayet !!5.2!
+   <5.3/1> dūra+deśe tathā*araṇye !rāja+dhānyāṃ* jana+antike !	<5.3/1> dUra+deSe taTA-A*araNye !rAja+-DAnyAn* jana+antike !
+   <5.3/2> yoga+ārambhaṃ* na kurvīta !kṛtaś* cet siddhi+hā bhavet !!5.3!	<5.3/2> yoga+AramBaM* na kurvIta !kRtaS* ced sidDi+hA Bavet !!5.3!
+   <5.4/1> a+viśvāsaṃ* dūra+deśe !araṇye bhakṣa!varjitam !	<5.4/1> a+viSvAsan* dUra+deSe !araNye Bakza!-varjitam !
+   <5.4/2> loka+āraṇye prakāśaś* ca !tasmāt trīṇi vivarjayet !!5.4!	<5.4/2> loka+A-araNye prakASaS* ca !tasmAt trINi vivarjayet !!5.4!
+   <5.5/1> su+deśe dhārmike rājye !su+bhikṣe nir+upadrave !	<5.5/1> su+deSe DArmike rAjye !su+Bikze nir+upadrave !
+   <5.5/2> tatra*ekaṃ* kuṭiraṃ* kṛtvā !prācīraiḥ pariveṣṭayet !!5.5!	<5.5/2> tatra-*ekan* kuwiraM* kRtvA !prAcIrEH parivezwayet !!5.5!
+   <5.6/1> vāpī+kūpa+taḍāgaṃ* ca !prācīra+madhya+varti ca !	<5.6/1> vApI+kUpa+-taxAgaM* ca !prAcIra+-maDya-+varti ca !
+   <5.6/2> na*aty+uccaṃ* na*ati+nīcaṃ* vā !kuṭiraṃ* kīṭa+varjitam !!5.6!	<5.6/2> na*ati-+uccaM* na*ati+nIcan* vA !kuwiraM* kIwa+-varjitam !!5.6!
+   <5.7/1> samyag+gomaya+liptaṃ* ca !kuṭiraṃ* randhra+varjitam !	<5.7/1> samyak-+gomaya-+liptaM* ca !kuwiraM* ranDra+-varjitam !
+   <5.7/2> evaṃ* sthāne hi gupte ca !prāṇa+āyāmaṃ* samabhyaset !!5.7!	<5.7/2> evaM* sTAne hi gupte ca !prANa+AyAmaM* samaByaset !!5.7!
+   <5.8/1> hemante śiśire grīṣme !varṣāyāṃ* ca ṛtau tathā !	<5.8/1> hemante SiSire grIzme !varzAyAn* ca RtO taTA !
+   <5.8/2> yoga+ārambhaṃ* na kurvīta !kṛte yogo* hi roga+daḥ !!5.8!	<5.8/2> yoga+AramBaM* na kurvIta !kRte yogo* hi roga+daH !!5.8!
+   <5.9/1> vasante śaradi proktaṃ* !yoga+ārambhaṃ* samācaret !	<5.9/1> vasante Saradi proktaM* !yoga-+AramBaM* samAcaret !
+   <5.9/2> tadā yogo* bhavet siddho* !rogān* mukto* bhaved* dhruvam !!5.9!	<5.9/2> tadA yogo* Bavet sidDaH-* !rogAn* muktaH-* Bavet-* Druvam !!5.9!
+   <5.10/1> caitra+ādi+phālguna+ante ca !māgha+ādi+phālguna+antike !	<5.10/1> cEtra+Adi+PAlguna+ante ca !mAGa-+Adi+PAlguna+antike !
+   <5.10/2> dvau dvau māsau ṛtu+bhāgau !anubhāvaś* catuś* catuḥ !!5.10!	<5.10/2> dvO dvO mAsO Rtu+-BAgO !anuBAvaS* catuS* catuH !!5.10!
+   <5.11/1> vasantaś* caitra+vaiśākhau !jyeṣṭha+āṣāḍhau ca grīṣmakau !	<5.11/1> vasantaS* cEtra+-vESAKO !jyezWa-+AzAXO ca grIzmakO !
+   <5.11/2> varṣā śrāvaṇa+bhādrābhyāṃ* !śarad* āśvina+kārtikau !	<5.11/2> varzA SrAvaNa-+BAdrAByAn* !Sarad* ASvina+kArtikO !
+   <5.11/3> mārga+pauṣau ca hemantaḥ !śiśiro* māgha+phālgunau !!5.11!	<5.11/3> mArga+-pOzO ca hemantaH !SiSiro* mAGa+-PAlgunO !!5.11!
+   <5.12/1> anubhāvaṃ* pravakṣyāmi !ṛtūnāṃ* ca yathā+uditam !	<5.12/1> anuBAvan* pravakzyAmi !RtUnAM* ca yaTA+uditam !
+   <5.12/2> māgha+ādi+mādhava+ante hi !vasanta+anubhavaś* catuḥ !!5.12!	<5.12/2> mAGa+Adi-+mADava+ante hi !vasanta+anuBavaS* catuH !!5.12!
+   <5.13/1> caitra+ādi ca*āṣāḍha+antaṃ* ca !grīṣmaś* ca*anubhavaś* catuḥ !	<5.13/1> cEtra+Adi ca*AzAXa+antaM* ca !grIzmaS* ca*anuBavaS* catuH !
+   <5.13/2> āṣāḍha+ādi ca*aśvina+antaṃ* !varṣā ca*anubhavaś* catuḥ !!5.13!	<5.13/2> AzAXa+A-Adi ca*aSvina+antaM* !varzA ca*anuBavaS* catuH !!5.13!
+   <5.14/1> bhādra+ādi mārgaśīrṣa+antaṃ* !śarado* 'nubhavaś* catuḥ !	<5.14/1> BAdra+A-Adi mArgaSIrza+antaM* !Sara-do* anuBavaS* catuH !
+   <5.14/2> kārtika+ādi+māgha+māsa+antaṃ* !hemanta+anubhavaś* catuḥ !	<5.14/2> kArtika+Adi-+mAGa+m-Asa+antaM* !hemanta+-anuBavaS* catuH !
+   <5.14/3> mārga+ādīṃś* caturo* māsāñ* !śiśira+anubhavaṃ* viduḥ !!5.14!	<5.14/3> mArga+a-AdIMS* caturo* mAsAQ* !SiSira+anuBavan* viduH !!5.14!
+   <5.15/1> vasante vā*api śaradi !yoga+ārambhaṃ* tu samācaret !	<5.15/1> vasante vA*api Saradi !yoga-+AramBaM* tu samAcaret !
+   <5.15/2> tadā yogo* bhavet siddho* !vinā*āyāsena kathyate !!5.15!	<5.15/2> tadA yogo* Bavet sidDaH-* !vinA*AyAsena kaTyate !!5.15!
+   <5.16/1> mita+āhāraṃ* vinā yas* tu !yoga+ārambhaṃ* tu kārayet !	<5.16/1> mita-+AhAraM* vinA yas* tu !yoga+A-AramBaM* tu kArayet !
+   <5.16/2> nānā+rogo* bhavet tasya !kiṃ+cid* yogo* na sidhyati !!5.16!	<5.16/2> nAnA-+rogo* Bavet tasya !kiM+cid* yogo* na siDyati !!5.16!
+   <5.17/1> śāly+annaṃ* yava+piṇḍaṃ* vā !godhūma+piṇḍakaṃ* tathā !	<5.17/1> SAli-+annan* yava+piNxan* vA !goDUma+-piNxakaM* taTA !
+   <5.17/2> mudgaṃ* māṣa+caṇaka+ādi !śubhraṃ* ca tuṣa+varjitam !!5.17!	<5.17/2> mudgaM* mAza+caNaka+Adi !SuBraM* ca tuza+-varjitam !!5.17!
+   <5.18/1> paṭolaṃ* panasaṃ* mānaṃ* !kakkolaṃ* ca śuka+āśakam !	<5.18/1> pawolan* panasan* mAnaM* !kakkolaM* ca Suka+ASakam !
+   <5.18/2> drāḍhikāṃ* karkaṭīṃ* rambhāṃ* !ḍumbarīṃ* kaṇṭa+kaṇṭakam !!5.18!	<5.18/2> drAXikAM* karkawIM* ramBAn !xumbarIM* kaNwa+kaNwakam !!5.18!
+   <5.19/1> āma+rambhāṃ* bāla+rambhāṃ* !rambhā+daṇḍaṃ* ca mūlakam !	<5.19/1> Ama+ramBAM* bAla-+ramBAn !ramBA+-daNxan* ca mUlakam !
+   <5.19/2> vārtākīṃ* mūlakam ṛddhiṃ* !yogī bhakṣaṇam ācaret !!5.19!	<5.19/2> vArtAkIM* mUlakam RdDiM* !yogI BakzaNam Acaret !!5.19!
+   <5.20/1> bāla+śākaṃ* kāla śākaṃ* !tathā paṭola+patrakam !	<5.20/1> bAla+SAkaM* kAla SAkan* !taTA pawola+-patrakam !
+   <5.20/2> pañca+śākaṃ* praśaṃsīyād* !vāstūkaṃ* hila+mocikāṃ* !!5.20!	<5.20/2> paQca+SAkaM* praSaMsIyAd* !vAstUkaM* hila+mocikAn* !!5.20!
+   <5.21/1> śuddhaṃ* su+madhuraṃ* snigdham !udara+ardha+vivarjitam !	<5.21/1> SudDaM* su+maDuraM* snigDam !udara-+arDa+-vivarjitam !
+   <5.21/2> bhujyate sura+saṃprītyā [su+rasaṃ* prityā] !mita+āhāram imaṃ*	<5.21/2> Bujyate sura+-saMprItyA [su+ra-saM* prityA] !mita-+AhAram imaM*
+   viduḥ !!5.21!	viduH !!5.21!
+   <5.22/1> annena pūrayed* ardhaṃ* !toyena tu tṛtīyakam !	<5.22/1> annena pUrayed* arDan* !toyena tu tRtIyakam !
+   <5.22/2> udarasya turīya+aṃśaṃ* !saṃrakṣed* vāyu+cāraṇe !!5.22!	<5.22/2> udarasya turIya-+aMSan* !saMrakzed* vAyu+-cAraNe !!5.22!
+   <5.23/1> kaṭv* amlaṃ* lavaṇaṃ* tiktaṃ* !bhṛṣṭaṃ* ca dadhi takrakam !	<5.23/1> kawv* amlaM* lavaNan* tiktaM* !BRzwaM* ca daDi takrakam !
+   <5.23/2> śāka+utkaṭaṃ* tathā madyaṃ* !tālaṃ* ca panasaṃ* tathā !!5.23!	<5.23/2> SAka-+utkawan* taTA madyan* !tAlaM* ca panasan* taTA !!5.23!
+   <5.24/1> kulatthaṃ* masūraṃ* pāṇḍuṃ* !kūṣmāṇḍaṃ* śāka+daṇḍakam !	<5.24/1> kulatTaM* masUraM* pANxuM* !kUzmANxan* SAka+daNxakam !
+   <5.24/2> tumbī+kola+kapitthaṃ* ca !kaṇṭa+bilvaṃ* palāśakam !!5.24!	<5.24/2> tumbI+-kola+-kapitTaM* ca !kaNwa+bilvan* palASakam !!5.24!
+   <5.25/1> kadambaṃ* jambīraṃ* bimbaṃ* !lakucaṃ* laśunaṃ* viṣam !	<5.25/1> kadambaM* jambIraM* bimbaM* !lakucaM* laSunaM* vizam !
+   <5.25/2> kāma+raṅgaṃ* piyālaṃ* ca !hiṅgu+śālmali+kemukam !!5.25!	<5.25/2> kAma-+raFgaM* piyAlan* ca !hiFgu+-SAlmali+-kemukam !!5.25!
+   <5.26/1> yoga+ārambhe varjayec* ca !patha+strī+vahni+sevanam !!5.26!	<5.26/1> yoga+AramBe varjayec* ca !paTa+-strI+-vahni+sevanam !!5.26!
+   <5.27/1> nava+nītaṃ* ghṛtaṃ* kṣīraṃ* !guḍaṃ* śarkara+ādi ca*īkṣavaṃ* !	<5.27/1> nava+nItaM* GRtaM* kzIraM* !guxaM* Sarkara+Adi ca*I-kzavaM* !
+   <5.27/2> pakva+rambhāṃ* nārikelaṃ* !dāḍimbam a+śiva+āsavam !	<5.27/2> pakva+ramBAn* nArikelan* !dAximbam a+Siva-+Asavam !
+   <5.27/3> drākṣāṃ* tu lavalīṃ* dhātrīṃ* !rasam amla+vivarjitam !!5.27!	<5.27/3> drAkzAM* tu lavalIM* DAtrIM* !rasam amla+-vivarjitam !!5.27!
+   <5.28/1> elā+jāti+lavaṅgaṃ* ca !pauruṣaṃ* jambu+jāmbalam !	<5.28/1> elA+-jAti+lavaFgaM* ca !pOruzaM* jambu+-ja-ambalam !
+   <5.28/2> harītakīṃ* kharjūraṃ* ca !yogī bhakṣaṇam ācaret !!5.28!	<5.28/2> harItakIM* KarjUraM* ca !yogI BakzaNam Acaret !!5.28!
+   <5.29/1> laghu+pākaṃ* priyaṃ* snigdhaṃ* !tathā dhātu+prapoṣaṇam !	<5.29/1> laGu+pAkaM* priyaM* snigDaM* !taTA DAtu+-prapozaNam !
+   <5.29/2> mano+abhilaṣitaṃ* yogyaṃ* !yogī bhojanam ācaret !!5.29!	<5.29/2> manaH-+aBilazitaM* yogyan* !yogI Bojanam Acaret !!5.29!
+   <5.30/1> kāṭhinyaṃ* duritaṃ* pūtim !uṣṇaṃ* paryuṣitaṃ* tathā !	<5.30/1> kAWinyan* duritaM* pUtim !uzNaM* paryuzitan* taTA !
+   <5.30/2> ati+śītaṃ* ca*ati ca*uṣṇaṃ* !bhakṣyaṃ* yogī vivarjayet !!5.30!	<5.30/2> ati+SItaM* ca*ati ca*uzNan* !Bakzyan* yogI vivarjayet !!5.30!
+   <5.31/1> prātaḥ+snāna+upavāsa+ādi+ !+kāya+kleśa+vidhiṃ* tathā !	<5.31/1> prAtar-+snAna-+upavAsa-+Adi+ !+kAya+-kleSa+-viDiM* taTA !
+   <5.31/2> eka+āhāraṃ* nir+āhāraṃ* !yāma+ante ca na kārayet !!5.31!	<5.31/2> eka+AhAraM* nir+AhAran* !yAma+ante ca na kArayet !!5.31!
+   <5.32/1> evaṃ+vidhi+vidhānena !prāṇa+āyāmaṃ* samācaret !	<5.32/1> evaM+viDi+-viDAnena !prANa+AyAmaM* samAcaret !
+   <5.32/2> ārambhe prathame kuryāt !kṣīra+ādyaṃ* nitya+bhojanam !	<5.32/2> AramBe praTame kuryAt !kzIra+Adyan* nitya+-Bojanam !
+   <5.32/3> madhya+ahne ca*eva sāya+ahne !bhojana+dvayam ācaret !!5.32!	<5.32/3> maDya+ahne ca*A-iva sAya+ahne !Bojana+-dvayam Acaret !!5.32!
+   <5.33/1> kuśa+āsane mṛga+ajine !vyāghra+ajine ca kambale !	<5.33/1> kuSa+Asane mRga+ajine !vyAGra-+ajine ca kambale !
+   <5.33/2> sthūla+āsane samāsīnaḥ !prāṅ*mukho* vā*apy*udaṅ+mukhaḥ !	<5.33/2> sTUla-+Asane samAsInaH !prAF*muKo* vA*api-*udaF+muKaH !
+   <5.33/3> nāḍī+śuddhiṃ* samāsādya !prāṇa+āyāmaṃ* samabhyaset !!5.33!	<5.33/3> nAxI+-SudDiM* samAsAdya !prANa+AyAmaM* samaByaset !!5.33!
+   <5.34/1> caṇḍakāpālir* uvāca:	<5.34/1> caNxakApAlir* uvAca:
+   <5.34/11> nāḍī+śuddhiṃ* kathaṃ* kuryān* !nāḍī+śuddhis* tu kī+dṛśī !	<5.34/11> nAxI+-SudDiM* kaTaM* kuryAn* !nAxI+-SudDi-s* tu kI+dRSI !
+   <5.34/2> tat sarvaṃ* śrotum icchāmi !tad* vadasva dayā+nidhe !!5.34!	<5.34/2> tat sarvaM* Srotum icCAmi !tad* vadasva dayA+niDe !!5.34!
+   <5.35/1> gheraṇḍa* uvāca:	<5.35/1> GeraNxa* uvAca:
+   <5.35/11> mala+ākulāsu nāḍīṣu !māruto* na*eva gacchati !	<5.35/11> mala+a-AkulAsu nAxIzu !mAruto* na*A-iva gacCati !
+   <5.35/2> prāṇa+āyāmaḥ kathaṃ* sidhyet !tattva+jñānaṃ* kathaṃ* bhavet !	<5.35/2> prANa+AyAmaH kaTaM* siDyet !tattva+-jQAnan* kaTaM* Bavet !
+   <5.35/3> tasmād* ādau naḍī+śuddhiṃ* !prāṇa+āyāmaṃ* tato* 'bhyaset !!5.35!	<5.35/3> tasmAd* AdO naxI+-SudDiM* !prANa+AyAmaM* tato* aByaset !!5.35!
+   <5.36/1> nāḍī+śuddhir* dvidhā proktā !sa+manur* nir+manus* tathā !	<5.36/1> nAxI+-SudDir* dviDA proktAH !sa+manur* nir+manus* taTA !
+   <5.36/2> bījena sa+manuṃ* kuryān* !nir+manuṃ* dhauti+karmaṇi !!5.36!	<5.36/2> bIjena sa+manuM* kuryAn* !nir+manuM* DOti+karmaNi !!5.36!
+   <5.37/1> dhauti+karma purā proktaṃ* !ṣaṭ+karma+sādhane yathā !	<5.37/1> DOti+karma purA proktan* !zaw+-karma+-sADane yaTA !
+   <5.37/2> śṛṇuṣva sa+manuṃ* caṇḍa !nāḍī+śuddhir* yathā bhavet !!5.37!	<5.37/2> SRNuzva sa+manuM* caNxaH !nAxI+-SudDir* yaTA Bavet !!5.37!
+   <5.38/1> upaviśya*āsane yogī !padma+āsanaṃ* samācaret !	<5.38/1> upaviSya-*Asane yogI !padma+AsanaM* samAcaret !
+   <5.38/2> gurv+ādi+nyāsanaṃ* kṛtvā !yathā*eva guru+bhāṣitam !	<5.38/2> guru-+Adi+nyAsanaM* kRtvA !yaTA*A-iva guru+BAzitam !
+   <5.38/3> nāḍī+śuddhiṃ* prakurvīta !prāṇa+āyāma+viśuddhaye !!5.38!	<5.38/3> nAxI+-SudDiM* prakurvIta !prANa+AyAma+-viSudDaye !!5.38!
+   <5.39/1> vāyu+bījaṃ* tato* dhyātvā !dhūmra+varṇaṃ* sa+tejasam !	<5.39/1> vAyu+bIjan* tato* DyAtvA !DUmra+-varNaM* sa+-tejasam !
+   <5.39/2> candreṇa pūrayed* vāyuṃ* !bījaṃ* ṣo+ḍaśakaiḥ su+dhīḥ !!5.39!	<5.39/2> candreNa pUrayed* vAyuM* !bIjaM* zo+xaSakEH su+DIH !!5.39!
+   <5.40/1> catuḥ+ṣaṣṭyā mātrayā ca !kumbhakena*eva dhārayet !	<5.40/1> catur-+zazwyA mAtrayA ca !kumBakena*eva DArayet !
+   <5.40/2> dvā+triṃśan+mātrayā vāyuṃ* !sūrya+nāḍyā ca recayet !!5.40!	<5.40/2> dvA+triMSan+-mAtrayA vAyuM* !sUrya+nAxyA ca recayet !!5.40!
+   <5.41/1> nābhi+mūlād vahnim utthāpya !dhyāyet tejo* vanī+yutam !	<5.41/1> nABi+mUlAt vahnim utTApya !DyAyet tejo* vanI+-yutam !
+   <5.41/2> vahni+bījaṃ* @ ṣo+ḍaśena !sūrya+nāḍyā ca pūrayet !!5.41!	<5.41/2> vahni+bIjan* @ zo+xaSena !sUrya+nAxyA ca pUrayet !!5.41!
+   <5.42/1> catuḥ+ṣaṣṭyā mātrayā ca !kumbhakena*eva dhārayet !	<5.42/1> catur-+zazwyA mAtrayA ca !kumBakena*eva DArayet !
+   <5.42/2> dvā+triṃśan+mātrayā vāyuṃ* !śaśi+nāḍyā ca recayet !!5.42!	<5.42/2> dvA+triMSan+-mAtrayA vAyuM* !SaSi+-nAxyA ca recayet !!5.42!
+   <5.43/1> nāsa+agre śaśa+dhṛg* bimbaṃ* !dhyātvā jyotsnā+samanvitam !	<5.43/1> nAsa+agre SaSa+DRg* bimbaM* !DyAtvA jyotsnA+-samanvitam !
+   <5.43/2> ṭhaṃ* bījaṃ* ṣo+ḍaśena*eva !iḍayā pūrayen* marut !!5.43!	<5.43/2> WaM* bIjaM* zo+xa-Sena*eva !ixayA pUrayen* marut !!5.43!
+   <5.44/1> catuḥ+ṣaṣṭyā mātrayā ca ![kumbhakena*eva] dhārayet !	<5.44/1> catur-+zazwyA mAtrayA ca ![kumBakena*eva] DArayet !
+   <5.44/2> a+mṛta+plāvitaṃ* dhyātvā !prāṇa+āyāmaṃ* samabhyaset !!5.44!	<5.44/2> a+mRta+-plAvitaM* DyAtvA !prANa+AyAmaM* samaByaset !!5.44!
+   <5.45/1> [vaṃ* bījaṃ* śo+ḍaśena*eva !sūrya+nāḍyā ca pūrayet] !	<5.45/1> [vaM* bIjaM* So+xa-Sena*A-iva !sUrya+nAxyA ca pUrayet] !
+   <5.45/2> dvā+triṃśena la+kāreṇa !dṛḍhaṃ* bhāvyaṃ* virecayet !!5.45!	<5.45/2> dvA+triMSena la+kAreNa !dRXaM* BAvyaM* virecayet !!5.45!
+   <5.46/1> evaṃ+vidhāṃ* nāḍī+śuddhiṃ* !kṛtvā nāḍīṃ* viśodhayet !	<5.46/1> evaM+viDAn* nAxI+-SudDiM* !kRtvA nAxIM* viSoDayet !
+   <5.46/2> dṛḍho* bhūtvā*āsanaṃ* kṛtvā !prāṇa+āyāmaṃ* samācaret !!5.46!	<5.46/2> dRXo* BUtvA-a*AsanaM* kRtvA !prANa+AyAmaM* samAcaret !!5.46!
+   <5.47/1> sahitaḥ sūrya+bhedaś* ca !ujjāyī śītalī tathā !	<5.47/1> sahitaH sUrya+BedaS* ca !ujjAyI SItalI taTA !
+   <5.47/2> bhastrikā bhrāmarī mūrcchā !kevalī ca*aṣṭa kumbhikāḥ !!5.47!	<5.47/2> BastrikA BrAmarI mUrcCA !kevalI ca*azwa kumBikAH !!5.47!
+   <5.48/1> sahitau dvi+vidhau proktau !prāṇa+āyāmaṃ* samācaret !	<5.48/1> sahitO dvi-+viDO proktO !prANa+AyAmaM* samAcaret !
+   <5.48/2> sa+garbho* bījam uccārya !nir+garbho* bīja+varjitaḥ !	<5.48/2> sa+garBo* bIjam uccArya !nir+garBo* bIja+-varjitaH !
+   <5.48/3> prāṇa+āyāmaṃ* sa+garbhaṃ* ca !prathamaṃ* kathayāmi te !!5.48!	<5.48/3> prANa+AyAmaM* sa+garBaM* ca !praTaman* kaTayAmi te !!5.48!
+   <5.49/1> sukha+āsane ca*upaviśya !prāṅ+mukho* vā*apy* udaṅ+mukhaḥ !	<5.49/1> suKa-+Asane ca*upaviSya !prAF+muKo* vA*apy* udaF+muKaH !
+   <5.49/2> dhyāyed* vidhiṃ* rajo+guṇaṃ* !rakta+varṇam a+varṇakam !!5.49!	<5.49/2> DyAyed* viDiM* rajo+guNan* !rakta+varNam a+varNakam !!5.49!
+   <5.50/1> iḍayā pūrayed* vāyuṃ* !mātrayā ṣo+ḍaśaiḥ su+dhīḥ !	<5.50/1> ixayA pUrayed* vAyuM* !mAtrayA zo+xaSEH su+DIH !
+   <5.50/2> pūraka+ante kumbhaka+ādye !kartavyas* tu*uḍḍiyānakaḥ !!5.50!	<5.50/2> pUraka+ante kumBaka-+Adye !kartavyas* tu*uxxiyAnakaH !!5.50!
+   <5.51/1> sattvamayaṃ* hariṃ* dhyātvā !u+kāraiḥ śukla+varṇakaiḥ !	<5.51/1> sattva-mayan* hariM* DyAtvA !u+kArEH Sukla-+varNakEH !
+   <5.51/2> catuḥ+ṣaṣṭyā ca mātrayā !anilaṃ* kumbhakaṃ* caret !	<5.51/2> catur-+zazwyA ca mAtrayA !anilaM* kumBakaM* caret !
+   <5.51/3> kumbhaka+ante recaka+ādye !kartavyaṃ* ca jālaṃ+dharam !!5.51!	<5.51/3> kumBaka+ante recaka-+Adye !kartavyan* ca jAlaM+Daram !!5.51!
+   <5.52/1> rudraṃ* tamo+guṇaṃ* dhyātvā !ma+kāraiḥ kṛṣṇa+varṇakaiḥ !	<5.52/1> rudraM* tamaH-+guNan* DyAtvA !ma+kArEH kRzNa+varNakEH !
+   <5.52/2> dvā+triṃśan+mātrayā ca*eva !recayed* vidhinā punaḥ !!5.52!	<5.52/2> dvA+triMSan+-mAtrayA ca*A-iva !recayed* viDinA punar !!5.52!
+   <5.53/1> punaḥ piṅgalayā*āpūrya !kumbhakena*eva dhārayet !	<5.53/1> punar piFgalayA*-ApUrya !kumBakena*A-iva DArayet !
+   <5.53/2> iḍayā recayet paścāt !tad+bījena krameṇa tu !!5.53!	<5.53/2> ixayA recayet paScAt !tad+bIjena krameNa tu !!5.53!
+   <5.54/1> anu+loma+vi+lomena !vāraṃ* vāraṃ* ca sādhayet !	<5.54/1> anu+loma+-vi+lomena !vAraM* vAraM* ca sADayet !
+   <5.54/2> pūraka+ante kumbhaka+ādye !dhṛtaṃ* nāsā+puṭa+dvayam !	<5.54/2> pUraka+ante kumBaka-+Adye !DRtaM* nAsA+-puwa+-dvayam !
+   <5.54/3> kaniṣṭhā+a+nāmikā+aṅguṣṭhais* !tarjanī+madhyame vinā !!5.54!	<5.54/3> kanizWA-+a+nAmikA-+aFguzWEs* !tarjanI+-maDyame vinA !!5.54!
+   <5.55/1> prāṇa+āyāmaṃ* ni+garbhaṃ* tu !vinā bījena jāyate !	<5.55/1> prANa+AyAmaM* ni+garBaM* tu !vinA bIjena jAyate !
+   <5.55/2> vāma+jānu+upari nyasta+ !+vāma+pāṇi+talaṃ* bhramet !	<5.55/2> vAma+-jAnu+upari nyasta+ !+vAma+-pANi+-talaM* Bramet !
+   <5.55/3> mātrā+ādi+śata+pary+antaṃ* !pūra+kumbhaka+recanam !!5.55!	<5.55/3> mAtrA+Adi-+Sata+pary+antan* !pUra+kumBaka+recanam !!5.55!
+   <5.56/1> uttamā viṃśatir* mātrā !madhyamā ṣo+ḍaśī smṛtā !	<5.56/1> uttamA viMSatir* mAtrA !maDyamA zo+xaSI smRtA !
+   <5.56/2> adhamā dvā+daśī mātrā !prāṇa+āyāmās* tridhā smṛtāḥ !!5.56!	<5.56/2> aDamA dvA+daSI mAtrA !prANa+AyAmAs* triDA smRtAH !!5.56!
+   <5.57/1> adhamāj* jāyate gharmo* !meru+kampaś* ca madhyamāt !	<5.57/1> aDamAj* jAyate Garmo* !meru+-kampaS* ca maDyamAt !
+   <5.57/2> uttamāc* ca bhūmi+tyāgas* !tri+vidhaṃ* siddhi+lakṣaṇam !!5.57!	<5.57/2> uttamAc* ca BUmi+tyAga-s* !tri+viDaM* sidDi+lakzaNam !!5.57!
+   <5.58/1> prāṇa+āyāmāt khe+caratvaṃ* !prāṇa+āyāmād* roga+nāśanam !	<5.58/1> prANa+AyAmAt Ke+cara-tvan* !prANa+AyAmAd* roga+nASanam !
+   <5.58/2> prāṇa+āyāmād* bodhayec* *chaktiṃ* prāṇa+āyāmān* mana+unmanī !	<5.58/2> prANa+AyAmAd* boDayec* *SaktiM* prANa+AyAmAn* mana+unmanI !
+   <5.58/3> ānando* jāyate citte !prāṇa+āyāmī sukhī bhavet !!5.58!	<5.58/3> Anando* jAyate citte !prANa+AyAmI suKI Bavet !!5.58!
+   <5.59/1> kathitaṃ* sahitaṃ* kumbhaṃ* !sūrya+bhedanakaṃ* śṛṇu !	<5.59/1> kaTitan* sahitaM* kumBaM* !sUrya+BedanakaM* SRNu !
+   <5.59/2> pūrayet sūrya+nāḍyā ca !yathā+śakti bahir+marut !!5.59!	<5.59/2> pUrayet sUrya+nAxyA ca !yaTA+Sakti bahis-+marut !!5.59!
+   <5.60/1> dhārayed* bahu+yatnena !kumbhakena jalaṃ+dharaiḥ !	<5.60/1> DArayed* bahu+yatnena !kumBakena jalaM+DarEH !
+   <5.60/2> yāvat svedaṃ* nakha+keśābhyāṃ* !tāvat kurvantu kumbhakam !!5.60!	<5.60/2> yAvat svedaM* naKa+keSAByAn* !tAvat kurvantu kumBakam !!5.60!
+   <5.61/1> prāṇo* 'pānaḥ samānaś* ca*+ !*udāna+vyānau ca vāyavaḥ !	<5.61/1> prANo* apAnaH samAnaS* ca*+ !*udAna+-vyAnO ca vAyavaH !
+   <5.61/2> nāgaḥ kūrmaś* ca kṛkaro* !deva+datto* dhanaṃ+jayaḥ !!5.61!	<5.61/2> nAgaH kUrmaS* ca kRkaro* !deva+-datto* DanaM+jayaH !!5.61!
+   <5.62/1> hṛdi prāṇo* vahen* nityam !apāno* guda+maṇḍale !	<5.62/1> hRdi prANo* vahen* nityam !apAno* guda+-maNxale !
+   <5.62/2> samāno* nābhi+deśe tu !udānaḥ kaṇṭha+madhya+gaḥ !	<5.62/2> samAno* nABi+deSe tu !udAnaH kaNWa+-maDya+-gaH !
+   <5.62/3> vyāno* vyāpya śarīre tu !pradhānāḥ pañca vāyavaḥ !!5.62!	<5.62/3> vyAno* vyApya SarIre tu !praDAnAH paQca vAyavaH !!5.62!
+   <5.63/1> prāṇa+ādyāḥ pañca vikhyātā* !nāga+ādyāḥ pañca vāyavaḥ !	<5.63/1> prANa+AdyAH paQca viKyAtA* !nAga+AdyAH paQca vAyavaH !
+   <5.63/2> teṣām* api ca pañcānāṃ* !sthānāni ca vadāmy* aham !!5.63!	<5.63/2> tezAm* api ca paQcAnAM* !sTAnAni ca vadAmy* aham !!5.63!
+   <5.64/1> udgāre nāga* ākhyātaḥ !kūrmas* tu*unmīlane smṛtaḥ !	<5.64/1> udgAre nAga* AKyAtaH !kUrmas* tu*unmIlane smRtaH !
+   <5.64/2> kṛkaraḥ kṣut+tṛṣe @ jñeyo* !deva+datto* vijṛmbhaṇe !	<5.64/2> kRkaraH kzut+-tRze @ jQeyo* !deva+-dattaH-* vijRmBaNe !
+   <5.64/3> na jahāti mṛte kva*api !sarva+vyāpī dhanaṃ+jayaḥ !!5.64!	<5.64/3> na jahAti mRte kva*api !sarva+vyApI DanaM+jayaH !!5.64!
+   <5.65/1> nāgo* gṛhṇāti caitanyaṃ* !kūrmaś* ca*eva nimeṣaṇam !	<5.65/1> nAgo* gRhNAti cEtanyan* !kUrmaS* ca*A-iva nimezaNam !
+   <5.65/2> kṣut+tṛṣaṃ* kṛkaraś* ca*eva !jṛmbhaṇaṃ* caturthena tu !	<5.65/2> kzut+-tRzan* kRkaraS* ca*A-iva !jRmBaNan* caturTena tu !
+   <5.65/3> bhaved* dhanaṃ+jayāc* *chabdaṃ* !kṣaṇa+mātraṃ* na niḥsaret	<5.65/3> Bavet-* DanaM+jayAc* *SabdaM* !kzaNa+-mAtraM* na niHsaret-
+   <5.66/1> sarvaṃ* ca sūryakaṃ* bhitvā !nābhi+mūlāt samuddharet !!5.66!	<5.66/1> sarvaM* ca sUryakaM* BitvA !nABi+-mUlAt samudDaret !!5.66!
+   <5.67/1> iḍayā recayet paścād* !dhairyeṇa*a+khaṇḍa+vegataḥ !	<5.67/1> ixayA recayet paScAd* !DEryeNa-*a+KaNxa+vegataH !
+   <5.67/2> punaḥ sūryeṇa ca*ākṛṣya !kumbhayitvā yathā+vidhi !!5.67!	<5.67/2> punar sUryeNa ca*a-AkRzya !kumBayitvA yaTA+viDi !!5.67!
+   <5.68/1> recayitvā sādhayet tu !krameṇa ca punaḥ punaḥ !	<5.68/1> recayitvA sADayet tu !krameNa ca punar punar !
+   <5.68/2> kumbhakaḥ sūrya+bhedas* tu !jarā+mṛtyu+vināśakaḥ !!5.68!	<5.68/2> kumBakaH sUrya+Bedas* tu !jarA+-mRtyu+-vinASakaH !!5.68!
+   <5.69/1> bodhayet kuṇḍalīṃ* śaktiṃ* !deha+anala+vivardhanam !	<5.69/1> boDayet kuNxalIM* Saktin* !deha-+anala+-vivarDanam !
+   <5.69/2> iti te kathitaṃ* caṇḍa !sūrya+bhedanam uttamam !!5.69!	<5.69/2> iti te kaTitaM* caNxaH !sUrya+Bedanam uttamam !!5.69!
+   <5.70/1> nāsābhyāṃ* vāyum ākṛṣya !mukha+madhye ca dhārayet !	<5.70/1> nAsAByAn* vAyum AkRzya !muKa+-maDye ca DArayet !
+   <5.70/2> hṛd+galābhyāṃ* samākṛṣya !vāyuṃ* vaktreṇa dhārayet !!5.70!	<5.70/2> hRd-+galAByAn* samAkRzya !vAyuM* vaktreNa DArayet !!5.70!
+   <5.71/1> mukhaṃ* praphullaṃ* saṃrakṣya !kuryāj* jālaṃ+dharaṃ* tataḥ !	<5.71/1> muKaM* praPullaM* saMrakzya !kuryAj* jAlaM+Daran* tatas !
+   <5.71/2> ā+śakti kumbhakaṃ* kṛtvā !dhārayed* a+virodhataḥ !!5.71!	<5.71/2> A+Sakti kumBakaM* kRtvA !DArayed* a+viroDataH !!5.71!
+   <5.72/1> ujjāyī+kumbhakaṃ* kṛtvā !sarva+kāryāṇi sādhayet !	<5.72/1> ujjAyI+-kumBakaM* kRtvA !sarva+-kAryANi sADayet !
+   <5.72/2> na bhavet kapha+rogaś* ca !krūra+vāyur* a+jīrṇakam !!5.72!	<5.72/2> na Bavet kaPa-+rogaS* ca !krUra+vAyur* a+jIrNakam !!5.72!
+   <5.73/1> āma+vātaḥ kṣayaḥ kāso* !jvara+plīhā na jāyate !	<5.73/1> Am-a-+vAtaH kzayaH kAso* !jvara+-plIhA na jAyate !
+   <5.73/2> jarā+mṛtyu+vināśāya !ca*ujjāyīṃ* sādhayen* naraḥ !!5.73!	<5.73/2> jarA+-mRtyu+-vinASAya !ca*-ut-jAyIM* sADayen* naraH !!5.73!
+   <5.74/1> jihvayā vāyum ākṛṣya !udare pūrayec* *chanaiḥ !	<5.74/1> jihvayA vAyum AkRzya !udare pUrayec* *CanEs !
+   <5.74/2> kṣaṇaṃ* ca kumbhakaṃ* kṛtvā !nāsābhyāṃ* recayet punaḥ !!5.74!	<5.74/2> kzaNaM* ca kumBakaM* kRtvA !nAsAByAn* recayet punar !!5.74!
+   <5.75/1> sarvadā sādhayed* yogī !śītalī+kumbhakaṃ* śubham !	<5.75/1> sarvadA sADayed* yogI !SIta-lI+-kumBakaM* SuBam !
+   <5.75/2> a+jīrṇaṃ* kapha+pittaṃ* ca !na*eva tasya prajāyate !!5.75	<5.75/2> a+jIrNaM* kaPa-+pittaM* ca !na*A-iva tasya prajAyate !!5.75
+   bhastrā*iva loha+kārāṇāṃ*	BastrA*-iva loha+kArANAM*
+   !yathā+krameṇa saṃbhramet !	!yaTA+krameNa saMBramet !
+   <5.75/3> tato* vāyuṃ* ca nāsābhyām !ubhābhyāṃ* cālayec* *chanaiḥ !!5.76!	<5.75/3> tato* vAyuM* ca nAsAByAm !uBAByAn* cAlayec* *CanEs !!5.76!
+   <5.77/1> evaṃ* viṃśati+vāraṃ* ca !kṛtvā kuryāc* ca kumbhakam !	<5.77/1> evaM* viMSati-+vAraM* ca !kRtvA kuryAc* ca kumBakam !
+   <5.77/2> tad+ante cālayed* vāyuṃ* !pūrva+uktaṃ* ca yathā+vidhi !!5.77!	<5.77/2> tad-+ante cAlayed* vAyuM* !pUrva-+-uktaM* ca yaTA+viDi !!5.77!
+   <5.78/1> tri+vāraṃ* sādhayed* enaṃ* !bhastrikā+kumbhakaṃ* su+dhīḥ !	<5.78/1> tri-+vAraM* sADayed* enaM* !BaH-trikA+kumBakaM* su+DIH !
+   <5.78/2> na ca rogo* na ca kleśa* !ārogyaṃ* ca dine dine !!5.78!	<5.78/2> na ca rogo* na ca kleSa* !a-Arogyan* ca dine dine !!5.78!
+   <5.79/1> ardha+rātre gate yogī !jantūnāṃ* śabda+varjite !	<5.79/1> arDa+rAtre gate yogI !jantUnAM* Sabda+-varjite !
+   <5.79/2> karṇau nidhāya hastābhyāṃ* !kuryāt pūrakam uttamam !!5.79!	<5.79/2> karNO niDAya hastAByAn* !kuryAt pUrakam uttamam !!5.79!
+   <5.80/1> śṛṇuyād* dakṣiṇe karṇe !nādam antar+gataṃ* su+dhīḥ !	<5.80/1> SRNuyAd* dakziNe karNe !nAdam antar+-gataM* su+DIH !
+   <5.80/2> prathamaṃ* jhiṃjhī+nādaṃ* ca !vaṃśī+nādaṃ* tataḥ param !	<5.80/2> praTaman* JiMJI+nAdaM* ca !vaMSI+nAdan* tatas param !
+   <5.80/3> megha+gharghara+bhrāmarī ca !ghaṇṭā+kāṃsyaṃ* tataḥ param !!5.80!	<5.80/3> meGa+GarGara+-BrAmarI ca !GaNwA+-kAMsyan* tatas param !!5.80!
+   <5.81/1> turī+bherī+mṛd+aṅga+ādi+ !+vīṇā+nādaka+dundubhiḥ !	<5.81/1> turI+-BerI+-mRd+aFga+Adi+ !+vINA+nAdaka+dunduBiH !
+   <5.81/2> evaṃ* nānā+vidho* nādo* !jāyate nityam abhyasāt !!5.81!	<5.81/2> evaM* nAnA-a+viDo* nAdo* !jAyate nityam aByasAt !!5.81!
+   <5.82/1> an+āhatasya śabdasya !tasya śabdasya yo* dhvaniḥ !	<5.82/1> an+Ahatasya Sabdasya !tasya Sabdasya yo* DvaniH !
+   <5.82/2> dhvaner* antar+gataṃ* jyotir* !jyotir* antar+gataṃ* manaḥ !!5.82!	<5.82/2> Dvaner* antar+-gataM* jyotir* !jyotir* antar+-gataM* manaH !!5.82!
+   <5.83/1> tasmiṃs* tu vilayaṃ* yāti !tad* viṣṇoḥ paramaṃ* padam !	<5.83/1> tasmins* tu vilayan* yAti !tad* vizNoH paraman* padam !
+   <5.83/2> evaṃ* bhrāmarī+saṃsiddhiḥ !samādhi+siddhim āpnuyāt !!5.83!	<5.83/2> evaM* BrAmarI+-saMsidDiH !samADi+-sidDim ApnuyAt !!5.83!
+   <5.84/1> mukhe ca kumbhakaṃ* kṛtvā !bhruvor* antar+gataṃ* manaḥ !	<5.84/1> muKe ca kumBakaM* kRtvA !Bruvor* antar+-gataM* manaH !
+   <5.84/2> saṃtyajya viṣayān sarvān !mano+mūrcchā sukha+pradā !!5.84!	<5.84/2> saMtyajya vizayAn sarvAn !mano+mUrcCA suKa+-pradA !!5.84!
+   <5.85/1> ātmani mana+saṃyogād* !ānandaṃ* jāyate dhruvam !	<5.85/1> Atmani mana+-saMyogAd* !a-Anandan* jAyate Druvam !
+   <5.85/2> evaṃ* nānā+vidhā+ānando* !jāyate nityam abhyasāt !	<5.85/2> evaM* nAnA+viDA+a-Anando* !jAyate nityam aByasAt !
+   <5.85/3> evam abhyāsa+yogena !samādhi+siddhim āpnuyāt !!5.85!	<5.85/3> evam aByAsa+-yogena !samADi+-sidDim ApnuyAt !!5.85!
+   <5.86/1> bhujaṃ+ginyāḥ śvāsa+vaśād* !a+japā jāyate nanu !	<5.86/1> BujaM+ginyAH SvAsa+vaSAd* !a+japAH jAyate nanu !
+   <5.86/2> haṃ+kāreṇa bahir* yāti !saḥ+kāreṇa viśet punaḥ !!5.86!	<5.86/2> haM+kAreNa bahis-* yAti !saH+kAreNa viSet punar !!5.86!
+   <5.87/1> ṣaṭ śatāni divā+rātrau !sahasrāṇy* eka+viṃśatiḥ !	<5.87/1> zaw SatAni divA+rAtrO !sahasrANy* eka+viMSatiH !
+   <5.87/2> a+japāṃ* nāma gāyatrīṃ* !jīvo* japati sarvadā !!5.87!	<5.87/2> a+japAM* nAma gAyatrIn* !jIvo* japati sarvadA !!5.87!
+   <5.88/1> mūla+ādhāre yathā haṃsas* !tathā hi hṛdi paṅka+je !	<5.88/1> mUla-+ADAre yaTA haMsas* !taTA hi hRdi paFka+je !
+   <5.88/2> tathā nāsā+puṭa+dvandve !tri+veṇī+saṃgama+āgamam !!5.88!	<5.88/2> taTA nAsA+-puwa+-dvandve !tri+veNI+-saMgama+Agamam !!5.88!
+   <5.89/1> ṣaṇ+ṇavaty+aṅgulī+mānaṃ* !śarīraṃ* karma+rūpakam !	<5.89/1> zaN+Navati-+aFgulI+-mAnan* !SarIraM* karma-+rUpakam !
+   <5.89/2> dehād* bahir+gato* vāyuḥ !sva+bhāvād* dvā+daśa+aṅguliḥ !!5.89!	<5.89/2> dehAd* bahis-+gato* vAyuH !sva+BAvAd* dvA+daSa+aFguliH !!5.89!
+   <5.90/1> śayane ṣo+ḍaśa+aṅgulyo* !bhojane viṃśatis* tathā !	<5.90/1> Sayane zo+xa-Sa+aFgulyo* !Bojane viMSatis* taTA !
+   <5.90/2> catur+viṃśa+aṅguliḥ panthe !nidrāyāṃ* triṃśad+aṅguliḥ !	<5.90/2> catur-+viMSa+aFguliH panTe !nidrAyAn* triMSat-+aFguliH !
+   <5.90/3> maithune ṣaṭ+triṃśad* uktaṃ* !vyāyāme ca tato* 'dhikam !!5.90!	<5.90/3> mETune zaw+triMSad* uktan* !vyAyAme ca tato* aDikam !!5.90!
+   <5.91/1> sva+bhāve 'sya gater* nyūne !param āyuḥ pravardhate !	<5.91/1> sva+BAve asya gater* nyUne !param AyuH pravarDate !
+   <5.91/2> āyuḥ+kṣayo* 'dhike prokto* !mārute ca*antarād* gate !!5.91!	<5.91/2> AyuH-+kzayo* aDike prokto* !mArute ca*antarAd* gate !!5.91!
+   <5.92/1> tasmāt prāṇe sthite dehe !maraṇaṃ* na*eva jāyate !	<5.92/1> tasmAt prANe sTite dehe !maraNan* na*A-iva jAyate !
+   <5.92/2> vāyunā ghaṭa+saṃbandhe !bhavet kevala+kumbhakaḥ !!5.92!	<5.92/2> vAyunA Gawa+-saMbanDe !Bavet kevala+-kumBakaH !!5.92!
+   <5.93/1> yāvaj+jīvaṃ* japen* mantram !a+japā+saṃkhya+kevalam !	<5.93/1> yA-avaj+jIvaM* japen* mantram !a+ja-pA+-saMKya+-kevalam !
+   <5.93/2> adya+avadhi dhṛtaṃ* saṃkhyā+ !+vibhramaṃ* kevalī+kṛte !!5.93!	<5.93/2> adya+avaDi DRtaM* saMKyA+ !+viBraman* kevalI+kRte !!5.93!
+   <5.94/1> ata* eva hi kartavyaḥ !kevalī+kumbhako* naraiḥ !	<5.94/1> ata* eva hi kartavyaH !kevalI+-kumBako* narEH !
+   <5.94/2> kevalī ca*a+japā+saṃkhyā !dvi+guṇā ca mana+unmanī !!5.94!	<5.94/2> kevalI ca*a+japA+-saMKyA !dvi+guNA ca mana+unmanI !!5.94!
+   <5.95/1> nāsābhyāṃ* vāyum ākṛṣya !kevalaṃ* kumbhakaṃ* caret !	<5.95/1> nAsAByAn* vAyum AkRzya !kevalaM* kumBakaM* caret !
+   <5.95/2> eka+ādika+catuḥ+ṣaṣṭiṃ* !dhārayet prathame dine !!5.95!	<5.95/2> eka+Adika+catuH+zazwiM* !DArayet praTame dine !!5.95!
+   <5.96/1> kevalīm aṣṭadhā kuryād* !yāme yāme dine dine !	<5.96/1> kevalIm azwaDA kuryAt-* !yAme yAme dine dine !
+   <5.96/2> atha vā pañcadhā kuryād* !yathā tat kathayāmi te !!5.96!	<5.96/2> aTa vA paQcaDA kuryAt-* !yaTA tat kaTayAmi te !!5.96!
+   <5.97/1> prātar* madhya+ahna+sāya+ahne !madhya+rātre caturthake !	<5.97/1> prAtar* maDya-+ahna+sAya-+ahne !maDya+rAtre caturTake !
+   <5.97/2> tri+saṃdhyam atha vā kuryāt !sama+māne dine dine !!5.97!	<5.97/2> tri+saMDyam aTa vA kuryAt !sama+mAne dine dine !!5.97!
+   <5.98/1> pañca+vāraṃ* dine vṛddhir* !vāra+ekaṃ* ca dine tathā !	<5.98/1> paQca-+vAran* dine vRdDir* !vAra-+ekaM* ca dine taTA !
+   <5.98/2> a+japā+parimāṇe @ ca !yāvat siddhiḥ prajāyate !!5.98!	<5.98/2> a+japA+-parimANe @ ca !yAvat sidDiH prajAyate !!5.98!
+   <5.99/1> prāṇa+āyāmaṃ* kevalīṃ* nāma !tadā vadati yoga+vit !	<5.99/1> prANa+AyAmaM* kevalIM* nAma !tadA vadati yoga+vid !
+   <5.99/2> kumbhake kevale siddhe !kiṃ* na sidhyati bhū+tale !!5.99!	<5.99/2> kumBake kevale sidDe !kiM* na siDyati BU+-tale !!5.99!
+   <5.100/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<5.100/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghata+stha+yoga+prakaraṇe	Gata+sTa+-yoga+-prakaraNe
+   prāṇa+āyāma+prayogo* nāma pañcama+upadeśaḥ !!5! ]]	prANa-+AyAma+-prayogo* nAma paQcama+upadeSaH !!5! ]]
+   <6.1/1> gheraṇḍa* uvāca:	<6.1/1> GeraNxa* uvAca:
+   <6.1/11> sthūlaṃ* jyotis* tathā sūkṣmaṃ* !dhyānasya tri+vidhaṃ* viduḥ !	<6.1/11> sTUlaM* jyotis* taTA sUkzmaM* !DyAnasya tri+viDaM* viduH !
+   <6.1/2> sthūlaṃ* mūrtimayaṃ* proktaṃ* !jyotis* tejomayaṃ* tathā !	<6.1/2> sTUlaM* mUrti-mayan* proktaM* !jyotis* tejaH-mayan* taTA !
+   <6.1/3> sūkṣmaṃ* bindumayaṃ* brahma !kuṇḍalī para+devatā !!6.1!	<6.1/3> sUkzmaM* bindu-mayan* brahma !kuNxalI para+devatA !!6.1!
+   <6.2/1> svakīya+hṛdaye dhyāyet !sudhā+sāgaram uttamam !	<6.2/1> svakIya+-hRdaye DyAyet !suDA+-sAgaram uttamam !
+   <6.2/2> tan+madhye ratna+dvīpaṃ* tu !su+ratna+vālukāmayam !!6.2!	<6.2/2> tan+-maDye ratna+-dvIpaM* tu !su+ratna-+vAlukA-mayam !!6.2!
+   <6.3/1> catur+dikṣu nīpa+taruṃ* !bahu+puṣpa+samanvitam !	<6.3/1> catur-+dikzu nIpa+taruM* !bahu+-puzpa+-samanvitam !
+   <6.3/2> nīpa+upa+vana+saṃkulair* !veṣṭitaṃ* paritā @ iva !!6.3!	<6.3/2> nIpa-+upa+vana+-saMkulEr* !vezwitaM* paritA @ iva !!6.3!
+   <6.4/1> mālatī+mallikā+jātī+!+kesaraiś* campakais* tathā !	<6.4/1> mAlatI+-mallikA+-jAtI+!+kesarES* campakEs* taTA !
+   <6.4/2> pārijātaiḥ sthala+padmair* !gandhā+modita+diṅ+mukhaiḥ !!6.4!	<6.4/2> pArijAtEH sTala+-padmEH-* !ganDA-a+modita-+diF+-muKEH !!6.4!
+   <6.5/1> tan+madhye saṃsmared* yogī !kalpa+vṛkṣaṃ* mano+ramam !	<6.5/1> tan+-maDye saMsmared* yogI !kalpa+vRkzaM* mano+ramam !
+   <6.5/2> catuḥ+śākhā+catur+vedaṃ* !nitya+puṣpa+phala+anvitam !!6.5!	<6.5/2> catur-+SAKA+-catur+vedan* !nitya+-puzpa+-Pala-+anvitam !!6.5!
+   <6.6/1> bhramarāḥ kokilās* tatra !guñjanti nigadanti ca !	<6.6/1> BramarAH kokilAs* tatra !guQjanti nigadanti ca !
+   <6.6/2> dhyāyet+tatra sthiro* bhūtvā !mahā+māṇikya+maṇḍapam !!6.6!	<6.6/2> DyAyet+tatra sTiro* BUtvA !mahA+-mANikya+maNxapam !!6.6!
+   <6.7/1> tan+madhye tu smared* yogī !paryaṅkaṃ* su+mano+haram !	<6.7/1> tan+-maDye tu smared* yogI !paryaFkan* su+mano+-haram !
+   <6.7/2> tatra*iṣṭa+devatāṃ* dhyāyed* !yad+dhyānaṃ* guru+bhāṣitam !!6.7!	<6.7/2> tatra-*izwa+-devatAM* DyAyed* !yat-+DyAnaM* guru+BAzitam !!6.7!
+   <6.8/1> yasya devasya yad* rūpaṃ* !yathā bhūṣaṇa+vāhanam !	<6.8/1> yasya devasya yad* rUpaM* !yaTA BUzaNa+vAhanam !
+   <6.8/2> tad* rūpaṃ* dhyāyate nityaṃ* !sthūla+dhyānam idaṃ* viduḥ !!6.8!	<6.8/2> tad* rUpaM* DyAyate nityan* !sTUla+DyAnam idaM* viduH !!6.8!
+   <6.9/1> sahasra+ara+mahāpadme !karṇikāyāṃ* vicintayet !	<6.9/1> sahasra-+ara+-mahApadme !karNikAyAM* vicintayet !
+   <6.9/2> vilagna+sahitaṃ* padmaṃ* !dvā+daśair* dala+saṃyutam !!6.9!	<6.9/2> vilagna+-sahitaM* padman* !dvA+daSEH-* dala+-saMyutam !!6.9!
+   <6.10/1> śubhra+varṇaṃ* mahā+tejo* !dvā+daśair* bīja+bhāṣitam !	<6.10/1> SuBra+-varNaM* mahA+-tejo* !dvA+daSEr* bIja+-BAzitam !
+   <6.10/2> sa+ha+kṣa+ma+va+la+ri+yuṃ* !haṃ+sa+śa+ktiṃ* yathā+kramam !!6.10!	<6.10/2> sa+ha+kza+ma+va+la-+ri+-yuM* !haM+sa+-Sa+ktiM* yaTA+kramam !!6.10!
+   <6.11/1> tan+madhye karṇikāyāṃ* tu !a+ka+tha+ādi+rekhā+trayam !	<6.11/1> tan+-maDye karNikAyAn* tu !a+ka+Ta+Adi-+reKA+-trayam !
+   <6.11/2> ha+la+kṣa+koṇa+saṃyuktaṃ* !praṇavaṃ* tatra vartate !!6.11!	<6.11/2> ha+la+kza+koNa+-saMyuktan* !praNavan* tatra vartate !!6.11!
+   <6.12/1> nāda+bindumayaṃ* pīṭhaṃ* !dhyāyet tatra mano+haram !	<6.12/1> nAda+-bindu-mayan* pIWan* !DyAyet tatra mano+haram !
+   <6.12/2> tatra+upari haṃ+sa+yugmaṃ* !pādukā tatra vartate !!6.12!	<6.12/2> tatra+upari haM+sa+-yugmaM* !pAdukA tatra vartate !!6.12!
+   <6.13/1> dhyāyettatra guruṃ* devaṃ* !vi+bhujaṃ* ca tri+locanam !	<6.13/1> DyAyet-tatra guruM* devaM* !vi+BujaM* ca tri+locanam !
+   <6.13/2> śveta+ambara+dharaṃ* devaṃ* !śukla+gandha+anulepanam !!6.13!	<6.13/2> Sveta-+ambara+DaraM* devan* !Sukla+-ganDa+anulepanam !!6.13!
+   <6.14/1> śukla+puṣpamayaṃ* mālyaṃ* !rakta+śakti+samanvitam !	<6.14/1> Sukla+-puzpa-mayan mAlyan* !rakta+-Sakti+-samanvitam !
+   <6.14/2> evaṃ+vidha+guru+dhyānāt !sthūla+dhyānaṃ* prasidhyati !!6.14!	<6.14/2> evaM+viDa+-guru+-DyAnAt !sTUla+DyAnaM* prasiDyati !!6.14!
+   <6.15/1> kathitaṃ* sthūla+dhyānaṃ* tu !tejo+dhyānaṃ* śṛṇuṣva me !	<6.15/1> kaTitan* sTUla+DyAnaM* tu !tejaH-+DyAnaM* SRNuzva me !
+   <6.15/2> yad+dhyānena yoga+siddhir* !ātma+praty+akṣam eva ca !	<6.15/2> yat-+DyAnena yoga+-sidDir* !Atma+-praty+akzam eva ca !
+   <6.15/3> mūla+ādhāre kuṇḍalinī !bhuja+ga+ākāra+rūpiṇī !!6.15!	<6.15/3> mUla+ADAre kuNxalinI !Buja+-ga+a-AkAra+-rUpiNI !!6.15!
+   <6.16/1> jīva+ātmā tiṣṭhati tatra !pradīpa+kalikā+ākṛtiḥ !	<6.16/1> jIva+AtmA tizWati tatra !pradIpa+kalikA+-a-AkRtiH !
+   <6.16/2> dhyāyet tejomayaṃ* brahma !tejo+dhyānaṃ* tad* eva hi !!6.16!	<6.16/2> DyAyet tejaH-mayaM* brahma !tejaH-+DyAnaM* tad* eva hi !!6.16!
+   <6.17/1> nābhi+mūle sthitaṃ* sūrya+ !+maṇḍalaṃ* vahni+saṃyutam !	<6.17/1> nABi+mUle sTitaM* sUrya+ !+maNxalaM* vahni+-saMyutam !
+   <6.17/2> dhyāyet tejo* mahad* vyāptaṃ* !tejo+dhyānaṃ* tad* eva hi !!6.17!	<6.17/2> DyAyet tejo* mahad* vyAptaM* !tejaH-+DyAnaM* tad* eva hi !!6.17!
+   <6.18/1> bhruvor* madhye mana+ūrdhve ca !yat tejaḥ praṇava+ātmakam !	<6.18/1> Bruvor* maDye mana+-UrDve ca !yat tejaH praNava+Atmakam !
+   <6.18/2> dhyāyej* jvāla+avalī+yuktaṃ* !tejo+dhyānaṃ* tad* eva hi !!6.18!	<6.18/2> DyAyej* jvAla+avalI+-yuktan* !tejaH-+DyAnaM* tad* eva hi !!6.18!
+   <6.19/1> tejo+dhyānaṃ* śrutaṃ* caṇḍa !sūkṣma+dhyānaṃ* vadāmy* aham !	<6.19/1> tejaH-+DyAnaM* SrutaM* caNxaH !sUkzma+DyAnaM* vadAmy* aham !
+   <6.19/2> bahu+bhāgya+vaśād* yasya !kuṇḍalī jāgratī bhavet !!6.19!	<6.19/2> bahu+BAgya+-vaSAd* yasya !kuNxalI jAgratI Bavet !!6.19!
+   <6.20/1> ātmanā saha yogena !netra+randhrād* vinirgatā !	<6.20/1> AtmanA saha yogena !netra+ranDrAd* vinirgatAH !
+   <6.20/2> vihared* rāja+mārge ca !cañcalatvān* na dṛśyate !!6.20!	<6.20/2> vihared* rAja+-mArge ca !caQcala-tvAn* na dRSyate !!6.20!
+   <6.21/1> śāṃbhavī+mudrayā yogī !dhyāna+yogena sidhyati !	<6.21/1> SAMBavI+-mudrayA yogI !DyAna-+-yogena siDyati !
+   <6.21/2> sūkṣma+dhyānam idaṃ* gopyaṃ* !devānām api dur+labham !!6.21!	<6.21/2> sUkzma+DyAnam idan* gopyan* !devAnAm api dur+laBam !!6.21!
+   <6.22/1> sthūla+dhyānāc* *chata+guṇaṃ* !tejo+dhyānaṃ* pracakṣate !	<6.22/1> sTUla+DyAnAc* *Sata+guNan* !tejaH-+DyAnan* pracakzate !
+   <6.22/2> tejo+dhyānāl* lakṣa+guṇaṃ* !sūkṣma+dhyānaṃ* parāt+param !!6.22!	<6.22/2> tejaH-+DyAnAl* lakza+-guNan* !sUkzma+DyAnaM* parAt+-param !!6.22!
+   <6.23/1> iti te kathitaṃ* caṇḍa !dhyāna+yogaṃ* su+dur+labham !	<6.23/1> iti te kaTitaM* caNxaH !DyAna-+-yogan* su+duH-+laBam !
+   <6.23/2> ātmā sa+akṣād* bhaved* yasmāt !tasmād* dhyānaṃ* viśiṣyate !!6.23!	<6.23/2> AtmA sa-+akzAd* Bavet-* yasmAt !tasmAd* DyAnaM* viSizyate !!6.23!
+   <6.24/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<6.24/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghata+stha+yoge sapta+sādhane	Gata+sTa+-yoge sapta+-sADane
+   dhyāna+yogo* nāma ṣaṣṭha+upadeśaḥ !!6! ]]	DyAna+yogo* nAma zazWa+upadeSaH !!6! ]]
+   <7.1/1> gheraṇḍa* uvāca:	<7.1/1> GeraNxa* uvAca:
+   <7.1/11> samādhiś* ca paraṃ* tattvaṃ* !bahu+bhāgyena labhyate !	<7.1/11> samADiS* ca paran* tattvan* !bahu+BAgyena laByate !
+   <7.1/2> guroḥ kṛpā+prasādena !prāpyate guru+bhaktitaḥ !!7.1!	<7.1/2> guroH kRpA+-prasAdena !prApyate guru+-BaktitaH !!7.1!
+   <7.2/1> vidyā+pratītiḥ sva+guru+pratītir* !	<7.2/1> vidyA+-pratItiH sva+guru+-pratItir* !
+   <7.2/2> ātma+pratītir* manasaḥ prabodhaḥ !	<7.2/2> Atma+-pratItir* manasaH praboDaH !
+   <7.2/3> dine dine yasya bhavet sa* yogī !	<7.2/3> dine dine yasya Bavet sa* yogI !
+   <7.2/4> su+śobhana+abhyāsam upaiti sadyaḥ !!7.2!	<7.2/4> su+SoBana+aByAsam upEti sadyas !!7.2!
+   <7.3/1> ghaṭād* bhinnaṃ* manaḥ kṛtvā !aikyaṃ* kuryāt para+ātmani !	<7.3/1> GawAd* BinnaM* manaH kRtvA !EkyaM* kuryAt para+Atmani !
+   <7.3/2> samādhiṃ* taṃ* vijānīyān* !mukta+saṃjño* daśā+ādibhiḥ !!7.3!	<7.3/2> samADiM* taM* vijAnIyAn* !mukta+-saMjQo* daSA+AdiBiH !!7.3!
+   <7.4/1> ahaṃ* brahma na ca*anyo* 'smi !brahma*eva*ahaṃ* na śoka+bhāk !	<7.4/1> ahaM* brahma na ca*anyo* asmi !brahma-*eva*ahan* na Soka+BAj !
+   <7.4/2> sac+cid+ānanda+rūpo* 'haṃ* !nitya+muktaḥ sva+bhāvavān !!7.4!	<7.4/2> sac+cit-+A-Ananda+-rUpo* ahaM* !nitya+-muktaH sva+BAvavAn !!7.4!
+   <7.5/1> śāṃbhavyā ca*eva khe+caryā !bhrāmaryā yoni+mudrayā !	<7.5/1> SAMBavyA ca*A-iva Ke+caryA !BrAmaryAH yoni+mudrayA !
+   <7.5/2> dhyānaṃ* nādaṃ* rasa+ānandaṃ* !laya+siddhiś* catur+vidhā !!7.5!	<7.5/2> DyAnaM* nAdaM* rasa+Anandan* !laya+-sidDiS* catur+viDAH !!7.5!
+   <7.6/1> pañcadhā bhakti+yogena !mano+mūrcchā ca ṣaḍ+vidhā !	<7.6/1> paQcaDA Bakti+yogena !mano+mUrcCA ca zax+viDAH !
+   <7.6/2> ṣaḍ+vidho* 'yaṃ* rāja+yogaḥ !praty+ekam avadhārayet !!7.6!	<7.6/2> zaz-+viDo* ayaM* rAja+-yogaH !praty+ekam avaDArayet !!7.6!
+   <7.7/1> śāṃbhavīṃ* mudrikāṃ* kṛtvā !ātma+praty+akṣam ānayet !	<7.7/1> SAMBavIM* mudrikAM* kRtvA !Atma+-praty+akzam Anayet !
+   <7.7/2> bindu brahmamayaṃ* dṛṣṭvā !manas* tatra niyojayet !!7.7!	<7.7/2> bindu brahma-mayan* dRzwvA !manas* tatra niyojayet !!7.7!
+   <7.8/1> kha+madhye kuru ca*ātmānam !ātma+madhye ca khaṃ* kuru !	<7.8/1> Ka+maDye kuru ca*a-AtmAnam !Atma+-maDye ca KaM* kuru !
+   <7.8/2> ātmānaṃ* khamayaṃ* dṛṣṭvā !na kiṃ+cid* api bādhyate !	<7.8/2> AtmAnaM* Ka-mayan* dRzwvA !na kiM+cid* api bADyate !
+   <7.8/3> sad+ānandamayo* bhūtvā !samādhi+stho* bhaven* naraḥ !!7.8!	<7.8/3> sad+Anandamayo* BUtvA !samADi+sTo* Baven* naraH !!7.8!
+   <7.9/1> khe+carī+mudrā+sādhanād* !rasanā* ūrdhva+gatā yadā !	<7.9/1> Ke+carI+-mudrA+-sADanAd* !rasanA* UrDva+-gatAH yadA !
+   <7.9/2> tadā samādhi+siddhiḥ syād* !*dhitvā sādhāraṇa+kriyām !!7.9!	<7.9/2> tadA samADi+sidDiH syAt-* !*DitvA sADAraNa+-kriyAm !!7.9!
+   <7.10/1> anilaṃ* manda+vegena !bhrāmarī+kumbhakaṃ* caret !	<7.10/1> anilaM* manda+vegena !BrAmarI+-kumBakaM* caret !
+   <7.10/2> mandaṃ* mandaṃ* recayed* vāyuṃ* !bhṛṅga+nādaṃ* tato* bhavet	<7.10/2> mandaM* mandaM* recayed* vAyuM* !BRFga+nAdan* tatas-* Bavet-
+   <7.11/1> antaḥ+sthaṃ* bhramarī+nādaṃ* !śrutvā tatra mano* nayet !	<7.11/1> antaH+-sTaM* BramarI+nAdan* !SrutvA tatra mano* nayet !
+   <7.11/2> samādhir* jāyate tatra !ānandaḥ so* 'ham ity* ataḥ !!7.11!	<7.11/2> samADir* jAyate tatra !a-AnandaH so* aham ity* atas !!7.11!
+   <7.12/1> yoni+mudrāṃ* samāsādya !svayaṃ* śaktimayo* bhavet !	<7.12/1> yoni+mudrAM* samAsAdya !svayan* Saktimayo* Bavet !
+   <7.12/2> su+śṛṅgāra+rasena*eva !viharet parama+ātmani !!7.12!	<7.12/2> su+SRFgAra+-rasena*eva !viharet parama+Atmani !!7.12!
+   <7.13/1> ānandamayaḥ saṃbhūtvā !aikyaṃ* brahmaṇi saṃbhavet !	<7.13/1> Ananda-mayaH saMBUtvA !Ekyan* brahmaNi saMBavet !
+   <7.13/2> ahaṃ* brahmeti ca*a+dvaitaṃ* !samādhis* tena jāyate !!7.13!	<7.13/2> ahaM* brahma-iti ca*a+-dvEtaM* !samADis* tena jAyate !!7.13!
+   <7.14/1> svakīya+hṛdaye dhyāyed* !iṣṭa+deva+sva+rūpakam !	<7.14/1> svakIya+-hRdaye DyAyed* !izwa+-deva+-sva+rUpakam !
+   <7.14/2> cintayed* bhakti+yogena !parama+āhlāda+pūrvakam !!7.14!	<7.14/2> cintayed* Bakti+yogena !parama+A-AhlAda+-pUrvakam !!7.14!
+   <7.15/1> ānanda+aśru+pulakena !daśā+a+bhāvaḥ prajāyate !	<7.15/1> Ananda-+aSru+-pulakena !da-SA+a+BAvaH prajAyate !
+   <7.15/2> samādhiḥ saṃbhavet tena !saṃbhavec* ca mana+unmanī !!7.15!	<7.15/2> samADiH saMBavet tena !saMBavec* ca mana+unmanI !!7.15!
+   <7.16/1> mano+mūrcchāṃ* samāsādya !mana* ātmani yojayet !	<7.16/1> mano+-mUrcCAM* samAsAdya !mana* Atmani yojayet !
+   <7.16/2> para+ātmanaḥ samāyogāt !samādhiṃ* samavāpnuyāt !!7.16!	<7.16/2> para+AtmanaH samAyogAt !samADiM* samavApnuyAt !!7.16!
+   <7.17/1> iti te kathitaṃ* caṇḍa !samādhir* mukti+lakṣaṇam !	<7.17/1> iti te kaTitaM* caNxaH !samADir* mukti+lakzaNam !
+   <7.17/2> rāja+yogaḥ samādhiḥ syād* !eka+ātmany* eva sādhanam !	<7.17/2> rAja+yogaH samADiH syAd* !eka+A-Atmany* eva sADanam !
+   <7.17/3> unmanī saha+ja+avasthā !sarve ca*eka+ātma+vācakāḥ !!7.17!	<7.17/3> unmanI saha+ja+avasTAH !sarve ca*eka+Atma+-vAcakAH !!7.17!
+   <7.18/1> jale viṣṇuḥ sthale viṣṇur* !viṣṇuḥ parvata+mastake !	<7.18/1> jale vizNuH sTale vizNur* !vizNuH parvata-+mastake !
+   <7.18/2> jvālā+māla+ākule viṣṇuḥ !sarvaṃ* viṣṇumayaṃ* jagat !!7.18!	<7.18/2> jvAlA+-mAla+a-Akule vizNuH !sarvan* vizNu-mayan* jagat !!7.18!
+   <7.19/1> bhū+carāḥ khe+carāś* ca*amī !yāvanto* jīva+jantavaḥ !	<7.19/1> BU+carAH Ke+cara-AS* ca*amI !yAvanto* jIva+jantavaH !
+   <7.19/2> vṛkṣa+gulma+latā+vallī+ !+tṛṇa+ādyā* vāri parvatāḥ !	<7.19/2> vRkza+gulma-+latA+-vallI+ !+tRNa+a-AdyA* vAri parvatAH !
+   <7.19/3> sarvaṃ* brahma vijānīyāt !sarvaṃ* paśyati ca*ātmani !!7.19!	<7.19/3> sarvan* brahma vijAnIyAt !sarvan* paSyati ca*a-Atmani !!7.19!
+   <7.20/1> ātmā ghata+stha+caitanyam !a+dvaitaṃ* śāśvataṃ* param !	<7.20/1> AtmA Gata+sTa+-cEtanyam !a+dvEtaM* SASvataM* param !
+   <7.20/2> ghaṭād* bhinnataraṃ* jñānaṃ* !vīta+rāgaṃ* vi+vāsanam !!7.20!	<7.20/2> GawAd* Binnataran* jQAnan* !vIta-+rAgaM* vi+vAsanam !!7.20!
+   <7.21/1> evaṃ+vidhiḥ samādhiḥ syāt !sarva+saṃkalpa+varjitaḥ !	<7.21/1> evaM+viDiH samADiH syAt !sarva+-saMkalpa+-varjitaH !
+   <7.21/2> sva+dehe putra+dāra+ādi+ !+bāndhaveṣu dhana+ādiṣu !	<7.21/2> sva+dehe putra+dAra-+Adi+ !+bAnDavezu Dana+a-Adizu !
+   <7.21/3> sarveṣu nir+mamo* bhūtvā !samādhiṃ* samavāpnuyāt !!7.21!	<7.21/3> sarvezu nir+mamo* BUtvA !samADiM* samavApnuyAt !!7.21!
+   <7.22/1> laya+a+mṛtaṃ* paraṃ* tattvaṃ* !śiva+uktaṃ* vi+vidhāni ca !	<7.22/1> laya+a+mRtaM* paran* tattvan* !Siva-+uktaM* vi+viDAni ca !
+   <7.22/2> teṣāṃ* saṃkṣepam ādāya !kathitaṃ* mukti+lakṣaṇam !!7.22!	<7.22/2> tezAn* saMkzepam AdAya !kaTitaM* mukti+lakzaNam !!7.22!
+   <7.23/1> iti te kathitaś* caṇḍa !samādhir* dur+labhaḥ paraḥ !	<7.23/1> iti te kaTitaS* caNxaH !samADir* dur+laBaH paraH !
+   <7.23/2> yaṃ* jñātvā na punar+janma !jāyate bhūmi+maṇḍale !!7.23!	<7.23/2> yan* jQAtvA na punar+janma !jAyate BUmi+-maNxale !!7.23!
+   <7.24/0> [[iti śrī+gheraṇḍa+saṃhitāyāṃ* gheraṇḍa+caṇḍa+saṃvāde	<7.24/0> [[iti SrI+GeraNxa+-saMhitAyAM* GeraNxa+caNxa+-saMvAde
+   ghata+stha+yoga+sādhane yogasya	Gata+sTa+-yoga+-sADane yogasya
+   sapta+sāre samādhi+yogo* nāma saptama+upadeśaḥ samāptaḥ !!7! ]]	sapta-+sAre samADi+yogo* nAma saptama-+upadeSaH samAptaH !!7! ]]

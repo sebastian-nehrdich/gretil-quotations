@@ -1,0 +1,830 @@
+   Vāhaṭa: Aṣṭāṅganighaṇṭu	VAhawa: Azwa-aFga-niGaNwu
+   sarvajñāya namaskṛtya dravyāṇāṃ gūḍhavācinām /	sarvajQAya namaskRtya dravyANAm gUXa-vAcinAm /
+   aṣṭāṅgasaṃgrahoktānāṃ nighaṇṭur abhidhīyate // VAnigh_1 //	azwAFga-saMgraha-uktAnAm niGaNwuH aBiDIyate // Va-aniG_1 //
+   vidārīpañcāṅgulavṛścikālī- vṛścīvadevāhvayaśūrpaparṇyaḥ /	vidArI-paQcAFgula-vRScikAlI vRScIvat-evAhvaya-SUrpaparNyaH /
+   kaṇḍūkarī jīvanāhvasvasaṃjñe dve pañcake gopasutā tripādī // VAnigh_2 //	kaNxUkarI jIvanAhva-su-a-saMjQe dve paQcake gopa-sutA tripAdI // Va-aniG_2 //
+   vidāryādir ayaṃ hṛdyo bṛṃhaṇo vātapittahā /	vidArI-AdiH ayam hRdyaH bRMhaNaH vAta-pitta-hA /
+   śoṣagulmāṅgamardordhva- śvāsakāsaharo gaṇaḥ // VAnigh_3 //	Soza-gulma-aFgamarda-UrDva SvAsa-kAsa-haraH gaNaH // Va-aniG_3 //
+   vidārī gajavājīṣṭā vṛṣagandhekṣugandhikā /	vidArI gaja-vAjIzwA vRzaganDA-ikzuganDikA /
+   śṛgālikā puṣpavallī śuklakandā palāśikā // VAnigh_4 //	SRgAlikA puzpavallI Sukla-kandA palASikAH // VAniG_4 //
+   kṣīrekṣuvallīgandhānyā kṣīraśuklā payasvinī /	kzIra-ikzuvallI-ganDA-anyA kzIraSuklA payasvinI /
+   vallīpalāśikā kṣīra- vidārī śreṣṭhakandakaḥ // VAnigh_5 //	vallI-palASikA kzIra vidArI SrezWakandakaH // VAniG_5 //
+   pañcāṅgulo vardhamānaś citro gandharvahastakaḥ /	paQcAFgulaH varDamAnaH citraH ganDarvahastakaH /
+   uruvūkas tathairaṇḍa āmaṇḍo vātanāśanaḥ // VAnigh_6 //	uruvUkaH taTA-eraNxaH AmaNxaH vAta-nASanaH // Va-aniG_6 //
+   raktairaṇḍo dvitīyas tu vyāghro vyāghratalopamaḥ /	raktEraNxaH dvitIyaH tu vyAGraH vyAGra-tala-upamaH /
+   nakrāhidaṃṣṭrikā kolī vṛścikāly uṣṭradhūmakaḥ // VAnigh_7 //	nakra-ahi-daMzwrikA kolI vRScikAlI uzwra-DUmakaH // VAniG_7 //
+   kāleyī dhūmrapattroṣṭrā viśalyā sarpadaṃṣṭrikā /	kAleyI DUmra-pattra-uzwrA viSalyA sarpa-daMzwrikA /
+   punarnavā varṣaketuḥ vṛścīvaḥ śvetamūlakaḥ // VAnigh_8 //	punarnavA varzaketuH vRScIvaH SvetamUlakaH // VAniG_8 //
+   varṣābhūḥ dīrghapattrā ca vikasas tu kaṭhillakaḥ /	varzABUH dIrGapattrA ca vikasaH tu kaWillakaH /
+   sunāḍiko raktapuṣpo viśākho maṇḍalacchadaḥ // VAnigh_9 //	sunAxikaH raktapuzpaH viSAKaH maNxala=-CadaH // Va-aniG_9 //
+   sahadevā mahāgandhā devagandhā balāhvayā /	sahadevAH mahAganDA devaganDA bala-AhvayA /
+   gāṅgerukī nāgabalā kharabandhā niśāhvayā // VAnigh_10 //	gAFgerukI nAgabalA KarabanDAH niSAhvayA // Va-aniG_10 //
+   viśvadevā jhaṣā kālā tathā cāśvagavedhukā /	viSvadevA JazA kAlA taTA ca-aSvagaveDukAH /
+   mudgaparṇī sahā sūpya- parṇī mārjāragandhikā // VAnigh_11 //	mudgaparNI sahA sUpya parNI mArjAraganDikA // Va-aniG_11 //
+   kākamudgā kṣudrarasā cāsrapittaharā sarā /	kAkamudgA kzudra-rasA ca-asrapitta-harA sarAH /
+   piśācī siṃhavinnā ca māṣaparṇī mahāsahā // VAnigh_12 //	piSAcI siMhavinnA ca mAzaparNI mahAsahAH // Va-aniG_12 //
+   markaṭī cātmaguptā ca kaṇḍūkṛt kapikacchurā /	markawI ca-AtmaguptA ca kaNxU-kRt kapikacCurA /
+   vṛṣyabījā galekaṇḍū- karī śārdulavigrahā // VAnigh_13 //	vRzya-bIjA galekaNxU karI SArdula-vigrahAH // Va-aniG_13 //
+   phaṇijihvāparṇy abhīruḥ pīvarīndīvarī varī /	PaNijihvA-aparNI aBIruH pIvarI-indIvarI varI /
+   sūkṣmapattrā dvīpiśatruḥ śatamūlī śatāvarī // VAnigh_14 //	sUkzmapattrA dvIpi-SatruH SatamUlI SatAvarI // Va-aniG_14 //
+   kākolī kavarī vīrā dhvāṅkṣolī kṣīraśuklikā /	kAkolI kavarI vIrA DvAFkzolI kzIraSuklikA /
+   jīvantī jīvanī jīvā śākaśreṣṭhā sumaṅgalā // VAnigh_15 //	jIvantI jIvanI jIvA SAkaSrezWA sumaFgalAH // Va-aniG_15 //
+   payasyā payasī poṭa- galā jñeyārkapuṣpikā /	payasyA payasI powa galA jQeya-arkapuzpikA /
+   jīvakaḥ kūrcanibhas tu vṛṣāṇī vṛṣabho vṛṣaḥ // VAnigh_16 //	jIvakaH kUrca-niBaH tu vRzANI vRzaBaH vRzaH // Va-aniG_16 //
+   pṛśniparṇī pṛthakparṇī dhāvanī kalaśī guhā /	pRSniparNI pRTakparNI DAvanI kalaSI guhA /
+   śṛgālavinnā lāṅgūlī sthirā kroṣṭukapucchikā // VAnigh_17 //	SRgAlavinnA lAFgUlI sTirA krozwukapucCikA // Va-aniG_17 //
+   vidārigandhāṃśumatī śālaparṇī sthirā dhruvā /	vidAriganDA-aMSumatI SAlaparNI sTirA DruvAH /
+   triparṇy atiguhā saumyā mahākṣī tanvikā matā // VAnigh_18 //	triparNI ati-guhA sOmyA mahAkzI tanvikA matAH // Va-aniG_18 //
+   vyāghrī nidigdhikā kṣudrā drāvaṇī kaṇṭakārikā /	vyAGrI nidigDikA kzudrA drAvaNI kaNwakArikAH /
+   siṃhā ca kṣudravārttākī bṛhatī bahuputrikā // VAnigh_19 //	siMhA ca kzudravArttAkI bRhatI bahuputrikAH // Va-aniG_19 //
+   vārttākī hiṅgulī siṃhī bhāṇṭākī duṣpradharṣiṇī /	vArttAkI hiFgulI siMhI BANwAkI duzpraDarziNI /
+   gokaṇṭako gokṣurakaḥ śvadaṃṣṭrā ca trikaṇṭakaḥ // VAnigh_20 //	gokaNwakaH gokzurakaH SvadaMzwrA ca trikaNwakaH // Va-aniG_20 //
+   kanyā gopī kṛṣṇavallī sārivā phāṇijihvikā /	kanyA gopI kRzNavallI sArivA PANi-jihvikA /
+   sugandhimūlā bhadrā ca sugandhā gopavally api // VAnigh_21 //	suganDimUlA BadrA ca suganDA gopavallI api // Va-aniG_21 //
+   haṃsapādī raktapādī tripādī kīṭamārikā /	haMsapAdI raktapAdI tripAdI kIwamArikA /
+   dhṛtarāṣṭrapadī caiva mṛtamandātiparṇikā // VAnigh_22 //	DRtarAzwra-padI ca-eva mRta-manda-atiparNikAH // Va-aniG_22 //
+   sārivośīrakāśmarya- madhūkaśiśiradvayam /	sArivA-uSIra-kASmarya maDUka-SiSira-dvayam /
+   yaṣṭī paruṣakaṃ hanti dāhapittāsratṛḍjvarān // VAnigh_23 //	yazwI paruzakam hanti dAha-pittAsra-tRz-jvarAn // Va-aniG_23 //
+   sārivādigaṇaṃ vakṣye purā proktā tu sārivā /	sArivAdi-gaNam vakzye purA proktA tu sArivA /
+   vīraṇyābhayalāmajja- kośīram amṛṇālakam // VAnigh_24 //	vIraNi-ABaya-lAmajja koSIram amRNAlakam // Va-aniG_24 //
+   vīraṃ vīraṇamūlaṃ ca bahumūlaṃ raṇapriyā /	vIram vIraNa-mUlam ca bahu-mUlam raNa-priyA /
+   kāśmaryabhīruḥ śrīparṇī kāśmaryaṃ kaṭphalaṃ tathā // VAnigh_25 //	kASmarI-a-BIruH SrIparNI kASmaryam kawPalam taTA // Va-aniG_25 //
+   ḍolāphalas tīkṣṇasāro madhūko guḍapuṣpakaḥ /	xolAPalaH tIkzNasAraH maDUkaH guxapuzpakaH /
+   madhupuṣpo lodhrapuṣpo vānaprastho madhudrumaḥ // VAnigh_26 //	maDupuzpaH loDrapuzpaH vAnaprasTaH maDudrumaH // Va-aniG_26 //
+   jñeyo madhūlasaṃjño 'pi madhūko vārisaṃsthitaḥ /	jQeyaH maDUla-saMjQaH api maDUkaH vAri-saMsTitaH /
+   chade hrasvas tailapuṣpas tulyas tu rasavīryataḥ // VAnigh_27 //	Cade hrasvaH tElapuzpaH tulyaH tu rasa-vIryataH // Va-aniG_27 //
+   bhadraśriyaṃ malayajaṃ gośīrṣaṃ śvetacandanam /	BadraSriyam malayajam goSIrzam Svetacandanam /
+   kucandanaṃ tāmravarṇaṃ lohitaṃ raktacandanam // VAnigh_28 //	kucandanam tAmra-varNam lohitam raktacandanam // Va-aniG_28 //
+   yaṣṭī madhukayaṣṭyāhvā madhukaṃ klītakāhvayam /	yazwI maDuka-yazwyAhvA maDukam klItaka-Ahvayam /
+   paruṣako mṛduphalo roṣajo dhanvanacchadaḥ // VAnigh_29 //	paruzakaH mRduPalaH roza-jaH DanvanacCadaH // Va-aniG_29 //
+   kṛṣṇāgranthikakākamācicavikāviśvauṣadhājājibhiḥ	kRzNA-granTika-kAka-mAci-cavikA-viSva-OzaDa-ajAjiBiH
+   pāṭhārāmaṭhareṇukāgajakaṇāsiddhārthacitroṣaṇaiḥ /	pAWA-rAmaWa-reNu-kA-gaja-kaNA-sidDArTa-citra-UzaNEH /
+   spṛkkā jātyajamodahiṅgutruṭibhiḥ bhārṅgīvilaṅgānvitaiḥ ebhir viṃśatibhiḥ	spRkkA jAti-ajamoda-hiFgu-truwiBiH BArFgI-vilaFga-anvitEH eBiH viMSatiBiH
+   kaphāmayaharaḥ kṛṣṇādiko 'yaṃ gaṇaḥ // VAnigh_30 //	kaPa-Amaya-haraH kRzNa-AdikaH ayam gaNaH // Va-aniG_30 //
+   pippalī māgadhī kṛṣṇā vaidehī capalā kaṇā /	pippalI mAgaDI kRzNA vEdehI capalA kaNA /
+   upakulyā kaulanāmā śauṇḍī syāt tīkṣṇataṇḍulā // VAnigh_31 //	upakulyA kOlanAmA SONxI syAt tIkzNa-taNxulAH // Va-aniG_31 //
+   kākamācī gucchaphalā svaryā maricikā phalā /	kAkamAcI gucCaPalA svaryA maricikA PalAH /
+   kākolī cavikā cavyaṃ granthilā kolavallikā // VAnigh_32 //	kAkolI cavikA cavyam granTilA kolavallikA // Va-aniG_32 //
+   śuṇṭhī mahauṣadhaṃ viśvaṃ nāgaraṃ viśvabheṣajam /	SuNWI mahOzaDam viSvam nAgaram viSvaBezajam /
+   ajājī jīrakaṃ mātā medhyaṃ syād auttarāpatham // VAnigh_33 //	ajAjI jIrakam mAtA meDyam syAt OttarApaTam // Va-aniG_33 //
+   kṛṣṇajīreti kākolī kālikodgāraśodhanī /	kRzNajIrA-iti kAkolI kAlikA-udgAra-SoDanI /
+   jīraṇā kārabhī yoni- śūlaghnī copakuñcikā // VAnigh_34 //	jIraNA kAraBI yoni SUla-GnI ca-upakuQcikAH // Va-aniG_34 //
+   mālavī triśirā pāṭhā prācīnā vṛttaparṇikā /	mAlavI triSirA pAWA prAcInA vRttaparNikA /
+   ambaṣṭhā sthāpanī vīrā bodhakī ca kucelikā // VAnigh_35 //	ambazWA sTApanI vIrA boDakI ca kucelikA // Va-aniG_35 //
+   jantughnaṃ jaraṇaṃ hiṅgu bhūtaghnaṃ vastihiṃsakaḥ /	jantu-Gnam jaraNam hiFgu BUta-Gnam vasti-hiMsakaH /
+   kapilā reṇukā kauntī rājaputrī hareṇukā // VAnigh_36 //	kapilA reNukA kOntI rAja-putrI hareNukA // Va-aniG_36 //
+   śreyasī syād gajakaṇā- kṛtrimācavikāphalā /	SreyasI syAt gaja-kaNA kRtrima-AcavikA-PalAH /
+   āsurī sarṣapo rājī nāsāsaṃvedanaḥ kaṭuḥ // VAnigh_37 //	AsurI sarzapaH rAjI nAsA-saMvedanaH kawuH // Va-aniG_37 //
+   siddhārthako bhūtanāśo rakṣoghnaḥ śvetasarṣapaḥ /	sidDArTakaH BUtanASaH rakzaH-GnaH SvetasarzapaH /
+   tilā kaṭvī matsyapittā kaṭukā śakulādanī // VAnigh_38 //	tilA kawvI matsyapittA kawukA SakulAdanI // Va-aniG_38 //
+   vallījaṃ yavaneṣṭaṃ syān maricaṃ tīkṣṇam ūṣaṇam /	vallIjam yavanezwam syAt maricam tIkzNam UzaNam /
+   spṛkkā spṛk brāhmaṇī devī piśunā ca latā satī // VAnigh_39 //	spRkkA spRS brAhmaNI devI piSunA ca latA satI // Va-aniG_39 //
+   jātīphalaṃ majjasāraṃ jātī madanaśauṇḍikau /	jAtIPalam majja-sAram jAtI madana-SONxikO /
+   ajamodā kharāhvā ca bastamodā ca markaṭī // VAnigh_40 //	ajamodA KarAhvA ca bastamodA ca markawI // Va-aniG_40 //
+   elā tu drāviḍī tutthā sūkṣmailā bahulā truṭiḥ /	elA tu drAvixI tutTA sUkzmElA bahulA truwiH /
+   bhārṅgī gardabhaśākaṃ ca padmā brāhmaṇayaṣṭikā // VAnigh_41 //	BArFgI gardaBa-SAkam ca padmA brAhmaNa-yazwikAH // Va-aniG_41 //
+   padmakapuṇḍrau vṛddhitugarddhayaḥ śṛṅgy amṛtā daśa jīvanasaṃjñāḥ /*	padmaka-puNxrO vRdDi-tuga-RdDayaH SRFgI amRtAH daSa jIvana-saMjQAH /*
+   stanyakarā ghnantīraṇapittaṃ prīṇanajīvanabṛṃhaṇavṛṣyāḥ // VAnigh_42 //*	stanya-karAH Gnanti-IraNa-pittam prINana-jIvana-bRMhaNa-vRzyAH // Va-aniG_42 //*
+   padmakādigaṇaṃ vakṣye hemapadmaṃ tu padmakam /	padmaka-Adi-gaNam vakzye hema-padmam tu padmakam /
+   prapauṇḍarīkaṃ śrīpuṣpaṃ puṇḍrāhvaṃ mūlasādhanam // VAnigh_43 //	prapONxarIkam SrIpuzpam puNxra-Ahvam mUla-sADanam // Va-aniG_43 //
+   vṛddhis tu śrāvaṇī puṣṭiḥ mahāvṛddhiḥ parocyate /	vRdDiH tu SrAvaNI puzwiH mahAvRdDiH para-ucyate /
+   tavakṣīrī tuṣā śubhrā vaṃśākhyā vaṃśarocanā // VAnigh_44 //	tavakzIrI tuzA SuBrA vaMSa-AKyA vaMSa-rocanA // Va-aniG_44 //
+   śṛṅgī smṛtā mahāghoṣā jñeyā karkaṭaśṛṅgikā /	SRFgI smRtA mahA-GozA jQeyA karkawaSRFgikAH /
+   guḍūcī kuṇḍalī chinna- ruhā kāṇḍodbhavāmṛtā // VAnigh_45 //	guxUcI kuNxalI Cinna ruhA kANxa-udBava-amRtA // Va-aniG_45 //
+   madhuparṇī vayaḥsthā ca maṇḍalī tantrikā smṛtā /	maDuparNI vayaHsTA ca maNxalI tantrikA smRtA /
+   śalyaparṇī maṇicchidrā medā medaḥsamudbhavā // VAnigh_46 //	SalyaparNI maNi=-CidrA medAH medaH-samudBavAH // Va-aniG_46 //
+   mahāmedā vṛkṣaruhā mahāpuruṣadantikā /	mahAmedA vRkzaruhA mahApuruza-dantikA /
+   daśānāṃ jīvanīyānāṃ saṃjñā tu parikīrtitā // VAnigh_47 //	daSAnAm jIvanIyAnAm saMjQA tu parikIrtitAH // Va-aniG_47 //
+   paruṣakaṃ varā drākṣā kaṭphalaṃ katakāt phalāt /	paruzakam varA drAkzA kawPalam katakAt PalAt /
+   rājāhvaṃ dāḍimaṃ śākaṃ tṛṇmūtrāmayavātajit // VAnigh_48 //	rAjAhvam dAximam SAkam tRz-mUtra-Amaya-vAta-jit // Va-aniG_48 //
+   paruṣādigaṇaṃ vakṣye purā proktaṃ paruṣakam /	paruza-Adi-gaNam vakzye purA proktam paruzakam /
+   varottamā ca triphalā śreṣṭhā cāpi phalatrayam // VAnigh_49 //	vara-uttamA ca triPalA SrezWA ca-api Palatrayam // Va-aniG_49 //
+   prāṇadā pūtanāmoghā harītaky abhayā jayā /	prANa-dA pUtanA-amoGA harItakI aBayA jayA /
+   pathyāmṛtā haimavatī kāyasthā rohiṇī smṛtā // VAnigh_50 //	paTyA-amRtA hEmavatI kAyasTA rohiNI smRtAH // Va-aniG_50 //
+   akṣaḥ kaliḥ karṣaphalo vindhyajāto vibhītakaḥ /	akzaH kaliH karzaPalaH vinDya-jAtaH viBItakaH /
+   koraṅgako mṛduphalo dhātrī cāmalakī śivā // VAnigh_51 //	koraFgakaH mRduPalaH DAtrI ca-AmalakI SivAH // Va-aniG_51 //
+   rohiṇī khaṭvalā proktā drākṣā mṛduphalā tathā /	rohiNI KawvalA proktA drAkzA mRduPalA taTA /
+   mṛdvīkā tūttamaphalā gostanī cauttarāpathā // VAnigh_52 //	mRdvIkA tu-uttamaPalA gostanI ca-OttarApaTAH // Va-aniG_52 //
+   hemavalko mahāvalko bhadravṛkṣaś ca kīrtitaḥ /	hemavalkaH mahAvalkaH BadravRkzaH ca kIrtitaH /
+   katakasya phalaṃ kātyaṃ jñeyaṃ vāriprasādanam // VAnigh_53 //	katakasya Palam kAtyam jQeyam vAri-prasAdanam // Va-aniG_53 //
+   rājādanaṃ kṣīraśuklaṃ rājāhvaṃ vānarapriyam /	rAjAdanam kzIraSuklam rAjAhvam vAnara-priyam /
+   śukeṣṭaṃ dāḍimaṃ caiva raktabījaphalāhvayam // VAnigh_54 //	Sukezwam dAximam ca-eva rakta-bIja-Pala-Ahvayam // Va-aniG_54 //
+   svādvamlaṃ rocanaṃ caiva dvitīyam amladāḍimam /	svAdu-amlam rocanam ca-eva dvitIyam amla-dAximam /
+   bṛhacchadas tathā śāko varadāruḥ kharacchadaḥ // VAnigh_55 //	bRhacCadaH taTA SAkaH varadAruH KaracCadaH // Va-aniG_55 //
+   añjanaṃ phalinī māṃsī padmotpalarasāñjanam /	aQjanam PalinI mAMsI padma-utpala-rasAQjanam /
+   sailāmadhukanāgāhvaṃ viṣāntardāhapittanut // VAnigh_56 //	sA-elA-maDuka-nAgAhvam viza-antardAha-pitta-nud // Va-aniG_56 //
+   smṛtaṃ srotoñjanaṃ vīram añjanaṃ yāmunaṃ tathā /	smRtam srotoQjanam vIram aQjanam yAmunam taTA /
+   srotodbhavam atho nādyaṃ sauvīraṃ netrabhūṣaṇam // VAnigh_57 //	srotodBavam aTo na-Adyam sOvIram netra-BUzaNam // Va-aniG_57 //
+   phalinī kolagirikā śyāmā kāntā priyaṅgukā /	PalinI kolagirikA SyAmA kAntA priyaFgukAH /
+   piśācī naladaṃ māṃsī jaṭilā bhūtakeśinī // VAnigh_58 //	piSAcI naladam mAMsI jawilA BUtakeSinI // Va-aniG_58 //
+   nalinaṃ puṣkaraṃ padmam aravindaṃ kuśeśayam /	nalinam puzkaram padmam aravindam kuSeSayam /
+   paṅkeruhaṃ tāmarasaṃ sārasaṃ sarasīruham // VAnigh_59 //	paFkeruham tAmarasam sArasam sarasIruham // Va-aniG_59 //
+   bisaprasūnarājīva- jalajāmbhoruhāṇi ca /	bisa-prasUna-rAjI-iva jalaja-amBoruhANi ca /
+   indīvaraṃ kuvalayaṃ nīlaṃ nīlotpalaṃ tathā // VAnigh_60 //	indIvaram kuvalayam nIlam nIlotpalam taTA // Va-aniG_60 //
+   saugandhikaṃ tu kalhāraṃ raktotpalasugandhike /	sOganDikam tu kalhAram rakta-utpala-suganDike /
+   dravāhvam amṛtāsaṅga- kṛtaṃ tārkṣyo rasāñjanam // VAnigh_61 //	dravAhvam amRta-AsaFga kRtam tArkzyaH rasAQjanam // Va-aniG_61 //
+   elā tu drāviḍī proktā bahulā truṭisaṃjñakā /	elA tu drAvixI proktA bahulA truwi-saMjQakAH /
+   hemapuṣpaṃ tu nāgāhvaṃ kesaraṃ nāgakesaram // VAnigh_62 //	hemapuzpam tu nAgAhvam kesaram nAgakesaram // Va-aniG_62 //
+   paṭolakaṭurohiṇīcandanaṃ madhusravaguḍūcīpāṭhānvitam /	pawola-kawurohiNI-candanam maDusrava-guxUcI-pAWA-anvitam /
+   nihanti kaphapittakuṣṭhajvarān viṣaṃ vamim arocakaṃ kāmalām // VAnigh_63	nihanti kaPa-pitta-kuzWa-jvarAn vizam vamim arocakam kAmalAm // Va-aniG_63
+   paṭolādis tu rājīmat kulakaṃ ca paṭolakam /	pawola-AdiH tu rAjImat kulakam ca pawolakam /
+   kharacchadaḥ pāṇḍuphalo rājamānyo 'mṛtāphalaḥ // VAnigh_64 //	KaracCadaH pANxuPalaH rAjamAnyaH amRtAPalaH // Va-aniG_64 //
+   pīluparṇī madhurasā mūrvā cātirasā smṛtā /	pIluparNI maDurasA mUrvA ca-ati-rasA smRtA /
+   madhusravā pīlupattrā moraṭī kṣīramoraṭam // VAnigh_65 //	maDusravA pIlupattrA morawI kzIra-morawam // Va-aniG_65 //
+   guḍūcīpadmakāriṣṭa- dhānakāraktacandanam /	guxUcI-padmaka-arizwa DAnakA-raktacandanam /
+   pittaśleṣmajvaracchardi- dāhatṛṣṇāghnam agnikṛt // VAnigh_66 //	pitta-Slezma-jvara=-Cardi dAha-tRzNA-Gnam agni-kRt // Va-aniG_66 //
+   nimbo 'riṣṭo guḍūcyādau picumāndaḥ śukapriyaḥ /	nimbaH arizwaH guxUcI-AdO picumAndaH SukapriyaH /
+   dhānyā kustumburuḥ dhānyaṃ dhanikā dhānyakaṃ tathā // VAnigh_67 //	DAnyA kustumburuH DAnyam DanikA DAnyakam taTA // Va-aniG_67 //
+   āragvadhendrayavapāṭalikākatiktā- nimbāmṛtāmadhurasāsruvavṛkṣapāṭhāḥ /	AragvaDa-indrayava-pAwali-kAka-tiktA nimba-amRtA-maDu-rasa-asruva-vRkza-pAWAH /
+   bhūnimbasairyakapaṭolakarañjayugma- saptacchadāgnisuṣavīphalabāṇaghoṇṭāḥ	BUnimba-sEryaka-pawola-karaQja-yugma saptacCada-agni-suzavI-Pala-bANa-GoNwAH
+   // VAnigh_68 //	// Va-aniG_68 //
+   āragvadhādir jayati chardikuṣṭhaviṣajvarān /	AragvaDAdiH jayati Cardi-kuzWa-viza-jvarAn /
+   kaphaṃ kaṇḍūṃ pramehaṃ ca duṣṭavraṇaviśodhanaḥ // VAnigh_69 //	kaPam kaNxUm prameham ca duzwavraNa-viSoDanaH // Va-aniG_69 //
+   āragvadho rājavṛkṣaḥ śamyākaś caturaṅgulaḥ /	AragvaDaH rAjavRkzaH SamyAkaH catur-aFgulaH /
+   ārevato vyādhighātaḥ pragrahaḥ kṛtamālakaḥ // VAnigh_70 //	ArevataH vyADiGAtaH pragrahaH kRtamAlakaH // Va-aniG_70 //
+   kaliṅgakas tv indrayavo vatsakaḥ kauṭajaṃ phalam /	kaliFgakaH tu indrayavaH vatsakaH kOwajam Palam /
+   pāṭalī dīrghavṛttā ca sthalyāmoghāmbuvāsinī // VAnigh_71 //	pAwalI dIrGavRttA ca sTalyA-amoGa-ambu-vAsinI // Va-aniG_71 //
+   vṛttatuṇḍā kākatiktā śārṅgeṣṭāṅgāravallikā /	vRttatuNxA kAkatiktA SArFgezwA-aFgAravallikA /
+   vyāghrapādaḥ sruvataruḥ svādukaṇṭo vikaṅkataḥ // VAnigh_72 //	vyAGrapAdaH sruvataruH svAdukaNwaH vikaFkataH // Va-aniG_72 //
+   kirātatikto bhūnimbaḥ kattṛṇaḥ kāṇḍatiktakaḥ /	kirAtatiktaH BUnimbaH kattRNaH kANxatiktakaH /
+   sairyakas tu sahacaraḥ saryako mṛdupuṣpakaḥ // VAnigh_73 //	sEryakaH tu sahacaraH saryakaH mRdupuzpakaH // Va-aniG_73 //
+   bāṇaḥ smṛto nīlapuṣpaḥ dhīraśauryakaghośvarāḥ /	bANaH smRtaH nIlapuzpaH DIra-SOryaka-GoSvarAH /
+   pūtikarañjaḥ kaiḍaryaḥ prakīryaś cirabilvakaḥ // VAnigh_74 //	pUtikaraQjaH kExaryaH prakIryaH cirabilvakaH // Va-aniG_74 //
+   udakīryo naktamālaḥ karañjo lājapuṣpakaḥ /	udakIryaH naktamAlaH karaQjaH lAjapuzpakaH /
+   saptacchado 'yugmapattraḥ saptāhvo gucchapuṣpakaḥ // VAnigh_75 //	saptacCadaH ayugmapattraH saptAhvaH gucCapuzpakaH // Va-aniG_75 //
+   citrako dvīpisaṃjñas tu vahniparyāyavācakaḥ /	citrakaH dvIpi-saMjQaH tu vahni-paryAya-vAcakaH /
+   raktacitras tathānyas tu mahāṅgaḥ kālamūlakaḥ // VAnigh_76 //	raktacitraH taTA-anyaH tu mahAFgaH kAlamUlakaH // Va-aniG_76 //
+   pānīyavallī suṣavī bṛhadvally utpalacchadā /	pAnIyavallI suzavI bRhadvallI utpalacCadAH /
+   gālo rāṭho 'tha madanaḥ piṇḍītaḥ karahāṭakaḥ // VAnigh_77 //	gAlaH rAWaH aTa madanaH piNxItaH karahAwakaH // Va-aniG_77 //
+   śalyakaiḍaryavṛkṣaḥ syāc chardanas tagaraḥ phalam /	Salya-kExaryavRkzaH syAt CardanaH tagaraH Palam /
+   ghoṇṭo muṇṭhagopaghoṇṭau padmakī markaṭāhvayā // VAnigh_78 //	GoNwaH muNWa-gopa-GoNwO padmakI markawAhvayA // Va-aniG_78 //
+   asanatiniśabhūrjaśvetavāhaprakīryā khadirakadarabhaṇḍīśiṃśapāmeṣaśṛṅgyaḥ /	asana-tiniSa-BUrja-SvetavAha-prakIryA Kadira-kadara-BaNxI-SiMSapA-mezaSRFgyaH /
+   trihimatalapalāśāḥ joṅgakaḥ śākaśālau	trihima-tala-palASAH joFgakaH SAka-SAlO
+   kramukadhavakaliṅgacchāgakarṇāśvakarṇāḥ // VAnigh_79 //	kramuka-Dava-kaliFga=-CAga-karNa-aSvakarNAH // Va-aniG_79 //
+   asanādir vijayate śvitrakuṣṭhakaphakrimīn /	asana-AdiH vijayate Svitra-kuzWa-kaPa-krimIn /
+   pāṇḍurogaṃ pramehaṃ ca medodoṣanibarhaṇaḥ // VAnigh_80 //	pANxu-rogam prameham ca medaH-doza-nibarhaNaH // Va-aniG_80 //
+   asanādau pītasāraḥ priyako bījako 'sanaḥ /	asana-AdO pItasAraH priyakaH bIjakaH asanaH /
+   syandanaḥ stimito nemiḥ rathadruḥ sarvasādhakaḥ // VAnigh_81 //	syandanaH stimitaH nemiH raTadruH sarva-sADakaH // Va-aniG_81 //
+   bhūrjo bhurjo bahupuṭo mṛdutvak cāsthiracchadaḥ /	BUrjaH BurjaH bahu-puwaH mRdu-tvac ca-asTiracCadaH /
+   pārtho 'rjunaḥ śvetavāhaḥ kakubhaḥ phālgunāhvayaḥ // VAnigh_82 //	pArTaH arjunaH SvetavAhaH kakuBaH PAlguna-AhvayaH // Va-aniG_82 //
+   gāyatrī khadiro gītā kuṣṭhaghno bālapattrakaḥ /	gAyatrI KadiraH gItA kuzWa-GnaH bAlapattrakaH /
+   kadaraḥ khadiraḥ sāraḥ koṭarī śyāmasārakaḥ // VAnigh_83 //	kadaraH KadiraH sAraH kowarI SyAmasArakaH // Va-aniG_83 //
+   bhaṇḍī śukadruḥ plavaṃgaḥ śirīṣo mṛdupuṣpakaḥ /	BaNxI SukadruH plavaMgaH SirIzaH mRdupuzpakaH /
+   kapilā śiṃśapā kṛṣṇa- sāro maṇḍalapattrakaḥ // VAnigh_84 //	kapilA SiMSapA kRzNa sAraH maNxalapattrakaH // Va-aniG_84 //
+   bastāntrī meṣaśṛṅgī ca cakṣuṣyā bahulāṅgikā /	bastAntrI mezaSRFgI ca cakzuzyA bahula-AFgikA /
+   kāleyakaṃ pītasāraṃ tṛtīyaṃ varṇakṛddhimam // VAnigh_85 //	kAleyakam pItasAram tRtIyam varNa-kRt-himam // Va-aniG_85 //
+   tāḍas tālo dīrghatarus tṛṇarājas tribījakaḥ /	tAxaH tAlaH dIrGataruH tRNarAjaH tribIjakaH /
+   palāśaḥ kiṃśuko vāta- rodho brahmataruḥ paṭuḥ // VAnigh_86 //	palASaH kiMSukaH vAta roDaH brahmataruH pawuH // Va-aniG_86 //
+   joṅgakaḥ śītaśamano lohanāmāgaruḥ smṛtaḥ /	joFgakaH SIta-SamanaH loha-nAmA-agaruH smRtaH /
+   sajahviḥ śrīkaraḥ śālo raso niryāsarālakau // VAnigh_87 //	sajahviH SrIkaraH SAlaH rasaH niryAsa-rAlakO // Va-aniG_87 //
+   dhavo dṛḍhatarur gauraḥ śakaṭākṣo marūdbhavaḥ /	DavaH dRXataruH gOraH SakawAkzaH marUdBavaH /
+   kramukaṃ kaivukaṃ pūgaṃ kaṣāyaṃ madhur āhvayam // VAnigh_88 //	kramukam kEvukam pUgam kazAyam maDuH Ahvayam // Va-aniG_88 //
+   śvetaghnaḥ śītaśamanaḥ bastakarṇo 'jakarṇakaḥ /	SvetaGnaH SIta-SamanaH basta-karNaH ajakarNakaH /
+   śasyasaṃvaraṇaḥ śūraḥ kuśikaś cāśvakarṇakaḥ // VAnigh_89 //	Sasya-saMvaraNaH SUraH kuSikaH ca-aSvakarNakaH // Va-aniG_89 //
+   varuṇasairyakayugmaśatāvarī- dahanamoraṭabilvaviṣāṇikāḥ /	varuNa-sEryaka-yugma-SatAvarI dahana-morawa-bilva-vizANikAH /
+   dvibṛhatīdvikarañjajayādvayaṃ bahalapallavadarbharujākarāḥ // VAnigh_90 //	dvi-bRhatI-dvi-karaQja-jayA-dvayam bahala-pallava-darBa-rujA-karAH // Va-aniG_90 //
+   varuṇādiḥ kaphaṃ medo mandāgnitvaṃ niyacchati /	varuNa-AdiH kaPam medaH manda-agni-tvam niyacCati /
+   āḍhyavātaṃ śiraḥśūlaṃ gulmaṃ cāntaḥ savidradhim // VAnigh_91 //	AXyavAtam SiraH-SUlam gulmam ca-antar sa-vidraDim // Va-aniG_91 //
+   varuṇādau śvetapuṣpo varuṇo varaṇaḥ smṛtaḥ /	varuNa-AdO SvetapuzpaH varuNaH varaNaH smRtaH /
+   śaṭālavṛkṣo bilvo 'strī pūtivāto mahāphalaḥ // VAnigh_92 //	SawAlavRkzaH bilvaH astrI pUtivAtaH mahA-PalaH // Va-aniG_92 //
+   mālūraḥ śrīphalaḥ śaivaḥ śāṇḍilyaḥ śrīnivāsakaḥ /	mAlUraH SrIPalaH SEvaH SANxilyaH SrInivAsakaH /
+   mahākālyajaśṛṅgī ca kūrcaparṇī viṣāṇikā // VAnigh_93 //	mahAkAlI-ajaSRFgI ca kUrcaparNI vizANikAH // Va-aniG_93 //
+   jayāgnimantho 'raṇikā takkārī vaijayantikā /	jaya-agnimanTaH araNikA takkArI vEjayantikA /
+   śigruḥ śobhāñjanas tīkṣṇa- gandho bahalapallavaḥ // VAnigh_94 //	SigruH SoBAQjanaH tIkzNa ganDaH bahala-pallavaH // Va-aniG_94 //
+   muraṅgī śigruko rakta- puṣpo madhuraśigrukaḥ /	muraFgI SigrukaH rakta puzpaH maDura-SigrukaH /
+   tṛtīyo madhuraḥ siṃśa- kesaro madhuśigrukaḥ // VAnigh_95 //	tRtIyaH maDuraH siMSa kesaraH maDuSigrukaH // Va-aniG_95 //
+   sitaṃ tīkṣṇaṃ śigrubījaṃ śvetāṅgaṃ maricāhvayam /	sitam tIkzNam Sigru-bIjam Sveta-aFgam marica-Ahvayam /
+   darbhaḥ kuśo lavaḥ sthūlaḥ sūkṣmo vedapavitrakaḥ // VAnigh_96 //	darBaH kuSaH lavaH sTUlaH sUkzmaH veda-pavitrakaH // Va-aniG_96 //
+   rujākaras tv ārtagalo huṃkāro bhīṣaṇāhvayaḥ /	rujAkaraH tu ArtagalaH huMkAraH BIzaNa-AhvayaH /
+   jālavṛkṣo duṣpradharṣaḥ svādutiktaphalaḥ smṛtaḥ // VAnigh_97 //	jAlavRkzaH duzpraDarzaH svAdu-tikta-PalaH smRtaH // Va-aniG_97 //
+   ūṣakas tutthakaṃ hiṅgu kāsīsadvayasaindhavam /	UzakaH tutTakam hiFgu kAsIsa-dvaya-sEnDavam /
+   saśilājatu kṛcchrāśma- gulmamedaḥkaphāpaham // VAnigh_98 //	sa-SilAjatu kRcCra-aSma gulma-medaH-kaPa-apaham // Va-aniG_98 //
+   ūṣakādau tu vṛṣako vūṣako rucakāhvayaḥ /	Uzaka-AdO tu vRzakaH vUzakaH rucaka-AhvayaH /
+   ūṣo niḥsārakaḥ siṃho mūtravṛddhikaraḥ smṛtaḥ // VAnigh_99 //	UzaH niHsArakaH siMhaH mUtra-vRdDi-karaH smRtaH // Va-aniG_99 //
+   kaṭhinaṃ tutthakaṃ dvedhā karparaṃ barhikaṇṭakam /	kaWinam tutTakam dveDA karparam barhikaNwakam /
+   jantughnaṃ jaraṇaṃ hiṅgu rāmaṭhaṃ bhūtanāśanam // VAnigh_100 //	jantu-Gnam jaraNam hiFgu rAmaWam BUta-nASanam // Va-aniG_100 //
+   kāsīsaṃ pāṃśudhāvākhyaṃ dvitīyaṃ puṣpasaṃjñakam /	kAsIsam pAMSuDAva-AKyam dvitIyam puzpa-saMjQakam /
+   saindhavaṃ māṇimanthaṃ ca nādeyaṃ lavaṇottamam // VAnigh_101 //	sEnDavam mANimanTam ca nAdeyam lavaNottamam // Va-aniG_101 //
+   śilājaṃ dhātujaṃ jñeyaṃ mandarotthaṃ śilājatu /	SilAjam DAtu-jam jQeyam mandara-utTam SilAjatu /
+   pārvataṃ śailaniryāsaḥ girijaṃ ca śilāhvayam // VAnigh_102 //	pArvatam SElaniryAsaH girijam ca SilAhvayam // Va-aniG_102 //
+   vellantarāraṇikabūkavṛṣāśmabheda- gokaṇṭakotkaṭasahācarabāṇakāśāḥ /	vellantara-AraNika-bUka-vRza-aSma-Beda gokaNwaka-utkawa-sahAcara-bANa-kASAH /
+   vṛkṣādanīnalakuśādvayaguṇṭhagundrā- bhallūkamoraṭakuraṇṭakarambhapārthāḥ	vRkzAdanI-nala-kuSA-dvaya-guNWa-gundrA BallUka-morawa-kuraNwa-ka-ramBa-pArTAH
+   // VAnigh_103 //	// Va-aniG_103 //
+   vargo vīratarādyo 'yaṃ hanti vātakṛtān gadān /	vargaH vIratarAdyaH ayam hanti vAta-kRtAn gadAn /
+   aśmarīśarkarāmūtra- kṛcchrāghātarujāharaḥ // VAnigh_104 //	aSmarI-SarkarA-mUtra kRcCra-AGAta-rujA-haraH // Va-aniG_104 //
+   vellantaro vīratarur gaṇe vīratarādike /	vellantaraH vIrataruH gaNe vIratarAdike /
+   vasukaḥ sthūlapuṣpaś ca bukaś ceśvaramallikā // VAnigh_105 //	vasukaH sTUlapuzpaH ca bukaH ca-ISvara-mallikA // Va-aniG_105 //
+   siṃhāsyaḥ karkaṭaś caiva vṛṣakaś cāṭarūṣakaḥ /	siMhAsyaH karkawaH ca-eva vRzakaH ca-AwarUzakaH /
+   veṇupatrī vṛṣā pārvī parvaṇī vaṃśapatrikā // VAnigh_106 //	veNupatrI vRzA pArvI parvaNI vaMSapatrikA // Va-aniG_106 //
+   aśmabhedī śilābhedī jñeyā pāṣāṇabhedikā /	aSmaBedI SilABedI jQeyA pAzANaBedikA /
+   utkaṭā sūkṣmapatrā ca dīrghalohitayaṣṭikā // VAnigh_107 //	utkawA sUkzma-patrA ca dIrGa-lohita-yazwikAH // Va-aniG_107 //
+   śarekṣukusumau bāṇaḥ sa kāṇḍekṣunibhāṅghrikaḥ /	Sara-ikzu-kusumO bANaH sa kANxa-ikzu-niBa-aFGrikaH /
+   śvetacāmarakaḥ kāśo gundrā syād gucchapuṣpikā // VAnigh_108 //	SvetacAmarakaH kASaH gundrA syAt gucCapuzpikAH // Va-aniG_108 //
+   vṛkṣādanī tu śikharo vandākaḥ kāmavṛkṣakaḥ /	vRkzAdanI tu SiKaraH vandAkaH kAmavRkzakaH /
+   mṛdupuṣpo 'tha suṣiro nadīstho nalako nalaḥ // VAnigh_109 //	mRdupuzpaH aTa suziraH nadI-sTaH nalakaH nalaH // Va-aniG_109 //
+   guṇṭho vṛttatṛṇaḥ śuṇṭhaḥ śṛṅgaverābhamūlakaḥ /	guNWaH vRttatRNaH SuNWaH SRFgavera-ABa-mUlakaH /
+   bhallūko bhūtavṛkṣaś ca śyonākaś caiva ṭuṇṭukaḥ // VAnigh_110 //	BallUkaH BUtavRkzaH ca SyonAkaH ca-eva wuNwukaH // Va-aniG_110 //
+   śrīhastinī kuraṭakā picukaḥ śitivārakaḥ /	SrI-hastinI kurawakA picukaH SitivArakaH /
+   kṛṣṇasūkṣmaphalā yukta- puṣpā mastakamañjarī // VAnigh_111 //	kRzNa-sUkzmaPalA yukta puzpA mastaka-maQjarI // Va-aniG_111 //
+   karambhaḥ karkaśo yugma- phalā cottamakanyakā /	karamBaH karkaSaH yugma PalA ca-uttama-kanyakA /
+   kapotavaṅkā varadā ravibhaktā suvarcalā // VAnigh_112 //	kapotavaFkA vara-dA ravi-BaktA suvarcalAH // Va-aniG_112 //
+   rodhraśābarakarodhrapalāśāḥ jiṅgiṇīsaralakaṭphalayuktāḥ /	roDra-SAbaraka-roDra-palASAH jiFgiNI-sarala-kawPala-yuktAH /
+   kutsitāmbakadalīgataśokāḥ sailavāluparipelavamocāḥ // VAnigh_113 //	kutsitAmba-kadalI-gata-SokAH sa-elavAlu-paripelava-mocAH // Va-aniG_113 //
+   eṣa rodhrādiko nāma medaḥkaphaharo gaṇaḥ /	eza roDra-AdikaH nAma medaH-kaPa-haraH gaNaH /
+   yonidoṣaharaḥ stambhī varṇyo viṣavināśanaḥ // VAnigh_114 //	yoni-doza-haraH stamBI varNyaH viza-vinASanaH // Va-aniG_114 //
+   lodhrādau tilvako lodhras tirīṭaḥ paṭṭikāhvayaḥ /	loDra-AdO tilvakaH loDraH tirIwaH pawwikA-AhvayaH /
+   dvitīyaḥ śābaraḥ śveto ghanatvak cākṣibheṣajaḥ // VAnigh_115 //	dvitIyaH SAbaraH SvetaH Gana-tvac ca-akzi-BezajaH // Va-aniG_115 //
+   jiṅgiṇī jhiṅgiṇī jñeyā mocakī guḍamañjarī /	jiFgiNI JiFgiNI jQeyA mocakI guxamaQjarI /
+   pūtikāṣṭhaṃ devavṛkṣaḥ saralo devadārukaḥ // VAnigh_116 //	pUtikAzWam devavRkzaH saralaH devadArukaH // Va-aniG_116 //
+   surakāṣṭhaṃ bhadradāruḥ devaparyāyavācakaḥ /	surakAzWam BadradAruH deva-paryAya-vAcakaH /
+   sugandhā suvahā rāsnā yuktāhvā gandhanākulī // VAnigh_117 //	suganDA suvahA rAsnA yuktA-AhvA ganDanAkulI // Va-aniG_117 //
+   surabhiś ca kadambaś ca kuñcitāṅgo haripriyaḥ /	suraBiH ca kadambaH ca kuQcita-aFgaH haripriyaH /
+   rambhā tu kadalī mocā vṛttapuṣpāṃśumatphalā // VAnigh_118 //	ramBA tu kadalI mocA vRtta-puzpa-aMSumat-PalAH // Va-aniG_118 //
+   aśoko vigataśokaḥ subhagas tāmrapallavaḥ /	aSokaH vigata-SokaH suBagaH tAmra-pallavaH /
+   elavālukam aileyaṃ bāleyaṃ harivālukam // VAnigh_119 //	elavAlukam Eleyam bAlA-iyam harivAlukam // Va-aniG_119 //
+   kuṭannaṭaṃ plavaṃgaṃ ca vitunnaṃ paripelavam /	kuwannawam plavaMgam ca vitunnam paripelavam /
+   surabhiḥ sallakī mocā mahārambhā gajapriyā // VAnigh_120 //	suraBiH sallakI mocA mahAramBAH gajapriyA // Va-aniG_120 //
+   arkālakau nāgadantī viśalyā bhārṅgī rāsnā vṛścikālī prakīryā /	arkAlakO nAgadantI viSalyA BArFgI rAsnA vRScikAlI prakIryA /
+   pratyakpuṣpī pītatailodakīryā śvetāyugmaṃ tāpasānāṃ ca vṛkṣaḥ //	pratyakpuzpI pIta-tElA-udakIryA SvetA-yugmam tApasAnAm ca vRkzaH //
+   VAnigh_121 //	VAniG_121 //
+   ayam arkādiko vargaḥ kaphamedoviṣāpahaḥ /	ayam arka-AdikaH vargaH kaPa-medaH-viza-apahaH /
+   kṛmikuṣṭhapraśamano viśeṣād vraṇaśodhanaḥ // VAnigh_122 //	kRmi-kuzWa-praSamanaH viSezAt vraNa-SoDanaH // Va-aniG_122 //
+   arkādau tu sadāpuṣpā sūryāhvārkas tu rūpikā /	arka-AdO tu sadApuzpA sUrya-Ahva-arkaH tu rUpikA /
+   mandāraḥ śvetakusumo 'larko vikaraṇaḥ smṛtaḥ // VAnigh_123 //	mandAraH SvetakusumaH alarkaH vikaraNaH smRtaH // Va-aniG_123 //
+   nāgadantī śvetaghaṇṭā nāginī pūrvapuṣpikā /	nAgadantI SvetaGaNwA nAginI pUrvapuzpikA /
+   viśalyā halinī vahmi- jihvā lāṅgalikā smṛtā // VAnigh_124 //	viSalyA halinI vahmi jihvA lAFgalikA smRtAH // Va-aniG_124 //
+   bhārṅgī phañjī ca pālindī dvijayaṣṭiḥ sugandhikā /	BArFgI PaQjI ca pAlindI dvijayazwiH suganDikA /
+   apāmārgaḥ śaikharikaḥ pratyakpuṣpī mayūrakaḥ // VAnigh_125 //	apAmArgaH SEKarikaH pratyakpuzpI mayUrakaH // Va-aniG_125 //
+   kākādanī pītatailā vegā kākāṇḍakī tathā /	kAkAdanI pItatElA vegA kAkANxakI taTA /
+   jyotiṣmatī pītatailā vegā kaṅguṇikā smṛtā // VAnigh_126 //	jyotizmatI pItatElA vegA kaFguNikA smRtAH // Va-aniG_126 //
+   śvetā sunābhiḥ kaṭabhī kiṇihī madhureṇukā /	SvetA sunABiH kawaBI kiNihI maDureNukA /
+   kaṭaṃbharā mahāśvetā kālindī kaṭabhī sitā // VAnigh_127 //	kawaMBarA mahASvetA kAlindI kawaBI sitA // Va-aniG_127 //
+   kumāryākhyā mahāśvetā vandhyā karkoṭakī tathā /	kumArI-AKyA mahASvetA vanDyA karkowakI taTA /
+   iṅgudas tiktamañjā ca pīlukas tāpasadrumaḥ // VAnigh_128 //	iFgudaH tiktamaQjA ca pIlukaH tApasa-drumaH // Va-aniG_128 //
+   surasayugaphaṇijjaṃ kālamālā viḍaṅgaṃ kharabusavṛṣakarṇī kaṭphalaṃ	surasa-yuga-PaNijjam kAlamAlA vixaFgam Kara-busa-vRzakarNI kawPalam
+   kāsamardaḥ /	kAsamardaH /
+   kṣavakasarasibhārṅgīkārmukāḥ kākamācī kulahalaviṣamuṣṭī bhūstṛṇo bhūtaveśī	kzavaka-sarasi-BArFgI-kArmukAH kAkamAcI kulahala-vizamuzwI BUstRNaH BUtaveSI
+   // VAnigh_129 //	// Va-aniG_129 //
+   surasādir gaṇaḥ śleṣma- medaḥkṛminiṣūdanaḥ /	surasAdiH gaNaH Slezma medaH-kRmi-nizUdanaH /
+   pratiśyāyāruciśvāsa- kāsaghno vraṇaśodhanaḥ // VAnigh_130 //	pratiSyAya-aruci-SvAsa kAsa-GnaH vraNa-SoDanaH // Va-aniG_130 //
+   surasādau gaṇe dvedhā surā kṛṣṇagarur ataḥ /	surasAdO gaNe dveDA surA kRzNagaruH atas /
+   svādugandhicchadā caiva kāyasthā tulasī tathā // VAnigh_131 //	svAduganDicCadA ca-eva kAyasTA tulasI taTA // Va-aniG_131 //
+   phaṇijjako mañjarīkas tīkṣṇagandhaḥ sugandhikaḥ /	PaNijjakaH maQjarIkaH tIkzNaganDaH suganDikaH /
+   kṛṣṇasarjakaḥ kālamālaḥ vaṭhiñjarakuṭherakau // VAnigh_132 //	kRzNasarjakaH kAlamAlaH vaWiQjara-kuWerakO // Va-aniG_132 //
+   viḍaṅgaṃ kṛmijid balyaṃ kirīṭaṃ śvetataṇḍulam /	vixaFgam kRmijit balyam kirIwam Sveta-taNxulam /
+   śūkātmakaḥ kharabusau maruvaḥ kharapattrakaḥ // VAnigh_133 //	SUka-AtmakaH Kara-busO maruvaH KarapattrakaH // Va-aniG_133 //
+   vṛṣakarṇyākhukarṇī ca tathā bhūmipariśrayā /	vRzakarNI-AKukarNI ca taTA BUmi-pariSrayAH /
+   rājakṣavaḥ pītapuṣpaḥ kāsaghnaṃ kāsamardakaḥ // VAnigh_134 //	rAjakzavaH pItapuzpaH kAsa-Gnam kAsamardakaH // Va-aniG_134 //
+   udvegajananas tīkṣṇaḥ kṣavakaḥ kṣudvibodhakaḥ /	udvega-jananaH tIkzNaH kzavakaH kzuD-viboDakaH /
+   kapitthapattrī jharasī nirjharā jharapattrikā // VAnigh_135 //	kapitTapattrI JarasI nirJarA JarapattrikA // Va-aniG_135 //
+   prācīnā bodhakī kāntā kāmukā raktamañjarī /	prAcInA boDakI kAntA kAmukA raktamaQjarI /
+   mādhavī syād amuktaś ca suvasanto 'timuktakaḥ // VAnigh_136 //	mADavI syAt amuktaH ca suvasantaH atimuktakaH // Va-aniG_136 //
+   kākamācī gūḍhaphalā kākāhvā mācikāpi ca /	kAkamAcI gUXaPalA kAkAhvA mAcikA-api ca /
+   volo vṛddhaḥ kulahalo jambūlo bhūkadambakaḥ // VAnigh_137 //	volaH vRdDaH kulahalaH jambUlaH BUkadambakaH // Va-aniG_137 //
+   viṣamuṣṭiś ca karkoṭī kṣayāhvā keśamuṣṭikā /	vizamuzwiH ca karkowI kzayAhvA keSa-muzwikA /
+   putrāñjaliḥ bhūtakeśī bhūstṛṇo guhyabījakaḥ // VAnigh_138 //	putra-aQjaliH BUtakeSI BUstRNaH guhyabIjakaH // Va-aniG_138 //
+   bhūtāveśī bhūtakeśī nirguṇḍī tinduvārakaḥ /	BUtAveSI BUtakeSI nirguNxI tinduvArakaH /
+   śephālikā śvetapuṣpā śvetanirguṇḍikā smṛtā // VAnigh_139 //	SePAlikA SvetapuzpA Sveta-nirguNxikA smRtAH // Va-aniG_139 //
+   muṣkakasnugvarādvīpi- palāśadhavaśiṃśapāḥ /	muzkaka-snuh-varAt-vIpi palASa-Dava-SiMSapAH /
+   gulmamehāśmarīpāṇḍu- medo 'rśaḥkaphaśukrajit // VAnigh_140 //	gulma-meha-aSmarI-pANxu medaH arSaH-kaPa-Sukra-jit // Va-aniG_140 //
+   muṣkakādau tu śikharī muṣkako mokṣakas tathā /	muzkaka-AdO tu SiKarI muzkakaH mokzakaH taTA /
+   kālamuṣkaḥ kṣāravṛkṣaḥ kṣīṇavāriphalaḥ smṛtaḥ // VAnigh_141 //	kAlamuzkaH kzAravRkzaH kzINa-vAriPalaH smRtaH // Va-aniG_141 //
+   sudhā vajrī mahāvṛkṣo granthilā snug guḍā snuhī /	suDA vajrI mahAvRkzaH granTilA snuh guxA snuhI /
+   samantadugdhā śvajihva- patraś ca yugmakaṇṭakaḥ // VAnigh_142 //	samantadugDA Sva-jihva patraH ca yugmakaNwakaH // Va-aniG_142 //
+   vatsakamūrvābhārṅgīkaṭukā marīcaṃ ghuṇapriyā ca gaṇḍīram /*	vatsaka-mUrvA-BArFgI-kawukA marIcam GuNapriyA ca gaNxIram /*
+   elā pāṭhā jājī kaṭvaṅgaphalājamodasiddhārthavacāḥ // VAnigh_143 //*	elA pAWA jAjI kawvaFga-Pala-ajamoda-sidDArTa-vacAH // Va-aniG_143 //*
+   jīrakahiṅguviḍaṅgaṃ paśugandhā pañcakolakaṃ hanti /*	jIraka-hiFgu-vixaFgam paSuganDA paQcakolakam hanti /*
+   calakaphamedaḥpīnasagulmajvaraśūladurnāmnaḥ // VAnigh_144 //*	cala-kaPa-medaH-pInasa-gulma-jvara-SUla-durnAmnaH // Va-aniG_144 //*
+   vanatikto vatsakādau kuṭajo girimallikā /	vanatiktaH vatsakAdO kuwajaH girimallikA /
+   vṛkṣakaḥ śakravṛkṣaś ca vatsakaḥ kuṭajas tathā // VAnigh_145 //	vRkzakaH SakravRkzaH ca vatsakaH kuwajaH taTA // Va-aniG_145 //
+   bhaṅgurātiviṣā mādrī śuklakandā ghuṇapriyā /	BaFgurA-ativizA mAdrI Sukla-kandA GuNapriyA /
+   dvitīyā tu prativiṣā śvetaraktaviṣā matā // VAnigh_146 //	dvitIyA tu prativizA Sveta-rakta-vizAH matAH // Va-aniG_146 //
+   dīrghavṛnto mahānimbaḥ kaṭvaṅgo 'ralutiktakaḥ /	dIrGavRntaH mahAnimbaH kawvaFgaH aralu-tiktakaH /
+   dīpyakaṃ tv ajamodas tu yavānī jaraṇāhvayā // VAnigh_147 //	dIpyakam tu ajamodaH tu yavAnI jaraNa-AhvayA // Va-aniG_147 //
+   vacogragandhā jaṭilā ṣaḍgranthā haimavatyapi /	vacA-ugraganDA jawilA zaxgranTA hEmavatI-api /
+   śuklā yā sā svādukandā suvāsā himasaṃbhavā // VAnigh_148 //	SuklA yA sA svAdu-kandA su-vAsAH hima-saMBavAH // Va-aniG_148 //
+   vacājaladadevāhva- nāgarātiviṣāmayāḥ /	vacA-jalada-devAhva nAgara-ativizA-AmayAH /
+   haridrādvayayaṣṭyāhva- kalaśīkuṭajodbhavāḥ // VAnigh_149 //	haridrA-dvaya-yazwyAhva kalaSI-kuwaja-udBavAH // Va-aniG_149 //
+   vacāharidrādigaṇāv āmātīsāranāśanau /	vacA-haridrA-Adi-gaNO Ama-atIsAra-nASanO /
+   medaḥkaphāḍhyapavana- stanyadoṣanibarhaṇau // VAnigh_150 //	medaH-kaPa-AXya-pavana stanya-doza-nibarhaNO // Va-aniG_150 //
+   vacādau prāg vacā proktā mustā tu jaladāhvayā /	vacA-AdO prAk vacA proktA mustA tu jalada-AhvayA /
+   gāṅgeyī kuruvindā ca devāhvā bhadramustakam // VAnigh_151 //	gAFgeyI kuruvindA ca devAhvA Badramustakam // Va-aniG_151 //
+   haridrādigaṇaṃ vakṣye gaurī śyāmā ca nirviṣā /	haridrA-Adi-gaNam vakzye gOrI SyAmA ca nirvizAH /
+   niśā kṣapā ca rātriś ca varā lomaśamūlikā // VAnigh_152 //	niSA kzapA ca rAtriH ca varA lomaSamUlikA // Va-aniG_152 //
+   svarṇavarṇā haridrā tu niśāhvā rajanī tathā /	svarNa-varNA haridrA tu niSAhvA rajanI taTA /
+   dārvī kaṭaṃkaṭerī ca parjanyā ca pacampacā // VAnigh_153 //	dArvI kawaMkawerI ca parjanyA ca pacampacA // Va-aniG_153 //
+   priyaṅgupuṣpāñjanayugmapadmāḥ padmādrajo yojanavallyanantā /	priyaFgu-puzpa-aQjana-yugma-padmAH padmAt-rajaH yojanavallI-anantA /
+   mānadrumo mocarasaḥ samaṅgā punnāgaśītaṃ madanīyahetuḥ // VAnigh_154 //	mAnadrumaH mocarasaH samaFgA punnAga-SItam madanIya-hetuH // Va-aniG_154 //
+   ambaṣṭhā madhukaṃ namaskarī nandīvṛkṣapalāśakacchurā /	ambazWA maDukam namaskarI nandI-vRkza-palASa-kacCurA /
+   rodhraṃ dhātakibilvapeśike kaṭvaṅgaṃ kamalodbhavaṃ rajaḥ // VAnigh_155 //	roDram DAtaki-bilva-peSike kawu-aFgam kamalodBavam rajaH // Va-aniG_155 //
+   gaṇau priyaṅgvambaṣṭhādī pakvātīsāranāśanau /	gaNO priyaFgu-ambazWA-AdI pakva-atIsAra-nASanO /
+   sandhānīyau hitau pitte vraṇānām api ropaṇau // VAnigh_156 //	sanDAnIyO hitO pitte vraNAnAm api ropaNO // Va-aniG_156 //
+   priyaṅgvādigaṇe pūrvaṃ priyaṅguḥ samudāhṛtā /	priyaFgvAdi-gaNe pUrvam priyaFguH samudAhRtA /
+   padmāsitāravindā ca cāraṭī padmacāriṇī // VAnigh_157 //	padma-asitAravindA ca cArawI padmacAriNI // Va-aniG_157 //
+   rajaḥ parāgaṃ kiñjalkaṃ kesaraṃ padmasaṃbhavam /	rajaH parAgam kiQjalkam kesaram padmasaMBavam /
+   mañjiṣṭhā vijayā raktā samaṅgā vikasāruṇā // VAnigh_158 //	maQjizWA vijayA raktA samaFgA vikasa-aruNAH // Va-aniG_158 //
+   mañjukā raktayaṣṭī ca tāmrā yojanavally api /	maQjukA raktayazwI ca tAmrA yojanavallI api /
+   anantā dīrghamūlā ca samudrānto yavāsakaḥ // VAnigh_159 //	anantA dIrGamUlA ca samudrAntaH yavAsakaH // Va-aniG_159 //
+   sāradruḥ śālmalī mocā purāṇī raktapuṣpikā /	sAradruH SAlmalI mocA purANI raktapuzpikA /
+   niryāso yas tu śālmalyāḥ sa mocarasasaṃjñakaḥ // VAnigh_160 //	niryAsaH yaH tu SAlmalyAH sa moca-rasa-saMjQakaH // Va-aniG_160 //
+   samaṅgā śatapattrā ca tathaivāñjalikārikā /	samaFgA SatapattrA ca taTA-eva-aQjalikArikA /
+   namaskārī raktamūlā tathā puṣpāvarodhikā // VAnigh_161 //	namaskArI raktamUlA taTA puzpa-avaroDikAH // Va-aniG_161 //
+   puṃnāgaḥ puruṣāhvaś ca tuṅgākhyo raktakesaraḥ /	puMnAgaH puruzAhvaH ca tuFga-AKyaH raktakesaraH /
+   namerur devapuṃnāgaḥ skandhapuṣpaḥ surāhvayaḥ // VAnigh_162 //	nameruH deva-puMnAgaH skanDapuzpaH sura-AhvayaH // Va-aniG_162 //
+   madahetuḥ sindhupuṣpī dhātakī madayantikā /	mada-hetuH sinDupuzpI DAtakI madayantikAH /
+   kuñjarā harisārā ca madavīryā madapriyā // VAnigh_163 //	kuQjarA harisArA ca mada-vIryAH mada-priyA // Va-aniG_163 //
+   ambaṣṭhādau smṛtāmbaṣṭhā sahasrī bahumūlakaḥ /	ambazWa-AdO smRta-ambazWA sahasrI bahumUlakaH /
+   madhuparṇī kekiśikhā mayūrāhvā śikhī tathā // VAnigh_164 //	maDuparNI kekiSiKA mayUrAhvA SiKI taTA // Va-aniG_164 //
+   nandīvṛkṣaḥ prarohī ca jayavṛkṣendravṛkṣakau /	nandIvRkzaH prarohI ca jayavRkza-indravRkzakO /
+   kacchurā paṇihārī ca tīkṣṇapattrā marudbhavā // VAnigh_165 //	kacCurA paNihArI ca tIkzNa-pattrA marut-BavAH // Va-aniG_165 //
+   mustāvacāgnidviniśādvitiktā- bhallātapāṭhātriphalīviṣākhyāḥ /	mustA-vacA-agni-dvi-niSA-t-vi-tiktA BallAta-pAWA-triPalI-viza-AKyAH /
+   kuṣṭhaṃ kuṭī haimavatī ca yoni- stanyāmayaghnā malapācanāś ca //	kuzWam kuwI hEmavatI ca yoni stanya-Amaya-GnAH mala-pAcanAH ca //
+   VAnigh_166 //	VAniG_166 //
+   mustādike gaṇe mustā pūrvam eva prakīrtitā /	mustA-Adike gaNe mustA pUrvam eva prakIrtitA /
+   tiktā ca kaṭukā jñeyā rohiṇī kaṭurohiṇī // VAnigh_167 //	tiktA ca kawukA jQeyA rohiNI kawurohiNI // Va-aniG_167 //
+   sphoṭaśophakṣatakaraṃ bhallātakam aruṣkaram /	sPowa-SoPa-kzata-karam BallAtakam aruzkaram /
+   pākalaṃ vāri bhāvyaṃ ca vāpyaṃ kuṣṭhaṃ gadāhvayam // VAnigh_168 //	pAkalam vAri BAvyam ca vApyam kuzWam gadA-Ahvayam // Va-aniG_168 //
+   nyāgrodhapappalasadāphalarodhrayugmaṃ jambudvayārjunakapītanasomavalkāḥ /	nyAgroDa-pappala-sadAPala-roDra-yugmam jambu-dvaya-arjuna-kapItana-somavalkAH /
+   plakṣāmravañjulapiyālapalāśanandī- kolīkadambaviralāmadhukaṃ madhūkam //	plakza-Amra-vaQjula-piyAla-palASa-nandI kolI-kadamba-viralA-maDukam maDUkam //
+   VAnigh_169 //	VAniG_169 //
+   nyagrodhādir gaṇo vraṇyaḥ saṃgrāhī bhagnasādhanaḥ /	nyagroDAdiH gaNaH vraNyaH saMgrAhI Bagna-sADanaH /
+   medaḥpittāsratṛḍdāha- yoniroganibarhaṇaḥ // VAnigh_170 //	medaH-pittAsra-tRz-dAha yoni-roga-nibarhaNaH // Va-aniG_170 //
+   nyagrodhādau yakṣavāso nyagrodho bahupād vaṭaḥ /	nyagroDAdO yakza-vAsaH nyagroDaH bahupAd vawaH /
+   aśvatthaḥ pippalo bodhiś caityadruś calapattrakaḥ // VAnigh_171 //	aSvatTaH pippalaH boDiH ca-etyadruH calapattrakaH // Va-aniG_171 //
+   udumbaraḥ kṛmiphalaḥ supratiṣṭhaḥ sadāphalaḥ /	udumbaraH kRmiPalaH su-pratizWaH sadAPalaH /
+   bṛhatphalā rājajambūḥ kākajambvalpasasyakā // VAnigh_172 //	bRhatPalA rAjajambUH kAka-jambu-alpa-sasyakAH // Va-aniG_172 //
+   phalaśreṇī varaḥ proktaḥ kapicūtaḥ kapītanaḥ /	Pala-SreNI varaH proktaH kapicUtaH kapItanaH /
+   plakṣaḥ kupippalaḥ plāvo gardabhāṇḍaḥ kapītanaḥ // VAnigh_173 //	plakzaH kupippalaH plAvaH gardaBANxaH kapItanaH // Va-aniG_173 //
+   āmraś cūtaś cāvatalaḥ kāntaḥ piṇḍaphalas tathā /	AmraH cUtaH ca-avatalaH kAntaH piNxaPalaH taTA /
+   vasantadūtī mākandā bhṛṅgeṣṭā kokilapriyā // VAnigh_174 //	vasantadUtI mAkandA BRFgezwA kokila-priyA // Va-aniG_174 //
+   rasāladruḥ sahakāraḥ saurabhaḥ kokilapriyaḥ /	rasAladruH sahakAraH sOraBaH kokilapriyaH /
+   nādeyo vañjulaḥ prokto vidulo vetaso 'paraḥ // VAnigh_175 //	nAdeyaH vaQjulaH proktaH vidulaH vetasaH aparaH // Va-aniG_175 //
+   priyālas tu kharaskandhaś cāro drākṣārasapriyaḥ /	priyAlaH tu Kara-skanDaH cAraH drAkzA-rasa-priyaH /
+   karkandhūḥ kāṣṭhakṛt kolī badarī yugmakaṇṭakaḥ // VAnigh_176 //	karkanDUH kAzWa-kRt kolI badarI yugmakaNwakaH // Va-aniG_176 //
+   visphūrjanī vikaraṇī tindukī viralā smṛtā /	visPUrjanI vikaraNI tindukI viralA smRtA /
+   kālaskandho nīlasāro dvitīyaḥ kākatindukaḥ // VAnigh_177 //	kAlaskanDaH nIlasAraH dvitIyaH kAkatindukaH // Va-aniG_177 //
+   vakraśalyā kṛṣṇaphalā viralā gṛdhranakhy api /	vakraSalyA kRzNaPalA viralAH gRDra-naKI api /
+   gandhayuktā sāravastrā durdharṣā kuṇḍalī smṛtā // VAnigh_178 //	ganDa-yuktA sAra-vastrA durDarzA kuNxalI smRtAH // Va-aniG_178 //
+   elāyugmaturuṣkakuṣṭhaphalinīmāṃsījaladhyāmakaṃ	elA-yugma-turuzka-kuzWa-PalinI-mAMsI-jala-DyAmakam
+   spṛkkācorakacocapattratagarasthauṇeyajātīrasāḥ /	spRkkA-coraka-coca-pattra-tagara-sTONeya-jAtI-rasAH /
+   śuktivyāghrinakho 'marāhvamaguruḥ śrīvāsakaḥ kuṅkumaṃ	Sukti-vyAGri-naKaH amara-Ahvam-aguruH SrIvAsakaH kuFkumam
+   caṇḍāgugguladevadhūpakhapurāḥ puṃnāganāgāhvayam // VAnigh_179 //	caNxA-guggula-devaDUpa-KapurAH puMnAga-nAgAhvayam // Va-aniG_179 //
+   elādiko vātakaphau viṣaṃ viniyacchati /	elA-AdikaH vAta-kaPO vizam viniyacCati /
+   varṇaprasādanaḥ kaṇḍū- piṭikākoṭhanāśanaḥ // VAnigh_180 //	varNa-prasAdanaH kaNxU piwikA-koWa-nASanaH // Va-aniG_180 //
+   elādike pūrvam uktā sūkṣmailānyā tu kathyate /	elA-Adike pUrvam uktA sUkzmElA-anyA tu kaTyate /
+   bhadrailā bṛhadelā tu sthūlailā tripuṭodbhavā // VAnigh_181 //	BadrElA bRhadelA tu sTUla-elA tri-puwa-udBavAH // Va-aniG_181 //
+   suhelā ca suṣeṇī ca reṇukā kāntanāmikā /	suhelA ca suzeNI ca reNukA kAnta-nAmikA /
+   piṇḍī turuṣkajaṃ tailaṃ pirāyākaṃ kṛtrimaṃ kapiḥ // VAnigh_182 //	piNxI turuzka-jam tElam pirAyAkam kRtrimam kapiH // Va-aniG_182 //
+   hrīveraṃ vāri keśāhvam udīcyaṃ bālakaṃ jalam /	hrIveram vAri keSa-Ahvam udIcyam bAlakam jalam /
+   dhyāmakaṃ śabalaṃ gandhaṃ spṛkkā devī latā satī // VAnigh_183 //	DyAmakam Sabalam ganDam spRkkA devI latA satI // VAniG_183 //
+   corako granthiparṇī syāt śaṭī somasamudbhavā /	corakaH granTiparNI syAt SawI soma-samudBavA /
+   varāṅgaṃ carmanāmā ca cocaṃ tvak ca varāṅgakam // VAnigh_184 //	varAFgam carma-nAmA ca cocam tvac ca varAFgakam // Va-aniG_184 //
+   romaśaṃ chadanaṃ pattraṃ tamālaṃ romaśīphalam /	romaSam Cadanam pattram tamAlam romaSIPalam /
+   bahiṣṭhaṃ tagaraṃ vakraṃ nataṃ kālānusāri ca // VAnigh_185 //	bahizWam tagaram vakram natam kAlAnusAri ca // Va-aniG_185 //
+   cāraṭī śukabarhākhyaṃ sthauṇeyaṃ tailapītakam /	cArawI Sukabarha-AKyam sTONeyam tEla-pItakam /
+   jātīraso raso bolaṃ śuktiḥ kararuho nakhaḥ // VAnigh_186 //	jAtI-rasaH rasaH bolam SuktiH kararuhaH naKaH // Va-aniG_186 //
+   badarīpattrakaṃ caiva jñeyo nāgahanus tathā /	badarIpattrakam ca-eva jQeyaH nAgahanuH taTA /
+   samudrajo vyāghranakho vijñeyo vyāghranāmakaḥ // VAnigh_187 //	samudrajaH vyAGranaKaH vijQeyaH vyAGra-nAmakaH // Va-aniG_187 //
+   śrīveṣṭako vāyasako dadhināmā ca kīrtitaḥ /	SrIvezwakaH vAyasakaH daDi-nAmA ca kIrtitaH /
+   kāśmīraṃ kuṅkumaṃ raktaṃ vāhlīkaṃ ghusṛṇaṃ varam // VAnigh_188 //	kASmIram kuFkumam raktam vAhlIkam GusRNam varam // Va-aniG_188 //
+   krodhanā piśunā caṇḍā caurī śaṅkhinikā matā /	kroDanA piSunA caNxA cOrI SaFKinikA matA /
+   mahiṣākṣo niśācārī kauśiko gugguluḥ puraḥ // VAnigh_189 //	mahizAkzaH niSAcArI kOSikaH gugguluH puras // Va-aniG_189 //
+   rālas tu devadhūpaḥ syāt śālaḥ sarjarasāhvayaḥ /	rAlaH tu devaDUpaH syAt SAlaH sarjarasa-AhvayaH /
+   kundurur medakaḥ kundro vijñeyaḥ khapuras tathā // VAnigh_190 //	kunduruH medakaH kundraH vijQeyaH KapuraH taTA // Va-aniG_190 //
+   śyāmādantīdravantīkramukakuṭaraṇāśaṃkhinī carmasāhvā	SyAmA-dantI-dravantI-kramuka-kuwaraNASaMKinI carmasAhvA
+   svarṇakṣīrīgavākṣīśikharirajanakacchinnarohākarañjāḥ /	svarNakzIrI-gavAkzI-SiKari-rajanaka=-Cinna-roha-AkaraQjAH /
+   bastāntrī vyādhighāto bahalabahurasas tīkṣṇavṛkṣāt phalāni śyāmādyo hanti	bastAntrI vyADiGAtaH bahala-bahurasaH tIkzNa-vRkzAt PalAni SyAma-AdyaH hanti
+   gulmaṃ viṣamarucikaphau hṛdrujaṃ mūtrakṛcchram // VAnigh_191 //	gulmam vizama-ruci-kaPO hRd-rujam mUtrakRcCram // Va-aniG_191 //
+   masūravidalā śyāmā śyāmādo kālameṣikā /	masUravidalA SyAmA SyAmAdaH kAlamezikAH /
+   suṣeṇikā śaśāhvā ca kālindī kālikā smṛtā // VAnigh_192 //	suzeNikA SaSAhvA ca kAlindI kAlikA smRtAH // Va-aniG_192 //
+   citrā mukūlako dantī nikumbhaḥ śambaras tathā /	citrA mukUlakaH dantI nikumBaH SambaraH taTA /
+   udumbaracchadā hasti- dantī syād upacitrakā // VAnigh_193 //	udumbaracCadA hasti dantI syAt upacitrakAH // Va-aniG_193 //
+   nyagrodhāhvā sutatreṇī dravanty undurukarṇikā /	nyagroDAhvA sutatreNI dravanti unduru-karNikA /
+   kumbhastrī bhaṭṭinī sūtrā śyāmā kuṭaraṇā trivṛt // VAnigh_194 //	kumBastrI BawwinI sUtrA SyAmA kuwaraNA trivRt // Va-aniG_194 //
+   śaṅkhinī tiktalā vakrī yavatiktā kiśorikā /	SaFKinI tiktalA vakrI yavatiktA kiSorikA /
+   śaṅkhāvartā śaṅkhapuṣpī viśikhā nāhikā smṛtā // VAnigh_195 //	SaFKa-AvartA SaFKapuzpI viSiKA nAhikA smRtAH // Va-aniG_195 //
+   sātalā saptalā carma- kaṣāhvāvartakī smṛtā /	sAtalA saptalA carma kazAhvAvartakI smRtA /
+   anyeṣāṃ tu tathā brāhmī brahmanāmā tu kīrtitā // VAnigh_196 //	anyezAm tu taTA brAhmI brahma-nAmA tu kIrtitAH // Va-aniG_196 //
+   svarṇakṣīrī haimavatī kaṅkuṣṭhas tīkṣṇadugdhikā /	svarNakzIrI hEmavatI kaFkuzWaH tIkzNa-dugDikA /
+   indravāruṇikā caindrī gavākṣī gajacirbhiṭī // VAnigh_197 //	indravAruNikA ca-EndrI gavAkzI gajacirBiwI // Va-aniG_197 //
+   viśālā ca viśalyā ca saiva proktā gavādanī /	viSAlA ca viSalyA ca sA-eva proktA gavAdanI /
+   girikarṇy aśvakṣurakaḥ sthāṇukarṇī gavādanī // VAnigh_198 //	girikarNI aSvakzurakaH sTANukarNI gavAdanI // Va-aniG_198 //
+   nīlasyandā nīlapuṣpī nīlākhyā girikarṇikā /	nIlasyandA nIlapuzpI nIla-AKyA girikarNikA /
+   tilvakaḥ śikharī śveta- tvak tirīṭo bṛhacchadaḥ // VAnigh_199 //	tilvakaH SiKarI Sveta tvac tirIwaH bRhacCadaH // Va-aniG_199 //
+   kampillako rañjanako recano raktacūrṇakaḥ /	kampillakaH raQjanakaH recanaH raktacUrNakaH /
+   bastāntrī vṛṣagandhākhyā meṣāntrī vṛṣapattrikā // VAnigh_200 //	bastAntrI vRzaganDA-AKyA mezAntrI vRzapattrikAH // Va-aniG_200 //
+   ghanabhūrirasas tv ikṣuḥ guḍamūlo 'sipattrakaḥ /	Gana-BUri-rasaH tu ikzuH guxamUlaH asipattrakaH /
+   tīkṣṇavṛkṣaḥ śaṇaḥ pīluḥ prokto 'nyaḥ sthāṇukas tathā // VAnigh_201 //	tIkzNavRkzaH SaNaH pIluH proktaH anyaH sTANukaH taTA // Va-aniG_201 //
+   gaṇeṣu yāni dravyāṇi saṃgrahe vālpasaṃgrahe /	gaNezu yAni dravyANi saMgrahe vA-alpa-saMgrahe /
+   tāny uktāny abhidhīyante viprakīrṇāny ataḥ param // VAnigh_202 //	tAni uktAni aBiDIyante viprakIrNAni atas param // Va-aniG_202 //
+   pavitrapattrā maṅgalyā śamī lakṣmī ca keśanut /	pavitrapattrA maFgalyA SamI lakzmI ca keSa-nud /
+   sohalā rudatī tanvī sūkṣmamūlāparājitā // VAnigh_203 //	sohalA rudatI tanvI sUkzma-mUla-aparAjitAH // Va-aniG_203 //
+   pānīyo bījavṛkṣas tu jīvavṛkṣas tu pāśikaḥ /	pAnIyaH bIjavRkzaH tu jIvavRkzaH tu pASikaH /
+   śuklapuṣpā bhūmilagnā hrasvāṅgā śaṅkhapuṣpikā // VAnigh_204 //	Sukla-puzpA BUmi-lagnA hrasva-aFgA SaFKapuzpikA // Va-aniG_204 //
+   sūkṣmapattrā sarpagandhā sarpākṣī raktapuṣpikā /	sUkzmapattrA sarpaganDA sarpAkzI raktapuzpikA /
+   anyā tu sumahākandā nākulī nakulapriyā // VAnigh_205 //	anyA tu su-mahAkandA nAkulI nakula-priyA // Va-aniG_205 //
+   viṣṇukrāntā nīlapuṣpī satīnā chardikā tathā /	vizNukrAntA nIlapuzpI satInA CardikA taTA /
+   vāṭyālakaḥ pītapuṣpo vāṭyā bhadraudanī balā // VAnigh_206 //	vAwyAlakaH pItapuzpaH vAwyA BadrOdanI balAH // Va-aniG_206 //
+   mahābalā varṣapuṣpī śītapākī subījakaḥ /	mahAbalA varzapuzpI SItapAkI su-bIjakaH /
+   vāṭyāyanī tv atibalā bhāradvājī suparṇikā // VAnigh_207 //	vAwyAyanI tu atibalA BAradvAjI suparNikAH // Va-aniG_207 //
+   rāmānyācchādanaphalā vāṭyā kārpāsasaṃjñakā /	rAmAni-AcCAdanaPalA vAwyA kArpAsa-saMjQakAH /
+   ajaṭā bahupattrā ca bhūdhātrī tāmalaky api // VAnigh_208 //	ajawA bahupattrA ca BUDAtrI tAmalakI api // Va-aniG_208 //
+   śītavīryaḥ parpaṭakaḥ tṛṣṇāghnaḥ sūkṣmapattrakaḥ /	SIta-vIryaH parpawakaH tRzNA-GnaH sUkzmapattrakaH /
+   trāyantī trāyamāṇā ca pālinī bhayanāśinī // VAnigh_209 //	trAyantI trAyamANA ca pAlinI Baya-nASinI // Va-aniG_209 //
+   durālabhā dhanvayāso yāso duḥsparśakas tathā /	durAlaBAH DanvayAsaH yAsaH duHsparSakaH taTA /
+   kalyāṇalocano jñeyo nādeyo jalajambukaḥ // VAnigh_210 //	kalyANa-locanaH jQeyaH nAdeyaH jalajambukaH // Va-aniG_210 //
+   mahākadambo niculo 'napāyī jalanūpuraḥ /	mahAkadambaH niculaH anapAyI jala-nUpuraH /
+   kiṅkirātaḥ karṇikāro gauraḥ kanakapuṣpakaḥ // VAnigh_211 //	kiFkirAtaH karNikAraH gOraH kanakapuzpakaH // Va-aniG_211 //
+   mandāraḥ pāribhadrāhvo jñeyaḥ kaṇṭakīkiṃśukaḥ /	mandAraH pAriBadrAhvaH jQeyaH kaNwakI-kiMSukaH /
+   pārijātaś ca rohītaḥ plīhaghno raktapuṣpakaḥ // VAnigh_212 //	pArijAtaH ca rohItaH plIha-GnaH raktapuzpakaH // Va-aniG_212 //
+   śukanāsā tu nalikā śukaghrāṇo 'lpanālikā /	SukanAsA tu nalikA Suka-GrANaH alpa-nAlikA /
+   śākarājo bhūtavāso gojihvā karkaśacchadā // VAnigh_213 //	SAkarAjaH BUtavAsaH gojihvA karkaSa=-CadAH // Va-aniG_213 //
+   ajākṣī vraṇanāśinī kuṣṭhaghnī phalguvāṭikā /	ajAkzI vraNa-nASinI kuzWa-GnI Palgu-vAwikA /
+   siṃhāsyaḥ karkaṭaś caiva vṛṣo vāsāṭarūṣakaḥ // VAnigh_214 //	siMhAsyaH karkawaH ca-eva vRzaH vAsA-AwarUzakaH // Va-aniG_214 //
+   aśmantako 'mlayoniś ca jñeyo yamalapattrakaḥ /	aSmantakaH amla-yoniH ca jQeyaH yamalapattrakaH /
+   vaṃśo veṇur yavaphalaḥ suparvā ca tṛṇadhvajaḥ // VAnigh_215 //	vaMSaH veNuH yavaPalaH suparvA ca tRNaDvajaH // Va-aniG_215 //
+   karīraḥ kīcako mṛtyu- phalāṅkura iti smṛtaḥ /	karIraH kIcakaH mRtyu Pala-aFkuraH iti smRtaH /
+   vāraṇas taralī kumbhi- karañjas tīravṛkṣakaḥ // VAnigh_216 //	vAraNaH taralI kumBi karaQjaH tIravRkzakaH // Va-aniG_216 //
+   sindhuraḥ sindhuvāraś ca śvetapuṣpāvarohitaḥ /	sinDuraH sinDuvAraH ca Sveta-puzpa-avarohitaH /
+   kākodumbarikā phalguḥ bhadrodumbaravāyasī // VAnigh_217 //	kAkodumbarikA PalguH Badra-udumbara-vAyasI // Va-aniG_217 //
+   kālāntradārī kanthārī phaṇī khadiravally api /	kAla-antradArI kanTArI PaNI KadiravallI api /
+   sitā kumārikā mallī mohinī vaṭapattrikā // VAnigh_218 //	sitA kumArikA mallI mohinI vawapattrikA // Va-aniG_218 //
+   phenilo hastikarkoṭaḥ kāṇḍo bāṇaḥ śaṇaḥ smṛtaḥ /	PenilaH hasti-karkowaH kANxaH bANaH SaNaH smRtaH /
+   śleṣmāntako bahuphalaḥ śailūṣaḥ kāntavṛkṣakaḥ // VAnigh_219 //	SlezmAntakaH bahuPalaH SElUzaH kAnta-vRkzakaH // Va-aniG_219 //
+   kuddālakaḥ kovidāras tāmrapuṣpo yugacchadaḥ /	kuddAlakaH kovidAraH tAmrapuzpaH yugacCadaH /
+   kālakarṇī bhūtavallī balyā gandhāśvagandhikā // VAnigh_220 //	kAlakarNI BUtavallI balyA ganDASvaganDikA // Va-aniG_220 //
+   tintiḍīkas tu vṛkṣāmlo badarī kolasaṃjñakaḥ /	tintixIkaH tu vRkzAmlaH badarI kola-saMjQakaH /
+   karkandhūḥ hrasvabadarī vasuvṛkṣas tu dhanvanaḥ // VAnigh_221 //	karkanDUH hrasvabadarI vasuvRkzaH tu DanvanaH // Va-aniG_221 //
+   sahasravīryas tīkṣṇāmlo varāmlas tv amlavetasaḥ /	sahasra-vIryaH tIkzNAmlaH varAmlaH tu amlavetasaH /
+   godhāpadī godhavallī paṭvamlādityanāmikā // VAnigh_222 //	goDApadI goDavallI pawu-amla-Aditya-nAmikA // Va-aniG_222 //
+   pattrabhaṅgo mahāśyāmā kharāśvā vṛddhadārukaḥ /	pattra-BaFgaH mahASyAmA KarASvA vRdDadArukaH /
+   dāvāgnidamanī mātā kṣudrakaṇṭarikā tathā // VAnigh_223 //	dAva-agnidamanI mAtA kzudrakaNwarikA taTA // Va-aniG_223 //
+   barhiśikhāhvayā guñjā raktikā kākaṇantikā /	barhiSiKA-AhvayA guQjA raktikA kAkaNantikAH /
+   śvetakāmbhojikā dhvāṅkṣī śvetapākī śikhaṇḍikā // VAnigh_224 //	SvetakAmBojikA DvAFkzI SvetapAkI SiKaNxikA // Va-aniG_224 //
+   tṛtīyā kṛṣṇakāmbhojī kuṇapokaḥ susādanī /	tRtIyA kRzNa-kAmBojI kuNapokaH susAdanI /
+   jyotiṣmatī kaṅguṇikā pārāvatapadī ca sā // VAnigh_225 //	jyotizmatI kaFguNikA pArAvatapadI ca sA // Va-aniG_225 //
+   īśvarī nāgadamanī kīṭāriḥ sarpagandhikā /	ISvarI nAgadamanI kIwAriH sarpaganDikA /
+   adhomukhā tv avākpuṣpī vārāhī vanamālikā // VAnigh_226 //	aDomuKA tu avAkpuzpI vArAhI vanamAlikA // Va-aniG_226 //
+   ārāmaśītalo devo gandhāḍhyaḥ kurumardakaḥ /	ArAma-SItalaH devaH ganDAXyaH kuru-mardakaH /
+   nāgajihvā śvetaphalā kṣīriṇī cārkapuṣpikā // VAnigh_227 //	nAgajihvA SvetaPalA kzIriNI ca-arkapuzpikA // Va-aniG_227 //
+   nimbacchadendravallī ca karabhī rucirā smṛtā /	nimbacCada-indravallI ca karaBiH rucirA smRtA /
+   likhikā bhaktikā bhūrī navanītā prakīrtitā // VAnigh_228 //	liKikA BaktikA BUrI navanItA prakIrtitAH // Va-aniG_228 //
+   jñeyā badarikāparṇī parṇakaḥ pūtikarṇakaḥ /	jQeyA badarikAparNI parNakaH pUtikarNakaH /
+   malayūḥ vākucī caiva candrarekhā tv avalgujaḥ // VAnigh_229 //	malayUH vAkucI ca-eva candrareKA tu avalgujaH // Va-aniG_229 //
+   cakṣuṣyā cāraṭī jñeyā tathāraṇyakulatthikā /	cakzuzyA cArawI jQeyA taTA-araNya-kulatTikAH /
+   ahimāro 'rimedas tu pītadārur haridrumaḥ // VAnigh_230 //	ahimAraH ari-medaH tu pItadAruH haridrumaH // Va-aniG_230 //
+   śvetatvak tīkṣṇasāraś ca vibudhas tīkṣṇasārakaḥ /	Sveta-tvac tIkzNasAraH ca vibuDaH tIkzNa-sArakaH /
+   vāpyāhvaṃ pauṣkaraṃ śūla- haraṃ bījāhvayaṃ matam // VAnigh_231 //	vA-api-Ahvam pOzkaram SUla haram bIja-Ahvayam matam // Va-aniG_231 //
+   śarī tu suvratā jñeyā gandhāhvā somasambhavā /	SarI tu suvratA jQeyA ganDAhvA soma-samBavAH /
+   sahasravīryā golomī sitā dūrvā ca śādvalaḥ // VAnigh_232 //	sahasravIryA golomI sitA dUrvA ca SAdvalaH // Va-aniG_232 //
+   kṣudravārī dugdhayutā ghaṭikā chatrapattrakā /	kzudravArI dugDa-yutA GawikA CatrapattrakAH /
+   āghoṭako brahmaphalo raktabindus tilacchadaḥ // VAnigh_233 //	AGowakaH brahmaPalaH raktabinduH tilacCadaH // Va-aniG_233 //
+   ajākṣī lomaparṇī ca jñeyo meṣavilocanaḥ /	ajAkzI lomaparNI ca jQeyaH meza-vilocanaH /
+   mahāvṛkṣo mahānīlo bhṛṅgāhvo mārkavaḥ smṛtaḥ // VAnigh_234 //	mahAvRkzaH mahAnIlaH BRFgAhvaH mArkavaH smRtaH // Va-aniG_234 //
+   keśarañjanako jñeyo bhṛṅgarāḍ bhṛṅgareṇukaḥ /	keSaraQjanakaH jQeyaH BRFgarAj BRFgareNukaH /
+   rāmāhvārkalatārāmā taruṇī puṣpavaty api // VAnigh_235 //	rAmAhvA-arka-latA-ArAmA taruNI puzpavatI api // Va-aniG_235 //
+   sūryabhaktā sukhodbhāvā sūryāvartā ravipriyā /	sUryaBaktA suKa-udBAvA sUryAvartA ravipriyA /
+   hiraṇyapuṣpī kharjūrī tāḍapattrī musaly api // VAnigh_236 //	hiraNyapuzpI KarjUrI tAxapattrI musalI api // Va-aniG_236 //
+   ikṣvālikā tu kākekṣuḥ kāṇḍekṣur vāyasekṣukaḥ /	ikzu-AlikA tu kAkekzuH kANxekzuH vAyasekzukaH /
+   śvetacāmarakaḥ kāśas tathekṣukusumaś ca saḥ // VAnigh_237 //	Sveta-cAmarakaH kASaH taTA-ikzukusumaH ca saH // Va-aniG_237 //
+   adhyaṇḍekṣurakaḥ sthūla- kaṇṭakaḥ kokilākṣakaḥ /	aDyaNxekzurakaH sTUla kaNwakaH kokilAkzakaH /
+   uccaṭā caṭakā jñeyā śikhaṇḍy āsphotakaḥ smṛtaḥ // VAnigh_238 //	uccawA cawakA jQeyA SiKaNxI AsPotakaH smRtaH // Va-aniG_238 //
+   unmattako mātulako dhuttūro hemanāmakaḥ /	unmattakaH mAtulakaH DuttUraH hema-nAmakaH /
+   tripuṣpaḥ kṛṣṇadhuttūraḥ kṛṣṇapuṣpī ca mohinī // VAnigh_239 //	tripuzpaH kRzNaDuttUraH kRzNapuzpI ca mohinI // Va-aniG_239 //
+   devadālī ca karkoṭī veṇī jīmūtakaḥ smṛtaḥ /	devadAlI ca karkowI veNI jImUtakaH smRtaH /
+   dhāmārgavaḥ kośaphalo rājakośātakī smṛtā // VAnigh_240 //	DAmArgavaH koSaPalaH rAjakoSAtakI smRtAH // Va-aniG_240 //
+   kaṭukośātakī kṣveḍā jālinī kṛtavedhanaḥ /	kawukoSAtakI kzvexA jAlinI kRtaveDanaH /
+   kaṭukālāmbunī tumbā- lāmbur ikṣvākusaṃjñikā // VAnigh_241 //	kawukAla-ambunI tumbA lAmbuH ikzvAku-saMjQikA // Va-aniG_241 //
+   nīlinī cāraṭī jñeyā nīlinī nīlapuṣpikā /	nIlinI cArawI jQeyA nIlinI nIlapuzpikA /
+   sūkṣmapādas tāmracūḍo jñeyaḥ kukkuṭapādikaḥ // VAnigh_242 //	sUkzma-pAdaH tAmracUxaH jQeyaH kukkuwa-pAdikaH // Va-aniG_242 //
+   godhūlikā ca gojihvā gojī kroṣṭukamūlakaḥ /	goDUlikA ca gojihvA gojI krozwukamUlakaH /
+   aṅkolo girikolaś ca pītasāro nikocakaḥ // VAnigh_243 //	aFkolaH girikolaH ca pItasAraH nikocakaH // Va-aniG_243 //
+   jālārir mehaśatruś ca bakulī talapoṭakaḥ /	jAlAriH mehaSatruH ca bakulI tala-powakaH /
+   svarṇavarṇākaraḥ pīta- puṣpako dohakāhvayaḥ // VAnigh_244 //	svarNa-varNa-AkaraH pIta puzpakaH dohaka-AhvayaH // Va-aniG_244 //
+   śaṇapuṣpī bṛhatpuṣpī śaṇaḥ ghaṇṭaśaṇaḥ smṛtaḥ /	SaNapuzpI bRhat-puzpI SaNaH GaNwaSaNaH smRtaH /
+   ubhātasī rudrapattrī gopikā bāṇakaḥ smṛtaḥ // VAnigh_245 //	uBAtasI rudrapattrI gopikA bANakaH smRtaH // Va-aniG_245 //
+   saumyā suvarcalā brāhmī somā brahmasuvarcalā /	sOmyA suvarcalA brAhmI somAH brahmasuvarcalA /
+   maṇḍūkaparṇī vikrāntā cānyā brāhmī vanauṣadhiḥ // VAnigh_246 //	maNxUkaparNI vikrAntA ca-anyA brAhmI vana-ozaDiH // Va-aniG_246 //
+   sutajīvaḥ putrajīvaḥ pavitraḥ putrasiddhikṛt /	suta-jIvaH putrajIvaH pavitraH putra-sidDi-kRt /
+   āvartakī carmaraṅgā mahājālī vibhāṇḍikā // VAnigh_247 //	AvartakI carmaraFgA mahAjAlI viBANxikA // Va-aniG_247 //
+   prasāraṇī suprasarā sāraṇī supratānikā /	prasAraNI suprasarA sAraNI su-pratAnikA /
+   hiṅgupattrī tu pṛthvīkā bāṣpikā kavarī smṛtā // VAnigh_248 //	hiFgupattrI tu pRTvIkA bAzpikA kavarI smRtAH // Va-aniG_248 //
+   tumburus tīkṣṇavalkaś ca tīkṣṇapattraḥ kutumburuḥ /	tumburuH tIkzNavalkaH ca tIkzNapattraH kutumburuH /
+   akṣoḍaḥ parvatīyaś ca phalasneho guḍāśrayaḥ // VAnigh_249 //	akzoxaH parvatIyaH ca Pala-snehaH guxa-ASrayaH // Va-aniG_249 //
+   kīreṣṭaḥ karparālaś ca svādumañjā pṛthucchadaḥ /	kIrezwaH karparAlaH ca svAdu-maQjA pRTucCadaH /
+   agastiko munināmā kumbhayoniś ca sa smṛtaḥ // VAnigh_250 //	agastikaH muni-nAmA kumBayoniH ca sa smRtaH // Va-aniG_250 //
+   adhicchattrā kumbhayoniḥ droṇapuṣpī kutumbikā /	aDicCattrA kumBayoniH droNapuzpI kutumbikA /
+   kauṇḍinyaś ca mahādroṇaḥ smṛto devakutumbakaḥ // VAnigh_251 //	kONxinyaH ca mahAdroNaH smRtaH devakutumbakaH // Va-aniG_251 //
+   adhicchattrā gautamasthā bālagranthiḥ prakīrtitā /	aDicCattrA gOtama-sTA bAla-granTiH prakIrtitA /
+   vatsādanī sudaśākhyā cakrāṅgī jalaśoṣakaḥ // VAnigh_252 //	vatsAdanI sudaSA-AKyA cakrAFgI jala-SozakaH // Va-aniG_252 //
+   prapunnāṭas tv eḍagajo dadrughnaś cakramardakaḥ /	prapunnAwaH tu exagajaH dadruGnaH cakramardakaH /
+   lakṣmaṇā putrajananī raktabinducchadā tathā // VAnigh_253 //	lakzmaNA putra-jananI rakta-binducCadA taTA // Va-aniG_253 //
+   nāginī śūlinī nāga- vallī matsyārjakaḥ smṛtaḥ /	nAginI SUlinI nAga vallI matsyArjakaH smRtaH /
+   śṛgālaghaṇṭā vajrākṣī vajravallī tu śṛṅkhalā // VAnigh_254 //	SRgAlaGaNwA vajrAkzI vajravallI tu SRFKalA // Va-aniG_254 //
+   palaṃkaṣā mūlakaṃ ca hiṃgunā puṣkaracchadaḥ /	palaMkazA mUlakam ca hiMgunA puzkaracCadaH /
+   dadhipuṣpī tu khaṭvāṅgī khaṭvā paryaṅkapādikā // VAnigh_255 //	daDipuzpI tu KawvAFgI KawvA paryaFkapAdikAH // Va-aniG_255 //
+   bimbī go hā tuṇḍikerī tilākhyā phalanābhikā /	bimbI go hA tuNxikerI tila-AKyA Pala-nABikA /
+   urvāruḥ karkaṭī proktā lomaśā ca prakīrtitā // VAnigh_256 //	urvAruH karkawI proktA lomaSA ca prakIrtitAH // Va-aniG_256 //
+   khūrjarikas tu kāliṅgaḥ mūtralaṃ trapusaṃ smṛtam /	KUrjarikaH tu kAliFgaH mUtralam trapusam smRtam /
+   kūṣmāṇḍakī puṣpalatā kakubhāṇḍā phalottamā // VAnigh_257 //	kUzmANxakI puzpalatA kakuBANxA PalottamA // Va-aniG_257 //
+   gorakṣatumbī gorakṣī kumbhālāmbur ghaṭābhidhā /	gorakzatumbI gorakzI kumBAlAmbuH Gawa-aBiDA /
+   cirbhiṭikā citraphalā cīnāraṃ cirbhaṭaṃ smṛtam // VAnigh_258 //	cirBiwikA citraPalA cInAram cirBawam smRtam // Va-aniG_258 //
+   lambā piṇḍaphalekṣvākuḥ kaṭukā kṣatriyātmajā /	lambA piNxaPala-ikzvAkuH kawukA kzatriya-AtmajA /
+   mahāphalekṣurā caiva tumbikā tiktabījakā // VAnigh_259 //	mahAPala-ikzurA ca-eva tumbikA tikta-bIjakAH // Va-aniG_259 //
+   cukrikā cāmlikā ciñcā jīvantī tintiḍī smṛtā /	cukrikA ca-amlikA ciQcA jIvantI tintixI smRtA /
+   cukrikā tv amlacāṅgerī suniṣaṇṇadalā tathā // VAnigh_260 //	cukrikA tu amla-cAFgerI su-nizaNNa-dalA taTA // Va-aniG_260 //
+   upodakam upodī ca kṣudrakā podakī tathā /	upodakam upodI ca kzudrakA podakI taTA /
+   jīvantiko raktaśākaḥ kalambī vallyupodakaḥ // VAnigh_261 //	jIvantikaH raktaSAkaH kalambI vallI-upodakaH // Va-aniG_261 //
+   taṇḍulīyo meghanādaḥ cillī tu lomaśā smṛtā /	taNxulIyaH meGanAdaH cillI tu lomaSA smRtA /
+   śitivāraḥ sūcipattraḥ svastikaḥ suniṣaṇṇakaḥ // VAnigh_262 //	SitivAraH sUcipattraH svastikaH su-nizaNNakaH // Va-aniG_262 //
+   matsyākṣikas tu matsīraḥ pattūraḥ priyasaty api /	matsyAkzikaH tu mad-sIraH pattUraH priyasati api /
+   śīghraśākhā śākhinī ca mahāśākaś ca vāstukī // VAnigh_263 //	SIGraSAKA SAKinI ca mahASAkaH ca vAstukI // Va-aniG_263 //
+   śrāvaṇī syāt muṇḍitikā bhikṣuḥ śravaṇaśīrṣakā /	SrAvaNI syAt muNxitikAH BikzuH SravaNa-SIrzakAH /
+   saumyagandhā barbarikā tilaparṇī ca sā smṛtā // VAnigh_264 //	sOmyaganDA barbarikA tilaparNI ca sA smRtAH // Va-aniG_264 //
+   sarpaś citras tu nīlābho bhūśāko bhūmikandakaḥ /	sarpaH citraH tu nIla-ABaH BUSAkaH BUmikandakaH /
+   rasono laśuno jñeyaḥ palāṇḍur mukhadūṣaṇaḥ // VAnigh_265 //	rasonaH laSunaH jQeyaH palANxuH muKa-dUzaNaH // Va-aniG_265 //
+   śatapuṣpā śatacchattrā miśiḥ ghoṣā śatāhvayā /	SatapuzpA SatacCattrA miSiH GozA SatAhvayA /
+   miśreyā śālinī śīta- śivāraṇyā miśiḥ smṛtā // VAnigh_266 //	miSreyA SAlinI SIta Siva-AraNyA miSiH smRtAH // Va-aniG_266 //
+   pṛthvīkā vāripattrā tu bāṣpikā ca sthalodbhavā /	pRTvIkA vAripattrA tu bAzpikA ca sTala-udBavA /
+   kapittho 'tha dadhitthaś ca durmadaḥ surabhicchadaḥ // VAnigh_267 //	kapitTaH aTa daDitTaH ca durmadaH suraBicCadaH // Va-aniG_267 //
+   toyakṣobhakaraḥ kumbhī vāruṇo vṛkṣadhūmakaḥ /	toya-kzoBa-karaH kumBI vAruNaH vRkzaDUmakaH /
+   mūṣikāriś citraphalaḥ karaṇḍaphalakaś ca saḥ // VAnigh_268 //	mUzikAriH citraPalaH karaNxaPalakaH ca saH // Va-aniG_268 //
+   cocaṃ ciṣu nārikelaḥ tuṅgadruḥ kūrcaśekharaḥ /	cocam cizu nArikelaH tuFgadruH kUrca-SeKaraH /
+   nīrapūrṇaphalaḥ śṛṅgī mocaṃ tu kadalīphalam // VAnigh_269 //	nIra-pUrNaPalaH SRFgI mocam tu kadalI-Palam // Va-aniG_269 //
+   rambhā tu kadalī mocā vṛttapuṣpāṃśumatphalā /	ramBA tu kadalI mocA vRtta-puzpa-aMSumat-PalA /
+   karamardī kṣīraphalā śvetapuṣpaphaleti ca // VAnigh_270 //	karamardI kzIraPalA Svetapuzpa-PalA-iti ca // Va-aniG_270 //
+   kṛṣṇapākaphalāvigna- karāmlāḥ karamardakaḥ /	kRzNa-pAka-Pala-Avigna kara-amlAH karamardakaH /
+   mātuluṅgo bījapūro luṅgaś ca phalapūrakaḥ // VAnigh_271 //	mAtuluFgaH bIjapUraH luFgaH ca PalapUrakaH // VAniG_271 //
+   jambīro jambhalo jambhaḥ jambo dantaśaṭhaḥ smṛtaḥ /	jambIraH jamBalaH jamBaH jambaH dantaSaWaH smRtaH /
+   nāraṅgas tvaksugandhākhya airāvatamukhapriyau // VAnigh_272 //	nAraFgaH tvac-suganDa-AKyaH ErAvata-muKa-priyO // Va-aniG_272 //
+   bhavyaṃ bhaviṣyaṃ cāmlaṃ ca bhavaṃ romaphalaṃ matam /	Bavyam Bavizyam ca-amlam ca Bavam roma-Palam matam /
+   pārāvataṃ raivatakaṃ likuco lakuco ḍahuḥ // VAnigh_273 //	pArAvatam rEvatakam likucaH lakucaH xahuH // Va-aniG_273 //
+   panasaḥ kaṇṭakiphalaḥ coco dīrghaphalaḥ smṛtaḥ /	panasaH kaNwakiPalaH cocaH dIrGaPalaH smRtaH /
+   nalikā suṣirā śūnyā kapotacaraṇā naṭī // VAnigh_274 //	nalikA suzirA SUnyA kapota-caraNA nawI // Va-aniG_274 //
+   snigdhavṛkṣastu sakṣīraḥ plakṣaḥ syād guḍabījakaḥ /	snigDavRkzaH-tu sa-kzIraH plakzaH syAt guxabIjakaH /
+   kālavṛntā kuberākṣī kuliṅgākṣī ca yakṣadṛk // VAnigh_275 //	kAlavRntA kuberAkzI kuliFgAkzI ca yakza-dRS // Va-aniG_275 //
+   ugrakāṇḍaḥ kāravallī toyavallī sukāṇḍakā /	ugrakANxaH kAravallI toyavallI su-kANxakAH /
+   pañcāṅgulī liṅgabījā rājikā piṇḍavatphalā // VAnigh_276 //	paQcAFgulI liFgabIjA rAjikA piNxa-vat-PalAH // Va-aniG_276 //
+   turyatuṇḍī śilācchedī pūtikā nityapuṣpikā /	turyatuNxI SilAcCedI pUtikA nitya-puzpikA /
+   parvamañjarikā kīṭa- hantrī vṛścikahāriṇī // VAnigh_277 //	parvamaQjarikA kIwa hantrI vRScika-hAriNI // Va-aniG_277 //
+   kumārī vyāghracaraṇā kanyā sthūladalā ca sā /	kumArI vyAGracaraNA kanyA sTUladalA ca sA /
+   bandhūko bandhujīvaś ca pārvako vṛkadhūmakaḥ // VAnigh_278 //	banDUkaH banDujIvaH ca pArvakaH vRkaDUmakaH // Va-aniG_278 //
+   kṛṣṇanīlaḥ kālaśākhaḥ kaiḍaryaḥ surabhicchadaḥ /	kRzNa-nIlaH kAla-SAKaH kExaryaH suraBicCadaH /
+   viśvarūpā rūpyagaṇḍā rūpyo haritatumbilī // VAnigh_279 //	viSva-rUpA rUpya-gaNxA rUpyaH harita-tumbilI // Va-aniG_279 //
+   arśoghnaś cākhukandaś ca vanyakandaś ca śūraṇaḥ /	arSoGnaH ca-AKukandaH ca vanyakandaH ca SUraNaH /
+   raktapādī śamīpattrā lajjā lohitayaṣṭikā // VAnigh_280 //	raktapAdI SamIpattrA lajjA lohita-yazwikAH // Va-aniG_280 //
+   durārohā kharaskandhā kharjūrī svādumastakā /	durArohA KaraskanDA KarjUrI svAdu-mastakAH /
+   hintālī tu mahātālī kutālī tilapuṣpikā // VAnigh_281 //	hintAlI tu mahAtAlI kutAlI tila-puzpikAH // Va-aniG_281 //
+   bahuskandhā mṛtyuphalā gūḍhapākī śilāphalā /	bahuskanDA mRtyuPalA gUXapAkI SilA-PalA /
+   jatuvṛkṣo ghanaskandhaḥ krimivṛkṣaḥ kuśāmrakaḥ // VAnigh_282 //	jatuvRkzaH GanaskanDaH krimivRkzaH kuSAmrakaH // Va-aniG_282 //
+   nīlapattrī kālanīlī nīlinī nīlapuṣpikā /	nIlapattrI kAlanIlI nIlinI nIlapuzpikA /
+   kākajaṅghā dhvāṅkṣajaṅghā dāsī kāntā pracībalā // VAnigh_283 //	kAkajaFGA DvAFkzajaFGA dAsI kAntA pracIbalAH // Va-aniG_283 //
+   śarapuṅkhā bāṇapuṅkhā maṇikā cekṣupuṅkhikā /	SarapuFKA bANapuFKA maNikA ca-ikzupuFKikA /
+   putradātrī vṛttapattrā vātāriḥ śvetapuṣpikā // VAnigh_284 //	putra-dAtrI vRttapattrA vAtAriH SvetapuzpikAH // Va-aniG_284 //
+   tālīśapattraṃ tālīśaṃ tālamāmalakīdalam /	tAlISapattram tAlISam tAlam-AmalakI-dalam /
+   śvāsadrumaḥ kākataruḥ rugyogyo vyāghraparṇyapi // VAnigh_285 //	SvAsadrumaH kAkataruH ruj-yogyaH vyAGraparNI-api // Va-aniG_285 //
+   kubjapuṣpā kṛṣṇavallī mahānīlā pratānikā /	kubjapuzpA kRzNavallI mahAnIlA pratAnikA /
+   mṛdukāntiḥ mahāśvetā śvetā tu khaṭikā smṛtā // VAnigh_286 //	mRdu-kAntiH mahASvetA SvetA tu KawikA smRtAH // Va-aniG_286 //
+   raktapāṣāṇako dhātuḥ girimṛd gairikaḥ smṛtaḥ /	raktapAzANakaH DAtuH giri-mRd gErikaH smRtaH /
+   stanyākhyo dugdhapāṣāṇaḥ saudhaḥ pāṣāṇako lavaḥ // VAnigh_287 //	stanya-AKyaH dugDa-pAzANaH sODaH pAzANakaH lavaH // Va-aniG_287 //
+   saugandhiko gandhakastu vaigandho gandhako baliḥ /	sOganDikaH ganDakaH-tu vEganDaH ganDakaH baliH /
+   manaḥśilā manoguptā manohvā kunaṭī śilā // VAnigh_288 //	manaHSilA manaH-guptA manohvA kunawI SilA // Va-aniG_288 //
+   haritālamālaṃ tālaṃ godantaṃ naṭabhūṣaṇam /	haritAla-m-Alam tAlam godantam nawaBUzaNam /
+   pārado rasadhātuś ca rudraretā mahārasaḥ // VAnigh_289 //	pAradaH rasaDAtuH ca rudra-retAH mahArasaH // Va-aniG_289 //
+   rasendraś capalaḥ sūto harayonī rasottamaḥ /	rasendraH capalaH sUtaH hara-yoniH rasa-uttamaH /
+   abhrakaṃ pārvatībījaṃ śailodbhūtaṃ tathāmbaram // VAnigh_290 //	aBrakam pArvatI-bIjam SEla-udBUtam taTA-ambaram // Va-aniG_290 //
+   mayūragrīvikaṃ tu syāt śikhikaṇṭhaṃ ca tutthakam /	mayUragrIvikam tu syAt SiKikaNWam ca tutTakam /
+   anyat karparikā tutthaṃ vāmanaṃ tutthameva tu // VAnigh_291 //	anyat karparikA tutTam vAmanam tutTam-eva tu // Va-aniG_291 //
+   hiṅgulaṃ daradaṃ mlecchaṃ rasabhūḥ carmarañjanam /	hiFgulam daradam mlecCam rasa-BUH carmaraQjanam /
+   sindūraṃ raktareṇu śrī- bhūṣaṇaṃ nāgasambhavam // VAnigh_292 //	sindUram rakta-reNu SrI BUzaNam nAga-samBavam // Va-aniG_292 //
+   sauvarcalaṃ tu rucakam akṣāhvaṃ kṛṣṇasaṃjñakam /	sOvarcalam tu rucakam akzAhvam kRzNa-saMjQakam /
+   viḍaṃ tu kṛtrimaṃ proktaṃ pṛthvīsambhavam audbhidam // VAnigh_293 //	vixam tu kRtrimam proktam pRTvI-samBavam OdBidam // Va-aniG_293 //
+   samudrajaṃ ca sāmudraṃ lavaṇaṃ paṭunāmakam /	samudrajam ca sAmudram lavaNam pawu-nAmakam /
+   yāvaśūko yavakṣāraḥ srotoghnastu suvarcikaḥ // VAnigh_294 //	yAvaSUkaH yavakzAraH srotaH-GnaH-tu suvarcikaH // Va-aniG_294 //
+   saubhāgyaṃ ṭaṅkaṇaṃ kṣāraḥ mālatīrasasambhavaḥ /	sOBAgyam waFkaNam kzAraH mAlatIrasa-samBavaH /
+   tāpīsamudbhavaṃ tāpyaṃ mākṣikaṃ haimamākṣikam // VAnigh_295 //	tApI-samudBavam tApyam mAkzikam hEmamAkzikam // Va-aniG_295 //
+   jatvaśmajaṃ dhātujaṃ ca śilākarpūrasaṃjñakam /	jatu-aSmajam DAtu-jam ca SilA-karpUra-saMjQakam /
+   gorocanā badarikā saurāṣṭrī rocanā śivā // VAnigh_296 //	gorocanA badarikA sOrAzwrI rocanA SivAH // Va-aniG_296 //
+   lākṣā dīptir drumavyādhiḥ krimijā lohitā jatu /	lAkzA dIptiH druma-vyADiH krimi-jA lohitAH jatu /
+   [padmottaras] tālakumbho yāvako 'laktakaḥ smṛtaḥ // VAnigh_297 //	[padma-uttaras] tAlakumBaH yAvakaH alaktakaH smRtaH // Va-aniG_297 //
+   mṛganābhir mṛgamadaḥ kastūrī darpasaṃjñakaḥ /	mRganABiH mRgamadaH kastUrI darpa-saMjQakaH /
+   latākastūrikā rālī gandhaveṇī mukhapriyā // VAnigh_298 //	latAkastUrikA rAlI ganDaveNI muKa-priyA // Va-aniG_298 //
+   ghanasāro himarājaḥ karpūraṃ himanāmakam /	GanasAraH himarAjaH karpUram hima-nAmakam /
+   mṛgasvedo mṛgajalaṃ pūtiḥ pūtyaṇḍajaḥ smṛtaḥ // VAnigh_299 //	mRga-svedaH mRga-jalam pUtiH pUtyaNxajaH smRtaH // Va-aniG_299 //
+   jātīphalaṃ majjasāraṃ jātikā jātipattrakaḥ /	jAtIPalam majja-sAram jAtikA jAtipattrakaH /
+   kakkolakaṃ kośaphalaṃ kolakaṃ bahubījakam // VAnigh_300 //	kakkolakam koSaPalam kolakam bahu-bIjakam // Va-aniG_300 //
+   phalaṃ dvīpamarīcaṃ ca kaṭukaṃ kaṭukīphalam /	Palam dvIpa-marIcam ca kawukam kawukI-Palam /
+   lavaṃgaṃ devakusumaṃ kusumaṃ śekharaṃ lavam // VAnigh_301 //	lavaMgam devakusumam kusumam SeKaram lavam // Va-aniG_301 //
+   niṣpattraṃ ca mahāpuṣpaṃ svargapuṣpaṃ varālakam /	nizpattram ca mahApuzpam svargapuzpam varAlakam /
+   śilāpuṣpaṃ tu śaileyaṃ śilājaṃ sthaviraṃ tathā // VAnigh_302 //	SilApuzpam tu SEleyam SilAjam sTaviram taTA // Va-aniG_302 //
+   puṣpāñjanaṃ rītipuṣpaṃ puṣpaketuś ca rītijam /	puzpAQjanam rItipuzpam puzpaketuH ca rIti-jam /
+   samudraphenaṃ śuṣkaṃ ca phenaṃ vāridhijaṃ malam // VAnigh_303 //	samudraPenam Suzkam ca Penam vAriDi-jam malam // Va-aniG_303 //
+   śaṅkho vāribhavaḥ kambuḥ jalajo dīrghaniḥsvanaḥ /	SaFKaH vAriBavaH kambuH jalajaH dIrGa-niHsvanaH /
+   pravālaṃ vallijaṃ raktaṃ vidrumaṃ ca prakīrtitam // VAnigh_304 //	pravAlam vallijam raktam vidrumam ca prakIrtitam // Va-aniG_304 //
+   rūpyakaṃ rajataṃ tāraṃ suvarṇaṃ kanakaṃ smṛtam /	rUpyakam rajatam tAram suvarNam kanakam smRtam /
+   jātarūpaṃ tathā hema śātakumbhaṃ ca hāṭakam // VAnigh_305 //	jAtarUpam taTA hema SAtakumBam ca hAwakam // Va-aniG_305 //
+   jāmbūnadaṃ hiraṇyaṃ ca tapanīyaṃ ca kāñcanam /	jAmbUnadam hiraNyam ca tapanIyam ca kAQcanam /
+   tāmramaudumbaraṃ śulbaṃ mihiraṃ harināmakam // VAnigh_306 //	tAmram-Odumbaram Sulbam mihiram hari-nAmakam // Va-aniG_306 //
+   rītikā pittalaṃ pūti pītalohaṃ ca saiṃhalam /	rItikA pittalam pUti pItaloham ca sEMhalam /
+   trapusaṃ trapusaṃjñaṃ ca tagaraṃ rūpyaśatrukaḥ // VAnigh_307 //	trapusam trapu-saMjQam ca tagaram rUpya-SatrukaH // Va-aniG_307 //
+   sīsakaṃ nāgamuragaṃ kāṃsyaṃ kāśaṃ ca ghoṣakam /	sIsakam nAgam-uragam kAMsyam kASam ca Gozakam /
+   vārttālohaṃ vartalohaṃ trilohaṃ pañcalohakam // VAnigh_308 //	vArttAloham vartaloham triloham paQcalohakam // Va-aniG_308 //
+   kṛṣṇalohamayaḥ sāra- māyasaṃ ca śilodbhavam /	kRzNaloha-mayaH sAra mAyasam ca SilodBavam /
+   ayorajo loharajas tat kiṭṭaṃ syād ayomalam // VAnigh_309 //	ayaH-rajaH loha-rajaH tat kiwwam syAt ayomalam // Va-aniG_309 //
+   cipiṭaṃ cippaṭaṃ ciṭṭaṃ vālukā sikatā smṛtā /	cipiwam cippawam ciwwam vAlukA sikatA smRtA /
+   lohakāntamayaskāntaṃ kāntaṃ bhrāmaracumbakam // VAnigh_310 //	loha-kAntam-ayaskAntam kAntam BrAmara-cumbakam // Va-aniG_310 //
+   mṛdulohaṃ tīkṣṇalohaṃ tīkṣṇākhyaṃ sūkṣmalohakam /	mRduloham tIkzNaloham tIkzNa-AKyam sUkzmalohakam /
+   kālakūṭo mahāmusto vatsanābho halāhalaḥ // VAnigh_311 //	kAlakUwaH mahA-mustaH vatsanABaH halAhalaH // Va-aniG_311 //
+   vatsadantī mahāśṛṅgī lelihas tālapattrakaḥ /	vatsadantI mahASRFgI lelihaH tAlapattrakaH /
+   viṣaṃ ca mūlakaṃ śṛṅgī garaṃ kṛtrimasaṃjñakam // VAnigh_312 //	vizam ca mUlakam SRFgI garam kRtrima-saMjQakam // Va-aniG_312 //
+   toyacchadā vāriparṇī kumbhikā jalakumbhikā /	toyacCadA vAriparNI kumBikA jala-kumBikA /
+   dīrghamūlaṃ jalāvāsaṃ śaivālaṃ jalasambhavam // VAnigh_313 //	dIrGa-mUlam jala-AvAsam SEvAlam jala-samBavam // Va-aniG_313 //
+   paṅkajaṃ puṇḍarīkaṃ ca śatapattraṃ kuśeśayam /	paFkajam puNxarIkam ca Satapattram kuSeSayam /
+   bisaprasūnarājīva- jalajāmbhoruhāṇi ca // VAnigh_314 //	bisa-prasUna-rAjI-iva jalaja-amBoruhANi ca // Va-aniG_314 //
+   śaśipriyaṃ ca gandhāḍhyaṃ kumudaṃ kokanandanam /	SaSipriyam ca ganDa-AXyam kumudam kokanandanam /
+   kākotpalaṃ tu kākotthaṃ kākākhyaṃ hrasvamutpalam // VAnigh_315 //	kAkotpalam tu kAkotTam kAka-AKyam hrasvam-utpalam // Va-aniG_315 //
+   teṣāṃ phalaṃ tu kumbhīkaṃ mūlaṃ śālūkakandakam /	tezAm Palam tu kumBIkam mUlam SAlUka-kandakam /
+   kaśerukaḥ sugandhiś ca sukando mustakandakaḥ // VAnigh_316 //	kaSerukaH suganDiH ca sukandaH mustakandakaH // Va-aniG_316 //
+   śṛṅgāṭako jalaphalaṃ jalakandas trikoṇakaḥ /	SRFgAwakaH jala-Palam jalakandaH trikoNakaH /
+   karavīro 'śvamārastu bakulaṃ madyakesaram // VAnigh_317 //	karavIraH aSvamAraH-tu bakulam madyakesaram // Va-aniG_317 //
+   alaktā mālyaśephālī rūpikā tāmrapuṣpikā /	alaktA mAlyaSePAlI rUpikA tAmra-puzpikA /
+   raktapuṣpī jayā rudrā- -mlāyanī vanamālikā (?) // VAnigh_318 //	raktapuzpI jayA rudrA -mlAyanI vanamAlikA (?) // Va-aniG_318 //
+   āmlāyano rājasairyaḥ koraṇḍo nakharañjanaḥ /	AmlAyanaH rAjasEryaH koraNxaH naKa-raQjanaH /
+   tilakaḥ pūrṇakaḥ śrīmān sudyutiḥ śuklapuṣpakaḥ // VAnigh_319 //	tilakaH pUrNakaH SrImAn su-dyutiH SuklapuzpakaH // Va-aniG_319 //
+   mālatī sumanā jātī yūthikā gandhanāmikā /	mAlatI sumanAH jAtI yUTikA ganDa-nAmikA /
+   mallikoktā vicakilā dvipuṣpī puṣpaṭī tathā // VAnigh_320 //	mallikA-uktA vicakilA dvipuzpI puzpawI taTA // Va-aniG_320 //
+   kuñjaraḥ śatapattraś ca kaṇṭakāḍhyaś ca kubjakaḥ /	kuQjaraH SatapattraH ca kaNwakAXyaH ca kubjakaH /
+   aṭṭahāsaḥ śaṅkhaśuklā nāmnā sā śaṅkhayūthikā // VAnigh_321 //	awwahAsaH SaFKaSuklA nAmnA sA SaFKa-yUTikAH // Va-aniG_321 //
+   ṛṣir damanako dānto vinītaḥ kulapattrakaḥ /	RziH damanakaH dAntaH vinItaH kulapattrakaH /
+   damanaḥ pāṇḍurāgaḥ syāt tathā gandhotkaṭo muniḥ // VAnigh_322 //	damanaH pANxu-rAgaH syAt taTA ganDotkawaH muniH // Va-aniG_322 //
+   pānīyam ambu salilaṃ toyaṃ codakavāriṇī /	pAnIyam ambu salilam toyam ca-udaka-vAriNI /
+   payaḥ kīlālamamṛtaṃ jīvanaṃ bhuvanaṃ vanam // VAnigh_323 //	payaH kIlAlam-amRtam jIvanam Buvanam vanam // Va-aniG_323 //
+   kṣīraṃ svādu payo dugdhaṃ stanyaṃ vāri stanodbhavam /	kzIram svAdu payaH dugDam stanyam vAri stana-udBavam /
+   dadhi māṅgalyakaṃ caiva saṃtānaṃ stanikā smṛtā // VAnigh_324 //	daDi mAFgalyakam ca-eva saMtAnam stanikA smRtAH // Va-aniG_324 //
+   ghoṣaṃ daṇḍāhataṃ takraṃ kālaśeyamudāhṛtam /	Gozam daNxa-Ahatam takram kAlaSeyam-udAhRtam /
+   ghṛtamājyaṃ haviḥ sarpiḥ navanītaṃ ghṛtālayaḥ // VAnigh_325 //	GRtam-Ajyam haviH sarpiH navanItam GRta-AlayaH // Va-aniG_325 //
+   guḍastvikṣuvikāraḥ syāt khaṇḍaṃ phullamiti smṛtam /	guxaH-tu-ikzu-vikAraH syAt KaNxam Pullam-iti smRtam /
+   sitopalā śarkarā ca sitā matsyaṇḍikā smṛtā // VAnigh_326 //	sitopalA SarkarA ca sitA matsyaNxikA smRtAH // Va-aniG_326 //
+   mākṣikaṃ sāraghaṃ kṣaudraṃ madhu puṣparasodbhavam /	mAkzikam sAraGam kzOdram maDu puzparasa-udBavam /
+   madhūcchiṣṭaṃ ca madanaṃ sikthakaṃ makṣikāmalam // VAnigh_327 //	maDUcCizwam ca madanam sikTakam makzikA-malam // Va-aniG_327 //
+   tailam abhyañjanavaraṃ tilajaṃ tilasambhavam /	tElam aByaQjana-varam tila-jam tila-samBavam /
+   prasannā vāruṇī jñeyā parisvinnā ca sā smṛtā // VAnigh_328 //	prasannA vAruNI jQeyA parisvinnA ca sA smRtAH // Va-aniG_328 //
+   kādambarī ghanā surā maireyo hy āsavo madaḥ /	kAdambarI GanA surAH mEreyaH hi AsavaH madaH /
+   mārdvīkaṃ madhu vijñeyaṃ mādhvīkaṃ madhunā kṛtam // VAnigh_329 //	mArdvIkam maDu vijQeyam mADvIkam maDunA kRtam // Va-aniG_329 //
+   guḍena gauḍaṃ sitayā śārkaraṃ saindham aikṣavam /	guxena gOxam sitayA SArkaram sEnDam Ekzavam /
+   khaṇḍena khaṇḍavāsaḥ syāt paiṣṭakaṃ piṣṭasambhavam // VAnigh_330 //	KaNxena KaNxavAsaH syAt pEzwakam pizwa-samBavam // Va-aniG_330 //
+   avantisomo dhānyāmlam āranālaṃ ca kāñjikam /	avantisomaH DAnyAmlam AranAlam ca kAQjikam /
+   śuktaṃ sauvīrakaṃ ceti tuṣodaṃ tu tuṣodakam // VAnigh_331 //	Suktam sOvIrakam ca-iti tuzodam tu tuzodakam // Va-aniG_331 //
+   yavotthaṃ taṇḍulodaṃ ca rasāmlaṃ śuktakāñjikam /	yavotTam taNxulodam ca rasAmlam Sukta-kAQjikam /
+   brahmāmbu gombu gomūtraṃ gomalaṃ gomayaṃ smṛtam // VAnigh_332 //	brahma-ambu gombu go-mUtram gomalam gomayam smRtam // Va-aniG_332 //
+   śālir vrīhir varaś caiva dhānyakaṃ raktaśūkaraḥ /	SAliH vrIhiH varaH ca-eva DAnyakam raktaSUkaraH /
+   yavaś ca sthūlamadhyaś ca varuṇo munibhikṣitaḥ // VAnigh_333 //	yavaH ca sTUla-maDyaH ca varuNaH muni-BikzitaH // Va-aniG_333 //
+   akṛṣṭapacyo nīvāraḥ śakuntamunibhojanam /	akRzwa-pacyaH nIvAraH SakuntamuniBojanam /
+   caṇakastu kalāyaḥ syād godhūmo mlecchabhojanaḥ // VAnigh_334 //	caNakaH-tu kalAyaH syAt goDUmaH mlecCa-BojanaH // Va-aniG_334 //
+   camasī cātibījā syāt koradūṣastu kodravaḥ /	camasI ca-atibIjA syAt koradUzaH-tu kodravaH /
+   kaṅguḥ saṃdhyanthisaṃbandhī priyaṅguḥ pītataṇḍulaḥ // VAnigh_335 //	kaFguH saMDi-anTi-saMbanDI priyaFguH pItataNxulaH // Va-aniG_335 //
+   gavedhukā ca gojihvā karśanīyā sitā tathā /	gaveDukA ca gojihvA karSanIyA sitA taTA /
+   uddālakastu jūrṇāhvo yāvanālaḥ śukapriyaḥ // VAnigh_336 //	uddAlakaH-tu jUrNAhvaH yAvanAlaH SukapriyaH // Va-aniG_336 //
+   vāsantaḥ kṛṣṇamudgastu mādhavaś ca surāṣṭrajaḥ /	vAsantaH kRzNamudgaH-tu mADavaH ca surAzwrajaH /
+   makuṣṭho vanamudgaś ca masūraḥ pittabheṣajam // VAnigh_337 //	makuzWaH vanamudgaH ca masUraH pitta-Bezajam // Va-aniG_337 //
+   harimanthāḥ sugandhāś ca caṇakāḥ kṛṣṇakañcukāḥ /	harimanTAH suganDAH ca caNakAH kRzNa-kaQcukAH /
+   kulatthaḥ kālavṛttaś ca tāmravarṇo 'nilāpahā // VAnigh_338 //	kulatTaH kAla-vRttaH ca tAmra-varNaH anila-apahA // Va-aniG_338 //
+   māṣastu picchilarasaḥ kuruvindo vṛṣākaraḥ /	mAzaH-tu picCila-rasaH kuruvindaH vRzAkaraH /
+   rājamāṣo 'lasāndraḥ syāt khañjakākhyaḥ kalāyakaḥ // VAnigh_339 //	rAjamAzaH alasAndraH syAt KaQjaka-AKyaH kalAyakaH // Va-aniG_339 //
+   āḍhakī tuvarī proktā niṣpāvā śimbikā smṛtā /	AXakI tuvarI proktA nizpAvA SimbikA smRtA /
+   tilaḥ snehaphalaḥ sneha- pūrṇaś ca kṛṣṇatailakaḥ // VAnigh_340 //	tilaH sneha-PalaH sneha pUrNaH ca kRzNa-tElakaH // Va-aniG_340 //
+   phalatrayaṃ tu triphalā varā śreṣṭhā tathottamā /	Palatrayam tu triPalA varA SrezWA taTA-uttamA /
+   dvipaṃ ca mūlaṃ daśakaṃ daśamūlaṃ daśāṅghrikam // VAnigh_341 //	dvipam ca mUlam daSakam daSamUlam daSa-aFGrikam // Va-aniG_341 //
+   trikaṭu tryūṣaṇaṃ vyoṣaṃ kaṭutrayam ihocyate /	trikawu tryUzaNam vyozam kawutrayam iha-ucyate /
+   pañcakolaṃ pañcakaṭu trisugandhi trijātakam // VAnigh_342 //	paQcakolam paQcakawu trisuganDi trijAtakam // Va-aniG_342 //
+   auṣadhaṃ bheṣajaṃ pathyam agadaṃ ca bhiṣagjitam /	OzaDam Bezajam paTyam agadam ca Bizagjitam /
+   kalabho vāraṇo dantī mātaṃgo dvirado dvipaḥ // VAnigh_343 //	kalaBaH vAraNaH dantI mAtaMgaH dviradaH dvipaH // Va-aniG_343 //
+   gajo hastī karībhaś ca kareṇur hastinī smṛtā /	gajaH hastI karIBaH ca kareNuH hastinI smRtA /
+   hayo 'śvas turago vājī saptir vāhas tu bāḍavaḥ // VAnigh_344 //	hayaH aSvaH turagaH vAjI saptiH vAhaH tu bAxavaH // Va-aniG_344 //
+   bāleyo rāsabho jñeyo dhūsaro gardabhaḥ kharaḥ /	bAleyaH rAsaBaH jQeyaH DUsaraH gardaBaH KaraH /
+   karabho dīrghagaś coṣṭraḥ kṣamī vesarako balī // VAnigh_345 //	karaBaH dIrGagaH ca-uzwraH kzamI vesarakaH balI // Va-aniG_345 //
+   śārdūlaś citrakāyastu vyāghraḥ syāt puṇḍarīkaḥ (?) /	SArdUlaH citrakAyaH-tu vyAGraH syAt puNxarIkaH (?) /
+   pañcāsyo mṛgarāṭ siṃho haryakṣaḥ kesarī hariḥ // VAnigh_346 //	paQcAsyaH mRgarAj siMhaH haryakzaH kesarI hariH // Va-aniG_346 //
+   kaṇṭhīravaś ca vijñeyaḥ piṅgadṛṣṭir mṛgādanaḥ /	kaNWIravaH ca vijQeyaH piFga-dRzwiH mRgAdanaH /
+   mṛge kuraṅgavātāyu- hariṇājinayonayaḥ // VAnigh_347 //	mRge kuraFga-vAta-Ayu hariNa-ajina-yonayaH // Va-aniG_347 //
+   tāmrābho hariṇaḥ kṛṣṇas tv eṇas tvakkomalaḥ smṛtaḥ /	tAmra-ABaH hariNaH kRzNaH tu eNaH tvak-komalaH smRtaH /
+   kṛṣṇasāraś citramṛgaḥ romaśā camarī smṛtā // VAnigh_348 //	kRzNasAraH citramRgaH romaSA camarI smRtAH // Va-aniG_348 //
+   varāhaḥ śūkaraḥ kīṭī daṃṣṭrī ghoṇī ca romaśaḥ /	varAhaH SUkaraH kIwI daMzwrI GoNI ca romaSaH /
+   stabdharomā pṛthuskandhaḥ kroḍaḥ kolastathā kiriḥ // VAnigh_349 //	stabDaromA pRTuskanDaH kroxaH kolaH-taTA kiriH // Va-aniG_349 //
+   kapiḥ plavaṃgaplavaga- śākhāmṛgavalīmukhāḥ /	kapiH plavaMga-plavaga SAKAmRga-valImuKAH /
+   markaṭo vānaraḥ kīśaḥ vanaukāḥ phalabhakṣakaḥ // VAnigh_350 //	markawaH vAnaraH kISaH vanOkAH PalaBakzakaH // Va-aniG_350 //
+   śṛgālo jambukaḥ kroṣṭā gomāyur mṛgadhūrtakaḥ /	SRgAlaH jambukaH krozwA gomAyuH mRgaDUrtakaH /
+   pārāvataḥ kalaravo gehapakṣī kapotakaḥ // VAnigh_351 //	pArAvataH kalaravaH gehapakzI kapotakaH // Va-aniG_351 //
+   kṛkavākus tāmracūḍaḥ kukkuṭaś caraṇāyudhaḥ /	kRkavAkuH tAmracUxaH kukkuwaH caraNAyuDaH /
+   mayūro barhiṇo barhī nīlakaṇṭho bhujaṃgabhuk // VAnigh_352 //	mayUraH barhiNaH barhI nIlakaNWaH BujaMgaBuj // Va-aniG_352 //
+   śikhāvalaḥ śikhī kekī kalāpī meghanādinī /	SiKAvalaH SiKI kekI kalApI meGanAdinI /
+   ulūko vāyasāristu kauśiko rajanīcaraḥ // VAnigh_353 //	ulUkaH vAyasAriH-tu kOSikaH rajanIcaraH // Va-aniG_353 //
+   kākastu karaṭo 'riṣṭaḥ balipuṣṭaḥ sakṛtprajaḥ /	kAkaH-tu karawaH arizwaH bali-puzwaH sakRt-prajaH /
+   parabhūr balibhug dhvāṅkṣaś cirajīvī ca vāyasaḥ // VAnigh_354 //	paraBUH baliBuj DvAFkzaH cira-jIvI ca vAyasaH // Va-aniG_354 //
+   ekadṛṣṭiś cātmaghoṣaḥ droṇakākastu kṛṣṭalaḥ /	eka-dRzwiH ca-Atma-GozaH droNakAkaH-tu kRzwalaH /
+   caṭakaḥ kalaviṅkaś ca kuliṅgaś caṭakāpi ca // VAnigh_355 //	cawakaH kalaviFkaH ca kuliFgaH cawakA-api ca // Va-aniG_355 //
+   vijñeyaś carmapathikaḥ jātuṣaś carmasāhvayaḥ /	vijQeyaH carmapaTikaH jAtuzaH carmasAhvayaH /
+   bharadvājo dvijo brāhmo vyāghrāṭaḥ khañjarīṭakaḥ // VAnigh_356 //	BaradvAjaH dvijaH brAhmaH vyAGrAwaH KaQjarIwakaH // Va-aniG_356 //
+   sāraṅgaḥ khañjanaś caiva meghavṛttistu cātakaḥ /	sAraFgaH KaQjanaH ca-eva meGa-vRttiH-tu cAtakaH /
+   vanapriyaḥ parabhṛtaḥ kokilaḥ susvaraḥ pikaḥ // VAnigh_357 //	vanapriyaH paraBRtaH kokilaH su-svaraH pikaH // Va-aniG_357 //
+   gūḍhapāt kacchapaḥ kūrmaḥ kulīraḥ karkaṭaḥ smṛtaḥ /	gUXapAd kacCapaH kUrmaH kulIraH karkawaH smRtaH /
+   śambūko vṛttaśaṅkhaś ca śaṅkhako mātṛgehakaḥ // VAnigh_358 //	SambUkaH vRttaSaFKaH ca SaFKakaH mAtR-gehakaH // Va-aniG_358 //
+   mīno matsyo 'ṇḍajaś caiva jalaukā jalaśāyanaḥ /	mInaH matsyaH aNxajaH ca-eva jalOkAH jalaSAyanaH /
+   maṇḍūko darduro bhekaḥ kākāhis toyasarpakaḥ // VAnigh_359 //	maNxUkaH darduraH BekaH kAkAhiH toya-sarpakaH // Va-aniG_359 //
+   sarpaḥ pṛdākurbhujago bhujaṃgo 'hir bhujaṃgamaḥ /	sarpaH pRdAkuH-BujagaH BujaMgaH ahiH BujaMgamaH /
+   āśīviṣo viṣadharaś cakrī vyālaḥ sarīsṛpaḥ // VAnigh_360 //	ASIvizaH vizaDaraH cakrI vyAlaH sarIsRpaH // Va-aniG_360 //
+   kuṇḍalī gūḍapāc cakṣuḥ śravāḥ kākodaraḥ phaṇī /	kuNxalI gUxapAt cakzuH SravAH kAkodaraH PaNI /
+   darvīkaro dīrghapṛṣṭho jihmagaḥ pavanāśanaḥ // VAnigh_361 //	darvIkaraH dIrGapRzWaH jihma-gaH pavanASanaH // Va-aniG_361 //
+   lelihāno dandaśūko dvijihvaś ca bileśayaḥ /	lelihAnaH dandaSUkaH dvijihvaH ca bileSayaH /
+   kṛkalāso mayūrādī kāleyo bahupannagaḥ // VAnigh_362 //	kRkalAsaH mayUra-AdI kAleyaH bahu-pannagaH // Va-aniG_362 //
+   śatapāt saraṭā cakrī nakulaḥ sarpabhakṣakaḥ /	SatapAd sarawA cakrI nakulaH sarpaBakzakaH /
+   nālinī nālahūlīkā talāṭā sthūladantikā // VAnigh_363 //	nAlinI na-alahUlIkA talAwA sTUla-dantikAH // Va-aniG_363 //
+   ākhūndurur mūṣakaś ca vṛkaś ca dūṣakaḥ smṛtaḥ /	AKu-unduruH mUzakaH ca vRkaH ca dUzakaH smRtaH /
+   chuchundarī rājaputrī vijñeyā gandhamūṣikā // VAnigh_364 //	CuCundarI rAja-putrI vijQeyA ganDamUzikA // Va-aniG_364 //
+   purohitā kuḍyamatsyā gaurī ca gṛhagodhikā /	purohitA kuxya-matsyA gOrI ca gRhagoDikA /
+   gaudherakākṛtir godhā prāgbāhur yugmajihvakaḥ // VAnigh_365 //	gODeraka-AkRtiH goDA prAc-bAhuH yugmajihvakaH // Va-aniG_365 //
+   otur biḍālo mārjāro vṛṣadaṃśaka ākhubhuk /	otuH bixAlaH mArjAraH vRzadaMSakaH AKuBuj /
+   udaṅghā kapijaṅghā tu lohitāṅgaḥ pipīlakaḥ // VAnigh_366 //	udaFGA kapijaFGA tu lohita-aFgaH pipIlakaH // Va-aniG_366 //
+   gaṇḍūpadā bhūmilatā bhūnāgo varṣajālakaḥ /	gaNxUpadA BUmilatA BUnAgaH varza-jAlakaH /
+   madhuyuto madhukaro madhuliṭ madhupastathā // VAnigh_367 //	maDu-yutaH maDukaraH maDulih maDupaH-taTA // Va-aniG_367 //
+   dvirephaḥ puṣpaliḍ bhṛṅgaḥ ṣaṭpadabhramarāvaliḥ /	dvirePaH puzpalih BRFgaH zawpada-Bramara-AvaliH /
+   indindiraś cañcarīkaḥ saraghā madhumakṣikā // VAnigh_368 //	indindiraH caQcarIkaH saraGAH maDu-makzikAH // Va-aniG_368 //
+   lambaromā makṣikā ca parā dīpanivāraṇī /	lambaromA makzikA ca parA dIpa-nivAraNI /
+   pataṃgikā puttikā syāt daṃśastu vanamakṣikā // VAnigh_369 //	pataMgikA puttikA syAt daMSaH-tu vanamakzikA // Va-aniG_369 //
+   bhṛṅgārī cīrukā cīrī jhillikā ghargharasvanā /	BRFgArI cIrukA cIrI JillikA GarGara-svanAH /
+   pataṃgaḥ śalabho jñeyaḥ svadyoto jyotiriṅgaṇaḥ // VAnigh_370 //	pataMgaH SalaBaH jQeyaH sva-dyotaH jyotiriFgaNaH // Va-aniG_370 //
+   lulāyo mahiṣo vāha- dveṣī kāsarasairibhau /	lulAyaH mahizaH vA-aha dvezI kAsara-sEriBO /
+   vanyastu gavayo jñeyaḥ kakudmān gopatir vṛṣaḥ // VAnigh_371 //	vanyaH-tu gavayaH jQeyaH kakudmAn gopatiH vRzaH // Va-aniG_371 //
+   ukṣān aḍvān balīvardaḥ surabhir gopakaḥ smṛtaḥ /	ukzAn axvAn balIvardaH suraBiH gopakaH smRtaH /
+   sakṛtprasūtā gṛṣṭiḥ syāt baṣkayaṇy ekahāyanī // VAnigh_372 //	sakRt-prasUtA gRzwiH syAt bazkayaNI eka-hAyanI // Va-aniG_372 //
+   annasāro raso rakta- yoniḥ syād dṛḍhadhātukaḥ /	annasAraH rasaH rakta yoniH syAt dRXaDAtukaH /
+   raktaṃ śoṇaṃ māṃsakaraṃ śoṇitaṃ kṣatajam asṛk // VAnigh_373 //	raktam SoNam mAMsa-karam SoNitam kzatajam asRk // Va-aniG_373 //
+   palaṃ māṃsaṃ śoṇitotthaṃ piśitaṃ kravyam āmiṣam /	palam mAMsam SoNita-utTam piSitam kravyam Amizam /
+   picchā māṃsodbhavaṃ medo vasā medaḥsamudbhavā // VAnigh_374 //	picCA mAMsa-udBavam medaH vasA medaH-samudBavAH // Va-aniG_374 //
+   medaḥsambhavam asthi syād dehasaṃdhānadhāraṇam /	medaH-samBavam asTi syAt deha-saMDAna-DAraNam /
+   asthisārastathā majjā snehasāro 'sthisambhavaḥ // VAnigh_375 //	asTisAraH-taTA majjA sneha-sAraH asTi-samBavaH // Va-aniG_375 //
+   śuklaṃ tejo bījapuṃstve reto vīryāntyadhātuke /	Suklam tejaH bIja-puMstve retaH vIrya-antya-DAtuke /
+   ojastu dhātusāraḥ syāt saumyo hṛdayadīpanaḥ // VAnigh_376 //	ojaH-tu DAtusAraH syAt sOmyaH hRdaya-dIpanaH // Va-aniG_376 //
+   anilo māruto vāyuḥ marutprāṇaḥ prabhañjanaḥ /	anilaH mArutaH vAyuH marut-prANaH praBaQjanaH /
+   samīraṇo mātariśvā pavanaś ca sadāgatiḥ // VAnigh_377 //	samIraNaH mAtariSvA pavanaH ca sadAgatiH // Va-aniG_377 //
+   māyuḥ pittaṃ vahnikāntaṃ kaphaḥ śleṣmā ca picchilaḥ /	mAyuH pittam vahnikAntam kaPaH SlezmA ca picCilaH /
+   kardamaḥ paṅkajambālau mṛtsā mṛtsnā ca mṛttikā // VAnigh_378 //	kardamaH paFkajambAlO mRtsA mRtsnA ca mRttikA // Va-aniG_378 //
+   hasantikāṅgāradhānī tailapātraṃ kutūḥ smṛtā /	hasantikA-aFgAra-DAnI tEla-pAtram kutUH smRtA /
+   pāṣāṇaprastaragrāvo- -palāśmānaḥ śilā dṛṣat // VAnigh_379 //	pAzANa-prastara-grAvo -pala-aSmAnaH SilA dRzat // Va-aniG_379 //
+   pṛthvī vasuṃdharākhyā ca gaur bhūmir medinī mahī /	pRTvI vasuMDarA-AKyA ca gOH BUmiH medinI mahI /
+   dharā dharitrī dharaṇī kṣoṇī jyā kāśyapī kṣitiḥ // VAnigh_380 //	DarA DaritrI DaraNI kzoNI jyA kASyapI kzitiH // Va-aniG_380 //
+   sarvaṃsahā vasumatī vasudhorvyacalā smṛtā /	sarvaMsahA vasumatI vasuDA-urvI-acalA smRtA /
+   viśvambharā rasānantā gotrā kuḥ pṛthivī kṣamā // VAnigh_381 //	viSvamBarA rasa-anantA gotrA kuH pRTivI kzamA // Va-aniG_381 //
+   avanī bhūtadhātrī ca vipulā sāgarāmbarā /	avanI BUtaDAtrI ca vipulA sAgara-ambarAH /
+   sūro haṃso ravir bhānuḥ pataṃgo 'rko divākaraḥ // VAnigh_382 //	sUraH haMsaH raviH BAnuH pataMgaH arkaH divAkaraH // Va-aniG_382 //
+   pradyotano dinamaṇiḥ khadyoto dyumaṇistathā // VAnigh_383 //	pradyotanaH dinamaNiH KadyotaH dyumaNiH-taTA // Va-aniG_383 //
+   bradhnaḥ prabhākaro bhāsvān dvādaśātmā divākaraḥ /	braDnaH praBAkaraH BAsvAn dvAdaSa-AtmA divAkaraH /
+   savitā ca sahasrāṃśur mārtaṇḍaś ca vikartanaḥ // VAnigh_384 //	savitA ca sahasrAMSuH mArtaNxaH ca vikartanaH // Va-aniG_384 //
+   karmasākṣī jagaccakṣur aṃśumālī trayītanuḥ /	karma-sAkzI jagaccakzuH aMSumAlI trayI-tanuH /
+   vibhāvasur grahapatis tviṣāṃpatir aharpatiḥ // VAnigh_385 //	viBAvasuH grahapatiH tvizAMpatiH aharpatiH // Va-aniG_385 //
+   śītāṃśur induś candramāḥ śaśī candro niśākaraḥ /	SItAMSuH induH candramAH SaSI candraH niSAkaraH /
+   vidhuḥ sudhāṃśuḥ śubhrāṃśur oṣadhīśo niśāpatiḥ // VAnigh_386 //	viDuH suDAMSuH SuBrAMSuH ozaDISaH niSApatiH // Va-aniG_386 //
+   abjo jaivātṛkaḥ somo glaur mṛgāṅkaḥ kalānidhiḥ /	ap-jaH jEvAtRkaH somaH glOH mRgAFkaH kalAniDiH /
+   dvijarājaḥ śaśadharo nakṣatreśaḥ kṣapākaraḥ // VAnigh_387 //	dvija-rAjaH SaSaDaraH nakzatreSaH kzapA-karaH // Va-aniG_387 //
+   aṅgārakaḥ kujo bhaumo rauhiṇeyo budho dvijaḥ /	aFgArakaH kujaH BOmaH rOhiNeyaH buDaH dvijaH /
+   gurur bṛhaspatir mantrī cośanā bhārgavaḥ kaviḥ // VAnigh_388 //	guruH bRhaspatiH mantrI ca-uSanA BArgavaH kaviH // Va-aniG_388 //
+   śaniḥ paṅguḥ sūryaputraḥ saiṃhikeyo vidhuṃtudaḥ /	Sanis paFguH sUryaputraH sEMhikeyaH viDuMtudaH /
+   tamastu rāhuḥ svarbhānuḥ ketustu dhvajanāmakaḥ // VAnigh_389 //	tamaH-tu rAhuH svarBAnuH ketuH-tu Dvaja-nAmakaH // Va-aniG_389 //
+   uḍu nakṣatramṛkṣaṃ bhaṃ doṣā naktaṃ niśā kṣapā /	uxu nakzatram-Rkzam Bam dozAH naktam niSA kzapA /
+   kṣaṇadā yāminī rātris triyāmā coravallabhā // VAnigh_390 //	kzaNadA yAminI rAtriH triyAmA cora-vallaBAH // Va-aniG_390 //
+   dināhanī vāsaraś ca ghasro bhāskaravallabhaḥ /	dina-ahanI vAsaraH ca GasraH BAskaravallaBaH /
+   śambhur īśaḥ paśupatiḥ śivaḥ śūlī maheśvaraḥ // VAnigh_391 //	SamBuH ISaH paSupatiH SivaH SUlI maheSvaraH // Va-aniG_391 //
+   īśvaraḥ śarvaḥ īśānaḥ śaṃkaraś candraśekharaḥ /	ISvaraH SarvaH ISAnaH SaMkaraH candraSeKaraH /
+   bhūteśaḥ khaṇḍaparaśur girīśo giriśo mṛḍaḥ // VAnigh_392 //	BUteSaH KaNxaparaSuH girISaH giriSaH mRxaH // Va-aniG_392 //
+   mṛtyuṃjayaḥ kṛttivāsāḥ pinākī pramathādhipaḥ /	mRtyuMjayaH kRttivAsAH pinAkI pramaTa-aDipaH /
+   ugraḥ kapardī śrīkaṇṭhaḥ śitikaṇṭhaḥ kapālabhṛt // VAnigh_393 //	ugraH kapardI SrIkaNWaH SitikaNWaH kapAlaBRt // Va-aniG_393 //
+   vāmadevo mahādevo virūpākṣastrilocanaḥ /	vAmadevaH mahAdevaH virUpAkzaH-trilocanaH /
+   kṛśānuretāḥ sarvajño dhūrjaṭir nīlalohitaḥ // VAnigh_394 //	kRSa-anuretAH sarvajQaH DUrjawiH nIlalohitaH // Va-aniG_394 //
+   haraḥ smaraharo bhargas tryambakastripurāntakaḥ /	haraH smara-haraH BargaH tryambakaH-tripurAntakaH /
+   gaṅgādharo 'ndhakaripuḥ kratudhvaṃsī vṛṣadhvajaḥ // VAnigh_395 //	gaFgADaraH anDakaripuH kratu-DvaMsI vRzaDvajaH // Va-aniG_395 //
+   vyomakeśo bhavo bhīmaḥ sthāṇū rudra umāpatiḥ /	vyomakeSaH BavaH BImaH sTANuH rudraH umApatiH /
+   umā kātyāyanī gaurī kālī haimavatīśvarī // VAnigh_396 //	umA kAtyAyanI gOrI kAlI hEmavatI-ISvarI // Va-aniG_396 //
+   śivāparṇā bhavānī ca pārvatī caṇḍikāmbikā /	SivAparNA BavAnI ca pArvatI caNxikA-ambikA /
+   ajo harir vāsudevo daityāriḥ puruṣottamaḥ // VAnigh_397 //	ajaH hariH vAsudevaH dEtyAriH puruzottamaH // Va-aniG_397 //
+   viṣṇur nārāyaṇaḥ kṛṣṇo vaikuṇṭho viṣṭaraśravāḥ /	vizNuH nArAyaNaH kRzNaH vEkuNWaH vizwaraSravAH /
+   dāmodaro hṛṣīkeśaḥ keśavo mādhavaḥ svabhūḥ // VAnigh_398 //	dAmodaraH hRzIkeSaH keSavaH mADavaH svaBUH // Va-aniG_398 //
+   pītāmbaro 'cyutaḥ śārṅgī viṣvakseno janārdanaḥ /	pIta-ambaraH acyutaH SArFgI vizvaksenaH janArdanaH /
+   upendra indrāvarajaś cakrapāṇiś caturbhujaḥ // VAnigh_399 //	upendraH indrAvarajaH cakrapANiH catur-BujaH // Va-aniG_399 //
+   lakṣmī padmālayā padmā kamalā śrīr haripriyā /	lakzmI padmAlayA padmA kamalA SrIH haripriyA /
+   indirā lokamātā mā kṣīrābdhitanayā ramā // VAnigh_400 //	indirAH loka-mAtA mA kzIrAbDi-tanayA ramAH // Va-aniG_400 //
+   netraṃ pādaḥ śiphā cāṅghriḥ mūlaṃ śālūkakandakau /	netram pAdaH SiPA ca-aFGriH mUlam SAlUka-kandakO /
+   tvak carma valkalaṃ proktaṃ viṭapaḥ śikharaṃ śiraḥ // VAnigh_401 //	tvac carma valkalam proktam viwapaH SiKaram SiraH // Va-aniG_401 //
+   pattraṃ dalaṃ chadaḥ parṇaṃ palāśaś chadanaṃ tathā /	pattram dalam CadaH parNam palASaH Cadanam taTA /
+   pallavastu pravālaḥ syāt mukulaṃ korakaṃ smṛtam // VAnigh_402 //	pallavaH-tu pravAlaH syAt mukulam korakam smRtam // Va-aniG_402 //
+   kalikā jālakaś caiva korakakṣārakuḍmalāḥ /	kalikA jAlakaH ca-eva koraka-kzAra-kuxmalAH /
+   prasūnaṃ sumanaḥ sūnaṃ puṣpaṃ ca kusumaṃ smṛtam // VAnigh_403 //	prasUnam sumanaH sUnam puzpam ca kusumam smRtam // Va-aniG_403 //
+   āmaṃ śalāṭusaṃjñaṃ tu pakvaṃ phalamudāhṛtam /	Amam SalAwu-saMjQam tu pakvam Palam-udAhRtam /
+   makarandaḥ puṣparasaḥ dalottho dalajo rasaḥ // VAnigh_404 //	makarandaH puzparasaH dala-utTaH dala-jaH rasaH // Va-aniG_404 //
+   auṣadhaṃ bheṣajaṃ pathyam agadaṃ ca bhiṣagjitam /	OzaDam Bezajam paTyam agadam ca Bizagjitam /
+   kriyā cikitsitaṃ śastraṃ prāyaś cittaṃ samāhitam // VAnigh_405 //	kriyA cikitsitam Sastram prAyas cittam samAhitam // Va-aniG_405 //
+   rogahāro 'gadaṃkāro bhiṣag vaidyaś cikitsakaḥ /	roga-hAraH agadaMkAraH Bizaj vEdyaH cikitsakaH /
+   rogajño jīvano vidvān āyur vedī gadāntakaḥ // VAnigh_406 //	roga-jQaH jIvanaH vidvAn AyuH vedI gadAntakaH // Va-aniG_406 //
+   śītāṃśvamṛtalakṣmībhir juṣṭo 'sau dhanasaṃyutaḥ /	SItAMSu-amRta-lakzmIBiH juzwaH asO Dana-saMyutaH /
+   kṣīrodhijaś cābjayoniḥ pāyād dhanvantaristathā // VAnigh_407 //	kzIroDijaH ca-abjayoniH pAyAt DanvantariH-taTA // Va-aniG_407 //
+   nāsatyāv aśvinau dasrāv āśvineyau ca tāv ubhau /	nAsatyO aSvinO dasrO ASvineyO ca tO uBO /
+   rakṣatāṃ devabhiṣajau vaidyaputrān svarociṣā // VAnigh_408 //	rakzatAm deva-BizajO vEdya-putrAn sva-rocizA // Va-aniG_408 //

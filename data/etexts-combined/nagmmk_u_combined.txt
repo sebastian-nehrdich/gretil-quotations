@@ -1,0 +1,896 @@
+   na svato nāpi parato na dvābhyāṃ nāpy ahetutaḥ /	na svatas na-api paratas na dvAByAm na-api ahetutaH /
+   utpannā jātu vidyante bhāvāḥ kva cana ke cana // MMK_1.1 //	utpannAH jAtu vidyante BAvAH kva cana ke cana // MMK_1.1 //
+   catvāraḥ pratyayā hetur ārambaṇam anantaram /	catvAraH pratyayAH hetuH ArambaNam anantaram /
+   tathaivādhipateyaṃ ca pratyayo nāsti pañcamaḥ // MMK_1.2 //	taTA-eva-ADipateyam ca pratyayaH na-asti paQcamaH // MMK_1.2 //
+   na hi svabhāvo bhāvānāṃ pratyayādiṣu vidyate /	na hi svaBAvaH BAvAnAm pratyaya-Adizu vidyate /
+   avidyamāne svabhāve parabhāvo na vidyate // MMK_1.3 //	avidyamAne svaBAve para-BAvaH na vidyate // MMK_1.3 //
+   kriyā na pratyayavatī nāpratyayavatī kriyā /	kriyA na pratyayavatI na-apratyayavatI kriyA /
+   pratyayā nākriyāvantaḥ kriyāvantaś ca santy uta // MMK_1.4 //	pratyayAH na-akriyAvantaH kriyAvantaH ca santi uta // MMK_1.4 //
+   utpadyate pratītyemān itīme pratyayāḥ kila /	utpadyate pratItya-imAn iti-ime pratyayAH kila /
+   yāvan notpadyata ime tāvan nāpratyayāḥ katham // MMK_1.5 //	yAvat na-utpadyate ime tAvat na-apratyayAH kaTam // MMK_1.5 //
+   naivāsato naiva sataḥ pratyayo 'rthasya yujyate /	na-eva-asataH na-eva sataH pratyayaH arTasya yujyate /
+   asataḥ pratyayaḥ kasya sataś ca pratyayena kim // MMK_1.6 //	asataH pratyayaH kasya sataH ca pratyayena kim // MMK_1.6 //
+   na san nāsan na sad asan dharmo nirvartate yadā /	na san na-Asat na sat asan DarmaH nirvartate yadA /
+   kathaṃ nirvartako hetur evaṃ sati hi yujyate // MMK_1.7 //	kaTam nirvartakaH hetuH evam sati hi yujyate // MMK_1.7 //
+   anārambaṇa evāyaṃ san dharma upadiśyate /	anArambaNaH eva-ayam san DarmaH upadiSyate /
+   athānārambaṇe dharme kuta ārambaṇaṃ punaḥ // MMK_1.8 //	aTa-anArambaNe Darme kutas ArambaNam punar // MMK_1.8 //
+   anutpanneṣu dharmeṣu nirodho nopapadyate /	anutpannezu Darmezu niroDaH na-upapadyate /
+   nānantaram ato yuktaṃ niruddhe pratyayaś ca kaḥ // MMK_1.9 //	na-anantaram atas yuktam nirudDe pratyayaH ca kaH // MMK_1.9 //
+   bhāvānāṃ niḥsvabhāvānāṃ na sattā vidyate yataḥ /	BAvAnAm niHsvaBAvAnAm na sattA vidyate yatas /
+   satīdam asmin bhavatīty etan naivopapadyate // MMK_1.10 //	sati-idam asmin Bavati-iti etat na-eva-upapadyate // MMK_1.10 //
+   na ca vyastasamasteṣu pratyayeṣvasti tat phalam /	na ca vyasta-samastezu pratyayezu-asti tat Palam /
+   pratyayebhyaḥ kathaṃ tac ca bhaven na pratyayeṣu yat // MMK_1.11 //	pratyayeByaH kaTam tat ca Bavet na pratyayezu yat // MMK_1.11 //
+   athāsad api tat tebhyaḥ pratyayebhyaḥ pravartate /	aTa-asat api tat teByaH pratyayeByaH pravartate /
+   apratyayebhyo 'pi kasmān nābhipravartate phalam // MMK_1.12 //	apratyayeByaH api kasmAt na-aBipravartate Palam // MnK_1.12 //
+   phalaṃ ca pratyayamayaṃ pratyayāścāsvayaṃmayāḥ /	Palam ca pratyaya-mayam pratyayAH-ca-asvayaMmayAH /
+   phalamasvamayebhyo yattatpratyayamayaṃ katham // MMK_1.13 //	Palam-asvamayeByaH yat-tat-pratyaya-mayam kaTam // MMK_1.13 //
+   tasmān na pratyayamayaṃ nāpratyayamayaṃ phalam /	tasmAt na pratyaya-mayam na-apratyaya-mayam Palam /
+   saṃvidyate phalābhāvāt pratyayāpratyayāḥ kutaḥ // MMK_1.14 //	saMvidyate Pala-aBAvAt pratyaya-apratyayAH kutas // MMK_1.14 //
+   gataṃ na gamyate tāvad agataṃ naiva gamyate /	gatam na gamyate tAvat agatam na-eva gamyate /
+   gatāgatavinirmuktaṃ gamyamānaṃ na gamyate // MMK_2.1 //	gatAgata-vinirmuktam gamyamAnam na gamyate // MMK_2.1 //
+   ceṣṭā yatra gatis tatra gamyamāne ca sā yataḥ /	cezwA yatra gatiH tatra gamyamAne ca sA yatas /
+   na gate nāgate ceṣṭā gamyamāne gatis tataḥ // MMK_2.2 //	na gate na-Agate cezwA gamyamAne gatiH tatas // MMK_2.2 //
+   gamyamānasya gamanaṃ kathaṃ nāmopapatsyate /	gamyamAnasya gamanam kaTam nAma-upapatsyate /
+   gamyamānaṃ vigamanaṃ yadā naivopapadyate // MMK_2.3 //	gamyamAnam vigamanam yadA na-eva-upapadyate // MMK_2.3 //
+   gamyamānasya gamanaṃ yasya tasya prasajyate /	gamyamAnasya gamanam yasya tasya prasajyate /
+   ṛte gater gamyamānaṃ gamyamānaṃ hi gamyate // MMK_2.4 //	Rte gateH gamyamAnam gamyamAnam hi gamyate // MMK_2.4 //
+   gamyamānasya gamane prasaktaṃ gamanadvayam /	gamyamAnasya gamane prasaktam gamana-dvayam /
+   yena tad gamyamānaṃ ca yac cātra gamanaṃ punaḥ // MMK_2.5 //	yena tat gamyamAnam ca yat ca-atra gamanam punar // MMK_2.5 //
+   dvau gantārau prasajyete prasakte gamanadvaye /	dvO gantArO prasajyete prasakte gamana-dvaye /
+   gantāraṃ hi tiraskṛtya gamanaṃ nopapadyate // MMK_2.6 //	gantAram hi tiraskRtya gamanam na-upapadyate // MMK_2.6 //
+   gantāraṃ cet tiraskṛtya gamanaṃ nopapadyate /	gantAram ced tiraskRtya gamanam na-upapadyate /
+   gamane 'sati gantātha kuta eva bhaviṣyati // MMK_2.7 //	gamane asati gantA-aTa kutas eva Bavizyati // MMK_2.7 //
+   gantā na gacchati tāvad agantā naiva gacchati /	gantA na gacCati tAvat agantA na-eva gacCati /
+   anyo gantur agantuś ca kas tṛtīyo 'tha gacchati // MMK_2.8 //	anyaH gantuH agantuH ca kaH tRtIyaH aTa gacCati // MMK_2.8 //
+   gantā tāvad gacchatīti katham evopapatsyate /	gantA tAvat gacCati-iti kaTam eva-upapatsyate /
+   gamanena vinā gantā yadā naivopapadyate // MMK_2.9 //	gamanena vinA gantA yadA na-eva-upapadyate // MMK_2.9 //
+   pakṣo gantā gacchatīti yasya tasya prasajyate /	pakzaH gantA gacCati-iti yasya tasya prasajyate /
+   gamanena vinā gantā gantur gamanam icchataḥ // MMK_2.10 //	gamanena vinA gantA gantuH gamanam icCataH // MMK_2.10 //
+   gamane dve prasajyete gantā yadyuta gacchati /	gamane dve prasajyete gantA yadi-uta gacCati /
+   ganteti cājyate yena gantā san yac ca gacchati // MMK_2.11 //	gantA-iti ca-ajyate yena gantA san yat ca gacCati // MMK_2.11 //
+   gate nārabhyate gantuṃ gantuṃ nārabhyate 'gate /	gate na-AraByate gantum gantum na-AraByate agate /
+   nārabhyate gamyamāne gantum ārabhyate kuha // MMK_2.12 //	na-AraByate gamyamAne gantum AraByate kuha // MMK_2.12 //
+   na pūrvaṃ gamanārambhād gamyamānaṃ na vā gatam /	na pUrvam gamana-AramBAt gamyamAnam na vA gatam /
+   yatrārabhyeta gamanam agate gamanaṃ kutaḥ // MMK_2.13 //	yatra-AraByeta gamanam agate gamanam kutas // MMK_2.13 //
+   gataṃ kiṃ gamyamānaṃ kim agataṃ kiṃ vikalpyate /	gatam kim gamyamAnam kim agatam kim vikalpyate /
+   adṛśyamāna ārambhe gamanasyaiva sarvathā // MMK_2.14 //	adRSyamAnaH AramBe gamanasya-eva sarvaTA // MMK_2.14 //
+   gantā na tiṣṭhati tāvad agantā naiva tiṣṭhati /	gantA na tizWati tAvat agantA na-eva tizWati /
+   anyo gantur agantuś ca kas tṛtīyo 'tha tiṣṭhati // MMK_2.15 //	anyaH gantuH agantuH ca kaH tRtIyaH aTa tizWati // MMK_2.15 //
+   gantā tāvat tiṣṭhatīti katham evopapatsyate /	gantA tAvat tizWati-iti kaTam eva-upapatsyate /
+   gamanena vinā gantā yadā naivopapadyate // MMK_2.16 //	gamanena vinA gantA yadA na-eva-upapadyate // MMK_2.16 //
+   na tiṣṭhati gamyamānān na gatān nāgatād api /	na tizWati gamyamAnAt na gatAn na-AgatAt api /
+   gamanaṃ saṃpravṛttiś ca nivṛttiś ca gateḥ samā // MMK_2.17 //	gamanam saMpravRttiH ca nivRttiH ca gateH samAH // MMK_2.17 //
+   yad eva gamanaṃ gantā sa eveti na yujyate /	yat eva gamanam gantA saH eva-iti na yujyate /
+   anya eva punar gantā gater iti na yujyate // MMK_2.18 //	anyaH eva punar gantA gateH iti na yujyate // MMK_2.18 //
+   yad eva gamanaṃ gantā sa eva hi bhaved yadi /	yat eva gamanam gantA saH eva hi Bavet yadi /
+   ekībhāvaḥ prasajyeta kartuḥ karmaṇa eva ca // MMK_2.19 //	ekIBAvaH prasajyeta kartuH karmaNaH eva ca // MMK_2.19 //
+   anya eva punar gantā gater yadi vikalpyate /	anyaH eva punar gantA gateH yadi vikalpyate /
+   gamanaṃ syād ṛte gantur gantā syād gamanād ṛte // MMK_2.20 //	gamanam syAt Rte gantuH gantA syAt gamanAt Rte // MMK_2.20 //
+   ekībhāvena vā siddhir nānābhāvena vā yayoḥ /	ekIBAvena vA sidDiH nAnA-BAvena vA yayoH /
+   na vidyate tayoḥ siddhiḥ kathaṃ nu khalu vidyate // MMK_2.21 //	na vidyate tayoH sidDiH kaTam nu Kalu vidyate // MMK_2.21 //
+   gatyā yayājyate gantā gatiṃ tāṃ sa na gacchati /	gatyA yayA-ajyate gantA gatim tAm sa na gacCati /
+   yasmān na gatipūrvo 'sti kaścid kiṃcid dhi gacchati // MMK_2.22 //	yasmAt na gati-pUrvaH asti kaScid kiMcid Di gacCati // MMK_2.22 //
+   gatyā yayājyate gantā tato 'nyāṃ sa na gacchati /	gatyA yayA-ajyate gantA tatas anyAm sa na gacCati /
+   gatī dve nopapadyete yasmād eke tu gantari // MMK_2.23 //	gatI dve na-upapadyete yasmAt eke tu gantari // MMK_2.23 //
+   sadbhūto gamanaṃ gantā triprakāraṃ na gacchati /	sadBUtaH gamanam gantA tri-prakAram na gacCati /
+   nāsadbhūto 'pi gamanaṃ triprakāraṃ sa gacchati // MMK_2.24 //	na-asat-BUtaH api gamanam tri-prakAram sa gacCati // MMK_2.24 //
+   gamanaṃ sadasadbhūtaḥ triprakāraṃ na gacchati /	gamanam sat-asat-BUtaH tri-prakAram na gacCati /
+   tasmād gatiś ca gantā ca gantavyaṃ ca na vidyate // MMK_2.25 //	tasmAt gatiH ca gantA ca gantavyam ca na vidyate // MMK_2.25 //
+   darśanaṃ śravaṇaṃ ghrāṇaṃ rasanaṃ sparśanaṃ manaḥ /	darSanam SravaNam GrANam rasanam sparSanam manaH /
+   indriyāṇi ṣaḍ eteṣāṃ draṣṭavyādīni gocaraḥ // MMK_3.1 //	indriyANi zaw etezAm drazwavI-a-AdIni gocaraH // MMK_3.1 //
+   svam ātmānaṃ darśanaṃ hi tat tam eva na paśyati /	svam AtmAnam darSanam hi tat tam eva na paSyati /
+   na paśyati yad ātmānaṃ kathaṃ drakṣyati tat parān // MMK_3.2 //	na paSyati yat AtmAnam kaTam drakzyati tat parAn // MMK_3.2 //
+   na paryāpto 'gnidṛṣṭānto darśanasya prasiddhaye /	na paryAptaH agni-dRzwAntaH darSanasya prasidDaye /
+   sadarśanaḥ sa pratyukto gamyamānagatāgataiḥ // MMK_3.3 //	sa-darSanaH sa pratyuktaH gamyamAna-gata-AgatEH // MMK_3.3 //
+   nāpaśyamānaṃ bhavati yadā kiṃ cana darśanam /	na-apaSyamAnam Bavati yadA kim cana darSanam /
+   darśanaṃ paśyatīty evaṃ katham etat tu yujyate // MMK_3.4 //	darSanam paSyati-iti evam kaTam etat tu yujyate // MMK_3.4 //
+   paśyati darśanaṃ naiva naiva paśyaty adarśanam /	paSyati darSanam na-eva na-eva paSyati adarSanam /
+   vyākhyāto darśanenaiva draṣṭā cāpy avagamyatām // MMK_3.5 //	vyAKyAtaH darSanena-eva drazwA ca-api avagamyatAm // MMK_3.5 //
+   draṣṭā nāsty atiraskṛtya tiraskṛtya ca darśanam /	drazwA na-asti atiraskRtya tiraskRtya ca darSanam /
+   draṣṭavyaṃ darśanaṃ caiva draṣṭary asati te kutaḥ // MMK_3.6 //	drazwavyam darSanam ca-eva drazwari asati te kutas // MMK_3.6 //
+   pratītya mātāpitarau yathoktaḥ putrasaṃbhavaḥ /	pratItya mAtA-pitarO yaTA-uktaH putra-saMBavaH /
+   cakṣūrūpe pratītyaivamukto vijñānasaṃbhavaḥ // MMK_3.7 //	cakzU-rUpe pratItyA-evam-uktaH vijQAna-saMBavaH // MMK_3.7 //
+   draṣṭavyadarśanābhāvād vijñānādicatuṣṭayam /	drazwavya-darSana-aBAvAt vijQAna-Adi-catuzwayam /
+   nāstīty upādānādīni bhaviṣyanti punaḥ katham // MMK_3.8 //	na-asti-iti upAdAna-AdIni Bavizyanti punar kaTam // MMK_3.8 //
+   vyākhyātaṃ śravaṇaṃ ghrāṇaṃ rasanaṃ sparśanaṃ manaḥ /	vyAKyAtam SravaNam GrANam rasanam sparSanam manaH /
+   darśanenaiva jānīyāc chrotṛśrotavyakādi ca // MMK_3.9 //	darSanena-eva jAnIyAt SrotR-Srotavyaka-Adi ca // MMK_3.9 //
+   rūpakāraṇanirmuktaṃ na rūpam upalabhyate /	rUpa-kAraNa-nirmuktam na rUpam upalaByate /
+   rūpeṇāpi na nirmuktaṃ dṛśyate rūpakāraṇam // MMK_4.1 //	rUpeNa-api na nirmuktam dRSyate rUpa-kAraNam // MMK_4.1 //
+   rūpakāraṇanirmukte rūpe rūpaṃ prasajyate /	rUpa-kAraNa-nirmukte rUpe rUpam prasajyate /
+   āhetukaṃ na cāsty arthaḥ kaścid āhetukaḥ kva cit // MMK_4.2 //	Ahetukam na ca-asti arTaH kaScid AhetukaH kva cit // MMK_4.2 //
+   rūpeṇa tu vinirmuktaṃ yadi syād rūpakāraṇam /	rUpeNa tu vinirmuktam yadi syAt rUpa-kAraNam /
+   akāryakaṃ kāraṇaṃ syād nāsty akāryaṃ ca kāraṇam // MMK_4.3 //	akAryakam kAraNam syAt na-asti akAryam ca kAraNam // MMK_4.3 //
+   rūpe saty eva rūpasya kāraṇaṃ nopapadyate /	rUpe sati eva rUpasya kAraNam na-upapadyate /
+   rūpe 'saty eva rūpasya kāraṇaṃ nopapadyate // MMK_4.4 //	rUpe asati eva rUpasya kAraNam na-upapadyate // MMK_4.4 //
+   niṣkāraṇaṃ punā rūpaṃ naiva naivopapadyate /	nizkAraNam punA rUpam na-eva na-eva-upapadyate /
+   tasmād rūpagatān kāṃścin na vikalpān vikalpayet // MMK_4.5 //	tasmAt rUpa-gatAn kAMScid na vikalpAn vikalpayet // MMK_4.5 //
+   na kāraṇasya sadṛśaṃ kāryam ity upapadyate /	na kAraNasya sadRSam kAryam iti upapadyate /
+   na kāraṇasyāsadṛśaṃ kāryam ity upapadyate // MMK_4.6 //	na kAraNasya-asadRSam kAryam iti upapadyate // MMK_4.6 //
+   vedanācittasaṃjñānāṃ saṃskārāṇāṃ ca sarvaśaḥ /	vedanA-citta-saMjQAnAm saMskArANAm ca sarvaSas /
+   sarveṣām eva bhāvānāṃ rūpeṇaiva samaḥ kramaḥ // MMK_4.7 //	sarvezAm eva BAvAnAm rUpeNa-eva samaH kramaH // MMK_4.7 //
+   vigrahe yaḥ parīhāraṃ kṛte śūnyatayā vadet /	vigrahe yaH parIhAram kRte SUnyatayA vadet /
+   sarvaṃ tasyāparihṛtaṃ samaṃ sādhyena jāyate // MMK_4.8 //	sarvam tasya-aparihRtam samam sADyena jAyate // MMK_4.8 //
+   vyākhyāne ya upālambhaṃ kṛte śūnyatayā vadet /	vyAKyAne yaH upAlamBam kRte SUnyatayA vadet /
+   sarvaṃ tasyānupālabdhaṃ samaṃ sādhyena jāyate // MMK_4.9 //	sarvam tasya-anupAlabDam samam sADyena jAyate // MMK_4.9 //
+   nākāśaṃ vidyate kiṃcit pūrvam ākāśalakṣaṇāt /	na-AkASam vidyate kiMcid pUrvam AkASa-lakzaNAt /
+   alakṣaṇaṃ prasajyeta syāt pūrvaṃ yadi lakṣaṇāt // MMK_5.1 //	alakzaNam prasajyeta syAt pUrvam yadi lakzaNAt // MMK_5.1 //
+   alakṣaṇo na kaścic ca bhāvaḥ saṃvidyate kva cit /	alakzaNaH na kaScid ca BAvaH saMvidyate kva cit /
+   asaty alakṣaṇe bhāve kramatāṃ kuha lakṣaṇam // MMK_5.2 //	asati alakzaNe BAve kramatAm kuha lakzaNam // MMK_5.2 //
+   nālakṣaṇe lakṣaṇasya pravṛttir na salakṣaṇe /	na-alakzaNe lakzaNasya pravRttiH na sa-lakzaNe /
+   salakṣaṇālakṣaṇābhyāṃ nāpy anyatra pravartate // MMK_5.3 //	sa-lakzaNa-alakzaNAByAm na-api anyatra pravartate // MMK_5.3 //
+   lakṣaṇāsaṃpravṛttau ca na lakṣyam upapadyate /	lakzaNa-asaMpravRttO ca na lakzyam upapadyate /
+   lakṣyasyānupapattau ca lakṣaṇasyāpy asaṃbhavaḥ // MMK_5.4 //	lakzyasya-anupapattO ca lakzaNasya-api asaMBavaH // MMK_5.4 //
+   tasmān na vidyate lakṣyaṃ lakṣaṇaṃ naiva vidyate /	tasmAt na vidyate lakzyam lakzaNam na-eva vidyate /
+   lakṣyalakṣaṇanirmukto naiva bhāvo 'pi vidyate // MMK_5.5 //	lakzya-lakzaNa-nirmuktaH na-eva BAvaH api vidyate // MMK_5.5 //
+   avidyamāne bhāve ca kasyābhāvo bhaviṣyati /	avidyamAne BAve ca kasya-aBAvaH Bavizyati /
+   bhāvābhāvavidharmā ca bhāvābhāvāv avaiti kaḥ // MMK_5.6 //	BAva-aBAva-viDarmA ca BAva-aBAvO avEti kaH // MMK_5.6 //
+   tasmānna bhāvo nābhāvo na lakṣyaṃ nāpi lakṣaṇam /	tasmAt-na BAvaH na-aBAvaH na lakzyam na-api lakzaNam /
+   ākāśam ākāśasamā dhātavaḥ pañca ye 'pare // MMK_5.7 //	AkASam AkASa-samAH DAtavaH paQca ye apare // MMK_5.7 //
+   astitvaṃ ye tu paśyanti nāstitvaṃ cālpabuddhayaḥ /	astitvam ye tu paSyanti nAstitvam ca-alpabudDayaH /
+   bhāvānāṃ te na paśyanti draṣṭavyopaśamaṃ śivam // MMK_5.8 //	BAvAnAm te na paSyanti drazwavya-upaSamam Sivam // MMK_5.8 //
+   rāgād yadi bhavet pūrvaṃ rakto rāgatiraskṛtaḥ /	rAgAt yadi Bavet pUrvam raktaH rAga-tiraskRtaH /
+   taṃ pratītya bhaved rāgo rakte rāgo bhavet sati // MMK_6.1 //	tam pratItya Bavet rAgaH rakte rAgaH Bavet sati // MMK_6.1 //
+   rakte 'sati punā rāgaḥ kuta eva bhaviṣyati /	rakte asati punA rAgaH kutas eva Bavizyati /
+   sati vāsati vā rāge rakte 'py eṣa samaḥ kramaḥ // MMK_6.2 //	sati vA-asati vA rAge rakte api eza samaH kramaH // MMK_6.2 //
+   sahaiva punar udbhūtir na yuktā rāgaraktayoḥ /	saha-eva punar udBUtiH na yuktA rAga-raktayoH /
+   bhavetāṃ rāgaraktau hi nirapekṣau parasparam // MMK_6.3 //	BavetAm rAga-raktO hi nirapekzO parasparam // MMK_6.3 //
+   naikatve sahabhāvo 'sti na tenaiva hi tat saha /	na-ekatve sahaBAvaH asti na tena-eva hi tat saha /
+   pṛthaktve sahabhāvo 'tha kuta eva bhaviṣyati // MMK_6.4 //	pRTaktve sahaBAvaH aTa kutas eva Bavizyati // MMK_6.4 //
+   ekatve sahabhāvaś cet syāt sahāyaṃ vināpi saḥ /	eka-tve sahaBAvaH ced syAt sahAyam vinA-api saH /
+   pṛthaktve sahabhāvaś cet syāt sahāyaṃ vināpi saḥ // MMK_6.5 //	pRTaktve sahaBAvaH ced syAt sahAyam vinA-api saH // MMK_6.5 //
+   pṛthaktve sahabhāvaś ca yadi kiṃ rāgaraktayoḥ /	pRTaktve sahaBAvaH ca yadi kim rAga-raktayoH /
+   siddhaḥ pṛthakpṛthagbhāvaḥ sahabhāvo yatas tayoḥ // MMK_6.6 //	sidDaH pRTak-pRTagBAvaH sahaBAvaH yatas tayoH // MnK_6.6 //
+   siddhaḥ pṛthakpṛthagbhāvo yadi vā rāgaraktayoḥ /	sidDaH pRTak-pRTagBAvaH yadi vA rAga-raktayoH /
+   sahabhāvaṃ kimartham tu parikalpayase tayoḥ // MMK_6.7 //	sahaBAvam kimarTam tu parikalpayase tayoH // MnK_6.7 //
+   pṛthag na sidhyatīty evaṃ sahabhāvaṃ vikāṅkṣasi /	pRTak na siDyati-iti evam sahaBAvam vikAFkzasi /
+   sahabhāvaprasiddhyarthaṃ pṛthaktvaṃ bhūya icchasi // MMK_6.8 //	sahaBAva-prasidDi-arTam pRTaktvam BUyas icCasi // MMK_6.8 //
+   pṛthagbhāvāprasiddheś ca sahabhāvo na sidhyati /	pRTak-BAva-aprasidDeH ca sahaBAvaH na siDyati /
+   katamasmin pṛthagbhāve sahabhāvaṃ satīcchasi // MMK_6.9 //	katamasmin pRTagBAve sahaBAvam sati-icCasi // MMK_6.9 //
+   evaṃ raktena rāgasya siddhir na saha nāsaha /	evam raktena rAgasya sidDiH na saha na-asaha /
+   rāgavat sarvadharmāṇāṃ siddhir na saha nāsaha // MMK_6.10 //	rAga-vat sarva-DarmANAm sidDiH na saha na-asaha // MMK_6.10 //
+   yadi saṃskṛta utpādas tatra yuktā trilakṣaṇī /	yadi saMskRtaH utpAdaH tatra yuktA tri-lakzaNI /
+   athāsaṃskṛta utpādaḥ kathaṃ saṃskṛtalakṣaṇam // MMK_7.1 //	aTa-asaMskRtaH utpAdaH kaTam saMskRta-lakzaNam // MMK_7.1 //
+   utpādādyās trayo vyastā nālaṃ lakṣaṇakarmaṇi /	utpAda-AdyAH trayaH vyastAH na-alam lakzaNa-karmaNi /
+   saṃskṛtasya samastāḥ syur ekatra katham ekadā // MMK_7.2 //	saMskRtasya samastAH syuH ekatra kaTam ekadA // MMK_7.2 //
+   utpādasthitibhaṅgānām anyat saṃskṛtalakṣaṇam /	utpAda-sTiti-BaFgAnAm anyat saMskRta-lakzaNam /
+   asti ced anavasthaivaṃ nāsti cet te na saṃskṛtāḥ // MMK_7.3 //	asti ced anavasTA-evam na-asti ced te na saMskRtAH // MnK_7.3 //
+   utpādotpāda utpādo mūlotpādasya kevalam /	utpAda-utpAdaH utpAdaH mUla-utpAdasya kevalam /
+   utpādotpādam utpādo maulo janayate punaḥ // MMK_7.4 //	utpAda-utpAdam utpAdaH mOlaH janayate punar // MMK_7.4 //
+   utpādotpāda utpādo mūlotpādasya te yadi /	utpAda-utpAdaH utpAdaH mUla-utpAdasya te yadi /
+   maulenājanitas taṃ te sa kathaṃ janayiṣyati // MMK_7.5 //	mOlena-ajanitaH tam te sa kaTam janayizyati // MMK_7.5 //
+   sa te maulena janito maulaṃ janayate yadi /	sa te mOlena janitaH mOlam janayate yadi /
+   maulaḥ sa tenājanitas tam utpādayate katham // MMK_7.6 //	mOlaH sa tena-ajanitaH tam utpAdayate kaTam // MMK_7.6 //
+   ayam utpādyamānas te kāmam utpādayed imam /	ayam utpAdyamAnaH te kAmam utpAdayet imam /
+   yadīmam utpādayitum ajātaḥ śaknuyād ayam // MMK_7.7 //	yadi-imam utpAdayitum ajAtaH SaknuyAt ayam // MMK_7.7 //
+   pradīpaḥ svaparātmānau saṃprakāśayate yathā /	pradIpaH sva-para-AtmAnO saMprakASayate yaTA /
+   utpādaḥ svaparātmānāv ubhāv utpādayet tathā // MMK_7.8 //	utpAdaH sva-para-AtmAnO uBO utpAdayet taTA // MMK_7.8 //
+   pradīpe nāndhakāro 'sti yatra cāsau pratiṣṭhitaḥ /	pradIpe na-anDakAraH asti yatra ca-asO pratizWitaH /
+   kiṃ prakāśayate dīpaḥ prakāśo hi tamovadhaḥ // MMK_7.9 //	kim prakASayate dIpaH prakASaH hi tamaH-vaDaH // MMK_7.9 //
+   katham utpadyamānena pradīpena tamo hatam /	kaTam utpadyamAnena pradIpena tamaH hatam /
+   notpadyamāno hi tamaḥ pradīpaḥ prāpnute yadā // MMK_7.10 //	na-utpadyamAnaH hi tamaH pradIpaH prApnute yadA // MMK_7.10 //
+   aprāpyaiva pradīpena yadi vā nihataṃ tamaḥ /	aprApya-eva pradIpena yadi vA nihatam tamaH /
+   ihasthaḥ sarvalokasthaṃ sa tamo nihaniṣyati // MMK_7.11 //	ihasTaH sarva-loka-sTam sa tamaH nihanizyati // MMK_7.11 //
+   pradīpaḥ svaparātmānau saṃprakāśayate yadi /	pradIpaH sva-para-AtmAnO saMprakASayate yadi /
+   tamo 'pi svaparātmānau chādayiṣyaty asaṃśayam // MMK_7.12 //	tamaH api sva-para-AtmAnO CAdayizyati asaMSayam // MMK_7.12 //
+   anutpanno 'yam utpādaḥ svātmānaṃ janayet katham /	anutpannaH ayam utpAdaH sva-AtmAnam janayet kaTam /
+   athotpanno janayate jāte kiṃ janyate punaḥ // MMK_7.13 //	aTa-utpannaH janayate jAte kim janyate punar // MMK_7.13 //
+   notpadyamānaṃ notpannaṃ nānutpannaṃ kathaṃ cana /	na-utpadyamAnam na-utpannam na-anutpannam kaTam cana /
+   utpadyate tad ākhyātaṃ gamyamānagatāgataiḥ // MMK_7.14 //	utpadyate tat AKyAtam gamyamAna-gata-AgatEH // MMK_7.14 //
+   utpadyamānam utpattāv idaṃ na kramate yadā /	utpadyamAnam utpattO idam na kramate yadA /
+   katham utpadyamānaṃ tu pratītyotpattim ucyate // MMK_7.15 //	kaTam utpadyamAnam tu pratItya-utpattim ucyate // MMK_7.15 //
+   pratītya yad yad bhavati tat tac chāntaṃ svabhāvataḥ /	pratItya yat yat Bavati tat tat SAntam svaBAvataH /
+   tasmād utpadyamānaṃ ca śāntam utpattir eva ca // MMK_7.16 //	tasmAt utpadyamAnam ca SAntam utpattiH eva ca // MMK_7.16 //
+   yadi kaścid anutpanno bhāvaḥ saṃvidyate kva cit /	yadi kaScid anutpannaH BAvaH saMvidyate kva cit /
+   utpadyeta sa kiṃ tasmin bhāva utpadyate 'sati // MMK_7.17 //	utpadyeta sa kim tasmin BAvaH utpadyate asati // MnK_7.17 //
+   utpadyamānam utpādo yadi cotpādayaty ayam /	utpadyamAnam utpAdaH yadi ca-utpAdayati ayam /
+   utpādayet tam utpādam utpādaḥ katamaḥ punaḥ // MMK_7.18 //	utpAdayet tam utpAdam utpAdaH katamaH punar // MMK_7.18 //
+   anya utpādayaty enaṃ yady utpādo 'navasthitiḥ /	anyaH utpAdayati enam yadi utpAdaH anavasTitiH /
+   athānutpāda utpannaḥ sarvam utpadyatāṃ tathā // MMK_7.19 //	aTa-anutpAdaH utpannaH sarvam utpadyatAm taTA // MMK_7.19 //
+   sataś ca tāvad utpattir asataś ca na yujyate /	sataH ca tAvat utpattiH asataH ca na yujyate /
+   na sataś cāsataś ceti pūrvam evopapāditam // MMK_7.20 //	na sataH ca-asataH ca-iti pUrvam eva-upapAditam // MMK_7.20 //
+   nirudhyamānasyotpattir na bhāvasyopapadyate /	niruDyamAnasya-utpattiH na BAvasya-upapadyate /
+   yaś cānirudhyamānas tu sa bhāvo nopapadyate // MMK_7.21 //	yaH ca-aniruDyamAnaH tu sa BAvaH na-upapadyate // MMK_7.21 //
+   nāsthitas tiṣṭhate bhāvaḥ sthito bhāvo na tiṣṭhati /	na-AsTitaH tizWate BAvaH sTitaH BAvaH na tizWati /
+   na tiṣṭhate tiṣṭhamānaḥ ko 'nutpannaś ca tiṣṭhati // MMK_7.22 //	na tizWate tizWamAnaH kaH anutpannaH ca tizWati // MMK_7.22 //
+   sthitir nirudhyamānasya na bhāvasyopapadyate /	sTitiH niruDyamAnasya na BAvasya-upapadyate /
+   yaś cānirudhyamānas tu sa bhāvo nopapadyate // MMK_7.23 //	yaH ca-aniruDyamAnaH tu sa BAvaH na-upapadyate // MMK_7.23 //
+   jarāmaraṇadharmeṣu sarvabhāveṣu sarvadā /	jarA-maraNa-Darmezu sarva-BAvezu sarvadA /
+   tiṣṭhanti katame bhāvā ye jarāmaraṇaṃ vinā // MMK_7.24 //	tizWanti katame BAvAH ye jarA-maraNam vinA // MMK_7.24 //
+   sthityānyayā sthiteḥ sthānaṃ tayaiva ca na yujyate /	sTityA-anyayA sTiteH sTAnam tayA-eva ca na yujyate /
+   utpādasya yathotpādo nātmanā na parātmanā // MMK_7.25 //	utpAdasya yaTA-utpAdaH na-AtmanA na para-AtmanA // MMK_7.25 //
+   nirudhyate nāniruddhaṃ na niruddhaṃ nirudhyate /	niruDyate na-anirudDam na nirudDam niruDyate /
+   tathā nirudhyamānaṃ ca kim ajātaṃ nirudhyate // MMK_7.26 //	taTA niruDyamAnam ca kim ajAtam niruDyate // MMK_7.26 //
+   sthitasya tāvad bhāvasya nirodho nopapadyate /	sTitasya tAvat BAvasya niroDaH na-upapadyate /
+   nāsthitasyāpi bhāvasya nirodha upapadyate // MMK_7.27 //	na-asTitasya-api BAvasya niroDaH upapadyate // MMK_7.27 //
+   tayaivāvasthayāvasthā na hi saiva nirudhyate /	tayA-eva-avasTayA-avasTA na hi sA-eva niruDyate /
+   anyayāvasthayāvasthā na cānyaiva nirudhyate // MMK_7.28 //	anyayA-avasTayA-avasTA na ca-anyA-eva niruDyate // MMK_7.28 //
+   yadaiva sarvadharmāṇām utpādo nopapadyate /	yadA-eva sarva-DarmANAm utpAdaH na-upapadyate /
+   tadaivaṃ sarvadharmāṇāṃ nirodho nopapadyate // MMK_7.29 //	tadA-evam sarva-DarmANAm niroDaH na-upapadyate // MMK_7.29 //
+   sataś ca tāvad bhāvasya nirodho nopapadyate /	sataH ca tAvat BAvasya niroDaH na-upapadyate /
+   ekatve na hi bhāvaś ca nābhāvaś copapadyate // MMK_7.30 //	eka-tve na hi BAvaH ca na-aBAvaH ca-upapadyate // MMK_7.30 //
+   asato 'pi na bhāvasya nirodha upapadyate /	asataH api na BAvasya niroDaH upapadyate /
+   na dvitīyasya śirasaś chedanaṃ vidyate yathā // MMK_7.31 //	na dvitIyasya SirasaH Cedanam vidyate yaTA // MMK_7.31 //
+   na svātmanā nirodho 'sti nirodho na parātmanā /	na sva-AtmanA niroDaH asti niroDaH na para-AtmanA /
+   utpādasya yathotpādo nātmanā na parātmanā // MMK_7.32 //	utpAdasya yaTA-utpAdaH na-AtmanA na para-AtmanA // MMK_7.32 //
+   utpādasthitibhaṅgānām asiddher nāsti saṃskṛtam /	utpAda-sTiti-BaFgAnAm asidDeH na-asti saMskRtam /
+   saṃskṛtasyāprasiddhau ca kathaṃ setsyaty asaṃskṛtam // MMK_7.33 //	saMskRtasya-aprasidDO ca kaTam setsyati asaMskRtam // MMK_7.33 //
+   yathā māyā yathā svapno gandharvanagaraṃ yathā /	yaTA mAyA yaTA svapnaH ganDarvanagaram yaTA /
+   tathotpādas tathā sthānaṃ tathā bhaṅga udāhṛtam // MMK_7.34 //	taTA-utpAdaH taTA sTAnam taTA BaFgaH udAhRtam // MMK_7.34 //
+   sadbhūtaḥ kārakaḥ karma sadbhūtaṃ na karotyayam /	sadBUtaH kArakaH karma sadBUtam na karoti-ayam /
+   kārako nāpy asadbhūtaḥ karmāsadbhūtam īhate // MMK_8.1 //	kArakaH na-api asat-BUtaH karma-asadBUtam Ihate // MMK_8.1 //
+   sadbhūtasya kriyā nāsti karma ca syād akartṛkam /	sadBUtasya kriyA na-asti karma ca syAt akartRkam /
+   sadbhūtasya kriyā nāsti kartā ca syād akarmakaḥ // MMK_8.2 //	sadBUtasya kriyA na-asti kartA ca syAt akarmakaH // MMK_8.2 //
+   karoti yady asadbhūto 'sadbhūtaṃ karma kārakaḥ /	karoti yadi asat-BUtaH asat-BUtam karma kArakaH /
+   ahetukaṃ bhavet karma kartā cāhetuko bhavet // MMK_8.3 //	ahetukam Bavet karma kartA ca-ahetukaH Bavet // MMK_8.3 //
+   hetāv asati kāryaṃ ca kāraṇaṃ ca na vidyate /	hetO asati kAryam ca kAraNam ca na vidyate /
+   tadabhāve kriyā kartā kāraṇaṃ ca na vidyate // MMK_8.4 //	tad-aBAve kriyA kartA kAraNam ca na vidyate // MMK_8.4 //
+   dharmādharmau na vidyete kriyādīnām asaṃbhave /	Darma-aDarmO na vidyete kriyA-AdInAm asaMBave /
+   dharme cāsaty adharme ca phalaṃ tajjaṃ na vidyate // MMK_8.5 //	Darme ca-asati aDarme ca Palam tad-jam na vidyate // MMK_8.5 //
+   phale 'sati na mokṣāya na svargāyopapadyate /	Pale asati na mokzAya na svargAya-upapadyate /
+   mārgaḥ sarvakriyāṇāṃ ca nairarthakyaṃ prasajyate // MMK_8.6 //	mArgaH sarva-kriyANAm ca nErarTakyam prasajyate // MMK_8.6 //
+   kārakaḥ sadasadbhūtaḥ sadasat kurute na tat /	kArakaH sadasat-BUtaH sat-asat kurute na tat /
+   parasparaviruddhaṃ hi sac cāsac caikataḥ kutaḥ // MMK_8.7 //	paraspara-virudDam hi sat ca-asat ca-ekatas kutas // MMK_8.7 //
+   satā ca kriyate nāsan nāsatā kriyate ca sat /	satA ca kriyate na-asat na-asatA kriyate ca sat /
+   kartrā sarve prasajyante doṣās tatra ta eva hi // MMK_8.8 //	kartrA sarve prasajyante dozAH tatra te eva hi // MMK_8.8 //
+   nāsadbhūtaṃ na sadbhūtaḥ sadasadbhūtam eva vā /	na-asat-BUtam na sadBUtaH sadasat-BUtam eva vA /
+   karoti kārakaḥ karma pūrvoktair eva hetubhiḥ // MMK_8.9 //	karoti kArakaH karma pUrva-uktEH eva hetuBiH // MMK_8.9 //
+   nāsadbhūto 'pi sadbhūtaṃ sadasadbhūtam eva vā /	na-asat-BUtaH api sadBUtam sadasat-BUtam eva vA /
+   karoti kārakaḥ karma pūrvoktair eva hetubhiḥ // MMK_8.10 //	karoti kArakaH karma pUrva-uktEH eva hetuBiH // MMK_8.10 //
+   karoti sadasadbhūto na san nāsac ca kārakaḥ /	karoti sat-asat-BUtaH na san na-asat ca kArakaH /
+   karma tat tu vijānīyāt pūrvoktair eva hetubhiḥ // MMK_8.11 //	karma tat tu vijAnIyAt pUrva-uktEH eva hetuBiH // MMK_8.11 //
+   pratītya kārakaḥ karma taṃ pratītya ca kārakam /	pratItya kArakaH karma tam pratItya ca kArakam /
+   karma pravartate nānyat paśyāmaḥ siddhikāraṇam // MMK_8.12 //	karma pravartate na-anyat paSyAmaH sidDi-kAraNam // MMK_8.12 //
+   evaṃ vidyād upādānaṃ vyutsargād iti karmaṇaḥ /	evam vidyAt upAdAnam vyutsargAt iti karmaNaH /
+   kartuś ca karmakartṛbhyāṃ śeṣān bhāvān vibhāvayet // MMK_8.13 //	kartuH ca karma-kartRByAm SezAn BAvAn viBAvayet // MMK_8.13 //
+   darśanaśravaṇādīni vedanādīni cāpy atha /	darSana-SravaNa-AdIni vedanA-AdIni ca-api aTa /
+   bhavanti yasya prāg ebhyaḥ so 'stīty eke vadantyuta // MMK_9.1 //	Bavanti yasya prAk eByaH saH asti-iti eke vadanti-uta // MMK_9.1 //
+   kathaṃ hy avidyamānasya darśanādi bhaviṣyati /	kaTam hi avidyamAnasya darSana-Adi Bavizyati /
+   bhāvasya tasmāt prāg ebhyaḥ so 'sti bhāvo vyavasthitaḥ // MMK_9.2 //	BAvasya tasmAt prAk eByaH saH asti BAvaH vyavasTitaH // MMK_9.2 //
+   darśanaśravaṇādibhyo vedanādibhya eva ca /	darSana-SravaNa-AdiByaH vedanA-AdiByaH eva ca /
+   yaḥ prāg vyavasthito bhāvaḥ kena prajñapyate 'tha saḥ // MMK_9.3 //	yaH prAk vyavasTitaH BAvaH kena prajQapyate aTa saH // MMK_9.3 //
+   vināpi darśanādīni yadi cāsau vyavasthitaḥ /	vinA-api darSana-AdIni yadi ca-asO vyavasTitaH /
+   amūny api bhaviṣyanti vinā tena na saṃśayaḥ // MMK_9.4 //	amUni api Bavizyanti vinA tena na saMSayaH // MMK_9.4 //
+   ajyate kenacit kaścit kiṃcit kena cid ajyate /	ajyate kenacid kaScid kiMcid kena cit ajyate /
+   kutaḥ kiṃcid vinā kaścit kiṃcit kiṃcid vinā kutaḥ // MMK_9.5 //	kutas kiMcid vinA kaScid kiMcid kiMcid vinA kutas // MMK_9.5 //
+   sarvebhyo darśanādibhyaḥ kaścit pūrvo na vidyate /	sarveByaH darSana-AdiByaH kaScid pUrvaH na vidyate /
+   ajyate darśanādinām anyena punar anyadā // MMK_9.6 //	ajyate darSana-AdinAm anyena punar anyadA // MMK_9.6 //
+   sarvebhyo darśanādibhyo yadi pūrvo na vidyate /	sarveByaH darSana-AdiByaH yadi pUrvaH na vidyate /
+   ekaikasmāt kathaṃ pūrvo darśanādeḥ sa vidyate // MMK_9.7 //	ekEkasmAt kaTam pUrvaH darSana-AdeH sa vidyate // MMK_9.7 //
+   draṣṭā sa eva sa śrotā sa eva yadi vedakaḥ /	drazwA saH eva sa SrotA saH eva yadi vedakaH /
+   ekaikasmād bhavet pūrvam evaṃ caitan na yujyate // MMK_9.8 //	ekEkasmAt Bavet pUrvam evam ca-etat na yujyate // MMK_9.8 //
+   draṣṭānya eva śrotānyo vedako 'nyaḥ punar yadi /	drazwA-anyaH eva SrotA-anyaH vedakaH anyaH punar yadi /
+   sati syād draṣṭari śrotā bahutvaṃ cātmanāṃ bhavet // MMK_9.9 //	sati syAt drazwari SrotA bahu-tvam ca-AtmanAm Bavet // MMK_9.9 //
+   darśanaśravaṇādīni vedanādīni cāpy atha /	darSana-SravaNa-AdIni vedanA-AdIni ca-api aTa /
+   bhavanti yebhyas teṣv eṣa bhūteṣv api na vidyate // MMK_9.10 //	Bavanti yeByaH tezu eza BUtezu api na vidyate // MMK_9.10 //
+   darśanaśravaṇādīni vedanādīni cāpy atha /	darSana-SravaNa-AdIni vedanA-AdIni ca-api aTa /
+   na vidyate ced yasya sa na vidyanta imāny api // MMK_9.11 //	na vidyate ced yasya sa na vidyante imAni api // MMK_9.11 //
+   prāk ca yo darśanādibhyaḥ sāṃprataṃ cordhvam eva ca /	prAk ca yaH darSana-AdiByaH sAMpratam ca-UrDvam eva ca /
+   na vidyate 'sti nāstīti nivṛttās tatra kalpanāḥ // MMK_9.12 //	na vidyate asti na-asti-iti nivRttAH tatra kalpanAH // MMK_9.12 //
+   yad indhanaṃ sa ced agnir ekatvaṃ kartṛkarmaṇoḥ /	yat inDanam sa ced agniH ekatvam kartR-karmaNoH /
+   anyaś ced indhanād agnir indhanād apy ṛte bhavet // MMK_10.1 //	anyaH ced inDanAt agniH inDanAt api Rte Bavet // MMK_10.1 //
+   nityapradīpta eva syād apradīpanahetukaḥ /	nitya-pradIptaH eva syAt apradIpana-hetukaH /
+   punarārambhavaiyarthyam evaṃ cākarmakaḥ sati // MMK_10.2 //	punar-AramBa-vEyarTyam evam ca-akarmakaH sati // MMK_10.2 //
+   paratra nirapekṣatvād apradīpanahetukaḥ /	paratra nirapekza-tvAt apradIpana-hetukaH /
+   punarārambhavaiyarthyaṃ nityadīptaḥ prasajyate // MMK_10.3 //	punar-AramBa-vEyarTyam nitya-dIptaH prasajyate // MMK_10.3 //
+   tatraitat syād idhyamānam indhanaṃ bhavatīti cet /	tatra-etat syAt iDyamAnam inDanam Bavati-iti ced /
+   kenedhyatām indhanaṃ tat tāvanmātram idaṃ yadā // MMK_10.4 //	kena-iDyatAm inDanam tat tAvat-mAtram idam yadA // MMK_10.4 //
+   anyo na prāpsyate 'prapto na dhakṣyaty adahan punaḥ /	anyaH na prApsyate apraptaH na Dakzyati adahan punar /
+   na nirvāsyaty anirvāṇaḥ sthāsyate vā svaliṅgavān // MMK_10.5 //	na nirvAsyati anirvANaH sTAsyate vA sva-liFgavAn // MMK_10.5 //
+   anya evandhanād agnir indhanaṃ prāpnuyād yadi /	anyaH evanDanAt agniH inDanam prApnuyAt yadi /
+   strī saṃprāpnoti puruṣaṃ puruṣaś ca striyaṃ yathā // MMK_10.6 //	strI saMprApnoti puruzam puruzaH ca striyam yaTA // MMK_10.6 //
+   anya evendhanād agnir indhanaṃ kāmam āpnuyāt /	anyaH eva-inDanAt agniH inDanam kAmam ApnuyAt /
+   agnīndhane yadi syātām anyonyena tiraskṛte // MMK_10.7 //	agni-inDane yadi syAtAm anyonyena tiraskRte // MMK_10.7 //
+   yadīndhanam apekṣyāgnir apekṣyāgniṃ yadīndhanam /	yadi-inDanam apekzya-agniH apekzya-agnim yadi-inDanam /
+   katarat pūrvaniṣpannaṃ yad apekṣyāgnir indhanam // MMK_10.8 //	katarat pUrva-nizpannam yat apekzya-agniH inDanam // MnK_10.8 //
+   yadīndhanam apekṣyāgnir agneḥ siddhasya sādhanam /	yadi-inDanam apekzya-agniH agneH sidDasya sADanam /
+   evaṃ satīndhanaṃ cāpi bhaviṣyati niragnikam // MMK_10.9 //	evam sati-inDanam ca-api Bavizyati niragnikam // MMK_10.9 //
+   yo 'pekṣya sidhyate bhāvas tam evāpekṣya sidhyati /	yaH apekzya siDyate BAvaH tam eva-apekzya siDyati /
+   yadi yo 'pekṣitavyaḥ sa sidhyatāṃ kam apekṣya kaḥ // MMK_10.10 //	yadi yaH apekzitavyaH sa siDyatAm kam apekzya kaH // MMK_10.10 //
+   yo 'pekṣya sidhyate bhāvaḥ so 'siddho 'pekṣate katham /	yaH apekzya siDyate BAvaH saH asidDaH apekzate kaTam /
+   athāpy apekṣate siddhas tv apekṣāsya na yujyate // MMK_10.11 //	aTa-api apekzate sidDaH tu apekzA-asya na yujyate // MMK_10.11 //
+   apekṣyendhanam agnir na nānapekṣyāgnir indhanam /	apekzya-inDanam agniH na na-anapekzya-agniH inDanam /
+   apekṣyendhanam agniṃ na nānapekṣyāgnim indhanam // MMK_10.12 //	apekzya-inDanam agnim na na-anapekzya-agnim inDanam // MnK_10.12 //
+   āgacchaty anyato nāgnir indhane 'gnir na vidyate /	AgacCati anyatas na-agniH inDane agniH na vidyate /
+   atrendhane śeṣam uktaṃ gamyamānagatāgataiḥ // MMK_10.13 //	atra-inDane Sezam uktam gamyamAna-gata-AgatEH // MMK_10.13 //
+   indhanaṃ punar agnir na nāgnir anyatra cendhanāt /	inDanam punar agniH na na-agniH anyatra ca-inDanAt /
+   nāgnir indhanavān nāgnāv indhanāni na teṣu saḥ // MMK_10.14 //	na-agniH inDanavAn na-agnO inDanAni na tezu saH // MnK_10.14 //
+   agnīndhanābhyāṃ vyākhyāta ātmopādānayoḥ kramaḥ /	agni-inDanAByAm vyAKyAtaH Atma-upAdAnayoH kramaH /
+   sarvo niravaśeṣeṇa sārdhaṃ ghaṭapaṭādibhiḥ // MMK_10.15 //	sarvaH niravaSezeNa sArDam Gawa-pawa-AdiBiH // MMK_10.15 //
+   ātmanaś ca satattvaṃ ye bhāvānāṃ ca pṛthak pṛthak /	AtmanaH ca satattvam ye BAvAnAm ca pRTak pRTak /
+   nirdiśanti na tān manye śāsanasyārthakovidān // MMK_10.16 //	nirdiSanti na tAn manye SAsanasya-arTa-kovidAn // MMK_10.16 //
+   pūrvā prajñāyate koṭir nety uvāca mahāmuniḥ /	pUrvA prajQAyate kowiH na-iti uvAca mahA-muniH /
+   saṃsāro 'navarāgro hi nāsyādir nāpi paścimam // MMK_11.1 //	saMsAraH anavara-agraH hi na-asya-AdiH na-api paScimam // MMK_11.1 //
+   naivāgraṃ nāvaraṃ yasya tasya madhyaṃ kuto bhavet /	na-eva-agram na-avaram yasya tasya maDyam kutas Bavet /
+   tasmān nātropapadyante pūrvāparasahakramāḥ // MMK_11.2 //	tasmAt na-atra-upapadyante pUrva-apara-saha-kramAH // MnK_11.2 //
+   pūrvaṃ jātir yadi bhavej jarāmaraṇam uttaram /	pUrvam jAtiH yadi Bavet jarA-maraNam uttaram /
+   nirjarā maraṇā jātir bhavej jāyeta cāmṛtaḥ // MMK_11.3 //	nirjarA maraNA jAtiH Bavet jAyeta ca-amRtaH // MMK_11.3 //
+   paścāj jātir yadi bhavej jarāmaraṇam āditaḥ /	paScAt jAtiH yadi Bavet jarA-maraNam Aditas /
+   ahetukam ajātasya syāj jarāmaraṇaṃ katham // MMK_11.4 //	ahetukam ajAtasya syAt jarA-maraNam kaTam // MMK_11.4 //
+   na jarāmaraṇaṃ caiva jātiś ca saha yujyate /	na jarA-maraNam ca-eva jAtiH ca saha yujyate /
+   mriyeta jāyamānaś ca syāc cāhetukatobhayoḥ // MMK_11.5 //	mriyeta jAyamAnaH ca syAt ca-ahetukatoBayoH // MnK_11.5 //
+   yatra na prabhavanty ete pūrvāparasahakramāḥ /	yatra na praBavanti ete pUrva-apara-sahakramAH /
+   prapañcayanti tāṃ jātiṃ taj jarāmaraṇaṃ ca kim // MMK_11.6 //	prapaQcayanti tAm jAtim tat jarA-maraNam ca kim // MMK_11.6 //
+   kāryaṃ ca kāraṇaṃ caiva lakṣyaṃ lakṣaṇam eva ca /	kAryam ca kAraNam ca-eva lakzyam lakzaNam eva ca /
+   vedanā vedakaś caiva santy arthā ye ca ke cana // MMK_11.7 //	vedanA vedakaH ca-eva santi arTAH ye ca ke cana // MMK_11.7 //
+   pūrvā na vidyate koṭiḥ saṃsārasya na kevalam /	pUrvA na vidyate kowiH saMsArasya na kevalam /
+   sarveṣām api bhāvānāṃ pūrvā koṭī na vidyate // MMK_11.8 //	sarvezAm api BAvAnAm pUrvA kowI na vidyate // MMK_11.8 //
+   svayaṃ kṛtaṃ parakṛtaṃ dvābhyāṃ kṛtam ahetukam /	svayam kRtam para-kRtam dvAByAm kRtam ahetukam /
+   duḥkham ity eka icchanti tac ca kāryaṃ na yujyate // MMK_12.1 //	duHKam iti ekaH icCanti tat ca kAryam na yujyate // MMK_12.1 //
+   svayaṃ kṛtaṃ yadi bhavet pratītya na tato bhavet /	svayam kRtam yadi Bavet pratItya na tatas Bavet /
+   skandhān imān amī skandhāḥ saṃbhavanti pratītya hi // MMK_12.2 //	skanDAn imAn amI skanDAH saMBavanti pratItya hi // MMK_12.2 //
+   yady amībhya ime 'nye syur ebhyo vāmī pare yadi /	yadi amIByaH ime anye syuH eByaH vA-amI pare yadi /
+   bhavet parakṛtaṃ duḥkhaṃ parair ebhir amī kṛtāḥ // MMK_12.3 //	Bavet para-kRtam duHKam parEH eBiH amI kRtAH // MnK_12.3 //
+   svapudgalakṛtaṃ duḥkhaṃ yadi duḥkhaṃ punar vinā /	sva-pudgala-kRtam duHKam yadi duHKam punar vinA /
+   svapudgalaḥ sa katamo yena duḥkhaṃ svayaṃ kṛtam // MMK_12.4 //	sva-pudgalaH sa katamaH yena duHKam svayam kRtam // MMK_12.4 //
+   parapudgalajaṃ duḥkhaṃ yadi yasmai pradīyate /	para-pudgala-jam duHKam yadi yasmE pradIyate /
+   pareṇa kṛtvā tad duḥkhaṃ sa duḥkhena vinā kutaḥ // MMK_12.5 //	pareNa kRtvA tat duHKam sa duHKena vinA kutas // MMK_12.5 //
+   parapudgalajaṃ duḥkhaṃ yadi kaḥ parapudgalaḥ /	para-pudgala-jam duHKam yadi kaH para-pudgalaH /
+   vinā duḥkhena yaḥ kṛtvā parasmai prahiṇoti tat // MMK_12.6 //	vinA duHKena yaH kRtvA parasmE prahiNoti tat // MMK_12.6 //
+   svayaṃ kṛtasyāprasiddher duḥkhaṃ parakṛtaṃ kutaḥ /	svayam kRtasya-aprasidDeH duHKam para-kRtam kutas /
+   paro hi duḥkhaṃ yat kuryāt tat tasya syāt svayaṃ kṛtam // MMK_12.7 //	paraH hi duHKam yat kuryAt tat tasya syAt svayam kRtam // MMK_12.7 //
+   na tāvat svakṛtaṃ duḥkhaṃ na hi tenaiva tat kṛtam /	na tAvat sva-kRtam duHKam na hi tena-eva tat kRtam /
+   paro nātmakṛtaś cet syād duḥkhaṃ parakṛtaṃ katham // MMK_12.8 //	paraH na-Atma-kRtaH ced syAt duHKam para-kRtam kaTam // MMK_12.8 //
+   syād ubhābhyāṃ kṛtaṃ duḥkhaṃ syād ekaikakṛtaṃ yadi /	syAt uBAByAm kRtam duHKam syAt ekEka-kRtam yadi /
+   parākārāsvayaṃkāraṃ duḥkham ahetukaṃ kutaḥ // MMK_12.9 //	para-AkAra-asvayaMkAram duHKam ahetukam kutas // MMK_12.9 //
+   na kevalaṃ hi duḥkhasya cāturvidhyaṃ na vidyate /	na kevalam hi duHKasya cAturviDyam na vidyate /
+   bāhyānām api bhāvānāṃ cāturvidhyaṃ na vidyate // MMK_12.10 //	bAhyAnAm api BAvAnAm cAturviDyam na vidyate // MnK_12.10 //
+   tan mṛṣā moṣadharma yad bhagavān ity abhāṣata /	tat mRzA moza-Darma yat BagavAn iti aBAzata /
+   sarve ca moṣadharmāṇaḥ saṃskārās tena te mṛṣā // MMK_13.1 //	sarve ca moza-DarmANaH saMskArAH tena te mRzA // MMK_13.1 //
+   tan mṛṣā moṣadharma yad yadi kiṃ tatra muṣyate /	tat mRzA moza-Darma yat yadi kim tatra muzyate /
+   etat tūktaṃ bhagavatā śūnyatāparidīpakam // MMK_13.2 //	etat tu-uktam BagavatA SUnyatA-paridIpakam // MnK_13.2 //
+   bhāvānāṃ niḥsvabhāvatvam anyathābhāvadarśanāt /	BAvAnAm niHsvaBAva-tvam anyaTA-BAva-darSanAt /
+   nāsvabhāvaś ca bhāvo 'sti bhāvānāṃ śūnyatā yataḥ // MMK_13.3 //	na-asvaBAvaH ca BAvaH asti BAvAnAm SUnyatA yatas // MMK_13.3 //
+   kasya syād anyathābhāvaḥ svabhāvaś cen na vidyate /	kasya syAt anyaTA-BAvaH svaBAvaH ced na vidyate /
+   kasya syād anyathābhāvaḥ svabhāvo yadi vidyate // MMK_13.4 //	kasya syAt anyaTA-BAvaH svaBAvaH yadi vidyate // MMK_13.4 //
+   tasyaiva nānyathābhāvo nāpy anyasyaiva yujyate /	tasya-eva na-anyaTA-BAvaH na-api anyasya-eva yujyate /
+   yuvā na jīryate yasmād yasmāj jīrṇo na jīryate // MMK_13.5 //	yuvA na jIryate yasmAt yasmAt jIrNaH na jIryate // MMK_13.5 //
+   tasya ced anyathābhāvaḥ kṣīram eva bhaved dadhi /	tasya ced anyaTA-BAvaH kzIram eva Bavet daDi /
+   kṣīrād anyasya kasyacid dadhibhāvo bhaviṣyati // MMK_13.6 //	kzIrAt anyasya kasyacid daDi-BAvaH Bavizyati // MMK_13.6 //
+   yady aśūnyaṃ bhavet kiṃcit syāc chūnyam iti kiṃ cana /	yadi aSUnyam Bavet kiMcid syAt SUnyam iti kim cana /
+   na kiṃcid asty aśūnyaṃ ca kutaḥ śūnyaṃ bhaviṣyati // MMK_13.7 //	na kiMcid asti aSUnyam ca kutas SUnyam Bavizyati // MMK_13.7 //
+   śūnyatā sarvadṛṣṭīnāṃ proktā niḥsaraṇaṃ jinaiḥ /	SUnyatA sarva-dRzwInAm proktA niHsaraNam jinEH /
+   yeṣāṃ tu śūnyatādṛṣṭis tān asādhyān babhāṣire // MMK_13.8 //	yezAm tu SUnyatA-dRzwiH tAn asADyAn baBAzire // MMK_13.8 //
+   draṣṭavyaṃ darśanaṃ draṣṭā trīṇy etāni dviśo dviśaḥ /	drazwavyam darSanam drazwA trINi etAni dviSas dviSas /
+   sarvaśaś ca na saṃsargam anyonyena vrajanty uta // MMK_14.1 //	sarvaSas ca na saMsargam anyonyena vrajanti uta // MMK_14.1 //
+   evaṃ rāgaś ca raktaś ca rañjanīyaṃ ca dṛśyatām /	evam rAgaH ca raktaH ca raQjanIyam ca dRSyatAm /
+   traidhena śeṣāḥ kleśāś ca śeṣāṇy āyatanāni ca // MMK_14.2 //	trEDena SezAH kleSAH ca SezANi AyatanAni ca // MMK_14.2 //
+   anyenānyasya saṃsargas tac cānyatvaṃ na vidyate /	anyena-anyasya saMsargaH tat ca-anya-tvam na vidyate /
+   draṣṭavyaprabhṛtīnāṃ yan na saṃsargaṃ vrajanty ataḥ // MMK_14.3 //	drazwavya-praBRtInAm yat na saMsargam vrajanti atas // MMK_14.3 //
+   na ca kevalam anyatvaṃ draṣṭavyāder na vidyate /	na ca kevalam anya-tvam drazwavI-a-AdeH na vidyate /
+   kasyacit kenacit sārdhaṃ nānyatvam upapadyate // MMK_14.4 //	kasyacid kenacid sArDam na-anyatvam upapadyate // MMK_14.4 //
+   anyad anyat pratītyānyan nānyad anyad ṛte 'nyataḥ /	anyat anyat pratItya-anyat na-anyat anyat Rte anyatas /
+   yat pratītya ca yat tasmāt tad anyan nopapadyate // MMK_14.5 //	yat pratItya ca yat tasmAt tat anyat na-upapadyate // MMK_14.5 //
+   yady anyad anyad anyasmād anyasmād apy ṛte bhavet /	yadi anyat anyat anyasmAt anyasmAt api Rte Bavet /
+   tad anyad anyad anyasmād ṛte nāsti ca nāsty ataḥ // MMK_14.6 //	tat anyat anyat anyasmAt Rte na-asti ca na-asti atas // MMK_14.6 //
+   nānyasmin vidyate 'nyatvam ananyasmin na vidyate /	na-anyasmin vidyate anya-tvam ananyasmin na vidyate /
+   avidyamāne cānyatve nāsty anyad vā tad eva vā // MMK_14.7 //	avidyamAne ca-anya-tve na-asti anyat vA tat eva vA // MMK_14.7 //
+   na tena tasya saṃsargo nānyenānyasya yujyate /	na tena tasya saMsargaH na-anyena-anyasya yujyate /
+   saṃsṛjyamānaṃ saṃsṛṣṭaṃ saṃsraṣṭā ca na vidyate // MMK_14.8 //	saMsRjyamAnam saMsRzwam saMsrazwA ca na vidyate // MMK_14.8 //
+   na saṃbhavaḥ svabhāvasya yuktaḥ pratyayahetubhiḥ /	na saMBavaH svaBAvasya yuktaH pratyaya-hetuBiH /
+   hetupratyayasaṃbhūtaḥ svabhāvaḥ kṛtako bhavet // MMK_15.1 //	hetu-pratyaya-saMBUtaH svaBAvaH kRtakaH Bavet // MMK_15.1 //
+   svabhāvaḥ kṛtako nāma bhaviṣyati punaḥ katham /	svaBAvaH kRtakaH nAma Bavizyati punar kaTam /
+   akṛtrimaḥ svabhāvo hi nirapekṣaḥ paratra ca // MMK_15.2 //	akRtrimaH svaBAvaH hi nirapekzaH paratra ca // MMK_15.2 //
+   kutaḥ svabhāvasyābhāve parabhāvo bhaviṣyati /	kutas svaBAvasya-aBAve para-BAvaH Bavizyati /
+   svabhāvaḥ parabhāvasya parabhāvo hi kathyate // MMK_15.3 //	svaBAvaH para-BAvasya para-BAvaH hi kaTyate // MMK_15.3 //
+   svabhāvaparabhāvābhyām ṛte bhāvaḥ kutaḥ punaḥ /	svaBAva-para-BAvAByAm Rte BAvaH kutas punar /
+   svabhāve parabhāve ca sati bhāvo hi sidhyati // MMK_15.4 //	svaBAve para-BAve ca sati BAvaH hi siDyati // MMK_15.4 //
+   bhāvasya ced aprasiddhir abhāvo naiva sidhyati /	BAvasya ced aprasidDiH aBAvaH na-eva siDyati /
+   bhāvasya hy anyathābhāvam abhāvaṃ bruvate janāḥ // MMK_15.5 //	BAvasya hi anyaTABAvam aBAvam bruvate janAH // MnK_15.5 //
+   svabhāvaṃ parabhāvaṃ ca bhāvaṃ cābhāvam eva ca /	svaBAvam para-BAvam ca BAvam ca-aBAvam eva ca /
+   ye paśyanti na paśyanti te tattvaṃ buddhaśāsane // MMK_15.6 //	ye paSyanti na paSyanti te tattvam budDa-SAsane // MMK_15.6 //
+   kātyāyanāvavāde cāstīti nāstīti cobhayam /	kAtyAyana-avavAde ca-asti-iti na-asti-iti ca-uBayam /
+   pratiṣiddhaṃ bhagavatā bhāvābhāvavibhāvinā // MMK_15.7 //	pratizidDam BagavatA BAva-aBAva-viBAvinA // MMK_15.7 //
+   yady astitvaṃ prakṛtyā syān na bhaved asya nāstitā /	yadi astitvam prakRtyA syAt na Bavet asya na-astitAH /
+   prakṛter anyathābhāvo na hi jātūpapadyate // MMK_15.8 //	prakRteH anyaTA-BAvaH na hi jAtu-upapadyate // MMK_15.8 //
+   prakṛtau kasya vāsatyām anyathātvaṃ bhaviṣyati /	prakRtO kasya vAsatyAm anyaTAtvam Bavizyati /
+   prakṛtau kasya vā satyām anyathātvaṃ bhaviṣyati // MMK_15.9 //	prakRtO kasya vA satyAm anyaTAtvam Bavizyati // MMK_15.9 //
+   astīti śāśvatagrāho nāstīty ucchedadarśanam /	asti-iti SASvata-grAhaH na-asti-iti ucCeda-darSanam /
+   tasmād astitvanāstitve nāśrīyeta vicakṣaṇaḥ // MMK_15.10 //	tasmAt astitvanA-astitve na-aSrIyeta vicakzaNaH // MnK_15.10 //
+   asti yad dhi svabhāvena na tan nāstīti śāśvatam /	asti yat Di svaBAvena na tat na-asti-iti SASvatam /
+   nāstīdānīm abhūt pūrvam ity ucchedaḥ prasajyate // MMK_15.11 //	na-asti-idAnIm aBUt pUrvam iti ucCedaH prasajyate // MMK_15.11 //
+   saṃskārāḥ saṃsaranti cen na nityāḥ saṃsaranti te /	saMskArAH saMsaranti ced na nityAH saMsaranti te /
+   saṃsaranti ca nānityāḥ sattve 'py eṣa samaḥ kramaḥ // MMK_16.1 //	saMsaranti ca na-anityAH sattve api eza samaH kramaH // MMK_16.1 //
+   pudgalaḥ saṃsarati cet skandhāyatanadhātuṣu /	pudgalaH saMsarati ced skanDa-Ayatana-DAtuzu /
+   pañcadhā mṛgyamāṇo 'sau nāsti kaḥ saṃsariṣyati // MMK_16.2 //	paQcaDA mRgyamANaH asO na-asti kaH saMsarizyati // MMK_16.2 //
+   upādānād upādānaṃ saṃsaran vibhavo bhavet /	upAdAnAt upAdAnam saMsaran viBavaH Bavet /
+   vibhavaś cānupādānaḥ kaḥ sa kiṃ saṃsariṣyati // MMK_16.3 //	viBavaH ca-anupAdAnaH kaH sa kim saMsarizyati // MMK_16.3 //
+   saṃskārāṇāṃ na nirvāṇaṃ kathaṃ cid upapadyate /	saMskArANAm na nirvANam kaTam cit upapadyate /
+   sattvasyāpi na nirvāṇaṃ kathaṃ cid upapadyate // MMK_16.4 //	sattvasya-api na nirvANam kaTam cit upapadyate // MMK_16.4 //
+   na badhyante na mucyanta udayavyayadharmiṇaḥ /	na baDyante na mucyante udaya-vyaya-DarmiNaH /
+   saṃskārāḥ pūrvavat sattvo badhyate na na mucyate // MMK_16.5 //	saMskArAH pUrvavat sattvaH baDyate na na mucyate // MMK_16.5 //
+   bandhanaṃ ced upādānaṃ sopādāno na badhyate /	banDanam ced upAdAnam sa-upAdAnaH na baDyate /
+   badhyate nānupādānaḥ kimavastho 'tha badhyate // MMK_16.6 //	baDyate na-anupAdAnaH kimavasTaH aTa baDyate // MnK_16.6 //
+   badhnīyād bandhanaṃ kāmaṃ bandhyāt pūrvaṃ bhaved yadi /	baDnIyAt banDanam kAmam banDyAt pUrvam Bavet yadi /
+   na cāsti tac cheṣam uktaṃ gamyamānagatāgataiḥ // MMK_16.7 //	na ca-asti tat Sezam uktam gamyamAna-gata-AgatEH // MMK_16.7 //
+   baddho na mucyate tāvad abaddho naiva mucyate /	badDaH na mucyate tAvat abadDaH na-eva mucyate /
+   syātāṃ baddhe mucyamāne yugapad bandhamokṣaṇe // MMK_16.8 //	syAtAm badDe mucyamAne yugapad banDa-mokzaNe // MMK_16.8 //
+   nirvāsyāmy anupādāno nirvāṇaṃ me bhaviṣyati /	nirvAsyAmi anupAdAnaH nirvANam me Bavizyati /
+   iti yeṣāṃ grahas teṣām upādānamahāgrahaḥ // MMK_16.9 //	iti yezAm grahaH tezAm upAdAna-mahA-grahaH // MnK_16.9 //
+   na nirvāṇasamāropo na saṃsārāpakarṣaṇam /	na nirvANa-samAropaH na saMsAra-apakarzaNam /
+   yatra kas tatra saṃsāro nirvāṇaṃ kiṃ vikalpyate // MMK_16.10 //	yatra kaH tatra saMsAraH nirvANam kim vikalpyate // MMK_16.10 //
+   ātmasaṃyamakaṃ cetaḥ parānugrāhakaṃ ca yat /	Atma-saMyamakam cetaH para-anugrAhakam ca yat /
+   maitraṃ sa dharamas tad bījaṃ phalasya pretya ceha ca // MMK_17.1 //	mEtram sa DaramaH tat bIjam Palasya pretya ca-iha ca // MMK_17.1 //
+   cetanā cetayitvā ca karmoktaṃ paramarṣiṇā /	cetanA cetayitvA ca karma-uktam parama-RziNA /
+   tasyānekavidho bhedaḥ karmaṇaḥ parikīrtitaḥ // MMK_17.2 //	tasya-anekaviDaH BedaH karmaNaH parikIrtitaH // MMK_17.2 //
+   tatra yac cetanety uktaṃ karma tan mānasaṃ smṛtam /	tatra yat cetanA-iti uktam karma tat mAnasam smRtam /
+   cetayitvā ca yat tūktaṃ tat tu kāyikavācikam // MMK_17.3 //	cetayitvA ca yat tu-uktam tat tu kAyika-vAcikam // MnK_17.3 //
+   vāgviṣpando 'viratayo yāś cāvijñaptisaṃjñitāḥ /	vAc-vizpandaH aviratayaH yAH ca-avijQapti-saMjQitAH /
+   avijñaptaya evānyāḥ smṛtā viratayas tathā // MMK_17.4 //	avijQaptayaH eva-anyAH smRtAH viratayaH taTA // MMK_17.4 //
+   paribhogānvayaṃ puṇyam apuṇyaṃ ca tathāvidham /	pariBoga-anvayam puNyam apuNyam ca taTAviDam /
+   cetanā ceti saptaite dharmāḥ karmāñjanāḥ smṛtāḥ // MMK_17.5 //	cetanA ca-iti saptA-ete DarmAH karma-aQjanAH smRtAH // MnK_17.5 //
+   tiṣṭhaty ā pākakālāc cet karma tan nityatām iyāt /	tizWati A pAka-kAlAt ced karma tat nityatAm iyAt /
+   niruddhaṃ cen niruddhaṃ sat kiṃ phalaṃ janayiṣyati // MMK_17.6 //	nirudDam ced nirudDam sat kim Palam janayizyati // MMK_17.6 //
+   yo 'ṅkuraprabhṛtir bījāt saṃtāno 'bhipravartate /	yaH aFkura-praBRtiH bIjAt saMtAnaH aBipravartate /
+   tataḥ phalam ṛte bījāt sa ca nābhipravartate // MMK_17.7 //	tatas Palam Rte bIjAt sa ca na-aBipravartate // MMK_17.7 //
+   bījāc ca yasmāt saṃtānaḥ saṃtānāc ca phalodbhavaḥ /	bIjAt ca yasmAt saMtAnaH saMtAnAt ca Pala-udBavaH /
+   bījapūrvaṃ phalaṃ tasmān nocchinnaṃ nāpi śāśvatam // MMK_17.8 //	bIja-pUrvam Palam tasmAt na-ucCinnam na-api SASvatam // MMK_17.8 //
+   yas tasmāc cittasaṃtānaś cetaso 'bhipravartate /	yaH tasmAt citta-saMtAnaH cetasaH aBipravartate /
+   tataḥ phalam ṛte cittāt sa ca nābhipravartate // MMK_17.9 //	tatas Palam Rte cittAt sa ca na-aBipravartate // MMK_17.9 //
+   cittāc ca yasmāt saṃtānaḥ saṃtānāc ca phalodbhavaḥ /	cittAt ca yasmAt saMtAnaH saMtAnAt ca Pala-udBavaH /
+   karmapūrvaṃ phalaṃ tasmān nocchinnaṃ nāpi śāśvatam // MMK_17.10 //	karma-pUrvam Palam tasmAt na-ucCinnam na-api SASvatam // MnK_17.10 //
+   dharmasya sādhanopāyāḥ śuklāḥ karmapathā daśa /	Darmasya sADana-upAyAH SuklAH karma-paTAH daSa /
+   phalaṃ kāmaguṇāḥ pañca dharmasya pretya ceha ca // MMK_17.11 //	Palam kAma-guNAH paQca Darmasya pretya ca-iha ca // MMK_17.11 //
+   bahavaś ca mahāntaś ca doṣāḥ syur yadi kalpanā /	bahavaH ca mahAntaH ca dozAH syuH yadi kalpanA /
+   syād eṣā tena naivaiṣā kalpanātropapadyate // MMK_17.12 //	syAt ezA tena na-eva-ezA kalpanAtra-upapadyate // MMK_17.12 //
+   imāṃ punaḥ pravakṣyāmi kalpanāṃ yātra yojyate /	imAm punar pravakzyAmi kalpanAm yA-atra yojyate /
+   buddhaiḥ pratyekabuddhaiś ca śrāvakaiś cānuvarṇitām // MMK_17.13 //	budDEH pratyekabudDEH ca SrAvakEH ca-anuvarNitAm // MMK_17.13 //
+   pattraṃ yathā 'vipraṇāśastatharṇam iva karma ca /	pattram yaTA avipraNASaH-taTA-RNam iva karma ca /
+   caturvidho dhātutaḥ sa prakṛtyāvyākṛtaś ca saḥ // MMK_17.14 //	caturviDaH DAtutaH sa prakRtyA-vyAkRtaH ca saH // MnK_17.14 //
+   prahāṇato na praheyo bhāvanāheya eva vā /	prahANataH na praheyaH BAvanA-heyaH eva vA /
+   tasmād avipraṇāśena jāyate karmaṇāṃ phalam // MMK_17.15 //	tasmAt avipraNASena jAyate karmaNAm Palam // MnK_17.15 //
+   prahāṇataḥ praheyaḥ syāt karmaṇaḥ saṃkrameṇa vā /	prahANataH praheyaH syAt karmaNaH saMkrameNa vA /
+   yadi doṣāḥ prasajyeraṃs tatra karmavadhādayaḥ // MMK_17.16 //	yadi dozAH prasajyeran tatra karma-vaDa-AdayaH // MnK_17.16 //
+   sarveṣāṃ visabhāgānāṃ sabhāgānāṃ ca karmaṇām /	sarvezAm visa-BAgAnAm sa-BAgAnAm ca karmaNAm /
+   pratisaṃdhau sadhātūnām eka utpadyate tu saḥ // MMK_17.17 //	pratisaMDO sa-DAtUnAm ekaH utpadyate tu saH // MnK_17.17 //
+   karmaṇaḥ karmaṇo dṛṣṭe dharma utpadyate tu saḥ /	karmaNaH karmaNaH dRzwe DarmaH utpadyate tu saH /
+   dviprakārasya sarvasya vipakve 'pi ca tiṣṭhati // MMK_17.18 //	dvi-prakArasya sarvasya vipakve api ca tizWati // MMK_17.18 //
+   phalavyatikramād vā sa maraṇād vā nirudhyate /	Pala-vyatikramAt vA sa maraNAt vA niruDyate /
+   anāsravaṃ sāsravaṃ ca vibhāgaṃ tatra lakṣayet // MMK_17.19 //	anAsravam sa-Asravam ca viBAgam tatra lakzayet // MMK_17.19 //
+   śūnyatā ca na cocchedaḥ saṃsāraś ca na śāśvatam /	SUnyatA ca na ca-ucCedaH saMsAraH ca na SASvatam /
+   karmaṇo 'vipraṇāśaś ca dharmo buddhena deśitaḥ // MMK_17.20 //	karmaNaH avipraNASaH ca DarmaH budDena deSitaH // MMK_17.20 //
+   karma notpadyate kasmān niḥsvabhāvaṃ yatas tataḥ /	karma na-utpadyate kasmAt niHsvaBAvam yatas tatas /
+   yasmāc ca tad anutpannaṃ na tasmād vipraṇaśyati // MMK_17.21 //	yasmAt ca tat anutpannam na tasmAt vipraNaSyati // MMK_17.21 //
+   karma svabhāvataś cet syāc chāśvataṃ syād asaṃśayam /	karma svaBAvataH ced syAt SASvatam syAt asaMSayam /
+   akṛtaṃ ca bhavet karma kriyate na hi śāśvatam // MMK_17.22 //	akRtam ca Bavet karma kriyate na hi SASvatam // MMK_17.22 //
+   akṛtābhyāgamabhayaṃ syāt karmākṛtakaṃ yadi /	akRta-aByAgam-aBayam syAt karma-akRtakam yadi /
+   abrahmacaryavāsaś ca doṣastatra prasajyate // MMK_17.23 //	abrahmacarya-vAsaH ca dozaH-tatra prasajyate // MMK_17.23 //
+   vyavahārā virudhyante sarva eva na saṃśayaḥ /	vyavahArAH viruDyante sarve eva na saMSayaH /
+   puṇyapāpakṛtor naiva pravibhāgaś ca yujyate // MMK_17.24 //	puNya-pApa-kRtoH na-eva praviBAgaH ca yujyate // MMK_17.24 //
+   tad vipakvavipākaṃ ca punar eva vipakṣyati /	tat vipakva-vipAkam ca punar eva vipakzyati /
+   karma vyavasthitaṃ yasmāt tasmāt svābhāvikaṃ yadi // MMK_17.25 //	karma vyavasTitam yasmAt tasmAt svABAvikam yadi // MMK_17.25 //
+   karma kleśātmakaṃ cedaṃ te ca kleśā na tattvataḥ /	karma kleSa-Atmakam ca-idam te ca kleSAH na tattvataH /
+   na cet te tattvataḥ kleśāḥ karma syāt tattvataḥ katham // MMK_17.26 //	na ced te tattvataH kleSAH karma syAt tattvataH kaTam // MMK_17.26 //
+   karma kleśāś ca dehānāṃ pratyayāḥ samudāhṛtāḥ /	karma kleSAH ca dehAnAm pratyayAH samudAhRtAH /
+   karma kleśāś ca te śūnyā yadi deheṣu kā kathā // MMK_17.27 //	karma kleSAH ca te SUnyA yadi dehezu kA kaTA // MnK_17.27 //
+   avidyānivṛto jantus tṛṣṇāsaṃyojanaś ca saḥ /	avidyA-nivRtaH jantuH tRzNA-saMyojanaH ca saH /
+   sa bhoktā sa ca na kartur anyo na ca sa eva saḥ // MMK_17.28 //	sa BoktA sa ca na kartuH anyaH na ca saH eva saH // MnK_17.28 //
+   na pratyayasamutpannaṃ nāpratyayasamutthitam /	na pratyaya-samutpannam na-apratyaya-samutTitam /
+   asti yasmād idaṃ karma tasmāt kartāpi nāsty ataḥ // MMK_17.29 //	asti yasmAt idam karma tasmAt kartA-api na-asti atas // MMK_17.29 //
+   karma cen nāsti kartā ca kutaḥ syāt karmajaṃ phalam /	karma ced na-asti kartA ca kutas syAt karma-jam Palam /
+   asaty atha phale bhoktā kuta eva bhaviṣyati // MMK_17.30 //	asatI aTa Pale BoktA kutas eva Bavizyati // MMK_17.30 //
+   yathā nirmitakaṃ śāstā nirmimīta rddhisaṃpadā /	yaTA nirmitakam SAstA nirmimIta rdDi-saMpadA /
+   nirmito nirmimītānyaṃ sa ca nirmitakaḥ punaḥ // MMK_17.31 //	nirmitaH nirmimIta-anyam sa ca nirmitakaH punar // MMK_17.31 //
+   tathā nirmitakākāraḥ kartā yat karma tat kṛtam /	taTA nirmitaka-AkAraH kartA yat karma tat kRtam /
+   tadyathā nirmitenānyo nirmito nirmitas tathā // MMK_17.32 //	tat-yaTA nirmitena-anyaH nirmitaH nirmitaH taTA // MMK_17.32 //
+   kleśāḥ karmāṇi dehāś ca kartāraś ca phalāni ca /	kleSAH karmANi dehAH ca kartAraH ca PalAni ca /
+   gandharvanagarākārā marīcisvapnasaṃnibhāḥ // MMK_17.33 //	ganDarvanagara-AkArAH marIci-svapna-saMniBAH // MnK_17.33 //
+   ātmā skandhā yadi bhaved udayavyayabhāg bhavet /	AtmA skanDA yadi Bavet udaya-vyaya-BAj Bavet /
+   skandhebhyo 'nyo yadi bhaved bhaved askandhalakṣaṇaḥ // MMK_18.1 //	skanDeByaH anyaH yadi Bavet Bavet askanDa-lakzaNaH // MMK_18.1 //
+   ātmany asati cātmīyaṃ kuta eva bhaviṣyati /	Atmani asati ca-AtmIyam kutas eva Bavizyati /
+   nirmamo nirahaṃkāraḥ śamād ātmātmanīnayoḥ // MMK_18.2 //	nirmamaH nirahaMkAraH SamAt Atma-AtmanInayoH // MnK_18.2 //
+   nirmamo nirahaṃkāro yaś ca so 'pi na vidyate /	nirmamaH nirahaMkAraH yaH ca saH api na vidyate /
+   nirmamaṃ nirahaṃkāraṃ yaḥ paśyati na paśyati // MMK_18.3 //	nirmamam nirahaMkAram yaH paSyati na paSyati // MMK_18.3 //
+   mamety aham iti kṣīṇe bahirdhādhyātmam eva ca /	mama-iti aham iti kzINe bahirDA-aDyAtmam eva ca /
+   nirudhyata upādānaṃ tatkṣayāj janmanaḥ kṣayaḥ // MMK_18.4 //	niruDyate upAdAnam tad-kzayAt janmanaH kzayaH // MnK_18.4 //
+   karmakleśakṣayān mokṣaḥ karmakleśā vikalpataḥ /	karma-kleSa-kzayAt mokzaH karma-kleSAH vikalpataH /
+   te prapañcāt prapañcas tu śūnyatāyāṃ nirudhyate // MMK_18.5 //	te prapaQcAt prapaQcaH tu SUnyatAyAm niruDyate // MMK_18.5 //
+   ātmety api prajñapitam anātmety api deśitam /	AtmA-iti api prajQapitam anAtmA-iti api deSitam /
+   buddhair nātmā na cānātmā kaścid ity api deśitam // MMK_18.6 //	budDEH na-AtmA na ca-anAtmA kaScid iti api deSitam // MnK_18.6 //
+   nivṛttam abhidhātavyaṃ nivṛttaś cittagocaraḥ /	nivRttam aBiDAtavyam nivRttaH citta-gocaraH /
+   anutpannāniruddhā hi nirvāṇam iva dharmatā // MMK_18.7 //	anutpanna-anirudDAH hi nirvANam iva DarmatA // MMK_18.7 //
+   sarvaṃ tathyaṃ na vā tathyaṃ tathyaṃ cātathyam eva ca /	sarvam taTyam na vA taTyam taTyam ca-ataTyam eva ca /
+   naivātathyaṃ naiva tathyam etad buddhānuśāsanam // MMK_18.8 //	na-eva-ataTyam na-eva taTyam etat budDa-anuSAsanam // MMK_18.8 //
+   aparapratyayaṃ śāntaṃ prapañcair aprapañcitam /	apara-pratyayam SAntam prapaQcEH aprapaQcitam /
+   nirvikalpam anānārtham etat tattvasya lakṣaṇam // MMK_18.9 //	nirvikalpam anAna-arTam etat tattvasya lakzaNam // MMK_18.9 //
+   pratītya yad yad bhavati na hi tāvat tad eva tat /	pratItya yat yat Bavati na hi tAvat tat eva tat /
+   na cānyadapi tattasmānnocchinnaṃ nāpi śāśvatam // MMK_18.10 //	na ca-anyat-api tat-tasmAt-na-ucCinnam na-api SASvatam // MnK_18.10 //
+   anekārtham anānārtham anucchedam aśāśvatam /	aneka-arTam anAna-arTam anucCedam aSASvatam /
+   etat tal lokanāthānāṃ buddhānāṃ śāsanāmṛtam // MMK_18.11 //	etat tat lokanATAnAm budDAnAm SAsana-amRtam // MMK_18.11 //
+   saṃbuddhānām anutpāde śrāvakāṇāṃ punaḥ kṣaye /	saMbudDAnAm anutpAde SrAvakANAm punar kzaye /
+   jñānaṃ pratyekabuddhānām asaṃsargāt pravartate // MMK_18.12 //	jQAnam pratyekabudDAnAm asaMsargAt pravartate // MMK_18.12 //
+   pratyutpanno 'nāgataś ca yady atītam apekṣya hi /	pratyutpannaH anAgataH ca yadi atItam apekzya hi /
+   pratyutpanno 'nāgataś ca kāle 'tīte bhaviṣyataḥ // MMK_19.1 //	pratyutpannaH anAgataH ca kAle atIte BavizyataH // MMK_19.1 //
+   pratyutpanno 'nāgataś ca na stas tatra punar yadi /	pratyutpannaH anAgataH ca na staH tatra punar yadi /
+   pratyutpanno 'nāgataś ca syātāṃ katham apekṣya tam // MMK_19.2 //	pratyutpannaH anAgataH ca syAtAm kaTam apekzya tam // MMK_19.2 //
+   anapekṣya punaḥ siddhir nātītaṃ vidyate tayoḥ /	anapekzya punar sidDiH na-atItam vidyate tayoH /
+   pratyutpanno 'nāgataś ca tasmāt kālo na vidyate // MMK_19.3 //	pratyutpannaH anAgataH ca tasmAt kAlaH na vidyate // MMK_19.3 //
+   etenaivāvaśiṣṭau dvau krameṇa parivartakau /	etena-eva-avaSizwO dvO krameNa parivartakO /
+   uttamādhamamadhyādīn ekatvādīṃś ca lakṣayet // MMK_19.4 //	uttama-aDama-maDya-AdIn eka-tva-AdIn ca lakzayet // MMK_19.4 //
+   nāsthito gṛhyate kālaḥ sthitaḥ kālo na vidyate /	na-AsTitaH gRhyate kAlaH sTitaH kAlaH na vidyate /
+   yo gṛhyetāgṛhītaś ca kālaḥ prajñapyate katham // MMK_19.5 //	yaH gRhyeta-agRhItaH ca kAlaH prajQapyate kaTam // MMK_19.5 //
+   bhāvaṃ pratītya kālaś cet kālo bhāvād ṛte kutaḥ /	BAvam pratItya kAlaH ced kAlaH BAvAt Rte kutas /
+   na ca kaś cana bhāvo 'sti kutaḥ kālo bhaviṣyati // MMK_19.6 //	na ca kaH cana BAvaH asti kutas kAlaH Bavizyati // MMK_19.6 //
+   hetoś ca pratyayānāṃ ca sāmagryā jāyate yadi /	hetoH ca pratyayAnAm ca sAmagryA jAyate yadi /
+   phalamasti ca sāmagryāṃ sāmagryā jāyate katham // MMK_20.1 //	Palam-asti ca sAmagryAm sAmagryA jAyate kaTam // MMK_20.1 //
+   hetoś ca pratyayānāṃ ca sāmagryā jāyate yadi /	hetoH ca pratyayAnAm ca sAmagryA jAyate yadi /
+   phalaṃ nāsti ca sāmagryāṃ sāmagryā jāyate katham // MMK_20.2 //	Palam na-asti ca sAmagryAm sAmagryA jAyate kaTam // MMK_20.2 //
+   hetoś ca pratyayānāṃ ca sāmagryām asti cet phalam /	hetoH ca pratyayAnAm ca sAmagryAm asti ced Palam /
+   gṛhyeta nanu sāmagryāṃ sāmagryāṃ ca na gṛhyate // MMK_20.3 //	gRhyeta nanu sAmagryAm sAmagryAm ca na gRhyate // MMK_20.3 //
+   hetoś ca pratyayānāṃ ca sāmagryāṃ nāsti cet phalam /	hetoH ca pratyayAnAm ca sAmagryAm na-asti ced Palam /
+   hetavaḥ pratyayāś ca syur ahetupratyayaiḥ samāḥ // MMK_20.4 //	hetavaH pratyayAH ca syuH ahetu-pratyayEH samAH // MMK_20.4 //
+   hetuṃ phalasya dattvā ca yadi hetur nirudhyate /	hetum Palasya dattvA ca yadi hetuH niruDyate /
+   yad dattaṃ yan nirudhaṃ ca hetor ātmadvayaṃ bhavet // MMK_20.5 //	yat dattam yat niruDam ca hetoH Atma-dvayam Bavet // MMK_20.5 //
+   hetuṃ phalasyādattvā ca yadi hetur nirudhyate /	hetum Palasya-adattvA ca yadi hetuH niruDyate /
+   hetau niruddhe jātaṃ tat phalam āhetukaṃ bhavet // MMK_20.6 //	hetO nirudDe jAtam tat Palam Ahetukam Bavet // MMK_20.6 //
+   phalaṃ sahaiva sāmagryā yadi prādurbhavet punaḥ /	Palam saha-eva sAmagryAH yadi prAdurBavet punar /
+   ekakālau prasajyete janako yaś ca janyate // MMK_20.7 //	eka-kAlO prasajyete janakaH yaH ca janyate // MnK_20.7 //
+   pūrvam eva ca sāmagryāḥ phalaṃ prādurbhaved yadi /	pUrvam eva ca sAmagryAH Palam prAdurBavet yadi /
+   hetupratyayanirmuktaṃ phalam āhetukaṃ bhavet // MMK_20.8 //	hetu-pratyaya-nirmuktam Palam Ahetukam Bavet // MMK_20.8 //
+   niruddhe cet phalaṃ hetau hetoḥ saṃkramaṇaṃ bhavet /	nirudDe ced Palam hetO hetoH saMkramaNam Bavet /
+   pūrvajātasya hetoś ca punarjanma prasajyate // MMK_20.9 //	pUrva-jAtasya hetoH ca punarjanma prasajyate // MMK_20.9 //
+   janayet phalam utpannaṃ niruddho 'staṃgataḥ katham /	janayet Palam utpannam nirudDaH astaMgataH kaTam /
+   hetus tiṣṭhann api kathaṃ phalena janayed vṛtaḥ // MMK_20.10 //	hetuH tizWan api kaTam Palena janayet vRtaH // MMK_20.10 //
+   athāvṛtaḥ phalenāsau katamaj janayet phalam /	aTa-AvRtaH Palena-asO katamat janayet Palam /
+   na hy adṛṣṭvā na dṛṣṭvāpi hetur janayate phalam // MMK_20.11 //	na hi adRzwvA na dRzwvA-api hetuH janayate Palam // MnK_20.11 //
+   nātītasya hy atītena phalasya saha hetunā /	na-atItasya hi atItena Palasya saha hetunA /
+   nājātena na jātena saṃgatir jātu vidyate // MMK_20.12 //	na-ajAtena na jAtena saMgatiH jAtu vidyate // MMK_20.12 //
+   na jātasya hy ajātena phalasya saha hetunā /	na jAtasya hi ajAtena Palasya saha hetunA /
+   nātītena na jātena saṃgatir jātu vidyate // MMK_20.13 //	na-atItena na jAtena saMgatiH jAtu vidyate // MMK_20.13 //
+   nājātasya hi jātena phalasya saha hetunā /	na-ajAtasya hi jAtena Palasya saha hetunA /
+   nājātena na naṣṭena saṃgatir jātu vidyate // MMK_20.14 //	na-ajAtena na nazwena saMgatiH jAtu vidyate // MMK_20.14 //
+   asatyāṃ saṃgatau hetuḥ kathaṃ janayate phalam /	asatyAm saMgatO hetuH kaTam janayate Palam /
+   satyāṃ vā saṃgatau hetuḥ kathaṃ janayate phalam // MMK_20.15 //	satyAm vA saMgatO hetuH kaTam janayate Palam // MnK_20.15 //
+   hetuḥ phalena śūnyaś cet kathaṃ janayate phalam /	hetuH Palena SUnyaH ced kaTam janayate Palam /
+   hetuḥ phalenāśūnyaś cet kathaṃ janayate phalam // MMK_20.16 //	hetuH Palena-aSUnyaH ced kaTam janayate Palam // MnK_20.16 //
+   phalaṃ notpatsyate 'śūnyam aśūnyaṃ na nirotsyate /	Palam na-utpatsyate aSUnyam aSUnyam na nirotsyate /
+   aniruddham anutpannam aśūnyaṃ tad bhaviṣyati // MMK_20.17 //	anirudDam anutpannam aSUnyam tat Bavizyati // MMK_20.17 //
+   katham utpatsyate śūnyaṃ kathaṃ śūnyaṃ nirotsyate /	kaTam utpatsyate SUnyam kaTam SUnyam nirotsyate /
+   śūnyam apy aniruddhaṃ tad anutpannaṃ prasajyate // MMK_20.18 //	SUnyam api anirudDam tat anutpannam prasajyate // MMK_20.18 //
+   hetoḥ phalasya caikatvaṃ na hi jātūpapadyate /	hetoH Palasya ca-eka-tvam na hi jAtu-upapadyate /
+   hetoḥ phalasya cānyatvaṃ na hi jātūpapadyate // MMK_20.19 //	hetoH Palasya ca-anya-tvam na hi jAtu-upapadyate // MMK_20.19 //
+   ekatve phalahetvoḥ syād aikyaṃ janakajanyayoḥ /	eka-tve Pala-hetvoH syAt Ekyam janaka-janyayoH /
+   pṛthaktve phalahetvoḥ syāt tulyo hetur ahetunā // MMK_20.20 //	pRTaktve Pala-hetvoH syAt tulyaH hetuH ahetunA // MMK_20.20 //
+   phalaṃ svabhāvasadbhūtaṃ kiṃ hetur janayiṣyati /	Palam svaBAva-sadBUtam kim hetuH janayizyati /
+   phalaṃ svabhāvāsadbhūtaṃ kiṃ hetur janayiṣyati // MMK_20.21 //	Palam svaBAvAsadBUtam kim hetuH janayizyati // MMK_20.21 //
+   na cājanayamānasya hetutvam upapadyate /	na ca-ajanayamAnasya hetu-tvam upapadyate /
+   hetutvānupapattau ca phalaṃ kasya bhaviṣyati // MMK_20.22 //	hetutva-anupapattO ca Palam kasya Bavizyati // MMK_20.22 //
+   na ca pratyayahetūnām iyam ātmānam ātmanā /	na ca pratyaya-hetUnAm iyam AtmAnam AtmanA /
+   yā sāmagrī janayate sā kathaṃ janayet phalam // MMK_20.23 //	yA sAmagrI janayate sA kaTam janayet Palam // MnK_20.23 //
+   na sāmagrīkṛtaṃ phalaṃ nāsāmagrīkṛtaṃ phalam /	na sAmagrI-kRtam Palam na-AsAm-agrIkRtam Palam /
+   asti pratyayasāmagrī kuta eva phalaṃ vinā // MMK_20.24 //	asti pratyaya-sAmagrI kutas eva Palam vinA // MMK_20.24 //
+   vinā vā saha vā nāsti vibhavaḥ saṃbhavena vai /	vinA vA saha vA na-asti viBavaH saMBavena vE /
+   vinā vā saha vā nāsti saṃbhavo vibhavena vai // MMK_21.1 //	vinA vA saha vA na-asti saMBavaH viBavena vE // MMK_21.1 //
+   bhaviṣyati kathaṃ nāma vibhavaḥ saṃbhavaṃ vinā /	Bavizyati kaTam nAma viBavaH saMBavam vinA /
+   vinaiva janma maraṇaṃ vibhavo nodbhavaṃ vinā // MMK_21.2 //	vinA-eva janma maraNam viBavaH na-udBavam vinA // MMK_21.2 //
+   saṃbhavenaiva vibhavaḥ kathaṃ saha bhaviṣyati /	saMBavena-eva viBavaH kaTam saha Bavizyati /
+   na janma maraṇaṃ caivaṃ tulyakālaṃ hi vidyate // MMK_21.3 //	na janma maraNam ca-evam tulya-kAlam hi vidyate // MMK_21.3 //
+   bhaviṣyati kathaṃ nāma saṃbhavo vibhavaṃ vinā /	Bavizyati kaTam nAma saMBavaH viBavam vinA /
+   anityatā hi bhāveṣu na kadācin na vidyate // MMK_21.4 //	anitya-tA hi BAvezu na kadAcid na vidyate // MMK_21.4 //
+   saṃbhavo vibhavenaiva kathaṃ saha bhaviṣyati /	saMBavaH viBavena-eva kaTam saha Bavizyati /
+   na janma maraṇaṃ caiva tulyakālaṃ hi vidyate // MMK_21.5 //	na janma maraNam ca-eva tulya-kAlam hi vidyate // MMK_21.5 //
+   sahānyonyena vā siddhir vinānyonyena vā yayoḥ /	saha-anyonyena vA sidDiH vinA-anyonyena vA yayoH /
+   na vidyate tayoḥ siddhiḥ kathaṃ nu khalu vidyate // MMK_21.6 //	na vidyate tayoH sidDiH kaTam nu Kalu vidyate // MMK_21.6 //
+   kṣayasya saṃbhavo nāsti nākṣayasyāsti saṃbhavaḥ /	kzayasya saMBavaH na-asti na-akzayasya-asti saMBavaH /
+   kṣayasya vibhavo nāsti vibhavo nākṣayasya ca // MMK_21.7 //	kzayasya viBavaH na-asti viBavaH na-akzayasya ca // MMK_21.7 //
+   saṃbhavo vibhavaś caiva vinā bhāvaṃ na vidyate /	saMBavaH viBavaH ca-eva vinA BAvam na vidyate /
+   saṃbhavaṃ vibhavaṃ caiva vinā bhāvo na vidyate // MMK_21.8 //	saMBavam viBavam ca-eva vinA BAvaH na vidyate // MMK_21.8 //
+   saṃbhavo vibhavaś caiva na śūnyasyopapadyate /	saMBavaH viBavaH ca-eva na SUnyasya-upapadyate /
+   saṃbhavo vibhavaś caiva nāśūnyasyopapadyate // MMK_21.9 //	saMBavaH viBavaH ca-eva na-aSUni-asya-upapadyate // MMK_21.9 //
+   saṃbhavo vibhavaś caiva naika ity upapadyate /	saMBavaH viBavaH ca-eva na-ekaH iti upapadyate /
+   saṃbhavo vibhavaś caiva na nānety upapadyate // MMK_21.10 //	saMBavaH viBavaH ca-eva na nAnA-iti upapadyate // MMK_21.10 //
+   dṛśyate saṃbhavaścaiva vibhavaś caiva te bhavet /	dRSyate saMBavaH-ca-eva viBavaH ca-eva te Bavet /
+   dṛśyate saṃbhavaścaiva mohād vibhava eva ca // MMK_21.11 //	dRSyate saMBavaH-ca-eva mohAt viBavaH eva ca // MMK_21.11 //
+   na bhāvāj jāyate bhāvo bhāvo 'bhāvān na jāyate /	na BAvAt jAyate BAvaH BAvaH aBAvAt na jAyate /
+   nābhāvāj jāyate 'bhāvo 'bhāvo bhāvān na jāyate // MMK_21.12 //	na-aBAvAt jAyate aBAvaH aBAvaH BAvAt na jAyate // MnK_21.12 //
+   na svato jāyate bhāvaḥ parato naiva jāyate /	na svatas jAyate BAvaH paratas na-eva jAyate /
+   na svataḥ parataś caiva jāyate jāyate kutaḥ // MMK_21.13 //	na svatas paratas ca-eva jAyate jAyate kutas // MMK_21.13 //
+   bhāvam abhyupapannasya śāśvatocchedadarśanam /	BAvam aByupapannasya SASvata-ucCeda-darSanam /
+   prasajyate sa bhāvo hi nityo 'nityo 'tha vā bhavet // MMK_21.14 //	prasajyate sa BAvaH hi nityaH anityaH aTa vA Bavet // MMK_21.14 //
+   bhāvam abhyupapannasya naivocchedo na śāśvatam /	BAvam aByupapannasya na-eva-ucCedaH na SASvatam /
+   udayavyayasaṃtānaḥ phalahetvor bhavaḥ sa hi // MMK_21.15 //	udaya-vyaya-saMtAnaH Pala-hetvoH BavaH sa hi // MMK_21.15 //
+   udayavyayasaṃtānaḥ phalahetvor bhavaḥ sa cet /	udaya-vyaya-saMtAnaH Pala-hetvoH BavaH sa ced /
+   vyayasyāpunarutpatter hetūcchedaḥ prasajyate // MMK_21.16 //	vyayasya-apunar-utpatteH hetu-ucCedaH prasajyate // MMK_21.16 //
+   sadbhāvasya svabhāvena nāsadbhāvaś ca yujyate /	sadBAvasya svaBAvena na-asadBAvaH ca yujyate /
+   nirvāṇakāle cocchedaḥ praśamād bhavasaṃtateḥ // MMK_21.17 //	nirvANa-kAle ca-ucCedaH praSamAt Bava-saMtateH // MnK_21.17 //
+   carame na niruddhe ca prathamo yujyate bhavaḥ /	carame na nirudDe ca praTamaH yujyate BavaH /
+   carame nāniruddhe ca prathamo yujyate bhavaḥ // MMK_21.18 //	carame na-anirudDe ca praTamaH yujyate BavaH // MnK_21.18 //
+   nirudhyamāne carame prathamo yadi jāyate /	niruDyamAne carame praTamaH yadi jAyate /
+   nirudhyamāna ekaḥ syāj jāyamāno 'paro bhavet // MMK_21.19 //	niruDyamAnaH ekaH syAt jAyamAnaH aparaH Bavet // MMK_21.19 //
+   na cen nirudhyamānaś ca jāyamānaś ca yujyate /	na ced niruDyamAnaH ca jAyamAnaH ca yujyate /
+   sārdhaṃ ca mriyate yeṣu teṣu skandheṣu jāyate // MMK_21.20 //	sArDam ca mriyate yezu tezu skanDezu jAyate // MnK_21.20 //
+   evaṃ triṣv api kāleṣu na yuktā bhavasaṃtatiḥ /	evam trizu api kAlezu na yuktA Bava-saMtatiH /
+   triṣu kāleṣu yā nāsti sā kathaṃ bhavasaṃtatiḥ // MMK_21.21 //	trizu kAlezu yA na-asti sA kaTam Bava-saMtatiH // MMK_21.21 //
+   skandhā na nānyaḥ skandhebhyo nāsmin skandhā na teṣu saḥ /	skanDAH na na-anyaH skanDeByaH na-asmin skanDAH na tezu saH /
+   tathāgataḥ skandhavān na katamo 'tra tathāgataḥ // MMK_22.1 //	taTAgataH skanDavAn na katamaH atra taTAgataH // MMK_22.1 //
+   buddhaḥ skandhān upādāya yadi nāsti svabhāvataḥ /	budDaH skanDAn upAdAya yadi na-asti svaBAvataH /
+   svabhāvataś ca yo nāsti kutaḥ sa parabhāvataḥ // MMK_22.2 //	svaBAvataH ca yaH na-asti kutas sa para-BAvataH // MMK_22.2 //
+   pratītya parabhāvaṃ yaḥ so 'nātmety upapadyate /	pratItya para-BAvam yaH saH anAtmA-iti upapadyate /
+   yaś cānātmā sa ca kathaṃ bhaviṣyati tathāgataḥ // MMK_22.3 //	yaH ca-anAtmA sa ca kaTam Bavizyati taTAgataH // MMK_22.3 //
+   yadi nāsti svabhāvaś ca parabhāvaḥ kathaṃ bhavet /	yadi na-asti svaBAvaH ca para-BAvaH kaTam Bavet /
+   svabhāvaparabhāvābhyām ṛte kaḥ sa tathāgataḥ // MMK_22.4 //	svaBAva-para-BAvAByAm Rte kaH sa taTAgataH // MMK_22.4 //
+   skandhān yady anupādāya bhavet kaścit tathāgataḥ /	skanDAn yadi anupAdAya Bavet kaScid taTAgataH /
+   sa idānīm upādadyād upādāya tato bhavet // MMK_22.5 //	saH idAnIm upAdadyAt upAdAya tatas Bavet // MMK_22.5 //
+   skandhāṃś cāpy anupādāya nāsti kaścit tathāgataḥ /	skanDAn ca-api anupAdAya na-asti kaScid taTAgataH /
+   yaś ca nāsty anupādāya sa upādāsyate katham // MMK_22.6 //	yaH ca na-asti anupAdAya saH upAdAsyate kaTam // MMK_22.6 //
+   na bhavaty anupādattam upādānaṃ ca kiṃ cana /	na Bavati anupAdattam upAdAnam ca kim cana /
+   na cāsti nirupādānaḥ kathaṃ cana tathāgataḥ // MMK_22.7 //	na ca-asti nirupAdAnaH kaTam cana taTAgataH // MMK_22.7 //
+   tattvānyatvena yo nāsti mṛgyamāṇaś ca pañcadhā /	tattva-anya-tvena yaH na-asti mRgyamANaH ca paQcaDA /
+   upādānena sa kathaṃ prajñapyate tathāgataḥ // MMK_22.8 //	upAdAnena sa kaTam prajQapyate taTAgataH // MMK_22.8 //
+   yad apīdam upādānaṃ tat svabhāvān na vidyate /	yat api-idam upAdAnam tat svaBAvAt na vidyate /
+   svabhāvataś ca yan nāsti kutas tat parabhāvataḥ // MMK_22.9 //	svaBAvataH ca yat na-asti kutas tat para-BAvataH // MMK_22.9 //
+   evaṃ śūnyam upādānam upādātā ca sarvaśaḥ /	evam SUnyam upAdAnam upAdAtA ca sarvaSas /
+   prajñapyate ca śūnyena kathaṃ śūnyas tathāgataḥ // MMK_22.10 //	prajQapyate ca SUnyena kaTam SUnyaH taTAgataH // MMK_22.10 //
+   śūnyam iti na vaktavyam aśūnyam iti vā bhavet /	SUnyam iti na vaktavyam aSUnyam iti vA Bavet /
+   ubhayaṃ nobhayaṃ ceti prajñaptyarthaṃ tu kathyate // MMK_22.11 //	uBayam na-uBayam ca-iti prajQapti-arTam tu kaTyate // MMK_22.11 //
+   śāśvatāśāśvatādy atra kutaḥ śānte catuṣṭayam /	SASvata-aSASvata-Adi atra kutas SAnte catuzwayam /
+   antānantādi cāpy atra kutaḥ śānte catuṣṭayam // MMK_22.12 //	anta-ananta-Adi ca-api atra kutas SAnte catuzwayam // MMK_22.12 //
+   ghanagrāho gṛhītas tu yenāstīti tathāgataḥ /	Gana-grAhaH gRhItaH tu yena-asti-iti taTAgataH /
+   nāstīti sa vikalpayan nirvṛtasyāpi kalpayet // MMK_22.13 //	na-asti-iti sa vikalpayan nirvRtasya-api kalpayet // MMK_22.13 //
+   svabhāvataś ca śūnye 'smiṃś cintā naivopapadyate /	svaBAvataH ca SUnye asmin cintA na-eva-upapadyate /
+   paraṃ nirodhād bhavati buddho na bhavatīti vā // MMK_22.14 //	param niroDAt Bavati budDaH na Bavati-iti vA // MMK_22.14 //
+   prapañcayanti ye buddhaṃ prapañcātītam avyayam /	prapaQcayanti ye budDam prapaQca-atItam avyayam /
+   te prapañcahatāḥ sarve na paśyanti tathāgatam // MMK_22.15 //	te prapaQca-hatAH sarve na paSyanti taTAgatam // MMK_22.15 //
+   tathāgato yatsvabhāvas tatsvabhāvam idaṃ jagat /	taTAgataH yat-svaBAvaH tad-svaBAvam idam jagat /
+   tathāgato niḥsvabhāvo niḥsvabhāvam idaṃ jagat // MMK_22.16 //	taTAgataH niHsvaBAvaH niHsvaBAvam idam jagat // MMK_22.16 //
+   saṃkalpaprabhavo rāgo dveṣo mohaś ca kathyate /	saMkalpa-praBavaH rAgaH dvezaH mohaH ca kaTyate /
+   śubhāśubhaviparyāsān saṃbhavanti pratītya hi // MMK_23.1 //	SuBa-aSuBa-viparyAsAn saMBavanti pratItya hi // MMK_23.1 //
+   śubhāśubhaviparyāsān saṃbhavanti pratītya ye /	SuBa-aSuBa-viparyAsAn saMBavanti pratItya ye /
+   te svabhāvān na vidyante tasmāt kleśā na tattvataḥ // MMK_23.2 //	te svaBAvAn na vidyante tasmAt kleSAH na tattvataH // MMK_23.2 //
+   ātmano 'stitvanāstitve na kathaṃ cic ca sidhyataḥ /	AtmanaH astitvana-astitve na kaTam cit ca siDyataH /
+   taṃ vināstitvanāstitve kleśānāṃ sidhyataḥ katham // MMK_23.3 //	tam vinA-asti-tvana-astitve kleSAnAm siDyataH kaTam // MMK_23.3 //
+   kasya cid dhi bhavantīme kleśāḥ sa ca na sidhyati /	kasya cit Di Bavanti-ime kleSAH sa ca na siDyati /
+   kaścid āho vinā kaṃcit santi kleśā na kasyacit // MMK_23.4 //	kaScid Aho vinA kaMcid santi kleSAH na kasyacid // MMK_23.4 //
+   svakāyadṛṣṭivat kleśāḥ kliṣṭe santi na pañcadhā /	sva-kAya-dRzwi-vat kleSAH klizwe santi na paQcaDA /
+   svakāyadṛṣṭivat kliṣṭaṃ kleśeṣv api na pañcadhā // MMK_23.5 //	sva-kAya-dRzwi-vat klizwam kleSezu api na paQcaDA // MMK_23.5 //
+   svabhāvato na vidyante śubhāśubhaviparyayāḥ /	svaBAvataH na vidyante SuBa-aSuBa-viparyayAH /
+   pratītya katamān kleśāḥ śubhāśubhaviparyayān // MMK_23.6 //	pratItya katamAn kleSAH SuBa-aSuBa-viparyayAn // MMK_23.6 //
+   rūpaśabdarasasparśā gandhā dharmāś ca ṣaḍvidham /	rUpa-Sabda-rasa-sparSAH ganDAH DarmAH ca zaxviDam /
+   vastu rāgasya doṣasya mohasya ca vikalpyate // MMK_23.7 //	vastu rAgasya dozasya mohasya ca vikalpyate // MMK_23.7 //
+   rūpaśabdarasasparśā gandhā dharmāś ca kevalāḥ /	rUpa-Sabda-rasa-sparSAH ganDAH DarmAH ca kevalAH /
+   gandharvanagarākārā marīcisvapnasaṃnibhāḥ // MMK_23.8 //	ganDarvanagara-AkArAH marIci-svapna-saMniBAH // MnK_23.8 //
+   aśubhaṃ vā śubhaṃ vāpi kutas teṣu bhaviṣyati /	aSuBam vA SuBam vA-api kutas tezu Bavizyati /
+   māyāpuruṣakalpeṣu pratibimbasameṣu ca // MMK_23.9 //	mAyA-puruza-kalpezu pratibimba-samezu ca // MMK_23.9 //
+   anapekṣya śubhaṃ nāsty aśubhaṃ prajñapayemahi /	anapekzya SuBam na-asti aSuBam prajQapayemahi /
+   yat pratītya śubhaṃ tasmāc chubhaṃ naivopapadyate // MMK_23.10 //	yat pratItya SuBam tasmAt SuBam na-eva-upapadyate // MMK_23.10 //
+   anapekṣyāśubhaṃ nāsti śubhaṃ prajñapayemahi /	anapekzya-aSuBam na-asti SuBam prajQapayemahi /
+   yat pratītyāśubhaṃ tasmād aśubhaṃ naiva vidyate // MMK_23.11 //	yat pratItya-aSuBam tasmAt aSuBam na-eva vidyate // MnK_23.11 //
+   avidyamāne ca śubhe kuto rāgo bhaviṣyati /	avidyamAne ca SuBe kutas rAgaH Bavizyati /
+   aśubhe 'vidyamāne ca kuto dveṣo bhaviṣyati // MMK_23.12 //	aSuBe avidyamAne ca kutas dvezaH Bavizyati // MMK_23.12 //
+   anitye nityam ity evaṃ yadi grāho viparyayaḥ /	anitye nityam iti evam yadi grAhaH viparyayaH /
+   nānityaṃ vidyate śūnye kuto grāho viparyayaḥ // MMK_23.13 //	na-anityam vidyate SUnye kutas grAhaH viparyayaH // MMK_23.13 //
+   anitye nityam ity evaṃ yadi grāho viparyayaḥ /	anitye nityam iti evam yadi grAhaH viparyayaH /
+   anityam ity api grāhaḥ śūnye kiṃ na viparyayaḥ // MMK_23.14 //	anityam iti api grAhaH SUnye kim na viparyayaH // MMK_23.14 //
+   yena gṛhṇāti yo grāho grahītā yac ca gṛhyate /	yena gRhNAti yaH grAhaH grahItA yat ca gRhyate /
+   upaśāntāni sarvāṇi tasmād grāho na vidyate // MMK_23.15 //	upaSAntAni sarvANi tasmAt grAhaH na vidyate // MnK_23.15 //
+   avidyamāne grāhe ca mithyā vā samyag eva vā /	avidyamAne grAhe ca miTyA vA samyak eva vA /
+   bhaved viparyayaḥ kasya bhavet kasyāviparyayaḥ // MMK_23.16 //	Bavet viparyayaH kasya Bavet kasya-aviparyayaH // MMK_23.16 //
+   na cāpi viparītasya saṃbhavanti viparyayāḥ /	na ca-api viparItasya saMBavanti viparyayAH /
+   na cāpy aviparītasya saṃbhavanti viparyayāḥ // MMK_23.17 //	na ca-api aviparItasya saMBavanti viparyayAH // MnK_23.17 //
+   na viparyasyamānasya saṃbhavanti viparyayāḥ /	na viparyasyamAnasya saMBavanti viparyayAH /
+   vimṛśasva svayaṃ kasya saṃbhavanti viparyayāḥ // MMK_23.18 //	vimRSasva svayam kasya saMBavanti viparyayAH // MnK_23.18 //
+   anutpannāḥ kathaṃ nāma bhaviṣyanti viparyayāḥ /	anutpannAH kaTam nAma Bavizyanti viparyayAH /
+   viparyayeṣv ajāteṣu viparyayagataḥ kutaḥ // MMK_23.19 //	viparyayezu ajAtezu viparyaya-gataH kutas // MMK_23.19 //
+   na svato jāyate bhāvaḥ parato naiva jāyate /	na svatas jAyate BAvaH paratas na-eva jAyate /
+   na svataḥ parataś ceti viparyayagataḥ kutaḥ // MMK_23.20 //	na svatas paratas ca-iti viparyaya-gataH kutas // MMK_23.20 //
+   ātmā ca śuci nityaṃ ca sukhaṃ ca yadi vidyate /	AtmA ca Suci nityam ca suKam ca yadi vidyate /
+   ātmā ca śuci nityaṃ ca sukhaṃ ca na viparyayaḥ // MMK_23.21 //	AtmA ca Suci nityam ca suKam ca na viparyayaH // MMK_23.21 //
+   nātmā ca śuci nityaṃ ca sukhaṃ ca yadi vidyate /	na-AtmA ca Suci nityam ca suKam ca yadi vidyate /
+   anātmā 'śucy anityaṃ ca naiva duḥkhaṃ ca vidyate // MMK_23.22 //	anAtmA aSuci anityam ca na-eva duHKam ca vidyate // MMK_23.22 //
+   evaṃ nirudhyate 'vidyā viparyayanirodhanāt /	evam niruDyate avidyA viparyaya-niroDanAt /
+   avidyāyāṃ niruddhāyāṃ saṃskārādyaṃ nirudhyate // MMK_23.23 //	avidyAyAm nirudDAyAm saMskAra-Adyam niruDyate // MMK_23.23 //
+   yadi bhūtāḥ svabhāvena kleśāḥ kecid dhi kasyacit /	yadi BUtAH svaBAvena kleSAH kecid Di kasyacid /
+   kathaṃ nāma prahīyeran kaḥ svabhāvaṃ prahāsyati // MMK_23.24 //	kaTam nAma prahIyeran kaH svaBAvam prahAsyati // MMK_23.24 //
+   yady abhūtāḥ svabhāvena kleśāḥ kecid dhi kasyacit /	yadi aBUtAH svaBAvena kleSAH kecid Di kasyacid /
+   kathaṃ nāma prahīyeran ko 'sadbhāvaṃ prahāsyati // MMK_23.25 //	kaTam nAma prahIyeran kaH asadBAvam prahAsyati // MMK_23.25 //
+   yadi śūnyam idaṃ sarvam udayo nāsti na vyayaḥ /	yadi SUnyam idam sarvam udayaH na-asti na vyayaH /
+   caturṇām āryasatyānām abhāvas te prasajyate // MMK_24.1 //	caturNAm Arya-satyAnAm aBAvaH te prasajyate // MMK_24.1 //
+   parijñā ca prahāṇaṃ ca bhāvanā sākṣikarma ca /	parijQA ca prahANam ca BAvanA sAkzi-karma ca /
+   caturṇām āryasatyānām abhāvān nopapadyate // MMK_24.2 //	caturNAm Arya-satyAnAm aBAvAt na-upapadyate // MMK_24.2 //
+   tadabhāvān na vidyante catvāry āryaphalāni ca /	tad-aBAvAt na vidyante catvAri Arya-PalAni ca /
+   phalābhāve phalasthā no na santi pratipannakāḥ // MMK_24.3 //	Pala-aBAve Pala-sTAH naH na santi pratipannakAH // MnK_24.3 //
+   saṃgho nāsti na cet santi te 'ṣṭau puruṣapudgalāḥ /	saMGaH na-asti na ced santi te azwO puruza-pudgalAH /
+   abhāvāc cāryasatyānāṃ saddharmo 'pi na vidyate // MMK_24.4 //	aBAvAt cArya-satyAnAm sadDarmaH api na vidyate // MMK_24.4 //
+   dharme cāsati saṃghe ca kathaṃ buddho bhaviṣyati /	Darme ca-asati saMGe ca kaTam budDaH Bavizyati /
+   evaṃ trīṇy api ratnāni bruvāṇaḥ pratibādhase // MMK_24.5 //	evam trINi api ratnAni bruvANaH pratibADase // MMK_24.5 //
+   śūnyatāṃ phalasadbhāvam adharmaṃ dharmam eva ca /	SUnyatAm Pala-sadBAvam aDarmam Darmam eva ca /
+   sarvasaṃvyavahārāṃś ca laukikān pratibādhase // MMK_24.6 //	sarva-saMvyavahArAn ca lOkikAn pratibADase // MMK_24.6 //
+   atra brūmaḥ śūnyatāyāṃ na tvaṃ vetsi prayojanam /	atra brUmaH SUnyatAyAm na tvam vetsi prayojanam /
+   śūnyatāṃ śūnyatārthaṃ ca tata evaṃ vihanyase // MMK_24.7 //	SUnyatAm SUnyatA-arTam ca tatas evam vihanyase // MMK_24.7 //
+   dve satye samupāśritya buddhānāṃ dharmadeśanā /	dve satye samupASritya budDAnAm Darma-deSanA /
+   lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ // MMK_24.8 //	loka-saMvRti-satyam ca satyam ca paramArTataH // MMK_24.8 //
+   ye 'nayor na vijānanti vibhāgaṃ satyayor dvayoḥ /	ye anayoH na vijAnanti viBAgam satyayoH dvayoH /
+   te tattvaṃ na vijānanti gambhīraṃ buddhaśāsane // MMK_24.9 //	te tattvam na vijAnanti gamBIram budDa-SAsane // MMK_24.9 //
+   vyavahāram anāśritya paramārtho na deśyate /	vyavahAram anASritya parama-arTaH na deSyate /
+   paramārtham anāgamya nirvāṇaṃ nādhigamyate // MMK_24.10 //	parama-arTam anAgamya nirvANam na-aDigamyate // MnK_24.10 //
+   vināśayati durdṛṣtā śūnyatā mandamedhasam /	vinASayati durdRztA SUnyatA manda-meDasam /
+   sarpo yathā durgṛhīto vidyā vā duṣprasādhitā // MMK_24.11 //	sarpaH yaTA durgRhItaH vidyA vA duzprasADitAH // MnK_24.11 //
+   ataś ca pratyudāvṛttaṃ cittaṃ deśayituṃ muneḥ /	atas ca pratyudAvRttam cittam deSayitum muneH /
+   dharmaṃ matvāsya dharmasya mandair duravagāhatām // MMK_24.12 //	Darmam matvA-asya Darmasya mandEH duravaga-ahatAm // MMK_24.12 //
+   śūnyatāyām adhilayaṃ yaṃ punaḥ kurute bhavān /	SUnyatAyAm aDilayam yam punar kurute BavAn /
+   doṣaprasaṅgo nāsmākaṃ sa śūnye nopapadyate // MMK_24.13 //	doza-prasaFgaH na-asmAkam sa SUnye na-upapadyate // MMK_24.13 //
+   sarvaṃ ca yujyate tasya śūnyatā yasya yujyate /	sarvam ca yujyate tasya SUnyatA yasya yujyate /
+   sarvaṃ na yujyate tasya śūnyaṃ yasya na yujyate // MMK_24.14 //	sarvam na yujyate tasya SUnyam yasya na yujyate // MMK_24.14 //
+   sa tvaṃ doṣān ātmanīyān asmāsu paripātayan /	sa tvam dozAn AtmanIyAn asmAsu paripAtayan /
+   aśvam evābhirūḍhaḥ sann aśvam evāsi vismṛtaḥ // MMK_24.15 //	aSvam eva-aBirUXaH san aSvam eva-asi vismRtaH // MMK_24.15 //
+   svabhāvād yadi bhāvānāṃ sadbhāvam anupaśyasi /	svaBAvAt yadi BAvAnAm sadBAvam anupaSyasi /
+   ahetupratyayān bhāvāṃs tvam evaṃ sati paśyasi // MMK_24.16 //	ahetu-pratyayAn BAvAn tvam evam sati paSyasi // MMK_24.16 //
+   kāryaṃ ca kāraṇaṃ caiva kartāraṃ karaṇaṃ kriyām /	kAryam ca kAraNam ca-eva kartAram karaNam kriyAm /
+   utpādaṃ ca nirodhaṃ ca phalaṃ ca pratibādhase // MMK_24.17 //	utpAdam ca niroDam ca Palam ca pratibADase // MMK_24.17 //
+   yaḥ pratītyasamutpādaḥ śūnyatāṃ tāṃ pracakṣmahe /	yaH pratItyasamutpAdaH SUnyatAm tAm pracakzmahe /
+   sā prajñaptir upādāya pratipat saiva madhyamā // MMK_24.18 //	sA prajQaptiH upAdAya pratipad sA-eva maDyamA // MMK_24.18 //
+   apratītya samutpanno dharmaḥ kaścin na vidyate /	apratItya samutpannaH DarmaH kaScid na vidyate /
+   yasmāt tasmād aśūnyo hi dharmaḥ kaścin na vidyate // MMK_24.19 //	yasmAt tasmAt aSUnyaH hi DarmaH kaScid na vidyate // MnK_24.19 //
+   yady aśūnyam idaṃ sarvam udayo nāsti na vyayaḥ /	yadi aSUnyam idam sarvam udayaH na-asti na vyayaH /
+   caturṇām āryasatyānām abhāvas te prasajyate // MMK_24.20 //	caturNAm Arya-satyAnAm aBAvaH te prasajyate // MMK_24.20 //
+   apratītya samutpannaṃ kuto duḥkhaṃ bhaviṣyati /	apratItya samutpannam kutas duHKam Bavizyati /
+   anityam uktaṃ duḥkhaṃ hi tat svābhāvye na vidyate // MMK_24.21 //	anityam uktam duHKam hi tat svABAvye na vidyate // MnK_24.21 //
+   svabhāvato vidyamānaṃ kiṃ punaḥ samudeṣyate /	svaBAvataH vidyamAnam kim punar samudezyate /
+   tasmāt samudayo nāsti śūnyatāṃ pratibādhataḥ // MMK_24.22 //	tasmAt samudayaH na-asti SUnyatAm pratibADataH // MnK_24.22 //
+   na nirodhaḥ svabhāvena sato duḥkhasya vidyate /	na niroDaH svaBAvena sataH duHKasya vidyate /
+   svabhāvaparyavasthānān nirodhaṃ pratibādhase // MMK_24.23 //	svaBAva-paryavasTAnAt niroDam pratibADase // MMK_24.23 //
+   svābhāvye sati mārgasya bhāvanā nopapadyate /	svABAvye sati mArgasya BAvanA na-upapadyate /
+   athāsau bhāvyate mārgaḥ svābhāvyaṃ te na vidyate // MMK_24.24 //	aTa-asO BAvyate mArgaH svABAvyam te na vidyate // MnK_24.24 //
+   yadā duḥkhaṃ samudayo nirodhaś ca na vidyate /	yadA duHKam samudayaH niroDaH ca na vidyate /
+   mārgo duḥkhanirodhatvāt katamaḥ prāpayiṣyati // MMK_24.25 //	mArgaH duHKa-niroDa-tvAt katamaH prApayizyati // MMK_24.25 //
+   svabhāvenāparijñānaṃ yadi tasya punaḥ katham /	svaBAvena-aparijQAnam yadi tasya punar kaTam /
+   parijñānaṃ nanu kila svabhāvaḥ samavasthitaḥ // MMK_24.26 //	parijQAnam nanu kila svaBAvaH samavasTitaH // MMK_24.26 //
+   prahāṇasākṣātkaraṇe bhāvanā caivam eva te /	prahANa-sAkzAt-karaNe BAvanA ca-evam eva te /
+   parijñāvan na yujyante catvāry api phalāni ca // MMK_24.27 //	parijQAvan na yujyante catvAri api PalAni ca // MMK_24.27 //
+   svabhāvenānadhigataṃ yat phalaṃ tat punaḥ katham /	svaBAvena-anaDigatam yat Palam tat punar kaTam /
+   śakyaṃ samadhigantuṃ syāt svabhāvaṃ parigṛhṇataḥ // MMK_24.28 //	Sakyam samaDigantum syAt svaBAvam parigRhNataH // MnK_24.28 //
+   phalābhāve phalasthā no na santi pratipannakāḥ /	Pala-aBAve Pala-sTAH naH na santi pratipannakAH /
+   saṃgho nāsti na cet santi te 'ṣṭau puruṣapudgalāḥ // MMK_24.29 //	saMGaH na-asti na ced santi te azwO puruza-pudgalAH // MnK_24.29 //
+   abhāvāc cāryasatyānāṃ saddharmo 'pi na vidyate /	aBAvAt cArya-satyAnAm sadDarmaH api na vidyate /
+   dharme cāsati saṃghe ca kathaṃ buddho bhaviṣyati // MMK_24.30 //	Darme ca-asati saMGe ca kaTam budDaH Bavizyati // MMK_24.30 //
+   apratītyāpi bodhiṃ ca tava buddhaḥ prasajyate /	apratItya-api boDim ca tava budDaH prasajyate /
+   apratītyāpi buddhaṃ ca tava bodhiḥ prasajyate // MMK_24.31 //	apratItya-api budDam ca tava boDiH prasajyate // MMK_24.31 //
+   yaś cābuddhaḥ svabhāvena sa bodhāya ghaṭann api /	yaH ca-abudDaH svaBAvena sa boDAya Gawan api /
+   na bodhisattvacaryāyāṃ bodhiṃ te 'dhigamiṣyati // MMK_24.32 //	na boDisattva-caryAyAm boDim te aDigamizyati // MMK_24.32 //
+   na ca dharmam adharmaṃ vā kaścij jātu kariṣyati /	na ca Darmam aDarmam vA kaScid jAtu karizyati /
+   kim aṣūnyasya kartavyaṃ svabhāvaḥ kriyate na hi // MMK_24.33 //	kim azUni-asya kartavyam svaBAvaH kriyate na hi // MMK_24.33 //
+   vinā dharmam adharmaṃ ca phalaṃ hi tava vidyate /	vinA Darmam aDarmam ca Palam hi tava vidyate /
+   dharmādharmanimittaṃ ca phalaṃ tava na vidyate // MMK_24.34 //	Darma-aDarma-nimittam ca Palam tava na vidyate // MnK_24.34 //
+   dharmādharmanimittaṃ vā yadi te vidyate phalam /	Darma-aDarma-nimittam vA yadi te vidyate Palam /
+   dharmādharmasamutpannam aśūnyaṃ te kathaṃ phalam // MMK_24.35 //	Darma-aDarma-samutpannam aSUnyam te kaTam Palam // MnK_24.35 //
+   sarvasaṃvyvahārāṃś ca laukikān pratibādhase /	sarva-saMvyvahArAn ca lOkikAn pratibADase /
+   yat pratītyasamutpādaśūnyatāṃ pratibādhase // MMK_24.36 //	yat pratItyasamutpAda-SUnyatAm pratibADase // MMK_24.36 //
+   na kartavyaṃ bhavet kiṃcid anārabdhā bhavet kriyā /	na kartavyam Bavet kiMcid anArabDA Bavet kriyA /
+   kārakaḥ syād akurvāṇaḥ śūnyatāṃ pratibādhataḥ // MMK_24.37 //	kArakaH syAt akurvANaH SUnyatAm pratibADataH // MnK_24.37 //
+   ajātam aniruddhaṃ ca kūṭaśthaṃ ca bhaviṣyati /	ajAtam anirudDam ca kUwaSTam ca Bavizyati /
+   vicitrābhir avasthābhiḥ svabhāve rahitaṃ jagat // MMK_24.38 //	vicitrABiH avasTABiH svaBAve rahitam jagat // MMK_24.38 //
+   asaṃprāptasya ca prāptir duḥkhaparyantakarma ca /	asaMprAptasya ca prAptiH duHKa-paryanta-karma ca /
+   sarvakleśaprahāṇaṃ ca yady aśūnyaṃ na vidyate // MMK_24.39 //	sarva-kleSa-prahANam ca yadi aSUnyam na vidyate // MnK_24.39 //
+   yaḥ pratītyasamutpādaṃ paśyatīdaṃ sa paśyati /	yaH pratItyasamutpAdam paSyati-idam sa paSyati /
+   duḥkhaṃ samudayaṃ caiva nirodhaṃ mārgam eva ca // MMK_24.40 //	duHKam samudayam ca-eva niroDam mArgam eva ca // MMK_24.40 //
+   yadi śūnyam idaṃ sarvam udayo nāsti na vyayaḥ /	yadi SUnyam idam sarvam udayaH na-asti na vyayaH /
+   prahāṇād vā nirodhād vā kasya nirvāṇam iṣyate // MMK_25.1 //	prahANAt vA niroDAt vA kasya nirvANam izyate // MnK_25.1 //
+   yady aśūnyam idaṃ sarvam udayo nāsti na vyayaḥ /	yadi aSUnyam idam sarvam udayaH na-asti na vyayaH /
+   prahāṇād vā nirodhād vā kasya nirvāṇam iṣyate // MMK_25.2 //	prahANAt vA niroDAt vA kasya nirvANam izyate // MnK_25.2 //
+   aprahīṇam asaṃprāptam anucchinnam aśāśvatam /	aprahINam asaMprAptam anucCinnam aSASvatam /
+   aniruddham anutpannam etan nirvāṇam ucyate // MMK_25.3 //	anirudDam anutpannam etat nirvANam ucyate // MMK_25.3 //
+   bhāvas tāvan na nirvāṇaṃ jarāmaraṇalakṣaṇam /	BAvaH tAvat na nirvANam jarA-maraNa-lakzaNam /
+   prasajyetāsti bhāvo hi na jarāmaraṇaṃ vinā // MMK_25.4 //	prasajyeta-asti BAvaH hi na jarA-maraNam vinA // MMK_25.4 //
+   bhāvaś ca yadi nirvāṇaṃ nirvāṇaṃ saṃskṛtaṃ bhavet /	BAvaH ca yadi nirvANam nirvANam saMskRtam Bavet /
+   nāsaṃskṛto hi vidyate bhāvaḥ kva cana kaś cana // MMK_25.5 //	na-asaMskRtaH hi vidyate BAvaH kva cana kaH cana // MMK_25.5 //
+   bhāvaś ca yadi nirvāṇam anupādāya tat katham /	BAvaH ca yadi nirvANam anupAdAya tat kaTam /
+   nirvāṇaṃ nānupādāya kaścid bhāvo hi vidyate // MMK_25.6 //	nirvANam na-anupAdAya kaScid BAvaH hi vidyate // MMK_25.6 //
+   bhāvo yadi na nirvāṇam abhāvaḥ kiṃ bhaviṣyati /	BAvaH yadi na nirvANam aBAvaH kim Bavizyati /
+   nirvāṇaṃ yatra bhāvo na nābhāvas tatra vidyate // MMK_25.7 //	nirvANam yatra BAvaH na na-aBAvaH tatra vidyate // MMK_25.7 //
+   yady abhāvaś ca nirvāṇam anupādāya tat katham /	yadi aBAvaH ca nirvANam anupAdAya tat kaTam /
+   nirvāṇaṃ na hy abhāvo 'sti yo 'nupādāya vidyate // MMK_25.8 //	nirvANam na hi aBAvaH asti yaH anupAdAya vidyate // MMK_25.8 //
+   ya ājavaṃjavībhāva upādāya pratītya vā /	yaH AjavaMjavIBAvaH upAdAya pratItya vA /
+   so 'pratītyānupādāya nirvāṇam upadiśyate // MMK_25.9 //	saH apratItya-anupAdAya nirvANam upadiSyate // MMK_25.9 //
+   prahāṇaṃ cābravīc chāstā bhavasya vibhavasya ca /	prahANam ca-abravIt SAstA Bavasya viBavasya ca /
+   tasmān na bhāvo nābhāvo nirvāṇam iti yujyate // MMK_25.10 //	tasmAt na BAvaH na-aBAvaH nirvANam iti yujyate // MMK_25.10 //
+   bhaved abhāvo bhāvaś ca nirvāṇam ubhayaṃ yadi /	Bavet aBAvaH BAvaH ca nirvANam uBayam yadi /
+   bhaved abhāvo bhāvaś ca mokṣas tac ca na yujyate // MMK_25.11 //	Bavet aBAvaH BAvaH ca mokzaH tat ca na yujyate // MMK_25.11 //
+   bhaved abhāvo bhāvaś ca nirvāṇam ubhayaṃ yadi /	Bavet aBAvaH BAvaH ca nirvANam uBayam yadi /
+   nānupādāya nirvāṇam upādāyobhayaṃ hi tat // MMK_25.12 //	na-anupAdAya nirvANam upAdAya-uBayam hi tat // MMK_25.12 //
+   bhaved abhāvo bhāvaś ca nirvāṇam ubhayaṃ katham /	Bavet aBAvaH BAvaH ca nirvANam uBayam kaTam /
+   asaṃskṛtaṃ hi nirvāṇaṃ bhāvābhāvau ca saṃskṛtau // MMK_25.13 //	asaMskRtam hi nirvANam BAva-aBAvO ca saMskRtO // MMK_25.13 //
+   bhaved abhāvo bhāvaś ca nirvāṇa ubhayaṃ katham /	Bavet aBAvaH BAvaH ca nirvANaH uBayam kaTam /
+   tayor abhāvo hy ekatra prakāśatamasor iva // MMK_25.14 //	tayoH aBAvaH hi ekatra prakASa-tamasoH iva // MMK_25.14 //
+   naivābhāvo naiva bhāvo nirvāṇam iti yā 'ñjanā /	na-eva-aBAvaH na-eva BAvaH nirvANam iti yA aQjanAH /
+   abhāve caiva bhāve ca sā siddhe sati sidhyati // MMK_25.15 //	aBAve ca-eva BAve ca sA sidDe sati siDyati // MMK_25.15 //
+   naivābhāvo naiva bhāvo nirvāṇaṃ yadi vidyate /	na-eva-aBAvaH na-eva BAvaH nirvANam yadi vidyate /
+   naivābhāvo naiva bhāva iti kena tad ajyate // MMK_25.16 //	na-eva-aBAvaH na-eva BAvaH iti kena tat ajyate // MnK_25.16 //
+   paraṃ nirodhād bhagavān bhavatīty eva nājyate /	param niroDAt BagavAn Bavati-iti eva na-ajyate /
+   na bhavaty ubhayaṃ ceti nobhayaṃ ceti nājyate // MMK_25.17 //	na Bavati uBayam ca-iti na-uBayam ca-iti na-ajyate // MnK_25.17 //
+   tiṣṭhamāno 'pi bhagavān bhavatīty eva nājyate /	tizWamAnaH api BagavAn Bavati-iti eva na-ajyate /
+   na bhavaty ubhayaṃ ceti nobhayaṃ ceti nājyate // MMK_25.18 //	na Bavati uBayam ca-iti na-uBayam ca-iti na-ajyate // MnK_25.18 //
+   na saṃsārasya nirvāṇāt kiṃcid asti viśeṣaṇam /	na saMsArasya nirvANAt kiMcid asti viSezaNam /
+   na nirvāṇasya saṃsārāt kiṃcid asti viśeṣaṇam // MMK_25.19 //	na nirvANasya saMsArAt kiMcid asti viSezaNam // MMK_25.19 //
+   nirvāṇasya ca yā koṭiḥ koṭiḥ saṃsaraṇasya ca /	nirvANasya ca yA kowiH kowiH saMsaraNasya ca /
+   na tayor antaraṃ kiṃcit susūkṣmam api vidyate // MMK_25.20 //	na tayoH antaram kiMcid su-sUkzmam api vidyate // MMK_25.20 //
+   paraṃ nirodhād antādyāḥ śāśvatādyāś ca dṛṣṭayaḥ /	param niroDAt anta-AdyAH SASvata-AdyAH ca dRzwayaH /
+   nirvāṇam aparāntaṃ ca pūrvāntaṃ ca samāśritāḥ // MMK_25.21 //	nirvANam apara-antam ca pUrva-antam ca samASritAH // MnK_25.21 //
+   śūnyeṣu sarvadharmeṣu kim anantaṃ kim antavat /	SUnyezu sarva-Darmezu kim anantam kim anta-vat /
+   kim anantam antavac ca nānantaṃ nāntavac ca kim // MMK_25.22 //	kim anantam antavat ca na-anantam na-anta-vat ca kim // MMK_25.22 //
+   kiṃ tad eva kim anyat kiṃ śāśvataṃ kim aśāśvatam /	kim tat eva kim anyat kim SASvatam kim aSASvatam /
+   aśāśvataṃ śāśvataṃ ca kiṃ vā nobhayam apy atha // MMK_25.23 //	aSASvatam SASvatam ca kim vA na-uBayam api aTa // MMK_25.23 //
+   sarvopalambhopaśamaḥ prapañcopaśamaḥ śivaḥ /	sarva-upalamBa-upaSamaH prapaQca-upaSamaH SivaH /
+   na kva cit kasyacit kaścid dharmo buddhena deśitaḥ // MMK_25.24 //	na kva cit kasyacid kaScid DarmaH budDena deSitaH // MMK_25.24 //
+   punarbhavāya saṃskārān avidyānivṛtas tridhā /	punarBavAya saMskArAn avidyA-nivRtaH triDA /
+   abhisaṃskurute yāṃs tair gatiṃ gacchati karmabhiḥ // MMK_26.1 //	aBisaMskurute yAn tEH gatim gacCati karmaBiH // MMK_26.1 //
+   vijñānaṃ saṃniviśate saṃskārapratyayaṃ gatau /	vijQAnam saMniviSate saMskAra-pratyayam gatO /
+   saṃniviṣṭe 'tha vijñāne nāmarūpaṃ niṣicyate // MMK_26.2 //	saMnivizwe aTa vijQAne nAma-rUpam nizicyate // MMK_26.2 //
+   niṣikte nāmarūpe tu ṣaḍāyatanasaṃbhavaḥ /	nizikte nAma-rUpe tu zaz-Ayatana-saMBavaH /
+   ṣaḍāyatanam āgamya saṃsparśaḥ saṃpravartate // MMK_26.3 //	zaz-Ayatanam Agamya saMsparSaH saMpravartate // MMK_26.3 //
+   cakṣuḥ pratītya rūpaṃ ca samanvāhāram eva ca /	cakzuH pratItya rUpam ca samanvAhAram eva ca /
+   nāmarūpaṃ pratītyaivaṃ vijñānaṃ saṃpravartate // MMK_26.4 //	nAma-rUpam pratItya-evam vijQAnam saMpravartate // MMK_26.4 //
+   saṃnipātas trayāṇāṃ yo rūpavijñānacakṣuṣām /	saMnipAtaH trayANAm yaH rUpa-vijQAna-cakzuzAm /
+   sparśaḥ sa tasmāt sparśāc ca vedanā saṃpravartate // MMK_26.5 //	sparSaH sa tasmAt sparSAt ca vedanA saMpravartate // MMK_26.5 //
+   vedanāpratyayā tṛṣṇā vedanārthaṃ hi tṛṣyate /	vedanA-pratyayA tRzNA vedanA-arTam hi tRzyate /
+   tṛṣyamāṇa upādānam upādatte caturvidham // MMK_26.6 //	tRzyamANaH upAdAnam upAdatte caturviDam // MnK_26.6 //
+   upādāne sati bhava upādātuḥ pravartate /	upAdAne sati BavaH upAdAtuH pravartate /
+   syād dhi yady anupādāno mucyeta na bhaved bhavaḥ // MMK_26.7 //	syAt Di yadi anupAdAnaH mucyeta na Bavet BavaH // MnK_26.7 //
+   pañca skandhāḥ sa ca bhavo bhavāj jātiḥ pravartate /	paQca skanDAH sa ca BavaH BavAt jAtiH pravartate /
+   jarāmaraṇaduḥkhādi śokāḥ saparidevanāḥ // MMK_26.8 //	jarA-maraNa-duHKa-Adi SokAH sa-paridevanAH // MMK_26.8 //
+   daurmanasyam upāyāsā jāter etat pravartate /	dOrmanasyam upAyAsAH jAteH etat pravartate /
+   kevalasyaivam etasya duḥkhaskandhasya saṃbhavaḥ // MMK_26.9 //	kevalasya-evam etasya duHKa-skanDasya saMBavaH // MnK_26.9 //
+   saṃsāramūlaṃ saṃskārān avidvān saṃskaroty ataḥ /	saMsAra-mUlam saMskArAn avidvAn saMskaroti atas /
+   avidvān kārakas tasmān na vidvāṃs tattvadarśanāt // MMK_26.10 //	avidvAn kArakaH tasmAt na vidvAn tattva-darSanAt // MMK_26.10 //
+   avidyāyāṃ niruddhāyāṃ saṃskārāṇām asaṃbhavaḥ /	avidyAyAm nirudDAyAm saMskArANAm asaMBavaH /
+   avidyāyā nirodhas tu jñānasyāsyaiva bhāvanāt // MMK_26.11 //	avidyAyAH niroDaH tu jQAnasya-asya-eva BAvanAt // MMK_26.11 //
+   tasya tasya nirodhena tat tan nābhipravartate /	tasya tasya niroDena tat tat na-aBipravartate /
+   duḥkhaskandhaḥ kevalo 'yam evaṃ samyag nirudhyate // MMK_26.12 //	duHKa-skanDaH kevalaH ayam evam samyak niruDyate // MMK_26.12 //
+   abhūm atītam adhvānaṃ nābhūvam iti dṛṣṭayaḥ /	aBUm atItam aDvAnam na-aBUvam iti dRzwayaH /
+   yās tāḥ śāśvatalokādyāḥ pūrvāntaṃ samupāśritāḥ // MMK_27.1 //	yAH tAH SASvata-loka-AdyAH pUrva-antam samupASritAH // MnK_27.1 //
+   dṛṣṭayo na bhaviṣyāmi kim anyo 'nāgate 'dhvani /	dRzwayaH na BavizyAmi kim anyaH anAgate aDvani /
+   bhaviṣyāmīti cāntādyā aparāntaṃ samāśritāḥ // MMK_27.2 //	BavizyAmi-iti ca-antAdyAH apara-antam samASritAH // MnK_27.2 //
+   abhūm atītam adhvānam ity etan nopapadyate /	aBUm atItam aDvAnam iti etat na-upapadyate /
+   yo hi janmasu pūrveṣu sa eva na bhavaty ayam // MMK_27.3 //	yaH hi janmasu pUrvezu saH eva na Bavati ayam // MMK_27.3 //
+   sa evātmeti tu bhaved upādānaṃ viśiṣyate /	saH eva-AtmA-iti tu Bavet upAdAnam viSizyate /
+   upādānavinirmukta ātmā te katamaḥ punaḥ // MMK_27.4 //	upAdAna-vinirmuktaH AtmA te katamaH punar // MMK_27.4 //
+   upādānavinirmukto nāsty ātmeti kṛte sati /	upAdAna-vinirmuktaH na-asti AtmA-iti kRte sati /
+   syād upādānam evātmā nāsti cātmeti vaḥ punaḥ // MMK_27.5 //	syAt upAdAnam eva-AtmA na-asti ca-AtmA-iti vaH punar // MMK_27.5 //
+   na copādānam evātmā vyeti tat samudeti ca /	na ca-upAdAnam eva-AtmA vyeti tat samudeti ca /
+   kathaṃ hi nāmopādānam upādātā bhaviṣyati // MMK_27.6 //	kaTam hi nAma-upAdAnam upAdAtA Bavizyati // MMK_27.6 //
+   anyaḥ punar upādānād ātmā naivopapadyate /	anyaH punar upAdAnAt AtmA na-eva-upapadyate /
+   gṛhyeta hy anupādāno yady anyo na ca gṛhyate // MMK_27.7 //	gRhyeta hi anupAdAnaH yadi anyaH na ca gRhyate // MMK_27.7 //
+   evaṃ nānya upādānān na copādānam eva saḥ /	evam na-anyaH upAdAnAt na ca-upAdAnam eva saH /
+   ātmā nāsty anupādāno nāpi nāsty eṣa niścayaḥ // MMK_27.8 //	AtmA na-asti anupAdAnaH na-api na-asti eza niScayaH // MnK_27.8 //
+   nābhūm atītam adhvānam ity etan nopapadyate /	nABUm atItam aDvAnam iti etat na-upapadyate /
+   yo hi janmasu pūrveṣu tato 'nyo na bhavaty ayam // MMK_27.9 //	yaH hi janmasu pUrvezu tatas anyaH na Bavati ayam // MMK_27.9 //
+   yadi hy ayaṃ bhaved anyaḥ pratyākhyāyāpi taṃ bhavet /	yadi hi ayam Bavet anyaH pratyAKyAya-api tam Bavet /
+   tathaiva ca sa saṃtiṣṭhet tatra jāyeta cāmṛtaḥ // MMK_27.10 //	taTA-eva ca sa saMtizWet tatra jAyeta ca-amRtaH // MMK_27.10 //
+   ucchedaḥ karmaṇāṃ nāśaḥ kṛtam anyena karma ca /	ucCedaH karmaNAm nASaH kRtam anyena karma ca /
+   pratisaṃvedayed anya evam ādi prasajyate // MMK_27.11 //	pratisaMvedayet anyaH evam Adi prasajyate // MMK_27.11 //
+   nāpy abhūtvā samudbhūto doṣo hy atra prasajyate /	na-api aBUtvA samudBUtaH dozaH hi atra prasajyate /
+   kṛtako vā bhaved ātmā saṃbhūto vāpy ahetukaḥ // MMK_27.12 //	kRtakaH vA Bavet AtmA saMBUtaH vA-api ahetukaH // MMK_27.12 //
+   evaṃ dṛṣtir atīte yā nābhūm aham abhūm aham /	evam dRztiH atIte yA nABUm aham aBUm aham /
+   ubhayaṃ nobhayaṃ ceti naiṣā samupapadyate // MMK_27.13 //	uBayam na-uBayam ca-iti na-ezA samupapadyate // MMK_27.13 //
+   adhvany anāgate kiṃ nu bhaviṣyāmīti darśanam /	aDvani anAgate kim nu BavizyAmi-iti darSanam /
+   na bhaviṣyāmi cety etad atītenādhvanā samam // MMK_27.14 //	na BavizyAmi ca-iti etat atItena-aDvanA samam // MnK_27.14 //
+   sa devaḥ sa manuṣyaś ced evaṃ bhavati śāśvatam /	sa devaH sa manuzyaH ced evam Bavati SASvatam /
+   anutpannaś ca devaḥ syāj jāyate na hi śāśvatam // MMK_27.15 //	anutpannaH ca devaH syAt jAyate na hi SASvatam // MMK_27.15 //
+   devād anyo manuṣyaś ced aśāśvatam ato bhavet /	devAt anyaH manuzyaH ced aSASvatam atas Bavet /
+   devād anyo manuṣyaś cet saṃtatir nopapadyate // MMK_27.16 //	devAt anyaH manuzyaH ced saMtatiH na-upapadyate // MMK_27.16 //
+   divyo yady ekadeśaḥ syād ekdeśaś ca mānuṣaḥ /	divyaH yadi eka-deSaH syAt ekdeSaH ca mAnuzaH /
+   aśāśvataṃ śāśvataṃ ca bhavet tac ca na yujyate // MMK_27.17 //	aSASvatam SASvatam ca Bavet tat ca na yujyate // MMK_27.17 //
+   aśāśvataṃ śāśvataṃ ca prasiddham ubhayaṃ yadi /	aSASvatam SASvatam ca prasidDam uBayam yadi /
+   siddhe na śāśvataṃ kāmaṃ naivāśāśvatam ity api // MMK_27.18 //	sidDe na SASvatam kAmam na-eva-aSASvatam iti api // MMK_27.18 //
+   kutaścid āgataḥ kaścit kiṃcid gacchet punaḥ kva cit /	kutaScid AgataH kaScid kiMcid gacCet punar kva cit /
+   yadi tasmād anādis tu saṃsāraḥ syān na cāsti saḥ // MMK_27.19 //	yadi tasmAt anAdiH tu saMsAraH syAt na ca-asti saH // MnK_27.19 //
+   nāsti cec chāśvataḥ kaścit ko bhaviṣyaty aśāśvataḥ /	na-asti ced SASvataH kaScid kaH Bavizyati aSASvataH /
+   śāśvato 'śāśvataś cāpi dvābhyām ābhyāṃ tiraskṛtaḥ // MMK_27.20 //	SASvataH aSASvataH ca-api dvAByAm AByAm tiraskRtaH // MMK_27.20 //
+   antavān yadi lokaḥ syāt paralokaḥ kathaṃ bhavet /	antavAn yadi lokaH syAt para-lokaH kaTam Bavet /
+   athāpy anantavāl lokaḥ paralokaḥ kathaṃ bhavet // MMK_27.21 //	aTa-api anantavAn lokaH para-lokaH kaTam Bavet // MMK_27.21 //
+   skandhānām eṣa saṃtāno yasmād dīpārciṣām iva /	skanDAnAm eza saMtAnaH yasmAt dIpa-arcizAm iva /
+   tasmān nānantavattvaṃ ca nāntavattvaṃ ca yujyate // MMK_27.22 //	tasmAt na-anantavat-tvam ca na-antavat-tvam ca yujyate // MMK_27.22 //
+   pūrve yadi ca bhajyerann utpadyeran na cāpy amī /	pUrve yadi ca Bajyeran utpadyeran na ca-api amI /
+   skandhāḥ skandhān pratītyemān atha loko 'ntavān bhavet // MMK_27.23 //	skanDAH skanDAn pratItya-imAn aTa lokaH antavAn Bavet // MMK_27.23 //
+   pūrve yadi na bhajyerann utpadyeran na cāpyamī /	pUrve yadi na Bajyeran utpadyeran na ca-api-amI /
+   skandhāḥ skandhān pratītyemāl loko 'nanto bhaved atha // MMK_27.24 //	skanDAH skanDAn pratItya-imAt lokaH anantaH Bavet aTa // MMK_27.24 //
+   antavān ekadeśaś ced ekadeśas tv anantavān /	antavAn eka-deSaH ced eka-deSaH tu anantavAn /
+   syād antavān anantaś ca lokas tac ca na yujyate // MMK_27.25 //	syAt antavAn anantaH ca lokaH tat ca na yujyate // MMK_27.25 //
+   kathaṃ tāvad upādātur ekadeśo vinaṅkṣyate /	kaTam tAvat upAdAtuH eka-deSaH vinaFkzyate /
+   na naṅkṣyate caikadeśa evaṃ caitan na yujyate // MMK_27.26 //	na naFkzyate ca-eka-deSaH evam ca-etat na yujyate // MMK_27.26 //
+   upādānaikadeśaś ca kathaṃ nāma vinaṅkṣyate /	upAdAna-eka-deSaH ca kaTam nAma vinaFkzyate /
+   na naṅkṣyate caikadeśo naitad apy upapadyate // MMK_27.27 //	na naFkzyate ca-eka-deSaH na-etat api upapadyate // MMK_27.27 //
+   antavac cāpy anantaṃ ca prasiddham ubhayaṃ yadi /	antavat ca-api anantam ca prasidDam uBayam yadi /
+   siddhe naivāntavat kāmaṃ naivānantavad ity api // MMK_27.28 //	sidDe na-eva-anta-vat kAmam na-eva-ananta-vat iti api // MMK_27.28 //
+   atha vā sarvabhāvānāṃ śūnyatvāc chāśvatādayaḥ /	aTa vA sarva-BAvAnAm SUnya-tvAt SASvata-AdayaH /
+   kva kasya katamāḥ kasmāt saṃbhaviṣyanti dṛṣṭayaḥ // MMK_27.29 //	kva kasya katamAH kasmAt saMBavizyanti dRzwayaH // MnK_27.29 //
+   sarvadṛṣṭiprahāṇāya yaḥ saddharmam adeśayat /	sarva-dRzwi-prahANAya yaH sadDarmam adeSayat /
+   anukampām upādāya taṃ namasyāmi gautamam // MMK_27.30 //	anukampAm upAdAya tam namasyAmi gOtamam // MnK_27.30 //

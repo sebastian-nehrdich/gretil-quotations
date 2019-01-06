@@ -1,0 +1,809 @@
+   jaiminīyagṛhyasūtram	jEminIya-gRhya-sUtram
+   JaimGS 1.1:	JEmGS 1.1:
+   athāto 'gniṃ praṇoṣyanprāgudakpravaṇamabhyukṣya sthaṇiḍalaṃ lakṣaṇaṃ	aTa-atas agnim praNozyan-prAc-udak-pravaNam-aByukzya sTaNixalam lakzaNam
+   kuryānmadhye prācīṃ rekhāmullikhyodīcīṃ ca saṃhitāṃ paścāttisro madhye	kuryAt-maDye prAcIm reKAm-ulliKya-udIcIm ca saMhitAm paScAt-tisraH maDye
+   prācyo 'bhyukṣyāgniṃ pratiṣṭhāpayedbhūrbhuvaḥ svariti lakṣaṇāvṛdeṣā	prAcyaH aByukzya-agnim pratizWApayet-BUH-BuvaH svar-iti lakzaNa-AvRdezA
+   sarvatrāthātaḥ pākayajñānvyākhyāsyāmo huto 'hutaḥ prahutaḥ prāśita iti	sarvatra-aTa-atas pAkayajQAn-vyAKyAsyAmaH hutaH ahutaH prahutaH prASitaH iti
+   teṣāmekāgnau homo nitye yajñopavītodakācamane darśapūrṇamāsatantrāḥ	tezAm-ekAgnO homaH nitye yajQopavIta-udaka-Acamane darSa-pUrNamAsa-tantrAH
+   snatantrā vā dakṣiṇato 'gneḥ pūrṇapātramupanidadhāti sruvaṃ cāpāṃ	snatantrAH vA dakziNatas agneH pUrNa-pAtram-upanidaDAti sruvam ca-apAm
+   pūrṇamuttarato 'gneridhmābahirdevasya tvā savituḥ prasave 'śvinorbāhubhyāṃ	pUrNam-uttaratas agneH-iDmA-bahis-devasya tvA savituH prasave aSvinoH-bAhuByAm
+   pūṣṇo hastābhyāṃ prokṣāmiti prokṣitamupakḷptaṃ bhavati	pUzNaH hastAByAm prokzAm-iti prokzitam-upak?ptam Bavati
+   sakṛdyajuṣādvistūṣaṇiṃ khādiraḥ pālāśo vedhmastadalābhe	sakRt-yajuzAt-vistUzaNim KAdiraH pAlASaH veDmaH-tad-alABe
+   vibhītakatilvakabādhakanimbarājavṛjñaśalmalyaraludadhitthakovidāraśrleṣmātakavarjaṃ	viBItaka-tilvaka-bADaka-nimba-rAja-vRjQa-SalmalI-araluda-DitTa-kovidAra-SrlezmAtaka-varjam
+   sarvavanaspatīnāmidhmaḥ kuśālābhe	sarva-vanaspatInAm-iDmaH kuSa-alABe
+   śūkatṛṇaśaraśīryabalbajamutavanalaśuṇṭhavarjaṃ sarvatṛṇāniśuklāḥ	SUka-tRNa-Sara-SIrya-balba-jam-utavanala-SuNWa-varjam sarva-tRNA-niSuklAH
+   sumanasastāsāmalābhe japārupakākutthābhaṇḍīkuraṇḍakavarjaṃ gandhavatyo vā	sumanasaH-tAsAm-alABe japArupaka-AkutTA-BaNxI-kuraNxaka-varjam ganDavatyaH vA
+   sarvavarṇāścatasr ājyaprakṛtayo bhavantyūdhanyaṃ vā vāhyaṃ vā payo vā	sarva-varNAH-catasH Ajya-prakRtayaH Bavanti-UDanyam vA vAhyam vA payaH vA
+   paścādagnerācamanaṃ trirācāmeddviḥ parimṛjetsapṛdupaspṛśetpādāvabhyukṣya	paScAt-agneH-Acamanam tris-AcAmet-dvis parimRjet-sapRt-upaspRSet-pAdO=-aByukzya
+   śiraśca śīṣaṇyānprāṇānupaspṛśedarpaupaspṛśya	SiraH-ca SIzaNyAn-prANAn-upaspRSet-arpa-OpaspRSya
+   paścādagnerupasamāhitasyopaviśya dakṣiṇena pāṇinābhūmimārabhya japatīdaṃ	paScAt-agneH-upasamAhitasya-upaviSya dakziNena pANinABUmim-AraBya japati-idam
+   bhūmerbhajāmaha idaṃ bhadraṃ sumaṅgalaṃ parā sapantānbādhasvānyeṣāṃ vinda	BUmeH-BajAmahe idam Badram su-maFgalam parA sapantAn-bADasva-ani-ezAm vinda
+   te dhanamiti vasvantaṃ rātriścedimaṃstomyena tṛcenāgniṃ parisamūhedādyayā	te Danam-iti vasu-antam rAtriH-cedi-maM=-tomyena tRcena-agnim parisamUhet-AdyayA
+   vā triḥ prastaramupasaṃgṛhya pratidiśaṃ paristṛṇāti	vA tris prastaram-upasaMgRhya pratidiSam paristRNAti
+   dakṣiṇapurastādupakramyāgrairmūlāni	dakziNa-purastAt-upakramya-agrEH-mUlAni
+   chādayanpaścādvopastīryolaparājibhyāmupahareddakṣiṇottaraḥ sandhiḥ //	CAdayan-paScAt-vopaH-tIrya-ulaparAjiByAm-upaharet-dakziNa-uttaraH sanDiH //
+   JaimGS_1.1 //	JEmGS_1.1 //
+   JaimGS 1.2:	JEmGS 1.2:
+   prastarātpavitre gṛhṇāti prādeśamātre same apraśīrṇāgre anantargarbhe	prastarAt-pavitre gRhNAti prAdeSa-mAtre same apraSIrNa-agre anantargarBe
+   aṅguṣṭhenopakāniṣṭhikayā ca dhārayannanakhena chinatti pavitre stho	aFguzWena-upakAnizWikayA ca DArayan=-anaKena Cinatti pavitre sTaH-
+   vaiṣṇavyāviti trirurdhavamadbhiranumārjayedviṣaṇormanasā pūte stha iti	vEzNavyO=-iti tris-urDavam-adBiH-anumArjayet-vizaNoH-manasA pUte sTaH iti
+   sakṛdyajuṣā dvistūṣṇīṃ pātrasyopariṣṭātpavitre	sakRt-yajuzA dvis-tUzNIm pAtrasya-uparizwAt-pavitre
+   dhārayannājyamāsicyottareṇāgnimaṅgārātriruhya teṣvadhiśrityāvadyotya	DArayan=-Ajya-mAsicya-uttareNa-agnim-aFgArAtriruhya tezu-aDiSritya-avadyotya
+   darbhataruṇābhyāṃ pratyasya triḥparyagni kṛtvodagudvāsya	darBa-taruNAByAm pratyasya tris-paryagni kRtvA-udak-udvAsya
+   pratyūhyāṅgārānudagagrābhyāṃ pavitrābhyāṃ trirutpunātyājyaṃ ca haviśca	pratyUhya-aFgArAn-udak-agrAByAm pavitrAByAm tris-utpunAti-Ajyam ca haviH-ca
+   praṇītāśca sruvaṃ ca devastvā savitotpunātvacchidreṇa pavitreṇa vasoḥ	praNItAH-ca sruvam ca devaH-tvA savitA-utpunAtva=-CidreNa pavitreNa vasoH
+   sūryasya raśmibhiriti devo va iti praṇītāḥ punarāhāramājyasya sakṛdyajuṣā	sUryasya raSmiBiH-iti devaH vaH iti praNItAH punar-AhAram-Ajyasya sakRt-yajuzA
+   dvistūṣṇīmuttarato 'gneḥ praṇītāḥ praṇīya darbhaiḥ pracchādya dakṣiṇato	dvis-tUzNIm-uttaratas agneH praNItAH praNIya darBEH pracCAdya dakziNatas-
+   'gneḥ prastaraṃ nidhāya prastarasyopariṣṭātpavitre nidhāya virupākṣaṃ	agneH prastaram niDAya prastarasya-uparizwAt-pavitre niDAya virupAkzam
+   japatyoṃ tapaśca satyaṃ cātmā ca dhṛtiśca dharmaśca sattavaṃ ca tyāgaśca	japatyom tapaH-ca satyam ca-AtmA ca DRtiH-ca DarmaH-ca sattavam ca tyAgaH-ca
+   brahma ca brahma ca tāni prapadye tāni māmavantu bhūrbhuvaḥ svaroṃ	brahma ca brahma ca tAni prapadye tAni mAmavantu BUH-BuvaH svar-om
+   mahāntamātmānamadhyārohāmi virupākṣo 'si dantājjistasya te śayyā parṇe	mahAntam-AtmAnam-aDyArohAmi virupAkzaH asi dantAt-jiH-tasya te SayyA parNe
+   gṛhā antarikṣe te vimitaṃ hiraṇmayaṃ taddevānāṃ hṛdayānyayasmaye kumbhe	gRhAH antarikze te vimitam hiraNmayam tad-devAnAm hRdayAni-ayasmaye kumBe
+   antaḥ saṃnihitāni tāni balabhūśca baladhā ca rakṣaṇo mā pramadaḥ satyaṃ te	antar saMnihitAni tAni balaBUH-ca balaDA ca rakzaNaH mA pramadaH satyam te
+   dvādaśa putrāste tvā saṃvatsaresaṃvatsare kāmapreṇa yajñena yājayitvā	dvAdaSa putrAH-te tvA saMvatsaresaMvatsare kAma-preNa yajQena yAjayitvA
+   punarbrahmacaryamupayanti tvaṃ devānāṃ brāhmaṇo 'syahaṃ manuṣyāṇāṃ	punar-brahmacaryam-upayanti tvam devAnAm brAhmaNaH asi-aham manuzyANAm
+   brāhmaṇo vai brāhmaṇāmupadhāvati taṃ tvopadhāvāmi japantaṃ mā mā	brAhmaNaH vE brAhmaNAm-upaDAvati tam tvA-upaDAvAmi japantam mA mA
+   pratijāpsīrjuhvantaṃ mā mā pratihauṣīḥ kurvantaṃ mā mā pratikārṣīstvāṃ	pratijA-apsIH-juhvantam mA mA pratihOzIH kurvantam mA mA pratikArzIH-tvAm
+   prapadde tvayā prasūta idaṃ karma kariṣyāmi tanme samṛdhyatāṃ virupākṣāya	prapadde tvayA prasUtaH idam karma karizyAmi tat-me samRDyatAm virupAkzAya
+   dantājjaye brahmaṇāḥ putrāya jyeṣṭhāya śreṣṭhāyāmodhāya karmādhipataye	dantAt-jaye brahmaNAH putrAya jyezWAya SrezWAyAmoDAya karma-aDipataye
+   nama iti // JaimGS_1.2 //	namaH iti // JEmGS_1.2 //
+   JaimGS 1.3:	JEmGS 1.3:
+   sruvaṃ praṇītāsu praṇīya niṣṭapya darbhaiḥ saṃmṛjya	sruvam praNItAsu praNIya nizwapya darBEH saMmRjya
+   saṃmārgānabhyukṣyāgnāvādhāya dakṣiṇāṃ jānvācyāmedhyaṃ cetkiṃcidājye	saMmArga-an-aByukzya-agnO=-ADAya dakziNAm jAnu-Acya-ameDyam ced-kiMcid-Ajye
+   'vapadyeta ghuṇāstryambukā makṣikā pipīliketyā pañcabhya	avapadyeta GuNAH-tryambukA makzikA pipIliketyA paQcaBya
+   ḥddhatyābhyukṣyotpūya jūhuyātparitadhinparidadhāti madhyamaṃ sthavīyasaṃ	HdDatya-aByukzya-utpUya jUhuyAt-paritaDin-paridaDAti maDyamam sTavIyasam
+   paścāddīrdhaṃ madhyamaṃ dakṣiṇātaḥ kanīyasamuttarataḥ saṃspṛṣṭāndakṣiṇāto	paScAt-dIrDam maDyamam dakziNAtaH kanIya-samuttaratas saMspRzwAn-dakziNAto
+   'gnerapāṃ kośaṃ ninayatyadite 'numanyasvetyanumate 'nmanyasveti	agneH-apAm koSam ninayati-adite anumanyasva-iti-anumate anmanyasva-iti
+   paścātsarasvate 'numanyasvetyuttarato deva savitaḥ prasuveti triḥ	paScAt-sarasvate anumanyasva-iti-uttaratas deva savitar prasuvA-iti tris-
+   pradakṣiṇamagniṃ pariṣiñceddeva savitaḥ prasuva yajñaṃ prasuva yajñapatiṃ	pradakziNam-agnim pariziQcet-deva savitar prasuva yajQam prasuva yajQapatim
+   bhagāya divyo gandharvaḥ ketapūḥ ketaṃ naḥ punātu vācaspatirvācaṃ naḥ	BagAya divyaH ganDarvaH ketapUH ketam naH punAtu vAcaspatiH-vAcam naH
+   svadatviti sakṛdyajuṣā dvistūṣṇīmathedhmamādāya sruveṇājyaṃ	svadatu-iti sakRt-yajuzA dvis-tUzNIm-aTa-iDmam-AdAya sruveNa-Ajyam
+   gṛhītvābhighāryāgnāvabhyādadhātyayaṃ ta idhma ātmā jātavedastena vardhasva	gRhItvA-aBiGArya-agnO=-aByAdaDAtyayam te iDmaH AtmA jAtavedaH-tena varDasva
+   cedhyasva cendvi vardhaya cāsmānprajayā paśubhirbrahmavarcasenānnādyena	ceDyasva ca-indvi varDaya ca-asmAn-prajayA paSuBiH-brahmavarcasena-annAdyena
+   samedhaya svāheti manasāghārau juhoti saṃtatamakṣṇāyā prajāpataye	sameDaya svAhA-iti manasA-aGArO juhoti saMtatam-akzNAyAH prajApataye
+   svāhetyuttaraṃ paridhisandhimanvavahṛtya sruvamundrāya svāheti dakṣiṇāṃ	svAhA-iti-uttaram pariDi-sanDim-anvavahRtya sruvam-undrAya svAhA-iti dakziNAm
+   paridhisandhimanvavahṛtyāghārau hutvājyabhāgau juhotyagnaye	pariDi-sanDim-anvavahRtya-aGArO hutvA-Ajya-BAgO juhoti-agnaye
+   svāhetyattarataḥ somāya svāheti dakṣiṇatastāvantareṇāhutiloko bhūḥ svāhā	svAhA-iti-attarataH somAya svAhA-iti dakziNatas-tO=-antareNa-Ahuti-lokaH BUH svAhA
+   bhuvaḥ svāhā svaḥ svāhā bhūrbhuvaḥ svaḥ svāhetyagnaye 'gnīṣomābhyāmiti	BuvaH svAhA svar svAhA BUH-BuvaH svar svAhA-iti-agnaye agnIzomAByAm-iti
+   paurṇamāsāsyāmagnaya indrāgnibhyāmityamāvāsyāyāmuttarapūrvāma	pOrNamAsa-AsyAm-agnayaH indra-agniByAm-iti-amAvAsyAyAm-uttara-pUrvAma
+   uttarapūrvāmāhutiṃ juhotyanabhijuhvadāhutyāhutiṃ pratyak	uttara-pUrvAm-Ahutim juhoti-anaBijuhvat-Ahuti-Ahutim pratyak
+   sauviṣṭakṛtasthānānnityo 'gniḥ purastātsviṣṭakṛdante 'nyatra	sOvizwa-kRta-sTAnAt-nityaH agniH purastAt-svizwakRt-ante anyatra
+   vapāhomājyahomābhyāṃ na sviṣṭakṛtaṃ pratyabhighārayati sruve	vapAhoma-Ajya-homAByAm na svizwakRtam pratyaBiGArayati sruve
+   sakṛdājyamupastṛṇāti dvirhaviṣo 'vadyati dvisakṛdājyonābhighārya	sakRt-Ajyam-upastRNAti dvis-havizaH avadyati dvi-sakRt-Ajya-Una-aBiGArya
+   pratyabhidhā rayatyāṅguṣṭhenāṅgulibhyāṃ ca māṃsasaṃhitābhyāṃ dvarhaviṣo	pratyaBiDA rayati-AFguzWena-aFguliByAm ca mAMsa-saMhitAByAm dvarha-vizaH-
+   'vadyati dvirājyenābhidhārya pratyabhighārayati jāmadagnyānāṃ tadvi	avadyati dvi-rAjyena-aBiDArya pratyaBiGArayati jAmadagnyAnAm tat-vi
+   pancāvattaṃ bhavatyaṅgulyā tṛṇakūrcena vā eṣā homāvṛtsarvatra //	pancAvattam Bavati-aFgulyA tRNa-kUrcena vE ezA homa-AvRt-sarvatra //
+   JaimGS_1.3 //	JEmGS_1.3 //
+   JaimGS 1.4:	JEmGS 1.4:
+   sapavitraṃ prastaramādatte tasyāgrāṇi sruve 'nakti divyaṅkṣveti	sa-pavitram prastaram-Adatte tasya-agrANi sruve anakti divyaFkzva-iti
+   madhyamājye 'ntarikṣe 'ṅkṣveti mūlāni haviṣi pṛthivyāmaṅkṣvavati	maDyamAjye antarikze aFkzva-iti mUlAni havizi pRTivyAm-aFkzvavati
+   prastarāttṛṇaṃ nirasyatyāyuṣe tveti prastaramagnāvanupraharatyagnaye	prastarAt-tRNam nirasyati-Ayuze tvA-iti prastaram-agnO=-anupraharati-agnaye
+   'numataye svāheti paścāttṛṇamanupraharati dviṣantaṃ me 'bhidhehi taṃ caiva	anumataye svAhA-iti paScAt-tRNam-anupraharati dvizantam me aBiDehi tam ca-eva
+   pradaha svāheti ghṛtenāktāḥ samidha ādadhāti samṛddhyai svāheti	pradaha svAhA-iti GRtena-aktAH samiDaH AdaDAti samRdDyE svAhA-iti
+   bhūmimārabhya śīrṣaṇyānprāṇānupaspṛśedapa upaspṛśya dvādaśa	BUmim-AraBya SIrzaNyAn-prANAn-upaspRSet-apaH upaspRSya dvAdaSa
+   prāyaścittāhutīrjuhotyākūtyai svāhā //	prAyaScitta-AhutIH-juhoti-AkUtyE svAhA //
+   kāmāya svāhā //	kAmAya svAhA //
+   samṛddhayai svāhā //	samRdDayE svAhA //
+   ṛcā stomaṃ samardhaya gāyatreṇa rathaṃtaraṃ bṛhadgāyatravartani svāhā //	RcA stomam samarDaya gAyatreNa raTaMtaram bRhat-gAyatra-vartani svAhA //
+   udu tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ /	udu tyam jAtavedasam devam vahanti ketavaH /
+   d daśe viśvāya sūryaṃ svāhā //	d daSe viSvAya sUryam svAhA //
+   citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ /	citram devAnAm-udagAt-anIkam cakzuH-mitrasya varuNasya-agneH /
+   āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatastasthuṣaśca svāhā //	AprA dyAvApRTivI antarikzam sUryaH AtmA jagataH-tasTuzaH-ca svAhA //
+   udvayaṃ tamasaspari svaḥ paśyanto jyotirūttaram /	udvayam tamasaspari svar paSyantaH jyotiru-uttaram /
+   devaṃ devatrā sūryamaganma jyotirūttamaṃ svāhā //	devam devatrA sUryam-aganma jyotirUttamam svAhA //
+   prajāpate na tvadetānyanyo viśvā jātāni pari tā babhūva /	prajApate na tvad-etAni-anyaH viSvA jAtAni pari tAH baBUva /
+   yatkāmāste juhumastanno 'stu vayaṃ syāma patayo rayīṇāṃ svāhā //	yat-kAmAH-te juhumaH-tat-naH astu vayam syAma patayaH rayINAm svAhA //
+   bhūḥ svāhā //	BUH svAhA //
+   bhuvaḥ svāhā //	BuvaH svAhA //
+   svaḥ svāhā //	svar svAhA //
+   bhūrbhuvaḥ svaḥ svāhetyathāstīrṇāndarbhānānīya praṇītānāṃ ca sruvasya	BUH-BuvaH svar svAhA-iti-aTa-AstIrNAn-darBAn-AnIya praNItAnAm ca sruvasya
+   copariṣṭātkṛtvāpastrāvayañjapati sadasi sanme bhūyāḥ sarvamasi sarvaṃ me	ca-uparizwAt-kRtvA-apastrAvayan-japati sadasi sat-me BUyAH sarvam-asi sarvam me
+   bhūyāḥ pūrṇamasi pūrṇaṃ me bhūyā akṣitamasi mā me kṣeṣṭhā iti	BUyAH pUrNam-asi pUrNam me BUyAH akzitamasi mA me kzezWAH iti
+   pratidiśamapa utsiñcati prācyāṃ diśi devā ṛtvijo mārjayantāmiti	pratidiSam-apaH utsiQcati prAcyAm diSi devAH RtvijaH mArjayantAm-iti
+   prācīnāvītī dakṣiṇāsyāṃ diśi māsāḥ pitaro mārjayantāmiti yajñopavītī	prAcInAvItI dakziNA-asyAm diSi mAsAH pitaraH mArjayantAm-iti yajQa-upavItI
+   bhūtvāpa upaspṛśya pratīcyāṃ diśi gṛhāḥ paśavo mārjayantāmityudīcyāṃ	BUtvA-apaH upaspRSya pratIcyAm diSi gRhAH paSavaH mArjayantAm-iti-udIcyAm
+   diśyāpa oṣadhayo vanaspatayo mārjayantāmityūdhvāyāṃ diśi yajñaḥ saṃvatsaro	diSi-ApaH ozaDayaH vanaspatayaH mArjayantAm-iti-UDvAyAm diSi yajQaH saMvatsaraH-
+   yajñapatirmārjayantāmiti samudraṃ vaḥ prahiṇomītyapo ninīya samudraṃ vaḥ	yajQapatiH-mArjayantAm-iti samudram vaH prahiNomi-iti-apaH ninIya samudram vaH
+   prahiṇobhyakṣitāḥ svāṃ yonimapi gacchata /	prahiNa-uByakzitAH svAm yonim-api gacCata /
+   ariṣṭā asmākaṃ vīrāḥ santu mā parāseci naḥ svamiti yadapsu te	arizwAH asmAkam vIrAH santu mA parAseci naH svam-iti yat-apsu te
+   sarasvatītyaṅguṣṭhenopakaniṣṭhikayā cākṣiṇī vimṛjedyadapsu te sarasvati	sarasvatI-iti-aFguzWena-upakanizWikayA ca-akziNI vimRjet-yat-apsu te sarasvati
+   goṣvaśveṣu yanmadhu /	gozu-aSvezu yat-maDu /
+   tena me vājināvati mukhamaṅdhi sarasvatīti darbhānparidhīṃścāgnāvādhāya	tena me vAjinAvati muKam-aFDi sarasvatI-iti darBAn-pariDIn=-ca-agnO=-ADAya
+   vāmadevyena śāntiṃ kṛtvā triḥ paryukṣetsahaviṣkaṃ pradakṣiṇamanvamaṃsthāḥ	vAmadevyena SAntim kRtvA tris paryukzet-saha-vizkam pradakziNam-anvamaMsTAH
+   prāsāvīriti mantrānsaṃnamayetpūrṇapātramupanihitaṃ sā dakṣiṇā	prAsAvIH-iti mantrAn-saMnamayet-pUrNa-pAtram-upanihitam sA dakziNA
+   yathāśraddhadakṣiṇāḥ pākayajñāḥ pūrṇapātraṃ vā // JaimGS_1.4 //	yaTA-SradDa-dakziNAH pAkayajQAH pUrNa-pAtram vA // JEmGS_1.4 //
+   JaimGS 1.5:	JEmGS 1.5:
+   puṃsavanaṃ tṛtīyo māsyanyatra gṛṣṭerghṛte caruṃ śrapayitvā pṛṣadājyaṃ vā	puMsavanam tRtIyaH mAsi-anyatra gRzweH-GRte carum SrapayitvA pRzadAjyam vA
+   sthālīpākavatsaṃskṛtya pūruṣasūktena juhuyānmāṣau ca yavaṃ ca pulliṅgaṃ	sTAlIpAka-vat-saMskRtya pUruzasUktena juhuyAt-mAzO ca yavam ca put-liFgam
+   kṛtvā dadhidrapsenaināṃ prāśayetprajāpatiḥ puruṣaḥ parameṣṭhi sa me putraṃ	kRtvA daDi-drapsena-enAm prASayet-prajApatiH puruzaH paramezWi sa me putram
+   dadātvāyuṣmantaṃ yaṣasvinaṃ saha patyā jīvasūrbhūyāsamiti nyagrodhaśuṅgaṃ	dadAtu-Ayuzmantam yazasvinam saha patyA jIvasUH-BUyAsam-iti nyagroDa-SuFgam
+   phalābhyāmupahitaṃ śuklaratkābhyāṃ sūtrābhyāṃ grathitvā kaṇṭhe	PalAByAm-upahitam Sukla-ratkAByAm sUtrAByAm graTitvA kaNWe
+   dhārayeddhruvakumārāyetyācakṣate vāso dakṣiṇā // JaimGS_1.5 //	DArayet-Druva-kumArAya-iti-Acakzate vAsaH dakziNA // JEmGS_1.5 //
+   JaimGS 1.6:	JEmGS 1.6:
+   athāto nāndīmukhebhyaḥ pitṛbhyaḥ pūrveddurvyākhyāsyāma āpūryamāṇapakṣe	aTa-atas nAndImuKeByaH pitRByaH pUrvet-durvyAKyAsyAmaH ApUryamANa-pakze
+   puṇye nakṣatre śvaḥ kariṣyamīti śvo bhūte vānnaṃ saṃskṛtyaśucīn	puNye nakzatre Svas karizyami-iti Svas BUte vA-annam saMskRtyaSucIn
+   śrotriyānbrāhmaṇānanumantrayate śuciḥ śuklamanārdramācchādya	SrotriyAn-brAhmaNAn-anumantrayate SuciH Suklam-anArdram-AcCAdya
+   yajñopavītyapa ācamya catuḥśuklānbalīnharatī dadhi taṇḍulāḥ surabhi śuklāḥ	yajQopavIti-apaH Acamya catur-SuklAn-balIn-haratI daDi taNxulAH suraBi SuklAH
+   sumanasa ityagnyāyatane prāgagrāndarbhānsaṃstīryāgnaye somāya prajāpataye	sumanasaH iti-agni-Ayatane prAc-agrAn-darBAn-saMstIrya-agnaye somAya prajApataye
+   viśvebhyo devebhya ṛṣibhyo bhūtyebhyaḥ pitṛbhyaḥ sarvābhyo devatābhyo nama	viSveByaH deveByaH RziByaH BUtyeByaH pitRByaH sarvAByaH devatAByaH nama
+   iti haviṣyamannaṃ brāhmaṇobhyaḥ pradāya dadhrā	iti havizyam-annam brAhmaNoByaH pradAya daDrA
+   māṣamatsyamāṃsabhakṣyāśanairityaparamatha catuṣṭayamādāya	mAza-matsya-mAMsa-Bakzya-aSanEH-iti-aparam-aTa catuzwayam-AdAya
+   vrīhiyavapuṣpasarṣapāṇīti saha tairevodakumbhamādāya manaḥ samādhīyaṃtāṃ	vrIhi-yava-puzpa-sarzapANi-iti saha tEH-eva-uda-kumBam-AdAya manaH samADIyaMtAm
+   prasīdantu bhavanta ityutkā sapraṇavaṃ nāndīmukhāḥ pitaraḥ	prasIdantu BavantaH iti-utkA sa-praNavam nAndImuKAH pitaraH
+   prīyantāmityevaṃ yathārthamitare pratibrūyuḥ // JaimGS_1.6 //	prIyantAm-iti-evam yaTArTam-itare pratibrUyuH // JEmGS_1.6 //
+   JaimGS 1.7:	JEmGS 1.7:
+   sīmantonnayanaṃ caturthe māsi ṣaṣṭhe 'ṣṭame vā pūrvapakṣe puṇye nakṣatre	sImantonnayanam caturTe mAsi zazWe azwame vA pUrva-pakze puNye nakzatre
+   hastottarābhirvā kuryāttilamudgamiśraṃ sthālīpākaṃ śrapayitvānvārabdhāyāṃ	hasta-uttarABiH-vA kuryAt-tila-mudga-miSram sTAlIpAkam SrapayitvA-anvArabDAyAm
+   juhuyānmahāvyāhṛtibhirhutvā prājāpatyayā cāthaināṃ paścādagnerbhadrapīṭha	juhuyAt-mahAvyAhRtiBiH-hutvA prAjApatyayA ca-aTa-enAm paScAt-agneH-BadrapIWa
+   upaveśyairakāyāṃ vāhatottarāyāṃ tasyai triḥ śuklayā śalalyā prāṇasaṃmitaṃ	upaveSyEH-akAyAm vAhata-uttarAyAm tasyE tris SuklayA SalalyA prANa-saMmitam
+   sīmaṃntaṃ kuryācchuklenā mūrdhraḥ prāṇāya tvāpānāya tvetyathāsyā dakṣiṇaṃ	sImaMntam kuryAt-SuklenA mUrDraH prANAya tvA-apAnAya tvA-iti-aTa-asyAH dakziNam
+   keśāntaṃ sragbhiralaṃkṛtya tathottaraṃ hiraṇyavatīnāmapāṃ kāṃsyaṃ	keSAntam sragBiH-alaMkRtya taTA-uttaram hiraNyavatInAm-apAm kAMsyam
+   pūrayitvā tatraināmavekṣayanpṛccheddhiṃ bhūrbhuvaḥ svaḥ kiṃ paśyasīti parā	pUrayitvA tatra-enAm-avekzayan-pRcCet-Dim BUH-BuvaH svar kim paSyasi-iti parA
+   pratyāha prajāṃ paśūnsaubhāgyaṃ mahyaṃ dīrghamāyuḥ patyuriti vāso dakṣiṇā	pratyAha prajAm paSUn-sOBAgyam mahyam dIrGam-AyuH patyuH-iti vAsaH dakziNA
+   hiraṇyaṃ vā // JaimGS_1.7 //	hiraNyam vA // JEmGS_1.7 //
+   JaimGS 1.8:	JEmGS 1.8:
+   kumāre jāte jātakarma prākstanaprāśanāhrīhiṃ ca yavaṃ ca	kumAre jAte jAtakarma prAc-stana-prASanA-hrIhim ca yavam ca
+   jātarūpeṇāvaghṛṣyedamannamiti prāśayedidamannamayaṃ rasa idaṃ prāṇenāmṛtaṃ	jAtarUpeNa-avaGRzya-idam-annam-iti prASayet-idam-anna-mayam rasaH idam prANena-amRtam
+   saha pṛthivī te mātā dyauḥ pitā jīvāhi śaradaḥ śataṃ paśyāhi śaradaḥ	saha pRTivI te mAtA dyOH pitA jIvAhi SaradaH Satam paSyAhi SaradaH
+   śatamityathainamabhimantrayate 'ṅgādaṅgātsaṃbhavasi hṛdayādadhi jāyase /	Satam-ityaTa-enam-aBimantrayate aFgAt-aFgAt-saMBavasi hRdayAt-aDi jAyase /
+   ātmā vai putranāmāsi sa jīva śaradaḥ śataṃ paśyāhi śaradaḥ	AtmA vE putra-nAmA-asi sa jIva SaradaH Satam paSyAhi SaradaH
+   śatamityathainaṃ paridadātyahno tvā paridadāmyahastvā rātryai paridadātu	Satam-iti-aTa-enam paridadAti-ahnaH tvA paridadAmi-ahar-tvA rAtryE paridadAtu
+   rātristvāhorātrābhyāṃ paridadātvahorātrau tvārdhamāsebhyaḥ	rAtriH-tva-ahorAtrAByAm paridadAtu-ahorAtrO tvA-arDa-mAseByaH
+   paridattāmardhamāsāstvā māsebhyaḥ paridadatu māsāstvartubhyaḥ	paridattAm-arDa-mAsAH-tvA mAseByaH paridadatu mAsAH-tu-artuByaH
+   paridadattvṛtastvā saṃvatsarāya paridadatu saṃvatsarastvā jarāyai mṛtyave	paridadat-tu-RtaH-tvA saMvatsarAya paridadatu saMvatsaraH-tvA jarAyE mRtyave
+   paridadātviti ko 'si katamo 'sītyāha saṃ māsaṃ praviśāsāvityathāsya guhyaṃ	paridadAtu-iti kaH asi katamaH asi-iti-Aha sam mAsam praviSA-asO=-iti-aTa-asya guhyam
+   nāma dadāti vedo 'sītyathāsya mūrdhānamupajighratyaśmā bhava paraśurbhava	nAma dadAti vedaH asi-iti-aTa-asya mUrDAnam-upajiGrati-aSmA Bava paraSuH-Bava
+   hiraṇayamastṛtaṃ bhava paśūnāṃ tvā hiṃkāreṇābhijighrāmītyevameva	hiraNayam-astRtam Bava paSUnAm tvA hiMkAreNa-aBijiGrAmi-iti-evam-eva
+   pravāsādetya putrāṇāṃ mūrdhānamupajighrati	pravAsAt-etya putrANAm mUrDAnam-upajiGrati
+   phalīkaraṇamiśrānsarṣapāndaśarātramagnau juhuyāt śaṇaḍāyeti dvābhyāṃ	PalIkaraNa-miSrAn-sarzapAndaSa-rAtram-agnO juhuyAt SaNaxAya-iti dvAByAm
+   śaṇaḍāya markāyopavīrāya śauṇḍikera ulūkhalo malimluco duṇāśi cyavano	SaNaxAya markAya-upavIrAya SONxikeraH ulUKalaH malimlucaH duNASi cyavanaH-
+   naśyatāditaḥ svāhā /	naSyata-Aditas svAhA /
+   ālikhanvilikhannanimiṣan kiṃvadanta upaśrutiraryamṇaḥ kumbhī śatruḥ	Ali-Kan-viliKanna-nimizan kiMvadantaH upaSrutiH-aryamNaH kumBI SatruH
+   pātrapāṇirnipuṇahāntrīmukhaḥ sarṣapārūṇo naśyatāditaḥ svāheti daśarātraṃ	pAtra-pANiH-nipuNa-hAntrI-muKaH sarzapArUNaH naSyata-Aditas svAhA-iti daSa-rAtram
+   dampati sūtakau bhavatastasyānte snātvotthānam // JaimGS_1.8 //	dampati sUtakO BavataH-tasya-ante snAtvA-utTAnam // JEmGS_1.8 //
+   JaimGS 1.9:	JEmGS 1.9:
+   athāto nāmakarma pūrvapakṣe puṇye nakṣatre dvādaśayāṃ vā pitā nāma	aTa-atas nAmakarma pUrva-pakze puNye nakzatre dvAdaSayAm vA pitA nAma
+   kuryādācāryo vā pitā nāma kuryādācāryo vā tamahatena vāsasā	kuryAt-AcAryaH vA pitA nAma kuryAt-AcAryaH vA tam-ahatena vAsasA
+   samanuparigṛhya pitāṅgenāsīta tasya nāmadheyaṃ dadyād dvyakṣaraṃ	samanuparigRhya pitA-aFgena-AsIta tasya nAmaDeyam dadyAt dvi-akzaram
+   caturakkṣaraṃ vā	catur-akkzaram vA
+   ghoṣavadādyantarantasthamanunakṣatramanudaivatanunāmātaddhitamākārāntaṃ	Gozavat-Adi-antar-antasTam-anunakzatram-anudEva-tanunAm-A-tat-hitam-AkAra-antam
+   striyai yathārthaṃ vā kumārayajñeṣu ca nakṣatraṃ nakṣatradaivataṃ	striyE yaTArTam vA kumAra-yajQezu ca nakzatram nakzatra-dEvatam
+   tithimiti yajate 'ṣṭāvanyā juṣṭā devatā yajate 'gni dhanvantari	tiTim-iti yajate azwO=-anyA juzwAH devatAH yajate agni Danvantari
+   prajāpatimindraṃ vasūntrudrānādityānviśvāndevānityetāsu sviṣṭāsu sarvā	prajApatim-indram vasUntru-drAn-a-AdityAn-viSvAn-devAn-iti-etAsu su-izwAsu sarvA
+   devatā abhīṣṭā bhavanti // JaimGS_1.9 //	devatAH aBIzwAH Bavanti // JEmGS_1.9 //
+   JaimGS 1.10:	JEmGS 1.10:
+   athātaḥ prāśanakarma pūrvapakkṣe puṇye nakṣatre brāhmaṇānbhojayitvā	aTa-atas prASana-karma pUrva-pakkze puNye nakzatre brAhmaNAn-BojayitvA
+   haviṣyamannaṃ prāśayedannapate 'nnasya no dehyanamīvasya śuṣmiṇaḥ /	havizyam-annam prASayet-annapate annasya naH dehi-anamIvasya SuzmiNaH /
+   pra pradātāraṃ tāriṣa ūrjaṃ no dhehi dvipade śaṃ catuṣpada iti //	pra pradAtAram tArizaH Urjam naH Dehi dvipade Sam catuzpadaH iti //
+   JaimGS_1.10 //	JEmGS_1.10 //
+   JaimGS 1.11:	JEmGS 1.11:
+   tṛtīye saṃvatsare jaṭāḥ kurvīta garbhatṛtīya ityeka udagayane pūrvapakṣe	tRtIye saMvatsare jawAH kurvIta garBatRtIyaH iti-ekaH udagayane pUrva-pakze
+   puṇye nakṣatre brāhmaṇānsvastivācyāparāhne 'gnaṃ praṇayitvā dakṣiṇato	puNye nakzatre brAhmaNAn-svasti-vAcya-aparAhne agnam praNayitvA dakziNatas-
+   'gneścatvāri pūrṇapātrāṇi nidadhyāhrīhiyavānāmabhito madhye	agneH-catvAri pUrNa-pAtrANi nidaDyAhrI-hi-yavAnAm-aBitas maDye
+   tilamāṣāṇāmācāntodake 'nvārabdhe juhuyānmahāvyāhṛtibhirhutvā	tila-mAzANAm-AcA-anta-udake anvArabDe juhuyAt-mahAvyAhRtiBiH-hutvA
+   virūpākṣeṇātra pañcamīṃ juhoti sarvauṣadhibhi sphāṇṭamudakamānayanti	virUpAkzeNa-atra paQcamIm juhoti sarva-ozaDiBi sPANwam-udakam-Anayanti
+   vrīhiyavāstalamāṣā ityetatsarvauṣadhamāyamagātsavitā kṣureṇeti	vrIhi-yavAH-tala-mAzAH iti-etat-sarva-OzaDa-m-Ayam-agAt-savitA kzureNa-iti
+   kṣuramādatta āyamagātsavitā kṣureṇa viśvairdevairanumato marudbhiḥ /	kzuram-Adatte Ayam-agAt-savitA kzureNa viSvEH-devEH-anumataH marudBiH /
+   sa naḥ śivo bhavatu viśvakarmā yūyaṃ pāta svastibhiḥ sadā na ityuṣṇena	sa naH SivaH Bavatu viSvakarmA yUyam pAta svastiBiH sadA naH iti-uzNena
+   vāya udakenehītyudakamādatta uṣṇena vāya udakenehyaditiḥ keśānvapatvityāpa	vAyo udakena-ihi-iti-udakam-Adatte uzNena vAyo udakena-ihi-aditiH keSAn-vapatu-iti-Apa
+   undantu jīvasa iti dakṣiṇaṃ keśāntamabhyundyādāpa undantu jīvase	undantu jIvasaH iti dakziNam keSAntam-aByundyAt-ApaH undantu jIvase
+   dīrghāyuṣṭvāya varcasa iti tasmiṃstisro darbhapīñjūlīrupadadhātyekāṃ vā	dIrGa-AyuzwvAya varcasaH iti tasmin=-tisraH darBapIQjUlIH-upada-DAti-ekAm vA
+   dhārayatu prajāpatiriti dhārayeddhārayatu prajāpatiḥ punaḥ punaḥ suvaptavā	DArayatu prajApatiH-iti DArayet-DArayatu prajApatiH punar punar su-vaptavA
+   ityūrdhvaṃ trirādarśena spṛṣṭvā yena dhāteti kṣureṇa chindyādyena dhātā	iti-UrDvam tris-AdarSena spRzwvA yena DAtA-iti kzureNa CindyAt-yena DAtA
+   bṛhaspateragneridrasya cāyuṣe 'vapat /	bRhaspateH-agneH-idrasya ca-Ayuze avapat /
+   tena ta āyuṣe vapāmi suślokyāya svastaya iti yena tatprajāpatirmarudbhyo	tena te Ayuze vapAmi suSlokyAya svastayaH iti yena tad-prajApatiH-marudByaH-
+   gṛhamedhibhyo 'vapat /	gRhameDiByaH avapat /
+   tena ta āyuṣe vapāmi suślokyāya svastaya iti yena bhūyaścarātyayaṃ jyok ca	tena te Ayuze vapAmi suSlokyAya svastayaH iti yena BUyas-cara-atyayam jyok ca
+   paśyati sūryam /	paSyati sUryam /
+   tena ta āyuṣe vapāmi suślokyāya svastya ityevaṃ paścāttathottarataḥ	tena te Ayuze vapAmi suSlokyAya svastyaH iti-evam paScAt-taTA-uttaratas-
+   pratimantraṃ keśāṃśca darbhapiñjūlīśeṣāṃścānaḍuhe gomaye 'bhūmispṛṣṭe	pratimantram keSAn=-ca darBa-piQjUlI-SezAn=-ca-anaxuhe gomaye aBUmi-spRzwe
+   nidadhyāhbrahmaṇasya purastātpaścāditarayorvarṇayoryatkkṣureṇeti nāpitāya	nidaDyAh-brahmaNasya purastAt-paScAt-itarayoH-varNayoH-yat-kkzureNa-iti na-apitAya
+   kṣuraṃ prayacchedyatkkṣureṇa mamlā vaptrā vapasi nāpitāṅgāni śuddhāni	kzuram prayacCet-yat-kkzureNa mamlA vaptrA vapasi nApita-aFgAni SudDAni
+   kurvāyurvarco mā hiṃsīrnāpiteti yathaiṣāṃ gotrakalpaḥ kulakalpo vāplute	kurvAyuH-varcaH mA hiMsIH-nApitA-iti yaTA-ezAm gotra-kalpaH kula-kalpaH vA-Aplute
+   prāyaścittīrjuhuyādāvṛtaiva striyāḥ kuryādamantraṃ samantraṃ	prAyaScittIH-juhuyAt-AvRtA-eva striyAH kuryAt-amantram sa-mantram
+   cetpaścajjuhuyādathāsya mūrdhānamārabhya japati triyāyuṣaṃ kaśyapasya	ced-paH-cat-juhuyAt-aTa-asya mUrDAnam-AraBya japati triyAyuzam kaSyapasya
+   jamadagnestriyāyuṣaṃ yaddevānāṃ triyāyuṣaṃ tatte astu triyāyuṣamiti	jamadagneH-triyAyuzam yat-devAnAm triyAyuzam tat-te astu triyAyuzam-iti
+   dhānyapalvale goṣṭhe vā keśānnikhanetkuśalīkartā pūrṇapātrāṇi	DAnya-palvale gozWe vA keSAn-niKanet-kuSalIkartA pUrNa-pAtrANi
+   haredgaurdakkṣiṇā // JaimGS_1.11 //	haret-gOH-dakkziNA // JEmGS_1.11 //
+   JaimGS 1.12:	JEmGS 1.12:
+   saptame brāhmaṇāmupanayīta pañcame brahmavarcasakāmaṃ navame	saptame brAhmaNAm-upanayIta paQcame brahmavarcasa-kAmam navame
+   tvāyuṣkāmamekādaśe kkṣatriyaṃ dvādaśe vaiśyaṃ nāti ṣoḍaśamupanayīta	tu-AyuzkAmam-ekAdaSe kkzatriyam dvAdaSe vESyam na-ati zoxaSam-upanayIta
+   prasṛṣṭavṛṣaṇo hyeṣa vṛṣalībhūto bhavatīti tata enaṃ	prasRzwa-vRzaNaH hi-eza vRzalIBUtaH Bavati-iti tatas enam
+   snātamalaṃkṛtamāktākṣaṃ kṛtanāpitakṛtyamānayanti tamahatena vāsasā	snAtam-alaMkRtam-Akta-akzam kRta-nApita-kRtyam-Anayanti tam-ahatena vAsasA
+   paridadhīta parīmaṃ someti yathāvarṇaṃ parīmaṃ somabrahmaṇā mahe śrotrāya	paridaDIta pari-imam soma-iti yaTAvarNam pari-imam soma-brahmaNA mahe SrotrAya
+   dadhmasi /	daDmasi /
+   yathemaṃ jarimāṇa yājjyok śrotre adhi jāgarājjīvāhi śarada śataṃ paśyāhi	yaTA-imam jarimANa yAjjyoS Srotre aDi jAgarAt-jIvAhi Sarada Satam paSya-ahi
+   śaradaḥ śatamiti parīmamindra brahmaṇā mahe rāṣṭrāya dadhmasi /	SaradaH Satam-iti parImam-indra brahmaNA mahe rAzwrAya daDmasi /
+   yathemaṃ jarimāṇa yājjyogrāṣṭre adhi jāgarājjīvāhi śaradaḥ śataṃ paśyāhi	yaTA-imam jarimANa yAjjyaH-grAzwre aDi jAgarAt-jIvAhi SaradaH Satam paSya-ahi
+   śaradaḥ śatamiti parīmaṃ poṣa brāhmaṇā mahe poṣāya dadhmasi /	SaradaH Satam-iti pari-imam poza brAhmaNAH mahe pozAya daDmasi /
+   yathemaṃ jarimāṇa yājjyok poṣe adhi jāgarājjīvāhi śaradaḥ śataṃ paśyāhi	yaTA-imam jarimANa yAt-jyok poze aDi jAgarAt-jIvAhi SaradaH Satam paSya-ahi
+   śaradaḥ śatamityathainaṃ paścādagneḥ prāṅbhukhamupaveśya	SaradaH Satam-iti-aTa-enam paScAt-agneH prAFBuKam-upaveSya
+   yajñopavītinamācārya ācāmayatyācāntamutthāpyottarato 'gneḥ prāco	yajQa-upavItinam-AcAryaH AcAmayati-AcAntam-utTApya-uttaratas agneH prAcaH-
+   darbhānāstīrya teṣvakṣatamaśmānamatyādhāya tatrainaṃ dakṣiṇena	darBAn-AstIrya tezu-akzatam-aSmAnam-atyADAya tatra-enam dakziNena
+   pādenāśmānam adhiṣṭhāpayedimamaśmānamārohāraśmeva tvaṃ sthiro bhava	pAdena-aSmAnam aDizWApayet-imam-aSmAnam-ArohAra-SmA-iva tvam sTiraH Bava
+   dviṣantamapabādhasva mā ca tvā dviṣato vadhīdityathainaṃ paścādagneḥ	dvizantam-apabADasva mA ca tvA dvizataH vaDIt-iti-aTa-enam paScAt-agneH
+   prāṅmukhamupaveśyottarata ācāryo 'nvārabdhe juhuyānmahāvyāhṛtibhirhutvā	prAFmuKam-upaveSya-uttaratas AcAryaH anvArabDe juhuyAt-mahAvyAhRtiBiH-hutvA
+   vedāhutibhiśca saṃpātamāsye bhūrṛcaḥ svāheti pratimantraṃ bhūrṛcaḥ svāhā	veda-AhutiBiH-ca saMpAtam-Asye BUrRcaH svAhA-iti pratimantram BUrRcaH svAhA
+   bhuvo yajūṃṣi svāhā svaḥ sāmāni svāhaṃti prāśitamācāntamutthāpya namo	BuvaH yajUMzi svAhA svaH sAmAni sva-ahaMti prASitam-AcAntam-utTApya namaH-
+   vātāyetyenaṃ pradakṣiṇamagniṃ pariṇayennamo vātāya namo astvagnaye namaḥ	vAtAya-iti-enam pradakziNam-agnim pariNayet-namaH vAtAya namaH astu-agnaye namaH
+   pṛthivyai nama oṣadhībhyo namo vo 'dṛṣṭāya bṛhate	pRTivyE namaH ozaDIByaH namaH vaH adRzwAya bRhate
+   karomītyadhigantaradhigaccha pradātaḥ prayacchāsāvamuṣmai vedamityathainaṃ	karomi-iti-aDigantar-aDigacCa pradAtaH prayacCa-asO=-amuzmE vedam-iti-aTa-enam
+   paścādagneḥ prāṅmukhamavasthāpya purastādācāryaḥ pratyaṅmukhastāvajjalī	paScAt-agneH prAFmuKam-avasTApya purastAt-AcAryaH pratyaFmuKaH-tAvat-jalI
+   kuruta uttarata ācāryastamanyo 'dbhiḥ pūrayennisrāveṇetarasya	kurute uttaratas AcArya-H-tam-anyaH adBiH pUrayet-nisrAveNa-itarasya
+   pūraṇamathainaṃ saṃśāsti brahmacaryamagāmupa mā nayasveti ko	pUraNam-aTa-enam saMSAsti brahmacaryam-agAm-upa mA nayasva-iti kaH-
+   nāmāsītyasāviti nāmadheyaṃ dadyāttatrācāryo japati hiṃ bhūrbhuvaḥ	nAma-asi-iti-asO=-iti nAmaDeyam dadyAt-tatra-AcAryaH japati him BUH-BuvaH
+   svārāgantrā samaganmahi pra su martyaṃ yuyotana /	svArAgantrA samaganmahi pra su martyam yuyotana /
+   ariṣṭāḥ saṃcaremahi svasti caratādayamityathāsya dakṣiṇena hastena	arizwAH saMcaremahi svasti caratAt-ayam-iti-aTa-asya dakziNena hastena
+   dakṣiṇaṃ hastaṃ gṛhṇātīndraste hastamagrabhīddhātā hastamagrabhītpūṣā	dakziNam hastam gRhNAti-indraH-te hastam-agraBIdDAtA hastam-agraBIt-pUzA
+   hastamagrabhītsavitā hastamagrabhīryamā hastamagrabhīnmitrastvamasi	hastam-agraBIt-savitA hastam-agra-BIryamA hastam-agraBIt-mitraH-tvam-asi
+   dharmaṇāgnirācāryasteveti prāṇānāṃ granthirasīti nābhideśamārabhya japati	DarmaNA-agniH-AcAryaH-teva-iti prANAnAm granTiH-asi-iti na-aBideSam-AraBya japati
+   prāṇānāṃ granthirasi mā visrasāmṛta mṛtyorantaraṃ kurviti	prANAnAm granTiH-asi mA visrasA-amRta mRtyoH-antaram kuru-iti
+   dakṣiṇamaṃsamanvavamṛśya mayi vrate iti hṛdayaṃ te astu mama	dakziNam-aMsam-anvavamRSya mayi vrate iti hRdayam te astu mama
+   cittamanucittaṃ te astu /	cittam-anucittam te astu /
+   mama vācamekavrato jupasva bṛhaspatistvā niyunaktu mayītyathainaṃ	mama vAcam-eka-vrataH jupasva bRhaspatiH-tvA niyunaktu mayi-iti-aTa-enam
+   paridadātyagraye tvā paridadāmi vāyave tvā paridadāmi davāya tvā savitre	paridadAti-agraye tvA paridadAmi vAyave tvA paridadAmi davAya tvA savitre
+   paridadāmyadbhyastvauṣadhībhyaḥ paridadāmi sarvebhyastvā devebhyaḥ	paridadAmi-adByaH-tu-OzaDIByaH paridadAmi sarveByaH-tvA deveByaH
+   paridadāmi sarvebhyastvā bhūtebhyaḥ paridadāmyariṣṭyā ityathainaṃ saṃśāsti	paridadAmi sarveByaH-tvA BUteByaH paridadAmi-arizwyE iti-aTa-enam saMSAsti
+   brahmacāryasi samidha ādhehyāpo 'śāna karma kuru mā divā svāpsīrityagnaye	brahmacArI-asi samiDaH ADehya-apaH aSAna karma kuru mA divA svApsIH-iti-agnaye
+   samidhamāhārṣamiti ghṛtenāktāḥ samidha ādadhātyagnaye samidhamāhārṣa	samiDam-AhArzam-iti GRtena-aktAH samiDaH AdaDAti-agnaye samiDam-AhArza
+   bṛhate jātavedase /	bRhate jAtavedase /
+   yathā tvamagne samidhā samidhyasa evamahamāyuṣā varcasā tejasā sanyā	yaTA tvam-agne samiDA samiDyasaH evam-aham-AyuzA varcasA tejasA sanyA
+   medhayā prajñayā prajayā paśubhirbrahmavarcasenānnādyena dhanena	meDayA prajQayA prajayA paSuBiH-brahmavarcasena-annAdyena Danena
+   samedhichīya svāhā //	sameDi-CIya svAhA //
+   apsarāsu yā medhā gandharveṣu ca yanmanaḥ /	apsarAsu yA meDA ganDarvezu ca yat-manaH /
+   daivī medhā manuṣyajā sā māṃ medhā surabhirjuṣatāṃ svāhā //	dEvI meDA manuzya-jA sA mAm meDA suraBiH-juzatAm svAhA //
+   bhūḥ svāhā bhuvaḥ svāhā svaḥ svāhā bhūrbhuvaḥ svaḥ svāhetīyaṃ duruktāditi	BUH svAhA BuvaH svAhA svar svAhA BUH-BuvaH svar svAhA-iti-iyam duruktAt-iti
+   mekhalāmābadhnīta iyaṃ duriktātparibādhamānā varṇaṃ pavitraṃ punatī ma	meKalAm-AbaDnIta iyam duriktAt-paribADamAnA varNam pavitram punatI ma
+   āgāt /	AgAt /
+   prāṇāpānābhyāṃ balamābharantī svasā devī subhagā mekhaleyam /	prANa-apAnAByAm balam-ABarantI svasA devI suBagA meKalA-iyam /
+   ṛtasya goptrī tapasaḥ paraspīghnatī rakṣaḥ sahamānā arātīḥ /	Rtasya goptrI tapasaH paraspIGnatI rakzaH sahamAnAH arAtIH /
+   sā mā samantādabhiryehi bhadre bhartāraste mekhale mā riṣāmeti mauñjīṃ	sA mA samantAt-aBiH-yehi Badre BartAraH-te meKale mA rizAma-iti mOQjIm
+   brāhmaṇasya maurvīṃ rājanyasya muñjamiśrāṃ tāmalīṃ vaiśyasya mauñjīṃ vā	brAhmaNasya mOrvIm rAjanyasya muQja-miSrAm tAmalIm vESyasya mOQjIm vA
+   sarveṣāmatha paridhanāni kṣaumaṃ vā śāṇaṃ vāntaraṃ	sarvezAm-aTa pariDanAni kzOmam vA SANam vA-antaram
+   brāhmaṇasyaiṇeyamuttaraṃ rauravaṃ rājanyasyājaṃ vaiśyasyaiṇeyaṃ vā	brAhmaNasya-ENa-iyam-uttaram rOravam rAjanyasya-Ajam vESyasya-eNa-iyam vA
+   sarveṣāṃ svastyayano 'sīti daṇḍaṃ prayacchetprāṇasaṃmitaṃ pālāśaṃ	sarvezAm svastyayanaH asi-iti daNxam prayacCet-prANa-saMmitam pAlASam
+   brāhmaṇasya bailvaṃ brahmavarcasakāmasya naiyagrodhaṃ rājanyasyaudumbaraṃ	brAhmaNasya bElvam brahmavarcasa-kAmasya nEyagroDam rAjanyasya-Odumbaram
+   vaiśyasya pālāśaṃ vā sarveṣāṃ mātaraṃ prathamaṃ bhikṣetāthānyāḥ suhṛdo	vESyasya pAlASam vA sarvezAm mAtaram praTamam Bikzeta-aTa-anyAH suhRdaH-
+   bhavatpūrvayā brāhmaṇo bhikṣeta bhavati bhikṣāṃ dehīti bhavanmadhyamayā	Bavat-pUrvayA brAhmaNaH Bikzeta Bavati BikzAm dehi-iti Bavat-maDyamayA
+   rājanyo bhikṣāṃ bhavati dehīti bhavadantyavaiśyo dehi bhikṣāṃ bhavatīti	rAjanyaH BikzAm Bavati dehi-iti Bavat-antya-vESyaH dehi BikzAm Bavati-iti
+   kṣāṃ ca hiṃ ca na vardhayedbhavatpūrvayā vā sarve prāyaścittaṃ	kzAm ca him ca na varDayet-Bavat-pUrvayA vA sarve prAyaScittam
+   cedutpadyeta jīvā stha jīvayata metyenamapa ācāmayejjīvā stha jīvayata	ced-utpadyeta jIvA sTa jIvayata mA-iti-enam-apaH AcAmayet-jIvA sTa jIvayata
+   māpo nāma sthāmṛtā nāma stha svadhā nāma stha tāsāṃ vo bhukṣiṣīya sumatau	mApaH nAma sTA-amRtA nAma sTa svaDA nAma sTa tAsAm vaH BukzizIya sumatO
+   mā dhatta śivā me bhavata namo vo 'stu mā mā hiṃsiṣṭeti	mA Datta SivA me Bavata namaH vaH astu mA mA hiMsizwa-iti
+   bhaikṣamupanyāhṛtamūrdhvaṃ trirātrātsāvitrīṃ prabrūyāttadaharvā	BEkzam-upanyAhRtam-UrDvam tri-rAtrAt-sAvitrIm prabrUyAt-tat-ahar-vA
+   paścādagneḥ pacchor'dharcaśaḥ sarvāmityanūcya vedamārabhyāgne vratapata	paScAt-agneH pacCoH-aDarcaSaH sarvAm-iti-anUcya vedam-AraBya-agne vratapata
+   iti ghṛtenāktāḥ samidha ādadhātyagre vratapata vrataṃ cariṣyāmi	iti GRtena-aktAH samiDaH AdaDAti-agre vratapata vratam carizyAmi
+   tacchakeyaṃ tanme rādhyatāṃ svāhā /	tat-Sakeyam tat-me rADyatAm svAhA /
+   vāyo vratapate vrataṃ cariṣyāmi tacchakeyaṃ tanme sādhyatāṃ svāhā /	vAyo vratapate vratam carizyAmi tat-Sakeyam tat-me sADya-tAm svAhA /
+   āditya vratapate vrataṃ cariṣyāmi tacchakeyaṃ tanme rādhyatāṃ svāhā /	Aditya vratapate vratam carizyAmi tat-Sakeyam tat-me rADyatAm svAhA /
+   vratānāṃ vratapate vrataṃ cariṣyāmi tacchakeyaṃ tanme rādhyatāṃ svāheti	vratAnAm vratapate vratam carizyAmi tat-Sakeyam tat-me rADyatAm svAhA-iti
+   tadetaddṛtādeśanaṃ sarvatra vratasamāptāvagre vratapate vratamacāriṣaṃ	tat-etat-dRta-AdeSanam sarvatra vrata-samAptO=-agre vratapate vratam-acArizam
+   tadaśakaṃ tanme 'rādhi svāheti mantrānsaṃnamayedathainaṃ saṃśāsti	tat-aSakam tat-me arADi svAhA-iti mantrAn-saMnamayet-aTa-enam saMSAsti
+   brahmacāryācāryādhīnaḥ praśānto 'dhaḥśāyī daṇḍamekhalājinajaṭādhārī	brahmacArI-AcArya-aDInaH praSAntaH aDas-SAyI daNxa-meKalA-ajina-jawA-DArI
+   svyanṛtamadhumāṃsagandhamālyavarjī bhaveti trirātramakṣārālavaṇāśyūrdhvaṃ	svyanRta-maDu-mAMsa-ganDa-mAlya-varjI Bava-iti tri-rAtram-akzAra-alavaNa-aSi-UrDvam
+   trirātrātprācīṃ vodīcīṃ vā diśamupaniṣkramya palāśaṃ gatvā	tri-rAtrAt-prAcIm vA-udIcIm vA diSam-upanizkramya palASam gatvA
+   vyāhṛtibhirabhyajya sthālīpākeneṣṭvā yajñopavītaṃ daṇḍamityudasya	vyAhRtiBiH-aByajya sTAlIpAkena-izwvA yajQopavItam daNxam-iti-udasya
+   pratyeyādgaurdakṣiṇā // JaimGS_1.12 //	pratyeyAt-gOH-dakziNAH // JEmGS_1.12 //
+   JaimGS 1.13:	JEmGS 1.13:
+   sāyaṃprātarudakānte pūto bhūtvā sapavitro	sAyaMprAtar-udaka-ante pUtaH BUtvA sa-pavitraH-
+   'jadbhirmārjayetāpohiṣṭhīyābhistisṛbhistaratsa mandī dhāvatīti	ajadBiH-mArjayeta-apohizWIyABiH-tisRBiH-tarat-sa mandI DAvati-iti
+   catasṛbhirvāmadevyamante śucau deśe darbheṣvāsīno darbhāndhārayamāṇaḥ	catasRBiH-vAmadevyam-ante SucO deSe darBezu-AsInaH darBa-anDArayamANaH
+   pratyaṅmukho vāgyataḥ sandhyāṃ manasā dhyāyedā nakṣatrāṇāmudayāduditeṣu	pratyaFmuKaH vAgyataH sanDyAm manasA DyAyedAH nakzatrANAm-udayAt-uditezu
+   nakṣatreṣu trīnprāṇāyāmāndhārayitvā sāvitrīṃ sahasrakṛtva	nakzatrezu trIn-prANAyAmAn-DArayitvA sAvitrIm sahasra-kRtvas-
+   āvartayecchatakṛtvo vā daśāvaramathāgnimupatiṣṭhate 'gne tvaṃ no antama	Avartayet-Sata-kRtvas vA daSa-avaram-aTa-agnim-upatizWate agne tvam naH antama
+   ityatha varuṇamupatiṣṭhate tvaṃ varuṇa uta mitra ityetayaivāvṛtā prātaḥ	iti-aTa varuNam-upatizWate tvam varuNaH uta mitraH iti-etayA-eva-AvRtA prAtar-
+   prāṅmukhastiṣṭhannathādityamupatiṣṭhata udvayaṃ tamasasparītyatha	prAFmuKaH-tizWan=-aTa-Adityam-upatizWate udvayam tamasasparI-iti-aTa
+   mitramupatiṣṭhate pra mitrāya prāryamṇa iti sa yadi sūryābhyuditaḥ	mitram-upatizWate pra mitrAya prAryamNaH iti sa yadi sUrya-aByuditaH
+   sūryābhinimukto vā taccheṣaṃ sāvitrīṃ manasā dhyāyetsaiva tatra	sUrya-aBinimuktaH vA tad-Sezam sAvitrIm manasA DyAyet-sA-eva tatra
+   prāyaścittiḥ // JaimGS_1.13 //	prAyaScittiH // JEmGS_1.13 //
+   JaimGS 1.14:	JEmGS 1.14:
+   śravaṇyāmupākaraṇaṃ prauṣṭhapadyāṃ vā hastena trīnprāṇāyāmānāyamyacamya	SravaNyAm-upAkaraNam prOzWapadyAm vA hastena trIn-prANAyAmAnAyamya-camya
+   sarve purastājjapaṃ japanti saha no 'stu saha no bhunaktu saha no	sarve purastAt-japam japanti saha naH astu saha naH Bunaktu saha no
+   vīryavadastu mā vidviṣāmahe sarveṣāṃ no vīryavadastviti tebhyaḥ sāvitrīṃ	vIrya-vat-astu mA vidvizAmahe sarvezAm naH vIrya-vat-astu-iti teByaH sAvitrIm
+   prabrayādyathopanayane manasā sāmasāvitrīṃ ca somaṃ	prabrayAt-yaTA-upanayane manasA sAmasAvitrIm ca somam
+   rājānamityāditaśchandāṃsyadhītya yathārthamakṣatadhānānaṃ dadhraśca	rAjAnam-iti-Aditas-CandAMsi-aDItya yaTArTam-akzata-DAnAnam daDraH-ca
+   navāhutir juhotyaṣīnvāṃśchandāṃsyṛco yajūṃṣi sāmanyṛjaṃ sāma yajāmahe	nava-AhutiH juhoti-azInvAn=-CandAMsi-RcaH yajUMzi sAmanyRjam sAma yajAmahe
+   sadasaspatimadbhutaṃ medhākāramityetāsāmeva pūrvābhi ṣaḍbhiḥ pūrvaṃ	sadasaspatim-adButam meDA-AkAram-iti-etAsAm-eva pUrva-aBi zaxBiH pUrvam
+   tarpayedācāryamācāryāṃśtaca jaiminiṃ talavakāraṃ sātyamugraṃ rāṇāyaniṃ	tarpayet-AcAryam-AcAryAMSta-ca jEminim talavakAram sAtyam-ugram rANAyanim
+   durvāsasaṃ ca bhāguriṃ gauruṇiḍaṃ gaurgulaviṃ bhagavantamaupamanyavaṃ	durvAsasam ca BAgurim gOruNixam gOH-gulavim Bagavantam-Opamanyavam
+   kāraḍiṃ sāvarṇiṃ gārgya vārṣagaṇyaṃ daivantyamityetāṃstrayodaśa	kAraxim sAvarNim gArgya vArzagaNyam dEvantyam-iti-etAn=-trayodaSa
+   dhānāvantaṃ dadhikrāvṇa ityetābhyāmabhimantrya haviḥśeṣaṃ prāśya prāhne	DAnAvantam daDi-krAvNaH iti-etAByAm-aBimantrya haviH-Sezam prASya prAhne
+   pradhīyata āgneye samāpte 'ja aindre meṣo gauḥ pāvamāne parvadakṣiṇā	praDIyate Agneye samApte aje Endre mezaH gOH pAvamAne parva-dakziNA
+   sabrahmacāriṇaścopasametānbhojayetsāvitramahaḥ kāṅkṣanta utsarge ca	sabrahmacAriNaH-ca-upasametAn-Bojayet-sAvitram-ahar kAFkzante utsarge ca
+   pakṣiṇīṃ rātriṃ na māṃsamaśnīyānna śrāddhaṃ na lomāni saṃhārayenna	pakziNIm rAtrim na mAMsam-aSnIyAt-na SrAdDam na lomAni saMhArayet-na
+   striyamupeyādṛtau jāyāmupeyādvarṣāśaradikametahratamardhamāsamityeke //	striyam-upeyAt-RtO jAyAm-upeyAt-varzA-Saradikam-eta-hratam-arDa-mAsam-iti-eke //
+   JaimGS_1.14 //	JEmGS_1.14 //
+   JaimGS 1.15:	JEmGS 1.15:
+   taiṣīmutsargo vedeṣu yathāsvaṃ viśramantāṃ chandāṃsi caturattarāṇi śivena	tEzIm-utsargaH vedezu yaTAsvam viSramantAm CandAMsi caturattarANi Sivena
+   no dhyāyantvityutsṛjyādhyāyanadhyāsau vratāni cānupālayanto yathāsvaṃ	naH DyAyantu-iti-utsRjya-aDyAyana-DyAsO vratAni ca-anupAlayantaH yaTAsvam
+   vedamadhīyīrannata ūrdhvamabhreṣu nādhīyate // JaimGS_1.15 //	vedam-aDIyIH-annataH UrDvam-aBrezu na-aDIyate // JEmGS_1.15 //
+   JaimGS 1.16:	JEmGS 1.16:
+   gaudānikavrātikaupaniṣadāḥ saṃvatsarāsteṣu sāyaṃprātarudakopasparśanaṃ	gOdAnika-vrAtika-OpanizadAH saMvatsarAH-tezu sAyaMprAtar-udaka-upasparSanam
+   nānupaspṛśya bhojanaṃ prātaḥ sāyamupaspṛśyā	na-anupaspRSya Bojanam prAtar sAyam-upaspRSyA
+   samidādhānādaraṇyātsamidhamāhṛtyādadhyādādityavrātikaḥ saṃvatsara ekavāsā	samiD-ADAnAt-araNyAt-samiDam-AhRtyAt-aDyAda-Aditya-vrAtikaH saMvatsaraH eka-vAsA
+   na yuktamārohedādityaṃ nāntardadhīta chatreṇa	na yuktam-Arohet-Adityam na-antar-daDIta CatreNa
+   mahīmāsanaśayānābhyāmupānadbhyāṃ ca nordhvaṃ jānvorapaḥ	mahIm-Asana-SayAnAByAm-upAnadByAm ca na-UrDvam jAnvoH-apaH
+   prasnāyādanyatrācāryavacanāhrātike vrataparvādityavrātike	prasnAyAt-anyatra-AcArya-vacana-AhrAtike vrata-parva-Aditya-vrAtike
+   śukriyāṇyaupaniṣada upaniṣadaṃ śrāvayet // JaimGS_1.16 //	SukriyANi-OpanizadaH upanizadam SrAvayet // JEmGS_1.16 //
+   JaimGS 1.17:	JEmGS 1.17:
+   dvādaśa mahānāmnikāḥ saṃvatsarā nava ṣaṭ traya iti vikalpāḥ	dvAdaSa mahAnAmnikAH saMvatsarAH nava zaw trayaH iti vikalpAH
+   saṃvatsaramityeke pitrā cecchrutā mahānāmnyaḥ saṃvatsaraṃ brahmacaryaṃ	saMvatsaram-iti-eke pitrA ced-SrutAH mahAnAmnyaH saMvatsaram brahmacaryam
+   carecchuklaikavāsā vrataṃ tu bhūyastiṣṭheddivāthāsīta naktaṃ tasya kṛṣṇe	caret-Sukla-eka-vAsAH vratam tu BUyas-tizWet-divATa-AsIta naktam tasya kRzNe
+   bhojanācchādane bhavata ityeke śuklaṃ caiva paridadhyādrāgadoṣānna kṛṣṇaṃ	Bojana-AcCAdane BavataH iti-eke Suklam ca-eva paridaDyAt-rAga-dozAt-na kRzNam
+   sarvāsvapsūpaspṛśedabuktāḥ śakvarya iti nāvā na prasnāyātprāṇasaṃśaye	sarvAsu-apsu-upaspRSet-abuktAH SakvaryaH iti nAvA na prasnAyAt-prANa-saMSaye
+   tūpaspṛśedubhayata api vā gāḥ pāyayetpaśuktāḥ śakvarya iti varṣaṃ	tu-upaspRSet-uBayatas api vA gAH pAyayet-paSuktAH SakvaryaH iti varzam
+   nāntardadhīta chatreṇa prati varṣaṃ niṣkrāmedevamasya carataḥ kāmavarṣī	na-antar-daDIta CatreNa prati varzam nizkrAmet-evam-asya carataH kAma-varzI
+   parjanyo bhavati brahmacaryānta ekarātramupoṣita araṇyaṃ gatvā	parjanyaH Bavati brahmacarya-ante eka-rAtram-upozita araNyam gatvA
+   śaivalamiśrāṇāmapāṃ kāṃsaṃ pūrayitvā tamupaveśya samanuparigṛhya nimīlitaṃ	SEvala-miSrANAm-apAm kAMsam pUrayitvA tam-upaveSya samanuparigRhya nimIlitam
+   tisra stotriyā upagāyetsapurīṣā upotthāyācāryo 'hatena vāsasā mukhamasya	tisra stotriyAH upagAyet-sa-purIzAH upotTAya-AcAryaH ahatena vAsasA muKam-asya
+   pariṇahyetpradakṣiṇamudapātraṃ dhārayaṃstiṣṭhedahaḥśeṣaṃ rātrimāsīta	pariNahyet-pradakziNam-uda-pAtram DArayan=-tizWet-ahar-Sezam rAtrim-AsIta
+   vāgyataḥ śvo bhate 'raṇyaṃ gatvāgnimupasamādhāya vatsamupānvānīye vāsa	vAgyataH Svas Bate araNyam gatvA-agnim-upasamADAya vatsam-upAnvAnIye vAsa
+   udveṣṭayedudyamya kāṃsamapo 'bhivīkṣa iti vīkṣetsvarabhivīkṣa ityādityaṃ	udvezwayet-udyamya kAMsam-apaH aBivIkzaH iti vIkzet-svar-aBivIkzaH iti-Adityam
+   jyotirabhivīkṣa ityagniṃ paśumabhivīkṣa iti vatsaṃ samanyā yantītyapaḥ	jyotiH-aBivIkzaH iti-agnim paSum-aBivIkzaH iti vatsam samanyAH yanti-iti-apaH
+   prasicya vāsaḥ kāṃsaṃ vatsamityacāryāyopaharetsthālīpākādviśvāmitrendrau	prasicya vAsaH kAMsam vatsam-iti-acAryAya-upaharet-sTAlI-pAkAt-viSvAmitra-indrO
+   mahānāmnīśca yajata ityācāryaṃ sapariṣaṭkaṃ bhojayedgaurdakṣiṇā //	mahAnAmnIH-ca yajate iti-AcAryam sa-parizawkam Bojayet-gOH-dakziNAH //
+   JaimGS_1.17 //	JEmGS_1.17 //
+   JaimGS 1.18:	JEmGS 1.18:
+   dvādaśa varṣāṇi vedabrahmacaryaṃ jananātprabhṛtītyeke yāvadadhyayanaṃ vā	dvAdaSa varzANi veda-brahmacaryam jananAt-praBRti-iti-eke yAvat-aDyayanam vA
+   sadā sāye samidādhānaṃ sāyaṃprātarbhaikṣacaraṇaṃ dve trivṛtī	sadA sAye samiD-ADAnam sAyaMprAtar-BEkza-caraNam dve trivRtI
+   varjayetrivṛtaṃ ca maṇiṃ triguṇe copānahau ṣoḍaśe godānakaraṇaṃ	varjayetrivRtam ca maNim triguNe ca-upAnahO zoxaSe go-dAna-karaNam
+   tatkeśāntakaraṇamityācakṣate cauḍakaraṇena mantrā vyākhyātā upanayanena	tad-keSa-anta-karaNam-iti-Acakzate ca-oxa-karaNena mantrAH vyAKyAtAH upanayanena
+   vratādeśanaṃ na tviha niyuktamahataṃ vāsaḥ sarvāṇi lomanakhāni	vrata-AdeSanam na tu-iha niyuktam-ahatam vAsaH sarvANi loma-naKAni
+   vāpayecchikhāvarjamityaudgāhamaniruptakeśaḥ snāyādvanaspateriti	vApayet-SiKA-varjamiti-Odga-aham-anirupta-keSaH snAyAt-vanaspateH-iti
+   vanaspatīnāṃ snānīyena tvacamunmṛdgīte vanaspatestvagasi śodhani śodhaya	vanaspatInAm snAnIyena tvacam-ut-mRd-gIte vanaspateH-tu-ac-asi SoDani SoDaya
+   mā tāṃ tvābhiharaṃ dīrghāyuṣṭvā varcasa iti vanaspatīnāṃ gandho 'sīti	mA tAm tvA-aBiharam dIrGa-AyuzwvA varcasaH iti vanaspatInAm ganDaH asi-iti
+   snātvānulepanena kurute vanaspatīnāṃ gandho 'si puṇyagandha puṇyaṃ me	snAtvA-anulepanena kurute vanaspatInAm ganDaH asi puNya-ganDa puNyam me
+   gandhaṃ kuru devamanuṣyeṣu taṃ tvābhihare dīrghāyuṣṭvāya varcasa iti	ganDam kuru deva-manuzyezu tam tvA-aBihare dIrGa-AyuzwvAya varcasaH iti
+   vanaspatīnāṃ puṣpamasīti srajamābadhnīte vanaspatīnāṃ puṣpamasi	vanaspatInAm puzpam-asi-iti srajam-AbaDnIte vanaspatInAm puzpam-asi
+   puṇyagandha puṇyaṃ me gandhaṃ kuru devamanuṣyeṣu taṃ tvābhihare	puNya-ganDa puNyam me ganDam kuru deva-manuzyezu tam tvA-aBihare
+   dīrghāyuṣṭvāya varcasa ityādarśo 'sītyādarśa ātmānaṃ vīkṣetādarśo 'syā mā	dIrGa-AyuzwvAya varcasaH iti-AdarSaH asi-iti-AdarSe AtmAnam vIkzeta-AdarSaH asyAH mA
+   dṛśyāsandevamanuṣyā ubhaye śobho 'si śobhāsamahaṃ devamanuṣyeṣu roco 'si	dRSya-Asandeva-manuzyAH uBaye SoBaH asi SoBA-samaham deva-manuzyezu rocaH asi
+   rocāsamahaṃ devamanuṣyeṣvityapoddhṛtya srajamādeśayetoktā dharmāḥ	rocAsam-aham deva-manuzyezu-iti-apodDRtya srajam-AdeSayeta-uktAH DarmAH
+   saṃvatsareṣu gaurdakṣiṇā // JaimGS_1.18 //	saMvatsarezu gOH-dakziNAH // JEmGS_1.18 //
+   JaimGS 1.19:	JEmGS 1.19:
+   vedamadhītya vratāni caritvā brāhmaṇaḥ snāsyansaṃbhārānupakalpayate 'hataṃ	vedam-aDItya vratAni caritvA brAhmaNaH snAsyan-saMBArAn-upakalpayate ahatam
+   vāsa erakāṃ snānamanulepanaṃ sumanasa āñjanamādarśamahate vāsasī trivṛtaṃ	vAsaH erakAm snAnam-anulepanam sumanasaH AQjanam-AdarSam-ahate vAsasI trivRtam
+   maṇiṃ vaiṇavaṃ daṇḍaṃ śukle upānahau nāpita upakḷpta uttarata	maNim vENavam daNxam Sukle upAnahO nApitaH upak?ptaH uttarata
+   upatiṣṭhatyerakāmāstīryāhatena vāsasodagdaśena pracchādya tatrainaṃ	upatizWati-erakAmAH-tIrya-Ahatena vAsasA-udagdaSena pracCAdya tatra-enam
+   prāṅmukhamupaveśya daṇḍamapsu ṣādayeddaviṣatāṃ vajro 'sīti mekhalāṃ	prAFmuKam-upaveSya daNxam-apsu zAdayet-davizatAm vajraH asi-iti meKalAm
+   visraṃsayeduduttamamiti tāṃ caivāpsu ṣādayetkeśāntakaraṇena mantrā	visraMsayet-uduttamam-iti tAm ca-eva-apsu zAdayet-keSa-anta-karaNena mantrA
+   vyākhyātāḥ parivāpanaṃ ca śiro 'gre vapate tataḥ śmaśrūṇi tata	vyAKyAtAH parivApanam ca SiraH agre vapate tatas SmaSrUNi tata
+   itarāṇyaṅgānyānupūrveṇa keśaśmaśrulomanakhānyaśvanthasya mūle	itarANi-aFgAni-AnupUrveNa keSa-SmaSru-loma-naKAni-aSvanTasya mUle
+   nikhanedudumbarasya vāpahato me pāpmeti	niKanet-udumbarasya vA-apahataH me pApmA-iti
+   śītoṣṇābhiradbhirhiraṇyāntarhitābhirenaṃ srāpayecchivā naḥ śaṃtamā bhava	SIta-uzNABiH-adBiH-hiraNya-antarhitABiH-enam srApayet-SivA naH SaMtamA Bava
+   sumaḍīkā sarasvati mā te vyoma saṃdṛśīti rohiṇyāṃ srāyātprajāpatervā	sumaxIkA sarasvati mA te vyoma saMdRSI-iti rohiNyAm srAyAt-prajApateH-vA
+   etannakṣatraṃ prajāvānbhūyāsamiti mṛgaśirasi srāyātsomasya vā	etat-nakzatram prajAvAn-BUyAsam-iti mRgaSirasi srAyAt-somasya vA
+   etannakṣatraṃ somejyā mopanamediti tiṣye srāyābṛhaspatervā etannakṣatraṃ	etat-nakzatram soma-ijyA mA-upanamet-iti tizye srAyA-bRhaspateH-vA etat-nakzatram
+   brahma bṛhaspatirbrahmavarcasī bhūyāsamiti haste snāyātsaviturvā	brahma bRhaspatiH-brahmavarcasI BUyAsam-iti haste snAyAt-savituH-vA
+   etannakṣatraṃ savitṛprasūto bhūyāsamityanūrādhāsu snāyānmitrasya vā	etat-nakzatram savitR-prasUtaH BUyAsam-iti-anUrADAsu snAyAt-mitrasya vA
+   etannakṣatraṃ mitrāṇāṃ priyo bhūyāsamiti śravaṇe snāyādviṣṇorvā	etat-nakzatram mitrANAm priyaH BUyAsam-iti SravaNe snAyAt-vizNoH-vA
+   etannakṣatraṃ yajño vai viṣṇuryajño mopanamediti tamahatena vāsasā	etat-nakzatram yajQaH vE vizNuH-yajQaH mA-upanamet-iti tam-ahatena vAsasA
+   paridadhīta parīmaṃ someti savyamagre 'kṣyañjīta yaśasā metyatha dakṣiṇaṃ	paridaDIta pari-imam soma-iti savyam-agre akzyaQjIta yaSasA mA-iti-aTa dakziNam
+   trivṛtaṃ maṇiṃ kaṇṭhe pratimuñcate pālāśaṃ svastyayanakāmaḥ svastyayano	trivRtam maNim kaNWe pratimuQcate pAlASam svastyayana-kAmaH svastyayanaH-
+   'sīti bailvaṃ brahvavarcasakāmo brahmavarcasī	asi-iti bElvam brahvavarcasa-kAmaH brahmavarcasI
+   bhūyāsamityarkhamannādyakāmor'kavānannādo bhūyāsamiti gandharvo 'si	BUyAsam-iti-arKam-annAdya-kAmor-akavAn-anna-AdaH BUyAsam-iti ganDarvaH asi
+   viśvāvasuḥ sa mā pāhi sa mā gopāyeti vaiṇavaṃ daṇḍamupādatta	viSvAvasuH sa mA pAhi sa mA gopAya-iti vENavam daNxam-upAdatta
+   upānahāvādadhīta netre stho nayataṃ māmiti dakṣiṇamagre pratimuñcate tasya	upAnahAvAt-aDIta netre sTaH nayatam mAm-iti dakziNam-agre pratimuQcate tasya
+   vratāni bhavanti nājātalomnyopahāsamicchedvarṣati na dhāvennopānahau	vratAni Bavanti na-ajAtalomnya-upahAsam-icCet-varzati na DAvet-na-upAnahO
+   svayaṃ harenna phalāni svayaṃ pracinvīta na pratisāyaṃ grāmāntaraṃ	svayam haret-na PalAni svayam pracinvIta na pratisAyam grAma-antaram
+   vrajennaiko na vṛṣalaiḥ saha nodapānamavekṣenna vṛkṣamārohenna	vrajet-na-ekaH na vRzalEH saha na-udapAnam-avekzet-na vRkzam-Arohet-na
+   saṃkramamārohennānantardhāyāsīta nāparayā dvārā prapannamannamaśnīyānna	saMkramam-Arohet-na-anantarDAya-AsIta na-aparayA dvArA prapannam-annam-aSnIyAt-na
+   śuktaṃ na dviḥpakvaṃ na paryuṣitamanyatra	Suktam na dvis-pakvam na paryuzitam-anyatra
+   śākamāṃsayavapiṣṭānnapṛthukaphāṇitadadhimadhughṛtebhyo nānarmaṇi hasenna	SAka-mAMsa-yava-pizwa-anna-pRTuka-PANi-ta-daDi-maDu-GRteByaH na-anarmaNi haset-na
+   nagraḥ snāyācchukrā vāco na bhāṣeta janavādaṃ kalahāṃśca varjayettryaḥ	nagraH snAyAt-SukrAH vAcaH na BAzeta janavAdam kalahAn=-ca varjayet-tryaH
+   snātakā bhavantīti ha smāhāruṇirgautamo vidyāsnātako vratasnātako	snAtakAH Bavanti-iti ha sma-Aha-aruNiH-gOtamaH vidyA-snAtakaH vrata-snAtakaH-
+   vidyāvratasnātaka iti teṣāmuttamaḥ śreṣṭhastulyau pūrvau snātvācāryaṃ	vidyA-vrata-snAtakaH iti tezAm-uttamaH SrezWaH-tulyO pUrvO snAtvA-AcAryam
+   brūyānmadhuparkaṃ me bhavānānayatvityācāryakalpo vā tasmai	brUyAt-maDuparkam me BavAn-Anayatu-iti-AcArya-kalpaH vA tasmE
+   prāṅmukhāyāsīnāya	prAFmuKAya-AsInAya
+   madhuparkamāharedviṣṭarapādyārdhyācamanīyānyekaikamanupūrveṇa	maDuparkam-Aharet-vizwara-pAdya-ArDya-AcamanIyAni-ekEkam-anupUrveNa
+   viṣṭaramadhyāste pādyena pādau prakṣālayate mayi śrīḥ śrayatāmiti savyaṃ	vizwaram-aDyAste pAdyena pAdO prakzAlayate mayi SrIH SrayatAm-iti savyam
+   pādamagre śūdrā cenmayi padyāvirāḍityatha dakṣiṇaṃ mayi varca ityardhyaṃ	pAdam-agre SUdrA ced-mayi padyA-virAj-iti-aTa dakziNam mayi varcaH iti-arDyam
+   pratigṛhṇīyādācamanīyābhirācāmet pātracamasaṃ	pratigRhNIyAt-AcamanIyABiH-AcAmet pAtra-camasam
+   viṣṭaropahitamadhastādviṣṭarau saṃhitāgrau bhavata ekaviṣṭara	vizwara-upahitam-aDastAt-vizwarO saMhita-agrO BavataH eka-vizwara
+   uttaratastayormadhye dadhi madhu saṃnihite bhavato dadhnā ceddadhimantho	uttaratas-tayoH-maDye daDi maDu saMnihite BavataH daDnA ced-daDi-manTaH-
+   'dbhiścedidamanthaḥ payasā cetpayasyastaṃ pratigṛhṇīyāddevasya tveti taṃ	adBiH-ced-idamanTaH payasA ced-payasyaH-tam pratigRhNIyAt-devasya tvA-iti tam
+   pratigṛhya bhūmau pratiṣṭhāpyāvadhṛṣyāṅguṣṭhenopakaniṣṭhakayā ca mahyaṃ	pratigRhya BUmO pratizWApya-avaDRzya-aFguzWena-upakanizWakayA ca mahyam
+   tvā yaśase śriyai'nnādyāpya brahmavarcasāyeti triḥ	tvA yaSase SriyE-annAdyApya brahmavarcasAya-iti tris-
+   prāśnīyāccheṣamuttarataḥ pratigṛhya brāhmaṇāya dadyādabhyukṣya vā	prASnIyAt-Sezam-uttaratas pratigRhya brAhmaNAya dadyAt-aByukzya vA
+   brāhmaṇāya garte vā nikhanetparaḥ svadhitipāṇirgāṃ dṛṣṭvāha gaurgauriti	brAhmaNAya garte vA niKanet-paraH svaDiti-pANiH-gAm dRzwvA-Aha gOH-gOH-iti
+   tāmabhimantrayate gaurdhenurityomutsṛjateti brūyātkartavyā cetkuruteti	tAm-aBimantrayate gOrDenuH-iti-om-utsRjata-iti brUyAt-kartavyA ced-kuruta-iti
+   brūyādgordhanurhavyā /	brUyAt-goH-DanuH-havyA /
+   mātā rudrāṇāṃ duhitā vasūnāṃ svasādityānāmamṛtasya nābhiḥ /	mAtA rudrANAm duhitA vasUnAm svasA-AdityAnAm-amRtasya nABiH /
+   pra nu vocaṃ cikituṣe janāya mā gāmanāgāmaditiṃ vadhiṣṭa pibatūdakaṃ	pra nu vocam cikituze janAya mA gAm-anAgAma-ditim vaDizwa pibatu-udakam
+   tṛṇānyattvityatha ṣaḍardhyārhā bhavantyṛtvigācāryaḥ snātako rājābhiṣiktaḥ	tRNa-anyat-tu-iti-aTa zaz-arDyA-arhAH Bavanti-Rtvij-AcAryaH snAtakaH rAjA-aBiziktaH
+   priyaḥ sakhā śrotriyaśceti tebhya ātithyaṃ gāṃ kuryāttāmatithaya iti	priyaH saKA SrotriyaH-ca-iti teByaH AtiTyam gAm kuryAt-tAm-atiTayaH iti
+   prokṣet // JaimGS_1.19 //	prokzet // JEmGS_1.19 //
+   JaimGS 1.20:	JEmGS 1.20:
+   snātvā mātāpitarau paricarettadadhīnaḥ syāttābhyāmanujñāto jāyāṃ	snAtvA mAtA-pitarO paricaret-tat-aDInaH syAt-tAByAm-anujQAtaH jAyAm
+   vindetānagnikāṃ samānajātīyāmasagotrāṃ māturasapiṇḍāṃ jyāyasaḥ kanīyasīṃ	vindeta-anagnikAm samAna-jAtIyAm-a-sagotrAm mAtuH-asapiNxAm jyAyasaH kanIyasIm
+   dūtamanumantrayate 'nṛkṣarā ṛjavaḥ santu panthā ebhiḥ sakhāyo yanti no	dUtam-anumantrayate anRkzarAH RjavaH santu panTAH eBiH saKAyaH yanti na-u
+   vareyam /	vareyam /
+   samaryamā saṃ bhago no 'nunīyātsaṃ jāspatyaṃ suyamamastu devā iti	samaryamA sam BagaH naH anunIyAt-sam jAspatyam suyamam-astu devAH iti
+   pāṇigrahaṇe 'gnimāhriyamāṇamanumantrayate 'gniraitu prathamo devatānāṃ so	pANigrahaNe agnim-AhriyamANam-anumantrayate agniH-Etu praTamaH devatAnAm saH-
+   'syai prajāṃ muñcatu mṛtyupāśāt /	asyE prajAm muQcatu mRtyu-pASAt /
+   tadayaṃ rājā varuṇo 'numanyatāṃ yatheyaṃ strī pautramaghaṃ na rodāditi	tat-ayam rAjA varuNaH anumanyatAm yaTA-iyam strI pOtram-aGam na rodAt-iti
+   prajvalitamupatiṣṭhata imāmagnistrāyatāṃ gārhapatyaḥ prajāmasyai nayatu	prajvalitam-upatizWate imAm-agniH-trAyatAm gArhapatyaH prajAm-asyE nayatu
+   dīrghamāyuḥ /	dIrGam-AyuH /
+   aśūnyopasthā jīvatāmastu mātā pautramānandamabhi prabudhyatāmiyamiti	aSUnya-upasTA jIvatAm-astu mAtA pOtram-Anandam-aBi prabuDyatAm-iyam-iti
+   purastādagrerbrāhmaṇo vāgyataḥ pratyaṅmukha udakumbhaṃ	purastAt-agreH-brAhmaNaH vAgyataH pratyaFmuKaH uda-kumBam
+   dhārayaṃstiṣṭheddakṣiṇato 'gneḥ śamīpalāśamiśrānlājāñchūrpe mātā	DArayan=-tizWet-dakziNatas agneH SamI-palASa-miSrAn-lAjAn-SUrpe mAtA
+   dhārayenmāturabhāve tanmātrī pratyagagnererakāṃ tejanīṃ	DArayet-mAtuH-aBAve tanmAtrI pratyak-agneH-erakAm tejanIm
+   vānyadvaivaṃjātīyaṃ saṃveṣṭya nidadhyādyathā prasāryamāṇaṃ paścārdhaṃ	vA-anyat-vEvaMjAtIyam saMvezwya nidaDyAt-yaTA prasAryamANam paSca-arDam
+   barhiṣaḥ prāpnotyathāsyai vāsasī prokṣyānumanvya dadāti yā	barhizaH prApnoti-aTa-asyE vAsasI prokzya-anumanvyaH dadAti yA
+   akṛntannavayanyā atanvata yāśca devīrantāmabhito 'dadanta /	akRntat-navayanyAH atanvata yAH-ca devIrantAm-aBitas adadanta /
+   tāstvā devīrjarasā saṃvyayantvāyuṣmatīdaṃ paridhatsva vāsa iti tāṃ	tAH-tvA devIH-jarasA saMvyayantu-Ayuzmati-idam pariDatsva vAsaH iti tAm
+   brūyādimāmerakāṃ dakṣiṇena pādenābhijahīti pra me patiyānaḥ panthāḥ	brUyAdimAm-erakAm dakziNena pAdena-aBijahi-iti pra me pati-yAnaH panTAH
+   kalpatāmityajapatyāṃ svayaṃ japetprāsyā iti dakṣiṇata erakāyāṃ	kalpatAm-iti-ajapatyAm svayam japet-prAsyAH iti dakziNatas erakAyAm
+   bhāryāmupaveśyottarataḥ patirubhāvanvārabheyātāṃ	BAryAm-upaveSya-uttaratas patiH-uBO=-anvAra-BeyAtAm
+   svayamuccairjuhuyāñjāyāyāmanvārabdhāyāṃ mahāvyāhṛtibhirhutvā yā tiraścīti	svayam-uccEs-juhuyAn-jAyAyAm-anvArabDAyAm mahAvyAhRtiBiH-hutvA yA tiraScI-iti
+   saptabhirjuhoti saṃpātaṃ prathamayā mūrdhanyāsiñcedyā tiraścī nipadyase	saptaBiH-juhoti saMpAtam praTamayA mUrDani-AsiQcedyA tiraScI nipadyase
+   'haṃ vidharaṇī iti /	aham viDaraNI iti /
+   tāṃ tvā dhṛtasya dhārayā saṃrādhā rādhayāmasi saṃrādhāyai svāhā //	tAm tvA DRtasya DArayA saMrADAH rADayAmasi saMrADAyE svAhA //
+   mā te gṛhe niśi ghoṣa utthādanyatra tvadrudatyaḥ saṃviśantu /	mA te gRhe niSi GozaH utTAt-anyatra tvad-rudatyaH saMviSantu /
+   mā tvaṃ vikeśyura āvadhiṣṭhā jīvapatnī patiloke virāja prajāṃ paśyantī	mA tvam vikeSI-uraH AvaDizWA jIva-patnI pati-loke virAja prajAm paSyantI
+   sumanasyamānā svāhā /	sumanasyamAnA svAhA /
+   anvadya no 'numatiryajñaṃ deveṣu manyatām /	anu-adya naH anumatiH-yajQam devezu manyatAm /
+   agniśca havyavāhanastatkarotu samṛdhyatāṃ svāhā //	agniH-ca havyavAhanaH-tat-karotu samRDyatAm svAhA //
+   dyauste pṛṣṭhaṃ rakṣatu vāyurūrū aśvinau ca stanaṃ dhayataste	dyOH-te pRzWam rakzatu vAyuH-UrU aSvinO ca stanam DayataH-te
+   putrānsavitābhirakṣantu /	putrAn-savitA-aBirakzantu /
+   ā vāsasaḥ paridhānādbṛhaspatirviśve devā abhirakṣantu paścātsvāhā //	A vAsasaH pariDAnAt-bRhaspatiH-viSve devAH aBirakzantu paScAt-svAhA //
+   aprajastāṃ pautramṛtyuṃ pāpmānamuta vādham /	aprajastAm pOtra-mRtyum pApmAnam-uta vADam /
+   śīrṣṇaḥ srajamivonmucya dviṣadbhya pratimuñcāmi pāśaṃ svāhā //	SIrzNaH srajam-iva-unmucya dvizadByaH pratimuQcAmi pASam svAhA //
+   yāni kāni ca pāpāni sarvāṅgeṣu tavābhavan /	yAni kAni ca pApAni sarva-aFgezu tava-aBavan /
+   pūrṇāhutibhirājyasya sarvāṇi tānyaśīśamaṃ svāhā //	pUrNAhutiBiH-Ajyasya sarvANi tAni-aSISamam svAhA //
+   prajāpata ityekā // JaimGS_1.20 //	prajApate iti-ekA // JEmGS_1.20 //
+   JaimGS 1.21:	JEmGS 1.21:
+   athāsyā dakṣiṇena pāṇinā dakṣiṇaṃ pāṇiṃ gṛhṇāti prahastaṃ puṃsa aṅgulī	aTa-asyAH dakziNena pANinA dakziNam pANim gRhNAti prahastam puMsa aFgulI
+   striyaḥ sāṅguṣṭhaṃ mithunakāmo gṛhṇāmi te saubhagatvāya hastaṃ mayā patyā	striyaH sa-aFguzWam miTuna-kAmaH gRhNAmi te sOBaga-tvAya hastam mayA patyA
+   jaradaṣṭiryathāsat /	jara-dazwiH-yaTA-asat /
+   bhago 'yemā savitā purandhirmahyaṃ tvādurgārhapatyāya devāḥ //	BagaH ayemA savitA puranDiH-mahyam tvA-durgArha-patyAya devAH //
+   somo 'dadadgandharvāya gandharvo 'dadagnaye /	somaH adadat-ganDarvAya ganDarvaH adat-agnaye /
+   rayiṃ ca putrāṃścādādagnirmahyamatho imām //	rayim ca putrAn=-ca-adAt-agniH-mahyam-aTo imAm //
+   somaḥ prathamo vivide gandharvo vivida uttaraḥ /	somaH praTamaH vivide ganDarvaH vivide uttaraH /
+   tṛtīyo 'gniṣṭe patisturīyo 'haṃ manuṣyajā	tRtIyaH agnizwe patiH-turIyaH aham manuzya-jA
+   ityupanayanāvṛtāśmānamadhiṣṭhāpayetsrīvat uttarapurastādagnerbhāryayā	iti-upanayana-AvRta-aSmAnam-aDizWApayet-srIvat uttara-purastAt-agneH-BAryayA
+   saṃprekṣyamāṇo japatyaghoracakṣurapatighnī ma edhi śivā patibhyaḥ sumanāḥ	saMprekzyamANaH japati-aGora-cakzuH-apati-GnI me eDi SivAH patiByaH sumanAH
+   suvarcāḥ /	suvarcAH /
+   jīvasūrdevakāmā syonā śaṃ no bhava dvipade śaṃ catuṣpade //	jIvasUH-deva-kAmA syonA Sam naH Bava dvipade Sam catuzpade //
+   ā naḥ prajāṃ janayatu prajāpatirājarasāya samanatkaryamā /	A naH prajAm janayatu prajApati-rAjarasAya samanatkaryamA /
+   adurmaṅgalīḥ patilokamāviśa śaṃ na edhi dvipade śaṃ catuṣpade //	adurmaFgalIH pati-lokam-AviSa Sam naH eDi dvipade Sam catuzpade //
+   tāṃ pūṣañchivatamāmerayasva yasyāṃ bījaṃ manuṣyā vapanti /	tAm pUzan-SivatamAm-erayasva yasyAm bIjam manuzyAH vapanti /
+   yā na ūrū uśatī vistrayātai yasyāmuśantaḥ praharema śepham //	yA naH UrU uSatI vistra-yAtEH yasyAm-uSantaH praharema SePam //
+   amo 'hamasmi sā tvaṃ sāmāhamasmyṛtkaṃ mano 'hamasmi vāktvaṃ dyaurahaṃ	amaH aham-asmi sA tvam sAma-aham-asmi-Rt-kam manaH aham-asmi vAc-tvam dyOH-aham
+   pṛthivī tvaṃ tāvehi saṃbhavāva saha reto dadhāvahai puṃse putrāya vettavai	pRTivI tvam tO=-ehi saMBavAva saha retaH daDAvahE puMse putrAya vettavE
+   māmanuvratā bhava sadṛśayyā mayā bhavāsāvityathāsyā nāma gṛhītvāgniṃ	mAm-anuvratA Bava sadRSayyAH mayA Bava-asO=-iti-aTa-asyAH nAma gRhItvA-agnim
+   parikrameyātāmīrtvamasyūkte mātā nāma sā māmehi saha prajayā saha	parikrameya-AtAmIH-tvam-asi-Ukte mAtA nAma sA mAm-ehi saha prajayA saha
+   rāyaspopeṇeti tasyāṃ pratyāvrajitāyāṃ bhrātānyo vā	rAyaspopeNa-iti tasyAm pratyAvrajitAyAm BrAtA-anyaH vA
+   sūhṛdabhidhāritānlājāñchūrpādañjalinopaghātamañjalāvāvapedupastīrṇābhidhāritānkṛtvā	sUhRd-aBi-DAritAn-lAjAn-SUrpAt-aQjalinA-upaGAtam-aQjalO=-Avapet-upastIrNa-aBiDAritAn-kRtvA
+   tānitarāgnau juhuyātkanyaleyaṃ nāryaryamṇamiti kanyalā pitṛbhyaḥ patilokaṃ	tAn-itara-agnO juhuyAt-kanyalA-iyam nArI-aryamNam-iti kanyalA pitRByaH pati-lokam
+   yatīyamava dīkṣāmayakṣata svāhā //	yati-iyam-ava dIkzAm-ayakzata svAhA //
+   iyaṃ nāryupabrūte 'gnau lājānāvapantī /	iyam nArI-upabrUte agnO lAjAnAvapantI /
+   dīrghāyurastu me patiredhantāṃ jñātayo mama svāhā //	dIrGa-AyuH-astu me patiH-eDantAm jQAtayaH mama svAhA //
+   aryamṇaṃ nu devaṃ kanyāgnimayakṣata /	aryamNam nu devam kanyA-agnim-ayakzata /
+   sa imāṃ devo aryamā preto muñcātu māmutaḥ svāheti homānteṣu japati	saH imAm devaH aryamA pretaH muQcAtu mA-amutas svAhA-iti homa-antezu japati
+   caturviśvā uta tvayā vayaṃ dhārā udanyā iva /	catur-viSvAH uta tvayA vayam DArAH udanyAH iva /
+   atigāhemahi dviṣa iti tūṣṇīṃ dhārikā kāmāyāvapeccaturthaṃ dakṣiṇaṃ	ati-gAhemahi dvizaH iti tUzNIm DArikA kAmAya-Avapet-caturTam dakziNam
+   śūrpapuṭaṃ kāma ityācakṣata uttarapurastādagraneḥ sapta	SUrpa-puwam kAmaH iti-Acakzate uttara-purastAt-agraneH sapta
+   padānyabhyutkramayedekamiṣa iti pratimantramekamiṣe viṣṇustvānvetu /	padAni-aByutkramayet-ekamizaH iti pratimantram-ekamize vizNuH-tvA-anvetu /
+   dve ūrje viṣṇustvānvetu /	dve Urje vizNuH-tvA-anvetu /
+   trīṇi rāyaspoṣāya viṣṇustvānvetu /	trINi rAyaspozAya vizNuH-tvA-anvetu /
+   catvāri mayobhavāya viṣṇustānvetu /	catvAri mayaH-BavAya vizNuH-tAn-vetu /
+   ṣaḍṛtubhyo viṣṇustānvetu /	zaz-RtuByaH vizNuH-tAn-vetu /
+   sakhā saptapadī bhaveti saptame prācīmavasthāpyodakumbhena	saKA saptapadI Bava-iti saptame prAcIm-avasTApya-udakumBena
+   mārjayerannāpohiṣṭhīyābhistisṛbhiḥ prekṣakānanumantrayate sumaṅgalīriyaṃ	mArjayeH-anna-apohizWIyABiH-tisRBiH prekzakAn-anumantrayate sumaFgalIH-iyam
+   vadhūrimāṃ sameta paśyata /	vaDUH-imAm sameta paSyata /
+   saubhāgyamasyai dattvāyāthāstaṃ viparetaneti prekṣayeddhruvamarundhatīṃ	sOBAgyam-asyE dattvA-Aya-aTAH-tam viparetana-iti prekzayet-Druvam-arunDatIm
+   sapta ṛṣīnpaśyānīti pratijānānāṃ dhruvo 'sīti dhruvamupatiṣṭhate dhruvo	sapta RzIn-paSyAni-iti pratijAnAnAm DruvaH asi-iti Druvam-upatizWate DruvaH-
+   'si dhruvāhaṃ patikule bhūyāsamamuṣyeti patināma gṛhṇīyādasāvityātmano	asi DruvA-aham pati-kule BUyAsam-amuzya-iti pati-nAma gRhNIyAt-asO=-iti-AtmanaH-
+   'rundhatīmarundhatyaruddhāhaṃ patyā bhūyāsamamuneti patināma	arunDatIm-arunDatya-rudDA-aham patyA BUyAsam-amunA-iti pati-nAma
+   gṛhṇīyādasāvityātmanaḥ // JaimGS_1.21 //	gRhNIyAt-asO=-iti-AtmanaH // JEmGS_1.21 //
+   JaimGS 1.22:	JEmGS 1.22:
+   pūṣā tveta iti prasthitāmanumantrayate pūṣā tveto nayatu hastagṛhyāśvinau	pUzA tvA-ita iti prasTitAm-anumantrayate pUzA tvA-itas nayatu hasta-gRhya-aSvinO
+   tvā pravahatāṃ rathena /	tvA pravahatAm raTena /
+   gṛhāngaccha gṛhapatnī yathāso vaśinī tvaṃ vidathamāvadāsīti svaṃ kulaṃ	gRhAn-gacCa gRhapatnI yaTAsaH vaSinI tvam vidaTam-AvadAsi-iti svam kulam
+   prāptāṃ kalyāṇaśīlāḥ kalyāṇaprajāḥ samavajīrṇāḥ pratyavaropayantīha priyaṃ	prAptAm kalyANa-SIlAH kalyANa-prajAH samavajIrNAH pratyavaropayanti-iha priyam
+   prajayā te samṛdhyatāmasmingṛhe gārhapatyāya jāgṛhi /	prajayA te samRDyatAm-asmin-gRhe gArhapatyAya jAgRhi /
+   enā patyā tanvaṃ saṃsṛjasvāthājīvrī vidathamāvadāsīti pratyavaropyānaḍuhe	enA patyA tanvam saMsRja-svATa-ajIvrI vidaTam-AvadAsi-iti pratyavaropya-Anaxuhe
+   carmaṇyuttaralomanyupaveśayediha gāvo niṣīdantvihāśvā iṅa puruṣāḥ /	carmaNi-uttaralomani-upaveSayet-iha gAvaH nizIdantu-iha-aSvAH iFaH puruzAH /
+   iho sahasradakṣiṇo 'bhi pūṣā niṣīdatviti kumāramupastha ādhāya	iho sahasra-dakziNaH aBi pUzA nizIdatu-iti kumAram-upasTe ADAya
+   śakaloṭānāvapetphalāni yotthāpya kumāramanvārabdhāyāṃ juhuyādiha	Saka-lowAn-Avapet-PalAni yA-utTApya kumAram-anvArabDAyAm juhuyAt-iha
+   dhṛtirityaṣṭābhiḥ svāhākārāntairiha dhṛtiriha svadhṛtiriha rantiriha	DRtiH-iti-azwABiH svAhAkAra-antEH-iha DRtiH-iha sva-DRtiH-iha rantiH-iha
+   ramasva /	ramasva /
+   mayi dhṛtirmayi svadhṛtirmayi ramo mayi ramasveti	mayi DRtiH-mayi sva-DRtiH-mayi ramaH mayi ramasva-iti
+   trirātramakṣārālavaṇāśinau brahmacāriṇāvadhaḥ saṃveśināvasaṃvartamānau	tri-rAtram-akzAra-alavaNa-ASinO brahmacAriNO=-aDas saMveSinO=-asaMvartamAnO
+   saha śayātāmūrdhvaṃ trirātrātsaṃbhavo niśāyāṃ jāyāpatikarmaṇyaṃ	saha SayAtAm-UrDvam tri-rAtrAt-saMBavaH niSAyAm jAyA-pati-karmaNyam
+   prāyaścittīrjuhuyādagre prāyaścitte tvaṃ devānāṃ prāyaścittirasi	prAyaScittIH-juhuyAt-agre prAyaScitte tvam devAnAm prAyaScittiH-asi
+   brāhmaṇastvā nāthakāma upadhāvāmi yāsyai prajāghnī tanūstāmasyā apajahi	brAhmaNaH-tvA nATa-kAmaH upaDAvAmi yA-asyE prajA-GnI tanUH-tAm-asyAH apajahi
+   svāhā /	svAhA /
+   vāyo prāyaścitte tvaṃ devānāṃ prāyaścittirasi brāhmaṇastvā nāthakāma	vAyo prAyaScitte tvam devAnAm prAyaScittiH-asi brAhmaNaH-tvA nATa-kAma
+   upadhāvāmi yāsyai paśughnī tanūstāmasyā apajahi svāhā /	upaDAvAmi yA-asyE paSu-GnI tanUH-tAm-asyAH apajahi svAhA /
+   sūrya prayaścitte tvaṃ devānāṃ prāyaścittirasi brāhmaṇastvā nāthakāma	sUrya prayaH-citte tvam devAnAm prAyaScittiH-asi brAhmaNaH-tvA nATa-kAma
+   upadhāvāmi yāsyai patighni tanūstāmasyā apajahi svāhā /	upaDAvAmi yA-asyE patiGni tanUH-tAm-asyAH apajahi svAhA /
+   candra prāyaścitte tvaṃ devānāṃ prāyāścittarasi brahmaṇastvā nāthakāma	candra prAyaScitte tvam devAnAm prAyAH-cittarasi brahmaNaH-tvA nATa-kAma
+   upadhāvāmi yāsyai gṛhaghni tanūstāmasyā apajahi svāhā /	upaDAvAmi yA-asyE gRha-Gni tanUH-tAm-asyAH apajahi svAhA /
+   agne vāyo sūrya candra prāyaścittayo yūyaṃ devānāṃ prāyaścittaya stha	agne vAyo sUrya candra prAyaScittayaH yUyam devAnAm prAyaScittaya sTa
+   brāhmaṇo vo nāthakāma upadhāvāmi yāsyai yaśoghnītanūstāmasyā apahata	brAhmaNaH vaH nATa-kAmaH upaDAvAmi yA-asyE yaSaH-GnI-tanUH-tAm-asyAH apahata
+   svāheti sthālīpākādagniṃ prajāpatiṃ ceṣṭvā saṃpātāṃścamasa ānīya	svAhA-iti sTAlIpAkAt-agnim prajApatim ca-izwvA saMpAtAn=-camasaH AnIya
+   srotāṃsyāṅkṣvetyenāṃ brūyānnābhiṃ prathamaṃ tato yānyūrdhvaṃ tato	srotAMsi-AFkzva-iti-enAm brUyAt-nABim praTamam tatas yAni-UrDvam tatas-
+   yānyarvāñcūrdhvamardharātrātsaṃveśanaṃ viṣṇuryoniṃ kalpayatvityetena	yAni-arvAQcu-UrDvam-arDarAtrAt-saMveSanam vizNuH-yonim kalpayatu-iti-etena
+   tṛcena viṣṇuryoniṃ kalpayatu tvaṣṭā rūpāṇi piṃśatu /	tRcena vizNuH-yonim kalpayatu tvazwA rUpANi piMSatu /
+   āsiñcatu prajāpatirdhātā garbhaṃ dadhātu te //	AsiQcatu prajApatiH-DAtA garBam daDAtu te //
+   garbhaṃ dhehi sinīvāligarbhaṃ dhehi sarasvati /	garBam Dehi sinIvAli-garBam Dehi sarasvati /
+   garbhaṃ te aśvinau devāvādhattāṃ puṣkarasrajau //	garBam te aSvinO devO=-ADattAm puzkara-srajO //
+   hiraṇyayī araṇī yaṃ nirmanthatāmāśvinau /	hiraNyayI araNI yam nirmanTa-tAm-ASvinO /
+   taṃ te garbhaṃ dadhāmyahaṃ daśame māsi sūtavā ityṛtāvṛtāvevameva saṃveśane	tam te garBam daDAmi-aham daSame mAsi sUtavA iti-RtO=-RtO=-evam-eva saMveSane
+   hutvācāryāya gāṃ dadyādadarśane brāhmaṇebhyo gāṃ dadyāti // JaimGS_1.22 //	hutvA-AcAryAya gAm dadyAt-adarSane brAhmaNeByaH gAm dadyAti // JEmGS_1.22 //
+   JaimGS 1.23:	JEmGS 1.23:
+   sāyaṃprātarheme 'gnaya iti prathamāmāhutiṃ juhoti prajāpataya	sAyaMprAtar-heme agnayaH iti praTamAm-Ahutim juhoti prajApataya
+   ityuttarāmevaṃ prātaragnisthāne sūryaḥ sāyaṃprātaraśanasya balī	iti-uttarAm-evam prAtar-agni-sTAne sUryaH sAyaMprAtar-aSanasya balI
+   vardhayitvā pūrvasmādagnau juhotyagnaye svāhā somāya svāhā dhanvantaraye	varDayitvA pUrvasmAt-agnO juhoti-agnaye svAhA somAya svAhA Danvantaraye
+   svāhā dyāvāpṛthvībhyāṃ svāhā viśvebhyo devebhyaḥ svāhā sarvābhyo	svAhA dyAvApRTvIByAm svAhA viSveByaH deveByaH svAhA sarvAByaH-
+   devatābhyaḥ svāhā prajāpateya svāheti manasottarāṃ tata evottarato	devatAByaH svAhA prajApateya svAhA-iti manasA-uttarAm tatas eva-uttaratas-
+   'gnerbaliṃ harati ye harṣaṇā vepanā sphātimāharā vātasya	agneH-balim harati ye harzaNA vepanA sPAtim-AharAH vAtasya
+   bhrājamanusaṃcaranti /	BrAjam-anusaMcaranti /
+   tebhyo balimannakāmo harāmyannaṃ payasvadbahulaṃ me	teByaH balim-annakAmaH harAmi-annam payasvat-bahulam me
+   astvityevamaśanāyatyāyasthāne mṛtyoradhiṣṭhānāya svāheti śeṣasya	astu-iti-evam-aSanAyati-Aya-sTAne mRtyoH-aDizWAnAya svAhA-iti Sezasya
+   baliharaṇaṃ pradakṣiṇaṃ gṛhyābhyo devatābhyo baliṃ nayāmi tanme juṣantāṃ	bali-haraNam pradakziNam gRhyAByaH devatAByaH balim nayAmi tat-me juzantAm
+   tā mā pāntu tā mā gopāyantu tā mā rakṣantu tābhyo namastābhyaḥ	tAH mA pAntu tAH mA gopAyantu tAH mA rakzantu tAByaH namaH-tAByaH
+   svāhetyudadhāne madhye 'gārasyauttarapūrvārdhe śayane dehalyāṃ saṃvaraṇe	svAhA-iti-udaDAne maDye agArasya-Ottara-pUrva-arDe Sayane dehalyAm saMvaraNe
+   brahmāyatana eteṣvāyataneṣu śeṣaṃ dhanvantaraye ninayetsadā gṛheṣu	brahma-Ayatane etezu-Ayatanezu Sezam Danvantaraye ninayet-sadA gRhezu
+   svastivācanaṃ sā mahāśāntirityācakṣate // JaimGS_1.23 //	svastivAcanam sA mahA-SAntiH-iti-Acakzate // JEmGS_1.23 //
+   JaimGS 1.24:	JEmGS 1.24:
+   navena yakṣyamāṇaḥ purāṇenāgre yajetāgnidhanvantarī prajāpatimindraṃ	navena yakzyamANaH purANena-agre yajeta-agni-DanvantarI prajApatim-indram
+   tisraśca navāhutīrnavena yajeta śaradi vrīhīṇāṃ vasante yavānāṃ varṣāsu	tisraH-ca nava-AhutIH-navena yajeta Saradi vrIhINAm vasante yavAnAm varzAsu
+   śyāmākānāmaindrāgnau vaiśvadevo dyāvāpṛthivyaścarava ekacarurvokte	SyAmAkAnAm-Endra-agnO vESvadevaH dyAvApRTivyaH-caravaH eka-caruH-vA-ukte
+   evopastaraṇābhidhāraṇe dvirhaviṣe 'vadyatyatha prāśnīyādbhadrānnaḥ śreyaḥ	eva-upastaraNa-aBiDAraNe dvis-havize avadyati-aTa prASnIyAt-BadrAt-naH SreyaH
+   samanaiṣṭa devāstvayāvasena samaśīmahi tvā /	samanEzwa devAH-tvayA-avasena sama-SImahi tvA /
+   sa no mayobhūḥ pito āviśsva śaṃ tokāya tanuṣe syo ityetamu tyaṃ madhunā	sa naH mayoBUH pitaH AviSsva Sam tokAya tanuze syaH iti-etamu tyam maDunA
+   saṃyutaṃ yavaṃ sarasvatyā adhi manāvacarkṛṣuḥ /	saMyutam yavam sarasvatyAH aDi manAH-vacarkRzuH /
+   indra āsītsīrapatiḥ śatakratuḥ kīnāśā āsanmarutaḥ sudānava iti yavasya	indraH AsIt-sIra-patiH SatakratuH kInASAH Asan-marutaH sudAnavaH iti yavasya
+   prāśnīyādagniḥ prathamaḥ prāśnātu sa hi veda yathā haviḥ /	prASnIyAt-agniH praTamaH prASnAtu sa hi veda yaTA haviH /
+   śivā asmabhyamoṣadhīḥ kṛṇotu viśvacarṣaṇīriti śyāmākasya	SivAH asmaByam-ozaDIH kRNotu viSvacarzaNIH-iti SyAmAkasya
+   prāśnīyātprāśnīyāt // JaimGS_1.24 //	prASnIyAt-prASnIyAt // JEmGS_1.24 //
+   // iti jaiminisūtraṃ pūrvam //	// iti jEmini-sUtram pUrvam //
+   JaimGS 2.1:	JEmGS 2.1:
+   śrāddhaṃ kariṣyantaḥ snātāḥ śucivāsasastilairvāstvavakīrya savyamācaranto	SrAdDam karizyantaH snAtAH Suci-vAsasaH-tilEH-vAstu-avakIrya savyam-AcarantaH-
+   'nnamupasādhayeranhaviṣyairupasicyaivaivaṃ	annam-upasADayeH-anha-vizyEH-upasicya-eva-evam
+   dadyādyadyaddadyāttattaddhaviṣyairupasicyaiva haviṣyā iti tilānāmākhyā	dadyAt-yat-yat-dadyAt-tad-tat-havizyEH-upasicya-eva havizyAH iti tilAnAm-AKyA
+   dantadhāvanaṃ snānīyāni pādyamānīya prathamoddhṛtaṃ	dantaDAvanam snAnIyAni pAdyam-AnIya praTama-udDRtam
+   brāhmaṇāṃstryavadātānupaveśayatyā me gacchantu pitaro bhāgadheyaṃ	brAhmaNAn=-tri-avadAtAn-upaveSayatyA me gacCantu pitaraH BAgaDeyam
+   virājāhūtāḥ salilātsamudriyāt /	virAjA-AhUtAH salilAt-samudriyAt /
+   akṣīyamāṇamupajīvatainanmayā prattaṃ svadhayā	akzIyamANam-upajIvata-enat-mayA prattam svaDayA
+   madadhvamityupamūlalūnāndarbhānviṣṭarānprasavyānkṛtvā brāhmaṇebhyaḥ	madaDvam-iti-upamUla-lUnAn-darBAn-vizwarAn-prasavyAn-kRtvA brAhmaNeByaH
+   pradadyādetatte pitarāsanamasau ye ca tvātrānu tebhyaścāsanamityevaṃ	pradadyAt-etat-te pitarAsanam-asO ye ca tvA-atra-anu teByaH-ca-Asanam-iti-evam
+   pitāmahāyaivaṃ prapitāmahāya haviṣyodakaṃ tiraḥ pavitraṃ	pitAmahAya-evam prapitAmahAya havizya-udakam tiras pavitram
+   gandhānsumanasaśca dadyādannamavattvā ghṛtenābhidhārya	ganDAn-sumanasaH-ca dadyAt-annam-avattvAH GRtena-aBiDArya
+   darbhānparistaraṇīyāniti tadādāyāgnau kariṣyāmīti brāhmaṇānanujñāpya	darBAn-paristaraNIyAn-iti tad-AdAya-agnO karizyAmi-iti brAhmaNAn-anujQApya
+   prāgdakṣiṇāmukho 'gniṃ praṇayitvā trirdhūnvanpradakṣiṇamagniṃ paristṛṇāti	prAc-dakziNA-muKaH agnim praNayitvA tris-DUnvan-pradakziNam-agnim paristRNAti
+   prācīnāvīti triḥ prasavyaṃ triḥ paryukṣetpradakṣiṇaṃ prācīnāvīti triḥ	prAcInAvI-iti tris prasavyam tris paryukzet-pradakziNam prAcInAvI-iti tris-
+   prasavyamaudumbara idhmaḥ paridhayo bhavanti mekṣaṇaṃ ca pavitraṃ	prasavyam-OdumbaraH iDmaH pariDayaH Bavanti mekzaNam ca pavitram
+   saṃskṛtyānnamutpūyāgnau pavitraṃ prāsya mekṣaṇena juhotyagnaye	saMskRtya-annam-utpUya-agnO pavitram prAsya mekzaNena juhoti-agnaye
+   kavyavāhanāya svadhā namaḥ svāhā somāya pitṛmate svadhā nama svāheti	kavyavAhanAya svaDA namaH svAhA somAya pitRmate svaDA nama svAhA-iti
+   yajñopavīti bhūtvāpa upaspṛśya yamāyāṅgiḥsvate svāheti	yajQopavIti BUtvA-apaH upaspRSya yamAya-aFgiHsvate svAhA-iti
+   mekṣaṇamagrāvanupraharati namaskārānkṛtvā yathādaivataṃ triḥ	mekzaNam-agrO=-anupraharati namaskArAn-kRtvA yaTAdEvatam tris-
+   paryukṣetpradakṣiṇaṃ prācīnāvīti triḥ prasavyaṃ savyañjanamannaṃ pātreṣu	paryukzet-pradakziNam prAcInAvI-iti tris prasavyam sa-vyaQjanam-annam pAtrezu
+   vardhayitvāmāsu pakvamiti kṣīraṃ ghṛtaṃ vā siñcatyāmāsu pakvamamṛtaṃ	varDayitvA-AmAsu pakvam-iti kzIram GRtam vA siQcati-AmAsu pakvam-amRtam
+   niviṣṭaṃ mayā prattaṃ svadhayā madadhvamiti vardhitānyādiśatyetadvaḥ	nivizwam mayA prattam svaDayA madaDvam-iti varDitAni-AdiSati-etat-vaH
+   pitaro bhāgadheyaṃ pātreṣu dattamamṛtaṃ svadhāvat /	pitaraH BAgaDeyam pAtrezu dattam-amRtam svaDAvat /
+   akṣīyamāṇamupajīvatainanmayā prattaṃ svadhayā madadhvam //	akzIyamANam-upajIvata-enat-mayA prattam svaDayA madaDvam //
+   amṛtā vāgamṛtā vāco agne vāco 'mṛtaḥ tvaṃ trivṛtaikadhāmā /	amRtAH vAc-amRtAH vAcaH agne vAcaH amRtaH tvam trivRtA-eka-DAmA /
+   ebhirmatprattaiḥ svadhayā madadhvamihāsmabhyaṃ vasīyo 'stu devāḥ //	eBiH-mad-prattEH svaDayA madaDvam-i-ha-asmaByam vasIyaH astu devAH //
+   ayaṃ yajñaḥ paramo yaḥ pitṛṇāṃ pātradeyaṃ pitṛdaivatyamagne /	ayam yajQaH paramaH yaH pitRNAm pAtra-deyam pitR-dEvatyam-agne /
+   vākca manaśca pitaro naḥ prajānīmāśvibhyāṃ prattaṃ svadhayā madadhvam //	vAc-ca manaH-ca pitaraH naH prajAnIma-aSviByAm prattam svaDayA madaDvam //
+   ya iha pitaraḥ pārthivāso ya antarikṣa uta ye samudriyāḥ /	yaH iha pitaraH pArTivAsaH yaH antarikze uta ye samudriyAH /
+   ye vācamāptvā amṛtā babhūvuste 'sminsarve haviṣi mādayantām //	ye vAcam-AptvA amRtAH baBUvuH-te asmin-sarve havizi mAdayantAm //
+   eṣā va ūrgeṣā vaḥ svadhā cāmatta ca pibata ca mā ca vaḥ kṣeṣṭa /	ezA vaH Urc-ezA vaH svaDA ca-amatta ca pibata ca mA ca vaH kzezwaH /
+   svadhāṃ vahadhvamamṛtasya yoniṃ yātra svadhā pitarastāṃ bhajadhvam //	svaDAm vahaDvam-amRtasya yonim yA-atra svaDA pitaraH-tAm BajaDvam //
+   yeha pitara ūrgdevatā ca tasyai jīvema śaradaḥ śataṃ vayam /	yA-iha pitaraH Urk-devatA ca tasyE jIvema SaradaH Satam vayam /
+   jyotiṣmaddhattājaraṃ ma āyurityathaitāni brāhmaṇebhya upanikṣipya	jyotizmad-Datta-ajaram me AyuH-iti-aTa-etAni brAhmaNeByaH upanikzipya
+   svāṅguṣṭhenānuśatyamuṣmai svadhāmuṣmai svadheti yanme 'prakāmā iti	sva-aFguzWena-anuSatya-muzmE svaDA-muzmE svaDA-iti yat-me aprakAmAH iti
+   bhuñjato 'numantrayate yanme 'prakāmā uta vā prakāmā samṛddhe brāhmaṇe	BuQjataH anumantrayate yat-me aprakAmA uta vA prakAmA samRdDe brAhmaNe
+   'brāhmaṇe vā /	abrAhmaNe vA /
+   ya skandati nirṛtiṃ vāta ugrāṃ yena naḥ prīyante pitaro devatāśca /	yaH skandati nirRtim vAtaH ugrAm yena naH prIyante pitaraH devatAH-ca /
+   vāyuṣṭatsarvaṃ śundhatu tena śuddhena devatā mādayantāṃ tasmiñchuddhe	vAyuzwat-sarvam SunDatu tena SudDena devatAH mAdayantAm tasmin-SudDe
+   pitaro mādayantāmityakrānsamudra ityāśvaṃ gītvā saṃpannaṃ	pitaraH mAdayantAm-iti-akrAn-samudraH iti-ASvam gItvA saMpannam
+   pṛṣṭāthācāmayedyajñopavītī bhūtvābhiramantāṃ bhavanta ityutkā pridakṣiṇaṃ	pRzwA-aTAcAmayet-yajQa-upavItI BUtvA-aBiramantAm BavantaH iti-utkA pridakziNam
+   kṛtvā yanme rāmeti gacchanto 'numantrayate yanme rāmā śakuniḥ śvāpadaśca	kRtvA yat-me rAma-iti gacCantaH anumantrayate yat-me rAmA SakuniH SvApadaH-ca
+   yanme 'śucirmantrakṛtasya prāśat /	yat-me aSuciH-mantra-kRtasya prASat /
+   vaiśvānaraḥ savitā tatpunātu tena pūtena devatā mādayantāṃ tasminpūte	vESvAnaraH savitA tat-punAtu tena pUtena devatAH mAdayantAm tasmin-pUte
+   pitaro mādayantāmiti // JaimGS_2.1 //	pitaraH mAdayantAm-iti // JEmGS_2.1 //
+   JaimGS 2.2:	JEmGS 2.2:
+   śeṣamanujñāpya pratyetya prāgdakṣiṇāyataṃ caturaśraṃ gomayenopalipyāpahatā	Sezam-anujQApya pratyetya prAc-dakziNa-Ayatam caturaSram gomayena-upalipya-apahatA
+   asurā rakṣāṃsi piśācāḥ pitṛṣada iti madhye rekhāṃ kāṣṭhenollikhya ye	asurAH rakzAMsi piSAcAH pitRzadaH iti maDye reKAm kAzWena-ulliKya ye
+   rūpāṇi pratimuñcamānā asurāḥ santaḥ svadhayā caranti parāpuro nipuro ye	rUpANi pratimuQcamAnAH asurAH santaH svaDayA caranti parApuras nipuraH ye
+   bharantyagriṣṭāṃllokātpraṇunottvasmādityulmukaṃ dakṣiṇato	Baranti-agrizwAn=-lokAt-praNunottu-asmAt-iti-ulmukam dakziNatas-
+   nidadhātyanulekhaṃ darbhānāstīryodapātreṇācāmayatyācāma pitarasau ye ca	nidaDAti-anuleKam darBAn-AstIrya-uda-pAtreNa-AcAmayati-AcAma pitarasO ye ca
+   tvātrānu te cācāmantvityevaṃ pitāmahāyaivaṃ prāpitāmahāya teṣu	tvA-atra-anu te ca-AcAmantu-iti-evam pitAmahAya-evam prApitAmahAya tezu
+   piṇḍānnidadhātyanunāmāpahastenaitatte pitarasau ye ca tvātrānu tebhyaśca	piNxAn-nidaDa-atyanunAma-apahastena-etat-te pitarasO ye ca tvA-atra-anu teByaH-ca
+   svadhā nama ityevaṃ pitāmahāyaivaṃ prāpitāmāhaya nāmānyajānataḥ pitaretate	svaDA namaH iti-evam pitAmahAya-evam prApitAm-Ahaya nAma-anya-jAnataH pita-retate
+   pitāmahaitatte prapitāmahaitatta iti bandhvajānata idaṃ pitṛbhyaḥ	pitAmaha-etat-te prapitAmaha-etat-te iti banDvajAn-ataH idam pitRByaH
+   pṛthivīṣadbhya idaṃ pitāmahebhyo 'ntarikṣasadbhya idaṃ prāpitāmahebhyo	pRTivIzadByaH idam pitAmaheByaH antarikza-sadByaH idam prApitAmaheByaH-
+   divipadbhya ityatra pitaro mādayadhvaṃ	divipadByaH iti-atra pitaraH mAdayaDvam
+   yathābhāgamāvṛṣāyadhvamityudagāvṛtyā tamitorāsītāmīmadanta pitaro	yaTA-BAgam-AvRzAyaDvam-iti-udak-AvRtyA tam-ita-UH-AsIta-am-Imadanta pitaraH-
+   yathābhāgamāvṛṣāyipateti japitvā pūrvavadācāmayya nīvīṃ visraṃsya	yaTABAgam-AvRzAyipata-iti japitvA pUrvavat-AcAmayya nIvIm visraMsya
+   nāmaskārānkṛtvā yathādaivatametaddhaḥ pitara iti vasrāṇyādiśatyūrṇāstukāṃ	nAmaskArAn-kRtvA yaTAdEvatam-etat-has pitaraH iti vasrANi-Adi-Sati-UrNA-stukAn
+   daśāmbaraṃ vā etaddhaḥ pitaro vāso gṛhānnaḥ pitaro dattādhatta pitaro	daSa-ambaram vE etat-has pitaraH vAsaH gRhAt-naH pitaraH dattADatta pitaraH-
+   garbhaṃ kumāraṃ puṣkarasrajaṃ yatheha puruṣo 'sadityañjanābhyañjane	garBam kumAram puzkara-srajam yaTA-iha puruzaH asat-iti-aQjana-aByaQjane
+   dadātyāṅkṣyāsāvityabhyaṅkṣyāsāviti gandhānsumanasaśca dadyānnamo vaḥ	dadAti-AFkzya-asO=-iti-aByaFkzya-asO=-iti ganDAn-sumanasaH-ca dadyAt-namaH vaH
+   pitara iti ṣaḍibharnamaskārairupatiṣṭhate namo vaḥ pitaro mano vaḥ pitaraḥ	pitaraH iti zaxiBarna-maskArEH-upatizWate namaH vaH pitaraH manaH vaH pitaraH
+   śuṣmāya namo vaḥ pitaro jīvāya namo vaḥ pitaro ghorāya namo vaḥ pitaro	SuzmAya namaH vaH pitaraH jIvAya namaH vaH pitaraH GorAya namaH vaH pitaraH-
+   balāya namo vaḥ pitaro manyave svadhāyai ca pitaro namo va ityūrjaṃ	balAya namaH vaH pitaraH manyave svaDAyE ca pitaraH namaH vaH iti-Urjam
+   vahantīramṛtaṃ ghṛtaṃ payaḥ kīlālaṃ parisrutaṃ svadhā stha tarpayata me	vahantIH-amRtam GRtam payaH kIlAlam parisrutam svaDA sTa tarpayata me
+   pitṛnityapaḥ prasicya mā me kṣeṣṭetyabhimantrya mā me kṣeṣṭa bahu me	pitR-nityapaH prasicya mA me kzezwA-iti-aBimantrya mA me kzezwa bahu me
+   pūrtamastu brahmāṇo me juṣantāmannamannam /	pUrtam-astu brahmANaH me juzantAm-annam-annam /
+   sahasradhāramamṛtodakaṃ me pūrtamastvetatparame vyoman //	sahasra-DAram-amRta-udakam me pUrtam-astu-etat-parame vyoman //
+   devāśca pitaraścaitatpūrtaṃ me atropajīvantām /	devAH-ca pitaraH-ca-etat-pUrtam me atra-upajIvantAm /
+   akṣīyamāṇamupajīvatainanmayā prattaṃ svadhayā madadhvamiti ye samānāḥ	akzIyamANam-upajIvata-enat-mayA prattam svaDayA madaDvam-iti ye samAnAH
+   sumanasa iti pradakṣiṇaṃ kṛtvā ye samānāḥ sumanaso jīvā jīveṣu māmakāḥ /	sumanasaH iti pradakziNam kRtvA ye samAnAH sumanasaH jIvAH jIvezu mAmakAH /
+   teṣāṃ śrīrmayi kalpatāmasmiṃlloke śataṃ samā ityāmayāvī	tezAm SrIH-mayi kalpatAm-asmin=-loke Satam samAH iti-AmayAvI
+   piṇḍānprāśnīyādannādyakāmo vāgnau vā saṃkṣepayedapsu vābhyamahareyurajaṃ	piNxAn-prASnIyAt-annAdya-kAmaH vA-agnO vA saMkzepayet-apsu vA-aByam-ahareyuH-ajam
+   gāṃ brāhmaṇaṃ vā prāśayeyuḥ śeṣasya prāśnīyānna cānnatṛptiṃ gacchet //	gAm brAhmaNam vA prASayeyuH Sezasya prASnIyAt-na ca-anna-tRptim gacCet //
+   JaimGS_2.2 //	JEmGS_2.2 //
+   JaimGS 2.3:	JEmGS 2.3:
+   ūrdhvamāgrahāyaṇyāstrayo 'parapakṣāsteṣāmekaikasminnekaikāṣṭakā bhavati	UrDvam-AgrahAyaNyAH-trayaH apara-pakzAH-tezAm-ekEkasmin=-eka-ekAzwakA Bavati
+   śākāṣṭakā māṃsāṣṭakāpūpāṣṭaketi tatra śākamāṃsāpūpāni havīṃṣyodanaṃ ca	SAkAzwakA mAMsa-azwakA-pUpa-azwakA-iti tatra SAka-mAMsa-apUpAni havIMzi-odanam ca
+   teṣāṃ haviṣāṃ sthālīpākāvṛtāgnau juhuyādaṣṭakāyai svāhā ekāṣṭakārye svāhā	tezAm havizAm sTAlI-pAka-AvRta-agnO juhuyAt-azwakAyE svAhA ekAzwa-kArye svAhA
+   aṣṭakāyai surādhase svāhā saṃvatsarāya parivatsarāyedāvatsarāyedvatsarāya	azwakAyE surADase svAhA saMvatsarAya parivatsarAya-idAvatsarAyet-vatsarAya
+   kṛṇutā nāmobhiḥ /	kRNutA nAmoBiH /
+   tvayā vayaṃ sumatau yajñiyānāṃ jyogajītā ahatāḥ syāma svāheti	tvayA vayam sumatO yajQiyAnAm jyogajItAH ahatAH syAma svAhA-iti
+   hutvopatiṣṭhata ehi bhagaihi bhagaihi bhageti madhyamāyāṃ gāṃ	hutvA-upatizWate ehi Baga-Ehi Baga-Ehi Baga-iti maDyamAyAm gAm
+   kārayettāmaṣṭakāyai prokṣettasyāstrīṇi savyānyupoddharati pārśvamapaghanīṃ	kArayet-tAm-azwakAyE prokzet-tasyAH-trINi savyAni-upodDarati pArSvam-apaGanIm
+   śroṇīmiti śvobhūte śrāddhamanvaṣṭakyaṃ tadaharvā	SroNIm-iti SvoBUte SrAdDam-anvazwakyam tat-ahar-vA
+   brāhmaṇānhavirarhānupaveśya tāṃstarpayitvā tasmādagrerdakṣiṇataḥ	brAhmaNAn-haviH-arhAn-upaveSya tAn=-tarpayitvA tasmAt-agreH-dakziNatas-
+   ṣaḍagrīnpraṇīya teṣāmekaikasminnekaikāṃ karṣūkhānayedāyāmena prādeśamātrīṃ	zaz-agrIn-praNIya tezAm-ekEkasmin=-ekEkAm karzU-KAnayet-AyAmena prAdeSa-mAtrIm
+   pārthivena tryaṅgulāmavāgvaikāṅgulāmiti tāsu	pArTivena tri-aFgula-Am-avAc-vEka-aFgulAm-iti tAsu
+   piṇḍānnidadhātyanunāmāpahastena mañjāḥ pitṛbhya upakarṣati pārśvāni	piNxAn-nidaDa-atyanunAma-apahastena maQjAH pitRByaH upakarzati pArSvAni
+   strīṇāṃ tatrādhvaryavaḥ kecidadhīyate madhyamaṃ piṇḍaṃ patnī	strINAm tatra-aDvaryavaH kecid-aDIyate maDyamam piNxam patnI
+   prāśnīyātprajākāmasya tathā śrāddhasya sthālīpākaṃ vā śrāddhasya	prASnIyAt-prajA-kAmasya taTA SrAdDasya sTAlIpAkam vA SrAdDasya
+   sthālīpākaṃ vā // JaimGS_2.3 //	sTAlI-pAkam vA // JEmGS_2.3 //
+   JaimGS 2.4:	JEmGS 2.4:
+   āhitāgneḥ śarīranāśe trīṇi ṣaṣṭiśatāni palāśatsarūṇāmāhṛtya taiḥ	AhitAgneH SarIra-nASe trINi zazwi-SatAni palASat-sarUNAm-AhRtya tEH
+   pratikṛtiṃ kuryātkṛṣṇājine 'śītyardhaṃ śirasi dadhyādgrīvāyāṃ tu daśaiva	pratikRtim kuryAt-kRzNa-ajine aSIti-arDam Sirasi daDyAt-grIvAyAm tu daSa-eva
+   tu bāhvoścaiva śataṃ dadhyātaṅguliṣu punardaśā urasi triṃśataṃ	tu bAhvoH-ca-eva Satam daDyAtaFgulizu punar-daSAH urasi triMSatam
+   dadhyājjaṭhare viṃśatīṃ tathorvoścaiva śataṃ dadhyāt meḍhre cāpi daśaiva	daDyAt-jaWare viMSatIm taTA-urvoH-ca-eva Satam daDyAt meXre ca-api daSa-eva
+   tu jānujaṃghayostriṃśata dadhyāt daśa pādāṅgulīṣvapi ityetāvantīha	tu jAnu-jaMGayoH-triMSata daDyAt daSa pAda-aFgulIzu-api iti-etAvanti-iha
+   puruṣasya śarīrāṇi bhavantīti vijñāyate madhye śarīraṃ	puruzasya SarIrANi Bavanti-iti vijQAyate maDye SarIram
+   satīśarīramuptakeśaṃ nikṛttanakhaṃ prakṣālitaṃ citāmāropayantyatra	satI-SarIra-mupta-keSam nikRtta-naKam prakzAlitam citAm-Aropayanti-atra
+   pātrāṇyapi cinoti tasyāmenamādadhati tasya nāsikayoḥ sruvau	pAtrANi-api cinoti tasyAm-enam-AdaDati tasya nAsikayoH sruvO
+   nidadhyādityetenānuvākena ya evaṃvitsyātsa yadopatāpī syāditi pūrvameva	nidaDyAt-iti-etena-anuvAkena yaH evaMvitsyAt-sa yadA-upatApI syAt-iti pUrvam-eva
+   caturgṛhītaṃ gṛhītvānyaṃ yathāsaṃbhavamāsye	catur-gRhItam gRhItvA-anyam yaTAsaMBavam-Asye
+   hiraṇyaśakalamamādhāyāgnīnupohya sāmabhirupatiṣṭhate nāke suparṇamiti	hiraNya-Sakalam-amADAya-agnIn-upohya sAmaBiH-upatizWate nAke suparNam-iti
+   grāmyaṃ geyamudite dhūme tveṣaste dhūma ṛṇvatītyagnau samārūḍhe 'gne mṛḍa	grAmyam geya-mudite DUme tu-ezaH-te DUmaH RNvatI-iti-agnO samArUXe agne mRxa
+   mahaṃ asītyetayoranyatareṇa parāk parāgvā asau loka iti brāhmaṇam //	maham asi-iti-etayoH-anyatareNa parAk parAk-vA asO lokaH iti brAhmaNam //
+   JaimGS_2.4 //	JEmGS_2.4 //
+   JaimGS 2.5:	JEmGS 2.5:
+   āhitāgneśvetpūrvaṃ jāyā mriyeta tāṃ nirmanthyena dahetsāṃtapanena vā	AhitAgna-ISvet-pUrvam jAyA mriyeta tAm nirmanTyena dahet-sAMtapanena vA
+   śmaśānakṛtaṃ svakṛtamaniriṇamapasalavakrodakaṃ kṛtvā yatra vauṣadhayo	SmaSAna-kRtam sva-kRtam-aniriNam-apasala-vakrodakam kRtvA yatra vOzaDayaH-
+   jāyante tatra śarīraṃ dagdhvodakakaraṇāya yāntyanavekṣamāṇā na vāhinīṣu	jAyante tatra SarIram dagDvA-udaka-karaNAya yAnti-anavekzamANAH na vAhinIzu
+   kurvanti teṣāṃ yoyaḥ paścāñjātaḥ saso 'graṃ kuryādupakūlamakūle kūpaṃ	kurvanti tezAm yoyaH paScAn-jAtaH sasaH agram kuryAt-upakUla-makUle kUpam
+   khātvā savyahastasyānāmikayā sakṛdudakaṃ prohati pretasya nāmakaraṇena	KAtvA savya-hastasya-anAmikayA sakRt-udakam prohati pretasya nAmakaraNena
+   vāhinīṣu cedudgrathya keśānnimajyaikāñjaliṃ dattvopasaṃgṛhya	vAhinIzu ced-udgraTya keSAn-nimajya-eka-aQjalim dattvA-upasaMgRhya
+   keśānulmukasyāgnimārabhetāgre śūkāhe pāpaṃ me 'pahateti śamīmārabheta	keSAnulmukasya-agnimAra-Beta-agre SUka-ahe pApam me apahata-iti SamIm-AraBeta
+   śamyasi śamaya me pāpamityaśmānamārabhetāśmāsi sthiro 'syahaṃ sthiro	Samyasi Samaya me pApam-iti-aSmAnam-AraBeta-aSmA-asi sTiraH asi-aham sTiraH-
+   bhūyāsamiti tūṣṇīṃ gomayaṃ kṛtodakaṃ dakṣiṇāmukhamāsīnaṃ tamanugantāra	BUyAsam-iti tUzNIm gomayam kRta-udakam dakziNAmuKam-AsInam tam-anugantAra
+   upaviśanti tānitaraḥ kalyāṇībhirvāgbhiḥ pratyāhopāstamanavelāyāṃ grāmaṃ	upaviSanti tAn-itaraH kalyANIBiH-vAgBiH pratyAha-upAsta-mana-velAyAm grAmam
+   praviśanti tāṃ rātrimekamāṣeṇa vasanti śāntyā vā śvo bhūte kṣīrodake	praviSanti tAm rAtrim-eka-mAzeNa vasanti SAntyA vA Svas BUte kzIrodake
+   saṃsṛjya śarīrāṇyavasiñcatyajaśṛṅgeṇa gośṛṅgena mṛṇamayena kośena vā	saMsRjya SarIrANi-avasiQcati-aja-SRFgeNa go-SRFgena mRNa-mayena koSena vA
+   tṛtīyāyāṃ gandhauṣadhībhiḥ saṃsṛjya śamīśākhayā palāśaśākhayā	tRtIyAyAm ganDa-ozaDIBiH saMsRjya SamI-SAKayA palASa-SAKayA
+   vāsaṃhlādayankumbhyāmavadadhyātstrī cedvaṭa eva dadhyāccatuṣpathamatītya	vA-asaMhlAdayan-kumByAm-avadaDyAt-strI ced-vawaH eva daDyAt-catuzpaTam-atItya
+   mahāvṛkṣaṃ nadīṃ vā tīrtheṣu nikhanet pretasya tṛtīyāyāṃ	mahA-vRkzam nadIm vA tIrTezu niKanet pretasya tRtIyAyAm
+   snāpayantyapāmārgeṇa mṛdā gomayena ca vāsāṃsi prakṣālya daśarātramāsate	snApayanti-apAmArgeNa mRdA gomayena ca vAsAMsi prakzAlya daSa-rAtram-Asate
+   caturthyāṃ bhikṣāmāvartayerantasya siddhamagnaukaraṇaṃ kālaṃ ca	caturTyAm BikzAm-AvartayeH-antasya sidDam-agnOkaraNam kAlam ca
+   yāvadākāṃkṣeyurbhikṣayānusaṃtareyurūrdhvaṃ daśarātrācchrāddhaṃ dadyurna	yAvat-AkAMkzeyuH-BikzayA-anusaMtareyuH-UrDvam daSa-rAtrAt-SrAdDam dadyuH-na
+   dadyurā śrāddhasya pradānānnakṣatreṣu niyamo madhāsvekatāreṣu bharaṇīṣu ca	dadyurA SrAdDasya pradAnAt-nakzatrezu niyamaH maDAsu-eka-tArezu BaraNIzu ca
+   pūrvasamayeṣu na rehiṇayamuttareṣu dhruveṣu brāhmaṇānhavirarhānupaveśya	pUrva-samayezu na rehiNayam-uttarezu Druvezu brAhmaNAn-haviH-arhAn-upaveSya
+   tāṃstarpayitvaikavatpiṇḍaṃ dadyānna cānviti brūyātsarvaiḥ	tAn=-tarpayitvA-eka-vat-piNxam dadyAt-na ca-anu-iti brUyAt-sarvEH
+   karmaistarpayedanugamanaṃ kṛtvā śeṣamanujñāpya pratyetya śeṣaṃ na	karmEH-tarpayet-anugamanam kRtvA Sezam-anujQApya pratyetya Sezam na
+   prāśnīyādbrāhmaṇānsvasti vācya prāśnīyāt // JaimGS_2.5 //	prASnIyAt-brAhmaNAn-svasti vAcya prASnIyAt // JEmGS_2.5 //
+   JaimGS 2.6:	JEmGS 2.6:
+   athāto gṛhakarmaṇo gṛhavṛddhimicchanmāsimāsyūtāvṛtau saṃvatsare saṃvatsare	aTa-atas gRha-karmaNaH gRha-vRdDim-icCat-mAsi-mAsyUtO=-RtO saMvatsare saMvatsare
+   vā pūrvapakṣe puṇye nakṣatre	vA pUrva-pakze puNye nakzatre
+   gṛhaśāntimārabhetāpāmārgapalāśaśirīpākāraidumbaralasadābhadrāmṛtatṛṇamindravallībhirbaddhvā	gRha-SAntimAra-Beta-apAmArga-palASa-SirI-pAkAra-edumbara-lasadA-BadrA-amRta-tRNam-indra-vallIBiH-badDvA
+   gṛhānparimārjya parisamūhyāpo 'bhyukṣya pañcagavyairdarbhamuṣṭinā	gRhAn-parimArjya parisamUhya-apaH aByukzya paQcagavyEH-darBa-muzwinA
+   saṃprokṣya siddhārthakānsaṃprakīrya vāstubaliṃ kṛtvā vāstormadhye	saMprokzya sidDArTakAn-saMprakIrya vAstu-balim kRtvA vAstoH-maDye
+   vāstoṣpattiṃ hutvā sāvitryā sahasraṃ juhuyāttato dakṣiṇapurastāttato	vAstozpattim hutvA sAvitryA sahasram juhuyAt-tatas dakziNa-purastAt-tatas-
+   dakṣiṇāpaścāttata uttarapurastāttata uttarapaścānmadhye vā gaurvāso	dakziNA-paScAt-tatas uttara-purastAt-tatas uttara-paScAt-maDye vA gOH-vAsaH-
+   hiraṇyaṃ dakṣiṇā brāhmaṇānannena pariviṣyaṃ puṇyāhaṃ svastyuddhimiti	hiraNyam dakziNA brAhmaNAn-annena parivizyam puNya-aham svasti-udDim-iti
+   vācayitvaivaṃ prayuñjāno 'nantaṃ mahāntaṃ poṣaṃ puṣyati bahavaḥ putrā	vAcayitvA-evam prayuQjAnaH anantam mahAntam pozam puzyati bahavaH putrA
+   bhavanti na ca bālāḥ pramīyante nāgnirdahati na daṃṣṭriṇaḥ khādayeyurna	Bavanti na ca bAlAH pramIyante na-agniH-dahati na daMzwriNaH KAdayeyuH-na
+   taskarāḥ sapatnā rakṣāṃsi piśācā api bādhante yadi gāvaḥ pratapyerangavāṃ	taskarAH sapatnAH rakzAMsi piSAcAH api bADante yadi gAvaH pratapya-iran-gavAn
+   madhya āhutisahasraṃ juhuyādityetenaiva	maDye Ahuti-sahasram juhuyAt-iti-etena-eva
+   kalpenāścoṣṭrakharājāvikamahiṣahastikulamanyataraddvipadāṃ catuṣpadāṃ ca	kalpenAH-ca-uzwra-Ka-rAja-Avika-mahiza-hasti-kulam-anyatarat-dvipadAm catuzpadAm ca
+   vyākhyātam // JaimGS_2.6 //	vyAKyAtam // JEmGS_2.6 //
+   JaimGS 2.7:	JEmGS 2.7:
+   athāto 'dbhutaśāntiṃ vyākhyāsyāmo 'tha yadyagāre sthūṇā virohet kapoto	aTa-atas adButa-SAntim vyAKyAsyAmaH aTa yadi-agAre sTUNA virohet kapotaH-
+   vāgāraṃ gacchedgaurvā gāṃ dhayedanahvānvā divamullikhedanagnau vā dhūmo	vAgAram gacCet-gOrvAH gAm Dayet-anahvAn-vA divam-ulliKet-anagnO vA DUmaH-
+   jāyetānagnau vā dīpyeta madhu vā jāyeta valmīkaṃ vopajāyeta maṇḍūko	jAyeta-anagnO vA dIpyeta maDu vA jAyeta valmIkam vA-upajAyeta maNxUkaH-
+   vāmbhṛṇe vāśyecchvāno vā gṛhe paryaṭeyurityetānanyāṃśca yata indra	vAmBRNe vASyet-SvAnaH vA gRhe paryaweyuH-iti-etAn-anyAn=-ca yatas indra
+   bhayāmahe /	BayAmahe /
+   sadasaspatimadbhutam /	sadasaspatim-adButam /
+   adhāyāmutesumudasya /	aDAya-amutesu-mudasya /
+   sanādagre /	sanAt-agre /
+   yadvā u viśpatiḥ śitaḥ /	yat-vA u viSpatiH SitaH /
+   pratyagre /	pratyagre /
+   yaṃ rakṣanti /	yam rakzanti /
+   prajāpatyayarcā purastāccopariṣṭācca mahāvyāhṛtibhirjuhoti etānyṛksāmāni	prajApati-ayA-RcA purastAt-ca-uparizwAt-ca mahAvyAhRtiBiH-juhoti etAni-Rc-sAmAni
+   gāyeti // JaimGS_2.7 //	gAyA-iti // JEmGS_2.7 //
+   JaimGS 2.8:	JEmGS 2.8:
+   athāto 'naśnatsaṃhitāyāḥ kalpaṃ vyākhyāsyāmaḥ śucivāsāḥ syāccīravāsā vā	aTa-atas anaSnatsaMhitAyAH kalpam vyAKyAsyAmaH Suci-vAsAH syAt-cIra-vAsAH vA
+   haviṣyamannamaśanamicchedapaḥ phalāni vā brāhmaṇastveva pratyāharetprāṅ	havizyam-annam-aSanam-icCet-apaH PalAni vA brAhmaNaH-tu-eva pratyAharet-prAF
+   vodaṅ vā grāmānniṣkramya śucau deśa udakānte vā gomayena gocarmamātraṃ	vA-udaF vA grAmAt-nizkramya SucO deSaH udaka-ante vA gomayena gocarma-mAtram
+   sthaṇḍilamupalipya prokṣya	sTaNxilam-upalipya prokzya
+   lakṣaṇamullikhyādbhirabhyukṣyāgnimupasamādhāyāghārāvājyabhāgau	lakzaNam-ulliKya-adBiH-aByukzya-agnim-upasamADAya-AGAra-a=-Ajya-BAgO
+   hutvājyāhutīrjuhotyagnaye somāya rudrāyendrāya brahmaṇe prajāpataye	hutvA-Ajya-AhutIH-juhoti-agnaye somAya rudrAya-indrAya brahmaNe prajApataye
+   bṛhaspataye viśvebhyo devebhya ṛṣibhya ṛgbhyo yajurbhyaḥ sāmabhyaḥ	bRhaspataye viSveByaH deveByaH RziByaH RgByaH yajurByaH sAmaByaH
+   śraddhāyai prajñāyai medhāyai sāvitryai sadasaspataye 'numataye ca hutvā	SradDAyE prajQAyE meDAyE sAvitryE sadasaspataye anumataye ca hutvA
+   durbheṣvāsīnaḥ prāktūleṣūdaktūleṣu vā dakṣiṇena pāṇinā	durBezu-AsInaH prAc-tUlezu-udaktUlezu vA dakziNena pANinA
+   darbhāndhārayannopūrvā vyāhṛtīḥ sāvitrīṃ ca caturanudrutya manasā	darBAn-DArayat-nopUrvAH vyAhRtIH sAvitrIm ca catur-anudrutya manasA
+   sāmasāvitrīṃ ca somaṃ rājānaṃ brahmajajñānīye cobhe vedādimārabheta	sAma-sAvitrIm ca somam rAjAnam brahma-jajQAnIye ca-uBe veda-Adim-AraBeta
+   saṃtatamadhīyīta maunī na cāntarā viramet athāntaraḥ vyāharedathāntarā	saMtatam-aDIyIta mOnI na ca-antarA viramet aTa-antaraH vyAharet-aTa-antarA
+   viramet trīnprāṇānāyamyatamyācamya vṛttāntādevārabhetāpratibhāyāṃ yāvatā	viramet trIn-prANAn-Ayamyatamya-Acamya vRttAntAt-eva-Ara-BetA-pratiBAyAm yAvatA
+   kālena vedamadhīyīta tāvatkālamadhīyīta yajjānīyādṛkto yajuṣṭaḥ	kAlena vedam-aDIyIta tAvatkAlam-aDIyIta yat-jAnIyAt-RktaH yajuzwaH
+   sāmatastadavāpnuyāttadbrāhmaṇaṃ tacchāndasaṃ taddaivataṃ sāma vā	sAmataH-tad-avApnuyAt-tat-brAhmaNam tad-CAndasam tat-dEvatam sAma vA
+   akānityetadeva vābhyasyettiṣṭhānnāsīnaḥ śayānaścaṅkramyamāṇo vā saṃhitāṃ	akAn-iti-etat-eva vA-aByasyet-tizWAn-=-a-AsInaH SayAnaH-caFkramyamANaH vA saMhitAm
+   prayuñjyātsamṛddhirevāsya bhavatyādyaṃ trivargaṃ vā sahasrakṛtva iti	prayuQjyAt-samRdDiH-eva-asya Bavati-Adyam trivargam vA sahasra-kRtvas iti
+   jaiminiśca vāryamantaṃ vā yathākāmī vā dvādaśa saṃhitā adhītya	jEminiH-ca vAryam-antam vA yaTAkAmI vA dvAdaSa saMhitAH aDItya
+   yadanenānadhyāyeṣvadhītaṃ yadguravaḥ kopitā yānyakāryāṇi kṛtāni tābhiḥ	yat-anena-anaDyAyezu-aDItam yat-guravaH kopitAH yAni-akAryANi kRtAni tABiH
+   pavate śuddhamasya pūtaṃ brahma bhavatyathāparā dvādaśa saṃhitā adhītya	pavate SudDam-asya pUtam brahma Bavati-aTa-aparAH dvAdaSa saMhitAH aDItya
+   tābhiḥ prajāpaterlokamavāpnotyanaśnatsaṃhitāsahasramadhītya brahmabhūto	tABiH prajApateH-lokam-avApnoti-anaSnatsaMhita-asahasram-aDItya brahma-BUtaH-
+   virajo bhavati kāmacārī sarvānkāmānavāpnoti saṃvatsaraṃ bhaikṣabhakṣaḥ	virajaH Bavati kAma-cArI sarvAn-kAmAn-avApnoti saMvatsaram BEkza-BakzaH
+   prayuñjānaścakṣurlabhate ṣaṇmāsānyāvakabhakṣaścaturo māsānudakasaktubhakṣo	prayuQjAnaH-cakzuH-laBate zaz-mAsAnyAvaka-BakzaH-caturaH mAsAn-udaka-saktu-BakzaH-
+   dvau māsau phalabhakṣo māsamabbhakṣo dvādaśarātraṃ vānaśnan	dvO mAsO PalaBakzaH mAsam-abBakzaH dvAdaSa-rAtram vAn-aSnan
+   kṣipramantardhīyate jñātīnpunāti saptātītānsaptānāgatānātmānaṃ ca	kzipram-antarDIyate jQAtIn-punAti sapta-atItAn-sapta-anAgatAn-AtmAnam ca
+   pañcadaśaṃ tārayate tāmetāṃ devaniśreṇītyācakṣata etayā vai devā	paQcadaSam tArayate tAm-etAm deva-niSreNI-iti-Acakzate etayA vE devA
+   devatvamagacchannṛṣaya ṛṣitvaṃ tasya ha vā etasyā brahmasatrasya trividha	deva-tvam-agacCat-=-RzayaH Rzi-tvam tasya ha vE etasyAH brahma-satrasya triviDa
+   evārabhyo bhavati prātaḥsavane mādhyaṃdine savane brāhme vāpararātre tasya	eva-AraByaH Bavati prAtaHsavane mADyaMdine savane brAhme vA-apararAtre tasya
+   ha vai etasya dvāvevānadhyāyau yadātmāśuciryaddeśastadvā etatprajāpatiḥ	ha vE etasya dvO=-eva-anaDyAyO yad-Atma-aSuciH-yat-deSaH-tat-vA etat-prajApatiH
+   saptaṛṣibhyaḥ provāca saptaṛṣayo mahājahnave mahājahnurbrāhmaṇebhyo	sapta-RziByaH provAca sapta-RzayaH mahA-jahnave mahA-jahnuH-brAhmaNeByaH-
+   brāhmaṇebhyaḥ // JaimGS_2.8 //	brAhmaNeByaH // JEmGS_2.8 //
+   JaimGS 2.9:	JEmGS 2.9:
+   atha grahāṇamātithyaṃ balikarmopurataṃ vyākhyāsyāmaḥ	aTa grahANam-AtiTyam balikarmopuratam vyAKyAsyAmaH
+   aśraddadhānamaśucikaraṇamajāpyaṃ tyaktamaṅgalaṃ /	aSraddaDAnam-aSuci-karaNam-ajApyam tyakta-maFgalam /
+   suvyaktaṃ grahā nayanti /	su-vyaktam grahAH nayanti /
+   puruṣaṃ yamasādanam /	puruzam yama-sAdanam /
+   grahāṇāṃ dīpraceṣṭānāṃ nakṣatrapathacāriṇām /	grahANAm dIpra-cezwAnAm nakzatra-paTa-cAriNAm /
+   grahātithyaṃ pravakṣyāmi śāntikarmaṇi kārayet /	graha-AtiTyam pravakzyAmi SAnti-karmaNi kArayet /
+   bhāskarāṅgārakau raktau śvetau śukaniśākarau /	BAskara-aFgArakO raktO SvetO Suka-niSAkarO /
+   somaputro guruścaiva tāvubhau pītako smṛtau /	somaputraH guruH-ca-eva tO=-uBO pItakaH smRtO /
+   kṛṣṇaṃ śanaiśvaraṃ vidyādrāhuṃ kretuṃ tathaiva ca /	kRzNam Sana-ESvaram vidyAt-rAhum kretum taTA-eva ca /
+   grahavarṇāni puṣpāṇi prājñastatropakalpayet /	graha-varNAni puzpANi prAjQaH-tatra-upakalpayet /
+   gomayena gocarmamātraṃ sthaṇḍilamupalipya prokṣya	gomayena gocarma-mAtram sTaNxilam-upalipya prokzya
+   lakṣaṇamullikhyādbhirabhyukṣyāgnimupasamādhāyāṅārāvājyabhāgau hutvā	lakzaNam-ulliKya-adBiH-aByukzya-agnim-upasamADAya-aFArOvAjya-BAgO hutvA
+   grahānāvāhantyādityaṃ madhye lohitaṃ pūrvadakṣiṇataḥ somam /	grahAn-AvAhanti-Adityam maDye lohitam pUrva-dakziNatas somam /
+   pūrvottarato budhamuttareṇa guruṃ pūrveṇa bhārgavam /	pUrva-uttaratas buDam-uttareNa gurum pUrveNa BArgavam /
+   paścime śanaiścaraṃ vidyādrāhuṃ dakṣiṇapaścime paścimottarataḥ ketuṃ	paScime SanEScaram vidyAt-rAhum dakziNa-paScime paScima-uttarataH ketum
+   vṛttamādityāya trikoṇamaṅgārakasya caturaśraṃ somāya bāṇaṃ budhāya	vRttam-AdityAya trikoNam-aFgArakasya caturaSram somAya bANam buDAya
+   dīrghacaturaśraṃ bṛhaspataye pañcakoṇaṃ śukrāya dhanuḥ śanaiścarāya rāhoḥ	dIrGa-caturaSram bRhaspataye paQcakoNam SukrAya DanuH SanEScarAya rAhoH
+   śūrpaṃ ketordhvajamiti īśvaraṃ bhāskaraṃ vidyāta umāṃ somaṃ tathaiva ca /	SUrpam keta-UrDvajam-iti ISvaram BAskaram vidyAtaH umAm somam taTA-eva ca /
+   skandamaṅgārakaṃ caiva budho nārāyaṇaḥ sthitaḥ /	skandam-aFgArakam ca-eva buDaH nArAyaNaH sTitaH /
+   bṛhaspatiḥ svayaṃ brahma śukraḥ śakrastathaiva ca /	bRhaspatiH svayam brahma SukraH SakraH-taTA-eva ca /
+   yamaṃ śanaiścaraṃ vidyādrāhoḥ kāladūtinaḥ ketościtraguptaścetyete	yamam SanEScaram vidyAt-rAhoH kAladUtinaH ketoH-citraguptaH-ca-iti-ete
+   grahadevatāḥ agnirāpo bhūmirviṣṇurindrāṇī prajāpatiḥ sarpo brahmetyete	graha-devatAH agniH-ApaH BUmiH-vizNuH-indrANI prajApatiH sarpaH brahma-iti-ete
+   pratyadhidevatāḥ jātamarka kaliṅgeṣu yāmuneṣu ca candramāḥ /	pratyaDidevatAH jAtam-arka kaliFgezu yAmunezu ca candramAH /
+   vindhya aṅgārakadeśo madhyadeśo budhaḥ smṛtaḥ /	vinDya aFgAraka-deSaH maDyadeSaH buDaH smRtaH /
+   bṛhaspatiḥ sindhudeśaḥ śakradeśo ghaṭeṣu ca /	bRhaspatiH sinDu-deSaH Sakra-deSaH Gawezu ca /
+   śanaiścarastu saurāṣṭro rāhustu pūrvadeśikaḥ ketuḥ parvata ityete deśānāṃ	SanEScaraH-tu sOrAzwraH rAhuH-tu pUrva-deSikaH ketuH parvataH iti-ete deSAnAm
+   grahajāta iti arkasamidhamādityāya	graha-jAtaH iti arka-samiDam-AdityAya
+   prādeśamātrābhidhāritānāmyādibhirjuhuyāt khādiramaṅgārakāya pālāśaṃ	prAdeSa-mAtra-aBiDAritAnAmi-AdiBiH-juhuyAt KAdiram-aFgArakAya pAlASam
+   somāyāpāmārgaṃ budhāyāśvatthaṃ bṛhaspataya audumbaraṃ śukrāya śamīṃ	somAya-apAmArgam buDAya-aSvatTam bRhaspatayaH Odumbaram SukrAya SamIm
+   śanaiścarāya rāhordūrvāḥ ketoḥ	SanEScarAya rAhoH-dUrvAH ketoH
+   kuśāgramityaṣṭāviṃśatimājyāhutīrjuhotyetābhiḥ pakvāgnerjuhotyādityāya	kuSAgram-iti-azwAviMSatim-Ajya-AhutIH-juhoti-etABiH pakva-agneH-juhoti-AdityAya
+   ilodanaṃ haviṣyamannamaṅgārakāya somāya ghṛtapāyasaṃ payodanaṃ bṛhaspataye	ilodanam havizyam-annam-aFgArakAya somAya GRta-pAyasam payodanam bRhaspataye
+   kṣīrodanaṃ śukrāya dadhyodanaṃ budhāya tilapiṣṭamāṣodanaṃ śanaiścarāya	kzIrodanam SukrAya daDi-odanam buDAya tila-pizwam-Azodanam SanEScarAya
+   rāhormāṃsodanaṃ ketościtrodanamiti ā satyenetyādityāya agnirmūrdhā diva	rAhoH-mAMsodanam ketoH-citrodanam-iti A satyena-ityAdityAya agniH-mUrDA diva
+   ityaṅgārakāya āpyāyasva sametu iti somāya brahma jajñānamiti budhāya	iti-aFgArakAya ApyAyasva sametu iti somAya brahma jajQAnam-iti buDAya
+   bṛhaspate ati yadarya iti bṛhaspataye asya pratnāmanu dyutamiti śukrāya	bRhaspate ati yat-aryaH iti bRhaspataye asya pratnAm-anu dyutam-iti SukrAya
+   śaṃ no devīrabhiṣṭaya iti śanaiścarāya kayā naścitra ābhuvaditi rāhoḥ	Sam naH devIH-aBizwayaH iti SanEScarAya kayA naH-citraH ABuvat-iti rAhoH
+   ketuṃ kṛṇavannaketava ithi ketoḥ raktaṃ dhenumādityāya	ketum kRNavanna-ketavaH iTi ketoH raktam Denum-AdityAya
+   raktamanaḍvāhamaṅgārakāya somāya śaṅkhaṃ budhāya kāñcanaṃ bṛhaspataye	raktam-anaxvAham-aFgArakAya somAya SaFKam buDAya kAQcanam bRhaspataye
+   vāsaḥ śukrāya hayaṃ nīlāṃ gāṃ śanaiścarāya rāhoḥ kṛṣṇāyasaṃ ketoḥ	vAsaH SukrAya hayam nIlAm gAm SanEScarAya rAhoH kRzNAyasam ketoH
+   kuñjaramiti sarveṣāmapi hiraṇyaṃ vā yena vā tuṣyatyācāryastaddadāti yathā	kuQjaram-iti sarvezAm-api hiraNyam vA yena vA tuzyati-AcAryaH-tat-dadAti yaTA
+   samutthitaṃ yantraṃ yantreṇa pratihanyate /	samutTitam yantram yantreNa pratihanyate /
+   tathā grahopaspṛṣṭānāṃ śāntirbhavati dāruṇam //	taTA graha-upaspRzwAnAm SAntiH-Bavati dAruNam //
+   nādiśettapasā yuktaṃ nādiśeddivamāśritam /	na-AdiSet-tapasA yuktam na-adiSet-divam-ASritam /
+   na ca vedāntakaṃ vipraṃ vṛttāntāṃ nārīṃ parivṛtām //	na ca vedAntakam vipram vRttAntAm nArIm parivRtAm //
+   ahiṃsakasya dāntasya dharmajighanasya ca /	ahiMsakasya dAntasya Darma-jiGanasya ca /
+   nityaṃ ca niyamasthasya sadānugrahā grahāḥ //	nityam ca niyama-sTasya sadA-anugrahAH grahAH //
+   grahā gāvo narendrāśca brāhmaṇāśca viśeṣataḥ /	grahAH gAvaH narendrAH-ca brAhmaNAH-ca viSezataH /
+   pūjitāḥ pūjayantyete nirdahantyavamānitā // JaimGS_2.9 //	pUjitAH pUjayanti-ete nirdahanti-avamAnitAH // JEmGS_2.9 //
+   // iti jaiminisūtraṃ samāptam //	// iti jEmini-sUtram samAptam //

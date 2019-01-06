@@ -1,0 +1,1487 @@
+   ŚGS_1.1.1: atha.ataḥ.pāka.yajñān.vyākhyāsyāmaḥ /	ŚGS_1.1.1: aTa.ataH.-pAka.yajQA-an.vyAKyAsyAmaH /
+   ŚGS_1.1.2:	ŚGS_1.1.2:
+   abhisamāvartsyamāno.yatra.antyām.samidham.abhyādadhyāt.tam.agnim.indhīta /	aBisamAvartsyamAnaH-.yatra.antyAm.samiDam-.aByAdaDyAt.tam-.agnim-.inDIta /
+   ŚGS_1.1.3: vaivāhyam.vā /	ŚGS_1.1.3: vEvAhyam-.vA /
+   ŚGS_1.1.4: dāyādya.kāla.eke /	ŚGS_1.1.4: dAyAdya.kAla-.eke /
+   ŚGS_1.1.5: prete.vā.gṛhapatau.svayam.jyāyān /	ŚGS_1.1.5: prete.vA.gRhapatO.-svayam-.jyAyAn /
+   ŚGS_1.1.6: vaiśākhyām.amāvāsyāyām.anyasyām.vā /	ŚGS_1.1.6: vESAKyAm-.amAvAsyAyAm-.anyasyAm-.vA /
+   ŚGS_1.1.7: kāmato.nakṣatra.eke /	ŚGS_1.1.7: kAmato.-nakzatra-.eke /
+   ŚGS_1.1.8:	ŚGS_1.1.8:
+   puru.paśu.viṭ.kula.ambarīṣa.bahu.yājinām.anyatamasmād.agnim.indīta /	puru.paSu.-viw.-kula-.ambarIza.-bahu.yAjinAm-.anyatam-asmAt-.agnim-.indIta /
+   ŚGS_1.1.9: sāyam.prātar.eke /	ŚGS_1.1.9: sAyam.-prAtar-.eke /
+   ŚGS_1.1.10: sāyam.āhuti.saṃskāro.adhvaryu.pratyaya.iti.ācāryāḥ /	ŚGS_1.1.10: sAyam.Ahuti.-saMskAraH-.aDvaryu.-pratyaya-.iti-.AcAryAH /
+   ŚGS_1.1.11: prātaḥ.pūrṇa.āhutim.juhuyād.vaiṣṇavyā.ṛcā.tūṣṇīm.vā /	ŚGS_1.1.11: prAtaH.pUrNa.Ahutim.ju-huyAt-.vEzNavyA.RcA.tUzNIm-.vA /
+   ŚGS_1.1.12: tasya.prāduṣ.karaṇa.havana.kālāv.agni.hotreṇa.vyākyātau /	ŚGS_1.1.12: tasya.-prAduz.karaNa-.havana.kAlO=-.agni-.hotreNa.-vyAkyAtO /
+   ŚGS_1.1.13: yajña.upavītī.ity.ādi.ca.sambhavat.sarvam.kalpa.ekatvāt /	ŚGS_1.1.13: yajQa.upavItI.iti-.Adi-.ca.-samBavat.-sarvam-.kalpa-.eka-tvAt /
+   ŚGS_1.1.14: tad.apy.āhuḥ /	ŚGS_1.1.14: tad-.api-.AhuH /
+   ŚGS_1.1.15ab: pāka.saṃsthā.haviḥ.saṃsthāḥ.soma.saṃsthās.tathā.aparāḥ /	ŚGS_1.1.15ab: pAka.saMsTA.haviH.-saMsTAH.-soma.-saMsTAs.-taTA.aparAH /
+   ŚGS_1.1.15cd: ekaviṃśatir.ity.etā.yajña.saṃsthāḥ.prakīrtitāḥ /	ŚGS_1.1.15cd: ekaviMSatiH-.iti-.etA.-yajQa.-saMsTAH.-prakIrtitAH /
+   ŚGS_1.2.0: atha.brāhmaṇa.bhojanam /	ŚGS_1.2.0: aTa.-brAhmaNa.-Bojanam /
+   ŚGS_1.2.1: karma.apavarge.brāhmaṇa.bhojanam /	ŚGS_1.2.1: karma-.apavarge.-brAhmaNa.-Bojanam /
+   ŚGS_1.2.2: vāg.rūpa.vayaḥ.śruta.śīla.vṛttāni.guṇāḥ /	ŚGS_1.2.2: vAc-.-rUpa.vayaH.Sruta.-SIla.-vRtta-ani.guNAH /
+   ŚGS_1.2.3: śrutam.tu.varvān.atyeti /	ŚGS_1.2.3: Srutam.tu.varvAn-.atyA-iti /
+   ŚGS_1.2.4: na.śrutam.atīyāt /	ŚGS_1.2.4: na.Srutam-.atIyAt /
+   ŚGS_1.2.5ab: adhidaivam.atha.adhyātmam.adhiyajñam.iti.trayam /	ŚGS_1.2.5ab: aDidEvam.aTa-.aDyAtmam-.aDi-yajQam-.iti.-trayam /
+   ŚGS_1.2.5cd: mantreṣu.brāhmaṇe.caiva.śrutam.ity.abhidhīyate /	ŚGS_1.2.5cd: mantrezu.-brAhmaNeH-ca-eva.-Srutam-.ity.aBiDIyate /
+   ŚGS_1.2.6ab: kriyāvantam.adhīyānam.śruta.vṛddham.tapasvinam /	ŚGS_1.2.6ab: kriyAvantam-.aDIyAnam-.Sruta.-vRdDam-.tapasvinam /
+   ŚGS_1.2.6cd: bhojayet.tam.sasṛd.yas.tu.na.tam.bhūyaḥ.kṣud.aśnute /	ŚGS_1.2.6cd: Bojayet.tam.sa-sRd.ya-s.tu.na.tam.BUyaH.kzuD-.aSnute /
+   ŚGS_1.2.7ab: yām.titarpayiṣet.kāṃcid.devatām.sarva.karmasu /	ŚGS_1.2.7ab: yAm.titarpayizet.kAMcid-.devatAm.sarva.karmasu /
+   ŚGS_1.2.7cd: tasyā.uddiśya.manasā.dadyād.evam.vidhāya.vai /	ŚGS_1.2.7cd: tasya-a.uddiSya.manasA-a.dadyAt-.evam-.viDAya.-vE /
+   ŚGS_1.2.8ab: na.evam.vidhe.havir.nyastam.na.gacched.devatām.kvacit /	ŚGS_1.2.8ab: na.evam.viDe.haviH-.nya-sta-m.na.-gacCed.devatAm-.kvacid /
+   ŚGS_1.2.8cd: nidhir.eṣa.manuṣyāṇām.devānām.pātram.ucyate /	ŚGS_1.2.8cd: niDiH-.eza.-manuzyANAm-.devAnAm-.pAtram-.ucyate /
+   ŚGS_1.3.1: atha.darśa.pūrṇa.māsā.upoṣya /	ŚGS_1.3.1: aTa.-darSa.-pUrNa.-mAsA.-upozya /
+   ŚGS_1.3.2:	ŚGS_1.3.2:
+   prātar.yatra.etan.mahā.vṛkṣa.agrāṇi.sūrya.ātapati.sa.homa.kālaḥ.svastyayanatamaḥ.sarvāsām.āvṛtām.anyatra.nirdeśāt	prAtar-.yatra-.etan.-mahA.vRkza-.agrANi.-sUrya-.Atapati.-sa.homa.-kAlaH.svastyayana-tamaH-.-sarvA-sAm.a-AvRtAm.anyatra.-nirdeSAt
+   ŚGS_1.3.3:	ŚGS_1.3.3:
+   sumanāḥ.śuciḥ.śucau.varūthya.deśe.pūrṇa.vidhanam.carum.śrapayitvā.darśa.pūrṇa.māsa.devatābhyo.yathā.vibhāgam.sthālī.pākasya.juhoti	sumanAH.SuciH.Su-cO.varUTya.deSe.-pUrNa.-viDanam-.carum-.SrapayitvA-a.darSa.-pUrNa.mAsa.devatA-aByaH-.yaTA.-viBAgam-.sTAlI.-pAkasya.juhoti
+   ŚGS_1.3.4: sthālī.pākeṣu.ca.grahaṇa.āsādana.prokṣaṇāni.mantra.devatābhyaḥ	ŚGS_1.3.4: sTAlI.-pAka-izu.-ca.grahaNa-.AsAdana.-prokzaNA-ni.mantra.-devatAByaH
+   ŚGS_1.3.5: avadāna.dharmāś.ca /	ŚGS_1.3.5: avadAna.-Darma-AS.ca /
+   ŚGS_1.3.6:	ŚGS_1.3.6:
+   pūrvam.tu.darśa.pūrṇa.māsābhyām.anvārambhaṇīya.devatābhyo.juhuyāt /	pUrva-m.tu.darSa.-pUrNa.-mAsAByAm-.anvA-AramBaNIya.-devatA-aByaH-.-juhuyAt /
+   ŚGS_1.3.7: ā.paurṇamāsād.darśasya.anatītaḥ.kālaḥ.ā.darśāt.paurṇamāsasya /	ŚGS_1.3.7: A.pOrNamAsAt-.darSasya.anatItaH.-kAlaH.A.-darSAt.-pOrNamAsasya /
+   ŚGS_1.3.8: prātar.āhutim.ca.eke.sāyam.āhuti.kāle.atyayān.manyante /	ŚGS_1.3.8: prAtar-.a-Ahutim-.ca-.eke.-sAyam.a-Ahuti.-kAle.atyayAn-.manyante /
+   ŚGS_1.3.9:	ŚGS_1.3.9:
+   niyatas.tv.eva.kālo.agni.hotre.prāyaś.citta.darśanād.bhinna.kālasya /	niyata-s.tu-.eva.-kAlaH-.agni-.hotre.-prAya-S.citta.darSanAt-.Binna-.-kAlasya /
+   ŚGS_1.3.10: nitya.āhutyor.vrīhi.yava.taṇḍulānām.anyatamadd.haviḥ.kurvīta /	ŚGS_1.3.10: nitya.AhutyoH-.vrIhi.yava.-taNxulAnAm-.anyatamat-d.haviH.kurvIta /
+   ŚGS_1.3.11: abhāve.anyad.apratiṣiddham /	ŚGS_1.3.11: aBAve.anyat-.a-pratizidDam /
+   ŚGS_1.3.12: taṇḍulāṃś.cet.prakṣālya.eke /	ŚGS_1.3.12: taNxula-aMS.-cet.-prakzAlya-.eke /
+   ŚGS_1.3.13: itareṣām.asaṃskāraḥ /	ŚGS_1.3.13: itareza-Am.a-saMskAraH /
+   ŚGS_1.3.14: sāyam.agnaye.prātas.sūryāt /	ŚGS_1.3.14: sAyam.agnaye.-prAtas.-sUryAt /
+   ŚGS_1.3.15: prajāpataye.ca.anu.ubhayos.tūṣṇīm /	ŚGS_1.3.15: prajApatayet-ca.anu.uBayoH-.tUzNIm /
+   ŚGS_1.3.16: prāk.prāg.āhuteḥ.samidham.eke /	ŚGS_1.3.16: prAk.prAk-.AhuteH.samiDam-.eke /
+   ŚGS_1.3.17: yathā.uktam.paryukṣaṇam /	ŚGS_1.3.17: yaTA.uktam-.paryukzaNam /
+   ŚGS_1.4.0: atha.svādhyāya.vidhiḥ /	ŚGS_1.4.0: aTa.-svADyAya.-viDiH /
+   ŚGS_1.4.1: utthāya.prātar.ācamya.ahar.ahaḥ.svādhyāyam.adhīyīta /	ŚGS_1.4.1: utTAya.-prAtar-.Acamya-.ahar.ahaH.-svADyAyam-.aDIyIta /
+   ŚGS_1.4.2:	ŚGS_1.4.2:
+   <.adyā.no.deva.savitar.>.dve.<.apehi.manasas.pata.>.iti.sūktam.<.ṛtam.ca.satyam.ca.>.iti.sūktam.<.ādityā.ava.hi.khyata.>.iti.sūkta.śeṣaḥ..iti.ekā.<.haṃsaḥ.śuciṣad.>.iti.ekā.<.namo.mahadbhya.>.iti.ekā.<.yata.indra.bhayāmaha.>.iti.ekā.<.adha.svapnasya.>.iti.ekā.<.yo.me.rājann.>.iti.ekā.<.mama.agne.varca.>.iti.sūktam.<.svasti.no.mimītām.>.iti.ca.pañca	<.adyA.no.-deva.-savitar.>.dve.<.apehi.-manasas.pata.>.iti.su-uktam-.<.Rtam-.ca.-satyam-.ca.>.iti.su-uktam-.<.Aditya-a.ava.-hi.Kya-ta.>.iti.sUk
+   ŚGS_1.5.1: catvāraḥ.pāka.yajñā.huto.ahutaḥ.prahutaḥ.prāśita.iti /	ŚGS_1.5.1: catvAraH.pAka-.yajQA.huto.a-hutaH.-prahutaH.-prASita.-iti /
+   ŚGS_1.5.2:	ŚGS_1.5.2:
+   pañcasu.bahiḥ.śālāyām.vivāhe.cūḍā.karaṇa.upanayane.keśa.ante.sīmanta.unnayana.iti	paQca-su.-bahis-.SAlAyAm-.vivAhe.-cUxA.-karaNa-.upanayane.-keSa.ante.-sImanta.unnayana.iti
+   ŚGS_1.5.3: upalipta.uddhata.avokṣite.agnim.praṇīya /	ŚGS_1.5.3: upalipta-.udData-.ava-ukzite.agnim-.praNIya /
+   ŚGS_1.5.4: nirmathya.eke.vivāhe /	ŚGS_1.5.4: nirmaTya-.eke.-vivAhe /
+   ŚGS_1.5.5: udag.ayana.āpūrya.māṇa.pakṣe.puṇya.ahe.kumāryai.pāṇim.gṛhṇīyāt	ŚGS_1.5.5: udak-.aya-na.ApUrya.mANa.-pakze.-puNya-.ahe.kumAryE.pANim-.gRhNIyAt-
+   ŚGS_1.5.6: yā.lakṣaṇa.sampannā.syāt /	ŚGS_1.5.6: yA.-lakzaNa.-sampannA.syAt /
+   ŚGS_1.5.7: yasyā.abhyātmam.aṅgāni.syuḥ /	ŚGS_1.5.7: yasya-a.aByAtmam-.aFgA-ni.syuH /
+   ŚGS_1.5.8: samā.keśa.antāḥ /	ŚGS_1.5.8: samA.keSa.antAH /
+   ŚGS_1.5.9: āvartāv.api.yasyai.syātām.pradakṣiṇau.grīvāyām /	ŚGS_1.5.9: AvartO=-.api.yasya-e.sya-atAm.-pradakziNO.grIvAyAm /
+   ŚGS_1.5.10: ṣaḍ.vīrān.janayiṣyati.iti.vidyāt /	ŚGS_1.5.10: zaz-.vIrAn-.janayizyati.iti.vidyAt /
+   ŚGS_1.6.0: atha.kanyā.varaṇam /	ŚGS_1.6.0: aTa.-kanyA.varaNam /
+   ŚGS_1.6.1:	ŚGS_1.6.1:
+   jāyām.upagrahīṣyamāṇo.<.anṛkṣarā.>.iti.varakān.gacchato.anumantrayate /	jAyAm.upagrahIzyamANaH-.<.a-nRkzara-a.>.iti.varakAn-.gacCataH-.anumantrayate /
+   ŚGS_1.6.2: abhigamane.puṣpa.phala.yavān.ādāya.uda.kumbhaś.ca /	ŚGS_1.6.2: aBigamane.-puzpa.-Pala-.-yavAn-.AdAya-.uda.kumBaH-.ca /
+   ŚGS_1.6.3: <.ayam.aham.bho.>.iti.triḥ.procya /	ŚGS_1.6.3: <.ayam-.aham-.Bo.>.iti.tris-.-procya /
+   ŚGS_1.6.4:	ŚGS_1.6.4:
+   udite.prān.mukhā.gṛhyāḥ.pratyan.mukhā.āvahamānā.gotra.nāmāny.anukīrtayantaḥ.kanyām.varayanti	udite.-prAn.-muKA.-gRhyAH.pratyan.muKA.OvahamAnA.-gotra.-nAmAni-.anukIrtayantaH.-kanyAm-.varayanti
+   ŚGS_1.6.5:	ŚGS_1.6.5:
+   ubhayato.rucite.pūrṇa.pātrīm.abhimṛśanti.puṣpa.akṣata.yava.hiraṇya.miśrām.---.<.anādhṛṣṭam.asya.anādhṛṣṭyam.devānām.ojo.anabhiśasty.abhiśastipā.anabhiśaste.<.anyam.añjasā.satyam.>.<.upa.geṣam.suvite.mā.dhā.>.>.iti	uBayato.rucite.-pUrNa.-pAtrIm-.aBimRSanti.-puzpa-.akzata.yava.-hiraNya.miSrAm.---.<.ana-ADRzwa-m.asya.anADRzwi-am.devAnAm-.ojaH-.ana-BiSasti-.
+   ŚGS_1.6.6:	ŚGS_1.6.6:
+   <.ā.naḥ.prajām.>.iti.tvayi.kanyāyā.ācārya.utthāya.mūrdhani.karoti.<.prajām.tvayi.dadhāmi.paśūṃs.tvayi.dadhāmi.tejo.brahma.varcasam.tvayi.dadhāmi.>.iti	<.A.naH.-prajAm.>.iti.-tvayi.ka-nyAyA.-AcArya-.utTAya.-mUrDa-ni.karoti-.<.-prajAm.tvayi.da-DAmi.paSUMs.-tvayi.da-DAmi.-tejaH-.-brahma.varcasam.
+   ŚGS_1.7.0: atha.pratiśrute.homaḥ /	ŚGS_1.7.0: aTa.-pratiSrute.-homaH /
+   ŚGS_1.7.1: pratiśrute.juhoti /	ŚGS_1.7.1: pratiSrute.-juhoti /
+   ŚGS_1.7.2: catur.asram.gomayena.sthaṇḍilam.upalipya /	ŚGS_1.7.2: catur.asram-.gomayena.sTaNxilam-.upalipya /
+   ŚGS_1.7.3: pūrvayor.vidiśor.dakṣiṇām.prācīm.pitrye /	ŚGS_1.7.3: pUrvayoH-.vidiSoH-.dakziNAm-.prAcIm.pitrye /
+   ŚGS_1.7.4: uttarām.daive /	ŚGS_1.7.4: uttarAm.dA-eve /
+   ŚGS_1.7.5: prācīm.eva.eke /	ŚGS_1.7.5: prAcIm.eva-.eke /
+   ŚGS_1.7.6: udak.saṃsthām.madhye.lekhām.likhitvā /	ŚGS_1.7.6: udak.-saMsTAm.maDye.-leKA-m.liKitvA /
+   ŚGS_1.7.7:	ŚGS_1.7.7:
+   tasyai.dakṣiṇata.upariṣṭād.ūrdhvām.ekām.madhya.ekām.uttarata.ekām /	tasyE.dakziNata.u-parizwAt-.UrDvAm-.ekAm-.maDya-.ekAm-.uttarata.ekAm /
+   ŚGS_1.7.8: tā.abhyukṣya /	ŚGS_1.7.8: tA.-aByukzya /
+   ŚGS_1.7.9:	ŚGS_1.7.9:
+   <.agnim.pra.ṇayāmi.manasā.śivena.ayam.astu.saṃgamano.vasūnām.|.mā.no.hiṃsīḥ.sthaviram.mā.kumāram.śam.no.bhava.dvipade.śam.catuṣpade.>.ity.agnim.praṇīya	<.agnim.pra.NayAmi.-manasA-a.Sivena-.ayam.astu.-saMga-manaH-.vasUnAm-.|.mA.no.-hiMsIH-.-sTa-viram.-mA.kumAra-m.Sa-m.no.-Bava.-dvipade.Sam.catuzpa
+   ŚGS_1.7.10: tūṣṇīm.vā /	ŚGS_1.7.10: tUzNIm-.vA /
+   ŚGS_1.7.11:	ŚGS_1.7.11:
+   pradakṣimam.agneḥ.samantāt.pāṇinā.sa.udakena.triḥ.pramārṣṭi.tat.samūhanam.ity.ācakṣate	pradakzimam-.agneH.-samantAt.pANinA.sa.uda-kena.triH.-pramArzwi.-tat.-samUhanam-.iti-.Acakzate
+   ŚGS_1.7.12: sakṛd.apasavyam.pitrye /	ŚGS_1.7.12: sakRt-.apasavyam-.pitrye /
+   ŚGS_1.8.0: atha.paristaraṇam /	ŚGS_1.8.0: aTa.-paristaraNam /
+   ŚGS_1.8.1: atha.paristaraṇam /	ŚGS_1.8.1: aTa.-paristaraNam /
+   ŚGS_1.8.2: prāg.agraiḥ.kuśaiḥ.paristṛṇāti.trivṛt.pañcavṛd.vā /	ŚGS_1.8.2: prAc-.agrEH-.kuSEH.-paristRNa-ati.trivRt.-paQca-vRt-.vA /
+   ŚGS_1.8.3: purastāt.prathamam.atha.paścād.atha.paścāt /	ŚGS_1.8.3: purastAt.-praTama-m.aTa.-paScAt-.aTa.-paScAt /
+   ŚGS_1.8.4: mūlāny.agraiḥ.pracchādayati /	ŚGS_1.8.4: mUlAni-.agrEH.pracCAdayati /
+   ŚGS_1.8.5: sarvāś.ca.āvṛto.dakṣiṇataḥ.pravṛttaya.udak.saṃsthā.bhavanti /	ŚGS_1.8.5: sarva-aS.ca.A-vRto.-dakziNataH.-pravRttaya.udak.-saMsTA.Bavanti /
+   ŚGS_1.8.6: dakṣiṇato.brahmāṇam.pratiṣṭhāpya.<.bhūr.bhuvaḥ.svar.>.iti /	ŚGS_1.8.6: dakziNato.brahmANam-.pratizWApi-a.<.BUH-.-BuvaH.svar.>.iti /
+   ŚGS_1.8.7: sumanobhir.alam.kṛtya /	ŚGS_1.8.7: sumanoBiH-.alam-.kRtya /
+   ŚGS_1.8.8: uttarataḥ.praṇītāḥ.praṇīya.<.ko.vaḥ.praṇayati.>.iti /	ŚGS_1.8.8: uttarataH.-praNItAH.praNIya-.<.kaH-.vaH.-praNayati.>.-iti /
+   ŚGS_1.8.9: savyena.kuśān.ādāya.dakṣiṇena.apanauti /	ŚGS_1.8.9: savyena.kuSAn.AdAya.-dakziNena.apanOti /
+   ŚGS_1.8.10: dakṣiṇam.jānv.ācya /	ŚGS_1.8.10: dakziNam-.jAn-v.Acya /
+   ŚGS_1.8.11: savyam.pitrye /	ŚGS_1.8.11: savyam-.pitrye /
+   ŚGS_1.8.12: na.ājya.āhutiṣu.nityam.paristaraṇam /	ŚGS_1.8.12: na.a-Ajya.a-Ahutizu.-nityam-.paristaraNam /
+   ŚGS_1.8.13: nitya.āhutiṣu.ca.iti.māṇḍūkeyaḥ /	ŚGS_1.8.13: nitya.Ahutizu.-ca.iti.-mANxUkeyaH /
+   ŚGS_1.8.14:	ŚGS_1.8.14:
+   kuśa.taruṇe.aviṣame.avicchinna.agre.ananvar.garbhe.prādeśena.māpayitvā.kuśena.chinatti.<.pavitre.stha.>.iti	kuSa.taruNe.a-vizame.a-vicCinna-.agre.a-nanvar.-garBe.-prAdeSena.mApayi-tvA-.kuSena.-Cinatti.<.pavitre.-sTa.>.-iti
+   ŚGS_1.8.15: dve.trīṇi.vā.bhavanti /	ŚGS_1.8.15: dve.trINi-.vA.Bavanti /
+   ŚGS_1.8.16: prāg.agre.dhārayan.<.vaiṣṇavyāv.>.iti.abhyukṣya /	ŚGS_1.8.16: prAk-.agre.DArayan.<.vEzNa-vyAv.>.iti.aByukzya /
+   ŚGS_1.8.17: kuśa.taruṇābhyām.pradakṣiṇam.agnim.triḥ.paryukṣya /	ŚGS_1.8.17: kuSa.taruNAByAm.pradakziNam-.agnim.triH.paryukzya /
+   ŚGS_1.8.18: <.mahīnām.payo.asi.>.iti.ājya.sthālīm.ādāya /	ŚGS_1.8.18: <.-mahInAm-.payo.asi-.>.iti-.Ajya.-sTAlIm-.a-AdAya /
+   ŚGS_1.8.19: <.iṣe.tvā.>.iti.adhiśritya /	ŚGS_1.8.19: <.ize.tva-a.>.iti.aDiSritya /
+   ŚGS_1.8.20: <.ūrje.tvā.>.iti.udag.udvāhya /	ŚGS_1.8.20: <.Urje.-tvA.>.iti.udak-.udvAhya /
+   ŚGS_1.8.21:	ŚGS_1.8.21:
+   udag.agre.pavitre.dhārayann.aṅguṣṭhābhyām.ca.upakaniṣṭhikābhyām.ca.ubhayataḥ.pratigṛhya.ūrdhva.agre.prahve.kṛtvā.ājye.pratyasyati.|.<.savituṣ.ṭvā.prasava.utpunāmy.acchidreṇa.pavitreṇa.vasoḥ.sūryasya.raśmibhir.>.iti	udak-.agre.-pavitre.DArayan=-.aFguzWAByAm-.ca.upa-kanizWikAByAm-.ca.uBayatas-.-pratigRhya.UrDva.-agre.-prahve.-kRtvA-a.Ajye.-pratyasyati.|.<.
+   ŚGS_1.8.22: ājya.saṃskāraḥ.sarvatra /	ŚGS_1.8.22: Ajya.-saMskAraH.-sarvatra /
+   ŚGS_1.8.23: na.asaṃskṛtena.juhuyāt /	ŚGS_1.8.23: na.a-saMskRtena.juhuyAt /
+   ŚGS_1.8.24: sruve.ca.apaḥ.<.savitur.va.>.iti /	ŚGS_1.8.24: sruve.-ca.apaH.<.savituH-.va.>.-iti /
+   ŚGS_1.8.25: tāḥ.praṇītāḥ.prokṣaṇīś.ca /	ŚGS_1.8.25: tAH.-praNItAH.prokzaNIS.ca /
+   ŚGS_1.9.0: atha.ājya.homaḥ /	ŚGS_1.9.0: aTa.A-Ajya.homaH /
+   ŚGS_1.9.1: sruvaḥ.pātram /	ŚGS_1.9.1: sruvaH.pAtram /
+   ŚGS_1.9.2: artha.lakṣaṇa.grahaṇam /	ŚGS_1.9.2: arTa.-lakzaNa.grahaNam /
+   ŚGS_1.9.3:	ŚGS_1.9.3:
+   savyena.kuśān.ādāya.dakṣiṇena.mūle.sruvam.<.viṣṇor.hasto.asi.>.iti /	savyena.kuSa-an.AdAya.-dakziNena.-mUle.-sruvam.<.vizNoH-.hastaH-.asi.>.iti /
+   ŚGS_1.9.4: sruveṇa.ājya.āhutīr.juhoti /	ŚGS_1.9.4: sruveNa.Ajya.a-AhutIH-.juhoti /
+   ŚGS_1.9.5:	ŚGS_1.9.5:
+   uttara.paśca.ardhād.agner.ārabhya.avicchinnam.dakṣiṇato.juhoti.<.tvam.agne.pramatir.>.iti	uttara.-paSca.arDAt-.agneH-.AraBya-.avicCinna-m.dakziNato.juhoti.<.tvam-.agne.-pramatiH-.>.iti
+   ŚGS_1.9.6:	ŚGS_1.9.6:
+   dakṣiṇa.paśca.ardhād.agner.ārabhya.avicchinnam.uttarato.juhoti.<.yasya.ime.himavanta.>.iti	dakziNa.paH-ca.arDAt-.agneH-.AraBya-.avicCinnam-.uttarato.juhoti.<.yasya-.ime.-himavanta.>.iti
+   ŚGS_1.9.7: āgneyam.uttaram.ājya.bhāgam.saumyam.dakṣiṇam /	ŚGS_1.9.7: Agneyam-.uttaram.Ajya.-BAgam-.sOmyam-.dakziNam /
+   ŚGS_1.9.8: madhye.anyā.āhutayaḥ /	ŚGS_1.9.8: maDye.anyA.AhutayaH /
+   ŚGS_1.9.9:	ŚGS_1.9.9:
+   <.agnir.janitā.sa.me.amūm.jāyām.dadātu.svāhā.|.somo.janimānt.sa.mā.amuyā.janimantam.karotu.svāhā.|.pūṣā.jñātimānt.sa.mā.amuṣyai.pitrā.mātrā.bhrātṛbhir.jñātimantam.karotu.svāhā.>.iti	<.agniH-.janitA.sa.me.am-Um.-jAyA-m.da-dAtu.-svAhA.-|.-somaH-.ja-nima-ant.-sa.mA.a-muyA.janimantam-.karotu.svAha-a.|.pUzA.-jQAti-mAnt.-sa.mA.a-muzyE.
+   ŚGS_1.9.10: na.ājya.āhutiṣu.nityāv.ājya.bhāgau.sviṣṭakṛc.ca /	ŚGS_1.9.10: na.a-Ajya-.a-Ahutizu.-nityO=-.Ajya.-BAgO.su-izwakRt-.ca /
+   ŚGS_1.9.11: nitya.āhutiṣu.ca.iti.māṇḍūkeyaḥ /	ŚGS_1.9.11: nitya.Ahutizu.-ca.iti.-mANxUkeyaH /
+   ŚGS_1.9.12:	ŚGS_1.9.12:
+   mahā.vyāhṛti.sarva.prāyaś.citta.prājāpatya.antaram.etad.āvāpa.sthānam /	mahA.-vyAhRti.-sarva.-prAya-S.citta.-prAjApatya.antaram-.etat-.AvApa.-sTAnam /
+   ŚGS_1.9.13:	ŚGS_1.9.13:
+   ājye.haviṣi.savye.pāṇau.ye.kuśās.tān.dakṣiṇena.agre.saṃgṛhya.mūle.savyena.teṣām.agram.sruve.samanakti.madhyam.ājya.sthālyām.mule.ca	Ajye.-ha-vizi.-savye.-pANO.ye.-kuSA-s.tAn.-dakziNena.agre.-saMgRhya.-mUle.-savyena.tezAm-.agram.sruve.-sama-nakti.-maDyam.Ajya.-sTAlyAm.mulet-c
+   ŚGS_1.9.14:	ŚGS_1.9.14:
+   atha.cet.sthālī.pāleṣu.srucy.agram.madhyam.sruve.mūlam.ājya.sthālyām /	aTa.-cet.-sTAlI.-pAla-izu.-sruci-.agram-.maDyam.sruve.-mUlam.Ajya.-sTAlyAm /
+   ŚGS_1.9.15: tān.anuprahṛtya.<.agner.vāso.asi.>.iti /	ŚGS_1.9.15: tAn-.anu-prahRti-a.<.agneH-.vAsaH-.asi.>.iti /
+   ŚGS_1.9.16: tisraḥ.samidho.abhyādhāya /	ŚGS_1.9.16: tisraH.samiDo.aByADAya /
+   ŚGS_1.9.17: yathā.uktam.paryukṣaṇam /	ŚGS_1.9.17: yaTA.uktam-.paryukzaNam /
+   ŚGS_1.9.18:	ŚGS_1.9.18:
+   anāmnāta.mantrāsv.ādiṣṭa.devatāsu.<.amuṣyai.svāhā.amuṣyai.svāhā.>.iti.juhuyāt.svāhā.kāreṇa.śuddhena	anAmnAta.-mantrA-su-.Adizwa.-devatA-su-.<.a-muzyE.svAhA.amuzyE.svAhA.>.iti.-juhuyAt.svAhA.-kAreNa.-SudDena
+   ŚGS_1.9.19: vyākhyātaḥ.pratiśrute.homa.kalpaḥ /	ŚGS_1.9.19: vyAKyAtaH.pratiSrute.-homa.kalpaH /
+   ŚGS_1.10.0: atha.pāka.yajña.bhedāḥ /	ŚGS_1.10.0: aTa.pAka-.yajQa.-BedAH /
+   ŚGS_1.10.1: prakṛtir.bhūti.karaṇam /	ŚGS_1.10.1: prakRtiH-.BUti.karaNam /
+   ŚGS_1.10.2: sarvāsām.ca.ājya.āhutīnām /	ŚGS_1.10.2: sarvAsAm-.ca.a-Ajya.a-AhutInAm /
+   ŚGS_1.10.3: śākhā.paśūnām /	ŚGS_1.10.3: SAKA.-paSUnAm /
+   ŚGS_1.10.4: caru.pāka.yajñānām.ca /	ŚGS_1.10.4: caru.-pAka.yajQAnAm-.ca /
+   ŚGS_1.10.5:	ŚGS_1.10.5:
+   ta.ete.aprayājā.ananuyājā.aniḍā.anigadā.asāmidhenīkāś.ca.sarve.pāka.yajñā.bhavanti	ta.ete.a-prayAjA.ananuyAja-A.a-nixA.a-nigadA.asAmiDenIkA-S.ca.-sarve.-pAka.yajQA.Bavanti
+   (On the five prayājas and the three anuyājas seeN HillebrandtN Neu- und	(On Te five prayAjaH and Te Tree anuyAjaH seej HillebrandtN Neu und
+   VollmondopferN pp.94ffN 134ff; on the iDaaN 122ff.; on nigadasN see	Va-ullma-unda-upferN pp.94ffj 134ff; on Te iDaaw 122ff.; on nigadasN see
+   WeberDs ISt. iS.217N etc; on the saamidhenii verses Hillebrandt op.cit.N	WebeH-Ds ISt. iS.217j et-c; on Te saamiDenii verseH Hillebrandt op.cit.N
+   pp.74ff.)	pp.74ff.)
+   ŚGS_1.10.6: tad.api.ślokāḥ /	ŚGS_1.10.6: tad-.api.SlokAH /
+   ŚGS_1.10.7ab: huto.agni.hotra.homena.ahuto.brāhmaṇe.hutaḥ /	ŚGS_1.10.7ab: hutaH-.agni.hotra.homena.a-huto.-brAhmaNe.hutaH /
+   ŚGS_1.10.7cd: prahutaḥ.pitṛ.karmaṇā.prāśito.brāhmaṇe.hutaḥ /	ŚGS_1.10.7cd: prahutaH.-pitR.karmaNA.-prASita-u.-brAhmaNe.-hutaH /
+   ŚGS_1.10.8ab: anūrdhvajñur.vyūḍa.jānur.juhuyāt.sarvadā.haviḥ /	ŚGS_1.10.8ab: anUrDvajQur.-vyUxa.ja-anur.juhuyAt.-sarva-dA.haviH /
+   ŚGS_1.10.8cd: na.hi.bāhya.hutam.devāḥ.pratigṛhṇanti.karhicit /	ŚGS_1.10.8cd: na.hi.-bAhya.hutam.devAH-.pratigRhNanti.karhicit /
+   ŚGS_1.10.9ab: raudram.tu.rākṣasam.pitryam.āsuram.ca.abhicārikam /	ŚGS_1.10.9ab: rOdra-m.tu.rAkzasam-.pitryam.a-asuram-.ca.aBicArikam /
+   ŚGS_1.10.9cd: uktvā.mantra.spṛśed.apa.ālabhya.ātmānam.eva.ca /	ŚGS_1.10.9cd: uktvA.mantra.-spRSet-.apa.AlaBya-.AtmAnam-.eva.-ca /
+   ŚGS_1.11.0: atha.indrāṇī.karma /	ŚGS_1.11.0: aTa.-indrANI.-karma /
+   ŚGS_1.11.1: atha.etām.rātrīm.śvas.tṛtīyām.vā.kanyām.vakṣyanti.iti /	ŚGS_1.11.1: aTa.etAm-.rAtrIm-.Svas.tRtIyAm-.vA.kanyAm-.vakzyanti.-iti /
+   ŚGS_1.11.2:	ŚGS_1.11.2:
+   tasyām.rātryām.atīte.niśā.kāle.sarva.oṣadhi.phala.uttamaiḥ.surabhi.miśraiḥ.saśiraskām.kanyām.āplāvya	tasyAm.rAtri-Am.atIte.-niSA.kAle.-sarva-.ozaDi.-Pala-.uttamEH.suraBi.-miSrEH-.sa-SiraskAm.kanyAm-.AplAvya
+   ŚGS_1.11.3: raktam.ahatam.vā.vāsaḥ.paridhāya /	ŚGS_1.11.3: raktam.ahatam-.vA.vAsaH.pariDAya /
+   ŚGS_1.11.4:	ŚGS_1.11.4:
+   paścād.agneḥ.kanyām.upaveśya.anvārabdhāyām.mahā.vyāhṛtibhir.hutvā.ājya.āhutīr.juhoti.--.<.agraye.somāya.prajāpataye.mitrāya.varuṇāya.indrāya.indrāṇyai.gandharvāya.bhagāya.pūṣṇe.tvaṣṭre.bṛhaspataye.rājñe.pratyānīkāya.iti	paScAt-.agneH.kanyAm-.upaveSya-.anvArabDAyAm.-mahA.-vyAhRtiBiH-.hutvA-a.Ajya.AhutIr.-juhoti.--.<.agraye.-soma-aya.-prajApataye.mitrAya.varuN
+   ŚGS_1.11.5:	ŚGS_1.11.5:
+   catasro.aṣṭau.vā.avidhavāḥ.śāka.piṇḍībhir.surayā.annena.ca.tarpayitvā.catur.ānartanam.kuryuḥ	catasraH-.azwO.vA.aviDa-vAH.SAka.piNxIBiH-.surayA.annena.ca.tarpayitvA.-catur.Anartanam-.kuryuH
+   ŚGS_1.11.6: etā.eva.devatāḥ.puṃsaḥ /	ŚGS_1.11.6: etA.eva.-devatAH.puMsaH /
+   ŚGS_1.11.7: vaiśvaraṇam.īśānam.ca /	ŚGS_1.11.7: vESvaraNam-.ISAnam-.ca /
+   ŚGS_1.11.8: ato.brāhmaṇa.bhojanam /	ŚGS_1.11.8: atas-.brAhmaNa-.-Bojanam /
+   ŚGS_1.12.0: atha.vivāha.karma /	ŚGS_1.12.0: aTa.-vivAha.-karma /
+   ŚGS_1.12.1:	ŚGS_1.12.1:
+   snātam.kṛta.maṅgalam.varam.avidhavāḥ.subhagā.yuvatyaḥ.kumāryai.veśma.prapādayanti	snAtam-.kRta.-maFgalam-.varam.a-viDa-vAH.-suBagA.yuvati-aH.kumAryE.-veSma.-prapAdayanti
+   ŚGS_1.12.2: tāsām.apratikūlaḥ.syād.anyatra.abhakṣya.pātakebhyaḥ /	ŚGS_1.12.2: tAsAm.a-pratikUlaH.syAd.anyatra-.aBakzya.pAtakeByaH /
+   ŚGS_1.12.3:	ŚGS_1.12.3:
+   tābhir.anujñāto.atha.asyai.vāsaḥ.prayacchati.<.raibhy.āsīd.>.iti /	tABiH-.anujQAtaH-.aTa.asyE.vAsaH.-prayacCati-.<.rEBy.AsIt-.>.iti /
+   ŚGS_1.12.4: <.cittir.ā.upabarhaṇam.>.iti.āñjana.kośam.ādatte /	ŚGS_1.12.4: <.cittir.A.-upabarhaNam.>.iti.a-aQjana.koSam-.Adatte /
+   ŚGS_1.12.5: <.samañjantu.viśve.devā.>.iti.samañjanīyā /	ŚGS_1.12.5: <.-samaQjantu.-viSve.devA.>.iti.samaQjanIyAH /
+   ŚGS_1.12.6:	ŚGS_1.12.6:
+   <.yathā.iyam.śacīm.vāvātām.suputrām.ca.yathā.aditim.|.avidhavām.ca.apālām.evam.tvām.iha.rakṣatād.imam.>.iti.dakṣiṇe.pāṇau.śalalīm.tṛvṛtam.dadāti	<.yaTA.iyam-.SacIm-.vAvAtAm.su-putrAm-.ca.yaTA.aditim-.|.aviDavAm.ca.apAlAm.evam-.tvAm.i-ha.ra-kzatAt-.imam.>.iti.-dakziNe.-pANO.SalalIm.t
+   ŚGS_1.12.7: <.rūpam.rūpam.>.iti.ādarśam.savye /	ŚGS_1.12.7: <.rUpam-.rUpam.>.iti.-AdarSam.savye /
+   ŚGS_1.12.8:	ŚGS_1.12.8:
+   rakta.kṛṣṇam.āvikam.kṣaumam.vā.trimaṇim.pratisaram.jñātayo.asyā.badhnanti.<.nīla.lohitam.>.iti	rakta.kRzNam.Avikam-.kzOmam-.vA.tri-maNim.-pratisaram.jQAta-yo.asya-a.baDnanti.<.nIla.-lohitam-.>.iti
+   ŚGS_1.12.9: <.madhumatīr.oṣadhīr.>.iti.madhūkāni.badhnāti /	ŚGS_1.12.9: <.maDu-matIH-.oza-DIH-.>.iti.maDUka-ani.baDnAti /
+   ŚGS_1.12.10: vivāhe.gām.arhayitvā.gṛheṣu.gām.te.mādhuparkikyau /	ŚGS_1.12.10: vivAhe.-gAm.arhayitvA-a.gRha-izu.gAm.te.mADuparkikyO /
+   ŚGS_1.12.11:	ŚGS_1.12.11:
+   paścād.agneḥ.kanyām.upaveśya.anvāarabdhāyām.mahā.vyāhṛtibhis.tisro.juhoti	paScAt-.agneH.kanyAm-.upaveSya.anvAarabDa-AyAm.-mahA.-vyAhRtiBis.ti-sro.juhoti
+   ŚGS_1.12.12: samastābhiś.caturthīm.pratīyeta.etasyām.codanāyām /	ŚGS_1.12.12: samasta-aBiS.caturTIm-.pratIyeta.etasyAm-.codanAyAm /
+   ŚGS_1.12.13:	ŚGS_1.12.13:
+   evam.anādeśe.sarveṣu.bhūti.karmasu.purastāc.ca.upariṣṭāc.ca.etābhir.eva.juhuyāt	evam.anAdeSe.-sarva-izu.BUti.karma-su.purastAc.ca.uparizwa-Ac.ca.etABiH-.eva.-juhuyAt-
+   ŚGS_1.13.0: atha.pāṇi.grahaṇam /	ŚGS_1.13.0: aTa.-pANi.grahaNam /
+   ŚGS_1.13.1:	ŚGS_1.13.1:
+   <.saṃrājñī.śvaśure.bhava.>.iti.pitā.bhrātā.vā.asy.agreṇa.mūrdhani.juhoti.sruveṇa.vā.tiṣṭhann.āsīnāyāḥ.prān.mukhyāḥ.pratyan.mukhaḥ	<.-saMrAjQI.-Sva-Sure.-Bava.>.iti.-pitA.-BrAtA-a.vA.asi-.agreNa.-mUrDa-ni.juhoti.-sruveNa.vA.tizWan=-.AsInAyAH.-prAn.muKyAH.pratyan.muKaH
+   ŚGS_1.13.2:	ŚGS_1.13.2:
+   <.gṛbhṇāmi.te.saubhagatvāya.hastam.>.iti.dakṣiṇena.pāṇinā.dakṣiṇam.pāṇim.gṛhṇāti.sāṅguṣṭham.uttānena.uttānam.tiṣṭhann.āsīnāyāḥ.prān.mukhyāḥ.pratyan.mukhaḥ	<.gRBNAmi.te.-sOBaga-tvAya.-hasta-m.>.iti.-dakziNena.pANinA.-dakziNam-.pANim-.gRhNa-ati.sa-aFguzWam-.uttAn-ena-.uttAnam-.tizWan=-.AsInAyAH.prAn.
+   ŚGS_1.13.3: pañca.ca.uttarā.japitvā /	ŚGS_1.13.3: paQca.ca.uttarA.-japitvA /
+   ŚGS_1.13.4:	ŚGS_1.13.4:
+   <.amo.aham.asmi.sā.tvam.sā.tvam.asy.amo.aham.dyaur.aham.pṛthivī.tvam.ṛk.tvam.asi.sāma.aham.sā.mām.anuvratā.bhava.>.|..iti	<.amo.aham.asmi.-sA.tvam.sA.tvam.asi-.amaH-.aham.dyOH-.aham-.pRTivI.-tvam-.Rk.tvam.asi.-sAm-a.aham.sA-a.mAm.anuvratA.-Bava.>.|..iti
+   ŚGS_1.13.5: uda.kumbham.navam.<.bhūr.bhuvaḥ.svar.>.iti.pūrayitvā /	ŚGS_1.13.5: uda.-kumBa-m.navam.<.-BUH-.-BuvaH.-svar.>.iti.-pUrayitvA /
+   ŚGS_1.13.6: pum.nāmno.vṛkṣasya.sakṣīrānt.sapalāśānt.sakuśān.opya /	ŚGS_1.13.6: pum.nAmno.vRkzasya.sa-kzIra-ant.-sapalASa-ant.sa-kuSAn-.opya /
+   ŚGS_1.13.7: hiraṇyam.iti.ca.eke /	ŚGS_1.13.7: hiraNyam-.iti.ca-.eke /
+   ŚGS_1.13.8: tam.brahma.cāriṇe.vāg.yatāya.pradāya /	ŚGS_1.13.8: tam.brahma.-cAriNe.vAc-.yatA-aya.-pradAya /
+   ŚGS_1.13.9: prāg.udīcyām.diśi.tāḥ.stheyāḥ.pradakṣiṇā.bhavanti /	ŚGS_1.13.9: prAk-.udIcyAm-.di-Si.tAH.-sTeyAH.-pradakziNA.Bavanti /
+   ŚGS_1.13.10: aśmānam.ca.uttarata.upasthāpya /	ŚGS_1.13.10: aSmAnam-.ca.uttara-ta.upasTApya /
+   ŚGS_1.13.11: <.ehi.sūnari.>.iti.utthāpya /	ŚGS_1.13.11: <.ehi.-sUnari.>.iti.-utTApya /
+   ŚGS_1.13.12:	ŚGS_1.13.12:
+   <.ehy.aśmānam.ā.tiṣṭha.aśmā.iva.tvam.sthirā.bhava.|.abhitiṣṭha.pṛtanyataḥ.sahasva.pṛtanāyata.>.iti.dakṣiṇena.prapadena.aśmānam.ākramayya	<.ehi-.aSma-Anam.A.tizWa-.aSma-a.iva.-tvam-.sTirA.-Bava-.|.aBitizWa.-pRtanyataH.-saha-sva.-pRtanA-Ayata.>.iti.-dakziNena.-prapadena-.aSmAnam-.Akram
+   ŚGS_1.13.13: pradakṣiṇam.agnim.paryāṇīya /	ŚGS_1.13.13: pradakziNam-.agnim-.paryANIya /
+   ŚGS_1.13.14: tena.eva.mantreṇa.dvitīyam.vasanam.pradāya /	ŚGS_1.13.14: tena-.eva.-mantreNa.dvitIyam-.vasanam-.pradAya /
+   ŚGS_1.13.15: lājān.śamī.palāśa.miśrān.pitā.bhrātā.vā.syād.añjalāv.āvapati	ŚGS_1.13.15: lAjA-an.SamI.-palASa.-miSrAn-.pitA.-BrAtA.-vA.syAt-.aQjalO=-.Avapati
+   ŚGS_1.13.16: upastaraṇa.abhidhāraṇa.pratyabhidhāraṇam.ca.ājyena /	ŚGS_1.13.16: upastaraNa-.aBiDAraNa.-pratyaBiDAraNam-.ca.Ajyena /
+   ŚGS_1.13.17: tān.juhoti /	ŚGS_1.13.17: tAn-.juhoti /
+   ŚGS_1.14.0: atha.sapta.pada.kramaṇam /	ŚGS_1.14.0: aTa.-sapta.pada.kramaNam /
+   ŚGS_1.14.1:	ŚGS_1.14.1:
+   <.iyam.nāry.upabrūte.lājān.āvapantikā.|.śivā.jñātihbyo.bhūyāṃsam.ciram.jīvatu.me.patiḥ.svāhā.>.iti.tiṣṭhantī.juhoti.patir.mantram.japati	<.iyam.nArI-.upabrUte.lAjAn-.AvapantikA.|.SivA.-jQa-atihbyo.BUya-aMsam-.ciram-.jIvatu.me.patiH.svAhA.>.iti.-tizWantI.-juhoti.patiH-.mantram
+   ŚGS_1.14.2: aśma.kramaṇā.ādy.evam.dvitīyam /	ŚGS_1.14.2: aSma.kramaNA.Adi-.evam-.dvitIyam /
+   ŚGS_1.14.3: evam.tṛtīyam /	ŚGS_1.14.3: evam-.tRtIyam /
+   ŚGS_1.14.4: tūṣṇīm.kāmena.caturtham /	ŚGS_1.14.4: tUzNIm.kAm-ena.-caturTam /
+   ŚGS_1.14.5: prāg.udīcyām.diśi.sapta.padāni.prakramayati /	ŚGS_1.14.5: prAk-.udIcya-Am-.di-Si.-sapta.padA-ni.prakramayati /
+   ŚGS_1.14.6:	ŚGS_1.14.6:
+   <.iṣa.eka.padī.ūrje.dvipadīṇrāyas.poṣāya.tripadī.āyo.bhavyāya.catuṣpadī.paśubhyaḥ.pañcapadī.ṛtubhyaḥ.ṣaṭpadī.sakhā.sapta.padī.bhava.>.iti	<.iza-.eka.padI.-Urje.-dvipa-dINra-ayas.-poza-aya.tripadI.Aya-u.BavyAya.-catuzpadI.-paSuByaH.paQca-padI-.-RtuByaH.zawpadI.-saKA.sapta.padI.-Bava.
+   ŚGS_1.14.7: tāny.adbhiḥ.śamayati /	ŚGS_1.14.7: tAni-.adBiH-.Samayati /
+   ŚGS_1.14.8: āpohiṣṭhīyābhis.tisṛbhiḥ.stheyābhir.adbhir.mārjayitvā /	ŚGS_1.14.8: ApohizWIya-aBis.tisRBiH-.-sTeyABiH-.adBiH-.mArjayitvA /
+   (.āpo.hi.ṣṭhā.)	(.Apo.hi.zWA.)
+   ŚGS_1.14.9: mūrdhany.abhiṣicya /	ŚGS_1.14.9: mUrDani-.aBizicya /
+   ŚGS_1.14.10: <.gām.dadāni.>.ity.āha /	ŚGS_1.14.10: <.gAm.dadAni.>.ity.Aha /
+   ŚGS_1.14.11:	ŚGS_1.14.11:
+   brāhmaṇebhyaḥ.kiṃcid.dadyāt.sarvatra.sthālī.pāla.ādiṣu.karmasu /	brAhmaNeByaH-.kiMcid-.dat-yAt.sarvatra.sTAlI.-pAla.Adizu.-karmasu /
+   ŚGS_1.14.12: sūryā.viduṣe.vādhūyam /	ŚGS_1.14.12: sUryA.-viduze.vADUyam /
+   ŚGS_1.14.13: gaur.brāhmaṇasya.varaḥ /	ŚGS_1.14.13: gOr.-brAhmaNasya.varaH /
+   ŚGS_1.14.14: grāmo.rājanyasya /	ŚGS_1.14.14: grAmo.rAjanyasya /
+   ŚGS_1.14.15: aśvo.vaiśvasya /	ŚGS_1.14.15: aSvaH-.vESvasya /
+   ŚGS_1.14.16: adhiratham.śatam.duhitṛmate /	ŚGS_1.14.16: aDiraTam-.Satam.duhitRmate /
+   ŚGS_1.14.17: yājñikebhyo.aśvam.dadāti /	ŚGS_1.14.17: yAjQikeByaH-.aSvam.dadAti /
+   ŚGS_1.15.0: atha.vara.gṛha.prasthānam /	ŚGS_1.15.0: aTa.vara.-gRha.prasTAnam /
+   ŚGS_1.15.1: <.pra.tvā.muñcāmi.>.iti.tṛcam.gṛhāt.pratiṣṭhamānāyām /	ŚGS_1.15.1: <.pra.tvA.muQcAmi.>.iti.tRcam.-gRhAt.-pratizWamAnAyAm /
+   ŚGS_1.15.2: <.jīvam.rudantī.>.iti.prarudantyām /	ŚGS_1.15.2: <.jIva-m.rudantI.>.iti.-prarudantyAm /
+   ŚGS_1.15.3:	ŚGS_1.15.3:
+   atha.ratha.akṣasya.upāñjanam.patnī.kurute.<.akṣann.amīmadanta.>.iti.etayā.sarpiṣā	aTa.-raTa-.akzasi-a.upAQjanam.patnI.-kurute.<.akzan=-.amImat-anta.>.iti-.etayA.-sarpizA
+   ŚGS_1.15.4:	ŚGS_1.15.4:
+   <.śucī.te.cakre.dve.te.cakre.>.iti.ca.etābhyām.cakrayoḥ.pūrvayā.pūrvam.uttarayā.uttaram	<.-SucI.te.cakre.dve.te.cakre.>.iti.-ca.etAByAm-.cakrayoH.pUrvayA.-pUrvam-.uttarayA.uttaram
+   ŚGS_1.15.5: usrau.ca /	ŚGS_1.15.5: usrO.-ca /
+   ŚGS_1.15.6:	ŚGS_1.15.6:
+   <.khe.rathasya.>.etayā.phalavato.vṛkṣasya.śamyā.garteṣv.eka.ekām.vayān.nikhāya	<.Ke.raTasya.>.etayA-a.-PalavataH-.vRkzasya.SamyA.-gartezu-.eka-.ekAm-.vayAn.niKAya
+   ŚGS_1.15.7: nityā.vā.abhimantrya /	ŚGS_1.15.7: nitya-a.vA.aBimantrya /
+   ŚGS_1.15.8:	ŚGS_1.15.8:
+   atha.usrau.yuñjanti.<.yuktas.te.astu.dakṣiṇa.>.iti.dvābhyām.<.śukrāv.anaḍvāhāv.>.iti.etena.ardharceṇa.yuktāv.abhimantrya	aTa.u-srO.yuQjanti-.<.yukta-s.te.aH-tu.dakziNa-.>.iti.dvAByAm-.<.-Sukra-av.anaxvAha-av.>.iti-.etena-.arDarceNa.-yuktO=-.aBimantrya
+   ŚGS_1.15.9:	ŚGS_1.15.9:
+   atha.yadi.ratha.aṅgam.viśīryeta.chidyeta.vā.āhita.agneḥ.gṛhān.kanyām.prapādya	aTa.ya-di.-raTa-.aFgam.-viSIryeta.CidI-eta.vA.Ahita-.agneH.gRhAn-.kanyAm.prapAdya
+   ŚGS_1.15.10: <.abhi.vyayasva.khadirasya.>.iti.etayā.pratidadhyāt /	ŚGS_1.15.10: <.aBi.vyaya-sva.-Kadirasya.>.iti.etayA.-pratidaDyAt /
+   ŚGS_1.15.11: <.tyam.cid.aśvam.>.iti.granthim /	ŚGS_1.15.11: <.ti-am.cit-.a-Svam.>.iti.granTim /
+   ŚGS_1.15.12: <.svasti.no.mimītām.>.iti.pañcarcam.japati /	ŚGS_1.15.12: <.svasti.no.m-imItAm.>.iti.-paQca-Rcam-.japati /
+   ŚGS_1.15.13: <.sukiṃśukam.>.iti.ratham.ārohantyām /	ŚGS_1.15.13: <.su-kiMSuka-m.>.iti.raTam-.ArohantyAm /
+   ŚGS_1.15.14: <.mā.vidan.paripanthina.>.iti.catuṣpathe /	ŚGS_1.15.14: <.mA.-vidan.-paripanTina-.>.iti.-catuzpaTe /
+   ŚGS_1.15.15: <.ye.vadhva.>.iti.śmaśāne /	ŚGS_1.15.15: <.ye.vaDva.>.iti.-SmaSAne /
+   ŚGS_1.15.16: <.vanaspate.śata.valśa.>.iti.vanaspatāv.ardharcam.japati /	ŚGS_1.15.16: <.vanaspate.-Sata.valSa.>.iti.-vanaspatO=-.arDarcam-.japati /
+   ŚGS_1.15.17: <.sutrāmāṇam.>.iti.nāvam.ārohantyām /	ŚGS_1.15.17: <.su-trAmANam-.>.iti.nAvam.a-ArohantyAm /
+   ŚGS_1.15.18: <.aśmanvatī.>.iti.nadīm.tarantyām /	ŚGS_1.15.18: <.aSmanvatI.>.iti.-nadIm-.tarantyAm /
+   ŚGS_1.15.19: api.vā.yuktena.eva /	ŚGS_1.15.19: api.vA.-yuktena.A-iva /
+   ŚGS_1.15.20: <.ud.va.ūrmir.>.iti.agādhe /	ŚGS_1.15.20: <.ud.-va.UrmiH-.>.iti-.agADe /
+   ŚGS_1.15.22: <.iha.priyam.>.iti.sapta.gṛhān.prāptāyāḥ.kṛtāḥ.parihāpya /	ŚGS_1.15.22: <.iha.-priyam.>.iti.-sapta.gRhAn.prAptAyAH.kRtAH.parihApya /
+   ŚGS_1.16.0: atha.gṛha.prapādanam /	ŚGS_1.16.0: aTa.gRha.-prapAdanam /
+   ŚGS_1.16.1: āhaḍuham.ity.uktam /	ŚGS_1.16.1: Ahaxuham.iti-.uktam /
+   ŚGS_1.16.2: tasminn.upaveśya.anvārabdhāyām.patiś.catasro.juhoti /	ŚGS_1.16.2: tasmin=-.upaveSya-.anvArabDAyAm.pati-S.catasro.juhoti /
+   ŚGS_1.16.3:	ŚGS_1.16.3:
+   <.agninā.devena.pṛthivī.lokena.lokānām.>.ṛgvedena.<.vedānām.tena.tvā.śamayāmy.asau.svāhā.|.vayaunā.devena.antarikṣa.lokena.lokānām.>.yajur.vedena.<.vedānām.tena.tvā.śamayāmy.asau.svāhā.|.sūryeṇa.devena.dyaur.lokena.lokānām.>.sāmavedena.<.vedānām.tena.tvā.śamayāmy.asau.svāhā.|.candreṇa.devena.diśām.lokena.lokānām.>.brahma.vedena.<.vedānām.tena.tvā.śamayāmy.asau.svāhā	<.agninA.-devena.-pRTivI.-lokena.-lokAnAm.>.Rgvedena.<.vedAnAm-.tena.tvA.SamayAmi-.a-sO.svAhA.-|.vayOnA.-devena.antarikza.-lokena.-lokAnAm
+   ŚGS_1.16.4:	ŚGS_1.16.4:
+   bhūr.yā.te.patidhnya.lakṣmī.devaraghnī.jāraghnī.tām.karomy.asau.svāhā.>.iti.vā.prathamayā.mahā.vyāhṛtyā.prathama.upahitā.dvitīyayā.dvitīyā.tṛtīyayā.tṛtīyā.samastābhiś.caturthī	BUH-.yA-A.te.-patiDnya.-lakzmI.-devara-GnI.-jAra-GnI.-tAm.ka-romi-.asO.svAhA.>.iti.vA.-praTamayA.-mahA.-vyAhRtyA.-praTama-.upahitA.-dvitIyayA.-dvi
+   ŚGS_1.16.5: <.aghora.cakṣur.>.iti.ājya.lepena.cakṣuṣī.vimṛjīta /	ŚGS_1.16.5: <.aGora.cakzuH-.>.iti-.Ajya.-lepena.cakzuzI.-vimRjIta /
+   ŚGS_1.16.7:	ŚGS_1.16.7:
+   <.uta.tyā.daivyā.bhijasā.>.iti.catasro.anudrutya.ante.svāhā.kāreṇa.mūrdhani.saṃsrāvam	<.uta.tyA.-dEvyA.BijasA-a.>.iti.-catasraH-.anudrutya.ante.-svAhA.-kAreNa.-mUrDa-ni.saMsrAvam
+   ŚGS_1.16.8:	ŚGS_1.16.8:
+   atra.ha.eke.kumāram.utsaṅgam.ānayanty.ubhayataḥ.sujātam.<.ā.te.yonim.>.iti.etayā	atra.ha-.eke.kumAram-.utsaFgam-.A-Anayanti-.uBayatas-.sujAtam-.<.A.te.yoni-m.>.iti-.etayA
+   ŚGS_1.16.9: api.vā.tūṣṇīm /	ŚGS_1.16.9: api.vA.tUzNIm /
+   ŚGS_1.16.10: tasya.añjalau.phalāni.dattvā.puṇya.aham.vācayati /	ŚGS_1.16.10: tasya.aQjalO.-PalA-ni.dat-tvA.-puNya.aham-.vAcayati /
+   ŚGS_1.16.11: puṃśavatī.iha.bhavati /	ŚGS_1.16.11: puMSavatI-.iha.Bavati /
+   ŚGS_1.16.12: <.iha.eva.stam.>.iti.sūkta.śeṣeṇa.gṛhān.prapādayanti /	ŚGS_1.16.12: <.iha-.eva.-stam.>.iti.su-ukta.-SezeNa.-gRhAn.prapAdayanti /
+   ŚGS_1.17.1: <.dadhikrāvṇo.akāriṣam.>.iti.dadhi.sampibeyātām /	ŚGS_1.17.1: <.daDi-krAvNaH-.aka-arizam.>.iti.-daDi.-sampibeyAtAm /
+   ŚGS_1.17.2: vāg.yatāv.āsīyātām.ā.dhruva.darśanāt /	ŚGS_1.17.2: vAc-.yatO=-.AsIyAtAm.A.-Druva.-darSanAt /
+   ŚGS_1.17.3: astamite.dhruvam.darśayati.<.dhruvā.edhi.poṣyā.mayi.>.iti /	ŚGS_1.17.3: astamite.-Druvam-.darSayati.<.Druva-a.eDi.pozyA.-mayi.>.iti /
+   ŚGS_1.17.4: <.dhruvam.paśyāmi.prajām.vindaya.>.iti.brūyāt /	ŚGS_1.17.4: <.Druvam-.paSyAmi.-prajAm-.vindaya.>.iti.-brUyAt /
+   ŚGS_1.17.5: trirātram.brahmacaryam.careyātām /	ŚGS_1.17.5: tri-rAtram-.brahmacaryam-.careyAtAm /
+   ŚGS_1.17.6: adhaḥ.śayīyātām /	ŚGS_1.17.6: aDas-.SayIyAtAm /
+   ŚGS_1.17.7:	ŚGS_1.17.7:
+   dadhy.odanam.sambhuñjīyātām.<.pibatam.ca.tṛpṇutam.ca.>.iti.tṛcena /	daDi-.odanam.samBuQjIyAtAm-.<.pibatam-.ca.tR-pNutam-.ca.>.iti.tRcena /
+   ŚGS_1.17.8:	ŚGS_1.17.8:
+   sāyam.prātar.vaivāhyam.agnim.paricareyātām.<.agnaye.svāhā.anagnaye.sviṣṭakṛte.svāhā.>.iti	sAyam.-prAtar.vEvAhyam-.agnim-.paricareya-AtAm.<.agnaye.-svAhA.-anagnaye.-su-izwakRte.svAhA.>.iti
+   ŚGS_1.17.9ab: <.pumāṃsau.mitā.varuṇau.pumāṃsāv.aśvināv.ubhau /	ŚGS_1.17.9ab: <.pumAMsO.mitA.-varuNO.-pumAMsO=-.aSvinO=-.uBO /
+   ŚGS_1.17.9cd:	ŚGS_1.17.9cd:
+   pumān.indraś.ca.agniś.ca.pumāṃsam.vardhatām.mayi.svāhā.>.iti.pūrvā.garbha.kāmā	pumAn-.indra-S.ca-.agni-S.ca.-pumAMsam-.varDa-tAm-.mayi.svAhA.>.iti.-pUrvA.-garBa.kAmA
+   ŚGS_1.17.10: daśarātram.avipravāsaḥ /	ŚGS_1.17.10: daSa-rAtram-.a-vipravAsaH /
+   ŚGS_1.18.0: atha.caturthī.karma /	ŚGS_1.18.0: aTa.-caturTI.-karma /
+   ŚGS_1.18.1: atha.caturthī.karma /	ŚGS_1.18.1: aTa.-caturTI.-karma /
+   ŚGS_1.18.2: trirātre.nivṛtte.sthālī.pākasya.juhoti /	ŚGS_1.18.2: tri-rAtre.nivRtte.-sTAlI.-pAkasya.juhoti /
+   ŚGS_1.18.3-1ab: agne.prāyaś.cittir.asi.tvam.devānām.prāyaś.cittir.asi /	ŚGS_1.18.3-1ab: agne.-prAya-S.cittir.asi.-tvam-.devAnAm-.prAya-S.cittiH-.asi /
+   ŚGS_1.18.3-1cd: yā.asyāḥ.patighnī.tanūs.tām.asyā.apa.jahi /	ŚGS_1.18.3-1cd: yA.asyAH.pati-GnI.-tanU-s.tA-am.asya-a.apa.jahi /
+   ŚGS_1.18.3-2ab: vāyo.prāyaś.cittir.asi.tvam.devānām.prāyaś.cittir.asi /	ŚGS_1.18.3-2ab: vAyo.prAya-S.cittir.asi.-tvam-.devAnAm-.prAya-S.cittiH-.asi /
+   ŚGS_1.18.3-2cd: yā.asyā.aputrayā.tanūs.tām.asyā.apa.jahi /	ŚGS_1.18.3-2cd: yA.asya-a.aputrayA.tanU-s.tA-am.asya-a.apa.jahi /
+   ŚGS_1.18.3-3ab: sūrya.prāyaś.cittir.asi.tvam.devānām.prāyaś.cittir.asi /	ŚGS_1.18.3-3ab: sUrya.prAya-S.cit-tir.asi.-tvam-.devAnAm-.prAya-S.cittiH-.asi /
+   ŚGS_1.18.3-3cd: yā.asyā.apaśavyā.tanūs.tām.asyā.apa.jahi /	ŚGS_1.18.3-3cd: yA.asya-a.apaSavyA.-tanU-s.tA-am.asya-a.apa.jahi /
+   ŚGS_1.18.3-4ab: aryamaṇam.nu.devam.kanyā.agnim.ayakṣata /	ŚGS_1.18.3-4ab: aryamaNa-m.nu.devam.kanyA.agnim.ayakzata /
+   ŚGS_1.18.3-4cd: sā.imām.devo.aryamā.preto.muñcātu.mā.amutaḥ /	ŚGS_1.18.3-4cd: sA.imAm.devaH-.arya-mA.-preta-u.muQcAtu.mA.a-mutas /
+   ŚGS_1.18.3-5ab: varuṇam.nu.devam.kanyā.agnim.ayakṣata /	ŚGS_1.18.3-5ab: varuNa-m.nu.devam.kanyA.agnim.ayakzata /
+   ŚGS_1.18.3-5cd: sā.imām.devo.varuṇa.reto.muñcātu.mā.amutaḥ /	ŚGS_1.18.3-5cd: sA.imAm.devaH-.varuNa-.reto.muQcAtu.mA.a-mutas /
+   ŚGS_1.18.3-6ab: pūṣaṇam.tu.devam.kanyā.agnim.ayakṣata /	ŚGS_1.18.3-6ab: pUzaNa-m.tu.-devam.kanyA.agnim.ayakzata /
+   ŚGS_1.18.3-6cd: sā.imām.devaḥ.pūṣā.preto.muñcātu.mā.amutaḥ /	ŚGS_1.18.3-6cd: sA.imAm.devaH.pUzA.-pretaH-.muQcAtu.mA.a-mutas /
+   ŚGS_1.18.4: <.prajāpate.>.iti.saptamī /	ŚGS_1.18.4: <.-prajApate.>.iti.saptamI /
+   ŚGS_1.18.5: sauviṣtakṛty.aṣṭamī /	ŚGS_1.18.5: sOvizta-kRti-.azwamI /
+   ŚGS_1.19.0: atha.garbha.ādhānam /	ŚGS_1.19.0: aTa.garBa-.ADAnam /
+   ŚGS_1.19.1:	ŚGS_1.19.1:
+   adhyāṇḍā.mūlam.peṣayitvā.ṛtu.velāyām.<.ud.īrṣvātaḥ.pativatī.>.iti.dvābhyām.ante.svāhā.kārābhyām.nasto.dakṣiṇato.niṣiñcet	aDyANxA.-mUlam-.pezayitvA-a.Rtu.-velAyAm.<.ud.Irzu-AtaH.pativatI.>.iti.-dvAByAm-.ante.-svAhA.kAra-aByAm.naH-to.dakziNato.niziQcet-
+   ŚGS_1.19.2:	ŚGS_1.19.2:
+   <.gandharvasya.viśvāvasor.mukham.asi.>.iti.upastham.prajanayiṣyamāṇo.abhimṛśet	<.ganDarvasya.-viSvAvasoH-.muKam.asi-.>.iti-.upasTam-.prajanayizyamANaH-.aBimRSet-
+   ŚGS_1.19.3: samāpte.arthe.japet /	ŚGS_1.19.3: samApte.arTe.-japet /
+   ŚGS_1.19.4: <.prāṇe.te.reto.dadhāmy.asāv.>.iti.anuprāṇyāt /	ŚGS_1.19.4: <.prANe.te.reto.da-DAmi-.asa-a=-.>.iti.-anuprANyAt /
+   ŚGS_1.19.5ab: yathā.bhūmir.agni.garbhā.yathā.dyaur.indreṇa.garbhiṇī /	ŚGS_1.19.5ab: yaTA.BUmiH-.agni.garBA.yaTA.dyOr.indreNa.garBiNI /
+   ŚGS_1.19.5cd:	ŚGS_1.19.5cd:
+   vāyur.yathā.diśām.garbham.evam.garbham.dadhāmi.te.asāv.iti.vā /	vAyuH-.yaTA.diSAm.-garBam-.evam.garBa-m.da-DAmi.te.asO=-.iti.vA /
+   ŚGS_1.19.6ab: ā.te.yonim.garbha.etu.pumān.bāṇa.iva.iṣudhim /	ŚGS_1.19.6ab: A.te.yonim.garBa.etu.-pumAn.bANa-.iva-.izuDim /
+   ŚGS_1.19.6cd: ā.te.vīro.atra.jāyatām.putras.te.daśa.māsyaḥ /	ŚGS_1.19.6cd: A.te.-vIraH-.atra.-jAyatAm-.putra-s.te.daSa.m-AsyaH /
+   ŚGS_1.19.7ab: pumāṃsam.putram.janaya.tam.pumān.anu.jāyatām /	ŚGS_1.19.7ab: pumAMsam-.putram-.janaya.tam.pumAn-.anu.-jAyatAm /
+   ŚGS_1.19.7cd: teṣām.mātā.bhaviṣyasi.jātānām.janayāṃsi.ca /	ŚGS_1.19.7cd: tezAm-.mAtA.-Bavizyasi.jAtAnAm-.janayAMsi.ca /
+   ŚGS_1.19.8ab: puṃsi.vai.puruṣe.retas.tat.striyām.anu.ṣiñcati /	ŚGS_1.19.8ab: puMsi.vE.-puruze.retas.-tat.striyAm-.anu.ziQcati /
+   ŚGS_1.19.8cd: tathā.tad.abravīd.dhātā.tat.prajāpatir.abravīt /	ŚGS_1.19.8cd: taTA.tad-.abravIt-.DAtA.-tat.-prajApatiH-.abravIt /
+   ŚGS_1.19.9ab: prajāpatir.vyadadhāt.savitā.vyakalpayata /	ŚGS_1.19.9ab: prajApatiH-.vyadaDAt.-savitA.-vyakalpayata /
+   ŚGS_1.19.9cd: strīṣūyam.anyāt.svād.adhat.pumāṃsam.ādadhād.iha /	ŚGS_1.19.9cd: strI-zUyam.anyAt.-svAd.aDat.pu-mAMsa-m.AdaDAd.iha /
+   (.anyāsv.ādadhat.)(Cf.Paipp.19.12)	(.anyAsu-.Ada-Dat.)(-Sf.Pa-epp.19.12)
+   ŚGS_1.19.10ab: yāni.bhadrāṇi.bījāni.puruṣā.janayanti.naḥ /	ŚGS_1.19.10ab: yA-ani.Badra-aNi.-bIja-ani.puruzA.janayanti.naH /
+   ŚGS_1.19.10cd: tebhiṣ.ṭvam.putram.janaya.suprasūr.dhenukā.bhava /	ŚGS_1.19.10cd: teBiz.wvam.putra-m.janaya.-su-prasUr.-DenukA.-Bava /
+   ŚGS_1.19.11ab: abhi.kranda.vīḍayasva.garbham.ā.dhehi.sādhaya /	ŚGS_1.19.11ab: aBi.kranda.vIxaya-sva.-garBam.a-a.Dehi.sADaya /
+   ŚGS_1.19.11cd: vṛṣāṇam.vṛṣann.ā.dhehi.prajāyai.tvā.havāmahe /	ŚGS_1.19.11cd: vRzANam-.vRzan=-.a-a.Dehi.-prajAyE.tva-a.havAmahe /
+   ŚGS_1.19.12ab:	ŚGS_1.19.12ab:
+   yasya.yonim.pati.reto.gṛbhāya.pumān.putro.dhīyatām.garbhe.antaḥ /	yasya.yonim-.pati.reto.gRBAya.-pumAn.putra-u.DIyatAm-.garBe.antaH /
+   ŚGS_1.19.12cd:	ŚGS_1.19.12cd:
+   tam.pipṛhi.daśa.māsyo.antar.udare.sa.jāyatām.śraiṣṭhyatamaḥ.svānām.iti.vā	tam-.pipRhi.-daSa.mAsyaH-.antar.-udare.-sa.jAyatAm-.SrEzWyatamaH.svAnAm-.iti.vA
+   ŚGS_1.20.0: atha.pum.savanam /	ŚGS_1.20.0: aTa.-pum.savanam /
+   ŚGS_1.20.1: tṛtīye.māsi.pum.savanam /	ŚGS_1.20.1: tRtIye.-mAsi.pum.savanam /
+   ŚGS_1.20.2: puṣyeṇa.śravaṇena.vā /	ŚGS_1.20.2: puzyeNa.-SravaNena.vA /
+   ŚGS_1.20.3:	ŚGS_1.20.3:
+   soma.aṃśum.peṣayitvā.kuśa.kaṇṭakam.vā.nyagrodhasya.vā.skandhasya.antyām.śuṅgām.yūpasya.vā.aṅgiṣṭhām	soma-.aMSum.pezayitvA-.kuSa.kaNwakam-.vA.nyagroDasya-.vA.skanDasya.anti-Am.SuFgAm.yUpasya.vA.aFgizWAm
+   ŚGS_1.20.4: saṃsthite.vā.yajñe.juhvaḥ.saṃsrāvam /	ŚGS_1.20.4: saMsTite.-vA.yajQe.-juhvaH.-saMsrAvam /
+   ŚGS_1.20.5:	ŚGS_1.20.5:
+   <.agninā.rayim.>.<.tan.nas.turīpam.>.<.samiddha.agnir.vanavat.>.<.piśaṅga.rūpa.>.iti.catasṛbhir.ante.svāhā.kārābhir.nasto.dakṣiṇato.niṣiñcet	<.agninA.-rayim.>.<.tan.na-s.turIpam.>.<.-samidDa-.agniH-.vanavat.>.<.piSaFga-.-rUpa-.>.iti.-catasRBiH-.ante.-svAhA.kArABiH-.nasto.dakziNat-
+   ŚGS_1.21.0: atha.garbha.rakṣaṇam /	ŚGS_1.21.0: aTa.garBa.rakzaNam /
+   ŚGS_1.21.1: caturthe.māsi.garbha.rakṣaṇam /	ŚGS_1.21.1: caturTe.-mAsi.-garBa.rakzaNam /
+   ŚGS_1.21.2: <.brahmaṇā.agniḥ.saṃvidāna.>.iti.ṣaṭ.sthālī.pākasya.hutvā /	ŚGS_1.21.2: <.brahmaNA-a.agniH.-saMvidAna.>.iti.-zaw.-sTAlI.-pAkasya.hutvA /
+   ŚGS_1.21.3:	ŚGS_1.21.3:
+   <.akṣībhyām.te.nāsikābhyām.>.iti.pratyṛcam.ājya.lepena.aṅgāny.anuvimṛjya /	<.akzIByAm-.te.nAsikAByAm-.>.iti.-pratyRcam.Ajya.-lepena.aFgAni-.anuvimRjya /
+   ŚGS_1.22.0: atha.sīmanta.unnayanam /	ŚGS_1.22.0: aTa.sIm-anta.unnayanam /
+   ŚGS_1.22.1: saptame.māsi.prathama.garbhe.sīmanta.unnayanam /	ŚGS_1.22.1: saptame.-mAsi.-praTama-.garBe.-sImanta.unnayanam /
+   ŚGS_1.22.2: snātām.ahata.vāsasam.paścād.agneu.upaveśya /	ŚGS_1.22.2: snAtA-m.a-hata.vAsa-sam.paScAt-.agneu.upaveSya /
+   ŚGS_1.22.3: anvārabdhāyām.mahā.vyāhṛtibhir.jutvā /	ŚGS_1.22.3: anvArabDAyAm.-mahA.-vyAhRtiBiH-.jutvA /
+   ŚGS_1.22.4: sthālī.pālam.śrapayitvā /	ŚGS_1.22.4: sTAlI.-pAlam-.SrapayitvA /
+   ŚGS_1.22.5: mugda.odanam.ity.eke /	ŚGS_1.22.5: mugda.odanam-.iti-.eke /
+   ŚGS_1.22.6: puṃvad.upakaraṇāni.syur.nakṣatram.ca /	ŚGS_1.22.6: puMvat-.upakaraNa-ani.syuH-.nakzatram-.ca /
+   ŚGS_1.22.7-1ab: dhātā.dadātu.dāśuṣe.prācīm.jīvātum.akṣitim /	ŚGS_1.22.7-1ab: DAtA.da-dAtu.da-aSuze.-prAcIm-.jIva-Atum.a-kzitim /
+   ŚGS_1.22.7-1cd: vayam.devasya.dhīmahi.sumatim.satya.dharmaṇaḥ /	ŚGS_1.22.7-1cd: vayam-.devasya.DI-m-ahi.sumatim-.sati-a.DarmaNaH /
+   ŚGS_1.22.7-2ab:	ŚGS_1.22.7-2ab:
+   dhātā.prajāyā.uta.rāya.īśe.dhātā.idam.viśvam.bhuvanam.jajāna /	DAtA.-prajAya-a.uta.rAya-.ISe.-DAtA.idam.viSvam-.Buvanam.jajAnaH /
+   ŚGS_1.22.7-2cd:	ŚGS_1.22.7-2cd:
+   dhātā.putram.yajamānāya.dātā.tasmā.u.havyam.ghṛtavaj.johota.>.iti /	DAtA.putram-.yajamAna-aya.dAtA.-tasmA.-u.havyam.-GRta-vaj.johota.>.-iti /
+   ŚGS_1.22.7: <.nejameṣa.parā.pata.>.iti.tisraḥ.<.prajāpata.>.iti.ṣaṣṭhī /	ŚGS_1.22.7: <.neja-meza.-parA.pata.>.iti.tisraH.<.-prajApata.>.iti.-zazWI /
+   ŚGS_1.22.8:	ŚGS_1.22.8:
+   triḥ.śvetayā.śalalyā.darbha.sūcyā.vā.udumbara.śalāṭubhiḥ.saha.madhyād.ūrdhvam.sīmantam.unnayati.<.bhūr.bhuvaḥ.svar.>.iti	tris-.SvetayA-a.SalalyA.-darBa.-sUcyA-a.vA.u-dumbara.-SalAwuBiH.saha.-maDyAt-.UrDvam-.sImantam-.unnayati.<.BUH-.-BuvaH.svar.>.iti
+   ŚGS_1.22.9: utsaṅge.nidhāya /	ŚGS_1.22.9: utsaFge.niDAya /
+   ŚGS_1.22.10:	ŚGS_1.22.10:
+   trivṛti.pratimucya.kaṇṭhe.badhnāti.<.ayam.ūrjāvato.vṛkṣa.ūrjī.iva.phalinī.bhava.>.iti	trivRti.pratimucya.-kaNWe.-baDna-ati.<.ayam.UrjAvato.-vRkza-.UrjI-.iva.-PalinI.-Bava.>.iti
+   ŚGS_1.22.11:	ŚGS_1.22.11:
+   atha.āha.vīṇā.gāthinaḥ.<.rājānam.saṃgāyata.>.iti.<.yo.vā.apy.anyo.vīratara.>.iti	aTa.A-aha.-vINA.-gATinaH.<.rAjAnam-.saMgAyata.>.iti.<.yaH-.vA.-api-.anyo.vIratara.>.iti
+   ŚGS_1.22.12: uda.pātre.akṣatān.avaninīya.<.viṣṇur.yonim.kalpayatu.>..iti /	ŚGS_1.22.12: uda.-pAtre.akzatAn-.avaninIya-.<.vizNuH-.yonim-.kalpayatu.>..iti /
+   ŚGS_1.22.13: ṣaḍṛcena.pāyayet /	ŚGS_1.22.13: zaz-Rcena.pAyayet /
+   ŚGS_1.22.14: atha.asyā.udaram.abhimṛśet /	ŚGS_1.22.14: aTa.asyA.udaram-.aBimRSet /
+   ŚGS_1.22.15ab: suparṇo.asi.garutmāṃs.trivṛt.te.śiro.gāyatram.cakṣuḥ /	ŚGS_1.22.15ab: suparNaH-.asi.-garutmAMs.-trivRt.te.SiraH-.gAyatram-.cakzuH /
+   ŚGS_1.22.15cd: chandāṃsy.aṅgāni.yajūṃṣi.nāma.sāma.te.tanūḥ /	ŚGS_1.22.15cd: CandAMsi-.aFgA-ni.yajUMzi.nAma.-sAma.te.-tanUH /
+   ŚGS_1.22.16: modamānīm.gāpayet /	ŚGS_1.22.16: modamAnIm-.gApayet /
+   ŚGS_1.22.17: mahā.hemavatīm.vā /	ŚGS_1.22.17: mahA.-hemavatIm.vA /
+   ŚGS_1.22.18: ṛṣabho.dakṣiṇā /	ŚGS_1.22.18: RzaBo.dakziNA /
+   ŚGS_1.23.0: atha.sūtikā.gṛha.upalepanam /	ŚGS_1.23.0: aTa.sUtikA.-gRha.-upalepanam /
+   ŚGS_1.23.1:	ŚGS_1.23.1:
+   kākātanyā.macakacātanyāḥ.kośātakhyā.bṛhatyāḥ.kālaklītakasya.iti.mūlāni.peṣayitvā.upalepayed.deśam.yasmin.prajāyeta.rakṣasām.apahatyai	kAkAtanyA.macaka-cAtanyAH-.koSAtaKyA.-bRhatyAH.kAla-klItakasya.iti.-mUlA-ni.pezayitvA.upalepayet-.deSam-.yasmin-.prajAyeta.-rakzasAm.apah
+   ŚGS_1.24.0: atha.jāta.karma /	ŚGS_1.24.0: aTa.-jAta-.karma /
+   ŚGS_1.24.1: atha.jāta.karma /	ŚGS_1.24.1: aTa.-jAta-.karma /
+   ŚGS_1.24.2:	ŚGS_1.24.2:
+   jātam.kumāram.trir.abhyavānya.anuprāṇyāt.<.ṛcā.prāaṇihi.yajuṣā.samanihi.sāmnā.udanihi.>.iti	jAtam-.kumAra-m.triH-.aByavAnya.anuprANyAt.<.RcA.-prAaNi-hi.yajuzA.-sama-nihi.-sAmnA-a.uda-nihi.>.-iti
+   ŚGS_1.24.3:	ŚGS_1.24.3:
+   sarpir.madhunī.dadhy.udake.ca.samninīya.brīhi.yavau.vā.samnighṛṣya.triḥ.prāśayej.jāta.rūpeṇa	sarpiH-.maDunI.-daDi-.udake.-ca.-samninIya.brIhi.yavO.vA.-samni-GRzya.-tris-.prASa-yej.-jAta-.-rUpeNa
+   ŚGS_1.24.4-1ab:	ŚGS_1.24.4-1ab:
+   pra.te.yacchāmi.madhuman.makhāya.veda.prasūtam.savitrā.maghonā /	pra.te.yat-SAmi.-maDuman.maKAya.veda.-prasUtam-.savitrA.maGonA /
+   ŚGS_1.24.4-1cd:	ŚGS_1.24.4-1cd:
+   āyuṣmān.gupito.devatābhiḥ.śatam.jīva.śarado.loke.asminn.iti /	AyuzmAn-.gu-pita-u.devatABiH.Satam.jIva.-Sarado.loke.asmin=-.iti /
+   ŚGS_1.24.4:	ŚGS_1.24.4:
+   asāv.iti.nāma.asya.dadhāti.ghoṣavad.ādy.antar.antastham.dvy.akṣaram.catur.akṣaram.vā.api.vā.ṣaḍ.akṣaram.kṛtam.kuryān.na.taddhitam	asO=-.iti.-nAma.asya.daDA-ati.Goza-vad.Adi-.antar.anta-sTam.dvI-.akzaram-.catur.akzaram.vA.api-.vA.-zaz-.akzaram-.kRtam-.kuryAn.na.-tadhitam
+   ŚGS_1.24.5: tad.asya.pitā.mātā.ca.vidyātām /	ŚGS_1.24.5: tad-.asya.pitA.mAtA.-ca.vidyAtAm /
+   ŚGS_1.24.6: daśamyām.vyāvahārikam.brāhmaṇa.juṣṭam /	ŚGS_1.24.6: daSamyAm-.vyAvahArikam-.brAhmaNa.-juzwam /
+   ŚGS_1.24.7:	ŚGS_1.24.7:
+   goḥ.kṛṣṇasya.śukla.kṛṣṇāni.lohitāni.ca.romāṇi.maṣam.kārayitvā.etasminn.eva.catuṣṭaye.samninīya.catuḥ.prāśayed.iti.māṇḍūkeyaḥ	goH.kRzNasya.-Sukla.kRzNA-ni.lohita-ani.ca.-romANi.mazam-.kArayitvA-a.etasmin=-.eva.-catuzwaye.-samninIya.catuH.prASayet-.iti.mANxUkeyaH
+   ŚGS_1.24.8:	ŚGS_1.24.8:
+   bhūr.ṛgvedam.<.tvayi.dadhāmy.asau.svāhā.bhūr.bhuvaḥ.svar.vāko.vākyam.itihāsa.purāṇam.om.sarvān.vedāṃs.tvayi.dadhāmy.asau.svāhā.>.iti.vā	BUH-.Rgvedam.<.-tvayi.daDAmy.a-sO.svAhA.-BUH-.BuvaH.-svar.vAkaH-.-vAkyam-.iti-hAsa.-purANam-.om.sarvAn-.vedAns.-tvayi.t-aDAmi-.a-sO.svAhA.>.iti.v
+   ŚGS_1.24.9: medhā.jananam.dakṣiṇe.karṇe.<.vāg.>.iti.triḥ /	ŚGS_1.24.9: meDA-a.jananam.dakziNe.karNe.<.vAg.>.iti.-tris /
+   ŚGS_1.24.10-1ab:	ŚGS_1.24.10-1ab:
+   <.vāg.devī.manasā.saṃvidānā.prāṇena.vatsena.saha.indra.proktā /	<.vAc-.devI.-manasA-a.-saMvidAnA.-prANena.vatsena.-saha.-indra.-proktAH /
+   ŚGS_1.24.10-1cd:	ŚGS_1.24.10-1cd:
+   juṣatama.tvā.saumanasāya.devī.mahī.mandrā.vāṇī.vāṇīcī.salilā.svayambhūr.>.iti	juzata-ma.-tvA.-sOmanasAya.-devI.-mahI.-mandrA.-vANI.-vANI-cI.-salilA.-svayamBUr.>.iti
+   ŚGS_1.24.10: ca.anumantrayet /	ŚGS_1.24.10: ca.anumantrayet /
+   ŚGS_1.24.11: śaṇa.sūtreṇa.vigranthya.jāta.rūpam /	ŚGS_1.24.11: SaNa.-sUtreNa.-vigranTya.jAta-.-rUpam /
+   ŚGS_1.24.12: dakṣiṇe.pāṇāv.apinahya.ā.utthānāt /	ŚGS_1.24.12: dakziNe.-pANO=-.apinahya-.A.-utTAnAt /
+   ŚGS_1.24.13: ūrdhvam.daśamyā.brāhmaṇebhyo.dadyāt /	ŚGS_1.24.13: UrDvam.da-SamyA.-brAhmaNeByaH-.-dadyAt /
+   ŚGS_1.24.14: amā.vā.kurvīta /	ŚGS_1.24.14: amA-a.vA.kurvIta /
+   ŚGS_1.25.0: atha.nāma.karma /	ŚGS_1.25.0: aTa.nAm-a.karma /
+   ŚGS_1.25.1: daśa.rātre.ca.utthānam /	ŚGS_1.25.1: daSa.rAtre.-ca.utTAnam /
+   ŚGS_1.25.2: mātā.pitarau.śiraḥ.snātāv.ahata.vāsasau /	ŚGS_1.25.2: mAtA-a.-pita-rO.SiraH.-snAtA-av.ahata.vAsasO /
+   ŚGS_1.25.3: kumāraś.ca /	ŚGS_1.25.3: kumAraS.ca /
+   ŚGS_1.25.4: etasminn.eva.sūtikā.agnau.sthālī.pākam.śrapayitvā /	ŚGS_1.25.4: etasmin=-.eva.sUtikA.-agnO.-sTa-AlI.-pAkam-.SrapayitvA /
+   ŚGS_1.25.5: janma.tithim.hutvā.trīṇi.ca.bhāni.sadaivatāni /	ŚGS_1.25.5: janma-.tiTim-.hutvA.-trINi.ca.BA-ni.-sa-dEvatAni /
+   ŚGS_1.25.6:	ŚGS_1.25.6:
+   tan.madhye.juhuyād.yasmin.jātaḥ.syāt.pūrvma.tu.daivatam.sarvatra /	tan.-maDye.-juhuyAt-.yasmin-.jAtaH.syAt.pUrvma-.tu.dEvatam.sarvatra /
+   ŚGS_1.25.7-1ab: āyuṣ.te.adya.gīrbhir.ayam.agnir.vareṇyaḥ /	ŚGS_1.25.7-1ab: Ayuz.te.adya.gIrBiH-.ayam-.agniH-.vareNyaH /
+   ŚGS_1.25.7-1cd: āyur.no.dehi.jīvase.āyurdā.agne.haviṣā.vṛdhāno /	ŚGS_1.25.7-1cd: AyuH-.no.dehi.jIvase.a-AyuH-dA.agne.-havizA.-vRDAnaH /
+   ŚGS_1.25.7-2ab:	ŚGS_1.25.7-2ab:
+   ghṛta.pratīko.ghṛta.yonir.edhi.ghṛtam.pītvā.madhu.cāru.gavyam /	GRta.pratIko.GRta-.yoniH-.eDi.-GRtam-.pItvA-a.maDu.cAru.gavyam /
+   ŚGS_1.25.7-2cd:	ŚGS_1.25.7-2cd:
+   tvam.soma.mahe.bhagam.>.iti./7-2cd:pitā.iva.putram.iha.rakṣatād.imam.iti /	tvam-.soma.mahA-i.Baga-m.>.iti./7-2cd:pita-a.iva.putram.iha.ra-kzatAt-.imam.iti /
+   ŚGS_1.25.7: daśamī.sthālī.pākasya /	ŚGS_1.25.7: daSamI.-sTAlI.-pAkasya /
+   ŚGS_1.25.8: nāma.dheyam.prakāśam.kṛtvā /	ŚGS_1.25.8: nAma.Deyam-.prakASam-.kRtvA /
+   ŚGS_1.25.9: brāhmaṇān.svasti.vācya /	ŚGS_1.25.9: brAhmaNAn-.svasti.vAcya /
+   ŚGS_1.25.10: evam.eva.māsi.māsi.janma.tithim.hutvā /	ŚGS_1.25.10: evam-.eva.-mAsi.-mAsi.-janma-.tiTim-.hutvA /
+   ŚGS_1.25.11: ūrdhvam.saṃvatsarād.gṛhye.agnau.juhoti /	ŚGS_1.25.11: UrDvam.saMvatsarAt-.gRhye.agnO.juhoti /
+   ŚGS_1.26.0: atha.homaḥ /	ŚGS_1.26.0: aTa-.homaH /
+   ŚGS_1.26.1: agnaye.kṛttikābhyaḥ /	ŚGS_1.26.1: agnaye.-kRttikAByaH /
+   ŚGS_1.26.2: prajāpataye.rohiṇyai /	ŚGS_1.26.2: prajApataye.-rohiNyE /
+   ŚGS_1.26.3: somāya.mṛgaśirase /	ŚGS_1.26.3: somAya.-mRgaSirase /
+   ŚGS_1.26.4: rudrāya.ārdrābhyaḥ /	ŚGS_1.26.4: rudra-aya.a-ArdrAByaH /
+   ŚGS_1.26.5: aditaye.punarvasubhyām /	ŚGS_1.26.5: aditaye.-punarvasuByAm /
+   ŚGS_1.26.6: bṛhaspataye.puṣyāya /	ŚGS_1.26.6: bRhaspataye.-puzyAya /
+   ŚGS_1.26.7: sarpebhyo.aśleṣābhyaḥ /	ŚGS_1.26.7: sarpeByaH-.a-SlezAByaH /
+   ŚGS_1.26.8: pitryebhyo.maghābhyaḥ /	ŚGS_1.26.8: pitryeByaH-.maGAByaH /
+   ŚGS_1.26.9: bhagāya.phalgunībhyām /	ŚGS_1.26.9: Baga-aya.-PalgunIByAm /
+   ŚGS_1.26.10: aryamṇe.phalgunībhyām /	ŚGS_1.26.10: aryamNe.-PalgunIByAm /
+   ŚGS_1.26.11: savitre.hastāya /	ŚGS_1.26.11: savitre.hastAya /
+   ŚGS_1.26.12: tvaṣṭre.citrāyai /	ŚGS_1.26.12: tvazwre.citrAyE /
+   ŚGS_1.26.13: vāyave.svātaye /	ŚGS_1.26.13: vAyave.-svAtaye /
+   ŚGS_1.26.14: indrāgnibhyām.viśākhābhyām /	ŚGS_1.26.14: indra-agniByAm-.viSAKAByAm /
+   ŚGS_1.26.15: mitrāya.anurādhāyai /	ŚGS_1.26.15: mitra-aya-.anurADAyE /
+   ŚGS_1.26.16: indrāya.jyeṣṭhāyai /	ŚGS_1.26.16: indra-aya.-jyezWAyE /
+   ŚGS_1.26.17: nirṛtyai.mūlāya /	ŚGS_1.26.17: nirRtyE.-mUlAya /
+   ŚGS_1.26.18: adbhyo.āṣāḍhābhyaḥ /	ŚGS_1.26.18: adByaH-.AzAXAByaH /
+   ŚGS_1.26.19: viśvebhyo.devebhyo.āṣāḍhābhyaḥ /	ŚGS_1.26.19: viSveByaH-.-deveByaH-.AzAXAByaH /
+   ŚGS_1.26.20: brahmaṇe.abhijite /	ŚGS_1.26.20: brahmaNe.a-Bijite /
+   ŚGS_1.26.21: viṣṇave.śravaṇāya /	ŚGS_1.26.21: vizNave.-SravaNAya /
+   ŚGS_1.26.22: vasubhyo.dhaniṣṭhābhyaḥ /	ŚGS_1.26.22: vasuByo.DanizWAByaH /
+   ŚGS_1.26.23: varuṇāya.śata.bhiṣaje /	ŚGS_1.26.23: varuNAya.-Sata.Bizaje /
+   ŚGS_1.26.24: ajāya.ekapade.proṣṭhapadābhyaḥ /	ŚGS_1.26.24: ajAya-.eka-pade.-prozWa-padAByaH /
+   ŚGS_1.26.25: ahir.budhnyāya.proṣṭhapadābhyaḥ /	ŚGS_1.26.25: ahir.buDnyAya.-prozWa-padAByaH /
+   ŚGS_1.26.26: pūṣṇe.revatyai /	ŚGS_1.26.26: pUzNe.revatyE /
+   ŚGS_1.26.27: aśvibhyām.aśvinībhyām /	ŚGS_1.26.27: aSviByAm-.aSvinIByAm /
+   ŚGS_1.26.28: yamāya.bharaṇībhyaḥ /	ŚGS_1.26.28: yama-aya.-BaraNIByaH /
+   ŚGS_1.27.0: atha.anna.prāśanam /	ŚGS_1.27.0: aTa.anna.-prASanam /
+   ŚGS_1.27.1: ṣaṣṭhe.māsy.anna.prāśanam /	ŚGS_1.27.1: zazWe.m-Asy.anna.prASanam /
+   ŚGS_1.27.2: ājam.anna.adya.kāmaḥ /	ŚGS_1.27.2: Ajam.anna-.adya.kAmaH /
+   ŚGS_1.27.3: taittiram.brahma.varcasa.kāmaḥ /	ŚGS_1.27.3: tEttiram-.brahma.varcasa.-kAmaH /
+   ŚGS_1.27.4: mātsyam.javana.kāmaḥ /	ŚGS_1.27.4: mAtsyam-.ja-vana.-kAmaH /
+   ŚGS_1.27.5: ghṛta.odanam.tejas.kāmaḥ /	ŚGS_1.27.5: GRta.odanam-.tejas.-kAmaH /
+   ŚGS_1.27.6: dadhi.madhu.ghṛta.miśram.annam.prāśayet /	ŚGS_1.27.6: daDi.maDu.-GRta.-miSram-.annam-.prASayet /
+   ŚGS_1.27.7-1ab: <.anna.pate.annasya.no.dehy.amīvasya.śuṣṇmiṇaḥ /	ŚGS_1.27.7-1ab: <.anna.pate.annasya.no.dehy.am-Ivasya.-SuzNmiNaH /
+   ŚGS_1.27.7-1cd: pra.pra.dātāram.tāriṣa.ūrjan.no.dhehi.dvipade.ca /	ŚGS_1.27.7-1cd: pra.pra.dAtAram.tAriza-.Urjan-.no.Dehi.-dvipade.-ca /
+   ŚGS_1.27.7: <.yac.cidd.hi.>.<.mahaścit.> /	ŚGS_1.27.7: <.yac.cit-d.hi.>.<.mahaH-cit.> /
+   ŚGS_1.27.7-2ab: imam.agna.āyuṣe.varcase.tigmam.ojo.varuṇa.soma.rājan /	ŚGS_1.27.7-2ab: imam-.agna.Ayuze.-varcase.-tigmam.ojaH-.-varuNa.-soma.-rAjan /
+   ŚGS_1.27.7:	ŚGS_1.27.7:
+   mātā.iva.asmā.aditiḥ.śarma.yaṃsad.viśve.devā.jarad.aṣṭir.yathā.asad.iti.hutvā	mAtA-a.iva-.asmA.aditiH.Sarma.I-aMsa-d.viSve.-devA.-jarat-.azwiH-.yaTA.asa-d.iti.hutvA
+   ŚGS_1.27.8: <.agna.āyūṃṣi.>.it.abhimantrya /	ŚGS_1.27.8: <.agna.A-AyUMzi.>.it.aBimantrya /
+   ŚGS_1.27.9: udag.agreṣu.kuśeṣu.<.syonā.pṛthivi.bhava.>.iti.upaveśya /	ŚGS_1.27.9: udag.agrezu.-kuSa-izu.-<.syonA.-pRTivi.Bava-.>.iti.-upaveSya /
+   ŚGS_1.27.10: mahā.vyāhṛtibhiḥ.prāśanam /	ŚGS_1.27.10: mahA.-vyAhRtiBiH-.prASanam /
+   ŚGS_1.27.11: śeṣam.mātā.prāśnīyāt /	ŚGS_1.27.11: Sezam-.mAtA.-prASnIyAt /
+   ŚGS_1.28.0: atha.cūḍā.karma /	ŚGS_1.28.0: aTa.-cUxA.karma /
+   ŚGS_1.28.1: saṃvatsare.cūḍā.karma /	ŚGS_1.28.1: saMvatsare.-cUxA.-karma /
+   ŚGS_1.28.2: tṛtīye.vā.varṣe /	ŚGS_1.28.2: tRtIye.-vA.varze /
+   ŚGS_1.28.3: pañcame.kṣatriyasya /	ŚGS_1.28.3: paQcame.kzatriyasya /
+   ŚGS_1.28.4: saptame.vaiśyasya /	ŚGS_1.28.4: saptame.-vESyasya /
+   ŚGS_1.28.5: agnim.upasamādhāya /	ŚGS_1.28.5: agnim-.upasamADAya /
+   ŚGS_1.28.6: vrīhi.yavānām.tila.māṣāṇām.iti.pātrāṇi.ca.pūrayitvā /	ŚGS_1.28.6: vrIhi.yavAnAm.tila.mAzANAm-.iti.-pAtra-aNi-.ca.-pUrayitvA /
+   ŚGS_1.28.7:	ŚGS_1.28.7:
+   ānaḍuham.ca.gomayam.kuśa.bhittam.ca.keśa.pratigrahaṇāya.ādarśan.nava.nītam.loha.kṣuram.ca.uttarata.upasthāpya	Anaxuham.ca.-gomayam-.kuSa.-Bittam.ca.-keSa.-pratigrahaNa-Aya.A-darSan.nava.nIta-m.loha.kzuram-.ca.uttara-ta.upasTApya
+   ŚGS_1.28.8-1ab: sampṛcyadhvam.ṛtāvarīr.ūrmiṇā.madhumattamāḥ /	ŚGS_1.28.8-1ab: sampRcyaDvam-.RtO=-arIr.UrmiNA-a.maDu-mattamAH /
+   ŚGS_1.28.8-1cd: pṛñcatīr.madhunā.payo.mandrā.dhanasya.sātaya.iti /	ŚGS_1.28.8-1cd: pRQca-tIr.maDunA-a.-payo.mandra-a.Danasya.sAtaya.-iti /
+   ŚGS_1.28.8: uṣṇāsv.apsu.śītā.āsiñcati /	ŚGS_1.28.8: uzNAsu-.apsu.SIta-A.AsiQcati /
+   ŚGS_1.28.9-1ab: āpa.undantu.jīvase.dīrgha.āyutvāya.varcase /	ŚGS_1.28.9-1ab: Apa.undantu.-jIvase.dIrGa-.a-AyutvAya.-varcase /
+   ŚGS_1.28.9-1cd: tryāyuṣam.jamadagneḥ.paśyapasya.tryāyuṣam /	ŚGS_1.28.9-1cd: tri-Ayuzam-.jamat-agneH.paSyapasya.tri-Ayuzam /
+   ŚGS_1.28.9-1efg:	ŚGS_1.28.9-1efg:
+   agastyasya.tryāyuṣam.yad.devānām.tryāyuṣam.|.tat.te.karomi.tryāyuṣam.iti /	agastyasya.tri-Ayuzam-.yad.devAnAm-.tri-Ayuzam.|.tat.te.karomi.tri-Ayuzam-.iti /
+   ŚGS_1.28.9:	ŚGS_1.28.9:
+   asāv.iti.śīṭa.uṣṇābhir.adbhir.dakṣiṇam.keśa.pakṣam.trir.abhyanakti /	asO=-.iti.-SIwa-.uzNABiH-.adBiH-.dakziNam-.keSa.pakzam.triH-.aByanakti /
+   ŚGS_1.28.10: śalalyā.eke.vijaṭān.kṛtvā /	ŚGS_1.28.10: SalalyA-.eke.-vijawAn-.kRtvA /
+   ŚGS_1.28.11: nava.nītena.abhyajya /	ŚGS_1.28.11: nava.nItena.aByajya /
+   ŚGS_1.28.12: <.oṣadhe.trāyasva.enam.>.iti.kuśa.taruṇam.antar.dadhāti /	ŚGS_1.28.12: <.ozaDe.trAya-sva.enam.>.iti.kuSa.taruNam-.antar.daDAti /
+   ŚGS_1.28.13: keśān.kuśa.taruṇam.ca.ādarśena.saṃspṛśya /	ŚGS_1.28.13: keSAn-.kuSa.taruNam-.ca.a-AdarSena.-saMspRSya /
+   ŚGS_1.28.14:	ŚGS_1.28.14:
+   <.tejo.asi.svadhitiṣ.ṭe.pitā.mā.enam.hiṃsīr.>.iti.loha.kṣuram.ādatte /	<.-tejaH-.asi.-su-aDitiz.we.pitA-a.mA.-enam-.hiMsIr.>.iti.-loha.kzuram-.Adatte /
+   ŚGS_1.28.15:	ŚGS_1.28.15:
+   yena.āvapat.savitā.śmaśrv.agre.kṣureṇa.rājño.varuṇasya.vidvān.yena.dhātā.bṛhaspatir.indrasya.ca.āvapat.śiraḥ.|.tena.brahmāṇo.vapata.idam.adya.āyuṣmān.dīrgha.āyur.ayam.astu.vīro.asāv.iti.keśa.agrāṇi.chinatti.kuśa.taruṇam.ca	yena-.Avapat.-savitA.-SmaSrv.agre.kzureNa.rAjQaH-.-varuNasya.-vidvAn-.yena.-DAtA.-bRhaspatiH-.indrasya.ca.a-avapat.-SiraH-.|.tena.-brahmANaH-.vap
+   ŚGS_1.28.16: evam.dvitīyam.evam.tṛtīyam /	ŚGS_1.28.16: evam-.dvitIyam-.evam-.tRtIyam /
+   ŚGS_1.28.17: evma.dvir.uttarataḥ /	ŚGS_1.28.17: evma.dvir.uttarataH /
+   ŚGS_1.28.18: nikakṣayoḥ.ṣaṣṭha.saptame.go.dāna.karmaṇi /	ŚGS_1.28.18: nikakzayoH.-zazWa.-saptame.-go.dAna.-karmaNi /
+   ŚGS_1.28.19: etad.ea.go.dāna.karma.yac.cūḍā.karma /	ŚGS_1.28.19: etat-.ea.-go.dAna.-karma.yac.-cUxA.-karma /
+   ŚGS_1.28.20: ṣoḍaśe.varṣe.aṣṭādaśe.vā /	ŚGS_1.28.20: zoxaSe.-varze.azwAdaSe.vA /
+   ŚGS_1.28.21: tṛtīye.tu.pravapane.gām.dadāty.ahatam.ca.vāsaḥ /	ŚGS_1.28.21: tRtIye.tu.-pravapane.gAm.da-dAty.a-hatam.ca.vAsaH /
+   ŚGS_1.28.22: tūṣṇīm.āvṛtaḥ.kanyānām /	ŚGS_1.28.22: tUzNIm-.a-AvRtaH.-kanyAnAm /
+   ŚGS_1.28.23:	ŚGS_1.28.23:
+   prāg.udīcyām.diśi.bahv.aoṣadhike.deśe.apām.vā.samīpe.keśān.nikhananti /	prAc-.udIcyAm-.di-Si.-bahv.aozaDike.deSe.apAm.vA.samIpe.keSAn-.niKananti /
+   ŚGS_1.28.24: nāpitāya.dhānya.pātrāṇi.nāpitāya.dhānya.pātrāṇi /	ŚGS_1.28.24: na-apita-aya.-DAnya.-pAtra-aNi.nA-pita-aya.-DAnya.-pAtrANi /
+   ŚGS_2.1.0: atha.upanayanam /	ŚGS_2.1.0: aTa.upanayanam /
+   ŚGS_2.1.1: garbha.aṣṭameṣu.brāhmaṇam.upanayet /	ŚGS_2.1.1: garBa-.azwamezu.-brAhmaNam-.upanayet /
+   ŚGS_2.1.2: aiṇeyena.ajinena /	ŚGS_2.1.2: ENeyena.ajinena /
+   ŚGS_2.1.3: garbha.daśameṣu.vā /	ŚGS_2.1.3: garBa.daSamezu.vA /
+   ŚGS_2.1.4: garbha.ekādaśeṣu.kṣatriyam.rauraveṇa /	ŚGS_2.1.4: garBa.ekAdaSa-izu-.kzatriyam-.rOraveNa /
+   ŚGS_2.1.5: garbha.dvādaśeṣu.vaiśyam.gavyena /	ŚGS_2.1.5: garBa.dvAdaSa-izu.-vESya-m.gavyena /
+   ŚGS_2.1.6: ā.ṣoḍaśād.varṣād.brāhmaṇasya.anatītaḥ.kālaḥ /	ŚGS_2.1.6: A.zoxaSAd.varzAt-.brAhmaNasya.anatItaH.-kAlaH /
+   ŚGS_2.1.7: ā.dvāviṃśāt.kṣatriyasya /	ŚGS_2.1.7: A.dvAviMSAt-.kzatriyasya /
+   ŚGS_2.1.8: ā.caturviṃśād.vaiśyasya /	ŚGS_2.1.8: A.caturviMSAt-.vESyasya /
+   ŚGS_2.1.9: ata.ūrdhvam.patita.sāvitrīkā.bhavanti /	ŚGS_2.1.9: ata.u-UrDvam-.patita.-sA=-itrIkA.Bavanti /
+   ŚGS_2.1.10: na.enān.upanayeyuḥ /	ŚGS_2.1.10: na.ena-an.upanayeyuH /
+   ŚGS_2.1.11: na.adhyāpayeyuḥ /	ŚGS_2.1.11: na.aDyApayeyuH /
+   ŚGS_2.1.12: na.yājayeyuḥ /	ŚGS_2.1.12: na.yAjayeyuH /
+   ŚGS_2.1.13: na.ebhir.vyavahareyuḥ /	ŚGS_2.1.13: na.eBiH-.vyavahareyuH /
+   ŚGS_2.1.14: ahatena.vā.sarvān.mekhalinaḥ /	ŚGS_2.1.14: ahatena.vA.-sarvAn-.meKalinaH /
+   ŚGS_2.1.15: mauñjī.mekhalā.brāhmaṇasya /	ŚGS_2.1.15: mOQjI.-meKalA.-brAhmaNasya /
+   ŚGS_2.1.16: dhanur.jyā.kṣatriyasya /	ŚGS_2.1.16: DanuH-.jyA-.kzatriyasya /
+   ŚGS_2.1.17: ūrṇā.sūtrī.vaiśyasya /	ŚGS_2.1.17: UrNA.-sUtrI.-vESyasya /
+   ŚGS_2.1.18: pālāśo.bailvo.vā.daṇḍo.brāhmaṇasya /	ŚGS_2.1.18: pAlASo.-bElvo.vA.daNxaH-.-brAhmaNasya /
+   ŚGS_2.1.19: naiyagrodhaḥ.kṣatriyasya /	ŚGS_2.1.19: nEyagroDaH.kzatriyasya /
+   ŚGS_2.1.20: audumbaro.vaiśyasya /	ŚGS_2.1.20: OdumbaraH-.-vESyasya /
+   ŚGS_2.1.21: prāṇa.sammito.brāhmaṇasya /	ŚGS_2.1.21: prANa.-sammitaH-.-brAhmaNasya /
+   ŚGS_2.1.22: lalāṭa.sammitaḥ.kṣatriyasya /	ŚGS_2.1.22: lalAwa.-sammitaH.kzatriyasya /
+   ŚGS_2.1.23: keśa.sammito.vaiśyasya /	ŚGS_2.1.23: keSa.-sammito.-vESyasya /
+   ŚGS_2.1.24: sarve.vā.sarveṣām /	ŚGS_2.1.24: sarve.vA.-sarvezAm /
+   ŚGS_2.1.25: yena.abaddhena.upanayeta.ācārya.adhīnam.tat /	ŚGS_2.1.25: yena-.abadDena.upanayeta-.AcArya-.aDInam-.tat /
+   ŚGS_2.1.26: parivāpya.upaneyaḥ.syāt /	ŚGS_2.1.26: parivApya-.upaneyaH.syAt /
+   ŚGS_2.1.27: āplutya.alam.kṛtya /	ŚGS_2.1.27: Aplutya-.alam-.kRtya /
+   ŚGS_2.1.28:	ŚGS_2.1.28:
+   hutvā.jaghanena.agnim.tiṣṭhataḥ.prān.mukha.ācāryaḥ.pratyan.mukha.itaraḥ /	hutvA.-jaGanena.agnim-.tizWataH.-prAn.muKa.a-AcAryaH.pratyan.muKa-.itaraH /
+   ŚGS_2.1.29: tiṣṭhaṃs.tiṣṭhantam.upanayet /	ŚGS_2.1.29: tizWans.tizWantam-.upanayet /
+   ŚGS_2.1.30:	ŚGS_2.1.30:
+   mitrasya.cakṣur.dharuṇam.balīyas.tejo.yaśasvi.sthaviram.samṛddham.|.anāhanasyam.vasanam.cariṣṇu.pari.idam.vājy.ajinam.dadhe.aham	mitrasya.-cakzuH-.DaruNam-.balIyas.-tejaH-.-yaSa-svi.sTa-viram.-samRdDam.|.anAhanasyam.-vasanam-.carizNu.-pari.idam-.vAjy.a-jinam-.daDe.aham
+   ŚGS_2.2.1:	ŚGS_2.2.1:
+   iyam.duruktāt.paribādhamānā.varṇam.pavitram.punatī.na.āgāt.|.prāṇa.apānābhyām.balam.āviśantī.sakhā.devī.subhagā.mekhalā.iyam.iti.|.trir.mekhalām.pradakṣiṇam.triḥ.pariveṣṭya.	iyam.duruktAt.-paribADa-mAnA.-varNam-.pavitram.punatI.-na.A-gAt.|.-prANa.a-pAnAByAm-.balam-.AviSantI.-saKA.-devI.-suBagA.-meKalA-a.iyam-.iti.|.t
+   ŚGS_2.2.2: granthir.ekas.trayo.api.vā.api.vā.pañca /	ŚGS_2.2.2: granTiH-.eka-s.trayaH-.api.vA.-api.vA.paQca /
+   ŚGS_2.2.3:	ŚGS_2.2.3:
+   yajña.upavītam.kṛtvā.<.yajña.upavītam.asi.yajñasya.tvā.upavītena.upa.nahyāmi.>.iti	yajQa.-upavItam-.kRtvA-a.<.yajQa.upavItam.a-si.yajQasya.tvA.upavItena-.upa.nahyAmi.>.-iti
+   ŚGS_2.2.4: añjalī.pūrayitvā.atha.enam.āha.<.ko.nāma.asi.>.iti /	ŚGS_2.2.4: aQjalI.-pUrayitvA-a.aTa.enam.Aha.<.ko.nAma-.asi.>.iti /
+   ŚGS_2.2.5: <.asāv.aham.bho.>.iti.itaraḥ /	ŚGS_2.2.5: <.asO=-.aham-.Bo.>.iti-.itaraH /
+   ŚGS_2.2.6: <.samāna.ārṣeya.>.ity.ācāryaḥ /	ŚGS_2.2.6: <.samAna-.Arzeya.>.iti-.AcAryaH /
+   ŚGS_2.2.7: <.samāna.ārṣeyo.aham.bho.>.iti.itaraḥ /	ŚGS_2.2.7: <.samAna-.ArzeyaH-.aham-.Bo.>.iti-.itaraH /
+   ŚGS_2.2.8: <.brahma.cārī.bhavana.brūhi.>.iti /	ŚGS_2.2.8: <.brahma.cArI.-Bavana.-brUhi.>.-iti /
+   ŚGS_2.2.9: <.brahma.cāry.aham.bho.>.iti.itaraḥ /	ŚGS_2.2.9: <.brahma.cAry.aham-.Bo.>.iti-.itaraH /
+   ŚGS_2.2.10: <.bhūr.bhuvaḥ.svar.>.iti.asyā.añjalāv.añjalīṃs.trīn.āsicya /	ŚGS_2.2.10: <.BUH-.-BuvaH.-svar.>.iti.asya-a.aQjalO=-.aQjalIMs.trIn-.Asicya /
+   ŚGS_2.2.11: dakṣiṇa.uttarābhyām.pāṇibhyām.pāṇī.saṃgṛhya.japati /	ŚGS_2.2.11: dakziNa.uttarAByAm-.pANiByAm-.pANI.-saMgRhya.-japati /
+   ŚGS_2.2.12:	ŚGS_2.2.12:
+   <.devasya.tvā.savituḥ.prasave.aśvinor.bāhubhyām.pūṣṇo.hastābhyām.upanayāmy.asāv.>.iti	<.devasya.tvA.-savituH-.prasave.a-SvinoH-.-bAhuByAm-.pUzNo.hastAByAm-.upanayAmi-.asO=-.>.iti
+   ŚGS_2.2.13: <.gaṇānām.tvā.>.iti.gaṇa.kāmān /	ŚGS_2.2.13: <.gaNAnAm.tvA.>.iti.-gaNa.-kAmAn /
+   ŚGS_2.2.14: <.gā.gantā.mā.riṣaṇyata.>.iti.yodhān /	ŚGS_2.2.14: <.gA.gantA.mA.rizaNyata.>.iti.-yoDAn /
+   ŚGS_2.2.15: mahā.vyāhṛtibhir.vyādhitān /	ŚGS_2.2.15: mahA.-vyAhRtiBiH-.vyADitAn /
+   ŚGS_2.3.1a:	ŚGS_2.3.1a:
+   bhagas.te.hastam.agrabhīt.savitā.hastam.agrabhīt.|.pūṣā.te.hastam.agrabhīd.aryamā.hastam.agrabhīt.|.mitras.tvam.asi.dharmaṇā.agnir.ācāryas.tava	Baga-s.te.-hastam-.agra-BIt.-savitA.hastam-.agra-BIt.|.pUza-A.te.hastam.agraBId.arya-mA.hastam-.agra-BIt.|.mitra-s.tvam.a-si.DarmaNA-a.agniH-.Ac
+   ŚGS_2.3.1b:	ŚGS_2.3.1b:
+   asāv.aham.ca.ubhau.agna.etam.te.brahma.cāriṇam.pari.dadāmi.indra.etam.te.brahma.cāriṇam.pari.dadāmi.āditya.etam.te.brahma.cāriṇam.pari.dadāmi.viśve.devā.etam.vo.brahma.cāriṇam.pari.dadāmi.dīrgha.āyutvāya.suprajāstvāya.suvīryāya.rāyas.poṣāya.sarveṣām.vedānām.ādhipatyāya.suślokyāya.svastaye	asO=-.aham.ca.uBO.agna-.etam-.te.-brahma.cAriNam-.pari.da-dAmi.indra-.etam-.te.-brahma.cAriNam-.pari.da-dAmi.a-Aditya-.etam-.te.-brahma.cAriNam
+   ŚGS_2.3.2:	ŚGS_2.3.2:
+   <.aindrīm.āvṛtam.āvarta.ādityasya.āvṛtam.anvāvarta.>.iti.dakṣiṇam.bāhum.anvāvṛtya	<.-A-EndrIm.A-AvRtam-.Avarta-.Adityasya.A-AvRtam.anvAvarta-.>.iti.-dakziNam-.bAhum-.anvAvRtya
+   ŚGS_2.3.3:	ŚGS_2.3.3:
+   dakṣiṇena.prādeśena.dakṣiṇam.aṃsam.anvavahṛtya.<.ariṣyatas.te.hṛdayasya.priyo.bhūyāsam.>.iti.hṛdaya.deśam.abhimṛśati	dakziNena.-prAdeSena.-dakziNam-.aMsam.anu-avahRtya.<.arizyata-s.te.-hRdayasya.-priyo.BUya-asam.>.iti.-hRdaya.deSam-.aBimRSati
+   ŚGS_2.3.4: tūṣṇīm.prasavyam.paryāvṛtya /	ŚGS_2.3.4: tUzNIm-.prasavyam-.paryAvRtya /
+   ŚGS_2.3.5: atha.asya.ūrdhva.aṅgulim.pāṇim.hṛdaye.nidhāya.japati /	ŚGS_2.3.5: aTa.asya-.-u-UrDva-.aFgulim.pANim-.hRdaye.niDAya.japati /
+   ŚGS_2.4.1:	ŚGS_2.4.1:
+   mama.vrate.hṛdayam.te.dadhāmi.mama.cittam.anu.cittam.te.astu.|.mama.vācam.eka.manā.juṣasva.bṛhaspatiṣṭ.tvā.niyunaktu.mahyām.ati	mama.vrate.-hRdayam-.te.daDAmi.mama.cittam-.anu.cittam-.te.astu.|.mama.vAcam-.eka.manA.-juza-sva.-bRhaspatizw.-tvA.-niyunaktu.-mahyAm.ati
+   ŚGS_2.4.2: kāmasya.brahma.caryasya.asāv.iti /	ŚGS_2.4.2: kAmasya.-brahma.caryasi-a.asO=-.iti /
+   ŚGS_2.4.3: tena.eva.mantreṇa.tathā.eva.paryāvṛtya /	ŚGS_2.4.3: tena-.eva.-mantreNa.-taTA-.eva.-paryAvRtya /
+   ŚGS_2.4.4: dakṣiṇena.prādeśena.dakṣiṇam.aṃsam.anvārabhya.japati /	ŚGS_2.4.4: dakziNena.-prAdeSena.-dakziNam-.aMsam-.anvAraBya.japati /
+   ŚGS_2.4.5:	ŚGS_2.4.5:
+   <.brahma.cāry.asi.samidham.ā.dhehi.apo.aśāna.karma.kuru.mā.divā.suṣupthāḥ.vācam.yaccha.ā.samid.ādhānāt	<.brahma.cAry.asi.-samiDam.a-a.Dehi-.apaH-.aSAna-.karma.kuru.mA.-divA.-suzupTAH.vAcam-.yat-Sa.A.-samid.a-ADAnAt
+   ŚGS_2.4.6: <.eṣā.te.agne.samid.>.iti.abhyādadhāti.samidham.tūṣṇīm.vā /	ŚGS_2.4.6: <.ezA.te.agne.-samiD-.>.iti.aByAdaDAti.samiDam-.tUzNIm-.vA /
+   ŚGS_2.5.0: atha.sāvitra.anuvacanam /	ŚGS_2.5.0: aTa.-sAvitra-.anuvacanam /
+   ŚGS_2.5.1: saṃvatsare.sāvitrīm.anvāha /	ŚGS_2.5.1: saMvatsare.-sAvitrIm-.anvAha /
+   ŚGS_2.5.2: trirātre /	ŚGS_2.5.2: tri-rAtre /
+   ŚGS_2.5.3: anvakṣam.vā /	ŚGS_2.5.3: anvakzam.vA /
+   ŚGS_2.5.4: gāyatrīm.brāhmaṇāya.anubrūyāt /	ŚGS_2.5.4: gAyatrIm-.brAhmaNAya.anubrUyAt /
+   ŚGS_2.5.5: triṣṭubham.kṣatriyāaya /	ŚGS_2.5.5: trizwuBam-.kzatriyAaya /
+   ŚGS_2.5.6: jagatīm.vaiśyāya /	ŚGS_2.5.6: jagatIm-.vESyAya /
+   ŚGS_2.5.7: sāvitrīm.tv.eva /	ŚGS_2.5.7: sAvitrIm-.tu-.A-iva /
+   ŚGS_2.5.8: uttareṇa.agnim.upaviśataḥ /	ŚGS_2.5.8: uttareNa-.agnim-.upaviSataH /
+   ŚGS_2.5.9: prān.mukha.ācāryaḥ.pratyan.mukha.itaraḥ /	ŚGS_2.5.9: prAn.muKa-.a-AcAryaH.pratyan.muKa-.itaraH /
+   ŚGS_2.5.10: <.adhīhi.bho.>.iti.uktvā /	ŚGS_2.5.10: <.aDI-hi.Bo.>.iti-.uktvA /
+   ŚGS_2.5.11:	ŚGS_2.5.11:
+   ācārya.om.kāram.prayujya.atha.itaram.vācayati.<.sāvitrī.bho.anubrūhi.>.iti	AcArya-.om.kAram-.prayujya.aTa-.itaram-.vAcayati.<.sAvitrI.Bo.anubrUhi.>.iti
+   ŚGS_2.5.12:	ŚGS_2.5.12:
+   atha.asmai.sāvitrīm.anvāha.<.tat.savitur.vareṇyam.>.iti.etām.pacco.ardharcaśo.anavānam	aTa.-asmE.sA=-itrIm-.anvAha-.<.tat.-savituH-.vareNyam.>.iti-.etAm-.paccaH-.arDarcaSo.anavAnam
+   ŚGS_2.6.0: atha.vratāni /	ŚGS_2.6.0: aTa.-vratAni /
+   ŚGS_2.6.1:	ŚGS_2.6.1:
+   āpo.nāma.stha.śivā.nāma.stha.|.ūrjā.nāma.stha.ajarā.nāma.stha.|.abhayā.nāma.stha.amṛtā.nāma.stha.|.<.tāsām.vo.aśīya.sumatau.mā.dhatta.>.iti.evam.trir.apa.ācāmayya	Apo.nAma.-sTa.-SivA.-nAma-.sTa.|.UrjA.-nAma.sTa.a-jarA.-nAma.-sTa.|.a-BayA.-nAma.sTa.amRtA.-nAma.sTa-.|.<.ta-AsAm-.vaH-.aSIya.sumatO.m-A.Datta-.>.
+   ŚGS_2.6.2: <.svasti.no.mimītām.>.iti.pañcarcena.daṇḍam.prayacchati /	ŚGS_2.6.2: <.svasti.no.m-imItAm.>.iti.-paQca-Rcena.-daNxam-.prayacCati /
+   ŚGS_2.6.3: varo.dakṣiṇā /	ŚGS_2.6.3: varo.-dakziNA /
+   ŚGS_2.6.4: pradakṣiṇam.agnim.paryāṇīya.bhikṣate.grāmam /	ŚGS_2.6.4: pradakziNam-.agnim-.paryANIya.Bikzate.grAmam /
+   ŚGS_2.6.5: mātaram.tv.eva.prathamām /	ŚGS_2.6.5: mAtaram.tu-.-eva.-praTamAm /
+   ŚGS_2.6.6: yā.vā.enam.na.pratyācakṣīta /	ŚGS_2.6.6: yA-a.vA.enam.na.-pratyAcakzIta /
+   ŚGS_2.6.7: ācāryāya.bhaikṣyam.nivedayitvā.anujñāto.guruṇā.bhuñjīta /	ŚGS_2.6.7: AcArya-aya.-BEkzyam.nivedayitvA-a.anujQAtaH-.guruNA.BuQjIta /
+   ŚGS_2.6.8:	ŚGS_2.6.8:
+   ahar.ahaḥ.samid.ādhānam.bhikṣā.caraṇam.adhaḥ.śayyā.guru.śuśrūṣā.iti.brahma.cāriṇo.nityāni	ahar.ahaH.-samid.a-ADAnam-.BikzA.-caraNam-.aDas-.SayyA.-guru.-SuSrUzA-.iti.-brahma.-cAriNaH-.-nityAni
+   ŚGS_2.7.0: atha.anuvacanam /	ŚGS_2.7.0: aTa.anuvacanam /
+   ŚGS_2.7.1: atha.anuvācanasya /	ŚGS_2.7.1: aTa.anuvAcanasya /
+   ŚGS_2.7.2: agner.uttarata.upaviśataḥ /	ŚGS_2.7.2: agneH-.uttarata.upavi-SataH /
+   ŚGS_2.7.3: prān.mukha.ācāryaḥ.pratyan.mukha.itaraḥ /	ŚGS_2.7.3: prAn.muKa-.a-AcAryaH.pratyan.muKa-.itaraH /
+   ŚGS_2.7.4: abhivādya.pādāv.ācāryasya.pāṇī.prakṣālya /	ŚGS_2.7.4: aBivAdya.pAdO=-.AcAryasya.pANI.-prakzAlya /
+   ŚGS_2.7.5: dakṣiṇena.jānunā.ākramya.mūle.kuśa.truṇān /	ŚGS_2.7.5: dakziNena.-jAnunA-a.Akramya.mUle.-kuSa.truNAn /
+   ŚGS_2.7.6: dakṣiṇa.uttarābhyām.pāṇibhyām.madhye.parigṛhya /	ŚGS_2.7.6: dakziNa.uttarAByAm-.pANiByAm-.maDye.-parigRhya /
+   ŚGS_2.7.7:	ŚGS_2.7.7:
+   tānt.savyena.ācāryo.agre.saṃgṛhya.dakṣiṇena.adbhiḥ.pariṣiñcann.atha.itaram.vācayati	tAnt.-savyena-.AcAryaH-.agre.-saMgRhya.-dakziNena-.adBiH.pariziQcan=-.aTa-.itaram-.vAcayati
+   ŚGS_2.7.8: <.sāvitrīm.bho.anubrūni.>.iti.itaraḥ /	ŚGS_2.7.8: <.sAvitrIm.BaH-.anubrU-ni.>.iti-.itaraH /
+   ŚGS_2.7.9: <.sāvitrīm.te.anubravīmi.>.iti.ācāryaḥ /	ŚGS_2.7.9: <.sAvitrIm.te.anubravImi.>.iti.AcAryaH /
+   ŚGS_2.7.10:	ŚGS_2.7.10:
+   <.gāyatrīm.bho.anubrūhi.>.iti.itaraḥ.<.gāyatrīm.te.anubravīmi.>.iti.ācāryaḥ	<.gAyatrIm.BaH-.anubrUhi.>.iti-.itaraH.<.gAyatrIm-.te.anubravImi.>.iti.AcAryaH
+   ŚGS_2.7.11:	ŚGS_2.7.11:
+   <.vaiśvāmitrīm.bho.anubrūhi.>.iti.itaraḥ.<.vaiśvāmitrīm.(.vaiśvānarīm.).te.anubravīmi.>.iti.ācāryaḥ	<.-vESvAmitrIm.BaH-.anubrUhi.>.iti.itaraH.<.vESvAmitrIm-.(.-vESvAnarIm.).te.anubravImi.>.iti.-AcAryaH
+   ŚGS_2.7.12:	ŚGS_2.7.12:
+   <.ṛṣīn.bho.anubrūhi.>.iti.itaraḥ.<.devatās.te.anubravīmi.>.iti.ācāryaḥ /	<.RzIn.BaH-.anubrUhi.>.iti-.itaraH.<.devatA-s.te.anubravImi.>.iti.AcAryaH /
+   ŚGS_2.7.13:	ŚGS_2.7.13:
+   <.devatā.bho.anubrūhi.>.iti.itaraḥ.<.devatās.te.anubravīmi.>.iti.ācāryaḥ /	<.devatA.Bo.anu-brUhi.>.iti-.itaraH.<.devatA-s.te.anubravImi.>.iti.AcAryaH /
+   ŚGS_2.7.14:	ŚGS_2.7.14:
+   <.chandāṃsi.bho.anubrūhi.>.iti.itaraḥ.<.chandāṃsi.te.anubravīmi.>.iti.ācāryaḥ	<.CandAMsi.Bo.anubrUhi.>.iti-.itaraH.<.CandAMsi.te.anubravImi.>.iti.-AcAryaH
+   ŚGS_2.7.15:	ŚGS_2.7.15:
+   <.śrutim.bho.anubrūhi.>.iti.itaraḥ.<.śrutim.te.anubravīmi.>.iti.ācāryaḥ /	<.Sruti-m.BaH-.anubrUhi.>.iti.itaraH.<.-Srutim.te.anubravImi.>.iti.AcAryaH /
+   ŚGS_2.7.16:	ŚGS_2.7.16:
+   <.smṛtim.bho.anubrūhi.>.iti.itaraḥ.<.smṛtim.e.anubravīmi.>.iti.ācāryaḥ /	<.-smRtim.BaH-.anubrUhi.>.iti-.itaraH-.<.smRtim-.e.anubravImi.>.iti.AcAryaH /
+   ŚGS_2.7.17:	ŚGS_2.7.17:
+   <.śraddhā.medhe.bho.anubrūhi.>.iti.itaraḥ.<.śraddhā.medhe.anubravīmi.>.iti.ācāryaḥ	<.SradDA.meDe.Bo.anubrUhi.>.iti-.itaraH-.<.SradDA.-meDe.anubravImi.>.iti.-AcAryaH
+   ŚGS_2.7.18:	ŚGS_2.7.18:
+   evam.evam.ṛṣer.yasya.yasya.yo.yo.mantro.yad.devatyo.yac.chandāś.ca.tathā.tathā.tam.tam.mantram.anubrūyāt	evam-.evam.RzeH-.yasya.yasya.yo.yo.mantraH-.yat-.devatyaH-.yac.CandAS.ca.-taTA.taTA-a.tam.tam.mantram-.anubrUyAt-
+   ŚGS_2.7.19:	ŚGS_2.7.19:
+   api.vā.avindann.ṛṣi.daivata.chandāṃsi.<.tat.savitur.vareṇyam.>.iti.etām.paccho.ardharcaśo.anavānam.ity.eṣā.iti.samāpta.āha.ācāryaḥ	api.vA.avindan=-.Rzi.dEvata.CandAMsi.<.tat.-savituH-.vareNyam.>.iti-.etAm-.pacCo.arDarca-So.ana-vAnam.iti-.ezA.iti.-samApta-.Aha.a-AcAryaH
+   ŚGS_2.7.20: evam.eka.ekam.ṛṣim.anuvākam.vā.anubrūyāt /	ŚGS_2.7.20: evam-.eka-.ekam-.Rzi-m.anuvAkam-.vA.anubrUyAt /
+   ŚGS_2.7.21: kṣudra.sūkteṣv.anuvākam /	ŚGS_2.7.21: kzudra.sUktezu-.anuvAkam /
+   ŚGS_2.7.22: yāvad.vā.gurur.manyeta /	ŚGS_2.7.22: yAvat-.vA.guruH-.manyeta /
+   ŚGS_2.7.23: ādya.uttame.kāmam.sūkte.vā.anubrūyād.ṛṣeḥ /	ŚGS_2.7.23: Adya-.uttame.-kAmam-.su-ukte.vA.anubrUyAt-.RzeH /
+   ŚGS_2.7.24: anuvākasya.vā /	ŚGS_2.7.24: anuvAkasya.vA /
+   ŚGS_2.7.25: eka.ekām.sūkta.ādāv.iti /	ŚGS_2.7.25: eka-.eka-Am.su-ukta-.AdO=-.iti /
+   ŚGS_2.7.26: eṣā.prabhṛtir.iti.kāmam.sūkta.ādāv.ācārya.iti /	ŚGS_2.7.26: ezA.-praBRtiH-.iti.-kAmam.su-ukta-.AdO=-.AcArya.-iti /
+   ŚGS_2.7.27: etad.ṛṣi.svādhyāye.vyākhyātam /	ŚGS_2.7.27: etat-.Rzi.-svADyAye.-vyAKyAtam /
+   ŚGS_2.7.28:	ŚGS_2.7.28:
+   samāpte.kuśa.taruṇān.ādāya.anaḍuhena.mūle.kuṇḍam.kṛtvā.yathā.sūktam.kuśeṣv.apo.niṣiñcati	samApte.-kuSa.-taruNa-an-.AdAya.a-naxuhena.-mUle.-kuNxam-.kRtvA-a.yaTA.su-uktam-.kuSezu-.apo.niziQcati
+   ŚGS_2.7.29: ahaḥ.śeṣam.sthānam.upavāsaś.ca /	ŚGS_2.7.29: ahar-.Sezam.sTAnam-.upavAsa-S.ca /
+   ŚGS_2.8.1:	ŚGS_2.8.1:
+   apara.ahṇe.akṣata.dhānā.bhikṣitvā.ājya.āhuti.dharmeṇa.agnau.pāṇinā.juhuyāt.<.sadasas.aptim.adbhutam.>.iti.pratyṛcam.sūkta.śeṣeṇa	apara.ahNe.akzata.DAnA.-Bikzi-tvA-a.Ajya.Ahuti.-DarmeNa-.agnO.-pANinA.-juhuyAt.<.-sadasa-s.aptim.adButa-m.>.iti.-pratyRcam.su-ukta.SezeNa
+   ŚGS_2.8.2: bhakṣair.ācāryam.svasti.vācya /	ŚGS_2.8.2: BakzEH-.AcAryam-.svasti.vAcya /
+   ŚGS_2.9.0: atha.saṃdhyā.upāsana.karma /	ŚGS_2.9.0: aTa.-saMDyA.upAsana.karma /
+   ŚGS_2.9.1:	ŚGS_2.9.1:
+   araṇye.samit.pāṇiḥ.saṃdhyām.āste.nityam.vāg.yata.uttara.apara.abhimukho.anvaṣṭamadeśam.ā.nakṣatrāṇām.darśanāt	araNye.-samit.-pANiH.saMDi-Am.AH-te.nityam-.vAg.yata.uttara.apara-.aBimuKaH-.anvazwam-adeSam.A.-nakzatrANAm-.darSanAt-
+   ŚGS_2.9.2: atikrāntāyām.mahā.vyāhṛtīḥ.sāvitrīm.svastyayanāni.ca.japitvā /	ŚGS_2.9.2: atikrAnta-AyAm.-mahA.-vyAhRtIH-.sAvitrIm.svastyayanA-ni.ca.-japitvA /
+   ŚGS_2.9.3: evam.prātaḥ.prān.mukhas.tiṣṭhann.ā.maṇḍala.darśanāt /	ŚGS_2.9.3: evam-.prAtaH.-prAn.muKa-s.tizWan=-.A.-maNxala.darSanAt /
+   ŚGS_2.10.0: atha.agni.kāryam /	ŚGS_2.10.0: aTa.-agni.kAryam /
+   ŚGS_2.10.1: udite.prādhyayanam /	ŚGS_2.10.1: udite.-prADyayanam /
+   ŚGS_2.10.2: ahar.ahaḥ.sāyam.prātaḥ /	ŚGS_2.10.2: ahar.ahar-.sAyam-.prAtar /
+   ŚGS_2.10.3:	ŚGS_2.10.3:
+   agnim.upasamādhāya.parisamuhya.paryukṣya.dakṣiṇam.jānv.ācya.(?) /	agnim-.upasamADAya.-parisamuhya.-paryukzya.-dakziNam-.jAn-v.Acya.(?) /
+   ŚGS_2.10.4:	ŚGS_2.10.4:
+   agnaye.samidham.ahārṣam.bṛhate.jāta.vedase.|.sa.me.śraddhām.ca.medhām.ca.jāta.vedā.prayacchatu.svāhā.|.edho.asy.edhiṣīmahi.samad.asi.tejo.asi.tejo.mayi.dhehi.svāhā./samiddho.mām.samardhaya.prajayā.ca.dhanena.ca.svāhā.//.eṣā.te.agne.samit.tayā.vardhasva.ca.ā.ca.pyāyasva.|.vardhiṣīmahi.ca.vayam.ā.ca.pyāsiṣīmahi.svāhā.iti	agnaye.-samiDam-.ahArzam-.bRhate.-jAta.vedase.|.-sa.me.SradDAm-.ca.meDAm-.ca.-jAta-.-vedA.-prayacCatu.-svAhA.|.eDaH-.asi-.eDizIm-ahi.-samad.asi.
+   ŚGS_2.10.5: atha.paryukṣya /	ŚGS_2.10.5: aTa.paryukzya /
+   ŚGS_2.10.6:	ŚGS_2.10.6:
+   agniḥ.śraddhām.ca.medhām.ca.avinipātam.smṛtim.ca.me.|.īlito.jāta.vedā.ayam.śunam.naḥ.prayachatv.ityṇagnim.upatiṣṭhate	agniH.SradDAm-.ca.meDAm-.ca.a-vinipAtam-.smRtim-.ca.-me.|.IlitaH-.jAta.-vedA.-ayam.Suna-m.naH.-prayaCatu-.ityNagnim-.upatizWate
+   ŚGS_2.10.7:	ŚGS_2.10.7:
+   (.sauparṇa.vrata.bhāṣitam.dṛṣṭam.vṛddha.sampradāya.anuṣṭhitam.tryāyuṣam.pañcabhir.mantraiḥ.pratimantram.lalāṭe.hṛdaye.dakṣiṇa.skandhe.vāme.ca.tataḥ.pṛṣṭhe.ca.pañcasu.bhasmanā.tripuṇḍhram.karoto.)/	(.sOparNa.vrata.BAzitam-.dRzwam.vRdDa.-sampradAya-.anuzWita-m.tri-Ayuzam-.paQcaBiH-.mantrEH.pratimantram-.lalAwe.-hRdaye.-dakziNa.-skanDe.
+   ŚGS_2.10.8:	ŚGS_2.10.8:
+   sa.eteṣām.vedānām.ekam.dvau.trīn.sarvān.vā.adhīte.ya.evam.hutvā.agnim.upatiṣṭhate	sa-.etezAm-.vedAnAm-.ekam.dvO.trIn.sarvAn-.vA.aDIte.ya-.evam-.hutvA-a.agnim-.upatizWate
+   ŚGS_2.11.0: atha.śukriya.vrata.karma /	ŚGS_2.11.0: aTa.Sukriya.-vrata-.karma /
+   ŚGS_2.11.1: atha.vrata.ādeśanam /	ŚGS_2.11.1: aTa.-vrata-.AdeSanam /
+   ŚGS_2.11.2: tasya.upanayanena.kalpo.vyākhyātaḥ /	ŚGS_2.11.2: tasya.upanayanena.kalpaH-.vyAKyAtaH /
+   ŚGS_2.11.3: na.sāvitrīm.anvāha /	ŚGS_2.11.3: na.sAvitrIm.anvAha /
+   ŚGS_2.11.4: daṇḍa.pradāna.antam.ity.eke /	ŚGS_2.11.4: daNxa.-pradAna-.antam-.iti-.eke /
+   ŚGS_2.11.5: udag.ayane.śukla.pakṣe /	ŚGS_2.11.5: udak-.ayane.Sukla.pakze /
+   ŚGS_2.11.6: hotāram.brahmacaryam.upetya.ācāryo.amāṃsa.āśī.(.brahma.cārī.)	ŚGS_2.11.6: hotAram-.brahmacaryam-.upetya-.AcAryaH-.a-mAMsa-.a-ASI.(.brahma.cArI.)
+   ŚGS_2.11.7: caturdaśīm.parihāpya.aṣṭamīm.ca /	ŚGS_2.11.7: caturdaSIm-.parihApya.azwamIm.ca /
+   ŚGS_2.11.8: ādya.uttame.ca.eke /	ŚGS_2.11.8: Adya-.uttame.-ca.eke /
+   ŚGS_2.11.9:	ŚGS_2.11.9:
+   yām.vā.anyām.bhapraśastām.manyeta.tasyām.śukriye.brahmacaryam.ādiśet /	yAm-.vA.anyAm.Ba-praSastAm-.manyeta.tasyAm.Sukriye.-brahmacaryam-.AdiSet /
+   ŚGS_2.11.10:	ŚGS_2.11.10:
+   trirātram.brahmacaryam.cared.dvādaśa.rātram.saṃvatsaram.vā.yāvad.vā.gurur.manyeta	tri-rAtram-.brahmacaryam-.caret-.dvAdaSa-.rAtram-.saMvatsaram-.vA.yAvat-.vA.guruH-.manyeta
+   ŚGS_2.11.11: śākvaram.tu.saṃvatsaram /	ŚGS_2.11.11: SAkvara-m.tu.-saMvatsaram /
+   ŚGS_2.11.12: vrātikam.aupaniṣadham.ca /	ŚGS_2.11.12: vrAtikam.a-OpanizaDam-.ca /
+   ŚGS_2.11.13:	ŚGS_2.11.13:
+   pūrṇe.kāle.carite.brahmacarye.śamyor.bārhaspatya.ante.vede.anūkte.rahasyam.śrāvayiṣyan.kāla.niyamam.ca.ādeśena.pratīyeta	pUrNe.kAle.carite.-brahmacarye.-SamyoH-.bArhaspati-a.ante.-vede.anu-ukte.-rahasyam-.SrAvayizyan.-kAla.-niyamam-.ca.a-AdeSena.-pratIyeta
+   ŚGS_2.12.0: atha.udīkṣaṇikā /	ŚGS_2.12.0: aTa.-udIkzaNikAH /
+   ŚGS_2.12.1: kṛta.prātar.āśasya.apara.ahṇe.aparājitāyām.diśi /	ŚGS_2.12.1: kRta.-prAtar-.ASasya.a-para.ahNe.aparAjitAyAm-.diSi /
+   ŚGS_2.12.2:	ŚGS_2.12.2:
+   hutvā.ācāryo.atha.enam.yāsv.eva.devatāsu.parītto.bhavati.tāsv.eva.enam.pṛchaty.<.agnāv.indra.āditye.viśveṣu.ca.deveṣu.>.caritam.te.brahmacaryam	hutvA-a.AcAryaH-.aTa.enam.yAsu-.eva.-devatA-su.parIt-to.Bavati.-tAsu-.eva.enam-.pRCati-.<.agnO=-.indra-.Aditye.-viSva-izu.-ca.-deva-izu.>.caritam.te
+   ŚGS_2.12.3: caritam.bho.iti.pratyukte /	ŚGS_2.12.3: caritam.BaH-.iti.-pratyukte /
+   ŚGS_2.12.4:	ŚGS_2.12.4:
+   paścād.agneḥ.purastād.ācāryasya.prān.mukhe.sthite.ahatena.vāsasā.ācāryaḥ.pradakṣiṇam.mukham.triḥ.pariveṣṭya	paScAt-.agneH.-purastAd.a-AcAryasya.-prAn.muKe.-sTite.a-hatena.vAsasA-a.AcAryaH.-pradakziNa-m.muKam.triH.parivezwya
+   ŚGS_2.12.5: upariṣṭād.daśāḥ.kṛtvā.yathā.na.sambhraśyeta /	ŚGS_2.12.5: uparizwAt-.daSAH.kRtvA.yaTA.na.-samBraSyeta /
+   ŚGS_2.12.6:	ŚGS_2.12.6:
+   trirātram.samid.ādhānam.bhikṣā.caraṇam.adhaḥ.śayyām.guru.śuśrūṣām.ca.ākurvan.(?).vāg.yato.apramatto.araṇye.deva.kule.agni.hotre.vo.apavasasva.iti	tri-rAtram-.samid.a-ADAnam-.BikzA.-caraNam-.aDas-.-SayyAm-.guru.-SuSrUzAm-.ca-.Akurvan.(?).vAg.yato.a-pramattaH-.araNye.-deva.-kule.agni-.hotre.vaH-
+   ŚGS_2.12.7: atra.ha.eke.tān.eva.niyamāṃs.tiṣṭhato.rātryām.eva.upadiśanti /	ŚGS_2.12.7: atra.ha.eke.tAn-.eva.-niyamAns.tizWataH-.rAtryAm-.eva.-upadiSanti /
+   ŚGS_2.12.8: ācāryo.amāṃsa.āśī.brahma.cārī /	ŚGS_2.12.8: AcAryaH-.a-mAMsa-.ASI.-brahma.cArI /
+   ŚGS_2.12.9:	ŚGS_2.12.9:
+   trirātre.nirvṛtte.rāryām.vā.grāmān.niṣkrāman.na.etān.īkṣeta.anadhyāyān /	tri-rAtret-nirvRtte.rAryAm-.vA.grAmAn.nizkrAman.na.etAn-.Ikzeta.anaDyAyAn /
+   ŚGS_2.12.10:	ŚGS_2.12.10:
+   piśitāmam.caṇḍālam.sūtikām.rajasvalām.tedanim.apahastakān.śmaśānam.sarvāṇi.ca.śava.rūpāṇi.yāny.āsye.na.praviśeyuḥ.svasya.vāsān.nirasan	piSita-Amam.-caNxAlam.sUti-kAm.-rajasvalA-m.teda-nim.apahastakAn.-SmaSAnam.sarvANi.ca.Sava.-rUpANi.yAni-.Asye.na.-praviSeyuH.-svasya.vAsAn.
+   ŚGS_2.12.11:	ŚGS_2.12.11:
+   prāg.udīcīm.diśam.upaniṣkramya.śucau.deśe.prān.mukha.ācārya.upaviśaty /	prAc-.udIcIm.diSam.upanizkramya.-SucO.deSe.-prAn.muKa-.a-AcArya.upaviSati /
+   ŚGS_2.12.12: udita.āditye.anuvācana.dharmeṇa.vāg.yatāya.uṣṇīṣiṇe.anvāha /	ŚGS_2.12.12: udita-.Aditye.anuvAcana.-DarmeNa.vAg.yatA-aya.-uzNIziNe.anvAha /
+   ŚGS_2.12.13: mahānāmnīṣv.eva.eṣa.niyamaḥ /	ŚGS_2.12.13: mahAnAmnIzu-.eva-.eza.-niyamaH /
+   ŚGS_2.12.14:	ŚGS_2.12.14:
+   atha.uttareṣu.prakaraṇeṣu.svādhyāyam.eva.kurvata.ācāryasya.itaraḥ.śṛṇoti /	aTa.-uttara-izu.-prakaraNa-izu.-svADyAyam-.eva.-kurvata.AcAryasya.itaraH.-SRNoti /
+   ŚGS_2.12.15: uṣṇīṣam.bhājanam.dakṣiṇām.gām.dadāti /	ŚGS_2.12.15: uzNIzam-.BA-janam.dakziNAm-.gAm.dadAti /
+   ŚGS_2.12.16: tvam.tam.ity.uccā.divi.iti.ca.praṇavena.vā.sarvam /	ŚGS_2.12.16: tu-am.tam.iti-.uccA.di-vi.iti.-ca.-praNavena.vA.-sarvam /
+   ŚGS_2.12.17: atra.ha.eke.vaiśvadevam.carum.kurvate.sarveṣu.prakaraṇeṣu /	ŚGS_2.12.17: atra.ha.eke.-vESvadevam-.carum-.kurvate.-sarva-izu.-prakaraNezu /
+   ŚGS_2.12.18: yathā.parīttam.iti.māṇḍūkeyaḥ /	ŚGS_2.12.18: yaTA.parIttam-.iti.-mANxUkeyaH /
+   ŚGS_2.13.0: atha.daṇḍa.niyamāḥ /	ŚGS_2.13.0: aTa.-daNxa.-niyamAH /
+   ŚGS_2.13.1: atha.ato.daṇḍa.niyamāḥ /	ŚGS_2.13.1: aTa.a-to.daNxa.-niyamAH /
+   ŚGS_2.13.2: na.antarā.gamanam.kuryād.ātmano.daṇḍasya /	ŚGS_2.13.2: na.antarA.-gamanam-.kuryAt-.a-AtmanA-u.daNxasya /
+   ŚGS_2.13.3:	ŚGS_2.13.3:
+   atha.ced.daṇḍa.mekhala.upavītānām.anyatamam.viśīryeta.chidyeta.vā.tasya.tat.prāyaś.cittam.yad.udvāhe.rathasya	aTa.-cet-.daNxa.-meKala.-upavItAnAm-.anyatamam-.viSIryeta.Cidyeta.vA.tasya.tat.-prAya-S.cittam-.yat-.udvAhe.-raTasya
+   ŚGS_2.13.4: mekhalā.ced.asaṃdheyā.bhavaty.anyām.kṛtvā.anumantrayate /	ŚGS_2.13.4: meKalA.-ced-.a-saMDeyA.-Bavati-.anyAm.kRtvA-a.anumantrayate /
+   ŚGS_2.13.5:	ŚGS_2.13.5:
+   medhya.amedhya.vibhāgajñe.devi.goptri.sarasvati.|.mekhale.askannam.achinnam.saṃtanuṣva.vratam.mama.tvam.agne.vratabhṛt.śucir.agne.devān.iha.āvaha.|.upa.yajñam.haviś.ca.naḥ.vratāni.bibhrad.vratapā.adābhyo.bhavā.no.dūto.ajaraḥ.suvīraḥ.|.dadhad.ratnāni.sumṛlīko.agne.gopāya.no.jīvase.jāta.veda.iti	meDya-.ameDya.-viBAga-jQe.devi.goptri.sarasvati.|.-meKale.a-skannam.a-Cinnam-.saMtanuzu-a.vratam-.mama.-tvam-.agne.vrata-BRt.-SuciH-.agne.dev
+   ŚGS_2.13.6: upavītam.ca.daṇḍe.badhnāti /	ŚGS_2.13.6: upavItam-.ca.-daNxe.-baDnAti /
+   ŚGS_2.13.7: tad.apy.etat /	ŚGS_2.13.7: tat-.api-.etat /
+   ŚGS_2.13.8:	ŚGS_2.13.8:
+   yajña.upavītam.daṇḍam.ca.mekhalām.ajinam.tathā.|.juhuyād.apsu.vrate.pūrṇe.vāruṇyā.ṛcā.rasena.vā	yajQa.-upavIta-m.daNxam-.ca.-meKalAm.a-jinam.taTA-a.|.juhuyAt-.apsu.vrate.-pUrNe.vAruNyA.RcA.-rasena.vA
+   ŚGS_2.14.0: atha.vaiśvadeva.karma /	ŚGS_2.14.0: aTa.-vESvadeva.karma /
+   ŚGS_2.14.1: atha.vaiśvadevaḥ /	ŚGS_2.14.1: aTa.-vESvadevaH /
+   ŚGS_2.14.2: vyākhyāto.homa.kalpaḥ /	ŚGS_2.14.2: vyAKyAtaH-.-homa.-kalpaH /
+   ŚGS_2.14.3: vaiśvadevasya.siddhasya.sāyam.prātar.gṛhye.agnau.juhyāt /	ŚGS_2.14.3: vESvadevasya.-sidDasya.sAyam.-prAtar.gRhye.agnO.-juhyAt /
+   ŚGS_2.14.4:	ŚGS_2.14.4:
+   agnaye.svāhā.somāya.svāhā.indra.agnibhyām.svāhā.viṣṇave.svāhā.bharadvāja.dhanvantaraye.svāhā.viśvebhyo.devebhyaḥ.svāhā.prajāpataye.svāhā.aditaye.svāhā.anumataye.svāhā.agnaye.sviṣṭakṛte.svāhā.iti.hutvā.etāsām.devatānām	agnaye.-svAhA.-somAya.svAhA.-indra.agniByAm-.svAhA.-vizNave.-svAhA.-BaradvAja.-Danvantaraye.-svAhA.-viSveByo.-deveByaH.svAhA.-prajApataye.-s
+   ŚGS_2.14.5:	ŚGS_2.14.5:
+   atha.vāstu.madhye.balim.hared.etābhyaś.ca.eva.devatābhyo.namo.brahmaṇe.brāhmaṇebhyaś.ca.vāstoṣ.pate.prati.jānīhy.asmān.iti.vāstu.madhye.vāstoṣ.pataye.ca	aTa.vA-astu.-maDye.balim.haret-.eta-aByaS.ca-.eva.-devatA-aByaH-.namaH-.-brahmaNe.-brAhmaNeByaS.ca.vAstoz.-pate.-prati.jAnIhi-.asmAn-.iti.vAstu.m-aD
+   ŚGS_2.14.6: atha.diśām.pradakṣiṇam.yathā.rūpam.balim.harati /	ŚGS_2.14.6: aTa.di-SAm.-pradakziNam-.yaTA.-rUpam-.balim-.harati /
+   ŚGS_2.14.7:	ŚGS_2.14.7:
+   nāma.indrāya.aindrebhyaś.ca.namo.yamāya.yāmyebhyaś.ca.namo.varuṇāya.vāruṇebhyaś.ca.namaḥ.somāya.saumyebhyaś.ca.namo.bṛhaspataye.bārhaspatyebhyaś.ca	nAma.indra-aya.-EndreByaS.ca.-namaH-.yamAya.yAmyeBya-S.ca.namo.-varuNAya.vAruNeByaS.ca.-namaH.-somAya.-sOmyeByaS.ca.namo.-bRhaspataye.-bArha
+   ŚGS_2.14.8:	ŚGS_2.14.8:
+   atha.āditya.maṇḍale.namo.aditaya.ādityebhyaś.ca.namo.nakṣatrebhya.ṛtubhyo.māsebhyo.ardha.māsebhyo.ahorātrebhyaḥ.saṃvatsarebhyaḥ	aTa.A-Aditya.-maNxale.namaH-.adita-ya.AdityeByaS.ca.-namo.-nakzatreBya.RtuByo.-mAseByaH-.arDa.-mAseByaH-.ahorAtreByaH.saMvatsareByaH
+   ŚGS_2.14.9: pūṣṇe.pathikṛte.dhātre.vidhātre.marudbhyaś.ca.iti.dehalīṣu /	ŚGS_2.14.9: pUzNe.-paTi-kRte.-DAtre.viDAtre.-marudByaS.ca-.iti.-deha-lIzu /
+   ŚGS_2.14.10: viṣṇave.dṛṣadi /	ŚGS_2.14.10: vizNave.dRzadi /
+   ŚGS_2.14.11: vanaspataya.ity.ulūkhala /	ŚGS_2.14.11: vanaspataya.iti-.ulUKala /
+   ŚGS_2.14.12: oṣadhībhya.iti.oṣadhīnām.sthāne /	ŚGS_2.14.12: ozaDIBya.iti-.oza-DI-nAm.sTAne /
+   ŚGS_2.14.13: parjanyāya.adbhya.iti.maṇike /	ŚGS_2.14.13: parjanyAya.adBya-.iti.maNike /
+   ŚGS_2.14.14: namaḥ.śriyau.śayyāyām.śirasi.pādato.bhadra.kālyā /	ŚGS_2.14.14: namaH.-SriyO.SayyAyAm.-Sirasi.-pAda-to.Badra.-kAlyA /
+   ŚGS_2.14.15: anugupte.deśe.namaḥ.sarva.anna.bhūtaye /	ŚGS_2.14.15: anugupte.deSe.namaH.-sarva.anna.-BUtaye /
+   ŚGS_2.14.16:	ŚGS_2.14.16:
+   atha.antarikṣe.naktam.carebhya.iti.sāyam.ahaś.carebhya.iti.prātar.ye.devāsa.iti.ca	aTa.-antarikze.naktam-.careBya.iti.-sAyam.aha-S.careBya.iti.-prAtar.ye.devAsa.iti.-ca
+   ŚGS_2.14.17: avijñātābhyo.devatābhya.uttarato.dhana.pataye.ca /	ŚGS_2.14.17: avijQAtAByo.devatA-aBya.uttarato.Dana.-pataye.-ca /
+   ŚGS_2.14.18: prācīna.āvītī.dakṣiṇataḥ.śeṣam.ninayati.ye.agni.dagdhā.iti /	ŚGS_2.14.18: prAcIna.AvItI.-dakziNataH.Sezam-.ninayati.ye.agni.dagDA.-iti /
+   ŚGS_2.14.19: deva.pitṛ.narebhyo.dattvā.śrotriyam.bhojayed /	ŚGS_2.14.19: deva.-pitR.nareByaH-.dat-tvA.-Srotriyam-.Bojayet /
+   ŚGS_2.14.20: brahma.cāriṇe.vā.bhikṣām.dadyād /	ŚGS_2.14.20: brahma.cAriNe.vA.BikzA-m.dadyAt /
+   ŚGS_2.14.21: anantaram.sauvāsinīm.garbhiṇīm.kumārān.sthavirāṃś.ca.bhojayet	ŚGS_2.14.21: anantaram.sOvAsinIm.garBiNIm-.kumArAn-.sTavirAMS.ca.Bojayet-
+   ŚGS_2.14.22: śvabhyaḥ.śvapacebhyaś.ca.vayobhyaś.ca.āvaped.bhūvau /	ŚGS_2.14.22: SvaByaH.Sva-paceByaS.ca-.vayoByaS.ca-.a-avaped.BUvO /
+   ŚGS_2.14.23: iti.na.anavattam.aśnīyāt /	ŚGS_2.14.23: iti.na.ana-vattam-.aSnIyAt /
+   ŚGS_2.14.24: na.ekaḥ /	ŚGS_2.14.24: na.ekaH /
+   ŚGS_2.14.25: na.pūrvam /	ŚGS_2.14.25: na.-pUrvam /
+   ŚGS_2.14.26: tad.apy.etad.ṛco.aktam.<.mogham.annam.vindate.apracetā.>.iti	ŚGS_2.14.26: tat-.api-.etat-.RcaH-.aktam-.<.moGam-.annam-.vinda-te.a-pracetA.>.iti
+   ŚGS_2.15.0: atha.ṣaḍarghaṇa.karma /	ŚGS_2.15.0: aTa-.zaz-arGaNa.karma /
+   ŚGS_2.15.1:	ŚGS_2.15.1:
+   ṣaṇṇām.ced.arghyāṇām.anyatama.āgached.go.paśum.ajam.annam.vā.yat.sāmānyatamam.manyeta.tat.kuryāt	zaNNAm-.ced-.arGyANAm-.anyatama-.Aga-Ced.-go.paSum.a-jam-.annam-.vA.yat.-sAmAnyatamam.manya-ita.-tat.kuryAt
+   ŚGS_2.15.2: na.amāṃso.arghaḥ.syād /	ŚGS_2.15.2: na.a-mAMsaH-.arGaH.syAt /
+   ŚGS_2.15.3: adhiyajñam.adhivivāham.kuruta.ity.eva.brūyāt /	ŚGS_2.15.3: aDiyajQam-.aDivivAham-.kuruta.iti-.eva.-brUyAt /
+   ŚGS_2.15.4: ācāryāya.āgneyaḥ /	ŚGS_2.15.4: AcArya-aya.AgneyaH /
+   ŚGS_2.15.5: ṛtvije.bārhaspatyaḥ /	ŚGS_2.15.5: Rtvije.-bArhaspatyaH /
+   ŚGS_2.15.6: vaivāhyāyā.prājāpatyaḥ /	ŚGS_2.15.6: vEvAhyAyA.-prAjApatyaH /
+   ŚGS_2.15.7: rājña.aindraḥ /	ŚGS_2.15.7: rAjQa.-A-EndraH /
+   ŚGS_2.15.8: priyāya.maitraḥ /	ŚGS_2.15.8: priyAya.-mEtraH /
+   ŚGS_2.15.9: snātakāya.aindrāgnaḥ /	ŚGS_2.15.9: snAtakAya.A-EndrAgnaH /
+   ŚGS_2.15.10:	ŚGS_2.15.10:
+   yady.apy.asakṛt.saṃvatsarasya.somena.yajeta.kṛta.arghyā.eva.enam.yājayeyur.na.akṛta.arghyāḥ	yadi-.api-.asa-kRt.-saMvatsarasya.-somena-.yajeta.-kRta-.arGyA.-eva.enam-.yA-jayeyuH-.na.a-kRta-.arGyAH
+   ŚGS_2.15.11: tad.api.bhavati /	ŚGS_2.15.11: tat-.api.Bavati /
+   ŚGS_2.16.0: atha.paśu.karma /	ŚGS_2.16.0: aTa.-paSu.karma /
+   ŚGS_2.16.1:	ŚGS_2.16.1:
+   madhu.parke.ca.some.ca.pitṛ.daivata.krmaṇi.|.atra.eva.paśavo.hiṃsyā.na.anyatra.ity.abravīn.manuḥ	maDu.parke.-ca.some.-ca.pitR.dEvata.krmaNi.|.atra-.eva.-paSavaH-.hiMsyA.na.anyatra-.iti-.abravIn.manuH
+   ŚGS_2.16.2:	ŚGS_2.16.2:
+   ācāryaś.ca.pitā.ca.ubhau.sakhā.ca.anatithir.gṛhe.|.te.yad.vidadhyus.tat.kuryād.iti.dharmo.vidhīyate	AcArya-S.ca.pita-a.ca.uBO.-saKA.ca.a-na-tiTiH-.gRhe.|.te.ya-d.vidaDyu-s.tat.-kuryAt-.iti.-DarmaH-.viDIyate
+   ŚGS_2.16.3:	ŚGS_2.16.3:
+   na.eka.grāmīṇam.atithim.viproṣya.āgatam.eva.ca.|.upasthitam.gṛhe.vidyād.bhāryā.yatra.agnayo.api.vā	na.eka.grAmINam-.atiTim-.viprozya-.Agatam-.eva.-ca.|.upasTitam-.gRhe.-vidyAt-.BAryA-.yatra-.agnayo.api.vA
+   ŚGS_2.16.4:	ŚGS_2.16.4:
+   agni.hotram.bali.vardāḥ.kāle.ca.atithir.āgataḥ.|.bālāś.ca.kula.vṛddhāś.ca.nirdahanty.apamānitāḥ	agni-.hotram.bali.vardAH.-kAle.-ca.a-tiTiH-.AgataH.|.bAlA-S.ca.kula.-vRdDa-aS.ca.-nirdahanti-.apamAnitAH
+   ŚGS_2.16.5:	ŚGS_2.16.5:
+   anaḍvān.agni.hotram.ca.brahma.cārī.ca.te.trayaḥ.|.aśnanta.eva.sidhyanti.na.eṣām.siddhir.anaśnatām	anaxvAn-.agni-.hotram-.ca.brahma.cArI.-ca.te.-trayaH.|.aSnanta.eva.-siDyanti.na.ezAm-.sidDiH-.anaSnatAm
+   ŚGS_2.16.6:	ŚGS_2.16.6:
+   devatāḥ.puruṣam.gṛhyā.ahar.ahar.gṛha.medhinam.|.bhāga.artham.upasarpanti.tābhyo.nirvaptum.arhati	devatAH.puruzam.gRhya-a.ahar.ahar.gRha.meDi-nam.|.BAga-.arTam-.upasarpanti.ta-aByaH-.-nirvaptum-.arhati
+   ŚGS_2.17.0: atha.atithi.karma /	ŚGS_2.17.0: aTa.-atiTi-.karma /
+   ŚGS_2.17.1:	ŚGS_2.17.1:
+   tṛṇāny.apy.uñchato.nityam.agni.hotram.ca.juhvataḥ.|.sarvam.sukṛtam.ādatte.brāhmaṇo.anarcito.vasan	tRNAni-.api-.uQCataH-.nityam-.agni-.hotram-.ca.-juhvataH.|.-sarvam-.su-kRtam-.Adatte.brAhmaNaH-.anarcitaH-.-vasan
+   ŚGS_2.17.2:	ŚGS_2.17.2:
+   ā.uda.pātrāt.tu.dātavyam.ā.kāṣṭhāj.juhuyād.api.ā.sūktād.ā.anuvākād.vā.brahma.yajño.vidhīyate	A.uda.-pAtrAt-.tu.dAtavyam.A.-kAzWA-aj.ju-huyAt-.api-.A.sUktAt-.A.anuvAkAt-.vA.-brahma.yajQaH-.viDIyate
+   ŚGS_2.17.3:	ŚGS_2.17.3:
+   na.upavāsaḥ.pravāse.syāt.patnī.dhārayate.vratam.|.putro.bhrātā.athavā.patnī.śiṣyo.vā.asya.balim.haret	na.upavAsaH.pravAse.syAt.patnI.DArayate.vratam-.|.-putraH-.-BrAtA-.aTa-vA.patnI.-SizyaH-.vA.asya.-balim-.haret
+   ŚGS_2.17.4:	ŚGS_2.17.4:
+   vaiśvadevam.imam.ye.tu.sāyam.prātaḥ.prakurvate.|.te.arthair.āyuṣā.kīrtyā.prajābhiś.ca.samṛdhnuyur.iti	vESvadevam-.imam-.ye.tu.-sAyam.-prAtaH.-prakurvate.|.te.arTEH-.AyuzA.-kIrtyA.-prajA-aBiS.ca.-samRDnuyuH-.iti
+   ŚGS_2.18.0: atha.pravatsyad.brahma.cāri.karma /	ŚGS_2.18.0: aTa.-pravatsyat-.-brahma.cAri.-karma /
+   ŚGS_2.18.1: brahma.cārī.pravatsyann.ācāryam.āmantrayate /	ŚGS_2.18.1: brahma.cArI.-pravatsyan=-.a-AcAryam-.Amantrayate /
+   ŚGS_2.18.2: prāṇa.apānayor.ity.upāṃśv.om.aham.vatsyāmi.bho.iti.uccaiḥ /	ŚGS_2.18.2: prANa-.apAnayoH-.iti-.upAMSu-.om.aham.vatsyAmi.BaH-.iti.uccEs /
+   ŚGS_2.18.3:	ŚGS_2.18.3:
+   prāṇa.apānā.uruvyacas.tvayā.pra.padye.devāya.tvā.goptre.pari.dadāmi.deva.savitar.eṣa.te.brahma.cārī.tam.te.pari.dadāmi.tam.gopāyasva.tam.mā.mṛdha.ity.upāṃśu	prANa.apAnA.uru-vyacas.tvayA.-pra.padye.-deva-aya.-tvA.goptre.-pari.da-dAmi.deva.-savitar.A-Iza.te.brahma.cArI.tam.te.-pari.dadAmi.tam.gopA
+   ŚGS_2.18.4: om.svasti.ity.uccair.ācāryaḥ.svasti.ity.uccair.ācāryaḥ /	ŚGS_2.18.4: om.svasti-.iti-.uccEs-.AcAryaH.svasti-.iti-.uccEs-.AcAryaH /
+   ŚGS_3.1.0: atha.samāvartanam /	ŚGS_3.1.0: aTa.-samAvartanam /
+   ŚGS_3.1.1: snānam.samāvartsyamānasya /	ŚGS_3.1.1: snAnam-.samAvartsyamAnasya /
+   ŚGS_3.1.2:	ŚGS_3.1.2:
+   anaḍduham.ity.uktam.tasminn.upaveśya.keśa.śmaśrūṇi.vāpayati.loma.nakhāni.ca	anaxduham.iti-.uktam-.tasmin=-.upaveSya.-keSa.-Sma-SrUNi-.vApayati.-loma.naKAni.ca
+   ŚGS_3.1.3:	ŚGS_3.1.3:
+   vrīhi.yavais.tila.sarṣapair.apāmārgaiḥ.sadā.upṣpībhir.ity.udvāpya /	vrIhi.ya-vEs.-tila.sarzapEH-.apAmArgEH-.sadA.upzpIBiH-.iti-.udvApya /
+   ŚGS_3.1.4: āpohiṣṭhīyena.abhiṣicya /	ŚGS_3.1.4: ApohizWIyena.aBizicya /
+   (.āpo.hi.ṣṭha.)	(.Apo.hi.zWa.)
+   ŚGS_3.1.5: alam.kṛtya /	ŚGS_3.1.5: alam-.kRtya /
+   ŚGS_3.1.6: <.yuvam.vastrāṇi.>.iti.vāsasī.paridhāya /	ŚGS_3.1.6: <.yuvam.vastra-aNi-.>.iti.vAsasI.-pariDAya /
+   ŚGS_3.1.7: atha.asmai.niṣkam.badhnāty.<.āyuṣyam.varcasyam.> /	ŚGS_3.1.7: aTa.-asmE.-nizka-m.baDnAti-.<.Ayuzyam-.varcasyam.> /
+   ŚGS_3.1.8: <.mama.agne.varca.>.iti.veṣṭanam /	ŚGS_3.1.8: <.mama.agne.-varca.>.iti.vezwanam /
+   ŚGS_3.1.9: <.gṛham.gṛham.ahanā.>.itiṇchatram /	ŚGS_3.1.9: <.gRham.gRha-m.ahanA.->.itih-Catram /
+   ŚGS_3.1.10: <.ā.rohata.>.ity.upānahau /	ŚGS_3.1.10: <.A.rohata-.>.iti-.upAnahO /
+   ŚGS_3.1.11: <.dīrghas.te.astv.aṅkuśa.>.iti.vaiṇavam.daṇḍam.ādatte /	ŚGS_3.1.11: <.dIrGa-s.te.aH-tu-.aFkuSa.>.iti.vENava-m.daNxam-.Adatte /
+   ŚGS_3.1.12: pratilīnas.tad.ahar.āsīta /	ŚGS_3.1.12: pratilIna-s.tad.a-har.A-AsIta /
+   ŚGS_3.1.13: <.vanaspate.vīḍvaṅgaḥ.>.<.śāsa.itthā.>.iti.ratham.ārohed /	ŚGS_3.1.13: <.vanaspate.-vIxU-aFgaH.>.<.SAsa.itTA.>.iti.raTam-.a-Arohet /
+   ŚGS_3.1.14: yatra.enam.gavā.vā.paśunā.vā.arhayeyus.tat.pūrvam.upatiṣṭheta	ŚGS_3.1.14: yatra.enam.gavA.-vA.-paSunA-a.vA.arhayeyuH-.tat.-pUrvam-.upatizWeta
+   ŚGS_3.1.15: gobhyo.vā.samāvarteta.phalavato.vā.vṛkṣād /	ŚGS_3.1.15: goByaH-.vA.-samAvarteta.-PalavataH-.vA.vRkzAt /
+   ŚGS_3.1.16:	ŚGS_3.1.16:
+   <.indra.śreṣṭhāni.draviṇāni.dhehi.>.<.syonā.pṛthivi.bhava.>.ity.avarohati	<.indra.-SrezWA-ni.draviNA-ni.Dehi.>.<.sya-UnA.-pRTivi.Bava.>.iti-.avarohati
+   ŚGS_3.1.17: īpsitam.annam.tad.ahar.bhuñjīta /	ŚGS_3.1.17: Ipsitam-.annam-.tad-.a-har.BuQjIta /
+   ŚGS_3.1.18:	ŚGS_3.1.18:
+   ācāryāya.vastra.yugam.dadyād.uṣṇīṣam.maṇi.kuṇḍalam.daṇḍa.upānaham.chatram.ca	AcArya-aya.vastra.-yugam.dadyAt-.uzNIza-m.maNi.-kuNxalam-.daNxa.upAnaham-.Catram-.ca
+   ŚGS_3.2.0: atha.gṛha.karma /	ŚGS_3.2.0: aTa.gRha.-karma /
+   ŚGS_3.2.1:	ŚGS_3.2.1:
+   agāram.kārayiṣyann.iha.anna.adyāya.viśaḥ.pari.gṛhṇāmi.ity.udumbara.śākhayā.triḥ.parilikhya.madhye.sthaṇḍile.juhoti	agAram-.kArayizyan=-.iha.anna.adyAya.-viSaH.-pari.gRhNAmi-.iti-.udumbara.SAKayA-a.triH.pariliKya.-maDye.-sTaNxile.-juhoti
+   ŚGS_3.2.2:	ŚGS_3.2.2:
+   ko.asy.kasya.asi.kāya.te.grāma.kāmo.juhoti.svāhā.asyām.devānām.asi.bhāga.dheyam.itaḥ.prajātāḥ.pitaraḥ.paretāḥ.|.virāl.ajuhvad.grāma.kāmo.na.devānām.kiṃcana.antareṇa.svāhā.iti	ko.asy.kasya.asi.kAya.te.grAma.-kAmo.-juhoti.-svAhA.asyAm.devA-nAm.asi.BAga.Deyam.itaH.-prajAtAH.pitaraH.paretAH.|.virAl.a-juhvat-.grA
+   ŚGS_3.2.3: sthū.na.āgartān.khānayitvā /	ŚGS_3.2.3: sTU.na.AgartA-an.Ka-AnayitvA /
+   ŚGS_3.2.4: uda.manthān.āsicya /	ŚGS_3.2.4: uda.manTAn-.Asicya /
+   ŚGS_3.2.5:	ŚGS_3.2.5:
+   imam.vi.minve.amṛtasya.śākhām.madhor.dhārām.prataraṇīm.vasūnām.|.enām.śiśuḥ.krandaty.ā.kumāra.enām.dhenuḥ.krandatu.nitya.vatsa.>.ity.udumbara.śākhām.ghṛtena.aktām.dakṣiṇe.dvārye.garte.nidadhāti	imam.vi.min-ve.a-mRta-sya.SAKAm.maDor.DArAm.-prataraNIm.vasUnAm-.|.ena-Am.SiSuH.krandati-.A.kumAra.ena-Am.DenuH-.krandatu.-nitya.-vatsa.>.it
+   ŚGS_3.2.6:	ŚGS_3.2.6:
+   imam.uc.chrayāmi.bhuvanasya.śākhām.madhor.dhārām.prataraṇīm.vasūnām.|.enām.śiśuḥ.krandaty.ā.kumāra.enām.dhenuḥ.krandatu.pāka.vatsa.ity.uttarataḥ	imam-.uc.-SrayAmi.-Buvana-sya.SAKAm.m-aDor.DArAm.-prataraNIm.vasUnAm-.|.ena-Am.SiSuH.krandati-.A.kumAra.ena-am.DenuH-.krandatu.-pAka.vatsa-.it
+   ŚGS_3.2.7: evam.dvayor.dvayor.dakṣiṇataḥ.paścād.uttarataś.ca /	ŚGS_3.2.7: evam.dvayoH-.dvayoH-.dakziNataH.-paScAt-.uttaratas-.ca /
+   ŚGS_3.2.9:	ŚGS_3.2.9:
+   imām.aham.asya.vṛkṣasya.śākhām.ghṛtam.ukṣantīm.amṛte.minomi.|.enām.śiśuḥ.krandaty.ā.kumāra.ā.syandantām.dhenavo.nitya.vatsa.iti.sthūṇā.rājam.ucchrayati	imAm-.aham.asya.vRkzasya.Sa-AKAm.GRtam.ukzantIm-.a-mRte.minomi.|.ena-Am.SiSuH.krandati-.A.kumAra-.A.syan-dantAm.Denavo.-nitya.vatsa.iti.-sT
+   ŚGS_3.2.9:	ŚGS_3.2.9:
+   enam.kumāras.taruṇa.ā.vatsa.bhuvanas.patri.|.enam.parisrutaḥ.kumbhyā.ā.dadhnaḥ.kalaśair.gaman	enam-.kumAra-s.taruNa-.A.vatsa.-Buvana-s.patri.|.enam.parisrutaH.-kumByA.-A.da-DnaH.-kalaSEH-.gaman
+   ŚGS_3.3.1:	ŚGS_3.3.1:
+   iha.eva.sthūṇe.prati.tiṣṭha.dhruvā.aśvāvatī.gomatī.sīlamāvatī.|.kṣeme.tiṣṭha.ghṛtam.ukṣamāṇe.iha.eva.tiṣṭha.nimitā.(.nimitāni.).tilvilā.sthājirāvatī.|.madhye.poṣasya.tṛmpatām.mā.tvā.prāpann.aghāyavaḥ.upahūtā.iha.gāva.upahūtā.ajāvayaḥ.|.atho.annasya.kīlāla.upahūto.gṛheṣu.naḥ.|.rathantare.prati.tiṣṭha.vāmadevye.śrayasva.bṛhati.stabhāya.iti.sthūṇā.rājam.abhimṛśati	iha.eva.-sTUNe.-prati.tizWa.-DruvA.aSvAvatI.-gomatI.-sIlamAvatI.-|.kzeme.-tizWa.-GRta-m.ukzamANe.iha-.eva.-tizWa.-nimitA.(.-nimitA-ni.).-tilvi
+   ŚGS_3.3.2: sammitasya.sthūṇāḥ.sammṛśati /	ŚGS_3.3.2: sammitasya.sTUNAH.sammRSati /
+   ŚGS_3.3.3: satyam.ca.śraddhā.ca.iti.pūrve /	ŚGS_3.3.3: satyam-.ca.-SradDA.ca-.iti.-pUrve /
+   ŚGS_3.3.4: yajñaś.ca.dakṣiṇā.ca.iti.dakṣiṇe /	ŚGS_3.3.4: yajQa-S.ca.-dakziNA.ca.iti.-dakziNe /
+   ŚGS_3.3.5: balam.ca.ojaś.ca.ity.apare /	ŚGS_3.3.5: balam-.ca.oja-S.ca.iti-.apare /
+   ŚGS_3.3.6: brahma.ca.kṣatram.ca.ity.uttare /	ŚGS_3.3.6: brahma.ca.kzatram-.ca.iti-.uttare /
+   ŚGS_3.3.7: śrī.stūpo.dharma.sthūṇā.rājaḥ /	ŚGS_3.3.7: SrI.H-tu-upo.Darma.sTUNA.rAjaH /
+   ŚGS_3.3.8: ahorātre.dvāra.phalake /	ŚGS_3.3.8: ahorAtre.-dvAra.-Palake /
+   ŚGS_3.3.9: saṃvatsaro.apidhānam /	ŚGS_3.3.9: saMvatsaraH-.apiDAnam /
+   ŚGS_3.3.10:	ŚGS_3.3.10:
+   <.ukṣā.samudra.>.ity.abhyaktam.aśmānam.stūpasya.adhastān.nikhanet /	<.ukzA.-samudra.>.iti-.aByaktam-.aSmAnam-.stu-upasya.aDastAn-.niKanet /
+   ŚGS_3.4.0: atha.gṛha.praveśa.karma /	ŚGS_3.4.0: aTa.gRha.-praveSa.-karma /
+   ŚGS_3.4.1: vāstoṣpatīye.karmaṇi /	ŚGS_3.4.1: vAstozpatIye.-karmaNi /
+   ŚGS_3.4.2:	ŚGS_3.4.2:
+   agnim.dadhāmi.manasā.śivena.ayam.astu.saṃgamano.vasūnām.|.mā.no.hiṃsī.sthaviram.mā.kumāram.śam.no.bhava.dvipade.śam.catuṣpada.iti.gṛhyam.agnim.bāhyata.upasamādhāya	agni-m.da-DAmi.-manasA-a.Sivena-.ayam.astu.-saMga-manaH-.vasUnAm-.|.mA.no.-hiMsI.-sTa-viram.mA.kumAra-m.Sa-m.no.-Bava.-dvipade.Sam.catuzpada-.iti.
+   ŚGS_3.4.3: prāg.agreṣu.naveṣu.kuśeṣu.uda.kumbham.navam.pratiṣṭhāpya /	ŚGS_3.4.3: prAc-.agra-izu.navezu.-kuSa-izu-.uda.-kumBa-m.navam-.pratizWApya /
+   ŚGS_3.4.4: ariṣṭā.asmākam.vīrā.mā.parā.seci.no.dhanam.ity.abhimantrya /	ŚGS_3.4.4: arizwa-a.asmAkam-.vIrA.mA.-parA.-seci.no.Danam-.ity.aBimantrya /
+   ŚGS_3.4.5:	ŚGS_3.4.5:
+   rathantarasya.stotriyeṇa.punar.ādāyam.kakup.kāram.tisraḥ.pūrva.ahṇe.juhoti	raTantarasya.-stotriyeNa.punar-.AdAyam.ka-kup.kAram-.tisraH.-pUrva-.ahNe.juhoti
+   %On the Ray of reciting a PragaathaN so as to form three versesN see	%On Te Ray of recitinc a PragaaTaN saH aH taH fa-Urm Tree versesN see
+   IST.viii.25N... The Stotriya of the Rathantara is RV vii.32.22ff.; that of	IST.viii.25N... The StotriyaH of Te RaTantaraH iH RV vii.32.22ff.; Tat of
+   the VaamadevyaN iv.31.1-3; that of the BRhatN vi.46.1ff. (SBEN p.95.N n.	Te VaamadevyaN iv.31.1-3; Tat of Te BRhatN vi.46.1ff. (SBEN p.95.j n.
+   ŚGS_3.4.6: vāmadevyasya.madhyaṃdine /	ŚGS_3.4.6: vAmadevyasya.-maDyaMdine /
+   ŚGS_3.4.7: bṛhato.apara.ahṇe /	ŚGS_3.4.7: bRhato.a-para-.ahNe /
+   ŚGS_3.4.8:	ŚGS_3.4.8:
+   mahā.vyāhṛtayaś.catasro.<.vāstoṣ.pata.>.iti.tisro.<.amīvahā.vāstoṣ.pate.>.<.vāstoṣ.pate.dhruvā.sthūṇā.>.sauviṣṭakṛtī.daśamī.sthālī.pākasya.rātrau	mahA.-vyAhRta-yaS.catasraH-.<.vAstoz.pata.>.iti.tisraH-.<.amIvahA.vAstoz.-pate.>.<.vAstoz.-pate.-DruvA.-sTUNA.>.-sOvizwa-kRtI.-daSamI.-sTAlI.
+   ŚGS_3.4.9: jyeṣṭham.putram.ādāya.jāyām.ca.sahadhānyaḥ.prapadyeta /	ŚGS_3.4.9: jyezWam-.putram.AdAya.jAyAm-.ca.-sahaDAnyaH.prapadyeta /
+   ŚGS_3.4.10:	ŚGS_3.4.10:
+   indrasya.gṛhāḥ.śivā.vasumanto.varūthinas.tān.aham.pra.padye.saha.jāyayā.saha.prajayā.saha.paśubhiḥ.saha.rāyas.poṣeṇa.saha.yan.me.kiṃca.asti.tena	indrasya.gRhAH.Siva-a.vasumantaH-.varUTina-s.tAn.aham.pra.padye.-saha.-jAyayA.saha.-prajayA.saha.-paSuBiH.-saha.rAyas.-pozeNa.saha.yan.me.
+   ŚGS_3.5.1:	ŚGS_3.5.1:
+   śagam.śagmam.śivam.śivam.kṣemāya.vaḥ.śāntyai.prapadye.abhayam.no.astu.grāmo.mā.araṇyāya.pari.dadātu.viśva.mahāya.mā.pari.dehi.iti.grāmān.niṣkrāmanṇ	Sagam.-Sagmam.Sivam-.Sivam.kzemAya.vaH.-SAntyE.-prapadye.aBaya-m.no.aH-tu.grAma-u.mA.araNya-aya.-pari.da-dAtu.-viSva.-mahA-ya.mA.-pari.dehi.-iti
+   ŚGS_3.5.2:	ŚGS_3.5.2:
+   araṇyam.mā.grāmāya.pari.dadātu.maha.viśvāya.mā.pari.dehi.iti.grāmam.praviśann.ariktaḥ	araNyam-.mA.-grAmAya.-pari.da-dAtu.maha.-viSvAya.mA.-pari.dehi.iti.grAmam.praviSan=-.ariktaH
+   ŚGS_3.5.3:	ŚGS_3.5.3:
+   gṛhān.bhadran.sumanasaḥ.prapadye.avīraghno.vīrataraḥ.suvīrān.|.irām.vahanto.ghṛtam.ukṣamāṇā.anyeṣv.aham.sumanāḥ.sam.viśeyam.iti.sadā.pravacanīyaḥ	gRhAn.Badra-n.su-manasaH.-prapadye.a-vIra-GnaH-.vIrataraH.su-vIrAn-.|.irAm.vahanto.-GRtam.ukzamANA.anyezu-.aham.su-manAH.sam.viSeyam-.iti.-sa
+   ŚGS_3.6.0: atha.pravasad.yajanam /	ŚGS_3.6.0: aTa.-pravasat-.ya-janam /
+   ŚGS_3.6.1: anāhita.agniḥ.pravatsyan.gṛhān.samīkṣate /	ŚGS_3.6.1: anAhita.agniH.pravatsyan.-gRhAn.samIkzate /
+   ŚGS_3.6.2:	ŚGS_3.6.2:
+   imān.me.mitrāvaruṇau.gṛhān.gopāyatam.yuvam.|.avinaṣṭān.avibrutān.pūṣā.enān.abhi.rakṣatv.ā.asmākam.punar.āgamād	imAn-.me.mitrAvaruNO.gRha-an.gopa-Ayatam-.yuvam.|.avinazwAn-.avibruta-an.pUzA.ena-an.aBi.rakza-tv.A-.asmAkam.punar.AgamAd
+   ŚGS_3.6.3: api.panthām.aganmahi.iti.ca.japati /	ŚGS_3.6.3: api.panTa-Am.a-gat-mahi-.iti.ca.japati /
+   ŚGS_3.7.1: atha.proṣya.āyan.gṛhān.samīkṣate /	ŚGS_3.7.1: aTa.-prozya.Ayan.-gRhAn.samIkzate /
+   ŚGS_3.7.2:	ŚGS_3.7.2:
+   gṛhā.mā.bibhīta.mā.vepadhvam.ūrjam.bibhrata.emasi.ūrjam.bibhrad.vaḥ.sumanāḥ.sumedhā.gṛhān.aimi.manasā.modamānaḥ.yeṣām.adhyeti.pravasan.yeṣu.saumanaso.bahuḥ.|.gṛhān.upa.hvayāmahe.te.no.jānantu.jānataḥ.upahūtā.iha.gāva.upahūtā.ajāvayaḥ.|.atho.annasya.kīlāla.upahūto.gṛheṣu.naḥ	gRhA.-mA.biBIta.mA.-vepa-Dvam.Urjam.biBrata.emasi-.Urjam.biBrad.-vaH.-sumanAH.su-meDA.-gRhAn-.Emi.-manasA-a.modamAnaH.yezAm-.aDyeti.pravasan
+   ŚGS_3.7.3:	ŚGS_3.7.3:
+   ayam.no.agnir.bhagavān.ayam.no.bhagavattaraḥ.|.asya.upasadye.mā.riṣāma.ayam.śraiṣṭhye.dadhātu.na.iti.gṛhyam.agnim.upasthāya	ayam.no.agniH-.BagavAn-.aya-m.no.-BagavattaraH.|.asya.upasadye.mA.rizAm-a.ayam.SrEzWye.daDAtu.-na.iti.-gRhyam-.agnim-.upasTAya
+   ŚGS_3.7.4: kalyāṇīm.vācam.prabrūyād /	ŚGS_3.7.4: kalyANIm-.vAcam-.prabrUyAt /
+   ŚGS_3.7.5:	ŚGS_3.7.5:
+   virājo.doho.asi.virājo.doham.aśīya.mayi.padyāyai.virājo.doha.iti.pādya.pratigrahaṇaḥ	virAjaH-.dohaH-.asi.-virAjaH-.doham.aSIya.-mayi.-padyAyE.virAjaH-.doha-.iti.-pAdya.-pratigrahaNaH
+   ŚGS_3.8.0: atha.āgrayaṇam /	ŚGS_3.8.0: aTa.A-AgrayaNam /
+   ŚGS_3.8.1:	ŚGS_3.8.1:
+   anāhita.agnir.navam.prāśiṣyan.āgrayaṇa.devatābhyaḥ.sviṣṭakṛc.caturthībhyaḥ.svāhā.kāreṇa.gṛhye.agnau.juhuyāt	anAhita-.agniH-.navam.-prASizyan.AgrayaNa.-devatAByaH.svizwakRc.-caturTIByaH-.svAhA.-kAreNa.gRhye.agnO.-juhuyAt-
+   ŚGS_3.8.2:	ŚGS_3.8.2:
+   prājāpataye.tvā.graham.gṛhṇāmi.mahyam.śriyai.mahyam.yaśase.mahyam.anna.adyāya.iti.prāśana.arthīyam.abhimantrya	prAjApataye.-tvA.graham-.gRhNAmi.-mahyam.SriyE.-mahyam-.yaSase.mahyam.anna.a-dyAya-.iti.-prASana-.arTIyam-.aBimantrya
+   ŚGS_3.8.3:	ŚGS_3.8.3:
+   bhadrān.naḥ.śreyaḥ.sam.anaiṣṭa.devās.tvayā.jvasena.sam.aśīmahi.tvā.|.sa.no.mayobhūḥ.pitav.ā.viśasva.śam.no.bhava.dvipade.śam.catuṣpada.ity.adbhir.abhyutsiñcan.triḥ.prāśnāti	BadrAn.naH.SreyaH.-sam.anEzwa.devA-s.tvayA.-jvasena.-sam.aSImahi.tvA.|.sa.no.-mayaH-BUH.pita-v.A.-viSasva.-Sam.no.-Bava.-dvipade.-Sam.-catuzp
+   ŚGS_3.8.4:	ŚGS_3.8.4:
+   amo.asi.prāṇa.tad.ṛtam.bravīmy.amo.asi.sarvān.asi.praviṣṭaḥ.|.sa.me.jarām.rogam.apanudya.śarīrād.amā.ma.edhi.mā.mṛdhā.na.indra.iti.hṛdaya.deśam.abhimṛśati	amo.asi.-prANa.-tad-.Rtam-.bravImi-.amaH-.asi.-sarvAn-.asi.-pravizwaH.|.sa.me.-jarA-m.rogam.apanudya.-SarIrAt-.amA.ma.eDi.mA.-mRDA.-na.indra-.it
+   ŚGS_3.8.5:	ŚGS_3.8.5:
+   nābhir.asi.mā.bibhīthāḥ.prāṇānām.granthir.asi.mā.visrasa.iti.nābhim /	nABiH-.asi.-mA.biBITAH-.prANAnAm-.granTiH-.asi.mA.visrasa-.iti.-nABim /
+   ŚGS_3.8.6: bhadram.karṇebhir.iti.yathā.liṅgam /	ŚGS_3.8.6: Badram.karNeBiH-.iti.yaTA.liFgam /
+   ŚGS_3.8.7: <.tac.cakṣur.>.ity.ādityam.upasthāya /	ŚGS_3.8.7: <.tac.cakzuH-.>.iti-.Adityam-.upasTAya /
+   ŚGS_3.9.0: atha.goṣṭha.karma /	ŚGS_3.9.0: aTa.-gozWa.karma /
+   ŚGS_3.9.1:	ŚGS_3.9.1:
+   pari.vaḥ.sainyād.vadhād.vy.ā.vṛñjantu.ghoṣiṇyaḥ.|.samānas.tasya.gopater.gāvo.aṃśo.na.vo.riṣat.<.pūṣā.gā.anv.etu.na.>.iti.gāḥ.praiṣṭhamānā.anumantrayeta	pari.vaH.-sEnyAt-.vaDAt-.vy.A.-vRQjantu.-GoziNyaH-.|.samAna-s.tasya.-gopateH-.gAvaH-.aMSaH-.na.vaH-.rizat.<.-pUzA.-gA.anv.etu.na.>.iti.gAH.-prEzW
+   ŚGS_3.9.2: <.pari.pūṣā.>iti parikrāntāsu /	ŚGS_3.9.2: <.pari.pUzA.>iti parikrAntAsu /
+   ŚGS_3.9.3:	ŚGS_3.9.3:
+   yāsām.ūdhaś.catur.bilam.madhoḥ.pūrṇam.ghṛtasya.ca.|.tā.naḥ.santu.payasvatīr.bahvīr.goṣṭhe.ghṛtācya.iti.<.ā.gāvo.agamann.>.iti.ca.pratyāgatāsu	yAsAm.UDa-S.catur.-bila-m-.maDoH.-pUrNam.GRtasya.ca.|.tA.naH.-santu.-payasva-tIr.-bahvIr.gozWe.-GRtAcya.iti-.<.A.gAvaH-.agaman=-.>.iti.ca.-pra
+   ŚGS_3.9.4: uttamām.amā.kurvan /	ŚGS_3.9.4: uttamAm.am-A.kurvan /
+   ŚGS_3.9.5: <.mayobhū.r.vāta.>.iti.sūktena.goṣṭhe.gatāḥ /	ŚGS_3.9.5: <.mayaH-BU.r.vAta-.>.iti.sUktena.-gozWe.-gatAH /
+   ŚGS_3.10.0: atha.gavām.aṅkana.karma /	ŚGS_3.10.0: aTa-.gavAm-.aFkana.karma /
+   ŚGS_3.10.1:	ŚGS_3.10.1:
+   yā.phālgunyā.uttarā.amāvāsyā.sā.revatyā.sampadyate.tasyām.aṅka.lakṣaṇāni.kārayed	yA.-PAlgunyA.uttarA.amAvAsyA.sA.revatyA.-sampadyate.-tasyAm-.aFka.lakzaNAni.kArayet-
+   ŚGS_3.10.2:	ŚGS_3.10.2:
+   bhuvanam.asi.sahasra.poṣam.indrāya.tvā.śramo.dadat.|.akṣatam.asy.ariṣṭam.ilā.annam.gopāyanam.yāvatīnām.idam.kariṣyāmi.bhūyasīnām.uttamām.samām.kriyāsam.iti	Buvanam.asi.-sahasra.-pozam-.indrAya.-tvA.SramaH-.dadat.|.akzatam.asi-.arizwam.ilA.annam.gopAyanam-.yAvatInAm-.idam-.karizyAmi.BUyasInAm-.
+   ŚGS_3.10.3:	ŚGS_3.10.3:
+   yā.prathamā.prajāyeta.tasyāḥ.pīyūṣam.juhuyāt.saṃvatsarīṇam.paya.usriyāyā.ity.etābhyām.ṛgbhyām	yA.-praTamA.-prajAyeta.tasyAH.pIyUzam-.juhuyAt.-saMvatsarINam-.paya.u-sriyAyA.-iti-.etAByAm-.RgByAm
+   ŚGS_3.10.4: yadi.yamau.prajāyeta.mahā.vyāhṛtibhir.hutvā.yamasūm.dadyāt /	ŚGS_3.10.4: yadi.yamO.prajAyeta.mahA.-vyAhRtiBiH-.hutvA-A.yam-asUm.dadyAt /
+   ŚGS_3.11.0: atha.vṛṣa.utsarga.karma /	ŚGS_3.11.0: aTa.-vRza-.utsarga.karma /
+   ŚGS_3.11.1: atha.vṛṣa.utsargaḥ /	ŚGS_3.11.1: aTa.-vRza.utsargaH /
+   ŚGS_3.11.2: kārttikyām.paurṇamāsyām.revatyām.vā.āśvayujyasya /	ŚGS_3.11.2: kArttikyAm.-pOrNamAsyAm-.revatyAm-.vA.-ASvayujyasya /
+   ŚGS_3.11.3: gavām.madhye.susamiddham.agnim.kṛtvā.ājya.āhutīr.juhoti /	ŚGS_3.11.3: gavAm.-maDye.-su-samidDam-.agnim-.kRtvA-a.Ajya.AhutIH-.juhoti /
+   ŚGS_3.11.4:	ŚGS_3.11.4:
+   iha.ratir.iha.ramadhvam.svāhā.iha.dhṛtir.iha.svadhṛtiḥ.svāhā.upa.sṛjam.dharuṇam.mātre.dharuṇo.mātaram.dhayan.rāyas.poṣam.asmāsu.dīdharat.svāhā	iha.ratiH-.iha.rama-Dvam.svAhA.iha.-DRtiH-.iha.-sva-DRtiH-.svAhA.-upa.sRjam.DaruNam-.mAtre.DaruNaH-.-mAtara-m.Dayan.rAyas.-pozam-.asmAsu.dIDar
+   ŚGS_3.11.5: pūṣā.gā.anv.etu.na.iti.pauṣṇasya.juhoti /	ŚGS_3.11.5: pUzA.gA.anv.etu.na.iti.-pOzNasya.juhoti /
+   ŚGS_3.11.6: rudrān.japitvā /	ŚGS_3.11.6: rudrAn-.japitvA /
+   ŚGS_3.11.7: eka.varṇam.dvi.varṇam.tri.varṇam.vā /	ŚGS_3.11.7: eka.varNam.dvi.varNam.tri.varNam-.vA /
+   ŚGS_3.11.8: yo.vā.yūtham.chādayati /	ŚGS_3.11.8: yaH-.vA.-yUTam-.CAdayati /
+   ŚGS_3.11.9: yo.vā.yūthena.chādyate /	ŚGS_3.11.9: yaH-.vA.yUTena.CAdyate /
+   ŚGS_3.11.10: rohito.vā.eva.syāt /	ŚGS_3.11.10: rohitaH-.vA.eva.syAt /
+   ŚGS_3.11.11: sarva.aṅgair.upeto.yūthe.varcasvitamaḥ.syāt /	ŚGS_3.11.11: sarva-.aFgEH-.upetaH-.yUTe.-varcasvitamaH.syAt /
+   ŚGS_3.11.12: tam.alam.kṛtya /	ŚGS_3.11.12: tam-.alam-.kRtya /
+   ŚGS_3.11.13: yūthe.mukhyāś.catasro.vatsataryas.tāś.ca.alam.kṛtya /	ŚGS_3.11.13: yUTe.muKyA-S.cata-sro.vatsatarya-s.tAS.ca.alam-.kRtya /
+   ŚGS_3.11.14:	ŚGS_3.11.14:
+   etam.yuvānam.patim.vo.dadāmi.tena.krīḍantīś.carataḥ.priyeṇa.|.mā.vaśva.atra.januṣā.saṃvidānā.rāyas.poṣeṇa.sam.iṣā.madema.svāhā.iti	etam-.yuvAnam-.patim-.vaH-.dadAmi.tena.-krIxanti-IS.carataH.-priyeNa-.|.mA.-vaSva-.atra.-januzA.-saMvidAnA.rAyas.-pozeNa.-sam.izA.madema.svAhA.
+   ŚGS_3.11.15:	ŚGS_3.11.15:
+   nabhyasthe.(.madhyasthe.?).anumantrayate.<.mayobhūr.>.ity.anuvāka.śeṣeṇa /	naBya-sTe.(.maDyasTe.?).anumantrayate.<.mayaH-BUH-.>.iti-.anuvAka.-SezeNa /
+   ŚGS_3.11.16: sarvāsām.payasi.pāyasam.śrapayitvā.brāhmaṇān.bhojayet /	ŚGS_3.11.16: sarva-AsAm-.payasi.-pAyasam.SrapayitvA-a.-brAhmaNAn-.Bojayet /
+   ŚGS_3.12.0: atha.aṣṭakāḥ /	ŚGS_3.12.0: aTa-.azwakAH /
+   ŚGS_3.12.1: ūrdhvam.āgrahāyaṇyās.tisro.aṣṭakā.apara.pakṣeṣu /	ŚGS_3.12.1: UrDvam.AgrahAyaNyA-s.ti-sraH-.azwa-kA.a-para.-pakzezu /
+   ŚGS_3.12.2: tāsām.prathamāyām.śākam.juhoti /	ŚGS_3.12.2: tAsAm-.praTamAyAm.SAkam-.juhoti /
+   ŚGS_3.12.3:	ŚGS_3.12.3:
+   iyam.eva.sā.yā.prathamā.vyuchad.antar.asyām.carati.praviṣṭā.|.vadhūr.jajāna.navakṛj.janitrī.traya.enām.mahimānaḥ.sacantām.svāhā.iti	iyam-.eva.-sA.yA.-praTamA.-vyuCat-.antar.asyAm.carati.pravizwA.-|.vaDU-r.jajAna.nava-kRj.janitrI.-traya.enA-m.mahimAnaH.sacantAm-.su-AhA.it
+   ŚGS_3.12.4: atha.sviṣṭakṛto /	ŚGS_3.12.4: aTa.-svizwakRtaH /
+   ŚGS_3.12.5:	ŚGS_3.12.5:
+   yasyām.vaivasvato.yamaḥ.sarve.devāḥ.samāhitāḥ.|.aṣṭakā.sarvato.mukhī.sā.me.kāmān.atītṛpat.āhus.te.grāvāṇo.dantān.ūdhaḥ.pavamānaḥ.|.māsāś.ca.ardha.māsāś.ca.namas.te.sumanā.mukhi.svāhā.iti	yasyAm-.vEvasvato.yamaH.-sarve.-devAH.samAhitAH.|.azwakA.-sarvato.muKI.-sA.me.-kAmAn.atI-tRpat.A-Ahu-s.te.grAvANaH-.dantAn-.UDaH.pavamAnaH.|
+   ŚGS_3.13.1: madhyamāyām.madhya.āvarṣe.ca /	ŚGS_3.13.1: maDyamAyAm.-maDya.Avarzet-ca /
+   ŚGS_3.13.2:	ŚGS_3.13.2:
+   mahā.vyāhṛtayaś.catasro.ye.tātṛṣur.iti.catasro.anudrutya.vapām.juhuyād /	mahA.-vyAhRta-yaS.cata-sro.ye.tAtRzuH-.iti.-cata-sro.anudruti-a.vapAm-.ju-huyAt /
+   ŚGS_3.13.3:	ŚGS_3.13.3:
+   vaha.vapām.jāta.vedaḥ.pitṛbhyo.yatra.enān.vettha.sukṛtasya.loke.|.medasaḥ.kulyā.upa.tān.sravantu.satyāḥ.santu.yajamānasya.kāmāḥ.svāhā.iti.vā	vaha.vapAm-.jAta.vedaH-.pitRByaH-.yatra.ena-an.vetTa.-sukRtasya.-loke.|.medasaH.kulyA.-upa.tAn.sravantu.-satyAH.santu.-yajamAnasya.-kAmAH.s
+   ŚGS_3.13.4:	ŚGS_3.13.4:
+   mahā.vyāhṛtayaś.catasro.ye.tātṛṣur.iti.catasro.aṣṭa.āhuti.sthālī.pāko.avadāna.miśraḥ	mahA.-vyAhRta-yaS.cata-sro.ye.tAtRzuH-.iti.-cata-sraH-.azwa.A-Ahuti.-sTAlI.-pAkaH-.avadAna.-miSraH
+   ŚGS_3.13.5:	ŚGS_3.13.5:
+   antarhitā.girayo.antarhitā.pṛthivī.mahī.me.divā.digbhiś.ca.sarvābhir.anyam.antaḥ.pitur.dadhe.amuṣyai.svāhā.antarhitā.ma.ṛtavo.ahorātrāś.ca.saṃdhijāḥ.|.māsāś.ca.ardha.māsāś.ca.anyam.antaḥ.pitur.dadhe.amuṣyai.svāhā.yās.tiṣṭhanti.yāḥ.sravanti.yā.dabhrāḥ.parisasruṣīḥ.|.adbhiḥ.sarvasya.bhartṛbhir.anyam.antaḥ.pitur.dadhe.amuṣyai.svāhā.yan.me.mātā.pralulubhe.vicaranty.apati.vratā.|.retas.tan.me.pitā.vṛṅktām.mātur.anyo.ava.padyata.amuṣyai.svāhā.iti.vā.mahā.vyāhṛtīnām.sthāne.catasro.anyatra.karaṇasya	antarhitA.girayo.antarhitA.-pRTivI.-mahI.-me.divA.digBiH-.ca.-sarvABiH-.anyam-.antaH.pituH-.daDe.a-muzyE.svAhA.antarhita-a.ma.Rta-vo.ahorAt
+   ŚGS_3.13.6: pāyaso.vā.caruḥ /	ŚGS_3.13.6: pAyasaH-.vA.caruH /
+   ŚGS_3.13.7: śvo.anvaṣṭakyam.piṇḍa.pitṛ.yajña.āvṛtā /	ŚGS_3.13.7: Svas-.an-vazwakyam.piNxa.-pitR.yajQa-.a-AvRtA /
+   ŚGS_3.14.1: uttamāyām.apūpān.juhoti /	ŚGS_3.14.1: uttamAyAm.a-pUpAn-.juhoti /
+   ŚGS_3.14.2:	ŚGS_3.14.2:
+   ukthyaś.ca.atirātraś.ca.sadyahkrīś.chandasā.saha.|.apūpakṛd.aṣṭake.namas.te.sumanā.mukhi.svāhā.iti	ukTyaS.ca-.atirAtra-S.ca.-sat-yahkrIS.-Canda-sa-a.-saha.|.apUpa-kRt-.azwake.namas.te.-sumanA.-muKi.-svAhA.-iti
+   ŚGS_3.14.3: go.paśur.aja.paśu.sthālī.pāko.vā /	ŚGS_3.14.3: go.paSuH-.aja.-paSu.-sTAlI.-pAkaH-.vA /
+   ŚGS_3.14.4: api.vā.go.grāsam.āhared /	ŚGS_3.14.4: api.vA.go-.grAsam.Aharet /
+   ŚGS_3.14.5: api.vā.araṇye.kakṣam.apādahed.eṣā.me.aṣṭakā.iti /	ŚGS_3.14.5: api.vA.araNI-e.-kakzam-.apAda-het-.ezA.me.azwakA.-iti /
+   ŚGS_3.14.6: na.tv.eva.na.kurvīta.na.tv.eva.na.kurvīta /	ŚGS_3.14.6: na.tu-.eva.-na.kurvIta.na.tu-.eva.-na.kurvIta /
+   ŚGS_4.1.0: atha.śrāddha.karma /	ŚGS_4.1.0: aTa.-SrAdDa.karma /
+   ŚGS_4.1.1: māsi.māsi.pitṛbhyo.dadyād /	ŚGS_4.1.1: mAsi.mAsi.-pitRByaH-.dadyAt /
+   ŚGS_4.1.2: brāhmaṇān.vedavido.ayugmāṃs.tryavara.ardhān.pitṛvad.upaveśya /	ŚGS_4.1.2: brAhmaNAn-.veda-vido.a-yugmAMs.tri-avara-.arDAn.pitR-vat-.-upaveSya /
+   ŚGS_4.1.3: ayugmāny.uda.pātrāṇi.tilair.avakīrya /	ŚGS_4.1.3: ayugmAni-.uda.-pAtra-aNi.tilEH-.avakIrya /
+   ŚGS_4.1.4: asāv.etat.ta.ity.anudiśya.brāhmaṇānām.pāṇiṣu.ninayed /	ŚGS_4.1.4: asO=-.etat.ta.iti-.anudiSya.-brAhmaNAnAm-.pANizu.-ninayet /
+   ŚGS_4.1.5:	ŚGS_4.1.5:
+   bhuñjāneṣu.mahā.vyāhṛtīḥ.sāvitrīm.madhuvatīyāḥ.pitṛ.devatyāḥ.pāvamānīś.ca.japed	BuQjAna-izu.-mahA.-vyAhRtIH-.sAvitrIm.maDuvatIyAH.-pitR.devatyAH.pAvamAnIS.ca.japet-
+   ŚGS_4.1.6: bhuktavatsu.piṇḍān.dadyāt /	ŚGS_4.1.6: Bukta-vat-su.-piNxAn-.dadyAt /
+   ŚGS_4.1.10: purastād.eke /	ŚGS_4.1.10: purastAt-.eke /
+   ŚGS_4.1.11: piṇḍān.paścimena.tat.patnīnām.kiṃcid.antardhāya /	ŚGS_4.1.11: piNxAn-.paScimena.tat.patnInAm-.kiMcid-.antarDAya /
+   ŚGS_4.1.12: brāhmaṇebhyaḥ.śeṣam.nivedayed /	ŚGS_4.1.12: brAhmaNeByaH-.Sezam.nivedayet /
+   ŚGS_4.1.13: agnau.karaṇa.ādi.piṇḍa.pitṛ.yajñena.kalpo.vyākhyātaḥ /	ŚGS_4.1.13: agnO.karaNa-.Adi.piNxa.-pitR.yajQena.kalpaH-.vyAKyAtaH /
+   ŚGS_4.2.0: atha.ekoddiṣṭa.śrāddha.karma /	ŚGS_4.2.0: aTa-.eka-uddizwa.-SrAdDa.-karma /
+   ŚGS_4.2.1: atha.ata.eka.uddiṣṭam /	ŚGS_4.2.1: aTa.ata-.eka-.uddizwam /
+   ŚGS_4.2.2: eka.pavitram /	ŚGS_4.2.2: eka.pavitram /
+   ŚGS_4.2.3: eka.arghyam /	ŚGS_4.2.3: eka-.arGyam /
+   ŚGS_4.2.4: eka.piṇḍam /	ŚGS_4.2.4: eka.piNxam /
+   ŚGS_4.2.5:	ŚGS_4.2.5:
+   na.āvāhanam.na.agnau.karaṇam.na.atra.viśve.devāḥ.svaditam.iti.tṛipta.praśna.upa.tiṣṭhatām.ity.akṣayya.sthāne	na.a-AvAhana-m.na.agnO.karaNam.na.atra.-viSve.-devAH.svaditam-.iti.-tRipta.praSna-.upa.tizWa-tAm-.iti-.akzayya.sTAne
+   ŚGS_4.2.6: abhi.ramyatām.iti.visargaḥ /	ŚGS_4.2.6: aBi.ramyatAm-.iti.-visargaH /
+   ŚGS_4.2.7: saṃvatsaram.evam.prete /	ŚGS_4.2.7: saMvatsaram-.evam-.prete /
+   ŚGS_4.2.8: caturtha.visargaś.ca /	ŚGS_4.2.8: caturTa.-visarga-S.ca /
+   ŚGS_4.3.0: atha.sapiṇḍī.karaṇam /	ŚGS_4.3.0: aTa.-sapiNxI.-karaNam /
+   ŚGS_4.3.1: atha.sapiṇḍī.karaṇam /	ŚGS_4.3.1: aTa.-sapiNxI.-karaNam /
+   ŚGS_4.3.2: saṃvatsare.pūrṇe.tripakṣe.vā /	ŚGS_4.3.2: saMvatsare.-pUrNe.-tri-pakze.vA /
+   ŚGS_4.3.3: yad.ahar.vā.vṛddhir.āpadyeta /	ŚGS_4.3.3: yat-.ahar.vA.vRdDiH-.Apadyeta /
+   ŚGS_4.3.4: catvāry.uda.pātrāṇi.satila.gandha.udakāni.kṛtvā /	ŚGS_4.3.4: catvAri-.uda.-pAtra-aNi.sa-tila.-ganDa.udakA-ni.kRtvA /
+   ŚGS_4.3.5: trīṇi.pitṝṇām.ekam.pretasya /	ŚGS_4.3.5: trINi.pitLNAm-.ekam-.pretasya /
+   ŚGS_4.3.6: preta.pātram.pitṛ.pātreṣv.āsiñcati.ye.samānā.iti.dvābhyām /	ŚGS_4.3.6: preta.-pAtram-.pitR.-pAtrezu-.AsiQcati.ye.-samAna-a.iti.-dvAByAm /
+   ŚGS_4.3.7: evma.piṇḍam.api /	ŚGS_4.3.7: evma.piNxam-.api /
+   ŚGS_4.3.8: etat.sapiṇḍī.karaṇam /	ŚGS_4.3.8: etat.-sapiNxI.-karaNam /
+   ŚGS_4.4.0: atha.ābhyudayika.śrāddha.karma /	ŚGS_4.4.0: aTa.A-aByudayika-.-SrAdDa.-karma /
+   ŚGS_4.4.1: atha.ata.ābhyudayikam /	ŚGS_4.4.1: aTa.ata.a-aByudayikam /
+   ŚGS_4.4.2: āpūryamāṇa.pakṣe.puṇya.ahe /	ŚGS_4.4.2: ApUryamANa.-pakze.-puNya-.ahe /
+   ŚGS_4.4.3: mātṛ.yāgam.kṛtvā /	ŚGS_4.4.3: mAtR.yAgam.-kRtvA /
+   ŚGS_4.4.4: yugmān.vedavida.upaveśya /	ŚGS_4.4.4: yugmAn.veda-vida.-upaveSya /
+   ŚGS_4.4.5: pūrva.ahṇe /	ŚGS_4.4.5: pUrva-.ahNe /
+   ŚGS_4.4.6: pradakṣiṇam.upacāraḥ /	ŚGS_4.4.6: pradakziNam-.upacAraH /
+   ŚGS_4.4.7: pitṛ.mantra.varjam.japaḥ /	ŚGS_4.4.7: pitR.mantra.-varjam.japaH /
+   ŚGS_4.4.8: ṛjavo.darbhāḥ /	ŚGS_4.4.8: RjavaH-.darBAH /
+   ŚGS_4.4.9: yavais.tila.arthaḥ /	ŚGS_4.4.9: yavEs.tila.arTaH /
+   ŚGS_4.4.10: dadhi.badara.akṣata.miśrāḥ.piṇḍāḥ /	ŚGS_4.4.10: daDi.badara-.akza-ta.miSrAH.-piNxAH /
+   ŚGS_4.4.11: nāndī.mukhān.pitṝn.ā.vāhayiṣya.ity.āvāhane /	ŚGS_4.4.11: nAndI.-muKa-an.pitLn-.A.vAhayizya.iti-.AvAhane /
+   ŚGS_4.4.12: nāndī.mukhāḥ.pitaraḥ.prīyantām.ity.akṣayya.sthāne /	ŚGS_4.4.12: nAndI.-muKAH.pitaraH.-prIyantAm-.iti-.akzayya.-sTAne /
+   ŚGS_4.4.13: nāndī.mukhān.pitṝn.vācayiṣya.iti.vācane /	ŚGS_4.4.13: nAndI.-muKa-an.pitLn-.vAcayizya.iti-.vAcane /
+   ŚGS_4.4.14: sampannam.iti.tṛpta.praśnaḥ /	ŚGS_4.4.14: sampannam.iti.-tRpta.praSnaH /
+   ŚGS_4.4.15: samānam.anyad.aviruddham.iti /	ŚGS_4.4.15: samAnam-.anyat-.avirudDam-.iti /
+   ŚGS_4.5.0: atha.upākaraṇam /	ŚGS_4.5.0: aTa.upAkaraNam /
+   ŚGS_4.5.1: atha.upākaraṇam /	ŚGS_4.5.1: aTa.upAkaraNam /
+   ŚGS_4.5.2: oṣadhīnām.prādur.bhāve.hastena.śravaṇena.vā /	ŚGS_4.5.2: ozaDI-nAm.-prAdur.BAve.-hastena.-SravaNena.vA /
+   ŚGS_4.5.3:	ŚGS_4.5.3:
+   akṣata.saktūnām.dhānānām.ca.dadhi.ghṛta.miśrāṇām.pratyṛcam.vedena.juhuyād.iti.ha.eka.āhuḥ	akzata.-saktUnAm.DAnAnAm-.ca.daDi.GRta.-miSrANAm-.pratyRcam.vedena.-juhuyAt-.iti.ha.eka.AhuH
+   ŚGS_4.5.4: sūkta.anuvāka.ādyābhir.iti.vā /	ŚGS_4.5.4: sUkta-.anuvAka-.AdyABiH-.iti.vA /
+   ŚGS_4.5.5: adhyāya.ārṣeya.ādyābhir.iti.māṇḍūkeyaḥ /	ŚGS_4.5.5: aDyAya-.Arzeya-.AdyABiH-.iti.-mANxUkeyaH /
+   ŚGS_4.5.6: atha.ha.sma.āha.kauṣītakiḥ /	ŚGS_4.5.6: aTa.-ha.sma.a-aha.kOzItakiH /
+   ŚGS_4.5.7: <.agnim.īḍe.purohitam.>.ity.ekā /	ŚGS_4.5.7: <.agnim.Ixe.-purohitam-.>.iti-.ekAH /
+   ŚGS_4.5.8:	ŚGS_4.5.8:
+   kuṣumbhakas.tad.abravīd.āvadaṃs.tvam.śakune.bhadram.ā.vada.gṛṇānā.jamadagninā.dhāman.te.viśvam.bhuvanam.adhiśritam.gantā.no.yajñam.yajñiyāḥ.suśami.yo.naḥ.svo.araṇaḥ.prati.cakṣva.vi.cakṣva.ā.agne.yāhi.marut.sakhā.yat.te.rājan.śṛtam.havir.iti.dvṛcāḥ	kuzumBaka-s.tad.abravIt-.AvadaMs.-tvam-.Sakune.Badram.A.vada.-gRNAnA.-jamadagninA.DAman.te.-viSvam.Buvanam-.aDiSritam.gantA-a.no.-yajQam-.y
+   ŚGS_4.5.9: tat.śamyor.ā.vṛṇīmaha.ity.ekā /	ŚGS_4.5.9: tat.SamyoH-.A.vRNIm-aha.iti-.ekAH /
+   % On BaaSkala SamhitaaN see SBEN p.113N n.9.	% On BaaH-kala SamhitaaN see SBEN p.113j n.9.
+   ŚGS_4.5.10: huta.śeṣādd.haviḥ.prāśnanti.<.dadhikrāvṇo.akāriṣam.>.ity.etayā	ŚGS_4.5.10: huta.SezAt-d.ha-viH.prASnanti.<.da-DikrAvNaH-.aka-arizam.>.-iti-.etayA
+   ŚGS_4.5.11: ācamya.upaviśya /	ŚGS_4.5.11: Acamya.-upaviSya /
+   ŚGS_4.5.12:	ŚGS_4.5.12:
+   mahā.vyāhṛtīḥ.sāvitrīm.veda.ādi.prabhṛtīni.svastyayanāni.ca.japitvā /	mahA.-vyAhRtIH-.sAvitrIm.veda.Adi.praBRtI-ni.svastyayanA-ni.ca.-japitvA /
+   ŚGS_4.5.13: ācāryam.svasti.vācya /	ŚGS_4.5.13: AcAryam-.svasti.vAcya /
+   ŚGS_4.5.14: tad.api.bhavati /	ŚGS_4.5.14: tat-.api.Bavati /
+   ŚGS_4.5.15:	ŚGS_4.5.15:
+   ayāta.yāmatām.pūjām.sāratvam.chandasām.tathā.|.icchanta.ṛṣayo.apaśyann.upākarma.tapo.balāt	ayAta.yAma-tAm.pUjA-m.sAra-tvam-.Canda-sAm.-taTA.|.icCanta-.RzayaH-.apaSyan=-.upAkarma.-tapo.balAt
+   ŚGS_4.5.16:	ŚGS_4.5.16:
+   tasmāt.ṣaṭ.karma.nityena.ātmano.mantra.siddhaye.|.upākartavyam.ity.āhuḥ.karmaṇām.siddhim.ichatā	tasmAt-.zaw.-karma.nityena.AtmanaH-.mantra.-sidDaye.|.upAkartavyam-.iti-.AhuH.karmaNA-Am.sidDim.iCatA
+   ŚGS_4.5.17:	ŚGS_4.5.17:
+   upākarmaṇi.ca.utsarge.trirātram.kṣapaṇam.bhavet.|.aṣṭakāsu.tv.ahorātram.ṛtv.antyāsu.ca.rātriṣu	upAkarmaNi.ca.utsarge.tri-rAtram-.kzapaNam-.Bavet.|.azwakA-su.tv.ahorAtram-.Rtv.antyAsu.ca.rAtrizu
+   ŚGS_4.6.0: atha.utsarga.karma /	ŚGS_4.6.0: aTa-.utsarga.-karma /
+   ŚGS_4.6.1: māgha.śukla.pratipadi /	ŚGS_4.6.1: mAGa.-Sukla.pratipadi /
+   ŚGS_4.6.2: aparājitāyām.diśi /	ŚGS_4.6.2: aparAjitAyAm-.diSi /
+   ŚGS_4.6.3: bahv.auṣadhike.deśe /	ŚGS_4.6.3: bahu-.OzaDike.-deSe /
+   ŚGS_4.6.4:	ŚGS_4.6.4:
+   <.ud.u.tyam.jātavedasam.>.<.citram.devānām.>.<.namo.mitrasya.>.<.sūryo.no.divas.pātv.>.iti.sauryāṇi.japitvā	<.ud.u.tyam.jAtaveda-sam.>.<.citram.devAnAm-.>.<.namaH-.mitrasya.>.<.-sUryo.no.divas.-pAtv.>.iti.-sOrya-aNi.ja-pitvA
+   ŚGS_4.6.5:	ŚGS_4.6.5:
+   <.śāsa.itthā.mahān.asi.>.iti.pradakṣiṇam.partyṛcam.pratidiśam.pratyasya.loṣṭān	<.SAsa.itTA.-mahAn.asi-.>.iti.-pradakziNam-.parti-Rcam.-pratidiSam.pratyasya.-lozwAn
+   ŚGS_4.6.6:	ŚGS_4.6.6:
+   ṛṣīṃś.chandāṃsi.devatāḥ.śraddhā.medhe.ca.tarpayitvā.pratipuruṣam.ca.pitrīṃś	RzIMS.CandAMsi.-devatAH.SradDA.-meDe.-ca.tarpayi-tvA.-prati-puruzam-.ca.pitrIMS
+   ŚGS_4.6.7: chandāṃsi.viśrāmayanty.ardha.saptamān.māsān /	ŚGS_4.6.7: CandAMsi.viSrAmayanti-.arDa.-saptamAn.mAsAn /
+   ŚGS_4.6.8: ardha.ṣaṣṭhān.vā /	ŚGS_4.6.8: arDa.-zazWAn-.vA /
+   ŚGS_4.6.9: adhīyīraṃś.ced.ahorātram.uparamya.prādhyayanam /	ŚGS_4.6.9: aDIyIraMS.-ced-.ahorAtram-.uparamya.-prADyayanam /
+   ŚGS_4.7.0: atha.uparama.karma /	ŚGS_4.7.0: aTa.u-parama.karma /
+   ŚGS_4.7.1: atha.uparamam /	ŚGS_4.7.1: aTa.u-paramam /
+   ŚGS_4.7.2: utpāteṣv.ākālam /	ŚGS_4.7.2: utpAtezu-.AkAlam /
+   ŚGS_4.7.3: anyeṣv.adbhuteṣu.ca /	ŚGS_4.7.3: anyezu-.adButa-izu.ca /
+   ŚGS_4.7.4: vidyut.stanayitnu.varṣāsu.triṣaṃdhyam /	ŚGS_4.7.4: vidyut.H-tanayitnu.-varzAsu.trizaMDyam /
+   ŚGS_4.7.5: ekāham.śrāddha.bhojane /	ŚGS_4.7.5: eka-aham-.SrAdDa.-Bojane /
+   ŚGS_4.7.6: daśa.aham.agha.sūtakeṣu.ca /	ŚGS_4.7.6: daSa-.aham.aGa.sUtaka-izu.ca /
+   ŚGS_4.7.7: cturdaśy.amāvāsyayor.aṣṭakāsu.ca /	ŚGS_4.7.7: cturdaSI-.amAvAsyayoH-.azwakAsu.ca /
+   ŚGS_4.7.8: vāsareṣu.nabhyeṣu.ca /	ŚGS_4.7.8: vAsara-izu.naByezu.ca /
+   ŚGS_4.7.9: ācārye.ca.uparate.daśa.aham /	ŚGS_4.7.9: AcArye.-ca.uparate.daSa-.aham /
+   ŚGS_4.7.10: śrutva.trirātram /	ŚGS_4.7.10: Srutva.tri-rAtram /
+   ŚGS_4.7.11: tat.pūrvāṇām.ca /	ŚGS_4.7.11: tat.-pUrvANAm-.ca /
+   ŚGS_4.7.12: pratigrahe.śrādhavat /	ŚGS_4.7.12: pratigrahe.-SrADa-vat /
+   ŚGS_4.7.13: sabrahma.cāriṇi /	ŚGS_4.7.13: sa-brahma.-cAriNi /
+   ŚGS_4.7.14: pretan.anu.gatvā /	ŚGS_4.7.14: pretan.anu.-gatvA /
+   ŚGS_4.7.15: pitṛbhyaś.ca.nidhāya.piṇḍān /	ŚGS_4.7.15: pitRBya-S.ca.-niDAya.-piNxAn /
+   ŚGS_4.7.16: niśām /	ŚGS_4.7.16: niSAm /
+   ŚGS_4.7.17: saṃdhyām /	ŚGS_4.7.17: saMDyAm /
+   ŚGS_4.7.18: parvasu /	ŚGS_4.7.18: parvasu /
+   ŚGS_4.7.19: astamite /	ŚGS_4.7.19: astamite /
+   ŚGS_4.7.20: śūdra.samnikarśe /	ŚGS_4.7.20: SUdra.-samnikarSe /
+   ŚGS_4.7.21: sāma.śabde /	ŚGS_4.7.21: sAma.-Sabde /
+   ŚGS_4.7.22: śmaśāne /	ŚGS_4.7.22: SmaSAne /
+   ŚGS_4.7.23: grāma.araṇye /	ŚGS_4.7.23: grAma-.araNye /
+   ŚGS_4.7.24: antahśave.grāme /	ŚGS_4.7.24: antahSave.-grAme /
+   ŚGS_4.7.25: adarśanīyād /	ŚGS_4.7.25: adarSanIyAt /
+   ŚGS_4.7.26: aśravaṇīyād /	ŚGS_4.7.26: aSravaNIyAt /
+   ŚGS_4.7.27: aniṣṭa.ghrāṇe /	ŚGS_4.7.27: anizwa.GrANe /
+   ŚGS_4.7.28: ativāte /	ŚGS_4.7.28: ativAte /
+   ŚGS_4.7.29: abhre.prāvarṣiṇi /	ŚGS_4.7.29: aBre.-prAvarziNi /
+   ŚGS_4.7.30: rathyāyām /	ŚGS_4.7.30: raTyAyAm /
+   ŚGS_4.7.31: vīṇā.śabde.ca /	ŚGS_4.7.31: vINA.-Sabde.-ca /
+   ŚGS_4.7.32: rathasthaḥ /	ŚGS_4.7.32: raTa-sTaH /
+   ŚGS_4.7.33: śūdravat.śuni /	ŚGS_4.7.33: SUdravat.-Suni /
+   ŚGS_4.7.34: vṛkṣa.ārohaṇe /	ŚGS_4.7.34: vRkza.ArohaNe /
+   ŚGS_4.7.35: avaṭa.ārohaṇe /	ŚGS_4.7.35: avawa.a-ArohaNe /
+   ŚGS_4.7.36: apsu /	ŚGS_4.7.36: apsu /
+   ŚGS_4.7.37: krandaty /	ŚGS_4.7.37: krandati /
+   ŚGS_4.7.38: ārtyām /	ŚGS_4.7.38: ArtyAm /
+   ŚGS_4.7.39: nagne /	ŚGS_4.7.39: nagne /
+   ŚGS_4.7.40: ucchiṣṭaḥ /	ŚGS_4.7.40: ucCizwaH /
+   ŚGS_4.7.41: saṃkrame /	ŚGS_4.7.41: saMkrame /
+   ŚGS_4.7.42: keśa.śmaśrūṇi.vāpana.ā.snānād /	ŚGS_4.7.42: keSa.-SmaSrUNi-.vApana.A.-snAnAt /
+   ŚGS_4.7.43: utsādane /	ŚGS_4.7.43: utsAdane /
+   ŚGS_4.7.44: snāne /	ŚGS_4.7.44: snAne /
+   ŚGS_4.7.45: saṃveśane /	ŚGS_4.7.45: saMveSane /
+   ŚGS_4.7.46: abhyañjane /	ŚGS_4.7.46: aByaQjane /
+   ŚGS_4.7.47: preta.parśini.sūtika.udakyayoś.ca.śūdravat /	ŚGS_4.7.47: preta.parSi-ni.sUtika-.uda-kyayaH-S.ca.-SUdra-vat /
+   ŚGS_4.7.48: apihita.pāṇiḥ /	ŚGS_4.7.48: apihita.pANiH /
+   ŚGS_4.7.49: senāyām /	ŚGS_4.7.49: senAyAm /
+   ŚGS_4.7.50: abhuñjane.brāhmaṇe.goṣu.ca /	ŚGS_4.7.50: aBuQjane.-brAhmaNe.gozu.ca /
+   ŚGS_4.7.51: atikrānteṣv.adhīyīran /	ŚGS_4.7.51: atikrAntezu-.aDIyIran /
+   ŚGS_4.7.52:	ŚGS_4.7.52:
+   eteṣām.yadi.kiṃcid.akāma.utpāto.bhavet.prāṇān.āyamya.ādityam.īkṣitvā.adhīyīta	etezAm-.ya-di.kiMcid-.a-kAma-.utpAta-u.Bavet.-prANAn-.Ayamya-.Adityam-.IkzitvA-a.aDIyIta
+   ŚGS_4.7.53: vidyut.stanayitnu.varṣa.varjam.kalpe.varṣavad.ardha.ṣaṣṭheṣu /	ŚGS_4.7.53: vidyut.H-tanayitnu.-varza.-varjam.kalpe.-varza-vat-.arDa.zazWezu /
+   ŚGS_4.7.54: tad.apy.etat /	ŚGS_4.7.54: tat-.api-.etat /
+   ŚGS_4.7.55:	ŚGS_4.7.55:
+   annam.āpo.mūla.phalam.yac.ca.anyat.śrāddhikam.bhavet.|.pratigṛhya.apy.anadhyāyaḥ.pāṇy.āsyo.brāhmaṇaḥ.smṛta.iti	annam.A-apo.-mUla.-Palam-.yac.ca.a-nyat.SrAdDikam-.Bavet.|.-pratigRhya-.api-.anaDyAyaH.pANi-.Asyo.brAhmaNaH.smRta.iti
+   ŚGS_4.8.1: nyāya.upetebhyaś.ca.vartayet /	ŚGS_4.8.1: nyAya-.upeteByaS.ca.vartayet /
+   ŚGS_4.8.2: prān.vā.udan.vā.āsīna.ācāryo.daṣiṇata.udan.mukha.itaraḥ /	ŚGS_4.8.2: prAn-.vA.-udan.vA.AsIna.AcAryaH-.-daziNa-ta.udan.-muKa-.itaraH /
+   ŚGS_4.8.3: dvau.vā /	ŚGS_4.8.3: dvO.vAH /
+   ŚGS_4.8.4: bhūyāṃsas.tu.yathā.avakāśam /	ŚGS_4.8.4: BUyAMsa-s.tu.-yaTA.avakASam /
+   ŚGS_4.8.5: na.ucchrita.āsana.upaviṣṭo.guru.samīpe /	ŚGS_4.8.5: na.ucCrita-.Asana-.upavizwaH-.guru.-samIpe /
+   ŚGS_4.8.6: na.eka.āsanasthaḥ /	ŚGS_4.8.6: na.eka.Asana-sTaH /
+   ŚGS_4.8.7: na.prasārita.pādaḥ /	ŚGS_4.8.7: na.prasArita.pAdaH /
+   ŚGS_4.8.8: na.bāhubhyām.jānu.upasaṃgṛhya /	ŚGS_4.8.8: na.bAhuByAm-.jAnu.upasaMgRhya /
+   ŚGS_4.8.9: na.upāśrita.śarīraḥ /	ŚGS_4.8.9: na.upASrita.-SarIraH /
+   ŚGS_4.8.10: na.upastha.kṛta.pādaḥ /	ŚGS_4.8.10: na.upasTa.kRta.pAdaH /
+   ŚGS_4.8.11: na.pāda.kuṭhārikām.kṛtvā /	ŚGS_4.8.11: na.pAda.kuWArikAm-.kRtvA /
+   ŚGS_4.8.12: adhīhi.bho.ity.uktvā.ācārya.om.kāram.pracodayet /	ŚGS_4.8.12: aDIhi.Bo.iti-.uktvA-a.AcArya-.om.kAram-.pracodayet /
+   ŚGS_4.8.13: om.iti.itaraḥ.pratipadyate /	ŚGS_4.8.13: om.iti-.itaraH.pratipadyate /
+   ŚGS_4.8.14: tat.saṃtatam.adhīyīta /	ŚGS_4.8.14: tat.saMtatam-.aDIyIta /
+   ŚGS_4.8.15: adhītya.upasaṃgṛhya /	ŚGS_4.8.15: aDItya-.upasaMgRhya /
+   ŚGS_4.8.16: viratāḥ.sma.bho.ity.uktvā.yathā.artham /	ŚGS_4.8.16: viratAH.sma.Bo.-iti-.uktvA-a.yaTA.arTam /
+   ŚGS_4.8.17: visṛṣṭam.virāmas.tāvad.ity.eke /	ŚGS_4.8.17: visRzwam-.virAma-s.tA-vat-.iti-.eke /
+   ŚGS_4.8.18: na.adhīyatām.antarā.gacchet /	ŚGS_4.8.18: na.aDIyatAm-.antarA.gacCet /
+   ŚGS_4.8.19: na.ātmānam.viparihared.adhīyānaḥ /	ŚGS_4.8.19: na.a-AtmAnam-.vipariharet-.aDIyAnaH /
+   ŚGS_4.8.20:	ŚGS_4.8.20:
+   yadi.ced.doṣaḥ.syāt.trirātram.upoṣya.ahorātram.vā.sāvitrīm.abhyāvartayed.yāvat.śaknuyād.brāhmaṇebhyaḥ.kiṃcid.dadyād.ahorātram.uparamya.prādhyayanam	yadi.ced-.dozaH.syA-at.tri-rAtram-.upozya-.ahorAtram-.vA.sAvitrIm-.aByAvartayet-.yAvat.-SaknuyAt-.brAhmaNeByaH-.kiMcid-.dadyAt-.ahorAtram-.upa
+   ŚGS_4.9.0: atha.tarpaṇam /	ŚGS_4.9.0: aTa.-tarpaNam /
+   ŚGS_4.9.1: snātaḥ /	ŚGS_4.9.1: snAtaH /
+   ŚGS_4.9.2: upasparśana.kāle.avagāhya.devatās.tarpayati /	ŚGS_4.9.2: upasparSana.kAle.avagAhya.-devatA-s.tarpayati /
+   ŚGS_4.9.3:	ŚGS_4.9.3:
+   agnis.tṛpyatu.vāyus.tṛpyatu.sūryas.tṛpyatu.viṣṇus.tṛpyatu.prajāpatis.tṛpyatu.virūpa.akṣas.tṛpyatu.sahasra.akṣas.tṛpyatu.somaḥ.brahmā.vedāḥ.devāḥ.ṛṣayaḥ.sarvāṇi.ca.chandāṃsi.om.kāraḥ.vaṣaṭ.kārha.mahā.vyāhṛtayaḥ.sāvitrī.yajñāḥ.dyāvā.pṛthivī.nakṣatrāṇi.antarikṣam.ahorātrāṇi.saṃkhyāḥ.saṃdhyāḥ.samudrāḥ.nadyaḥ.girayaḥ.kṣetra.oṣadhi.vanaspati.gandharva.apsarasaḥ.nāgāḥ.bhūtāny.evam.antāni.tṛpyantu.śrutim.tarpayāmi.smṛtim.tarpayāmi.dhṛtim.tarpayāmi.ratim.tarpayāmi.gatim.tarpayāmi.matim.tarpayāmi.śraddhā.medhe.dhāraṇām.ca.go.brāhmaṇam.sthāvara.jaṅgamāni.sarva.bhūtāni.tarpyantv.iti.yajña.upavītī	agni-s.tRpyatu.-vAyu-s.tR-pyatu.-sUrya-s.tRpyatu.-vizNu-s.tRpyatu.-prajApati-s.tRpyatu.virUpa-.akza-s.-tRpyatu.-sahasra-.akza-s.-tRpyatu.-somaH.b
+   ŚGS_4.10.1: atha.prācīna.vītī /	ŚGS_4.10.1: aTa.-prAcIna.vItI /
+   ŚGS_4.10.2: pitryām.diśam.īkṣamāṇaḥ /	ŚGS_4.10.2: pitryAm-.diSam-.IkzamANaH /
+   ŚGS_4.10.3:	ŚGS_4.10.3:
+   śatarcinaḥ.mādhyamāḥ.gṛtsamadaḥ.viśvāmitraḥ.jamadagniḥ.vāmadevaḥ.atriḥ.bharadvājaḥ.vasiṣṭhaḥ.pragāthāḥ.pavamānāḥ.kṣudra.sūkta.mahā.sūktāḥ.sumantuḥ.jaimini.vaiśampāyana.paila.sūtra.bhāṣya.gārgya.babhru.bābhravya.maṇḍu.māṇḍavyāḥ.gārgi.vācaknavī.vaḍavā.prātitheyī.sulabhā.maitreyī.kaholam.kauṣītakim.mahā.kauṣītakim.suyajñam.śāṅkhāyanam.āśvalāyanam.aitareyam.mahā.aitareyam.bhāradvājam.jātūkarṇyam.paiṅgyam.mahā.paiṅgyam.bāṣkalam.gārgyam.śakalya.(.śākalya.?).māṇḍūkeyam.mahā.damatram.audavāhim.mahā.audavāhim.sauyāmim.śaunakim.śāpa.pūṇim.gatamim.ye.ca.anye.ācāryās.te.sarve.tṛpyantv.iti	SatarcinaH.mADyamAH.gRtsamadaH.-viSvAmitraH.jamat-agniH.vAmadevaH.atriH.BaradvAjaH-.vasizWaH.pragATAH.pavamAnAH.kzudra.sUkta.-mahA.
+   ŚGS_4.10.4: pratipuruṣam.pitaraḥ /	ŚGS_4.10.4: prati-puruzam-.pitaraH /
+   ŚGS_4.10.5: pitṛ.vaṃśas.tṛpyatu /	ŚGS_4.10.5: pitR.vaMSa-s.tRpyatu /
+   ŚGS_4.10.6: mātṛ.vaṃśas.tṛpyatu /	ŚGS_4.10.6: mAtR.vaMSa-s.tRpyatu /
+   ŚGS_4.11.0: atha.snātaka.dharmāḥ /	ŚGS_4.11.0: aTa.-snAtaka.DarmAH /
+   ŚGS_4.11.1: na.nagnām.striyam.īkṣeta.anyatara.maithunāt /	ŚGS_4.11.1: na.nagnAm.striya-m.Ikzeta.anyatara.-mETunAt /
+   ŚGS_4.11.2: na.ādityam.sadhi.velayoḥ /	ŚGS_4.11.2: na.a-Adityam-.saDi.-velayoH /
+   ŚGS_4.11.3: anāptam /	ŚGS_4.11.3: anAptam /
+   ŚGS_4.11.4: akārya.kāriṇam /	ŚGS_4.11.4: akArya.kAriNam /
+   ŚGS_4.11.5: preta.sparśinam /	ŚGS_4.11.5: preta.-sparSinam /
+   ŚGS_4.11.6: sūtikā.udakyābhyām.na.saṃvaded /	ŚGS_4.11.6: sUtikA.udakyAByAm.na.-saMvadet /
+   ŚGS_4.11.7: etaiś.ca /	ŚGS_4.11.7: etEH-.ca /
+   ŚGS_4.11.8: uddhṛta.tejāṃsi.na.bhuñjīta /	ŚGS_4.11.8: udDRta.-tejAMsi.na.BuQjIta /
+   ŚGS_4.11.9: na.yāta.yāmaiḥ.kāryam.kuryāt /	ŚGS_4.11.9: na.yAta.yAmEH.kAryam-.kuryAt /
+   ŚGS_4.11.10: na.saha.bhuñjīta /	ŚGS_4.11.10: na.-saha.BuQjIta /
+   ŚGS_4.11.11: na.śeṣam /	ŚGS_4.11.11: na.Sezam /
+   ŚGS_4.11.12: pitṛ.devatā.atithi.bhṛtyānām.śeṣam.bhuñjīta /	ŚGS_4.11.12: pitR.devatA-.-atiTi.-BRtyAnAm-.Sezam-.BuQjIta /
+   ŚGS_4.11.13:	ŚGS_4.11.13:
+   uñchaśilam.ayācita.rpatigrahaḥ.sādhubhyo.yācito.vā.yājanam.vṛttiḥ /	uQCa-Silam.a-yAcita-.rpati-grahaH.-sADuByaH-.yAcitaH-.vA.yA-janam-.vRttiH /
+   ŚGS_4.11.14: pūrvam.pūrvam.garīyaḥ /	ŚGS_4.11.14: pUrvam-.pUrvam-.garIyaH /
+   ŚGS_4.11.15: asaṃsidhyamānāyām.vaiśya.vṛttir.vā /	ŚGS_4.11.15: asaMsiDyamAnAyAm-.vESya.vRttiH-.vA /
+   ŚGS_4.11.16: apramattaḥ.pitṛ.daivata.kāryeṣu /	ŚGS_4.11.16: apramattaH.-pitR.dEvata.-kAryezu /
+   ŚGS_4.11.17: ṛtau.sva.dāra.gāmī /	ŚGS_4.11.17: RtO.-sva.dAra.-gAmI /
+   ŚGS_4.11.18: na.divā.śayīta /	ŚGS_4.11.18: na.divA.SayIta /
+   ŚGS_4.11.19: na.pūrva.apara.rātrau /	ŚGS_4.11.19: na.-pUrva-.apara.rAtrO /
+   ŚGS_4.11.20: na.bhūmāv.anantarhitāyām.āsīta /	ŚGS_4.11.20: na.-BUmO=-.anantarhitAyAm.AsIta /
+   ŚGS_4.11.21: nitya.udakī /	ŚGS_4.11.21: nitya.udakI /
+   ŚGS_4.11.22: yajña.upavītī /	ŚGS_4.11.22: yajQa.upavItI /
+   ŚGS_4.11.23: na.virahayed.ācāryam /	ŚGS_4.11.23: na.virahayet-.a-AcAryam /
+   ŚGS_4.11.24: anyatra.niyogāt /	ŚGS_4.11.24: anyatra.niyogAt /
+   ŚGS_4.11.25: anujñāto.vā /	ŚGS_4.11.25: anujQAtaH-.vA /
+   ŚGS_4.12.1: ahar.ahar.ācāryāya.abhivādayeta /	ŚGS_4.12.1: ahar.ahar.AcAryAya.-aBivAdayeta /
+   ŚGS_4.12.2: gurubhyaś.ca /	ŚGS_4.12.2: guruByaH-.ca /
+   ŚGS_4.12.3: sametya.śrotriyasya /	ŚGS_4.12.3: sametya.-Srotriyasya /
+   ŚGS_4.12.4: proṣya.pratyetya.aśrotriyasya /	ŚGS_4.12.4: prozya.-pratyeti-a.a-Srotriyasya /
+   ŚGS_4.12.5: asāv.aham.bho.ity.ātmano.nāma.ādiśya.vyatyasya.pāṇī /	ŚGS_4.12.5: asO=-.aham-.BaH-.iti-.AtmanA-u.nAma.a-AdiSya.-vyatyasya.-pANI /
+   ŚGS_4.12.6: asāv.ity.asya.pāṇī.saṃgṛhya.āśiṣam.āśāste /	ŚGS_4.12.6: asO=-.ity.asya.-pANI.-saMgRhya.ASizam-.ASAH-te /
+   ŚGS_4.12.7: na.avṛto.yajñam.gacched /	ŚGS_4.12.7: na.a-vRtaH-.yajQam-.gacCet /
+   ŚGS_4.12.8: adharmāc.ca.jugupseta /	ŚGS_4.12.8: aDarma-At-.ca.jugupseta /
+   ŚGS_4.12.9: na.jana.samavāyam.gachet /	ŚGS_4.12.9: na.jana.-samavAyam-.gaCet /
+   ŚGS_4.12.10: na.upary.uddiśet.sametya /	ŚGS_4.12.10: na.upary.uddiSet.-sametya /
+   ŚGS_4.12.11: anākrośako.apiśunaḥ.kulam.kulo.na.atihetiḥ.syāt /	ŚGS_4.12.11: anAkroSa-ko.a-piSunaH.-kula-m.kulo.na.ati-hetiH.syAt /
+   ŚGS_4.12.12: na.ekaś.caret /	ŚGS_4.12.12: na.eka-S.caret /
+   ŚGS_4.12.13: na.nagnaḥ /	ŚGS_4.12.13: na.nagnaH /
+   ŚGS_4.12.14: na.apihita.pāṇiḥ /	ŚGS_4.12.14: na.a-pihita.pANiH /
+   ŚGS_4.12.15: deva.āyatanāni.pradakṣiṇam /	ŚGS_4.12.15: deva-.AyatanA-ni.-pradakziNam /
+   ŚGS_4.12.16: na.dhāvet /	ŚGS_4.12.16: na.DAvet /
+   ŚGS_4.12.17: na.niṣṭhīvet /	ŚGS_4.12.17: na.nizWIvet /
+   ŚGS_4.12.18: na.kaṇḍūyet /	ŚGS_4.12.18: na.-kaNxUyet /
+   ŚGS_4.12.19: mūtra.purīṣe.na.avekṣeta /	ŚGS_4.12.19: mUtra.-purIze.na.avekzeta /
+   ŚGS_4.12.20: avaguṇṭhyā.āsīta /	ŚGS_4.12.20: avaguNWyA.AsIta /
+   ŚGS_4.12.21: na.anantarhitāyām /	ŚGS_4.12.21: na.anantarhitAyAm /
+   ŚGS_4.12.22: yady.eka.vastro.yajña.upavītam.karṇe.kṛtvā /	ŚGS_4.12.22: yadi-.eka.vastraH-.yajQa.-upavItam.karNe.kRtvA /
+   ŚGS_4.12.23: na.ādityam.abhimukhaḥ /	ŚGS_4.12.23: na.a-Adityam-.aBimuKaH /
+   ŚGS_4.12.24: na.jaghanena /	ŚGS_4.12.24: na.-jaGanena /
+   ŚGS_4.12.25: ahar.udan.mukho.naktam.dakṣiṇā.mukhaḥ /	ŚGS_4.12.25: ahar.udan.muKa-u.naktam.dakziNA.muKaH /
+   ŚGS_4.12.26: na.ca.apsu.śleṣma.na.ca.samīpe /	ŚGS_4.12.26: na.ca.apsu.-Slezma.-na.ca.-samIpe /
+   ŚGS_4.12.27: na.vṛkṣam.ārohet /	ŚGS_4.12.27: na.vRkzam.a-Arohet /
+   ŚGS_4.12.28: na.kūpam.avekṣeta /	ŚGS_4.12.28: na.kUpam-.avekzeta /
+   ŚGS_4.12.29: na.dhuvanam.gachet /	ŚGS_4.12.29: na.Duvanam.gaCet /
+   ŚGS_4.12.30: na.tv.eva.tu.śmaśānam /	ŚGS_4.12.30: na.tu-.eva.tu.-SmaSAnam /
+   ŚGS_4.12.31: savastro.ahar.ahar.āplavet /	ŚGS_4.12.31: sa-vastraH-.ahar.ahar.Aplavet /
+   ŚGS_4.12.32: āplutya.avyudako.anyad.vastram.āchādayet /	ŚGS_4.12.32: Aplutya-.avyudakaH-.anyat-.vastram-.ACAdayet /
+   ŚGS_4.13.0: atha.kṛṣi.karma /	ŚGS_4.13.0: aTa.-kRzi.karma /
+   ŚGS_4.13.1: rohiṇyām.kṛṣi.karmāṇi.kārayet /	ŚGS_4.13.1: rohiNyAm-.kRzi.karmANi.kArayet /
+   ŚGS_4.13.2:	ŚGS_4.13.2:
+   purastāt.karmaṇām.prācyām.kṣetra.maryādāyām.dyāvā.pṛthivī.balim.hared /	purastAt.-karmaNAm-.prAcyAm.kzetra.-maryAdAyAm.dyAvA.-pRTivI.-balim-.haret /
+   ŚGS_4.13.3:	ŚGS_4.13.3:
+   dyāvā.pṛthivīyayā.ṛcā.namo.dyāvā.pṛthivībhyām.iti.ca.upasthānam /	dyAvA.-pRTivI-yayA.RcA.namo.dyAvA.-pRTivIByAm-.iti.-ca.upasTAnam /
+   ŚGS_4.13.4:	ŚGS_4.13.4:
+   prathama.prayoge.sīrasya.brāhmaṇaḥ.sīram.spṛśet.<.śunam.naḥ.phālā.>.iti.etām.anubruvan	praTama.-prayoge.-sIrasya.-brAhmaNaH.sIram-.spRSet.<.Suna-m.naH.PAla-a.>.iti-.etAm-.anubruvan
+   ŚGS_4.13.5:	ŚGS_4.13.5:
+   <.kṣetrasya.patinā.>.iti.pradakṣiṇam.patyṛcam.pratidiśam.upasthānam /	<.kzetrasya.patinA-a.>.iti.-pradakziNam-.pati-Rcam.-pratidiSam-.upasTAnam /
+   ŚGS_4.14.0: atha.plava.karma /	ŚGS_4.14.0: aTa.-plava.-karma /
+   ŚGS_4.14.1: udakam.tariṣyan.svastyayanam.karoti /	ŚGS_4.14.1: udakam-.tarizyan.svastyayanam-.karoti /
+   ŚGS_4.14.2:	ŚGS_4.14.2:
+   udaka.añjalīṃs.trīn.apsu.juhoti.samudrāya.vaiṇave.namo.varuṇāya.dharma.pataye.namo.namaḥ.sarvābhyo.nadībhyaḥ	udaka-.aQjalIMs.trIn-.apsu.-juhoti.-samudra-aya.-vENave.namo.-varuNa-aya.-Darma.pataye.namo.namaH.-sarva-aByo.-nadIByaH
+   ŚGS_4.14.3: sarvāsām.pitre.viśva.karmaṇe.dattam.havir.juṣatām.iti.japitvā	ŚGS_4.14.3: sarvAsAm.-pitre.-viSva.karmaNe.dattam-.havir.juzatAm-.iti.-japitvA
+   ŚGS_4.14.4: pratīpam.sravantībhya.unnīyam.sthāvarābhyaḥ /	ŚGS_4.14.4: pratIpam-.sravantIBya.-unnIyam-.sTAvarAByaH /
+   ŚGS_4.14.5:	ŚGS_4.14.5:
+   taraṃś.ced.bhayam.śaṅked.vāsiṣṭham.sūktam.japet.<.samudra.jyeṣṭhā.>.ity.etat.plavam	taraMS.-cet-.Bayam-.SaFket-.vAsizWam.sUktam-.japet.<.samudra.-jyezWA.>.iti-.etat.-plavam
+   ŚGS_4.15.0: atha.śravaṇā.karma /	ŚGS_4.15.0: aTa.-SravaNA.karma /
+   ŚGS_4.15.1:	ŚGS_4.15.1:
+   śravaṇam.śraviṣṭhīyāyām.paurṇamāsyām.akṣata.saktūnām.sthālī.pākasya.vā.juhoti	SravaNam-.SravizWIyAyAm.-pOrNamAsyAm-.akzata.-saktUnAm.sTAlI.-pAkasya.vA.juhoti
+   ŚGS_4.15.2:	ŚGS_4.15.2:
+   viṣṇave.svāhā.śravaṇāya.svāhā.śrāvaṇyai.paurṇamāsyai.svāhā.varṣābhyaḥ.svāhā.iti	vizNave.svAhA.-SravaNa-aya.svAhA.-SrAvaNyE.pOrNamAsyE.svAhA.-varzAByaH-.svAhA.-iti
+   ŚGS_4.15.3:	ŚGS_4.15.3:
+   gṛhyam.agnim.bāhyata.upasamādhāya.lājān.akṣata.saktūṃś.ca.sarpiṣā.samninīya.juhoti	gRhyam-.agni-m-.bAhyata.upa-samADAya.-lAjAn-.akzata.saktUMS.ca.-sarpizA.-samninIya.juhoti
+   ŚGS_4.15.4:	ŚGS_4.15.4:
+   divyānām.sarpāṇām.adhipataye.svāhā.divyebhyaḥ.sarpebhyaḥ.svāhā.iti /	divyAnAm.sarpANAm-.aDipataye.-svAhA.-divyeByaH.sarpeByaH.svAhA.-iti /
+   ŚGS_4.15.5:	ŚGS_4.15.5:
+   uttareṇa.agnim.prāg.agreṣu.naveṣu.kuśeṣu.uda.kumbham.navam.pratiṣṭhāpya /	uttareNa-.agnim.prAk-.agra-izu.navezu.-kuSa-izu-.uda.-kumBa-m.navam-.pratizWApya /
+   ŚGS_4.15.6:	ŚGS_4.15.6:
+   divyānām.sarpāṇām.adhipatir.ava.neniktām.divyāḥ.sarpā.ava.nenijatām.ity.apo.ninayati	divyAnAm.sarpANAm-.aDipatiH-.ava.neniktAm.divyAH.sarpa-a.ava.nenijatAm-.iti-.apaH-.ninayati
+   ŚGS_4.15.7:	ŚGS_4.15.7:
+   divyānām.sarpāṇām.adhipatiḥ.pra.likhatām.divyāḥ.sarpāḥ.pra.likhantām.iti.phaṇena.ceṣṭayati	divyAnAm.sarpANAm-.aDi-patiH.-pra.liKa-tAm.divyAH.sarpAH.pra.liKantAm.iti.-PaNena.cezwayati
+   ŚGS_4.15.8:	ŚGS_4.15.8:
+   divyānām.sarpāṇām.adhipatiḥ.pra.limpatām.divyāḥ.sarpāḥ.pra.limpantām.iti.varṇakasya.mātrā.ninayati	divyAnAm.sarpANAm-.aDi-patiH.-pra.limpa-tAm.divyAH.sarpAH.pra.limpantAm-.iti.-varNakasya.-mAtrA.-ninayati
+   ŚGS_4.15.9:	ŚGS_4.15.9:
+   divyānām.sarpāṇām.adhipatir.ā.badhnītām.divyāḥ.sarpā.ā.badhnatām.iti.sumanasa.upaharati	divyAnAm-.sarpANAm-.aDipatiH-.A.baDnI-tAm.divyAH.sarpa-a.A.-baDnatAm-.iti.-sumanasa.upaharati
+   ŚGS_4.15.10:	ŚGS_4.15.10:
+   divyānām.sarpāṇām.adhipatir.ā.chādayatām.divyāḥ.sarpā.ā.chādayantām.iti.sūtra.tantum.upaharati	divyAnAm.sarpANAm-.aDipatiH-.A.CAdaya-tAm-.divyAH.sarpA.A.CAdayantAm.iti.-sUtra.tantum-.upaharati
+   ŚGS_4.15.11:	ŚGS_4.15.11:
+   divyānām.sarpāṇām.adhipati.āṅktām.divyāḥ.sarpā.āñjatām.iti.kuśa.taruṇena.upaghātam.āñjanasya.karoti	divyAnAm-.sarpANAm-.aDipati-.A-aFktAm.divyAH.sarpA.An-jatAm.iti.-kuSa.taruNena.-upaGAtam.a-aQjanasya.karoti
+   ŚGS_4.15.12:	ŚGS_4.15.12:
+   divyānām.sarpāṇām.adhipatir.īkṣatām.divyāḥ.sarpā.īkṣantām.ity.āfarśena.ākṣayati	divyAnAm-.sarpANAm-.aDipatiH-.Ikza-tAm-.divyAH.sarpa-a.IkzantAm-.iti-.AfarSena-.Akzayati
+   ŚGS_4.15.13:	ŚGS_4.15.13:
+   divyānām.sarpāṇām.adhipata.eṣa.te.balir.divyāḥ.sarpā.eṣa.vo.balir.iti.balim.upaharati	divyAnAm-.sarpANAm-.aDi-pata-.eza.te.-baliH-.divyAH.sarpa-A.eza.vo.baliH-.iti.-balim.upaharati
+   ŚGS_4.15.14: evam.āntarikṣāṇām /	ŚGS_4.15.14: evam.a-antarikzANAm /
+   ŚGS_4.15.15: diśyānām /	ŚGS_4.15.15: diSyAnAm /
+   ŚGS_4.15.16: pārthivānām.iti /	ŚGS_4.15.16: pArTivAnAm-.iti /
+   ŚGS_4.15.17: tris.trir.uccaistarām.uccaistarām.pūrvam /	ŚGS_4.15.17: tri-s.triH-.uccEstarAm.uccEs-tarAm.-pUrvam /
+   ŚGS_4.15.18: nīcaistarām.nīcaistarām.uttaram /	ŚGS_4.15.18: nIcEs-tarAm.-nIcEH-tarAm.uttaram /
+   ŚGS_4.15.19:	ŚGS_4.15.19:
+   evam.ahar.ahar.akṣata.saktūnām.darveṇa.upaghātam.ā.pratyavarohaṇād.rātrau.vāg.yataḥ.sa.udakam.balim.haret	evam.ahar.ahar.akzata.saktU-nAm-.darveNa-.upaGAtam.A.-pratyavarohaNAt-.rAtrO.vAc-.yataH.sa.udakam-.balim-.haret-
+   ŚGS_4.15.20: vāg.yatā.ca.enam.upasādayed /	ŚGS_4.15.20: vAc-.ya-tA.ca.enam-.upasAdayet /
+   ŚGS_4.15.21: ya.upakramaḥ.sa.utsargaḥ /	ŚGS_4.15.21: ya.upakramaH.sa.utsargaH /
+   ŚGS_4.15.22: <.sutrāmāṇam.>.iti.śayyām.ārohet /	ŚGS_4.15.22: <.sutrAmANam-.>.iti.-SayyAm.a-Arohet /
+   ŚGS_4.16.0: atha.āśvayujī.karma /	ŚGS_4.16.0: aTa.A-SvayujI.-karma /
+   ŚGS_4.16.1: āśvayujyām.paurṇamāsyām.aindraḥ.pāyasaḥ /	ŚGS_4.16.1: ASvayujyAm.-pOrNamAsyAm-.A-EndraH.pAyasaH /
+   ŚGS_4.16.2:	ŚGS_4.16.2:
+   aśvibhyām.svāhā.aśvayugbhyām.svāhā.āśvayujyai.paurṇamāsyai.svāhā.śarade.svāhā.paśupataye.svāhā.piṅgalāya.svāhā.ity.ājyasya.hutvā	aSviByAm-.svAhA.-aSva-yugByAm-.svAhA.-ASvayujyE.-pOrNamAsyE.svAhA.-Sarade.svAhA.-paSupataye.-svAhA.-piFgalAya.svAhA.iti-.Ajyasya.hutvA
+   ŚGS_4.16.3:	ŚGS_4.16.3:
+   atha.pṛṣātakasya.<.ā.gāvo.agmann.>.ity.etena.sūktena.pratyṛcam.juhuyāt /	aTa.-pRzAtakasya.<.A.gAvaH-.agman=-.>.-iti-.etena.su-uktena.-pratyRcam.juhuyAt /
+   ŚGS_4.16.4: mātṛbhir.vatsānt.saṃsṛjanti.tama.rātrīm /	ŚGS_4.16.4: mAtRBiH-.vatsa-ant.-saMsRjanti.tama.rAtrIm /
+   ŚGS_4.16.5: atha.brāhmaṇa.bhojanam /	ŚGS_4.16.5: aTa.-brAhmaNa.-Bojanam /
+   ŚGS_4.17.0: atha.āgrahāyaṇī.karma /	ŚGS_4.17.0: aTa.A-grahAyaNI.-karma /
+   ŚGS_4.17.1: āgrahāyaṇyām.pratyavarohed /	ŚGS_4.17.1: AgrahAyaNyAm-.pratyavarohet /
+   ŚGS_4.17.2: rohiṇyām.proṣṭha.padāsu.vā /	ŚGS_4.17.2: rohiNyAm.prozWa.-padAsu.vA /
+   ŚGS_4.17.3:	ŚGS_4.17.3:
+   prātaḥ.śamī.palāśa.madhūka.iṣīkā.apāmārgāṇām.śirīśa.udumbara.kuśa.taruṇa.badarīṇām.ca.pūrṇa.muṣṭim.ādāya.śītā.loṣṭam.ca	prAtar-.SamI.-palASa.-maDUka-.izIkA.apAmArgANAm.SirISa.udumbara.-kuSa.-taruNa.-badarINAm-.ca.pUrNa.-muzwim.AdAya.SItA.lozwam-.ca
+   ŚGS_4.17.4: uda.pātre.avadhāya /	ŚGS_4.17.4: uda.-pAtre.a-vaDAya /
+   ŚGS_4.17.5:	ŚGS_4.17.5:
+   mahā.vyāhṛtīḥ.sāvitrīm.ca.uddrutya.<.upa.naḥ.śośucad.agham.>.ity.etena.sūktena.tasmin.nimajjya.nimajjya.pradakṣiṇam.śaraṇyebhyaḥ.pāpmānam.apahatya.uttarato.ninayet	mahA.-vyAhRtIH-.sAvitrIm.ca.uddruti-a-.<.upa.naH.SoSuca-d.aGam.>.-iti-.etena.sUktena.tasmin.-nimajjya.-nimajjya.-pradakziNam-.SaraNyeByaH.
+   ŚGS_4.17.6: madhu.parko.dakṣiṇā /	ŚGS_4.17.6: maDu.parkaH-.-dakziNA /
+   ŚGS_4.18.0: atha.sarpa.bali.karma /	ŚGS_4.18.0: aTa.-sarpa.bali.karma /
+   ŚGS_4.18.1:	ŚGS_4.18.1:
+   grīṣmo.hemanta.uta.vā.vasantaḥ.śarad.varṣāḥ.sukṛtam.no.astu.|.teṣām.ṛtūnām.śata.śāradānām.nivāta.eṣām.abhaya.syāma.svāhā.apa.śveta.padā.jahi.pūrveṇa.ca.apareṇa.ca.|.sapta.ca.vāruṇīr.imāḥ.sarvāś.ca.rāja.bāndhavaiḥ.svāhā.śvetāya.vaidārvāya.svāhā.vidārvāya.svāhā.takṣakāya.vaiśāleyāya.svāhā.viśālāya.svāhā.ity.ājyasya.hutvā	grIzmo.hemanta-.uta.va-a.vasantaH.Sarad-.-varzAH.-su-kRta-m.no.aH-tu.|.tezAm-.RtUnAm.Sata.SAradAnAm.nivAta-.ezAm-.aBaya.syAma.svAhA.apa.Sve
+   ŚGS_4.18.2:	ŚGS_4.18.2:
+   suhemantaḥ.suvasantaḥ.sugrīṣmaḥ.prati.dhīyatām.|.suvarṣāḥ.santu.no.varṣāḥ.śaradaḥ.śam.bhavantu.na.iti	suhemantaH.-su-vasantaH.-su-grIzmaH.prati.DIya-tAm.|.-su-varzAH.santu.-no.-varzAH.SaradaH.Sam.Bavantu.na.-iti
+   ŚGS_4.18.3: <.śam.no.mitra.>.iti palāśa.śākhayā.vimṛjya /	ŚGS_4.18.3: <.Sam.naH-.mitra.>.iti palASa.SAKayA-a.vimRjya /
+   ŚGS_4.18.4: <.samudrād.ūrmir.>.ity.abhyukṣya /	ŚGS_4.18.4: <.-samudrAt-.UrmiH-.>.iti-.aByukzya /
+   ŚGS_4.18.5: <.syonā.pṛthivi.bhava.>.iti.srastaram.āstīrya /	ŚGS_4.18.5: <.syonA.-pRTivi.Bava-.>.iti.-srastaram.A-AstIryaH /
+   ŚGS_4.18.6: jyeṣṭha.dakṣiṇāḥ.pārśvaiḥ.saṃviśanti /	ŚGS_4.18.6: jyezWa.-dakziNAH.pArSvEH.saMviSanti /
+   ŚGS_4.18.7: prati.brahman.prati.tiṣṭhāmi.kṣatra.iti.dakṣiṇaiḥ /	ŚGS_4.18.7: prati.brahman.prati.tizWAmi.kzatra-.iti.-dakziNEH /
+   ŚGS_4.18.8: praty.aśveṣu.prati.tiṣṭhāmi.goṣv.iti.savyaiḥ /	ŚGS_4.18.8: praty.aSva-izu.-prati.tizWA-mi.gozu-.iti.-savyEH /
+   ŚGS_4.18.9: prati.paśuṣu.prati.tiṣṭhāmi.puṣtāv.iti.dakṣiṇaiḥ /	ŚGS_4.18.9: prati.paSuzu.-prati.tizWA-mi.puztO=-.iti.-dakziNEH /
+   ŚGS_4.18.10: prati.prajāyām.prati.tiṣṭhāmy.anna.iti.savyaiḥ /	ŚGS_4.18.10: prati.prajAyAm.-prati.tizWAmi-.anna-.iti.-savyEH /
+   ŚGS_4.18.11: <.ud.īrdhvam.jīva.>.ity.utthānam /	ŚGS_4.18.11: <.ud.IrDvam-.jIva-.>.iti-.utTAnam /
+   ŚGS_4.18.12: srastare.tām.rātrim.śerate /	ŚGS_4.18.12: srastare.-tAm-.rAtrim-.Serate /
+   ŚGS_4.18.13: yathā.sukham.ata.ūrdhvam /	ŚGS_4.18.13: yaTA.-suKam-.ata.UrDvam /
+   ŚGS_4.19.0: atha.caitrī.karma /	ŚGS_4.19.0: aTa.-cEtrI.-karma /
+   ŚGS_4.19.1: caitryām.paurṇamāsyām /	ŚGS_4.19.1: cEtryAm.-pOrNamAsyAm /
+   ŚGS_4.19.2: karkandhu.parṇāni.mithunānām.ca.yathā.upapādam.piṣṭasya.kṛtvā	ŚGS_4.19.2: karkanDu.-parNA-ni.miTunAnAm-.ca.yaTA.upapAdam-.pizwasya.kRtvA
+   ŚGS_4.19.3: aindrāgnas.tuṇḍilaḥ /	ŚGS_4.19.3: Endra-agna-s.tuNxilaH /
+   ŚGS_4.19.4: raudrā.golakāḥ /	ŚGS_4.19.4: rOdrA.golakAH /
+   ŚGS_4.19.5:	ŚGS_4.19.5:
+   lokato.nakṣatrāṇy.anvākṛtayaś.ca.lokato.nakṣatrāṇy.anvākṛtayaś.ca /	lokato.nakzatrANi-.anvAkRta-yaS.ca.lokato.nakzatrANi-.anvAkRtayaS.ca /
+   ŚGS_5.1.0: atha.samārohaṇam /	ŚGS_5.1.0: aTa.-samArohaNam /
+   ŚGS_5.1.1: atha.pravatsyann.ātmann.araṇyoḥ.samidhi.vā.agnim.samārohayati /	ŚGS_5.1.1: aTa.-pravatsyan=-.a-Atman=-.araNyoH.samiDi.vA.agnim-.samArohayati /
+   ŚGS_5.1.2: ehi.me.prāṇān.ā.roha.iti.sakṛt.sakṛn.mantreṇa.dvir-dvis.tūṣṇīm	ŚGS_5.1.2: ehi.me.-prANAn-.A.roha-.iti.-sakRt.-sakRn.mantreNa.dvir-dvi-s.tUzNIm
+   ŚGS_5.1.3: ayam.te.yonir.iti.vā.araṇī.pratitapati /	ŚGS_5.1.3: ayam.te.yoniH-.iti.vA.araNI.-pratitapati /
+   ŚGS_5.1.4: samidham.vā /	ŚGS_5.1.4: samiDam-.vA /
+   ŚGS_5.1.5: anastamite.ca.manthanam /	ŚGS_5.1.5: anastamite.-ca.manTanam /
+   ŚGS_5.1.6: vaiśvadeva.kāle.ca /	ŚGS_5.1.6: vESvadeva.-kAle.ca /
+   ŚGS_5.1.7:	ŚGS_5.1.7:
+   upalipta.uddhata.avokṣite.laukikam.agnim.āhṛtya.upāvaroha.ity.upāvarohaṇam	upalipta-.udData-.ava-ukzite.-lOkikam-.agni-m.A-hRtya.upAvaroha-.iti-.upAvarohaNam
+   ŚGS_5.1.8:	ŚGS_5.1.8:
+   anugate.agnau.sarva.prāyaś.citta.āhutī.hutvā.pāhi.no.agna.edhase.svāhā.pāhi.no.viśva.vedase.svāhā.yajñam.pāhi.vibhāvaso.svāhā.sarvam.pāhi.śata.krato.svāhā.iti	anugate.agnO.-sarva.-prAya-S.citta.a-AhutI.hu-tvA-a.-pAhi.naH-.agna-.eDase.svAhA.-pAhi.no.-viSva.vedase.svAhA.-yajQam-.pAhi.-viBAvaso.svAhA.-sarv
+   ŚGS_5.1.9: vrata.hānā.upoṣya.ājyasya.hutvā.<.tvam.agne.vratapā.>.iti /	ŚGS_5.1.9: vrata.hAnA.-upozya-.Ajyasya.hutvA-a.<.-tvam-.agne.vrata-pA.>.iti /
+   ŚGS_5.2.0: atha.utsargaḥ /	ŚGS_5.2.0: aTa.utsargaH /
+   ŚGS_5.2.1: atha.puṣkariṇī.kūpa.taḍāgānām /	ŚGS_5.2.1: aTa.-puzkariNI.kUpa-.-taxAgAnAm /
+   ŚGS_5.2.2: śuddha.pakṣe.puṇye.vā.tithau /	ŚGS_5.2.2: SudDa.pakze.-puNye.vA.tiTO /
+   ŚGS_5.2.3: payasā.yavamayam.carum.śrapayitvā /	ŚGS_5.2.3: payasA-a.yavam-ayam-.carum.SrapayitvA /
+   ŚGS_5.2.4:	ŚGS_5.2.4:
+   <.tvam.no.agna.>iti.dvābhyām.<.ava.te.heḷa.>.<.imam.me.varuna.>.<.ud.uttamam.varuṇa.>.<.imām.dhiyam.śikṣamāṇsya.>	<.tva-m.naH-.agna.>iti.dvAByAm-.<.ava.te.-he?a.>.<.imam-.me.-varuna-.>.<.ud.uttamam.varuNa-.>.<.imAm-.Diyam.-Sikza-mANsya.>
+   ŚGS_5.2.5:	ŚGS_5.2.5:
+   gṛhyo.apagṛhyo.mayobhūr.ākharo.nikharo.nihsaro.nikāmaḥ.sapatna.dūṣaṇa.iti.vāruṇyā.dik.prabhṛti.pradakṣiṇam.juhuyāt	gRhyaH-.apagRhya-u.mayaH-BUH-.A-Karo.-niKaraH-.-nihsaraH-.-nikAmaH.sapatna.dUzaNa-.iti.vAruNyA.dik.-praBRti.-pradakziNam-.ju-huyAt-
+   ŚGS_5.2.6: madhye.payasā.juhoti.<.viśvataś.cakṣur.>.<.idam.viṣṇur.>.iti /	ŚGS_5.2.6: maDye.-payasA.juhoti.<.viSvataS.cakzuH-.>.<.idam-.vizNuH-.>.iti /
+   ŚGS_5.2.7: <.yat.kim.ca.idam.>.iti.majjayitvā /	ŚGS_5.2.7: <.yat.-kim.ca.idam-.>.iti.majjayitvA /
+   ŚGS_5.2.8: dhenur.dakṣiṇā.vastra.yugma.ca /	ŚGS_5.2.8: DenuH-.dakziNA.vastra.yugma.ca /
+   ŚGS_5.2.9: ato.brāhmaṇa.bhojanam /	ŚGS_5.2.9: atas-.brAhmaNa-.-Bojanam /
+   ŚGS_5.3.0: atha.ārāma.pratiṣṭhā.karma /	ŚGS_5.3.0: aTa.A-ArAma.-pratizWA.-karma /
+   ŚGS_5.3.1: atha.ārāme.agnim.upasamādhāya /	ŚGS_5.3.1: aTa.A-ArAme.agnim-.upasamADAya /
+   ŚGS_5.3.2: sthālī.pākam.śrapayitvā /	ŚGS_5.3.2: sTAlI.-pAkam-.SrapayitvA /
+   ŚGS_5.3.3:	ŚGS_5.3.3:
+   viṣṇave.svāhā.indra.agnibhyām.svāhā.viśva.karmaṇe.svāhā.iti.<.yān.vo.nara.>.iti.pratyṛcam.juhuyād	vizNave.-svAhA.-indra-.agniByAm-.svAhA.-viSva.karmaNe.svAhA.iti.<.yAn.vo.nara-.>.iti.-pratyRcam.juhuyAt-
+   ŚGS_5.3.4: <.vanas.pate.śata.valśa.>.ity.abhimantrya /	ŚGS_5.3.4: <.vanas.pate.-Sata.valSa.>.iti-.aBimantrya /
+   ŚGS_5.3.5: hiraṇyam.dakṣiṇā /	ŚGS_5.3.5: hiraNyam.dakziNA /
+   ŚGS_5.4.0: atha.prāyaś.cittayaḥ /	ŚGS_5.4.0: aTa.-prAya-S.cittayaH /
+   ŚGS_5.4.1: yadi.pārvaṇas.tv.akṛto.anyataras.tataś.caruḥ /	ŚGS_5.4.1: yadi.pArvaNa-s.tv.a-kRtaH-.anyatara-s.tata-S.caruH /
+   ŚGS_5.4.2: agnaye.vaiśvānarāya.svāhā.agnaye.tantumate.svāhā.iti /	ŚGS_5.4.2: agnaye.-vESvAnara-aya.-svAhA.-agnaye.-tantumate.svAhA.-iti /
+   ŚGS_5.4.3: homa.atikrame /	ŚGS_5.4.3: homa.atikrame /
+   ŚGS_5.4.4: sāyam.dośā.vastar.namaḥ.svāhā /	ŚGS_5.4.4: sAyam.doSA.-vastar.-namaH.svAhA /
+   ŚGS_5.4.5: prātaḥ.prātar.vastar.namaḥ.svāhā.iti /	ŚGS_5.4.5: prAtaH.-prAtar-.vastar.-namaH.svAhA.iti /
+   ŚGS_5.4.6: yāvanto.homās.tāvatīr.hutvā.pūrvavadd.homaḥ /	ŚGS_5.4.6: yAvantaH-.homa-As.tAvatIr.hu-tvA.-pUrvavat-d.homaH /
+   ŚGS_5.5.1: kapota.ulūkābhyām.upaveśane /	ŚGS_5.5.1: kapota.ulUkAByAm-.upaveSane /
+   ŚGS_5.5.2: <.devāḥ.kapota.>.iti.pratyṛcam.juhuyāt /	ŚGS_5.5.2: <.devAH-.kapota-.>.iti.-pratyRcam.juhuyAt /
+   ŚGS_5.5.3: duhsvapna.darśane.ca.ariṣṭa.darśane.ca /	ŚGS_5.5.3: duhsva-pna.-darSaneH-ca.arizwa.-darSaneH-ca /
+   ŚGS_5.5.4: niśāyām.kāka.śabda.krānte.ca /	ŚGS_5.5.4: niSAyAm.-kAka.-Sabda-.krAnteH-ca /
+   ŚGS_5.5.5: anyeṣu.ca.adbhuteṣu.ca /	ŚGS_5.5.5: anya-izu.ca.adButa-izu.ca /
+   ŚGS_5.5.6: payasā.carum.śrapayitvā /	ŚGS_5.5.6: payasA-a.carum-.SrapayitvA /
+   ŚGS_5.5.7: sarūpa.vatsāya.goḥ.payasi /	ŚGS_5.5.7: sarUpa.vatsAya.-goH.payasi /
+   ŚGS_5.5.8: na.tv.eva.tu.kṛṣṇāyāḥ /	ŚGS_5.5.8: na.tu-.eva.tu.-kRzNAyAH /
+   ŚGS_5.5.9: rātrī.sūktena.pratyṛcam.juhuyāt /	ŚGS_5.5.9: rAtrI.-su-uktena.-pratyRcam.juhuyAt /
+   %RV 10.127	%RV 10.127
+   ŚGS_5.5.10: huta.śeṣam.mahā.vyāhṛtitibhiḥ.prāśya /	ŚGS_5.5.10: huta.-Seza-m.mahA.-vyAhRtitiBiH.prASya /
+   ŚGS_5.5.11: <.bhadram.karṇebhir.>.iti.karṇau /	ŚGS_5.5.11: <.Badram.karNeBiH-.>.iti.karNO /
+   ŚGS_5.5.12: <.śatam.in.nu.śarado.anti.devā.>.ity.ātmānam.abhimantrya /	ŚGS_5.5.12: <.Satam.in.nu.Sara-do.anti.-devA.>.iti-.AtmAnam-.aBimantrya /
+   ŚGS_5.5.13: brāhmaṇebhyaḥ.kiṃcid.dadyāt /	ŚGS_5.5.13: brAhmaNeByaH-.kiMcid-.dadyAt /
+   ŚGS_5.6.1: vyādhau.samutthite /	ŚGS_5.6.1: vyADO.-samutTite /
+   ŚGS_5.6.2:	ŚGS_5.6.2:
+   <.imā.rudrāya.tavase.kapardina.>.iti.pratyṛcam.gāvedhukam.carum.juhuyāt /	<.imA.-rudra-Aya.tava-se.kapardina.>.iti.-pratyRcam.ga-AveDukam-.carum-.juhuyAt /
+   ŚGS_5.7.1: akṛta.sīmanta.unnayane.cet.prajāyeta /	ŚGS_5.7.1: akRta.sImanta.unnayane.cet.-prajAyeta /
+   ŚGS_5.7.2: akṛta.jāta.karmā.āsīt /	ŚGS_5.7.2: akRta.jAta.-karmA.-AsIt /
+   ŚGS_5.7.3: tato.atīte.daśāha.utsaṅge.mātuḥ.kumārakam.sthāpayitvā /	ŚGS_5.7.3: tatas-.atI-te.daSa-aha-.utsaFge.mAtuH.kumArakam-.sTApayitvA /
+   ŚGS_5.7.4: mahā.vyāhṛtibhir.hutvā.pūrvavadd.homaḥ /	ŚGS_5.7.4: mahA.-vyAhRtiBiH-.hu-tvA.-pUrvavat-d.homaH /
+   ŚGS_5.8.1: sthū.nā.virohaṇe /	ŚGS_5.8.1: sTU.nA.-virohaNe /
+   ŚGS_5.8.2:	ŚGS_5.8.2:
+   sthālī.pākam.śrapayitvā.<.ayā.viṣṭhā.janayan.karvarāṇi.>.<.piśaṅga.rūpaḥ.subharo.vayodhā.>.iti.dvābhyām.carum.juhuyāt/	sTAlI.-pAkam-.SrapayitvA-a.<.ayA.-vizWA.-janayan.-karvarANi-.>.<.pi-SaFga.-rUpaH.su-BaraH-.vayoDA.>.iti.dvAByAm-.carum-.juhuyAt/
+   %ŚSS 3.17.1 RV 2.3.9.	%ŚSS 3.17.1 RV 2.3.9.
+   ŚGS_5.8.3:	ŚGS_5.8.3:
+   yadi.praṇītā.carur.ājya.sthāly.anyad.api.mṛnmayam.bhinnam.sravet /	yadi.praNItA.-carur.A-Ajya.-sTAlI-.anyat-.api.mRd-mayam-.Binnam-.sravet /
+   ŚGS_5.8.4:	ŚGS_5.8.4:
+   sarva.prāyaś.citta.āhutī.hutvā.<.ya.ṛte.cid.>.iti.tṛcena.bhinnam.anumantrayate	sarva.-prAya-S.citta.a-AhutI.-hutvA-a.<.ya-.Rte.cit-.>.iti.tRcena.-Binnam-.anumantrayate
+   ŚGS_5.8.5: yady.asamāpte.home.pavitre.naśyete /	ŚGS_5.8.5: yadi-.a-samApte.-home.-pavitre.na-Syete /
+   ŚGS_5.8.6: sarva.prāyaś.cittam.hutvā.apsv.agna.iti.punar.utpādayet /	ŚGS_5.8.6: sarva.-prAya-S.cittam-.hutvA-a.apsu-.agna-.iti.-punar.utpAdayet /
+   ŚGS_5.9.0: atha.sapiṇḍī.karaṇam /	ŚGS_5.9.0: aTa.-sapiNxI.-karaNam /
+   ŚGS_5.9.1: atha.sapiṇḍī.karaṇam /	ŚGS_5.9.1: aTa.-sapiNxI.-karaNam /
+   ŚGS_5.9.2: catvāry.uda.pātrāṇi.pūrayitvā.samanasaḥ.pitaro.yama.rājye /	ŚGS_5.9.2: catvAri-.uda.-pAtra-aNi.-pUrayitvA-a.sa-manasaH.pitaro.yama.-rAjye /
+   ŚGS_5.9.3: teṣām	ŚGS_5.9.3: tezAm
+   lokaḥ.svadhā.namo.yajño.deveṣu.kalpatām.ye.samānāḥ.samanaso.jīvā.jīveṣu.māmakāḥ	lokaH.svaDA.na-maH-.yajQaH-.deva-izu.-kalpa-tAm.ye.-samAnAH.sa-manaso.jIvA.jIvezu.mAmakAH
+   ŚGS_5.9.4:	ŚGS_5.9.4:
+   teṣām.śrīr.mayi.kalpatām.asmin.loke.śatam.samāḥ.<.samāno.mantra.>.iti.dvābhyām.ādyam.piṇḍam.triṣu.vibhajet	tezAm-.SrIH-.mayi.-kalpa-tAm-.asmin-.loke.-Satam.-samAH.<.-samAno.mantra-.>.iti.-dvAByAm-.Adyam-.piNxam-.trizu.-viBajet-
+   ŚGS_5.9.5: tathā.eva.argha.pātrāṇi /	ŚGS_5.9.5: taTA-a.eva-.arGa.-pAtrANi /
+   ŚGS_5.9.6:	ŚGS_5.9.6:
+   evam.mātur.bhrātur.bhāryāyāḥ.pūrvamāriṇyā.ebhiḥ.piṇḍaiḥ.prakṣipya /	evam-.mAtuH-.BrAtuH-.BAryAyAH.pUrva-mAriNya-a.eBiH.piNxEH.prakzipya /
+   ŚGS_5.10.0: atha.prāyaś.cittayaḥ /	ŚGS_5.10.0: aTa.-prAya-S.cittayaH /
+   ŚGS_5.10.1: yadi.gṛhe.madhūkā.madhu.kurvanti /	ŚGS_5.10.1: yadi.gRhe.maDUkA.-maDu.kurvanti /
+   ŚGS_5.10.2:	ŚGS_5.10.2:
+   upoṣyau.audumbarīḥ.samidho.aṣṭa.śatam.dadhi.madhu.ghṛta.aktā.<.mā.nas.toka.>.iti.dvābhyām.juhuyāt	upozyO.OdumbarIH.samiDaH-.azwa.Satam.daDi.maDu.-GRta-.aktA.<.mA.na-s.toka-.>.iti.dvAByAm-.ju-huyAt-
+   ŚGS_5.10.3:	ŚGS_5.10.3:
+   <.śam.no.indra.agnī.>.iti.ca.sūktam.japet.sarveṣu.ca.karmasu.pratiśruta.ādiṣu	<.Sam.naH-.indra-.agnI.>.iti.ca.su-uktam-.ja-pet.-sarva-izu.-ca.karma-su.pratiSruta-.Adizu
+   ŚGS_5.10.4:	ŚGS_5.10.4:
+   prādeśa.mātrīḥ.pālāśīḥ.samidhaḥ.saptadaśa.hutvā.paścāt.sruva.grahaṇam /	prAdeSa.-mAtrIH-.pAlASIH.-samiDaH.-saptadaSa.hutvA-a.paH-cAt.sruva.-grahaNam /
+   ŚGS_5.10.5: darśa.pūrṇa.māsayoḥ.pañcadaśa /	ŚGS_5.10.5: darSa.-pUrNa.-mAsayoH-.paQcadaSa /
+   ŚGS_5.10.6: madhya.āvarṣe.aṣṭake.tisro.vā.bhavanti.pitṛ.yajñavadd.homaḥ /	ŚGS_5.10.6: maDya.Avarze.azwake.tisraH-.vA.Bavanti.-pitR-.yajQa-vat-d.homaH /
+   ŚGS_5.11.1: yadi.gṛhe.valmīka.sambhūtir.gṛha.utsargaḥ /	ŚGS_5.11.1: yadi.gRhe.valmIka.samBUtiH-.gRha.utsargaH /
+   ŚGS_5.11.2: atha.trirātram.upoṣya.mahā.śāntim.kuryāt.mahā.śāntim.kuryāt /	ŚGS_5.11.2: aTa.tri-rAtram.upozya.-mahA.-SAntim-.kuryAt.mahA.-SAntim-.kuryAt /
+   ŚGS_6.1.0: svādhyāya.āraṇyaka.niyamāḥ /	ŚGS_6.1.0: svADyAya.AraNyaka.niyamAH /
+   ŚGS_6.1.1:	ŚGS_6.1.1:
+   atha.ato.brahmāṇam.brahmarṣim.brahma.yonim.indram.prajāpatim.vasiṣṭham.vāmadevam.kaholam.kauṣītakim.mahā.kauṣītakim.suyajñam.śāṅkhāyanam.āśvalāyanam.aitareyam.mahā.aitareyam.kātyāyanam.śāṭyāyanam.śākalyam.babhrum.bābhravyam.maṇḍum.māṇḍavyam.sarvān.eva.pūrva.ācāryān.namasya.svādhyāya.āraṇyakasya.niyamān.udāhariṣyāmaḥ	aTa.ato.-brahmANam-.brahma-rzi-m-.brahma.yonim-.indram.prajApatim-.vasizWam-.vAmadevam-.kaholam-.kOzIta-kim.mahA-a.kOzIta-kim.su-yajQam-.SAFKAy
+   ŚGS_6.1.2: ahorātram.brahmacaryam.upetya.ācāryo.amāṃsa.āśī /	ŚGS_6.1.2: ahorAtram-.brahmacaryam-.upetya-.AcAryaH-.a-mAMsa-.ASI /
+   ŚGS_6.1.3:	ŚGS_6.1.3:
+   āma.piśitam.caṇḍālam.sūtikām.rajasvalām.tedany.apahastaka.darśanāny.anadhyāyakāni	Ama.piSitam-.caNxAlam.sUti-kAm.-rajasvalA-m.tA-idany.apahasta-ka.darSanAni-.ana-DyAyakAni
+   ŚGS_6.1.4: śava.rūpāṇām.ca /	ŚGS_6.1.4: Sava.-rUpANAm-.ca /
+   ŚGS_6.1.5: yāny.āsye.na.praviśeyuḥ /	ŚGS_6.1.5: yAni-.Asye.na.-praviSeyuH /
+   ŚGS_6.1.6: vānta.kṛta.śmaśru.karma /	ŚGS_6.1.6: vAnta.-kRta.-SmaSru.-karma /
+   ŚGS_6.1.7: māṃsa.aśana.śrāddha.sūtaka.bhojaneṣu /	ŚGS_6.1.7: mAMsa-.aSana.-SrAdDa.-sUta-ka.Bojanezu /
+   ŚGS_6.1.8: grāma.adhyayana.anantarhitāny.ahāni /	ŚGS_6.1.8: grAma-.aDyayana-.anantarhitAni-.ahAni /
+   ŚGS_6.1.9: trirātro.anavaklṛptaḥ /	ŚGS_6.1.9: tri-rAtra-u.anavaklRptaH /
+   ŚGS_6.1.10: para.abhimṛṣṭaḥ /	ŚGS_6.1.10: para-.aBimRzwaH /
+   ŚGS_6.1.11: upaparvaṇām.ahna.uttara.ardhāni.ca /	ŚGS_6.1.11: upaparvaNAm-.ahna.uttara.arDAni.ca /
+   ŚGS_6.1.12: agni.vidyut.stanayitnu.varṣā.mahā.abhra.prādurbhāvāc.ca /	ŚGS_6.1.12: agni.-vidyut.H-tanayitnu.-varzA.-mahA-.aBra.-prAdurBAvAt-.ca /
+   ŚGS_6.1.13: vāte.ca.śarkara.ākarṣiṇi.yāvat.kālam /	ŚGS_6.1.13: vAte.ca.Sarkara-.AkarziNi.yAvat.kAlam /
+   ŚGS_6.2.1: ūrdhvam.āṣāḍhyāś.caturo.māsān.na.adhīyīta /	ŚGS_6.2.1: UrDvam.AzAXya-AS.-caturo.mAsAn-.na.aDIyIta /
+   ŚGS_6.2.2: atyantam.śakvarya.iti.niyamāḥ /	ŚGS_6.2.2: atyantam-.SakvarI-a-.iti.-niyamAH /
+   ŚGS_6.2.3: prāg.jyotiṣam.aparājitāyām.diśi.puṇyam.upagamya.deśam /	ŚGS_6.2.3: prAk-.jyotizam-.aparAjitAyAm-.diSi.-puNyam-.upagamya.deSam /
+   ŚGS_6.2.4: anudita.udaka.grahaṇam /	ŚGS_6.2.4: anudita-.udaka.-grahaNam /
+   ŚGS_6.2.5: .maṇḍala.praveśaś.ca.<.añjana.gandhim.>.ity.etayā.ṛcā /	ŚGS_6.2.5: .maNxala.praveSa-S.ca.<.aQjana-.ganDim.>.-iti-.etayA.RcA /
+   ŚGS_6.2.6:	ŚGS_6.2.6:
+   maṇḍalam.tu.prāg.dvāram.udag.dvāram.vā.ajanāgrīyam.asampramāṇam.asambādham	maNxala-m.tu.-prAg.-dvAram-.uda-g.dvAram-.vA.ajana-agrIyam.a-sampramANam.a-sambADam
+   ŚGS_6.2.7: ā.vāmadevyam.uttara.śāntiḥ /	ŚGS_6.2.7: A.vAmadevyam-.uttara.-SAntiH /
+   ŚGS_6.2.8: punaḥ.prādhyeṣaṇam.ca /	ŚGS_6.2.8: punar-.-prADyezaNam-.ca /
+   ŚGS_6.2.9: bahir.maṇḍalasthābhir.ācamya /	ŚGS_6.2.9: bahis-.maNxala-sTABiH-.Acamya /
+   ŚGS_6.2.10: prādhīyīran.kṛta.śāntayaḥ /	ŚGS_6.2.10: prADIyIran.kRta.-SAntayaH /
+   ŚGS_6.2.11: śānti.pātra.upaghāte.prokṣaṇam.prāyaś.cittiḥ /	ŚGS_6.2.11: SAnti.-pAtra-.upaGAte.-prokzaNam-.prAya-S.cittiH /
+   ŚGS_6.2.12: prokṣaṇam.tu.hiraṇyavatā.pāṇinā.darbha.piñjūlavatā.vā /	ŚGS_6.2.12: prokzaNam.tu.-hiraNyavatA.-pANinA.-darBa.-piQjUlavatA-a.-vA /
+   ŚGS_6.2.13: iti.bhāṣikam /	ŚGS_6.2.13: iti.BAzikam /
+   ŚGS_6.3.1: atha.praviśya.maṇḍalam /	ŚGS_6.3.1: aTa.-praviSya.-maNxalam /
+   ŚGS_6.3.2:	ŚGS_6.3.2:
+   prān.mukha.ācārya.upaviśaty.udan.mukhā.dakṣiṇata.itare.yathā.pradhānam /	prAn.muKa-.a-AcArya-.upaviSati-.udan.muKA.-dakziNata.itare.-yaTA.-praDAnam /
+   ŚGS_6.3.3: asambhave.sarvato.mukhāḥ /	ŚGS_6.3.3: asamBave.-sarvato.muKAH /
+   ŚGS_6.3.4: pratīkṣerann.udayam.ādityasya /	ŚGS_6.3.4: pratIkzerann.udayam-.Adityasya /
+   ŚGS_6.3.5: vijñāya.ca.enam.dīdhitimantam /	ŚGS_6.3.5: vijQAya.ca.enam.dIDitimantam /
+   ŚGS_6.3.6:	ŚGS_6.3.6:
+   <.adhīhi.bho.>.iti.dakṣiṇair.dakṣiṇam.savyaiḥ.savyam.dakṣiṇa.uttaraiḥ.pāṇibhir.upasaṃgṛhya.pādāv.ācāryasya.nirṇiktau	<.aDI-hi.Bo.>.iti.-dakziNEH-.dakziNam-.savyEH.savyam-.dakziNa.uttarEH.-pANiBiH-.upasaMgRhya.-pAdO=-.AcArya-sya.-nirNiktO
+   ŚGS_6.3.7:	ŚGS_6.3.7:
+   atha.ādhāya.śānti.pātre.dūrvā.kāṇḍavatīṣv.apsv.apinvamānaiḥ.pāṇibhiḥ.prādhīyīran	aTa.A-ADAya.-SAnti.-pAtre.-dUrvA.-kANxavatIzu-.apsu-.a-pinvamAnEH.pANiBiH.-prADIyIran
+   ŚGS_6.3.8:	ŚGS_6.3.8:
+   eṣa.vidhirṇyadi.tu.glāyerann.eka.eṣām.aśūnyam.śānti.bhājanam.kuryād /	eza.-viDirNya-di.tu.glAyeran=-.eka-.ezAm-.a-SUnyam.SAnti.-BAjanam-.kuryAt /
+   ŚGS_6.3.9: adhyāya.ādy.antayoś.ca.sarve /	ŚGS_6.3.9: aDyAya-.Adi-.antaya-uS.ca.-sarve /
+   ŚGS_6.3.10: tat.saṃtatam.avyavachinnam.bhavati /	ŚGS_6.3.10: tat.saMtatam-.avyavaCinnam-.Bavati /
+   ŚGS_6.3.11: atha.śāntiḥ /	ŚGS_6.3.11: aTa.-SAntiH /
+   ŚGS_6.3.12:	ŚGS_6.3.12:
+   om.kāro.mahā.vyāhṛtayaḥ.sāvitrī.rathantaram.bṛhad.vāmadevyam.punar.ādāyam.kakup.kāram.iti.bṛhad.rathantare	om.kAraH-.-mahA.-vyAhRtayaH.sAvitrI.-raTantaram-.bRhad.vAmadevyam-.punar.AdAyam.ka-kup.kAram.iti.-bRhat-.raTantare
+   ŚGS_6.3.13: daśa.etāḥ.sampāditā.bhavanti /	ŚGS_6.3.13: daSa-.etAH.-sampAditA.-Bavanti /
+   ŚGS_6.3.14: daśa.daśiṇī.virāḍ.ity.etad.brāhmaṇam /	ŚGS_6.3.14: daSa.da-SiNI.-virAj-.-iti-.etat-.brAhmaNam /
+   ŚGS_6.4.1:	ŚGS_6.4.1:
+   adabdham.mana.iṣiram.cakṣuḥ.sūryo.jyotiṣām.śreṣṭho.dīkṣe.mā.mā.hiṃsīr.iti.savitārma.īkṣante	adabDam.mana-.iziram-.cakzuH.-sUryaH-.jyotizAm.SrezWaH-.dIkze.mA.mA.-hiMsIH-.iti.-savitArma-.Ikzante
+   ŚGS_6.4.2:	ŚGS_6.4.2:
+   <.yuvam.surāmam.>.ity.ekā.<.svasti.naḥ.pathyāsv.>.iti.ca.tisra.iti.mahā.vratasya	<.yuvam.surAmam-.>.iti-.ekA.<.svasti.naH.paTyA-su-.>.iti.-ca.ti-sra.iti.-mahA.vratasya
+   ŚGS_6.4.3: śakvarīṇām.tu.pūrvam /	ŚGS_6.4.3: SakvarINa-am.tu.-pUrvam /
+   ŚGS_6.4.4:	ŚGS_6.4.4:
+   <.praty.asmai.pipīṣate.>.<.yo.rayivo.rayitamas.>.<.tyam.u.vo.aprahaṇam.>.iti.trayas.tṛcāḥ.<.asmā.asmā.id.andhasa.>.ity.<.evā.hy.asi.vīrayur.>.ity.abhitaḥ.śakvarīṇām	<.-praty.asmE.-pipIzate.>.<.yo.rayi-vo.rayitamas.>.<.ti-am.u.vo.a-prahaNa-m.>.iti.-traya-s.tR-cAH.<.asmA.-asmA.id.anDasa.>.iti-.<.eva-a.hi-.a
+   ŚGS_6.4.5: atha.upaniṣadām /	ŚGS_6.4.5: aTa.-upanizadAm /
+   ŚGS_6.4.6: yā.evam.mahāṇvratasya /	ŚGS_6.4.6: yA.-evam.mahANu-ratasya /
+   ŚGS_6.4.7:	ŚGS_6.4.7:
+   saṃhitānām.tu.pūrvam.ṛtam.vadiṣyāmi.satyam.vadiṣyāmi.iti.viśeṣaḥ /	saMhitAnAm.tu.-pUrvam-.Rtam-.vadizyAmi.-satyam-.vadizyAmi-.iti.-viSezaH /
+   ŚGS_6.4.8:	ŚGS_6.4.8:
+   atha.manthasya.tat.savitur.vṛṇīmahe.<.tat.savitur.vareṇyam.>.iti.pūrve.ca	aTa.manTasya.tat.-savituH-.vRNIm-ahe.<.-tat.savituH-.vareNyam.>.iti.-pUrvet-ca
+   ŚGS_6.4.9: <.adabdham.mana.>.ity.ādhikārikāḥ.śāntayas.tataḥ /	ŚGS_6.4.9: <.adabDam.mana.>.iti-.ADi-kArikAH.SAntaya-s.tataH /
+   ŚGS_6.4.10: ity.āhnikam /	ŚGS_6.4.10: iti-.Ahnikam /
+   ŚGS_6.4.11: atha.utthāna.kāle.apakṛṣya.pāpam /	ŚGS_6.4.11: aTa.-utTAna.-kAle.apakRzya.-pApam /
+   ŚGS_6.4.12: nityām.śāntim.kṛtvā /	ŚGS_6.4.12: nitya-Am.SAntim-.kRtvA /
+   ŚGS_6.4.13: ud.itaḥ.śukriyam.dadha.ity.ādityam.īkṣante /	ŚGS_6.4.13: ud.itaH.Sukriyam-.daDa.iti-.Adityam-.Ikzante /
+   ŚGS_6.5.1: tam.aham.ātmani.ity.ātmānam.abhinihitam.trir.hitam /	ŚGS_6.5.1: tam.aham.Atma-ni.ity.AtmAnam-.aBinihitam-.triH-.hitam /
+   ŚGS_6.5.2: upa.mā.śrīr.juṣatām.upa.yaśo.anu.mā.śrīr.juṣatām.anu.yaśaḥ /	ŚGS_6.5.2: upa.mA.-SrIH-.juza-tAm-.upa.yaSo.anu.mA.-SrIH-.juzatAm-.anu.yaSaH /
+   ŚGS_6.5.3:	ŚGS_6.5.3:
+   sa.indraḥ.sagaṇaḥ.sabalaḥ.sayaśaḥ.savīrya.ut.tiṣṭhāṇi.ity.uttiṣṭhati /	sa.indra-H.sa-gaNaH.sa-balaH.sa-yaSaH.-sa-vIrya-.ut.tizWANi.iti-.uttizWati /
+   ŚGS_6.5.4: śrīr.mā.ut.tiṣṭhantu.yaśo.mā.ut.tiṣṭhatv.ity.utthāya /	ŚGS_6.5.4: SrIH-.mA.ut.-tizWantu.-yaSaH-.mA.ut.-tizWatu-.iti-.utTAya /
+   ŚGS_6.5.5:	ŚGS_6.5.5:
+   idam.aham.dviṣantam.bhrātṛvyam.pāpmānam.alakṣmīm.ca.apa.dhunomi.iti.vastra.antam.avadhūya	idam-.aham.dvizantam-.BrAtRvyam-.pApma-Anam-.a-lakzmIm-.ca.a-pa.Dunomi.iti.-vastra.antam-.avaDUya
+   ŚGS_6.5.6:	ŚGS_6.5.6:
+   <.apa.prāca.>.it.sūktam.<.indraś.ca.mṛlayāti.>.na.iti.dve.<.yata.indra.bhayāmaha.>.ity.ekā.<.śāsa.itthā.mahān.asi.>.iti.prācīm.<.svastidā.>.iti.dakṣiṇām.dakṣiṇāvṛto.<.virakṣa.>.iti.pratīcīm.<.vi.na.indra.>.ity.udīcīm.savya.āvṛto.<.apa.indra.>.iti.dakṣiṇa.āvṛto.divam.udīkṣante	<.apa.-prAca.>.it.sUktam-.<.indra-S.ca.-mRlayA-ati.>.na.iti.-dve.<.yata.indra.BayAm-aha.>.iti-.ekA.<.SAsa-.itTA.-mahAn.asi-.>.iti.-prAcIm.<.
+   ŚGS_6.6.1: savitā.paścātāt.<.tac.cakṣur.>.ity.ādityam.upasthāya /	ŚGS_6.6.1: savitA-a.paH-ca-atAt.<.tac.cakzuH-.>.iti-.Adityam-.upasTAya /
+   ŚGS_6.6.2: vyāvartamānāś.ca.pratyāyanty.upaviśanti /	ŚGS_6.6.2: vyAvartamAna-AS.ca.-pratyAyanti-.upaviSanti /
+   ŚGS_6.6.3: yathā.<.apaḥ.śāntā.>.iti.śānti.pātrād.apa.ādāya /	ŚGS_6.6.3: yaTA.<.apaH.SAnta-a.>.iti.-SAnti.-pAtrAt-.apa.AdAya /
+   ŚGS_6.6.4: pṛthivyām.avaninīya /	ŚGS_6.6.4: pRTivyAm-.avaninIya /
+   ŚGS_6.6.5: <.yathā.pṛthivī.>.ity.asya.abhikarṣanti /	ŚGS_6.6.5: <.yaTA.-pRTivI.>.iti-.asya.aBikarzanti /
+   ŚGS_6.6.6: <.evam.mayi.śāmyatv.>.iti.dakṣiṇe.aṃse.nilimpati /	ŚGS_6.6.6: <.evam-.mayi.-SAmya-tv.>.iti.-dakziNe.aMse.-nilimpati /
+   ŚGS_6.6.7: evam.dvitīyam /	ŚGS_6.6.7: evam-.dvitIyam /
+   ŚGS_6.6.8: evam.tṛtīyam /	ŚGS_6.6.8: evam-.tRtIyam /
+   ŚGS_6.6.9:	ŚGS_6.6.9:
+   kāṇḍāt.kāṇḍāt.sam.bhavasi.kāṇḍāt.kāṇḍāt.pra.rohasi.<.śivā.naḥ.śāle.bhava.>.iti.dūrvā.kāṇḍam.ādāya.mūrdhani.kṛtvā	kANxAt.kANxAt.-sam.Bava-si.-kANxAt.kANxAt.-pra.roha-si.<.SivA.naH.SAle.Bava.>.iti.-dUrvA.-kANxam.AdAya.-mUrDa-ni.kRtvA
+   ŚGS_6.6.10:	ŚGS_6.6.10:
+   agnis.tṛpyatu.vāyus.tṛpyatu.sūryas.tṛpyatu.viṣṇus.tṛpyatu.prajāpatis.tṛpyatu.virūpa.akśas.tṛpyatu.sahasra.akṣas.tṛpyatu.sarva.bhūtāni.tṛpyantv.iti	agni-s.tRpyatu.-vAyu-s.tR-pyatu.-sUrya-s.tRpyatu.-vizNu-s.tRpyatu.-prajApati-s.tRpyatu.virUpa-.akSa-s.tRpyatu.-sahasra-.akza-s.tRpyatu.-sarva-.B
+   ŚGS_6.6.11: sumantu.jaimini.vaiśampāyana.paila.ādy.ācāryāḥ /	ŚGS_6.6.11: sumantu.-jEmi-ni.-vESampAyana.-pEla.a-Adi-.a-AcAryAH /
+   ŚGS_6.6.12: pitṝn.pratyātmikān /	ŚGS_6.6.12: pitLn.pratyAtmikAn /
+   ŚGS_6.6.13: .ity.apo.ninīya /	ŚGS_6.6.13: .ity.apo.-ninIya /
+   ŚGS_6.6.14: vāmadevyam.japitvā /	ŚGS_6.6.14: vAmadevyam-.japitvA /
+   ŚGS_6.6.15: yathā.kāmam.vipratiṣṭhante /	ŚGS_6.6.15: yaTA.kAmam-.vipratizWante /
+   ŚGS_6.6.16:	ŚGS_6.6.16:
+   yathā.āgama.prajñā.śruti.smṛti.vibhavād.anukrāntamānād.avivāda.pratiṣṭhād.abhayam.śam.bhave.no.astu.namo.astu.devarṣi.pitṛ.manuṣyebhyaḥ.śivam.āyur.vapur.anāmayam.śāntim.ariṣṭim.akṣitim.ojas.tejo.yaśo.balam.brahma.varcasam.kīrtim.āyuḥ.prajām.paśūn.namo.namas.kṛtā.vardhayantu.duṣṭutād.durupayuktān.nyūna.adhikāś.ca.sarvasmāt.svasti.devarṣibhyaś.ca.brahma.satyam.ca.pātu.mām.iti.brahma.satya.ca.pātu.mām.iti	yaTA.Agama.-prajQA.-Sruti.-smRti.viBavAt-.anukrAnta-mAnAt-.avivAda.-pratizWAt-.a-Bayam-.Sam.-Bave.no.aH-tu.namaH-.aH-tu.-deva-Rzi.-pitR.manuzyeBy

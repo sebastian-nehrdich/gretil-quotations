@@ -1,0 +1,1524 @@
+   Uḍḍāmareśvaratantra	UxxAmara-ISvara-tantra
+   Uḍḍāmareśvaratantra, Prathamaḥ paṭalaḥ	UxxAmara-ISvara-tantra, PraTamaH pawalaH
+   uḍḍīśena samākīrṇā yogivṛndasamākulā /	uxxISena samAkIrNA yogi-vRnda-samAkulAH /
+   praṇamya śirasā devī gaurī pṛcchati śaṃkaram // UT_1.1	praNamya SirasA devI gOrI pRcCati SaMkaram // UT_1.1
+   īśvara śrotum icchāmi lokanātha jagatprabho /	ISvara Srotum icCAmi lokanATa jagatpraBo /
+   prasādaṃ kuru deveśa brūhi dharmārthasādhakam // UT_1.2	prasAdam kuru deveSa brUhi Darma-arTa-sADakam // UT_1.2
+   vaśīkaraṇam uccāṭaṃ mohanaṃ stambhanaṃ tathā /	vaSIkaraNam uccAwam mohanam stamBanam taTA /
+   śāntikaṃ pauṣṭikaṃ vātha karaṇāni bahūni ca // UT_1.3	SAntikam pOzwikam vA-aTa karaNAni bahUni ca // UT_1.3
+   cakṣurhāniṃ maheśāna śrutihāniṃ tathaiva ca /	cakzuH-hAnim maheSAna Sruti-hAnim taTA-eva ca /
+   jñānahāniṃ kriyāhāniṃ kīlakaṃ ca tathāparam // UT_1.4	jQAna-hAnim kriyA-hAnim kIlakam ca taTA-aparam // UT_1.4
+   kāryastambhaṃ sureśāna śoṣaṇaṃ pūraṇaṃ tathā /	kArya-stamBam sureSAna SozaNam pUraNam taTA /
+   mantradhyānaṃ viśeṣeṇa tat sarvaṃ vada me prabho // UT_1.5	mantra-DyAnam viSezeNa tat sarvam vada me praBo // UT_1.5
+   anyac ca vividhaṃ kāryaṃ prasādād brūhi bhairava /	anyat ca viviDam kAryam prasAdAt brUhi BErava /
+   yasya vijñānamātreṇa manuṣyo bhuvi durlabhaḥ // UT_1.6	yasya vijQAna-mAtreNa manuzyaH Buvi durlaBaH // UT_1.6
+   śrīr īśvara uvāca /	SrIH ISvaraH uvAca /
+   śṛṇu tvaṃ hi varārohe siddhyarthaṃ yadi pṛcchasi /	SRNu tvam hi varArohe sidDi-arTam yadi pRcCasi /
+   tadvad iṣyāmi te devi tat sarvaṃ samudāhṛtam // UT_1.7	tadvat izyAmi te devi tat sarvam samudAhRtam // UT_1.7
+   auṣadhair mantrajāpaiś ca ripuṃ hanyān na saṃśayaḥ /	OzaDEH mantra-jApEH ca ripum hanyAt na saMSayaH /
+   uḍḍīśāt sāram ākṛṣya mayoktaṃ tava bhaktitaḥ // UT_1.8	uxxISAt sAram AkRzya mayA-uktam tava BaktitaH // UT_1.8
+   uḍḍīśaṃ ca namaskṛtya rudraṃ caiva sudurlabham /	uxxISam ca namaskRtya rudram ca-eva su-durlaBam /
+   kapardinaṃ virūpākṣaṃ sarvabhūtabhayāpaham // UT_1.9	kapardinam virUpAkzam sarva-BUta-Baya-apaham // UT_1.9
+   vakṣye rudrodbhavān yogān sarvaśatruvināśakān /	vakzye rudra-udBavAn yogAn sarva-Satru-vinASakAn /
+   tais tu prayojitaiḥ saḥ prāṇān hanti na saṃśayaḥ // UT_1.10	tEH tu prayojitEH saH prANAn hanti na saMSayaH // UT_1.10
+   prathamaṃ bhūtakaraṇaṃ dvitīyonmādanaṃ tathā /	praTamam BUta-karaNam dvitIya-unmAdanam taTA /
+   tṛtīyaṃ dveṣaṇaṃ cātha turyam uccāṭanaṃ tathā // UT_1.11	tRtIyam dvezaNam ca-aTa turyam uccAwanam taTA // UT_1.11
+   grāmoccāṭaṃ pañcamaṃ ca jalastambhaṃ ca ṣaṣṭhakam /	grAma-uccAwam paQcamam ca jala-stamBam ca zazWakam /
+   vahneḥ stambhakaraṃ cātha vaśīkaraṇam uttamam // UT_1.12	vahneH stamBa-karam ca-aTa vaSIkaraNam uttamam // UT_1.12
+   anyān api prayogāṃś ca bahūn śṛṇu varānane /	anyAn api prayogAn ca bahUn SRNu varAnane /
+   śivena kathitā yogā uḍḍīśe śāstraniścaye // UT_1.13	Sivena kaTitAH yogAH uxxISe SAstra-niScaye // UT_1.13
+   andhīkaraṇaṃ mūkīkaraṇaṃ badhirīkaraṇaṃ tathā /	anDIkaraNam mUkIkaraNam baDirIkaraNam taTA /
+   bhūtajvarasya karaṇam astraśastrasya dūṣaṇam // UT_1.14	BUta-jvarasya karaNam astra-Sastrasya dUzaNam // UT_1.14
+   jaladoṣapraśamanaṃ dadhno madhuvināśanam /	jala-doza-praSamanam daDnaH maDu-vinASanam /
+   vināśaṃ mattakaraṇaṃ gajavājiprakopanam // UT_1.15	vinASam matta-karaNam gaja-vAji-prakopanam // UT_1.15
+   ākarṣaṇaṃ bhujaṃgānāṃ mānavānāṃ tathā dhruvam /	AkarzaNam BujaMgAnAm mAnavAnAm taTA Druvam /
+   vahner vināśanaṃ kuryāt parṇānāṃ hi vināśanam // UT_1.16	vahneH vinASanam kuryAt parNAnAm hi vinASanam // UT_1.16
+   gardabhasyātmakaraṇaṃ parakāyapraveśanam /	gardaBasya-Atma-karaNam para-kAya-praveSanam /
+   vetālapādukāsiddhim ulvakāj jvalanaṃ tathā // UT_1.17	vetAla-pAdukA-sidDim ulvakAt jvalanam taTA // UT_1.17
+   anyān bahuprayogāṃś ca raudrān romapraharṣaṇān /	anyAn bahu-prayogAn ca rOdrAn roma-praharzaNAn /
+   vidyāmantraprayogādīn auṣadhāṃś cābhicārikān // UT_1.18	vidyA-mantra-prayoga-AdIn OzaDAn ca-ABicArikAn // UT_1.18
+   guptāguptatarāḥ kāryā rakṣitavyāḥ prayatnataḥ /	guptAguptatarAH kAryAH rakzitavyAH prayatnataH /
+   uḍḍīśaṃ yo na jānāti sa ruṣṭaḥ kiṃ kariṣyati // UT_1.19	uxxISam yaH na jAnAti sa ruzwaH kim karizyati // UT_1.19
+   sumeruṃ cālayet sthānāt sāgaraiḥ plāvayen mahīm /	sumerum cAlayet sTAnAt sAgarEH plAvayet mahIm /
+   sūryaṃ ca pātayed bhūmau nedaṃ mithyā bhaviṣyati // UT_1.20	sUryam ca pAtayet BUmO na-idam miTyA Bavizyati // UT_1.20
+   yathaivendrasya vajraṃ ca pāśaṃ hi varuṇasya ca /	yaTA-eva-indrasya vajram ca pASam hi varuNasya ca /
+   yamasya ca yathā daṇḍaṃ kuberasya gadā yathā // UT_1.21	yamasya ca yaTA daNxam kuberasya gadAH yaTA // UT_1.21
+   vahneḥ śaktir yathā proktā khaḍgas tu nirṛter yathā /	vahneH SaktiH yaTA proktA KaxgaH tu nirRteH yaTA /
+   yathā vāyoś cāṅkuśaṃ hi triśūlaṃ śūlapāṇinaḥ // UT_1.22	yaTA vAyoH ca-aFkuSam hi triSUlam SUlapANinaH // UT_1.22
+   skandasya ca yathā śaktir viṣṇoś cakraṃ sudarśanam /	skandasya ca yaTA SaktiH vizNoH cakram sudarSanam /
+   tathaite ca mahāyogāḥ prayuktāḥ śatrukāraṇe // UT_1.23	taTA-ete ca mahA-yogAH prayuktAH Satru-kAraNe // UT_1.23
+   anivṛtte nivartante amoghā nātra saṃśayaḥ /	anivRtte nivartante amoGAH na-atra saMSayaH /
+   saṃtuṣṭena prayuktena sidhyanti suvicārataḥ // UT_1.24	saMtuzwena prayuktena siDyanti su-vicArataH // UT_1.24
+   ratānāṃ karaṇaṃ vakṣye śatrusādhanam uttamam /	ratAnAm karaNam vakzye Satru-sADanam uttamam /
+   yenaiva kṛtamātreṇa bhūto gṛhṇāti mānavam // UT_1.25	yena-eva kRta-mAtreNa BUtaH gRhNAti mAnavam // UT_1.25
+   nimbakāṣṭhaṃ samādāya caturaṅgulamānataḥ /	nimba-kAzWam samAdAya catur-aFgula-mAnataH /
+   śatruviṣṭāsamāliptaṃ tathā nāma samālikhet // UT_1.26	Satru-vizwa-asamAliptam taTA nAma samAliKet // UT_1.26
+   citāṅgāreṇa tannāmnā dhūpaṃ dadyān maheśvari /	citA-aFgAreNa tad-nAmnA DUpam dadyAt maheSvari /
+   citāntaḥ saṃsthito bhūtvā yasya gātramṛdāharet // UT_1.27	citA-antar saMsTitaH BUtvA yasya gAtra-mRdA-Aharet // UT_1.27
+   kṛṣṇāṣṭamyāṃ caturdaśyām aṣṭottaraśataṃ japet /	kRzNa-azwamyAm caturdaSyAm azwottaraSatam japet /
+   bhūto gṛhṇāti taṃ śīghraṃ mantreṇānena mantritaḥ // UT_1.28	BUtaH gRhNAti tam SIGram mantreNa-anena mantritaH // UT_1.28
+   uoṃ namo bhagavate sarvabhūtādhipataye virūpākṣāya nityaṃ krūrāya	uom namaH Bagavate sarva-BUta-aDipataye virUpAkzAya nityam krUrAya
+   daṃṣṭriṇe vikarāline grahayakṣabhūtavetālena saha śaṃkara manuṣyaṃ daha	daMzwriNe vikarAline graha-yakza-BUta-vetAlena saha SaMkara manuzyam daha
+   daha paca paca gṛhṇa gṛhṇa gṛhṇāpaya gṛhṇāpaya huṃ phaṭ svāhā /	daha paca paca gRhNa gRhNa gRhNApaya gRhNApaya hum Paw svAhA /
+   pratyānayaṃ yadīccheta tasyaiṣā kriyate kriyā /	pratyAnayam yadi-icCeta tasya-ezA kriyate kriyA /
+   dāpayed devam īśānaṃ ghṛtena vacayā saha // UT_1.29	dApayet devam ISAnam GRtena vacayA saha // UT_1.29
+   guggulaṃ pradaded dhūpaṃ ghṛtamiśraṃ samantataḥ /	guggulam pradadet DUpam GRta-miSram samantataH /
+   mantreṇa mantrayitvā tu tataḥ svāsthyaṃ bhavet kila // UT_1.30	mantreNa mantrayitvA tu tatas svAsTyam Bavet kila // UT_1.30
+   mantraḥ uoṃ namaḥ śivāya śāntāya prabhāya muktāya devādhidevāya	mantraH uom namaH SivAya SAntAya praBAya muktAya deva-aDidevAya
+   śubhrabāhave vyādhiṃ śamaya śamaya amukaḥ svastho bhavatu namo 'stu te /	SuBra-bAhave vyADim Samaya Samaya amukaH svasTaH Bavatu namaH astu te /
+   iti svāsthyamantraḥ /	iti svAsTya-mantraH /
+   athānyat sampravakṣyāmi prayogaṃ bhuvi durlabham /	aTa-anyat sampravakzyAmi prayogam Buvi durlaBam /
+   yenaiva kṛtamātreṇa jvaro gṛhṇāti mānavam // UT_1.31	yena-eva kRta-mAtreNa jvaraH gRhNAti mAnavam // UT_1.31
+   nimbakāṣṭhākṛtiṃ kṛtvā caturaṅgulamānataḥ /	nimba-kAzWa-AkRtim kRtvA catur-aFgula-mAnataH /
+   tasyā hṛdi viṣonmattarājikālavaṇais tathā // UT_1.32	tasyAH hRdi viza-unmatta-rAjikA-lavaNEH taTA // UT_1.32
+   nāma saṃlikhya prakṛtau pācyamānāyāṃ tataḥ param /	nAma saMliKya prakRtO pAcyamAnAyAm tatas param /
+   tatas tu śatrunāmnā ca aṣṭottaraśataṃ japet // UT_1.33	tatas tu Satru-nAmnA ca azwottaraSatam japet // UT_1.33
+   tataḥ sa praharārdhena jvarabhūtena gṛhyate /	tatas sa prahara-arDena jvara-BUtena gRhyate /
+   atha japamantraḥ uoṃ bakāmukhā cāmuṇḍā amukasya kṣīramāṃsaśoṇitabhojinī	aTa japa-mantraH uom bakAmuKA cAmuNxA amukasya kzIra-mAMsa-SoNita-BojinI
+   amukaṃ khaḥ khaḥ jvareṇa gṛhṇa gṛhṇa gṛhṇāpaya gṛhṇāpaya huṃ phaṭ svāhā /	amukam KaH KaH jvareNa gRhNa gRhNa gRhNApaya gRhNApaya hum Paw svAhA /
+   pratyānayaṃ yadīccheta tasyaiṣā kriyate kriyā // UT_1.34	pratyAnayam yadi-icCeta tasya-ezA kriyate kriyA // UT_1.34
+   dugdhasnātanāmākṣarāṇi tadā svastho bhaved iti /	dugDa-snAta-nAma-akzarANi tadA svasTaH Bavet iti /
+   athānyat sampravakṣyāmi prayogaṃ bhuvi durlabham // UT_1.35	aTa-anyat sampravakzyAmi prayogam Buvi durlaBam // UT_1.35
+   yena vijñānamātreṇa śatror uccāṭanaṃ bhavet /	yena vijQAna-mAtreNa SatroH uccAwanam Bavet /
+   brahmadaṇḍī citābhasma gomayasya tathaiva ca // UT_1.36	brahmadaNxI citA-Basma gomayasya taTA-eva ca // UT_1.36
+   kṣāraṃ cāpi samādāya kākajaṅgāsamanvitam /	kzAram ca-api samAdAya kAkajaFgA-samanvitam /
+   kṣipec chirasi śatrūṇāṃ tūrṇam uccāṭayed ripum // UT_1.37	kzipet Sirasi SatrUNAm tUrNam uccAwayet ripum // UT_1.37
+   tataḥ saṃsnāpayed enaṃ gokṣīreṇa samanvitam /	tatas saMsnApayet enam go-kzIreNa samanvitam /
+   muṇḍanaṃ cātha keśānāṃ tataḥ svastho bhaved dhruvam // UT_1.38	muNxanam ca-aTa keSAnAm tatas svasTaH Bavet Druvam // UT_1.38
+   athānyat sampravakṣyāmi śatror uccāṭanaṃ varam /	aTa-anyat sampravakzyAmi SatroH uccAwanam varam /
+   dhūpaṃ nirbhedakaṃ nāma svayaṃ rudreṇa bhāṣitam // UT_1.39	DUpam nirBedakam nAma svayam rudreNa BAzitam // UT_1.39
+   brahmadaṇḍī samūlā ca kākajaṅgā samanvitā /	brahmadaNxI sa-mUlA ca kAkajaFgA samanvitA /
+   nirmokaṃ sarparājasya dhūpam uccāṭayed ripūn // UT_1.40	nirmokam sarparAjasya DUpam uccAwayet ripUn // UT_1.40
+   sarpakañcukam ādāya kṛṣṇoragaśiras tathā /	sarpa-kaQcukam AdAya kRzNa-uraga-SiraH taTA /
+   nikhaned yasya ca dvāre tam uccāṭayate haṭhāt // UT_1.41	niKanet yasya ca dvAre tam uccAwayate haWAt // UT_1.41
+   brahmadaṇḍī surāmāṃsī kacchapasya śiras tathā /	brahmadaNxI surAmAMsI kacCapasya SiraH taTA /
+   śmaśānabhasmasaṃyuktaṃ kapāle mānuṣe nyaset // UT_1.42	SmaSAna-Basma-saMyuktam kapAle mAnuze nyaset // UT_1.42
+   śatror dvāre nikhātena tūrṇam uccāṭayed ripūn /	SatroH dvAre niKAtena tUrNam uccAwayet ripUn /
+   saptarātrau deveśi samūlaṃ naśyate gṛham // UT_1.43	sapta-rAtrO deveSi sa-mUlam naSyate gRham // UT_1.43
+   atha vidveṣaṇaṃ vakṣye śatrūṇāṃ śṛṇu śaṃkari /	aTa vidvezaNam vakzye SatrUNAm SRNu SaMkari /
+   yenaiva kṛtamātreṇa vidveṣo jāyate nṛṇām // UT_1.44	yena-eva kRta-mAtreNa vidvezaH jAyate nRNAm // UT_1.44
+   brahmadaṇḍī samūlā ca kākamāṃsena saṃyutā /	brahmadaNxI sa-mUlA ca kAka-mAMsena saMyutAH /
+   jātīpuṣparasair bhāvyā saptarātraṃ punaḥ punaḥ // UT_1.45	jAtI-puzpa-rasEH BAvyA sapta-rAtram punar punar // UT_1.45
+   tato mārjāramūtreṇa saptāhaṃ bhāvayet tataḥ /	tatas mArjAra-mUtreNa sapta-aham BAvayet tatas /
+   eṣa dhūpaḥ pradātavyaḥ śatrugotrasya madhyataḥ // UT_1.46	eza DUpaH pradAtavyaH Satru-gotrasya maDyatas // UT_1.46
+   yathā gandhaṃ samāghrāti pitā putraiḥ samaṃ kaliḥ /	yaTA ganDam samAGrAti pitA putrEH samam kaliH /
+   vidveṣaṇaṃ paraṃ teṣāṃ suhṛdbhir bāndhavaiḥ saha // UT_1.47	vidvezaNam param tezAm suhRdBiH bAnDavEH saha // UT_1.47
+   svasthīkaraṇakaṃ proktaṃ ghṛtagugguladhūpataḥ /	svasTIkaraNakam proktam GRta-guggula-DUpataH /
+   atha māraṇam /	aTa mAraNam /
+   surāṃ mānuṣamāṃsaṃ ca samādāya vicakṣaṇaḥ // UT_1.48	surAm mAnuza-mAMsam ca samAdAya vicakzaNaH // UT_1.48
+   gṛdhrāsthi śatruviṣṭhāṃ ca dvāramadhye nikhātayet /	gRDra-asTi Satru-vizWAm ca dvAra-maDye niKAtayet /
+   saptāhena bhaven māro yathā rudreṇa bhāṣitam // UT_1.49	sapta-ahena Bavet mAraH yaTA rudreNa BAzitam // UT_1.49
+   brahmadaṇḍī citābhasma surāmāṃsīsamāyutam /	brahmadaNxI citA-Basma surAmAMsI-samAyutam /
+   ariṣṭasya ca pattrāṇi viṣaṃ rudhiram eva ca // UT_1.50	arizwasya ca pattrANi vizam ruDiram eva ca // UT_1.50
+   mohāya ca prayoktavyaḥ śatrūṇāṃ nāmayogataḥ /	mohAya ca prayoktavyaH SatrUNAm nAma-yogataH /
+   saptarātraprayogena sarvaśatrupraṇāśanam // UT_1.51	sapta-rAtra-prayogena sarva-Satru-praNASanam // UT_1.51
+   eteṣāṃ duṣṭayogānāṃ śatrave tad udāhṛtam /	etezAm duzwa-yogAnAm Satrave tat udAhRtam /
+   śatam aṣṭottareṇaiva mantrayitvā vicakṣaṇaḥ // UT_1.52	Satam azwa-uttareNa-eva mantrayitvA vicakzaNaH // UT_1.52
+   uoṃ namo bhagavate śrīuḍḍāmareśvarāya amukam uccāṭaya uccāṭaya vidveṣaya	uom namaH Bagavate SrI-uxxAmara-ISvarAya amukam uccAwayaH uccAwaya vidvezaya
+   vidveṣaya svāhā /	vidvezaya svAhA /
+   ekarātroṣito bhūtvā kṛṣṇāṣṭamyāṃ samāhitaḥ /	eka-rAtra-uzitaH BUtvA kRzNa-azwamyAm samAhitaH /
+   devam abhyarcya ceśānaṃ śatam aṣṭādhikaṃ japet // UT_1.53	devam aByarcya ca-ISAnam Satam azwa-aDikam japet // UT_1.53
+   mantram etat prayoktavyaṃ siddhaye siddhikāmyayā /	mantram etat prayoktavyam sidDaye sidDi-kAmyayA /
+   śatrusainye prayoktavyaṃ rājñaś ca vijayārthinaḥ // UT_1.54	Satru-sEnye prayoktavyam rAjQaH ca vijaya-arTinaH // UT_1.54
+   lāṅgūlaṃ gṛhagodhāyāḥ kṛkalāsasya mastakam /	lAFgUlam gRha-goDAyAH kRkalAsasya mastakam /
+   indragopakasaṃyuktaṃ jambūkasya śiras tathā // UT_1.55	indragopaka-saMyuktam jambUkasya SiraH taTA // UT_1.55
+   etāni samabhāgāni sūkṣmacūrṇāni kārayet /	etAni sama-BAgAni sUkzma-cUrNAni kArayet /
+   amukte hi prayoktavyaṃ sarvaṃ janaśataṃ haret // UT_1.56	amukte hi prayoktavyam sarvam jana-Satam haret // UT_1.56
+   nṛkapālaṃ samūtraṃ ca pecakasya śiras tathā /	nR-kapAlam sa-mUtram ca pecakasya SiraH taTA /
+   vṛścikasya tu lāṅgūlaṃ hālāhalakam eva ca // UT_1.57	vRScikasya tu lAFgUlam hAlAhalakam eva ca // UT_1.57
+   śvetamaṇḍūkamāṃsaṃ ca mūtraṃ caiva gajoṣṭrayoḥ /	Sveta-maNxUka-mAMsam ca mUtram ca-eva gaja-uzwrayoH /
+   gṛhītvā samabhāgāni sūkṣmacūrṇāni kārayet // UT_1.58	gRhItvA sama-BAgAni sUkzma-cUrNAni kArayet // UT_1.58
+   etāni śoṣayitvā tu kalkaṃ kṛtvā punaḥ punaḥ /	etAni SozayitvA tu kalkam kRtvA punar punar /
+   uoṃ hīṃ yamāya śatrunāśanāya svāhā /	uom hIm yamAya Satru-nASanAya svAhA /
+   anne pāne pradātavyaṃ ripusainyavināśanam // UT_1.59	anne pAne pradAtavyam ripu-sEnya-vinASanam // UT_1.59
+   spṛṣṭamātreṇa tenaiva visphoṭās tu samantataḥ /	spRzwa-mAtreNa tena-eva visPowAH tu samantataH /
+   tasya dehe jvaras tīvro bhavet tīvrā ca vedanā // UT_1.60	tasya dehe jvaraH tIvraH Bavet tIvrA ca vedanA // UT_1.60
+   mriyate saptarātrau pratyānayanavarjitaḥ /	mriyate sapta-rAtrO pratyAnayana-varjitaH /
+   athānyat sampravakṣyāmi yasya dhyānena sādhanam // UT_1.61	aTa-anyat sampravakzyAmi yasya DyAnena sADanam // UT_1.61
+   kathitaṃ caiva rudreṇa tridaśebhyaḥ prasādataḥ /	kaTitam ca-eva rudreNa tridaSeByaH prasAdataH /
+   rudhiraṃ kṛṣṇasarpasya kukkuṭasya tu kasyacit // UT_1.62	ruDiram kRzNasarpasya kukkuwasya tu kasyacid // UT_1.62
+   kacchapasya mayūrāṇāṃ rocanaṃ jātyañjanaṃ tathā /	kacCapasya mayUrANAm rocanam jAti-aQjanam taTA /
+   kuṅkumaṃ bhadramustaṃ ca tagaraṃ kṛṣṇam eva ca // UT_1.63	kuFkumam Badramustam ca tagaram kRzNam eva ca // UT_1.63
+   etāni samabhāgāni puṣyārke ca samāharet /	etAni sama-BAgAni puzya-arke ca samAharet /
+   aśleṣāyāṃ tu piṣṭāni kṛtvā pātre ca rājate // UT_1.64	aSlezAyAm tu pizwAni kRtvA pAtre ca rAjate // UT_1.64
+   daśāhaṃ sthāpayed bhūmyāṃ paścād uddhṛtya lepayet /	daSa-aham sTApayet BUmyAm paScAt udDRtya lepayet /
+   asidhārāṅgadā nāma svayaṃ rudreṇa bhāṣitā // UT_1.65	asi-DArA-aFgadA nAma svayam rudreNa BAzitAH // UT_1.65
+   athālipet tu gātrāṇi sa kṛtvāsthīny athāpi vā /	aTa-Alipet tu gAtrANi sa kRtvA-asTIni aTa-api vA /
+   phalapuṣpe tathā pattre dhūpasattais tathaiva ca // UT_1.66	Pala-puzpe taTA pattre DUpa-sattEH taTA-eva ca // UT_1.66
+   agado 'yaṃ mahāmantro bhūtānāṃ ca bhayāvahaḥ /	agadaH ayam mahA-mantraH BUtAnAm ca Baya-AvahaH /
+   anne pāne mantrayitvā prayuñjīta vidhānataḥ // UT_1.67	anne pAne mantrayitvA prayuQjIta viDAnataH // UT_1.67
+   uoṃ namo bhagavate rudrāya śāntāya divyayogāya divyarūpāya	uom namaH Bagavate rudrAya SAntAya divya-yogAya divya-rUpAya
+   jaṭilabrahmacāriṇe agadokṣitridaśaiva mahābalaśataṃ manohaṃ ṭhaḥ ṭhaḥ	jawila-brahmacAriNe agada-ukzi-tridaSA-eva mahA-bala-Satam manoham WaH WaH
+   svāhā /	svAhA /
+   pīḍyamānaṃ japen mantraṃ śucir bhūtvā samāhitaḥ /	pIxyamAnam japet mantram SuciH BUtvA samAhitaH /
+   aṣṭottarasahasraṃ tu tato mantram imaṃ japet // UT_1.68	azwottarasahasram tu tatas mantram imam japet // UT_1.68
+   kanyayā peṣayac caiva goṣṭhamadhye prayatnataḥ /	kanyayA pezayat ca-eva gozWa-maDye prayatnataH /
+   tadaśaktau citāyāṃ tu yathāśakti punaḥ punaḥ // UT_1.69	tad-aSaktO citAyAm tu yaTASakti punar punar // UT_1.69
+   svayaṃ rudreṇa samproktaṃ sarvakāryaprasādhakam /	svayam rudreNa samproktam sarva-kArya-prasADakam /
+   sarve caiva prayoktavyāḥ sarvaśatruvināśakāḥ // UT_1.70	sarve ca-eva prayoktavyAH sarva-Satru-vinASakAH // UT_1.70
+   tasmāt sarvaprayatnena rakṣitavyāḥ prayogavān /	tasmAt sarva-prayatnena rakzitavyAH prayogavAn /
+   abhukte naiva prokta yaṃ krūre pāpajane tathā // UT_1.71	aBukte na-eva prokta yam krUre pApa-jane taTA // UT_1.71
+   dātavyaṃ bhaktiyuktāya śāstrajñāyāmareśvari /	dAtavyam Bakti-yuktAya SAstra-jQAya-amara-ISvari /
+   iti pārvatīśivasaṃvāde vīrabhadreśvaratantroddhṛte uḍḍāmareśvaramahātantre	iti pArvatI-Siva-saMvAde vIraBadra-ISvara-tantra-udDRte uxxAmara-ISvara-mahAtantre
+   prathamaḥ paṭalaḥ // UT_1.72	praTamaH pawalaH // UT_1.72
+   Uḍḍāmareśvaratantra, Dvitīyaḥ paṭalaḥ	UxxAmara-ISvara-tantra, DvitIyaH pawalaH
+   athānyat sampravakṣyāmi jalastambhanam uttamam /	aTa-anyat sampravakzyAmi jala-stamBanam uttamam /
+   kumbhīravelvadaṃṣṭrāni rudhiraṃ māṃsam eva ca // UT_2.1	kumBIra-velva-daMzwrAni ruDiram mAMsam eva ca // UT_2.1
+   hṛdayaṃ kacchapasyaiva śiśumāraṃ punaḥ punaḥ /	hRdayam kacCapasya-eva SiSumAram punar punar /
+   vibhītakasya tailena sarvān ekatra kārayet // UT_2.2	viBItakasya tElena sarvAn ekatra kArayet // UT_2.2
+   nyāsakarma tataḥ kṛtvā jale tiṣṭhed yathāsukham /	nyAsa-karma tatas kRtvA jale tizWet yaTAsuKam /
+   madrakasya rasaṃ grāhyaṃ lakṣaṇasya makarasya ca // UT_2.3	madrakasya rasam grAhyam lakzaNasya makarasya ca // UT_2.3
+   ḍuṇḍubhasya śiro grāhyaṃ sarvān ekatra kārayet /	xuNxuBasya SiraH grAhyam sarvAn ekatra kArayet /
+   vibhītakasya taile tu pacyamāne ca dāpayet // UT_2.4	viBItakasya tEle tu pacyamAne ca dApayet // UT_2.4
+   nyāsakarma prakurvīta saptāhaṃ tiṣṭhate jale /	nyAsa-karma prakurvIta sapta-aham tizWate jale /
+   tat tailaṃ pācayet lauhe kṛṣṇāṣṭamyāṃ samāhitaḥ // UT_2.5	tat tElam pAcayet lOhe kRzNa-azwamyAm samAhitaH // UT_2.5
+   caturmāsoṣito bhūtvā devam abhyarcya śaṃkaram /	catur-mAsa-uzitaH BUtvA devam aByarcya SaMkaram /
+   abhimantrya ca mantreṇa mṛttikāsnānadakṣiṇam // UT_2.6	aBimantrya ca mantreNa mRttikA-snAna-dakziNam // UT_2.6
+   aṣṭādhikasahasraṃ tu japitvā homam ācaret /	azwa-aDika-sahasram tu japitvA homam Acaret /
+   anena mantrayitvā tu tataḥ sidhyati nānyathā // UT_2.7	anena mantrayitvA tu tatas siDyati na-anyaTA // UT_2.7
+   uoṃ namo bhagavate uḍḍāmareśvarāya jalaṃ stambhaya stambhaya huṃ phaṭ	uom namaH Bagavate uxxAmara-ISvarAya jalam stamBaya stamBaya hum Paw-
+   svāhā /	svAhA /
+   vakṣye 'tha lūtākaraṇaṃ taṃ śṛṇuṣva samāsataḥ /	vakzye aTa lUtA-karaNam tam SRNuzva samAsatas /
+   bhallātakarasaṃ guñjā viṣaṃ citrakam eva ca // UT_2.8	BallAtaka-rasam guQjA vizam citrakam eva ca // UT_2.8
+   kapikacchaparomāṇi cūrṇāṃ kṛtvā pradāpayet /	kapi-kacCapa-romANi cUrNAm kRtvA pradApayet /
+   etat sarvasamāyukto lūtākaraṇam uttamam // UT_2.9	etat sarva-samAyuktaH lUtA-karaNam uttamam // UT_2.9
+   tasya rūpaṃ pravakṣyāmi jāyate yas tu lakṣaṇaiḥ /	tasya rUpam pravakzyAmi jAyate yaH tu lakzaNEH /
+   aṅgāni dhūmam āyānti mūrchayanti muhur muhuḥ // UT_2.10	aFgAni DUmam AyAnti mUrCayanti muhur muhur // UT_2.10
+   etad rūpaṃ bhavet tasya lūtāvikṛtalakṣaṇam /	etat rUpam Bavet tasya lUtA-vikRta-lakzaNam /
+   cikitsāṃ tasya vakṣyāmi yena sampadyate sukham // UT_2.11	cikitsAm tasya vakzyAmi yena sampadyate suKam // UT_2.11
+   uśīraṃ candanaṃ caiva priyaṅgutagaraṃ tathā /	uSIram candanam ca-eva priyaFgu-tagaram taTA /
+   raktacandanakuṣṭhaṃ ca lepo lūtāvināśanaḥ // UT_2.12	raktacandana-kuzWam ca lepaH lUtA-vinASanaH // UT_2.12
+   uoṃ namo bhagavate uḍḍāmareśvarāya kuhalīkurvanī svāhā /	uom namaH Bagavate uxxAmara-ISvarAya kuhalIkurvanI svAhA /
+   mantrābhimantritaṃ kṛtvā tataḥ svastho bhaviṣyati /	mantra-aBimantritam kRtvA tatas svasTaH Bavizyati /
+   kṛṣṇasarpaśiro grāhyaṃ mukhe niḥkṣipya sarṣapān // UT_2.13	kRzNasarpa-SiraH grAhyam muKe niHkzipya sarzapAn // UT_2.13
+   bhallātakena saṃyuktaṃ kṛṣṇasūtreṇa veṣṭayet /	BallAtakena saMyuktam kRzNa-sUtreNa vezwayet /
+   valmīkasya mṛdaḥ kośe antardhūmena pācayet // UT_2.14	valmIkasya mRdaH koSe antarDUmena pAcayet // UT_2.14
+   kapikacchaparomāṇi saṃyuktaṃ ṣoḍaśāṃśakaiḥ /	kapi-kacCapa-romANi saMyuktam zoxaSa-aMSakEH /
+   viṣasya cūrṇaṃ kṛtvā tu śatrūṇāṃ mūrdhni niḥkṣipet // UT_2.15	vizasya cUrNam kRtvA tu SatrUNAm mUrDni niHkzipet // UT_2.15
+   śaradgrīṣmavasanteṣu lūtākaraṇam uttamam /	Sarad-grIzma-vasantezu lUtA-karaNam uttamam /
+   prasvinne ca tato gātre lagnās tasmiṃs tu sarṣapāḥ // UT_2.16	prasvinne ca tatas gAtre lagnAH tasmin tu sarzapAH // UT_2.16
+   lūtāṃ ca saviṣāṃ kuryān nātra kāryā vicāraṇā /	lUtAm ca sa-vizAm kuryAt na-atra kAryA vicAraNA /
+   vedanājātamātreṇa mantrajāpaṃ tu pūrvavat // UT_2.17	vedanA-jAta-mAtreNa mantra-jApam tu pUrvavat // UT_2.17
+   pūrvo vidhānena svastho bhavati pūrvavat /	pUrvaH viDAnena svasTaH Bavati pUrvavat /
+   atha śasyavināśaṃ ca kathayāmi samāsataḥ // UT_2.18	aTa Sasya-vinASam ca kaTayAmi samAsatas // UT_2.18
+   yenaiva kṛtamātreṇa vajraṃ kṛtvā vicakṣaṇaḥ /	yena-eva kRta-mAtreNa vajram kRtvA vicakzaNaH /
+   kṣetre sampātayed yasmiṃs tasmiñ śasyavināśanam // UT_2.19	kzetre sampAtayet yasmin tasmin Sasya-vinASanam // UT_2.19
+   māhendreṇa kṣipet tatra prayogeṇa tu mantravit /	mAhendreNa kzipet tatra prayogeNa tu mantra-vid /
+   atha mantraṃ punar vakṣye prayogeṣu prayojakam // UT_2.20	aTa mantram punar vakzye prayogezu prayojakam // UT_2.20
+   aṣṭottaraśatenaiva mantreṇānena mantrayet /	azwottaraSatena-eva mantreNa-anena mantrayet /
+   uoṃ namo bhagavate uḍḍāmareśvarāya vajraṃ vināśaya vajraṃ surapatir	uom namaH Bagavate uxxAmara-ISvarAya vajram vinASaya vajram surapatiH-
+   ājñāpaya huṃ phaṭ svāhā /	AjQApaya hum Paw svAhA /
+   imaṃ yogaṃ prayuñjāno vidhipūrveṇa karmaṇā /	imam yogam prayuQjAnaH viDi-pUrveNa karmaNA /
+   parṇānāṃ caiva yogena kṣipet parṇaṃ vinaśyati // UT_2.21	parNAnAm ca-eva yogena kzipet parNam vinaSyati // UT_2.21
+   punar uccāṭanaṃ vakṣye śṛṇu putra yathātathā /	punar uccAwanam vakzye SRNu putra yaTA-taTA /
+   yenaiva kṛtamātreṇa grāmasyoccāṭanaṃ bhavet // UT_2.22	yena-eva kRta-mAtreNa grAmasya-uccAwanam Bavet // UT_2.22
+   grāme caturṇāṃ ca pathāṃ mṛdam ādāya buddhimān /	grAme caturNAm ca paTAm mRdam AdAya budDimAn /
+   gomayenākṛtiṃ kṛtvā grāmasya ca caturdiśaḥ // UT_2.23	gomayena-AkRtim kRtvA grAmasya ca catur-diSaH // UT_2.23
+   citākāṣṭhānalaṃ kṛtvā kokilākākapakṣakaiḥ /	citA-kAzWa-analam kRtvA kokilA-kAka-pakzakEH /
+   hutvā cāhutisāhasraṃ tato bhasma samāharet // UT_2.24	hutvA ca-Ahuti-sAhasram tatas Basma samAharet // UT_2.24
+   abhedena samutsārya kṛtvā muṣṭiṃ sabhasmakam /	aBedena samutsArya kRtvA muzwim sa-Basmakam /
+   śatavārābhijaptena anenaiva tu mantritaḥ // UT_2.25	Sata-vAra-aBijaptena anena-eva tu mantritaH // UT_2.25
+   uoṃ namo bhagavate mahākālarudrāya tripuravināśanakāraṇāya daha daha dhama	uom namaH Bagavate mahAkAla-rudrAya tripura-vinASana-kAraNAya daha daha Dama
+   dhama paca paca matha matha mohaya mohaya unmādaya unmādaya ucchedaya	Dama paca paca maTa maTa mohaya mohaye unmAdaya unmAdayaH ucCedaya
+   ucchedaya śrīmahārudra ājñāpayati śabdakarī mohinī bhagavatī kheṃ kheṃ huṃ	ucCedaya SrI-mahArudraH AjQApayati Sabda-karI mohinI BagavatI Kem Kem hum
+   phaṭ svāhā /	Paw svAhA /
+   grāme vā nagare vāpi bhasmaprakṣepaṇena ca /	grAme vA nagare vA-api Basma-prakzepaNena ca /
+   ucchedanaṃ bhavaty eva ripūṇāṃ nātra saṃśayaḥ // UT_2.26	ucCedanam Bavati eva ripUNAm na-atra saMSayaH // UT_2.26
+   dūrīkṛtaṃ punar bhasma nagare vasate punaḥ /	dUrIkRtam punar Basma nagare vasate punar /
+   kulvīkāraṃ pravakṣyāmi śṛṇu yogaṃ samāsataḥ // UT_2.27	kulvIkAram pravakzyAmi SRNu yogam samAsatas // UT_2.27
+   yena yojitamātreṇa punaḥ kulvo bhaviṣyati /	yena yojita-mAtreNa punar kulvaH Bavizyati /
+   pādapāṃśusamāyuktair antarā ghṛtagomayaiḥ // UT_2.28	pAda-pAMSu-samAyuktEH antarA GRta-gomayEH // UT_2.28
+   vṛṣabhasya punaḥ śatroḥ kṛtvā caivākṛtiṃ budhaḥ /	vRzaBasya punar SatroH kRtvA ca-eva-AkRtim buDaH /
+   ekaviṃśativāraṃ hi mantreṇānena mantritām // UT_2.29	ekaviMSati-vAram hi mantreNa-anena mantri-tAm // UT_2.29
+   chedayet tīvraśastreṇa tataḥ kulvo bhaviṣyati /	Cedayet tIvra-SastreNa tatas kulvaH Bavizyati /
+   uoṃ namo bhagavate uḍḍāmareśvarāya kāmaprabhañjanāya amukaṃ cchaḥ cchaḥ	uom namaH Bagavate uxxAmara-ISvarAya kAma-praBaQjanAya amukam cCaH cCaH
+   svāhā /	svAhA /
+   prasthitānāṃ ca karaṇe mantreṇānena mantravit // UT_2.30	prasTitAnAm ca karaNe mantreNa-anena mantra-vid // UT_2.30
+   kṛtvā madhu ghṛtāktaṃ ca sthāne hy atra prayojayet /	kRtvA maDu GRta-aktam ca sTAne hi atra prayojayet /
+   snātvā ca gavyadugdhena tataḥ svastho bhaviṣyati // UT_2.31	snAtvA ca gavya-dugDena tatas svasTaH Bavizyati // UT_2.31
+   atha unmattīkaraṇam /	aTa unmattIkaraNam /
+   mūlaṃ kanakabījasya ghṛtacūrṇaṃ samantataḥ /	mUlam kanaka-bIjasya GRta-cUrNam samantataH /
+   gṛhacaṭakasya viṣṭā ca tathā karañjabījakam // UT_2.32	gRhacawakasya vizwA ca taTA karaQja-bIjakam // UT_2.32
+   etad unmattakaraṃ cūrṇaṃ bhakṣaṇāt tatkaraṃ vrajet /	etat unmatta-karam cUrNam BakzaNAt tad-karam vrajet /
+   ekaviṃśativāraṃ ca mantreṇānena mantritam // UT_2.33	ekaviMSati-vAram ca mantreNa-anena mantritam // UT_2.33
+   khāne pāne pradātavyam unmattaḥ syān na saṃśayaḥ /	KAne pAne pradAtavyam unmattaH syAt na saMSayaH /
+   uoṃ namo bhagavate uḍḍāmareśvarāya amukam unmādaya unmādaya cchaḥ cchaḥ	uom namaH Bagavate uxxAmara-ISvarAya amukam unmAdaya unmAdaya cCaH cCaH
+   svāhā /	svAhA /
+   ajakṣīreṇa śoṇitena pibet tu śatapuṣpikām // UT_2.34	aja-kzIreNa SoNitena pibet tu SatapuzpikAm // UT_2.34
+   ghṛtena saha vā pītvā tataḥ sampadyate sukham /	GRtena saha vA pItvA tatas sampadyate suKam /
+   ity unmattīkaraṇam /	iti unmattIkaraNam /
+   ekaviṃśativāraṃ hi mantritaṃ lavaṇaṃ kharam // UT_2.35	ekaviMSati-vAram hi mantritam lavaNam Karam // UT_2.35
+   karavīrakakāṣṭhāgnau mantrair dhūmena pācayet /	karavIraka-kAzWa-agnO mantrEH DUmena pAcayet /
+   lavaṇaṃ tantu saṃgṛhya cūrṇaṃ kṛtvā vicakṣaṇaḥ // UT_2.36	lavaNam tantu saMgRhya cUrNam kRtvA vicakzaNaH // UT_2.36
+   khāne pāne pradātavyaṃ mantreṇānena mantritam /	KAne pAne pradAtavyam mantreNa-anena mantritam /
+   mantritaṃ śatavāraṃ ca śatror vā yasya kasyacit // UT_2.37	mantritam Sata-vAram ca SatroH vA yasya kasyacid // UT_2.37
+   bhakṣaṇāc ca bhaved andho nātra kāryā vicāraṇā /	BakzaNAt ca Bavet anDaH na-atra kAryA vicAraNA /
+   uoṃ nama uḍḍāmareśvarāya śarīram andhaṃ kuru ṭhaḥ ṭhaḥ svāhā /	uom namaH uxxAmara-ISvarAya SarIram anDam kuru WaH WaH svAhA /
+   athānyat sampravakṣyāmi kuṣṭhīkaraṇam uttamam // UT_2.38	aTa-anyat sampravakzyAmi kuzWIkaraNam uttamam // UT_2.38
+   yena sampītamātreṇa kuṣṭhī bhavati mānavaḥ /	yena sampIta-mAtreNa kuzWI Bavati mAnavaH /
+   bhallātakarasaṃ guñjā tathā maṇḍalakārikā // UT_2.39	BallAtaka-rasam guQjA taTA maNxala-kArikAH // UT_2.39
+   gṛhagodhāsamāyuktā bhakṣe pāne pradāpayet /	gRha-goDA-samAyuktAH Bakze pAne pradApayet /
+   saptāhāj jāyate kuṣṭhaṃ tatpītaṃ ca samedhitam // UT_2.40	sapta-ahAt jAyate kuzWam tat-pItam ca sameDitam // UT_2.40
+   etasya śamanaṃ kuryād yathā rudreṇa bhāṣitam /	etasya Samanam kuryAt yaTA rudreNa BAzitam /
+   dhatrīkhadiranimbāni śarkarāsahitāni ca // UT_2.41	DatrI-Kadira-nimbAni SarkarA-sahitAni ca // UT_2.41
+   vicūrṇya madhusarpirbhyāṃ jīrṇāni dāpayed bhiṣak /	vicUrNya maDu-sarpirByAm jIrNAni dApayet Bizaj /
+   śālibhaktaṃ paṭolaṃ ca ghṛtayuktaṃ tu pāyasam // UT_2.42	SAli-Baktam pawolam ca GRta-yuktam tu pAyasam // UT_2.42
+   soṣṇaṃ vā mudgacūrṇaṃ tu śāliyuktam athāpi vā /	sa-uzNam vA mudga-cUrNam tu SAli-yuktam aTa-api vA /
+   etena dattamātreṇa naraḥ sampadyate sukham // UT_2.43	etena datta-mAtreNa naraH sampadyate suKam // UT_2.43
+   jalajīvaṃ tu saṃgṛhya śoṣayed ātape naraḥ /	jalajIvam tu saMgRhya Sozayet Atape naraH /
+   tasya saṃdāpayed dhīmān yasya icchet tu jīvitam // UT_2.44	tasya saMdApayet DImAn yasya icCet tu jIvitam // UT_2.44
+   aṅgadāhena tīvreṇa dhamet taṃ naṣṭacetasam /	aFga-dAhena tIvreNa Damet tam nazwa-cetasam /
+   yadīcchej jīvitaṃ tasya aṅgaṃ prakṣālayed dhruvam // UT_2.45	yadi-icCet jIvitam tasya aFgam prakzAlayet Druvam // UT_2.45
+   padamūlasya cūrṇaṃ tu kṣālayet kāñjikena tu /	pada-mUlasya cUrNam tu kzAlayet kAQjikena tu /
+   tailenodvartayel liṅgaṃ kṣālayet śītavāriṇā // UT_2.46	tElena-udvartayet liFgam kzAlayet SIta-vAriNA // UT_2.46
+   anena kriyamāṇena naraḥ sampadyate sukham /	anena kriyamANena naraH sampadyate suKam /
+   athānyat sampravakṣyāmi vaśyādikaraṇaṃ param // UT_2.47	aTa-anyat sampravakzyAmi vaSya-Adi-karaNam param // UT_2.47
+   yena vijñānamātreṇa loko bhavati kiṃkaraḥ /	yena vijQAna-mAtreNa lokaH Bavati kiMkaraH /
+   purāṇikasya hṛdayaṃ tathā kuṣṭhena bhāvitam // UT_2.48	purANikasya hRdayam taTA kuzWena BAvitam // UT_2.48
+   śivanirmālyaṃ saṃcūrṇaṃ yasya mūrdhni vinikṣipet /	Siva-nirmAlyam saMcUrNam yasya mUrDni vinikzipet /
+   niyataṃ kiṃkaro bhūtvā yāvaj jīvaṃ sa tiṣṭhati // UT_2.49	niyatam kiMkaraH BUtvA yAvat jIvam sa tizWati // UT_2.49
+   saptavāraṃ mantrayitvā mantreṇānena mantravit /	sapta-vAram mantrayitvA mantreNa-anena mantra-vid /
+   uoṃ namo bhagavate uḍḍāmareśvarāya svādhikāraṃ sādhaya sādhaya svāhā /	uom namaH Bagavate uxxAmara-ISvarAya sva-aDikAram sADaya sADaya svAhA /
+   candanaṃ tagaraṃ kuṣṭhaṃ priyaṅgunāgakesaram // UT_2.50	candanam tagaram kuzWam priyaFgu-nAgakesaram // UT_2.50
+   kṛṣṇadhattūrapañcāṅgaṃ samabhāgaṃ tu kārayet /	kRzNa-DattUra-paQcAFgam sama-BAgam tu kArayet /
+   chāyāyāṃ vaṭikā kāryā pradeyā khānapānataḥ // UT_2.51	CAyAyAm vawikA kAryA pradeyA KAna-pAnataH // UT_2.51
+   puruṣaṃ cātha vā narīṃ yāvaj jīvaṃ vaśaṃ nayet /	puruzam ca-aTa vA narIm yAvat jIvam vaSam nayet /
+   saptāhaṃ mantritaṃ kṛtvā mantreṇānena mantravit // UT_2.52	sapta-aham mantritam kRtvA mantreNa-anena mantra-vid // UT_2.52
+   uoṃ namo bhagavate mohamāline ṭhaḥ ṭhaḥ svāhā /	uom namaH Bagavate moha-mAline WaH WaH svAhA /
+   śaṅkhapuṣpī hy adhaḥpuṣpī tathā saṃkocapuṣpikā /	SaFKapuzpI hi aDaHpuzpI taTA saMkocapuzpikA /
+   śvetā ca girikarṇī ca samaṃ saptāhabhāvitāḥ // UT_2.53	SvetA ca girikarNI ca samam sapta-aha-BAvitAH // UT_2.53
+   svaśukreṇa samāyuktā khāne pāne pradāpayet /	sva-SukreNa samAyuktA KAne pAne pradApayet /
+   taṃ vaśīkaraṇaṃ proktaṃ yāvaj jīvaṃ na saṃśayaḥ // UT_2.54	tam vaSIkaraNam proktam yAvat jIvam na saMSayaH // UT_2.54
+   vajraṃ vāthābhayā lodhraṃ mañjiṣṭhā hiṅgupattrikā /	vajram vA-aTa-aBayA loDram maQjizWA hiFgupattrikA /
+   divyaṃ vacā viśālākṣā kambugrīvā suśobhanā // UT_2.55	divyam vacA viSAla-akzA kambu-grIvA su-SoBanAH // UT_2.55
+   kumārītvacāṅgalepena saptahastapramāṇataḥ /	kumArI-tvacA-aFga-lepena sapta-hasta-pramANataH /
+   dadāti daśamīnā ca mantraḥ kaścit pragṛhyate // UT_2.56	dadAti daSamInA ca mantraH kaScid pragRhyate // UT_2.56
+   viṣasuptapatitvena nātra kāryā vicāraṇā /	viza-supta-pati-tvena na-atra kAryA vicAraNA /
+   jalamadhye sahā cauraṃ kurute vartiko mama // UT_2.57	jala-maDye sahA cOram kurute vartikaH mama // UT_2.57
+   dadhi madhu navanītaṃ pippalī śṛṅgaveraṃ maricam api tu dadyāt saptamaṃ	daDi maDu navanItam pippalI SRFgaveram maricam api tu dadyAt saptamam
+   saindhavena /	sEnDavena /
+   yadi bhavati saroṣaṃ takṣakeṇāpi daṣṭaṃ gadam iha khalu pītvā nirviṣaṃ	yadi Bavati sa-rozam takzakeNa-api dazwam gadam iha Kalu pItvA nirvizam
+   tatkṣaṇaṃ syāt // UT_2.58	tad-kzaNam syAt // UT_2.58
+   kuṣṭhāmṛtā cātiviṣā haridrāyā vilepanam /	kuzWa-amRtA ca-ativizA haridrAyAH vilepanam /
+   garuḍoktaṃ viṣaharam auṣadhaṃ prāṇijīvanam // UT_2.59	garuxa-uktam viza-haram OzaDam prANi-jIvanam // UT_2.59
+   ulūkasya jambukasya gṛdhrasya mahiṣasya ca /	ulUkasya jambukasya gRDrasya mahizasya ca /
+   biḍālasya varāhasya kākabhekasya ca tvacaḥ // UT_2.60	bixAlasya varAhasya kAka-Bekasya ca tvacaH // UT_2.60
+   mūṣakasya tu netraṃ ca sūkṣmacūrṇāni kārayet /	mUzakasya tu netram ca sUkzma-cUrNAni kArayet /
+   anenāñjitanetro hi rātrau paśyed yathā divā // UT_2.61	anena-aQjita-netraH hi rAtrO paSyet yaTA divA // UT_2.61
+   eteṣāṃ yogamantro 'yaṃ manuhīno na sidhyati /	etezAm yoga-mantraH ayam manu-hInaH na siDyati /
+   uoṃ namo bhagavate rudrāya śivāya jyotiṣāṃ pataye dehi jyotīṃṣi	uom namaH Bagavate rudrAya SivAya jyotizAm pataye dehi jyotIMzi
+   mativīryakaraṇāya svāhā /	mati-vIrya-karaNAya svAhA /
+   ekarātroṣito bhūtvā kṛṣṇāṣṭamyāṃ samāhitaḥ // UT_2.62	eka-rAtra-uzitaH BUtvA kRzNa-azwamyAm samAhitaH // UT_2.62
+   liṅgasampūjanaṃ kṛtvā jalaṃ caivābhimantrayet /	liFga-sampUjanam kRtvA jalam ca-eva-aBimantrayet /
+   dakṣiṇasyāṃ diśi sthitvā śatam aṣṭottaraṃ japet // UT_2.63	dakziNasyAm diSi sTitvA Satam azwa-uttaram japet // UT_2.63
+   tataḥ sidhyanti mantrāṇi cāñjanāni samantataḥ /	tatas siDyanti mantrANi ca-aQjanAni samantataH /
+   uoṃ namo bhagavate uḍḍāmareśvarāya añjanamantrasiddhiṃ dehi me svāhā ity	uom namaH Bagavate uxxAmara-ISvarAya aQjana-mantra-sidDim dehi me svAhA iti-
+   añjanādhikāraḥ /	aQjana-aDikAraH /
+   atha piśācīkaraṇam /	aTa piSAcIkaraNam /
+   kanakasya ca bījāni priyaṅgu guggulas tathā // UT_2.64	kanakasya ca bIjAni priyaFgu guggulaH taTA // UT_2.64
+   ātmānaṃ dhūpayitvā tu yojayed rājasaṃsadi /	AtmAnam DUpayitvA tu yojayet rAja-saMsadi /
+   yogam imaṃ samāghrāti sa vaśyo jāyate bhṛśam // UT_2.65	yogam imam samAGrAti sa vaSyaH jAyate BRSam // UT_2.65
+   kanakasya tu bījāni śvetārkacandrakesaram /	kanakasya tu bIjAni Sveta-arka-candra-kesaram /
+   kuṣṭhaṃ ca devadāruṃ ca sarvam ekīkṛtaṃ tathā // UT_2.66	kuzWam ca devadArum ca sarvam ekIkRtam taTA // UT_2.66
+   piṣṭvā tena liptagātro yogaśaktyā baliṣṭhayā /	pizwvA tena lipta-gAtraH yoga-SaktyA balizWayA /
+   yatra yatra praviṣṭas tu tatra tatra jayī bhavet // UT_2.67	yatra yatra pravizwaH tu tatra tatra jayI Bavet // UT_2.67
+   Uḍḍāmareśvaratantra, Tṛtīyaḥ paṭalaḥ	UxxAmara-ISvara-tantra, TRtIyaH pawalaH
+   kākasya pakṣau saṃgṛhya sarpakañcukam eva ca /	kAkasya pakzO saMgRhya sarpa-kaQcukam eva ca /
+   śmaśānabhasmasaṃyuktaṃ śatror uccāṭanaṃ bhavet // UT_3.1	SmaSAna-Basma-saMyuktam SatroH uccAwanam Bavet // UT_3.1
+   ity uccāṭanādhikāraḥ /	iti uccAwana-aDikAraH /
+   bhūtavādaṃ pravakṣyāmi yathā garuḍabhāṣitam /	BUtavAdam pravakzyAmi yaTA garuxa-BAzitam /
+   yenaiva jñātamātreṇa śatravo yānti vaśyatām // UT_3.2	yena-eva jQAta-mAtreNa SatravaH yAnti vaSya-tAm // UT_3.2
+   śatruniryāsaṃ saṃgṛhya cūrṇaṃ sattvaṃ ca tasya vai /	Satru-niryAsam saMgRhya cUrNam sattvam ca tasya vE /
+   bhāvayet saptarātraṃ tu bhojanaiḥ saha dāpayet // UT_3.3	BAvayet sapta-rAtram tu BojanEH saha dApayet // UT_3.3
+   dattamātreṇa tenaiva piśācair gṛhyate tu saḥ /	datta-mAtreNa tena-eva piSAcEH gRhyate tu saH /
+   svasthīkāre pradātavyā jayā tu madhuyaṣṭikā // UT_3.4	svasTIkAre pradAtavyA jayA tu maDuyazwikAH // UT_3.4
+   niryāsaiḥ śālasambhūtair bījāni katakasya ca /	niryAsEH SAla-samBUtEH bIjAni katakasya ca /
+   bhāvayet saptarātraṃ tu bhojanaiḥ saha dīyate // UT_3.5	BAvayet sapta-rAtram tu BojanEH saha dIyate // UT_3.5
+   tasya bhakṣaṇamātreṇa grahaiḥ saṃgṛhyate naraḥ /	tasya BakzaNa-mAtreNa grahEH saMgRhyate naraH /
+   śarkarādugdhapānena svastho bhavati nānyathā // UT_3.6	SarkarA-dugDa-pAnena svasTaH Bavati na-anyaTA // UT_3.6
+   vāstukasya tu niryāsaṃ bījāni katakasya ca /	vAstukasya tu niryAsam bIjAni katakasya ca /
+   marditvā yātayāmābhyāṃ gṛhyate brahmarākṣasaiḥ // UT_3.7	marditvA yAtayAmAByAm gRhyate brahmarAkzasEH // UT_3.7
+   śarkarādugdhapānena svastho bhavati nānyathā /	SarkarA-dugDa-pAnena svasTaH Bavati na-anyaTA /
+   kapikacchukaniryāsair mātuluṅgasya bījakam // UT_3.8	kapikacCuka-niryAsEH mAtuluFgasya bIjakam // UT_3.8
+   bhāvayet saptarātraṃ tu bhakṣye pāne pradāpayet /	BAvayet sapta-rAtram tu Bakzye pAne pradApayet /
+   uoṃ namo bhagavate uḍḍāmareśvarāya maheśvaro nāma svāhā /	uom namaH Bagavate uxxAmara-ISvarAya maheSvaraH nAma svAhA /
+   āmalakyāś ca cūrṇena strīdugdhasahitena ca // UT_3.9	AmalakyAH ca cUrNena strI-dugDa-sahitena ca // UT_3.9
+   pāyayitvā viṣkṛtaṃ tu svāsthyaṃ saṃjāyate dhruvam /	pAyayitvA vizkRtam tu svAsTyam saMjAyate Druvam /
+   śarkarāpadmakiñjalkapadmakesarakalkakaiḥ // UT_3.10	SarkarA-padma-kiQjalka-padma-kesara-kalkakEH // UT_3.10
+   cūrṇīkṛtais tac cūrṇaṃ tu dugdhena saha dāpayet /	cUrNIkRtEH tat cUrNam tu dugDena saha dApayet /
+   tadā duṣṭagrahair muktaḥ svasthaś ca jāyate naraḥ // UT_3.11	tadA duzwa-grahEH muktaH svasTaH ca jAyate naraH // UT_3.11
+   Uḍḍāmareśvaratantra, Caturthaḥ paṭalaḥ	UxxAmara-ISvara-tantra, CaturTaH pawalaH
+   athātaḥ sampravakṣyāmi bhūtavāde sudurlabham /	aTa-atas sampravakzyAmi BUta-vAde su-durlaBam /
+   yena vijñānamātreṇa sarvasiddhiḥ prajāyate // UT_4.1	yena vijQAna-mAtreNa sarva-sidDiH prajAyate // UT_4.1
+   uoṃ hrīṃ kālī kaṅkālī kila kila svāhā /	uom hrIm kAlI kaFkAlI kila kila svAhA /
+   idaṃ mantraṃ pūrvaṃ sahasradaśakaṃ japet /	idam mantram pUrvam sahasra-daSakam japet /
+   tataḥ sahasraṃ juhuyāt kaṅkālī varadā bhavati suvarṇamāṣacatuṣṭayaṃ	tatas sahasram juhuyAt kaFkAlI vara-dA Bavati suvarNa-mAza-catuzwayam
+   pratyahaṃ dadāti /	pratyaham dadAti /
+   atha sarvajanamukhastambhanam antaḥ uoṃ hrīṃ namo bhagavatī durvacatī kili	aTa sarva-jana-muKa-stamBanam antar uom hrIm namaH BagavatI durvacatI kili
+   vācābhañjanī sarvajanamukhastambhinī hrāṃ hrīṃ hraiṃ hrauṃ hraḥ svāhā /	vAcA-BaQjanI sarva-jana-muKa-stamBinI hrAm hrIm hrEm hrOm hraH svAhA /
+   anena mantreṇa bilvamaricaṃ ghṛtāktaṃ sahasrahavanaṃ kuryāt	anena mantreNa bilva-maricam GRta-aktam sahasra-havanam kuryAt-
+   samastajanapadāḥ kiṃkarā bhavanti /	samasta-janapadAH kiMkarAH Bavanti /
+   etanmantreṇa yadi nyagrodhasamidhaṃ ghṛtāktāṃ sahasraikaṃ homayet tadā	etat-mantreNa yadi nyagroDa-samiDam GRta-aktAm sahasra-ekam homayet tadA
+   strīvaśyaṃ bhavati /	strI-vaSyam Bavati /
+   uoṃ rauṃ hrīṃ hūṃ hūṃ eṃ vada vada vāgvādinī vāgīśvarī namaḥ svāhā /	uom rOm hrIm hUm hUm em vada vada vAc-vAdinI vAgISvarI namaH svAhA /
+   anena mantreṇa sahasrajaptena kavitvaṃ karoti nātra saṃdehaḥ /	anena mantreNa sahasra-japtena kavi-tvam karoti na-atra saMdehaH /
+   uoṃ uoṃ uoṃ īṃ īṃ īṃ aiṃ aiṃ aiṃ namaḥ svāhā /	uom uom uom Im Im Im Em Em Em namaH svAhA /
+   anena mantreṇa daśasahasrajaptena kavitvaṃ karoti // UT_4.2	anena mantreNa daSa-sahasra-japtena kavi-tvam karoti // UT_4.2
+   Uḍḍāmareśvaratantra, Pañcamaḥ paṭalaḥ	UxxAmara-ISvara-tantra, PaQcamaH pawalaH
+   śṛṇu putra pravakṣyāmi yathā trailokyamohanam /	SRNu putra pravakzyAmi yaTA trElokya-mohanam /
+   parapuruṣā vaśaṃ yānti yathāvat kathayāmi te // UT_5.1	para-puruzAH vaSam yAnti yaTAvat kaTayAmi te // UT_5.1
+   elā kuṣṭhaṃ ca lodhraṃ ca vacā ca raktacandanam /	elA kuzWam ca loDram ca vacA ca raktacandanam /
+   śmaśānabhasmasaṃyuktaṃ prayogaṃ māraṇāntakam // UT_5.2	SmaSAna-Basma-saMyuktam prayogam mAraNa-antakam // UT_5.2
+   māraṇaṃ saṃkocakaraṇam /	mAraNam saMkoca-karaNam /
+   kulatthaṃ bilvapattraṃ ca rocanā ca manaḥśilā /	kulatTam bilva-pattram ca rocanA ca manaHSilA /
+   etāni samabhāgāni sthāpayet tāmrabhājane // UT_5.3	etAni sama-BAgAni sTApayet tAmra-BAjane // UT_5.3
+   saptarātre sthite pātre tailam ebhiḥ paced budhaḥ /	sapta-rAtre sTite pAtre tElam eBiH pacet buDaH /
+   tailena bhagam ālipya bhartāram upagacchati // UT_5.4	tElena Bagam Alipya BartAram upagacCati // UT_5.4
+   samprāpya maithunaṃ bhartā dāso bhavati nānyathā /	samprApya mETunam BartA dAsaH Bavati na-anyaTA /
+   nāgaraiḥ madhusaṃyuktair guṭikāṃ kārayed budhaḥ // UT_5.5	nAgarEH maDu-saMyuktEH guwikAm kArayet buDaH // UT_5.5
+   aśvamūtreṇa saṃyujya puruṣāṇāṃ vaśaṃkaram /	aSva-mUtreNa saMyujya puruzANAm vaSaMkaram /
+   kuṅkumaṃ śatapuṣpaṃ ca priyaṅgu rocanaṃ tataḥ // UT_5.6	kuFkumam Satapuzpam ca priyaFgu rocanam tatas // UT_5.6
+   ajākṣīreṇa dātavyaṃ yā bhāryā durbhagā bhavet /	ajA-kzIreNa dAtavyam yA BAryA durBagA Bavet /
+   tataḥ sā subhagā nityaṃ patidāsatvam āpnuyāt // UT_5.7	tatas sA suBagA nityam pati-dAsa-tvam ApnuyAt // UT_5.7
+   mātuluṅgasya bījāni paṅkajasya phalāni ca /	mAtuluFgasya bIjAni paFkajasya PalAni ca /
+   samudrajaṃ raktacūrṇaṃ madhunā saha lepayet // UT_5.8	samudrajam rakta-cUrNam maDunA saha lepayet // UT_5.8
+   tailayojitamātreṇa patir dāso bhaved dhruvam /	tEla-yojita-mAtreNa patiH dAsaH Bavet Druvam /
+   adhunā sampravakṣyāmi yogānāṃ sāram uttamam // UT_5.9	aDunA sampravakzyAmi yogAnAm sAram uttamam // UT_5.9
+   yena vijñātamātreṇa narī bhavati kiṃkarī /	yena vijQAta-mAtreNa narI Bavati kiMkarI /
+   uśīraṃ candanaṃ caiva madhunā saha saṃyutam // UT_5.10	uSIram candanam ca-eva maDunA saha saMyutam // UT_5.10
+   gajahastaprayogo 'yaṃ sarvanarīprayojakaḥ /	gaja-hasta-prayogaH ayam sarva-narI-prayojakaH /
+   kevalaṃ śaśinā yuktaṃ kuṅkumaṃ lepayed bhage // UT_5.11	kevalam SaSinA yuktam kuFkumam lepayet Bage // UT_5.11
+   nijavaj jāyate sāṅgaṃ jāyate yonisaṃcayam /	nija-vat jAyate sAFgam jAyate yoni-saMcayam /
+   lavaṃgaṃ saindhavaṃ kṣaudraṃ pippalī maricāni ca // UT_5.12	lavaMgam sEnDavam kzOdram pippalI maricAni ca // UT_5.12
+   narasya lepayed gātraṃ sa bhaved gajahastavat /	narasya lepayet gAtram sa Bavet gaja-hasta-vat /
+   varaṭāveśmasambānaṃ śītatoyena peṣayet // UT_5.13	varawA-veSma-sambAnam SIta-toyena pezayet // UT_5.13
+   tenaiva liptamātreṇa bhage randhro na jāyate /	tena-eva lipta-mAtreNa Bage ranDraH na jAyate /
+   tatra prakṣālitenātha prasavatvaṃ bhaviṣyati // UT_5.14	tatra prakzAlitena-aTa prasava-tvam Bavizyati // UT_5.14
+   yaḥ svaretaḥ samādāya ratyante savyapāṇinā /	yaH svaretaH samAdAya ratyante savya-pANinA /
+   vāmapādaṃ striyo limpet sā tasya vaśagā bhavet // UT_5.15	vAma-pAdam striyaH limpet sA tasya vaSagAH Bavet // UT_5.15
+   yā bhogaśeṣe kāntasya liṅgaṃ vāmāṅghriṇā spṛśet /	yA Boga-Seze kAntasya liFgam vAma-aFGriNA spRSet /
+   yāvad āyur bhaved dāsaḥ sa tasyā nātra saṃśayaḥ // UT_5.16	yAvat AyuH Bavet dAsaH sa tasyAH na-atra saMSayaH // UT_5.16
+   kapotaviṣṭhā sindhūtthamadhukaiḥ samabhāgikaiḥ /	kapota-vizWA sinDUtTa-maDukEH sama-BAgikEH /
+   liptvā liṅgaṃ bhajed yāṃ tu sā vaśyā syād varāṅganā // UT_5.17	liptvA liFgam Bajet yAm tu sA vaSyA syAt vara-aFganA // UT_5.17
+   ghanasāraṃ satallavyaṃ meḍhraṃ ca madhunā saha /	GanasAram sa-tallavyam meXram ca maDunA saha /
+   piṣṭvā liptvā rajo yāṃ ca bhajet sā vaśyagā bhavet // UT_5.18	pizwvA liptvA rajaH yAm ca Bajet sA vaSya-gAH Bavet // UT_5.18
+   rocanā kanakaṃ śambhubījaṃ karpūracandanam /	rocanA kanakam SamBubIjam karpUracandanam /
+   ebhir viliptaliṅgo yāṃ bhajate sā vaśā bhavet // UT_5.19	eBiH vilipta-liFgaH yAm Bajate sA vaSA Bavet // UT_5.19
+   Uḍḍāmareśvaratantra, ṣaṣṭhaḥ paṭalaḥ	UxxAmara-ISvara-tantra, zazWaH pawalaH
+   kṛṣṇacchāgaromakṛṣṇamārjāraromakṛṣṇakākaromāṇi kṛṣṇāṣṭamyāṃ	kRzNa=-CAga-roma-kRzNa-mArjAra-roma-kRzNa-kAka-romANi kRzNa-azwamyAm
+   kṛṣṇacaturdaśyāṃ vā śanibhaumayor vāre 'śleṣānakṣatre ārdrānakṣatre vā	kRzNa-caturdaSyAm vA Sani-BOmayoH vAre aSlezA-nakzatre ArdrA-nakzatre vA
+   samabhāgāni kṛtvā kūpataḍāganadīpayasā peṣayitvā guṭikāṃ kṛtvā saṃgrāme	sama-BAgAni kRtvA kUpa-taxAga-nadI-payasA pezayitvA guwikAm kRtvA saMgrAme
+   copaviśet /	ca-upaviSet /
+   raṇapāṃśunā tilakaṃ kuryāt /	raNa-pAMSunA tilakam kuryAt /
+   athānantaraṃ ye 'nye puruṣā darśanaṃ kurvanti te kampayanti mūrchayanti	aTa-anantaram ye anye puruzAH darSanam kurvanti te kampayanti mUrCayanti
+   utpatanti palāyante /	utpatanti palAyante /
+   ye piṣṭvā lepaṃ kurvanti teṣāṃ śuci kāpi patati na muñcati /	ye pizwvA lepam kurvanti tezAm Suci kA-api patati na muQcati /
+   eṣa yogo mayā prokto devānām api durlabhaḥ /	eza yogaH mayA proktaH devAnAm api durlaBaH /
+   nivedanīyaḥ kasyāpi na kadācid iti bruve // UT_6.1	nivedanIyaH kasya-api na kadAcid iti bruve // UT_6.1
+   athātaḥ sampravakṣyāmi śarīrajñānam uttamam /	aTa-atas sampravakzyAmi SarIra-jQAnam uttamam /
+   yena vijñānamātreṇa jāyate ca śubhāśubham // UT_6.2	yena vijQAna-mAtreNa jAyate ca SuBa-aSuBam // UT_6.2
+   jīvitaṃ maraṇaṃ caiva lābhālābhaṃ jayājayam /	jIvitam maraNam ca-eva lABa-alABam jaya-ajayam /
+   sukhaduḥkhaṃ bhavābhāvau gamanāgamanaṃ tathā // UT_6.3	suKa-duHKam Bava-aBAvO gamana-Agamanam taTA // UT_6.3
+   himālayasutā vai hi pṛṣṭavatī vṛṣadhvajam /	himAlaya-sutA vE hi pRzwavatI vRzaDvajam /
+   atha pṛthivyaptejovāyvākāśāni tattvāni tatra guror bṛhatprasādena śāstrāṇi	aTa pRTivI-ap-tejaH-vAyu-AkASAni tattvAni tatra guroH bRhat-prasAdena SAstrANi
+   ca yena yogenātītena trailokyaṃ sacarācaraṃ jātam eva /	ca yena yogena-atItena trElokyam sa-carAcaram jAtam eva /
+   yeṣāṃ samayogāni sthūlasūkṣmāṇi kathyante /	yezAm sama-yogAni sTUla-sUkzmANi kaTyante /
+   sa ca sampretya ceṣṭāyāṃ lakṣyate tasyāḥ kiṃ nāma tasya ca kā jijñāsā	sa ca sampretya cezwAyAm lakzyate tasyAH kim nAma tasya ca kA jijQAsA
+   yathāpad ucyate cāhus tataḥ pañcatattvāni paṭhyante /	yaTA-Apad ucyate ca-AhuH tatas paQca-tattvAni paWyante /
+   samprati dūto yad āgatya vadati tasya vāg udeti pañcatattvākṣarāṇi jñātvā	samprati dUtaH yat Agatya vadati tasya vAc udeti paQca-tattva-akzarANi jQAtvA
+   yasya tattvākṣarasya vaktre tattvākṣarāṇi bhavanti praśnacintāyāṃ sa	yasya tattva-akzarasya vaktre tattva-akzarANi Bavanti praSna-cintAyAm sa
+   tattvaṃ japati /	tattvam japati /
+   yadi praśnacintāyāṃ pṛthivītattvākṣarāṇi bhavanti tadā pṛthvītattvaṃ	yadi praSna-cintAyAm pRTivI-tattva-akzarANi Bavanti tadA pRTvI-tattvam
+   bhavati /	Bavati /
+   yady eṣām adhikā bhavanti tadā pānīyatattvāni bhavanti tattvākṣarāṇīty	yadi ezAm aDikAH Bavanti tadA pAnIya-tattvAni Bavanti tattva-akzarANi-iti-
+   arthaḥ /	arTaH /
+   aāiīuūṛṝḷḹ etāni pṛthvītattvākṣarāṇi /	aAiIuURL?? etAni pRTvI-tattva-akzarANi /
+   eaioauaṃaḥ etāni jalatattvākṣarāṇi /	eEoOaMaH etAni jala-tattva-akzarANi /
+   kakhagaghaṅacachajajhaña etāni tejastattvākṣarāṇi /	kaKa-ga-GaFacaCaja-JaQaH etAni tejaH-tattva-akzarANi /
+   ṭaṭhaḍaḍhaṇatathadadhanapaphababhama etāni vāyutattvākṣarāṇi /	waWaxa-XaNa-taTa-t-aDana-paPa-baBamaH etAni vAyu-tattva-akzarANi /
+   yaralavaśaṣasaha tāny ākāśatattvākṣarāṇi /	yaralava-Saza-saha tAni AkASa-tattva-akzarANi /
+   etāni vardhitavākyenādhikākṣarāṇi bhavanti /	etAni varDita-vAkyena-aDika-akzarANi Bavanti /
+   vividhaprakāracintāḥ samaviṣamākṣarāṇi pṛthvītattvāni jñātavyānīti /	viviDa-prakAra-cintAH sama-vizama-akzarANi pRTvI-tattvAni jQAtavyAni-iti /
+   jīvitamaraṇalābhālābhajayaparājayasukhaduḥkhagamanāgamanāni ca yāni samāni	jIvita-maraNa-lABAlABa-jaya-parAjaya-suKa-duHKa-gamana-AgamanAni ca yAni samAni
+   viṣamāṇi aptattvāni nirvācitavyāni /	vizamANi ap-tattvAni nirvAcitavyAni /
+   yadā cittaṃ bhavati kṛtasya vākyaviṣaye pṛthivīviṣaye tadā	yadA cittam Bavati kRtasya vAkya-vizaye pRTivI-vizaye tadA
+   salilatattvākṣarāṇi bhavanti tadā sa japtaṃ japati /	salila-tattva-akzarANi Bavanti tadA sa japtam japati /
+   apcintāyāṃ yadā pṛthivītattvākṣarāṇi bhavanti tadā pṛthvītattvaṃ bhavati /	apcintAyAm yadA pRTivI-tattva-akzarANi Bavanti tadA pRTvI-tattvam Bavati /
+   evam anyeṣv api boddhavyam /	evam anyezu api bodDavyam /
+   akṣarāṇi yena kathayati /	akzarANi yena kaTayati /
+   lābhacintāyāṃ tejākāśākṣarāṇi adhikāni bhavanti tadā te 'śubho 'dhikataro	lABa-cintAyAm teja-AkASa-akzarANi aDikAni Bavanti tadA te aSuBaH aDika-taraH-
+   bhavitā /	BavitA /
+   yadā deśāt tattvād vā gamanādikaṃ tejasaḥ grāmacalite saṃgrāmagamane ahetu	yadA deSAt tattvAt vA gamana-Adikam tejasaH grAma-calite saMgrAma-gamane ahetu
+   ake ḍake taijasākṣarāṇy adhikāni bhavanti /	ake xake tEjasa-akzarANi aDikAni Bavanti /
+   pṛthivyaptejovāyvākāśā eteṣām akṣarāṇi vivāhakāle eteṣu tejo'kṣarāṇi	pRTivI-ap-tejaH-vAyu-AkASAH etezAm akzarANi vivAha-kAle etezu tejaH-akzarANi
+   śubhahārakāṇi bhavanti // UT_6.4	SuBa-hArakANi Bavanti // UT_6.4
+   Uḍḍāmareśvaratantra, Saptamaḥ paṭalaḥ	UxxAmara-ISvara-tantra, SaptamaH pawalaH
+   athauṣadhīkaraṇaṃ nirūpyate /	aTa-OzaDIkaraNam nirUpyate /
+   oṣadhī paramā śreṣṭhā gopitavyā prayatnataḥ /	ozaDI paramA SrezWA gopitavyA prayatnataH /
+   yasyāḥ prayogamātreṇa devatā yānti vaśyatām // UT_7.1	yasyAH prayoga-mAtreNa devatAH yAnti vaSya-tAm // UT_7.1
+   oṣadhī sā budhaiḥ proktā cāṇḍālī lokaviśrutā /	ozaDI sA buDEH proktA cANxAlI loka-viSrutA /
+   surāsuragaṇaiḥ pūjyā sarvakāryārthasādhinī // UT_7.2	sura-asura-gaNEH pUjyA sarva-kArya-arTa-sADinI // UT_7.2
+   ekapattrī dvipattrī ca tripattrī turyapattrikā /	ekapattrI dvipattrI ca tripattrI turyapattrikA /
+   anena vidhinā devi catuścaraṇagāminī // UT_7.3	anena viDinA devi catur-caraNa-gAminI // UT_7.3
+   mānuṣāṇāṃ viśeṣeṇa vaśyakarmaṇi yojitā /	mAnuzANAm viSezeNa vaSyakarmaNi yojitA /
+   ekapattrī tu svāṅgamalasaṃyuktā striyaṃ vaśam ānayati dvipattrī rājño	ekapattrI tu sva-aFga-mala-saMyuktA striyam vaSam Anayati dvipattrI rAjQaH-
+   rājapuruṣān /	rAja-puruzAn /
+   tripattrī śrīśākamaricasahitā duṣṭāṃ camūṃ vaśam ānayati catuṣpattrī ca	tripattrI SrI-SAka-marica-sahitA duzwAm camUm vaSam Anayati catuzpattrI ca
+   kandusahitā mattaduṣṭagajaṃ vaśam ānayati /	kandu-sahitA matta-duzwa-gajam vaSam Anayati /
+   athotpāṭanavidhiḥ kathyate śanivāre śucir bhūtvā sāyaṃ saṃdhyādikaṃ	aTa-utpAwana-viDiH kaTyate SanivAre SuciH BUtvA sAyam saMDyA-Adikam
+   vidhāya gandhapuṣpadhūpadīpanaivedyādibhiḥ pañcopacāraiḥ pūjādikaṃ vidhāya	viDAya ganDa-puzpa-DUpa-dIpa-nEvedya-AdiBiH paQca-upacArEH pUjA-Adikam viDAya
+   akṣataṃ phalaṃ haste gṛhītvā oṣadhisamīpe sthitvābhimantraṇaṃ kuryāt /	akzatam Palam haste gRhItvA ozaDi-samIpe sTitvA-aBimantraNam kuryAt /
+   tato 'nudite bhānau khadirakāṣṭhakalikena khanayet /	tatas anudite BAnO Kadira-kAzWa-kalikena Kanayet /
+   tatra mantraḥ yena tvāṃ khanate brahmā hṛṣīkeśo maheśvaraḥ /	tatra mantraH yena tvAm Kanate brahmA hRzIkeSaH maheSvaraH /
+   śacīpatiḥ pitṛpatir jaleśaś ca dhanādhipaḥ /	SacIpatiH pitRpatiH jaleSaH ca DanADipaH /
+   tena tvāṃ khanayiṣyāmi tiṣṭha tiṣṭha mahauṣadhi /	tena tvAm KanayizyAmi tizWa tizWa mahOzaDi /
+   iti paṭhitvā khanayet /	iti paWitvA Kanayet /
+   śucir ārabhya ekānte prabhāte mantramuktitaḥ // UT_7.4	SuciH AraBya ekAnte praBAte mantra-muktitaH // UT_7.4
+   saṃgrāhyam auṣadhaṃ siddhyai na bhavanti hi kāṣṭhavat /	saMgrAhyam OzaDam sidDyE na Bavanti hi kAzWa-vat /
+   namo 'stv amṛtasambhūte balavīryavivardhini // UT_7.5	namaH astu amRta-samBUte bala-vIrya-vivarDini // UT_7.5
+   balam āyuś ca me dehi pāpaṃ me naya dūrataḥ /	balam AyuH ca me dehi pApam me naya dUratas /
+   yena cānena mantreṇa khanitvotpāṭyamānaṃ kṛtvā yaḥ pūrvam ānīto yo 'nyathā	yena ca-anena mantreNa KanitvA-utpAwyamAnam kRtvA yaH pUrvam AnItaH yaH anyaTA
+   bhavet /	Bavet /
+   atraiva tiṣṭha kalyāṇi mama kārśyakarī bhava // UT_7.6	atra-eva tizWa kalyANi mama kArSya-karI Bava // UT_7.6
+   mama kārye kṛte siddhe itas tvaṃ hi gamiṣyasi /	mama kArye kRte sidDe itas tvam hi gamizyasi /
+   uoṃ hīṃ raktacāmuṇḍe hūṃ phaṭ svāhā /	uom hIm rakta-cAmuNxe hUm Paw svAhA /
+   anena mantreṇa puṣyarkṣe hastarkṣe vā nakṣatre sarvāś cauṣadhya utpāṭanīyā	anena mantreNa puzya-Rkze hasta-Rkze vA nakzatre sarvAH ca-ozaDyaH utpAwanIyA
+   yair naraiś ca udite bhānau oṣadhyaḥ khanyante utpāṭyante utpadyante vā	yEH narEH ca udite BAnO ozaDyaH Kanyante utpAwyante utpadyante vA
+   tāsāṃ ravikiraṇapītaprabhāvenāvīryaprabhāvo bhavati /	tAsAm ravi-kiraNa-pIta-praBAvena-avIrya-praBAvaH Bavati /
+   siddhikārikā na bhavanti /	sidDi-kArikAH na Bavanti /
+   yady udite bhāskare utpāṭyante tadā tāsāṃ pūjā kartavyā /	yadi udite BAskare utpAwyante tadA tAsAm pUjA kartavyA /
+   japāraktotpalaraktakaravīraraktacandanakuṅkumena gavyagomayena	japA-rakta-utpala-rakta-karavIra-raktacandana-kuFkumena gavya-gomayena
+   sapādahastabhūmiṃ saṃlipya tanmadhye caturasraṃ kārayet /	sa-pAda-hasta-BUmim saMlipya tad-maDye catur-asram kArayet /
+   raktacandanakuṅkumābhyāṃ tanmadhye vartulaṃ vitastimātraṃ bhānuṃ pūjayet /	raktacandana-kuFkumAByAm tad-maDye vartulam vitasti-mAtram BAnum pUjayet /
+   pārśve candrādigrahān pūjayet /	pArSve candra-Adi-grahAn pUjayet /
+   tato raktabhaktapuṣparaktair vakṣyamāṇamantreṇa baliṃ dadyāt /	tatas rakta-Bakta-puzpa-raktEH vakzyamANa-mantreNa balim dadyAt /
+   uoṃ drāṃ drīṃ drūṃ draiṃ drauṃ draḥ saḥ svāhā /	uom drAm drIm drUm drEm drOm draH saH svAhA /
+   anena mantreṇa pūjāṃ kṛtvotpāṭayed vīryayuktā bhavati sarvakāryakṣamā	anena mantreNa pUjAm kRtvA-utpAwayet vIrya-yuktA Bavati sarva-kArya-kzamA
+   bhavati // UT_7.7	Bavati // UT_7.7
+   Uḍḍāmareśvaratantra, Aṣṭamaḥ paṭalaḥ	UxxAmara-ISvara-tantra, AzwamaH pawalaH
+   athānyat sampravakṣyāmi nārīṇāṃ garbhadhāraṇam /	aTa-anyat sampravakzyAmi nArINAm garBa-DAraNam /
+   padmabījaṃ gavyapayasā saha yā narī pibati sā garbhavatī bhavati satyam	padma-bIjam gavya-payasA saha yA narI pibati sA garBavatI Bavati satyam
+   eva ādityavāre nimantrayet candravāre bhakṣayet /	eva Aditya-vAre nimantrayet candra-vAre Bakzayet /
+   pūrvadigbhāgasthitaṃ śarīṣamūlaṃ gavyaghṛtena saha ṛtusamaye bhakṣayet sā	pUrva-diS-BAga-sTitam SarIza-mUlam gavya-GRtena saha Rtu-samaye Bakzayet sA
+   saṃvatsareṇa garbhavatī bhavati /	saMvatsareNa garBavatI Bavati /
+   anapatyā ca yā narī kapitthaṃ bhakṣayet sadā /	anapatyA ca yA narI kapitTam Bakzayet sadA /
+   abhimantrya tu mantreṇa sāpi putravatī bhavet // UT_8.1	aBimantrya tu mantreNa sA-api putravatI Bavet // UT_8.1
+   ekavṛkṣataṭe nārī snānaṃ kṛtvābhimantrayet /	eka-vRkza-tawe nArI snAnam kRtvA-aBimantrayet /
+   ādivandhyāpi deveśi bhaved garbhavatī hi sā // UT_8.2	Adi-vanDyA-api deveSi Bavet garBavatI hi sA // UT_8.2
+   devaḥ śivo bhaved yatra nadīsaṅgam asaṃnidhau /	devaH SivaH Bavet yatra nadI-saFgam asaMniDO /
+   tasyāṃ nadyāṃ diśi svāhā vandhyā putravatī bhavet // UT_8.3	tasyAm nadyAm diSi svAhA vanDyA putravatI Bavet // UT_8.3
+   vidhir atrocyate kapilāgomayenātha bhūmiṃ saṃlipya yatnataḥ /	viDiH atra-ucyate kapilA-gomayena-aTa BUmim saMlipya yatnatas /
+   snātvā vidhiprakāreṇa maṇḍalaṃ kārayet tataḥ // UT_8.4	snAtvA viDi-prakAreNa maNxalam kArayet tatas // UT_8.4
+   caturasraṃ catuṣkoṇaṃ tanmadhye vartulaṃ smṛtam /	catur-asram catuzkoNam tad-maDye vartulam smRtam /
+   tanmadhye vilikhet paścād aṣṭapattraṃ sakarṇikam // UT_8.5	tad-maDye viliKet paScAt azwa-pattram sa-karNikam // UT_8.5
+   madhye tu pūjayed devaṃ pattre śaktiṃ prapūjayet /	maDye tu pUjayet devam pattre Saktim prapUjayet /
+   nirvraṇamaṇḍalasyāgre kamalaṃ sthāpayed budhaḥ // UT_8.6	nirvraNa-maNxalasya-agre kamalam sTApayet buDaH // UT_8.6
+   śikhipattranakhavarṇena likhet /	SiKi-pattra-naKa-varNena liKet /
+   bhṛṅgatā kulasaptaparvatamṛttikā [... au5 Zeichenjh]	BRFga-tA kula-sapta-parvata-mRttikA [... O5 ZeiCenJ]
+   svamalāmṛttikāvalmīkamṛttikānimbamūlamṛttikā	sva-malA-mRttikA-valmIka-mRttikA-nimba-mUla-mRttikA
+   suvarṇarajatatāmrakāṃsyasahasramūlasarvatīrthāni samudrāḥ saritaḥ sarvāḥ	suvarNa-rajata-tAmra-kAMsya-sahasra-mUla-sarva-tIrTAni samudrAH saritaH sarvAH
+   sarvauṣadhayaḥ sarvadevatāḥ sarvasiddhayaḥ sarvayoginyaḥ sarve girayaḥ	sarva-ozaDayaH sarva-devatAH sarva-sidDayaH sarva-yoginyaH sarve girayaH
+   sarve nāgāḥ pañcajātyāni phalāni pañcaprakārākṣatāni pañca suvarṇapuṣpāṇi	sarve nAgAH paQca-jAtyAni PalAni paQca-prakAra-akzatAni paQca suvarNa-puzpANi
+   sthiracittena mantritakalaśe parikalpayet /	sTira-cittena mantrita-kalaSe parikalpayet /
+   atha mantraḥ kṣaṃ kṣīṃ kṣūṃ kṣaiṃ kṣauṃ kṣaḥ /	aTa mantraH kzam kzIm kzUm kzEm kzOm kzaH /
+   anena mantreṇa yā narī vidhānena niratavarjitā abrahmacāriṇī devī vandhyā	anena mantreNa yA narI viDAnena nirata-varjitA abrahmacAriNI devI vanDyA
+   pañcapativarjitā /	paQca-pati-varjitAH /
+   aputrā labhate putrān durbhagā subhagā bhavet /	aputrA laBate putrAn durBagA suBagA Bavet /
+   anenaiva vidhānena kanyā prāpnoti satpatim // UT_8.7	anena-eva viDAnena kanyA prApnoti sat-patim // UT_8.7
+   mantrauṣadhīprayogāś ca ye cānye cūrṇakīrṇakāḥ /	mantra-ozaDI-prayogAH ca ye ca-anye cUrNakIrNakAH /
+   navābhicāritāḥ kūrāḥ śuddhadehā bhavanti te // UT_8.8	nava-aBicAritAH kUrAH SudDa-dehAH Bavanti te // UT_8.8
+   ye cānye vighnakartāraś caranti bhuvi rākṣasāḥ /	ye ca-anye viGna-kartAraH caranti Buvi rAkzasAH /
+   te sarve pralayaṃ yānti satyaṃ devi mayoditam // UT_8.9	te sarve pralayam yAnti satyam devi mayA-uditam // UT_8.9
+   sakṛd uccarite mantre mahāpuṇyaṃ prajāyate /	sakRt uccarite mantre mahA-puNyam prajAyate /
+   brahmahatyādayo doṣāḥ kṣayaṃ yānti na saṃśayaḥ // UT_8.10	brahmahatyA-AdayaH dozAH kzayam yAnti na saMSayaH // UT_8.10
+   atha prathamopāya ucyate nāgakesara 10 māṣakaṃ gavyaghṛtena	aTa praTama-upAyaH ucyate nAgakesara 10 mAzakam gavya-GRtena
+   sahartusnānadivase pibet /	sa-ha-Rtu-snAna-divase pibet /
+   tadanantaraṃ bhartrā saha rātrau saṃyogaṃ kuryāt /	tad-anantaram BartrA saha rAtrO saMyogam kuryAt /
+   sā avaśyam eva garbhavatī bhavati /	sA avaSyam eva garBavatI Bavati /
+   atha dvitīyopāyaḥ śvetajīrakam 17 māṣamātrakaṃ rātrau mṛnmayapātre jalena	aTa dvitIya-upAyaH SvetajIrakam 17 mAza-mAtrakam rAtrO mRd-maya-pAtre jalena
+   saha nirāvaraṇasthāne samagrarātrau sthāpayet /	saha nirAvaraNa-sTAne samagra-rAtrO sTApayet /
+   agnimadivase śilāyāṃ piṣṭvā paryuṣitajalena yā strī ṛtusnānadine pītvā	agnim-adivase SilAyAm pizwvA paryuzita-jalena yA strI Rtu-snAna-dine pItvA
+   rātrau bhartrā saha saṃyogaṃ kuryād avaśyaṃ sā garbhavatī bhavati /	rAtrO BartrA saha saMyogam kuryAt avaSyam sA garBavatI Bavati /
+   atha tṛtīyopāya dakālvadmadīpi 10 māṣakaṃ gavyadugdhena saha yā	aTa tRtIyA-upAya dakAlvat-madIpi 10 mAzakam gavya-dugDena saha yA
+   ṛtusnānadivase pītvā rātrau bhartrā saha saṃyogaṃ kuryāt sā avaśyam eva	Rtu-snAna-divase pItvA rAtrO BartrA saha saMyogam kuryAt sA avaSyam eva
+   garbhavatī bhavati /	garBavatI Bavati /
+   iti tṛtīyopāyaḥ /	iti tRtIya-upAyaH /
+   uoṃ ghaṇṭākarṇāya svāhā imaṃ saptadhā japtvā grāme nagare vā praviśet	uom GaNwAkarNAya svAhA imam saptaDA japtvA grAme nagare vA praviSet-
+   tatra viśiṣṭaṃ bhojanaṃ prāpnoti /	tatra viSizwam Bojanam prApnoti /
+   anyac ca bho alla me siddhā anenāṣṭottaraśataṃ japet /	anyat ca Bo alla me sidDAH anena-azwottaraSatam japet /
+   śirīṣamūlamṛdaḥ kṣetrasya catuṣkoṇeṣu mokṣayet tadā	SirIza-mUla-mRdaH kzetrasya catuzkoNezu mokzayet tadA
+   śaśakamūṣakavarāhacatuṣpādaprabhṛtīnāṃ mukhabandhanaṃ bhavati /	SaSaka-mUzaka-varAha-catuzpAda-praBRtInAm muKa-banDanam Bavati /
+   adhunā sampravakṣyāmi mantrān me phaladāyakāḥ /	aDunA sampravakzyAmi mantrAn me Pala-dAyakAH /
+   ye sidhyati daśānyūnaṃ mantrasādhanamuktidāḥ // UT_8.11	ye siDyati daSa-anyUnam mantra-sADana-mukti-dAH // UT_8.11
+   śatrumitrodāsīnasādhyasiddhasya lakṣaṇam /	Satru-mitra-udAsIn-asADya-sidDasya lakzaNam /
+   mantrākṣarāṇi likhitvā sādhakasya tasya yadāpi ca prathamavargākṣaro	mantra-akzarANi liKitvA sADakasya tasya yadA-api ca praTama-varga-akzaraH-
+   bhavati tadā mitraṃ dvitīyavargākṣaro bhavati tadā siddhaḥ /	Bavati tadA mitram dvitIya-varga-akzaraH Bavati tadA sidDaH /
+   tṛtīyavargasya yadā bhavati tadā sādhyaḥ caturthavargākṣaro bhavati	tRtIya-vargasya yadA Bavati tadA sADyaH caturTa-varga-akzaraH Bavati
+   tadodāsīnaḥ pañcamavargākṣaro yadā bhavati tadā śatrur jñātavyaḥ /	tadA-udAsInaH paQcama-varga-akzaraH yadA Bavati tadA SatruH jQAtavyaH /
+   etān bhedān jñātvā mantraśodhanam ārabhet tadā sādhakānāṃ sukhāvaho	etAn BedAn jQAtvA mantra-SoDanam AraBet tadA sADakAnAm suKa-AvahaH-
+   bhavati atha kalpavṛkṣaṣaṇḍamūlāni yāni prakṣālitāni gavyadadhimiśritāyāṃ	Bavati aTa kalpavRkza-zaNxa-mUlAni yAni prakzAlitAni gavya-daDi-miSritAyAm
+   rājikāyāṃ saṃskāryāṇi /	rAjikAyAm saMskAryANi /
+   tato niyamapūrvakaṃ bhakṣayet /	tatas niyama-pUrvakam Bakzayet /
+   nirvyādhiyogeṣv amuṃ svamukhe niyojayet /	nirvyADi-yogezu amum sva-muKe niyojayet /
+   vidhānam asyā bravīmīti devī /	viDAnam asyAH bravImi-iti devI /
+   atha mantraḥ uoṃ namaḥ ṣaṇmukhāya śaktihastāya mayūravāhanāya auṣadhīkena	aTa mantraH uom namaH zaNmuKAya Sakti-hastAya mayUra-vAhanAya OzaDIkena
+   dehi me bhava svāhā /	dehi me Bava svAhA /
+   anena mantreṇa caturdaśyāṃ śucir bhūtvā mayūraśikhām utpāṭayet tadā	anena mantreNa caturdaSyAm SuciH BUtvA mayUra-SiKAm utpAwayet tadA
+   mahāprabhāvayuktā bhavati /	mahA-praBAva-yuktA Bavati /
+   gavyaghṛtena saha saṃgṛhyeta tadā indriyabalo bhavati /	gavya-GRtena saha saMgRhyeta tadA indriya-balaH Bavati /
+   pañcamalena svarṇakāro bhavati /	paQca-malena svarNakAraH Bavati /
+   anyac ca śvetakaravīramūlaśvetagirikarṇikāmūlahevacanāṅbhīkṛtajātāñjalī	anyat ca Sveta-karavIra-mUla-Sveta-girikarNikA-mUla-heva-cana-aFBIkRta-jAtAQjalI
+   pañcamalasamāyuktā khāne pāne pradātavyā maraṇāntaṃ vaśīkaraṇam // UT_8.12	paQca-mala-samAyuktA KAne pAne pradAtavyAH maraNa-antam vaSIkaraNam // UT_8.12
+   anyac ca śvetagirikarṇikāmūlaṃ svavīryeṇa saha	anyat ca SvetagirikarNikA-mUlam sva-vIryeNa saha
+   svakīyapañcamalaharavīryaśvetārkamūlam etāni hastarkṣe puṣyarkṣe vā	svakIya-paQca-mala-hara-vIrya-Sveta-arka-mUlam etAni hasta-Rkze puzya-Rkze vA
+   ekīkṛtya kumārikāhastābhyāṃ mardayitvā aṣṭamyāṃ caturdaśyāṃ vā gajamadena	ekIkRtya kumArikA-hastAByAm mardayitvA azwamyAm caturdaSyAm vA gaja-madena
+   saha haste guṭikāṃ kārayet /	saha haste guwikAm kArayet /
+   yasyai ekāpi dīyate sā vaśyā bhavati nānyathā /	yasyE ekA-api dIyate sA vaSyA Bavati na-anyaTA /
+   śuklapakṣe 'pi sarpāṇāṃ dīyate te sarpā api vaśyā bhavanti	Sukla-pakze api sarpANAm dIyate te sarpAH api vaSyAH Bavanti
+   śrīmahābhairavasya vaco yathā kuṅkumena saha dīyate tadā vai gajo	SrI-mahABEravasya vacaH yaTA kuFkumena saha dIyate tadA vE gajaH-
+   vaśībhavati /	vaSIBavati /
+   rocanayā kuṅkumena saha yadā tilakaṃ kriyate tadā sā strī pṛṣṭhalagnā	rocanayA kuFkumena saha yadA tilakam kriyate tadA sA strI pRzWa-lagnA
+   bhramati /	Bramati /
+   gurudārebhyaḥ tilako na darśayitavyaḥ /	guru-dAreByaH tilakaH na darSayitavyaH /
+   rājadvāre tathā nyāye vivāhe yuddhe jayāvahe trailokyamohanam etat /	rAjadvAre taTA nyAye vivAhe yudDe jayAvahe trElokya-mohanam etat /
+   triphalā 5 māṣāḥ nimba 1 māṣa kadamba 2 māṣa nīpa 3 māṣa tirāitā 4 māṣa	triPalA 5 mAzAH nimba 1 mAza kadamba 2 mAza nIpa 3 mAza tirAitAH 4 mAza
+   karañja 5 māṣa bhṛṅgarāja 6 māṣa mayūraśikhā 7 māṣāḥ etāni samabhāgāni	karaQjaH 5 mAza BRFgarAja 6 mAza mayUra-SiKAH 7 mAzAH etAni sama-BAgAni
+   sūkṣmacūrṇāni kārayet /	sUkzma-cUrNAni kArayet /
+   tadanantaraṃ madhunā saha peṣayet /	tad-anantaram maDunA saha pezayet /
+   bhojanaṃ ca yathāhāraṃ kurute nātra saṃśayaḥ /	Bojanam ca yaTA-AhAram kurute na-atra saMSayaH /
+   etac cūrṇaṃ surebhyo 'pi durlabham /	etat cUrNam sureByaH api durlaBam /
+   rātricūrṇaṃ śirīṣavalkalacūrṇaṃ ca gavyaghṛtena saha yasyai vanitāyai	rAtri-cUrNam SirIza-valkala-cUrNam ca gavya-GRtena saha yasyE vanitAyE
+   ṛtusnānadivase pānārthaṃ dīyate sā strī vandhyāpi garbhavatī bhavati nātra	Rtu-snAna-divase pAna-arTam dIyate sA strI vanDyA-api garBavatI Bavati na-atra
+   saṃśayaḥ /	saMSayaH /
+   etac cūrṇaṃ kapitthaphalena saha ṛtusamaye aputravatī bhakṣayati sā strī	etat cUrNam kapitTa-Palena saha Rtu-samaye aputravatI Bakzayati sA strI
+   putram āpnoti /	putram Apnoti /
+   etac cūrṇaṃ śvetakaṅkolīmūlaṃ lakṣmaṇācūrṇaṃ ca samaṃ kṛtvā	etat cUrNam Sveta-kaFkolI-mUlam lakzmaNA-cUrNam ca samam kRtvA
+   kuṅkumakvāthena sahartusamaye sadā bhakṣaṇārthaṃ dīyate tadā tasyāḥ	kuFkuma-kvATena sa-ha-Rtu-samaye sadA BakzaNa-arTam dIyate tadA tasyAH
+   śarīraśuddhir bhavati /	SarIra-SudDiH Bavati /
+   paścād ṛtusamayopari pañca dināni bhakṣayet tadā sā garbhadhāraṇakṣamā	paScAt Rtu-samaya-upari paQca dinAni Bakzayet tadA sA garBa-DAraNa-kzamA
+   bhavati nātra saṃśayaḥ // UT_8.13	Bavati na-atra saMSayaH // UT_8.13
+   Uḍḍāmareśvaratantra, Navamaḥ paṭalaḥ	UxxAmara-ISvara-tantra, NavamaH pawalaH
+   athānyat sampravakṣyāmi auṣadhaṃ paramadurlabham /	aTa-anyat sampravakzyAmi OzaDam parama-durlaBam /
+   āsphoṭī nāma vikhyātā nāgadamanīti viśrutā // UT_9.1	AsPowI nAma viKyAtA nAgadamanI-iti viSrutAH // UT_9.1
+   asyā vidhānaṃ vakṣyāmi durlabhaṃ tridivaukasām /	asyAH viDAnam vakzyAmi durlaBam tridivOkasAm /
+   viṣāḥ sarve vinaśyanti lepanād bhakṣaṇāt kṣaṇāt // UT_9.2	vizAH sarve vinaSyanti lepanAt BakzaNAt kzaNAt // UT_9.2
+   pattrahaste tāṃ pralipya sarpo dhriyate dhṛtamātre sarpo na naśyati naiva	pattra-haste tAm pralipya sarpaH Driyate DRta-mAtre sarpaH na naSyati na-eva
+   kṣatāni pralipya nāgapūjitamantreṇa sarpo vinaśyati /	kzatAni pralipya nAga-pUjita-mantreNa sarpaH vinaSyati /
+   nāgadamanīmūlaṃ khananān nāḍīlalāṭalepanān nāśayati samantataḥ āmavātaṃ	nAgadamanI-mUlam KananAt nAxI-lalAwa-lepanAt nASayati samantataH AmavAtam
+   pittavātaṃ śleṣmavātam ete vātā vinaśyanti bhakṣaṇān nātra saṃśayaḥ /	pitta-vAtam Slezma-vAtam ete vAtAH vinaSyanti BakzaNAt na-atra saMSayaH /
+   atha kathayāmy oṣadhīkaraṇe karaṇakāraṇāni /	aTa kaTayAmi ozaDIkaraNe karaNa-kAraNAni /
+   putramaya vaśīkaraṇakārakaputraputraṃ kaṃsaṃ kātarāpi vaśaṃ paraṃ	putra-maya vaSIkaraNa-kAraka-putra-putram kaMsam kAtarA-api vaSam param
+   mahilājanasyaikaśa apy asya dīyate sā patiṃ parityajya paśyatāṃ lokānāṃ	mahilA-janasya-ekaSas api asya dIyate sA patim parityajya paSyatAm lokAnAm
+   nagnā bhūtvā bhramati /	nagnA BUtvA Bramati /
+   atha kathayāmi tāntrikavidhim /	aTa kaTayAmi tAntrika-viDim /
+   tāmravedīparora iti lokair ucyate śanivāre tām abhimantrya digambaro	tAmra-vedI-paroraH iti lokEH ucyate SanivAre tAm aBimantrya digambaraH-
+   muktakeśo bhūtvānudite bhānau grahaṇaṃ kuryāt /	mukta-keSaH BUtvA-anudite BAnO grahaNam kuryAt /
+   piṣṭvā samyakprakāreṇa strīpañcamalena ca kāmātureṇa kṛtvā tāmbūlena saha	pizwvA samyak-prakAreNa strI-paQca-malena ca kAma-AtureNa kRtvA tAmbUlena saha
+   bhaginīkṛtvā dīyate sā vaśyā bhavati nānyathā /	BaginIkRtvA dIyate sA vaSyA Bavati na-anyaTA /
+   mātāpi putraṃ parityajya tatparā bhūtvā pṛṣṭhato nagnā bhavati yatra	mAtA-api putram parityajya tad-parA BUtvA pRzWatas nagnA Bavati yatra
+   kutrāpi tathā tam anuyāti na saṃśayaḥ /	kutra-api taTA tam anuyAti na saMSayaH /
+   kākajaṅgheti vikhyātā mahauṣadhir grāme sarvatra tiṣṭhati śanivāre	kAkajaFGA-iti viKyAtA mahOzaDiH grAme sarvatra tizWati SanivAre
+   saṃdhyāsamaye tasyā abhimantraṇaṃ kuryāt tadantaraṃ brāhme muhūrte	saMDyA-samaye tasyAH aBimantraNam kuryAt tad-antaram brAhme muhUrte
+   utthāyānudite bhānau puṣyarkṣe hastarkṣe vā yoge khadirakīlakena tāṃ	utTAya-anudite BAnO puzya-Rkze hasta-Rkze vA yoge Kadira-kIlakena tAm
+   samūlām utpāṭayet /	sa-mUlAm utpAwayet /
+   punas tāṃ saptamyām aṣṭamyāṃ navamyāṃ vā etāsu tithiṣu	punar tAm saptamyAm azwamyAm navamyAm vE etAsu tiTizu
+   punarvasupuṣyahastarkṣayuktāsu svapañcamalena saha piṣṭvā svavīryaṃ	punarvasu-puzya-hasta-Rkza-yuktAsu sva-paQca-malena saha pizwvA sva-vIryam
+   svaraktam api tasmin dattvā yasyai vanitāyai dīyate sā strī vaśyā bhavati	sva-raktam api tasmin dattvA yasyE vanitAyE dIyate sA strI vaSyA Bavati
+   satyam eva mantreṇānena mantrayet /	satyam eva mantreNa-anena mantrayet /
+   uoṃ namo bhagavati tripure trailokyamohini aiṃ drāṃ śrīṃ klīṃ sauṃ	uom namaH Bagavati tripure trElokya-mohini Em drAm SrIm klIm sOm
+   amukanāmnīṃ śīghraṃ me vaśam ānaya svāhā /	amuka-nAmnIm SIGram me vaSam Anaya svAhA /
+   iti mantraḥ /	iti mantraH /
+   atha guñjākalpo likhyate śvetaguñjāṃ śanivāre saṃdhyāsamaye 'bhimantritāṃ	aTa guQjA-kalpaH liKyate Sveta-guQjAm SanivAre saMDyA-samaye aBimantritAm
+   kṛtvā tato brāhme muhūrte utthāyānudite bhānau khadirakīlakena digambaro	kRtvA tatas brAhme muhUrte utTAya-anudite BAnO Kadira-kIlakena digambaraH-
+   bhūtvā samūlām utpāṭayet /	BUtvA sa-mUlAm utpAwayet /
+   puṣyarkṣe hastarkṣe vā strīpuṣpeṇa saha	puzya-Rkze hasta-Rkze vA strI-puzpeNa saha
+   gorocanakaśmīrakuṅkumaśvetacandanaraktacandanakastūrīkarpūrahastimadena	gorocanaka-SmIra-kuFkuma-Sveta-candana-raktacandana-kastUrI-karpUra-hasti-madena
+   sahābhimantrya tilakaṃ kuryāt tadā strī kāmabāṇavimohitā vihvalā bhavati /	saha-aBimantrya tilakam kuryAt tadA strI kAma-bANa-vimohitA vihvalA Bavati /
+   mantreṇānena mantrayet uoṃ aiṃ hrīṃ śrīṃ klīṃ hūṃ phaṭ svāhā /	mantreNa-anena mantrayet uom Em hrIm SrIm klIm hUm Paw svAhA /
+   iti kāmabāṇatilakam /	iti kAma-bANa-tilakam /
+   athānyatantroktaṃ vaśīkaraṇādikaṃ likhyate sāram uddhṛtya saṃkṣepād	aTa-anya-tantra-uktam vaSIkaraNa-Adikam liKyate sAram udDRtya saMkzepAt-
+   vaśīkaraṇamohane /	vaSIkaraNa-mohane /
+   kāmināṃ prītijanakaṃ kiṃcit tad api gadyate // UT_9.3	kAminAm prIti-janakam kiMcid tat api gadyate // UT_9.3
+   tatrādau tilakavidhiḥ /	tatra-AdO tilaka-viDiH /
+   lajjāṃ madhūkaṃ kavyaṃ ca nalinīmūlam eva ca /	lajjAm maDUkam kavyam ca nalinI-mUlam eva ca /
+   etān piṣṭvā svavīryeṇa yaḥ kuryāt tilakaṃ pumān // UT_9.4	etAn pizwvA sva-vIryeNa yaH kuryAt tilakam pumAn // UT_9.4
+   tatkṣaṇād eva nayati vaśyatāṃ bhuvanatrayam /	tad-kzaNAt eva nayati vaSya-tAm Buvanatrayam /
+   vātsyāyanena muninā proktaṃ yogam anuttamam // UT_9.5	vAtsyAyanena muninA proktam yogam anuttamam // UT_9.5
+   sitāṣṭamūlamañjiṣṭhā vacā mustā sakuṣṭhakā /	sitA-azwamUla-maQjizWA vacA mustA sa-kuzWakAH /
+   strīyoniśoṇite caitad ekīkṛtya lalāṭake // UT_9.6	strI-yoni-SoNite ca-etat ekIkRtya lalAwake // UT_9.6
+   śubhaṃ tilakam ādhatte yaḥ sa lokatrayaṃ kramāt /	SuBam tilakam ADatte yaH sa lokatrayam kramAt /
+   kṛtajñaḥ svavaśaṃ kuryān modate ca ciraṃ bhuvi // UT_9.7	kRtajQaH sva-vaSam kuryAt modate ca ciram Buvi // UT_9.7
+   tagaraṃ pippalīmūlaṃ meṣaśṛṅgī kaṇā jaṭā /	tagaram pippalI-mUlam mezaSRFgI kaNA jawA /
+   etat samaṃ svapañcāṅgamale nītvaikatāṃ sudhīḥ // UT_9.8	etat samam sva-paQcAFga-male nItvA-eka-tAm suDIH // UT_9.8
+   madhunā tilakaṃ kuryād yaḥ kṣoṇīsutavāsare /	maDunA tilakam kuryAt yaH kzoNI-suta-vAsare /
+   jagat sarvaṃ vaśīkuryāt sa pumān nātra saṃśayaḥ // UT_9.9	jagat sarvam vaSIkuryAt sa pumAn na-atra saMSayaH // UT_9.9
+   gorocanaṃ ca saṃbhāvya svapuṃso rudhireṇa yā /	gorocanam ca saMBAvya sva-puMsaH ruDireNa yA /
+   kuryāt sā tilakaṃ bhāle patiṃ ca mohayed bhṛśam // UT_9.10	kuryAt sA tilakam BAle patim ca mohayet BRSam // UT_9.10
+   athāñjanavidhiḥ /	aTa-aQjana-viDiH /
+   mahāṣṭamīdine yas tu śmaśāne naramastake /	mahA-azwamI-dine yaH tu SmaSAne nara-mastake /
+   pātitaṃ kajjalaṃ viśvaṃ mohayen nayanāñjanāt // UT_9.11	pAtitam kajjalam viSvam mohayet nayana-aQjanAt // UT_9.11
+   rocanāṃ kesaraṃ kanyāṃ śilāṃ ceti viśodhayan /	rocanAm kesaram kanyAm SilAm ca-iti viSoDayan /
+   yājayed dṛṣṭipathagaṃ sarvam eva vimohayet // UT_9.12	yAjayet dRzwi-paTa-gam sarvam eva vimohayet // UT_9.12
+   tālīśakuṣṭhanāgaraiḥ kṛtvā kṣoṇīśavartikām /	tAlISa-kuzWa-nAgarEH kRtvA kzoNI-ISa-vartikAm /
+   siddhārthataile niḥkṣipya kajjalaṃ naramastake // UT_9.13	sidDArTa-tEle niHkzipya kajjalam nara-mastake // UT_9.13
+   pātayed añjanaṃ tasya sarvadā bhuvanatraye /	pAtayet aQjanam tasya sarvadA Buvanatraye /
+   dṛṣṭigocaram āyātaḥ sarvo bhavati dāsavat // UT_9.14	dRzwi-gocaram AyAtaH sarvaH Bavati dAsa-vat // UT_9.14
+   śilākiñjalkaphalinī rocanānāṃ tathāñjanam /	SilA-kiQjalka-PalinI rocanAnAm taTA-aQjanam /
+   puṣyarkṣayoge vihitaṃ dampatyor mohanaṃ param // UT_9.15	puzya-Rkza-yoge vihitam dampatyoH mohanam param // UT_9.15
+   iti atha cūrṇavidhiḥ /	iti aTa cUrNa-viDiH /
+   kākajaṅghā śilā pakṣau bhrāmarau kṛṣṇam utpalam /	kAkajaFGA SilA pakzO BrAmarO kRzNam utpalam /
+   tagarajaṃ caiṣāṃ cūrṇaṃ kṣiptaṃ vimohane // UT_9.16	tagara-jam ca-ezAm cUrNam kziptam vimohane // UT_9.16
+   vātapaittikadalaṃ puṃso malaṃ mālāsavasya ca /	vAta-pEttika-dalam puMsaH malam mAlAsavasya ca /
+   pakṣāvaler idaṃ cūrṇaṃ kṣiptaṃ śirasi mohanam // UT_9.17	pakza-AvaleH idam cUrNam kziptam Sirasi mohanam // UT_9.17
+   atha bhakṣaṇavidhiḥ /	aTa BakzaNa-viDiH /
+   antrādi sarvaṃ niṣkāsya khañjarīṭodaraṃ kulaiḥ /	antra-Adi sarvam nizkAsya KaQjarIwa-udaram kulEH /
+   pūrayitvā svavīryeṇa sārameyagale kṣipet // UT_9.18	pUrayitvA sva-vIryeNa sArameya-gale kzipet // UT_9.18
+   mudrāṃ kṛtvā tadekānte saptāhaṃ dhārayet sudhīḥ /	mudrAm kRtvA tad-ekAnte sapta-aham DArayet suDIH /
+   paścān niṣkāsya saṃśodhya vaṭīṃ kuryād viśoṣayet // UT_9.19	paScAt nizkAsya saMSoDya vawIm kuryAt viSozayet // UT_9.19
+   sā bhakṣaṇavidhānena dīpamālā parasparam /	sA BakzaNa-viDAnena dIpa-mAlA parasparam /
+   dampatyoḥ prītijananī kīrtitā niyamottamā // UT_9.20	dampatyoH prIti-jananI kIrtitAH niyama-uttamA // UT_9.20
+   anyat sumatam /	anyat sumatam /
+   athānyat sampravakṣyāmi tilakaṃ sarvakāmikam /	aTa-anyat sampravakzyAmi tilakam sarva-kAmikam /
+   gorocanaṃ vaṃśalocanaṃ matsyapittaṃ	gorocanam vaMSa-locanam matsyapittam
+   kaśmīrakuṅkumakesarasvayambhūkusumasvavīryaśrīkhaṇḍaraktacandanakastūrīkarpūrakākajaṅghāmūlāni	kaSmIra-kuFkuma-kesara-svayamBU-kusuma-sva-vIrya-SrIKaNxa-raktacandana-kastUrI-karpUra-kAka-jaFGA-mUlAni
+   samabhāgāni kṛtvā kūpataḍāganadījalena mardayitvā kumārikāpārśvakāṃ	sama-BAgAni kRtvA kUpa-taxAga-nadI-jalena mardayitvA kumArikA-pArSvakAn
+   guṭikāṃ kṛtvā chāyāṃ guṭikāṃ kārayet /	guwikAm kRtvA CAyAm guwikAm kArayet /
+   tayā lalāṭe tilakaṃ kṛtvā yāṃ yāṃ striyaṃ paśyati sā sā vaśyā bhavati /	tayA lalAwe tilakam kRtvA yAm yAm striyam paSyati sA sA vaSyA Bavati /
+   drauṃ vāṃ dhāṃ kṣauṃ aṃ kaṃ chaḥ ity anena mantreṇa mahiṣāsthimayaṃ	drOm vAm DAm kzOm am kam CaH iti anena mantreNa mahiza-asTi-mayam
+   kīlakam ekonaviṃśatyaṅgulaṃ sahasreṇābhimantritaṃ yasya nāmnā kūpataṭe	kIlakam ekonaviMSati-aFgulam sahasreNa-aBimantritam yasya nAmnA kUpa-tawe
+   nikhanet sa mahiṣeṇa vadhyate /	niKanet sa mahizeNa vaDyate /
+   uoṃ cchaḥ cchaḥ ḹṃ amukaṃ huṃ īṃ cchaḥ cchaḥ uoṃ iti /	uom cCaH cCaH ?m amukam hum Im cCaH cCaH uom iti /
+   anena mantreṇa mayūrāsthimayaṃ kīlakaṃ tryaṅgulaṃ sahasreṇābhimantritaṃ	anena mantreNa mayUra-asTi-mayam kIlakam tri-aFgulam sahasreNa-aBimantritam
+   yasya nāmnā catuṣpathe nikhanet sa tatra bhramati /	yasya nAmnA catuzpaTe niKanet sa tatra Bramati /
+   tatrānenāvatiṣṭhati paryaṭati kṣaṇamātreṇa uttolanena śāntir bhavati /	tatra-anena-avatizWati paryawati kzaNa-mAtreNa uttolanena SAntiH Bavati /
+   uoṃ śrīṃ śrīṃ vrāṃ vrīṃ īṃ īṃ cchaḥ cchaḥ svāhā /	uom SrIm SrIm vrAm vrIm Im Im cCaH cCaH svAhA /
+   anena mantreṇa meṣāsthimayaṃ kīlakaṃ dvādaśāṅgulaṃ sahasreṇābhimantritaṃ	anena mantreNa meza-asTi-mayam kIlakam dvAdaSa-aFgulam sahasreNa-aBimantritam
+   kṛtvā yasya gṛhe nikhanet sarvasiddhir asiddhā tasya bhavati /	kRtvA yasya gRhe niKanet sarva-sidDiH asidDA tasya Bavati /
+   drīṃ bandhūkapuṣpasaṃkāśaṃ dhyātavyaṃ mantradīpake /	drIm banDUka-puzpa-saMkASam DyAtavyam mantra-dIpake /
+   kumbhakena varārohe śṛṇu vakṣyāmi ṣaḍguṇam // UT_9.21	kumBakena varArohe SRNu vakzyAmi zaxguNam // UT_9.21
+   dhyātvā tu māsam ekaṃ tu mahāstrīm ānayed dhruvam /	DyAtvA tu mAsam ekam tu mahA-strIm Anayet Druvam /
+   māsenaikena manunā ānayen nāgakanyakām // UT_9.22	mAsena-ekena manunA Anayet nAga-kanyakAm // UT_9.22
+   devakanyāṃ tribhir māsaiḥ sāyāhne nānyathā bhavet /	deva-kanyAm triBiH mAsEH sAyAhne na-anyaTA Bavet /
+   uoṃ haṃ haḥ iti /	uom ham haH iti /
+   anenaiva tu mantreṇa dhyātavyāḥ krodhayājakāḥ // UT_9.23	anena-eva tu mantreNa DyAtavyAH kroDa-yAjakAH // UT_9.23
+   yājyasya rudrasaṃkāśaṃ rudrahastaṃ surāsuraiḥ /	yAjyasya rudra-saMkASam rudra-hastam sura-asurEH /
+   māsena mānuṣaṃ lokaṃ nāgalokaṃ dvimāsataḥ // UT_9.24	mAsena mAnuzam lokam nAga-lokam dvi-mAsataH // UT_9.24
+   tribhir māsais tu deveśi svargalokaṃ na saṃśayaḥ /	triBiH mAsEH tu deveSi svarga-lokam na saMSayaH /
+   ṣaṇmāsābhyāsayogena trailokyaṃ niścalaṃ kuru // UT_9.25	zaz-mAsa-aByAsa-yogena trElokyam niScalam kuru // UT_9.25
+   uoṃ raktahaṭā raktagaṭā mukuṭadhāriṇī edhati svāhā /	uom raktahawA raktagawA mukuwa-DAriNI eDati svAhA /
+   mantrarāja ulṭā vedhā /	mantrarAjaH ulwAH veDAH /
+   uoṃ hrīṃ śrīṃ dhrīṃ vikṛtānanā bāhye phaṭ svāhā /	uom hrIm SrIm DrIm vikRta-AnanA bAhye Paw svAhA /
+   mantram imaṃ yantre likhitvā yasya īkṣitaṃ dīyate sa	mantram imam yantre liKitvA yasya Ikzitam dIyate sa
+   aikāhikadvyāhikatryāhikaviṣamajvareṇa gṛhyate tatkṣaṇād eva naśyati nātra	EkAhika-dvyAhika-tryAhika-vizamajvareNa gRhyate tad-kzaNAt eva naSyati na-atra
+   saṃśayaḥ /	saMSayaH /
+   uoṃ bandhuna kṣayaṃ drīṃ drīṃ amukasyātmānaṃ nityajvareṇa	uom banDuna kzayam drIm drIm amukasya-AtmAnam nitya-jvareNa
+   pattrībandhanamātrasya sphura svāhā /	pattrI-banDana-mAtrasya sPura svAhA /
+   iti nityajvaraśodhanapattrikā /	iti nitya-jvara-SoDana-pattrikA /
+   uoṃ kṣaḥ svāhā /	uom kzaH svAhA /
+   anena mantreṇa mantritaṃ jalaṃ bhṛśaṃ kṛtvā jvaritāṅgaṃ secayet tena	anena mantreNa mantritam jalam BRSam kRtvA jvarita-aFgam secayet tena
+   jvaravimuktir bhavati niścitam /	jvara-vimuktiH Bavati niScitam /
+   kharavāhanasiṃhasya kramād evānuśāsanam /	Kara-vAhana-siMhasya kramAt eva-anuSAsanam /
+   ṛkṣaturagagato vāyur jīmūta iva garjitaḥ // UT_9.26	Rkza-turaga-gataH vAyuH jImUtaH iva garjitaH // UT_9.26
+   ravivāre ślokam imaṃ likhitvā śirasi nyaset /	ravi-vAre Slokam imam liKitvA Sirasi nyaset /
+   tena sthāpitamātreṇa traimāsikajvaraṃ haret // UT_9.27	tena sTApita-mAtreNa trEmAsika-jvaram haret // UT_9.27
+   vāneyasya biḍālasya gṛhītvā rudhiraṃ tataḥ /	vAneyasya bixAlasya gRhItvA ruDiram tatas /
+   padmasūtrotthavartiṃ ca bhāvayet saptavārakam // UT_9.28	padma-sUtra-utTa-vartim ca BAvayet sapta-vArakam // UT_9.28
+   śivāgre tajjatailena pātayet kajjalaṃ tataḥ /	Siva-agre tad-ja-tElena pAtayet kajjalam tatas /
+   tenāñjitalocanas tu adṛśyo bhavati dhruvam // UT_9.29	tena-aQjita-locanaH tu adRSyaH Bavati Druvam // UT_9.29
+   hebhirihebherihe /	heBiriheBerihe /
+   anenodakam ādāyālokya sahasravāraṃ parijapya anenaivāñjanena trirātreṇa	anena-udakam AdAya-Alokya sahasra-vAram parijapya anena-eva-aQjanena tri-rAtreNa
+   siddhiḥ /	sidDiH /
+   padmasūtravartikasya tailena kajjalaṃ pātayet tenāñjitanetras tu adṛśyo	padma-sUtravartikasya tElena kajjalam pAtayet tena-aQjita-netraH tu adRSyaH-
+   bhavati /	Bavati /
+   tato gomūtreṇa cakṣuṣī prakṣālya punaḥ pratyakṣo bhavati // UT_9.30	tatas go-mUtreNa cakzuzI prakzAlya punar pratyakzaH Bavati // UT_9.30
+   atha ḍākinīdamanamantraḥ akṣaḥ kṣāṃ kṣaukājasinau devatā tattvadhūlinī	aTa xAkinI-damana-mantraH akzaH kzAm kzOka-ajasinO devatA tattva-DUlinI
+   ghonāśālinī bhamantri bandhuśanādaivataṃ laghukaṇṭakena purum abhiśāsano	GonASAlinI Bamantri banDu-SanAdEvatam laGu-kaNwakena purum aBiSAsanaH-
+   devatāṃ mahābhairava maṇḍalam acala uoṃ cchaḥ cchaḥ cchaḥ ḍākinīmatabandhu	devatAm mahABErava maNxalam acalaH uom cCaH cCaH cCaH xAkinI-mata-banDu
+   namaḥ /	namaH /
+   uoṃ namo bhagavate vajrāya caṇḍeśvarāya īṃ īṃ phaṭ svāhā /	uom namaH Bagavate vajrAya caNxeSvarAya Im Im Paw svAhA /
+   iti sarvabhūtaḍākinīdamanamantraḥ /	iti sarva-BUta-xAkinI-damana-mantraH /
+   damana sarpalaṅga ebhalisim ajabandhaniśi nāgapāśam acalaḥ iti	damana sarpa-laFgaH eBalisim aja-banDa-niSi nAgapASam acalaH iti
+   damanamantraṃ bandhanaṃ ca /	damana-mantram banDanam ca /
+   uoṃ raṃstrīṃ śīghraṃ ha svāhā /	uom raMstrIm SIGram ha svAhA /
+   tripurāṃ sindūraśaṅkhacūrṇābhyāṃ udanālapattre likhitvā śodhayitavyaḥ sa	tripurAm sindUra-SaFKa-cUrNAByAm udanAla-pattre liKitvA SoDayitavyaH sa
+   divasatrayeṇa jvareṇāgatya milati /	divasa-trayeNa jvareNa-Agatya milati /
+   uoṃ ahohaḥ amukanamnīṃ śīghram ānaya svāhā ity ākarṣaṇam // UT_9.31	uom ahar-haH amuka-namnIm SIGram Anaya svAhA iti AkarzaNam // UT_9.31
+   uoṃ strīṃ strīṃ valīṃ valīm īṃ ahaḥ phaṭ svāhā /	uom strIm strIm valIm valIm Im ahar Paw svAhA /
+   majjanasvastho bhavati /	majjana-svasTaH Bavati /
+   apsaraṇīṃ amukīṃ jīva /	apsaraNIm amukIm jIva /
+   tena anena mantreṇa saptavāraṃ jalaṃ prajapya kāminyai pānārthaṃ dātavyam	tena anena mantreNa sapta-vAram jalam prajapya kAminyE pAna-arTam dAtavyam
+   uoṃ namo jale mohe kule phalāni saṃkule svāhā /	uom namaH jale mohe kule PalAni saMkule svAhA /
+   anena mantreṇa saptavārābhimantritaṃ yasya dīyate sa vaśyo bhavati /	anena mantreNa sapta-vAra-aBimantritam yasya dIyate sa vaSyaH Bavati /
+   uoṃ namo jale mohe drāṃ abjini phaṭ svāhā /	uom namaH jale mohe drAm abjini Paw svAhA /
+   anena mantreṇa pratyūṣe pānīyena mukhaṃ prakṣālayet sarvajanapriyo bhavati	anena mantreNa pratyUze pAnIyena muKam prakzAlayet sarva-jana-priyaH Bavati
+   sarvasiddhīśvaro bhavati // UT_9.32	sarva-sidDi-ISvaraH Bavati // UT_9.32
+   uoṃ bhūr bhuvaḥ svaḥ svāhā /	uom BUH BuvaH svar svAhA /
+   tāmbūlaṃ mantrayitvā yasya dīyate sa vaśyo bhavati /	tAmbUlam mantrayitvA yasya dIyate sa vaSyaH Bavati /
+   uoṃ namo jale mohe hana hana daha daha paca paca matha matha amukaṃ me	uom namaH jale mohe hana hana daha daha paca paca maTa maTa amukam me
+   vaśam ānaya svāhā /	vaSam Anaya svAhA /
+   atha yakṣiṇīmantrasādhanaṃ	aTa yakziNI-mantra-sADanam
+   surasundarīmanohāriṇīkanakāvatīratikarīkāmeśvarīnaṭyanurāgiṇīpadminī etā	surasundarI-manohAriNI-kanaka-avatIrati-karI-kAmeSvarI-nawI-anurAgiNI-padminI etA
+   aṣṭau yakṣiṇyaḥ kāmanāyāṃ sādhanam /	azwO yakziNyaH kAmanAyAm sADanam /
+   atha surasundarīsādhanam uoṃ hrīṃ āgaccha āgaccha surasundari svāhā /	aTa surasundarI-sADanam uom hrIm AgacCa AgacCa surasundari svAhA /
+   vajrapāṇigṛhaṃ gatvā gugguladhūpaṃ dattvā trisaṃdhyaṃ pūjayet sahasraṃ	vajrapANi-gRham gatvA guggula-DUpam dattvA trisaMDyam pUjayet sahasram
+   trisaṃdhyaṃ māsaparyantaṃ japet tato māsābhyantare pratyakṣā bhavati	trisaMDyam mAsa-paryantam japet tatas mAsa-aByantare pratyakzA Bavati
+   antimadine raktacandanenārghyaṃ dadyāt /	antima-dine raktacandanena-arGyam dadyAt /
+   tata āgatya mātā bhaginī bhāryā vā bhavati tāsāṃ yāni karmāṇi tāny eva	tatas Agatya mAtA BaginI BAryA vA Bavati tAsAm yAni karmANi tAni eva
+   karoti /	karoti /
+   yadi mātā bhavati tadā siddhadravyāṇi rasāyanāni dadāti /	yadi mAtA Bavati tadA sidDa-dravyANi rasAyanAni dadAti /
+   yadi bhaginī bhavati tadā pūrvavad amūlyaṃ vastraṃ dadāti /	yadi BaginI Bavati tadA pUrvavat amUlyam vastram dadAti /
+   yadi bhāryā bhavati tadā sarvam aiśvaryaṃ paripūrayati /	yadi BAryA Bavati tadA sarvam ESvaryam paripUrayati /
+   paraṃ tu varjanīyam ihānyayā saha śayanaṃ sā ca maithunapriyā bhavati	param tu varjanIyam iha-anyayA saha Sayanam sA ca mETuna-priyA Bavati
+   anyathā naśyati // UT_9.33	anyaTA naSyati // UT_9.33
+   atha manohāriṇīsādhanam uoṃ hīṃ āgaccha āgaccha manohari svāhā /	aTa manohAriNI-sADanam uom hIm AgacCa AgacCa manohari svAhA /
+   iha nadīsaṃgame gatvā candanena maṇḍalaṃ kṛtvā agurudhūpaṃ dattvā	iha nadI-saMgame gatvA candanena maNxalam kRtvA aguru-DUpam dattvA
+   sahasraikaṃ mantraṃ māsaparyantaṃ pratyahaṃ japet /	sahasra-ekam mantram mAsa-paryantam pratyaham japet /
+   tato māsānte candanodakenārghyaṃ dadyāt puṣpaphalenaikacittena tasyā	tatas mAsa-ante candana-udakena-arGyam dadyAt puzpa-Palena-ekacittena tasyAH-
+   arcanaṃ kartavyaṃ tato 'rdharātrasamaye niyatam āgacchati āgatā satī	arcanam kartavyam tatas arDarAtra-samaye niyatam AgacCati AgatA satI
+   tadājñāṃ karoti suvarṇaśataṃ tasmai sādhakāya pratyahaṃ dadāti // UT_9.34	tad-AjQAm karoti suvarNa-Satam tasmE sADakAya pratyaham dadAti // UT_9.34
+   atha kanakāvatīsādhanam uoṃ hrīṃ kanakāvati maithunapriye āgaccha āgaccha	aTa kanakAvatI-sADanam uom hrIm kanakAvati mETuna-priye AgacCa AgacCa
+   svāhā /	svAhA /
+   vaṭavṛkṣasamīpe sthitvā madyamāṃsādinaivedyaṃ tasyai mūlamantreṇa dattvā	vawa-vRkza-samIpe sTitvA madya-mAMsa-Adi-nEvedyam tasyE mUlamantreNa dattvA
+   śeṣaṃ svayam apy aṅgīkṛtya sahasram ekaṃ mūlamantraṃ japet /	Sezam svayam api aFgIkRtya sahasram ekam mUlamantram japet /
+   evaṃ saptadinaparyantaṃ kuryāt /	evam sapta-dina-paryantam kuryAt /
+   aṣṭamyāṃ rātrāv ardharātrasamaye vastrālaṃkārabhūṣitā aṣṭau parivārān	azwamyAm rAtrO arDarAtra-samaye vastra-alaMkAra-BUzitAH azwO parivArAn
+   ādāyopagacchati /	AdAya-upagacCati /
+   āgatā sā kāmayitavyā bhāryā vā bhavati dvādaśajanānāṃ	AgatA sA kAmayitavyA BAryA vA Bavati dvAdaSa-janAnAm
+   vastrālaṃkārabhojanaṃ ca dadāti aṣṭau kalā nityaṃ sādhakāya prayacchati //	vastra-alaMkAra-Bojanam ca dadAti azwO kalA nityam sADakAya prayacCati //
+   UT_9.35	UT_9.35
+   atha kāmeśvarīsādhanam uoṃ hīṃ āgaccha āgaccha kāmeśvari svāhā /	aTa kAmeSvarI-sADanam uom hIm AgacCa AgacCa kAmeSvari svAhA /
+   iha gorocanayā bhūrjapattropari strīrūpāṃ pratimāṃ saṃlikhya	iha gorocanayA BUrja-pattra-upari strI-rUpAm pratimAm saMliKya
+   ṣoḍaśopacāraiḥ pañcopacārair vā sampūjya tataḥ śayyāyām ekākī ekānte	zoxaSa-upacArEH paQca-upacArEH vA sampUjya tatas SayyAyAm ekAkI ekAnte
+   upaviśya tanmanā bhūtvā sahasraṃ japet tato māsānte tadbuddhyā svakīyāṃ	upaviSya tad-manAH BUtvA sahasram japet tatas mAsa-ante tad-budDyA svakIyAm
+   bhāryāṃ pūjayet /	BAryAm pUjayet /
+   tato madhusarpirbhyāṃ pratirātraṃ dīpaṃ prajvālya paścān maunaṃ kṛtvā	tatas maDu-sarpirByAm pratirAtram dIpam prajvAlya paScAt mOnam kRtvA
+   mūlamantraṃ sahasrasaṃkhyaṃ japet /	mUlamantram sahasra-saMKyam japet /
+   tato 'rdharātrasamaye niyatam āgacchati paraṃ tv anyāḥ striyo varjanīyāḥ	tatas arDarAtra-samaye niyatam AgacCati param tu anyAH striyaH varjanIyAH
+   // UT_9.36	// UT_9.36
+   atha ratipriyāsādhanam uoṃ hīṃ āgaccha āgaccha ratikari svāhā /	aTa rati-priyA-sADanam uom hIm AgacCa AgacCa rati-kari svAhA /
+   atra paṭe citrarūpiṇī lekhyā vastrakanakālaṅkārabhūṣitā utpalahastā kumarī	atra pawe citra-rUpiNI leKyA vastra-kanaka-alaFkAra-BUzitA utpala-hastA kumarI
+   jātīpuṣpaiḥ prapūjanaṃ kuryāt guggulena dhūpaṃ dadyāt tato 'ṣṭasahasraṃ	jAtI-puzpEH prapUjanam kuryAt guggulena DUpam dadyAt tatas azwa-sahasram
+   pratyahaṃ japet /	pratyaham japet /
+   māsānte tu vidhivat pūjanaṃ kuryāt /	mAsa-ante tu viDivat pUjanam kuryAt /
+   dhūpadīpau prajvālanīyau tato 'rdharātrasamaye 'vaśyam āgacchati āgatā sā	DUpa-dIpO prajvAlanIyO tatas arDarAtra-samaye avaSyam AgacCati AgatA sA
+   strībhāvena kāmayitavyā bhāryā bhavati sādhakasya parivāraṃ pālayati	strI-BAvena kAmayitavyA BAryA Bavati sADakasya parivAram pAlayati
+   divyaṃ kāmikaṃ bhojanaṃ ca dadāti // UT_9.37	divyam kAmikam Bojanam ca dadAti // UT_9.37
+   atha padminīsādhanam uoṃ hīṃ āgaccha āgaccha padmini svāhā /	aTa padminI-sADanam uom hIm AgacCa AgacCa padmini svAhA /
+   svagṛhe candanena maṇḍalaṃ kṛtvā śiraḥsthaṃ kārayet guggulena dhūpaṃ	sva-gRhe candanena maNxalam kRtvA SiraH-sTam kArayet guggulena DUpam
+   dattvā sahasram ekaṃ pratyahaṃ japet tato māsānte paurṇamāsyāṃ rātrau	dattvA sahasram ekam pratyaham japet tatas mAsa-ante pOrNamAsyAm rAtrO
+   vidhivat pūjāṃ kṛtvā japet /	viDivat pUjAm kRtvA japet /
+   japānte 'rdharātrasamaye niyatam āgacchati āgatā sā kāmayitavyā bhāryā	japa-ante arDarAtra-samaye niyatam AgacCati AgatA sA kAmayitavyA BAryA
+   bhūtvā sarvakāmapradā bhavati rasaṃ rasāyanaṃ siddhadravyaṃ pratyahaṃ	BUtvA sarva-kAma-pradA Bavati rasam rasAyanam sidDa-dravyam pratyaham
+   sādhakāya prayacchati // UT_9.38	sADakAya prayacCati // UT_9.38
+   atha naṭīsādhanam uoṃ hrīṃ āgaccha āgaccha naṭi svāhā /	aTa nawI-sADanam uom hrIm AgacCa AgacCa nawi svAhA /
+   atrāśokatale gatvā matsyamāṃsādyāhāragandhapuṣpādidhūpadīpabaliṃ dattvā	atra-aSoka-tale gatvA matsya-mAMsa-Adi-AhAra-ganDa-puzpa-Adi-DUpa-dIpa-balim dattvA
+   sahasraṃ pratyahaṃ japet tataḥ sā māsānte niyatam āgacchati āgatā sā mātā	sahasram pratyaham japet tatas sA mAsa-ante niyatam AgacCati AgatA sA mAtA
+   bhaginī bhāryā vā bhavati /	BaginI BAryA vA Bavati /
+   yadi mātā bhavati tadā divyaṃ kāmikaṃ bhojanaṃ dadāti	yadi mAtA Bavati tadA divyam kAmikam Bojanam dadAti
+   vastrasugandhisuvarṇaśataṃ dadāti ca /	vastra-suganDi-suvarNa-Satam dadAti ca /
+   yadi bhaginī bhavati tadā śatayojanād uttamāṃ striyam ānīya dadāti /	yadi BaginI Bavati tadA Sata-yojanAt uttamAm striyam AnIya dadAti /
+   yadi bhāryā bhavati tadā divyaṃ vastraṃ rasāyanam aṣṭadināntareṇa dadāti	yadi BAryA Bavati tadA divyam vastram rasAyanam azwa-dina-antareNa dadAti
+   // UT_9.39	// UT_9.39
+   athānurāgiṇīsādhanam uoṃ hrīṃ anurāgiṇi āgaccha āgaccha svāhā /	aTa-anurAgiNI-sADanam uom hrIm anurAgiNi AgacCa AgacCa svAhA /
+   iha kaśmīrakuṅkumena bhūrjapattre strīsadṛśīṃ pratimāṃ vilikhyāvāhanādikaṃ	iha kaSmIra-kuFkumena BUrja-pattre strI-sadRSIm pratimAm viliKya-AvAhana-Adikam
+   kṛtvā gandhapuṣpadhūpadīpādikaṃ dattvā tāmbūlāni nivedya sahasraṃ	kRtvA ganDa-puzpa-DUpa-dIpa-Adikam dattvA tAmbUlAni nivedya sahasram
+   pratyahaṃ japet /	pratyaham japet /
+   māsam ekaṃ trisaṃdhyaṃ japet māsānte paurṇamāsyāṃ vidhivat pūjāṃ kṛtvā	mAsam ekam trisaMDyam japet mAsa-ante pOrNamAsyAm viDivat pUjAm kRtvA
+   ghṛtadīpaṃ prajvālya samagrarātrau mantraṃ prajapet /	GRta-dIpam prajvAlya samagra-rAtrO mantram prajapet /
+   tataḥ prabhātasamaye niyatam āgacchati āgatā sā sarvakāmapradā bhavati	tatas praBAta-samaye niyatam AgacCati AgatA sA sarva-kAma-pradA Bavati
+   divyarasāyanāni dadāti pratyahaṃ ca dīnārāṇāṃ sahasraṃ dadāti /	divya-rasAyanAni dadAti pratyaham ca dInArANAm sahasram dadAti /
+   tasyāḥ prasādena varṣasahasrāṇy āyuś ca bhavati // UT_9.40	tasyAH prasAdena varza-sahasrANi AyuH ca Bavati // UT_9.40
+   atha ṣaṭtriṃśad yakṣiṇyaḥ /	aTa zawtriMSat yakziNyaH /
+   vicitrā vibhramā haṃsī bhīṣaṇī janarañjinī /	vicitrA viBramA haMsI BIzaNI jana-raQjinI /
+   viśālā madanā ghaṇṭā kālakarṇī mahābhayā // UT_9.41	viSAlA madanA GaNwA kAlakarNI mahA-BayA // UT_9.41
+   māhendrī śaṅkhinī cāndrī śmaśānā vaṭayakṣiṇī /	mAhendrI SaFKinI cAndrI SmaSAnA vawa-yakziNI /
+   mekhalā vikalā lakṣmīr mālinī śatapattrikā // UT_9.42	meKalA vikalA lakzmIH mAlinI SatapattrikA // UT_9.42
+   sulocanā suśobhāḍhyā kapālinī viśālinī /	sulocanA su-SoBA-AXyA kapAlinI viSAlinI /
+   naṭī kāmeśvarī svarṇarekhā ca surasundarī // UT_9.43	nawI kAmeSvarI svarNareKA ca surasundarI // UT_9.43
+   manoharā pramodānurāgiṇī nakhakeśikā /	manoharA pramoda-anurAgiNI naKa-keSikAH /
+   bhāminī padminī caiva svarṇāvatī ratipriyā // UT_9.44	BAminI padminI ca-eva svarNAvatI rati-priyA // UT_9.44
+   ṣaṭtriṃśad etā yakṣiṇyaḥ kathitāḥ siddhikāmadāḥ /	zawtriMSat etAH yakziNyaH kaTitAH sidDi-kAma-dAH /
+   karaṅkiṇīmate tantre mahādevena vistarāt // UT_9.45	karaFkiNImate tantre mahAdevena vistarAt // UT_9.45
+   ārādhanaṃ mahat tāsāṃ pravakṣyāmi samāsataḥ /	ArADanam mahat tAsAm pravakzyAmi samAsatas /
+   phalaṃ caiva yathā tuṣṭāḥ prayacchanti samāhitam // UT_9.46	Palam ca-eva yaTA tuzwAH prayacCanti samAhitam // UT_9.46
+   lakṣadvayaṃ japen mantraṃ vaṭavṛkṣatale śuciḥ /	lakza-dvayam japet mantram vawa-vRkza-tale SuciH /
+   paścāc campakapuṣpaiś ca homaṃ madhughṛtānvitam // UT_9.47	paScAt campaka-puzpEH ca homam maDu-GRta-anvitam // UT_9.47
+   kuryād daśāṃśato mantrī śaṃkareṇoditaṃ yathā /	kuryAt daSa-aMSataH mantrI SaMkareNa-uditam yaTA /
+   tataḥ siddhā bhaved devi vicitrā vāñchitapradā // UT_9.48	tatas sidDA Bavet devi vicitrAH vAQCita-pradAH // UT_9.48
+   uoṃ vicitre citrarūpiṇi me siddhiṃ kuru 2 svāhā /	uom vicitre citra-rUpiNi me sidDim kuru 2 svAhA /
+   iti mantraḥ /	iti mantraH /
+   lakṣadvayaṃ japen mantraṃ śmaśāne nibhṛte niśi /	lakza-dvayam japet mantram SmaSAne niBRte niSi /
+   ghṛtāktair guggulair home daśāṃśena kṛte sati // UT_9.49	GRta-aktEH guggulEH home daSa-aMSena kRte sati // UT_9.49
+   vibhramā toṣam āyāti pañcāśanmānuṣaiḥ samam /	viBramA tozam AyAti paQcASat-mAnuzEH samam /
+   dadāti bhojanaṃ dravyaṃ pratyahaṃ śaṃkaro 'bravīt // UT_9.50	dadAti Bojanam dravyam pratyaham SaMkaraH abravIt // UT_9.50
+   uoṃ hrīṃ vibhrame vibhramaṅgarūpe vibhramaṃ kuru 2 bhagavati svāhā /	uom hrIm viBrame viBramaFga-rUpe viBramam kuru 2 Bagavati svAhA /
+   pradeśe nagarasyātha lakṣasaṃkhyaṃ japen manum /	pradeSe nagarasya-aTa lakza-saMKyam japet manum /
+   padmapattrair ghṛtopetaiḥ kṛte home daśāṃśataḥ // UT_9.51	padma-pattrEH GRta-upetEH kRte home daSa-aMSataH // UT_9.51
+   prayacchaty añjanaṃ haṃsī yena paśyati bhūnidhim /	prayacCati aQjanam haMsI yena paSyati BU-niDim /
+   sukhena taṃ ca gṛhṇāti na vighnaiḥ paribhūyate // UT_9.52	suKena tam ca gRhNAti na viGnEH pariBUyate // UT_9.52
+   uoṃ drīṃ namo haṃsi haṃsavāhinī klīṃ klīṃ svāhā /	uom drIm namaH haMsi haMsa-vAhinI klIm klIm svAhA /
+   tripathastho japen mantraṃ lakṣasaṃkhyaṃ daśāṃśataḥ /	tripaTa-sTaH japet mantram lakza-saMKyam daSa-aMSataH /
+   uoṃ śrīṃ drīṃ vaṭavāsini yakṣakulaprasūte vaṭayakṣiṇi ehy ehi svāhā /	uom SrIm drIm vawa-vAsini yakza-kula-prasUte vawa-yakziNi ehi ehi svAhA /
+   madhūkavṛkṣatale mantraṃ caturdaśadināvadhi /	maDUka-vRkza-tale mantram caturdaSa-dina-avaDi /
+   prajapen mekhalā tuṣṭā dadāty añjanam uttamam // UT_9.53	prajapet meKalA tuzwA dadAti aQjanam uttamam // UT_9.53
+   uoṃ drīṃ huṃ madanamekhalāyai madanaviḍambanāyai namaḥ svāhā /	uom drIm hum madanameKalAyE madana-vixambanAyE namaH svAhA /
+   guhāntaḥstho 'dhare māsatrayaṃ mantraṃ japen naraḥ /	guhA-antar-sTaH aDare mAsa-trayam mantram japet naraH /
+   tataḥ siddhā bhaved devi vikalā vāñchitapradā // UT_9.54	tatas sidDA Bavet devi vikalAH vAQCita-pradAH // UT_9.54
+   oṃ vikale aiṃ hrīṃ śrīṃ klīṃ svāhā /	om vikale Em hrIm SrIm klIm svAhA /
+   svagṛhāvasthito raktaiḥ prasūnaiḥ karavīrajaiḥ /	sva-gRha-avasTitaH raktEH prasUnEH karavIra-jEH /
+   lakṣam āvartayen mantrī dūrvājyābhyāṃ daśāṃśataḥ // UT_9.55	lakzam Avartayet mantrI dUrvA-AjyAByAm daSa-aMSataH // UT_9.55
+   home kṛte bhavet siddhā lakṣmīnamnī ca yakṣiṇī /	home kRte Bavet sidDA lakzmI-namnI ca yakziNI /
+   rasaṃ rasāyanaṃ divyaṃ nidhānaṃ ca prayacchati // UT_9.56	rasam rasAyanam divyam niDAnam ca prayacCati // UT_9.56
+   uoṃ aiṃ hrīṃ śrīṃ lakṣmi kamaladhāriṇi haṃsaḥ so 'haṃ svāhā /	uom Em hrIm SrIm lakzmi kamala-DAriNi haMsaH saH aham svAhA /
+   catuṣpathasthito lakṣam āpadi prajapen manum /	catuzpaTa-sTitaH lakzam Apadi prajapet manum /
+   mālinī jāyate siddhā divyaṃ khaṅgaṃ prayacchati // UT_9.57	mAlinI jAyate sidDAH divyam KaFgam prayacCati // UT_9.57
+   yat prabhāvena loke 'smin durlabhaṃ rājyam āpnuyāt /	yat praBAvena loke asmin durlaBam rAjyam ApnuyAt /
+   uoṃ drīṃ uoṃ namo mālinī stri ehy ehi sundari haṃsahaṃsi samīhāṃ me	uom drIm uom namaH mAlinI stri ehi ehi sundari haMsahaMsi samIhAm me
+   saṅgabhaya svāhā /	saFga-Baya svAhA /
+   śatapattravane yas tu mantralakṣaṃ japen muniḥ /	Satapattra-vane yaH tu mantra-lakzam japet muniH /
+   kṣīrājyahomaiḥ saṃsiddhā siddhiṃ yacchati bhūnidhim // UT_9.58	kzIra-Ajya-homEH saMsidDA sidDim yacCati BU-niDim // UT_9.58
+   uoṃ drīṃ śatapattrike drīṃ drīṃ śrīṃ svāhā /	uom drIm Satapattrike drIm drIm SrIm svAhA /
+   nadītīrasthito lakṣatrayaṃ mantrī japen manum /	nadI-tIra-sTitaH lakza-trayam mantrI japet manum /
+   ghṛtahome daśāṃśena kṛte devī prasīdati // UT_9.59	GRta-home daSa-aMSena kRte devI prasIdati // UT_9.59
+   dadāti pādukāṃ tasmai yathāruci nabhastale /	dadAti pAdukAm tasmE yaTAruci naBastale /
+   manaḥpavanavegena yāti cāyāti sādhakaḥ // UT_9.60	manaH-pavana-vegena yAti ca-AyAti sADakaH // UT_9.60
+   uoṃ drīṃ klīṃ sulocane siddhiṃ me dehi dehi svāhā /	uom drIm klIm su-locane sidDim me dehi dehi svAhA /
+   raktāmbaradharo mantrī caturdaśadināvadhi /	rakta-ambara-DaraH mantrI caturdaSa-dina-avaDi /
+   japet siddhā bhaved devī śobhanā bhogadāyinī // UT_9.61	japet sidDA Bavet devI SoBanA Boga-dAyinI // UT_9.61
+   uoṃ drīṃ aśokapallavakaratale śobhane śrīṃ kṣaḥ svāhā /	uom drIm aSoka-pallava-kara-tale SoBane SrIm kzaH svAhA /
+   mahāvratadharo mantrī yaḥ śālyodanabhojanaiḥ /	mahAvrata-DaraH mantrI yaH SAlyodana-BojanEH /
+   lakṣadvayaṃ japen mantraṃ kapālaṃ labhate muniḥ // UT_9.62	lakza-dvayam japet mantram kapAlam laBate muniH // UT_9.62
+   ākāśagamanaṃ dūrāt svapnarūpasamāgamaḥ /	AkASa-gamanam dUrAt svapna-rUpa-samAgamaH /
+   dūrād darśanam ityādi sādhakāya prayacchati // UT_9.63	dUrAt darSanam ityAdi sADakAya prayacCati // UT_9.63
+   uoṃ aiṃ kapālinī drāṃ drīṃ klāṃ klīṃ klūṃ klaiṃ klauṃ klaḥ haṃsaḥ so 'haṃ	uom Em kapAlinI drAm drIm klAm klIm klUm klEm klOm klaH haMsaH saH aham
+   sakalahrīṃ phaṭ svāhā /	sakala-hrIm Paw svAhA /
+   sarittīre japen mantram ardhaṃ lakṣasya deśikaḥ /	sarit-tIre japet mantram arDam lakzasya deSikaH /
+   ghṛtāktaguggulair home devī saubhāgyadā bhavet // UT_9.64	GRta-akta-guggulEH home devI sOBAgya-dA Bavet // UT_9.64
+   oṃ varayakṣiṇī varayakṣaviśālini āgaccha 2 priyaṃ me bhavatu haime bhava	om vara-yakziNI vara-yakza-viSAlini AgacCa 2 priyam me Bavatu hEme Bava
+   svāhā /	svAhA /
+   puṇyāśokatalaṃ gatvā candanena sumaṇḍalam /	puNya-aSoka-talam gatvA candanena su-maNxalam /
+   kṛtvā cābhyarcayed devīṃ dhūpaṃ dattvā sahasrakam // UT_9.65	kRtvA ca-aByarcayet devIm DUpam dattvA sahasrakam // UT_9.65
+   mantram ārādhayen māsaṃ naktaṃbhojī rasaḥ sadā /	mantram ArADayet mAsam naktaMBojI rasaH sadA /
+   rātrau pūjāṃ śubhāṃ kṛtvā japen mantraṃ munivrataḥ // UT_9.66	rAtrO pUjAm SuBAm kRtvA japet mantram muni-vrataH // UT_9.66
+   naṭī devī samāgatya nidhānaṃ rasam añjanam /	nawI devI samAgatya niDAnam rasam aQjanam /
+   dadāti mantriṇe mantraṃ divyayogaṃ ca siddhidam // UT_9.67	dadAti mantriNe mantram divya-yogam ca sidDi-dam // UT_9.67
+   uoṃ drīṃ naṭi mahānaṭi rūpavati drīṃ svāhā /	uom drIm nawi mahAn-awi rUpavati drIm svAhA /
+   ekāsane śucau deśe trisaṃdhyaṃ trisahasrakam /	eka-Asane SucO deSe trisaMDyam tri-sahasrakam /
+   māsam ekaṃ japen mantraṃ tadā pūjāṃ samārabhet // UT_9.68	mAsam ekam japet mantram tadA pUjAm samAraBet // UT_9.68
+   puṣpair dhūpaiś ca naivedyaiḥ pradīpair ghṛtapūritaiḥ /	puzpEH DUpEH ca nEvedyEH pradIpEH GRta-pUritEH /
+   rātrau devīṃ samabhyarcya japen mantraṃ prasannadhīḥ // UT_9.69	rAtrO devIm samaByarcya japet mantram prasanna-DIH // UT_9.69
+   ardharātre gate devī samāgatya prayacchati /	arDarAtre gate devI samAgatya prayacCati /
+   rasaṃ rasāyanaṃ divyaṃ vastrālaṃkaraṇāni ca // UT_9.70	rasam rasAyanam divyam vastra-alaMkaraNAni ca // UT_9.70
+   uoṃ hrīṃ āgaccha āgaccha kāmeśvari svāhā /	uom hrIm AgacCa AgacCa kAmeSvari svAhA /
+   nadītīre śubhe ramye candanena sumaṇḍalam /	nadI-tIre SuBe ramye candanena su-maNxalam /
+   vidhāya pūjayed devīṃ tato mantrāyutaṃ japet // UT_9.71	viDAya pUjayet devIm tatas mantra-ayutam japet // UT_9.71
+   ekaviṃśatighasrāntaṃ prasannā vitaret sadā /	ekaviMSati-Gasra-antam prasannA vitaret sadA /
+   ardharātre gate devī dīnārāṇāṃ sahasrakam // UT_9.72	arDarAtre gate devI dInArANAm sahasrakam // UT_9.72
+   dadāti pratyahaṃ tasmai vyayaṃ kuryād dine dine /	dadAti pratyaham tasmE vyayam kuryAt dine dine /
+   tadvyayābhāvato bhūyo na dadāti prakupyati // UT_9.73	tad-vyaya-aBAvataH BUyas na dadAti prakupyati // UT_9.73
+   uoṃ hīṃ sarvakāmade manohare svāhā /	uom hIm sarva-kAma-de manohare svAhA /
+   ardharātre samutthāya sahasraṃ prajapen manum /	arDarAtre samutTAya sahasram prajapet manum /
+   māsam ekaṃ tato devī nidhiṃ darśayati dhruvam // UT_9.74	mAsam ekam tatas devI niDim darSayati Druvam // UT_9.74
+   oṃ hrīṃ pramodāyai svāhā /	om hrIm pramodAyE svAhA /
+   kuṅkumena samālikhya bhūrje devīṃ sulakṣaṇām /	kuFkumena samAliKya BUrje devIm su-lakzaNAm /
+   pratipattithim ārabhya dhūpadīpādibhir varām // UT_9.75	pratipad-tiTim AraBya DUpa-dIpa-AdiBiH varAm // UT_9.75
+   kṛtvā devīṃ sahasraṃ ca trisaṃdhyaṃ parivartayet /	kRtvA devIm sahasram ca trisaMDyam parivartayet /
+   māsam ekaṃ tataḥ pūjāṃ rātrau kṛtvā punar japet // UT_9.76	mAsam ekam tatas pUjAm rAtrO kRtvA punar japet // UT_9.76
+   ardharātre gate devī samāgatya prayacchati /	arDarAtre gate devI samAgatya prayacCati /
+   dīnārāṇāṃ sahasraikaṃ pratyahaṃ paritoṣitā // UT_9.77	dInArANAm sahasra-ekam pratyaham paritozitAH // UT_9.77
+   uoṃ anurāgiṇi maithunapriye yakṣakulaprasūte svāhā /	uom anurAgiNi mETuna-priye yakza-kula-prasUte svAhA /
+   gatvā pakṣigṛhaṃ mantrī nakhakeśaiḥ prapūjayet // UT_9.78	gatvA pakzi-gRham mantrI naKa-keSEH prapUjayet // UT_9.78
+   dinaikaviṃśatir yāvat pūjāṃ kṛtvā tato niśi /	dina-ekaviMSatiH yAvat pUjAm kRtvA tatas niSi /
+   āvartayed ekacitto mantrī mantraṃ susaṃyataḥ // UT_9.79	Avartayet ekacittaH mantrI mantram su-saMyataH // UT_9.79
+   niśārdhe vāñchitaṃ kāryaṃ devy āgatya prayacchati /	niSA-arDe vAQCitam kAryam devI Agatya prayacCati /
+   uoṃ hīṃ nakhakeśike svāhā /	uom hIm naKa-keSike svAhA /
+   dinatrayam anāharī somasūryagrahe sati // UT_9.80	dina-trayam anAharI soma-sUrya-grahe sati // UT_9.80
+   sparśād vimuktiparyantaṃ japet tadgatamānasaḥ /	sparSAt vimukti-paryantam japet tad-gata-mAnasaH /
+   tataḥ prasannā sā devī yacchaty añjanam uttamam // UT_9.81	tatas prasannA sA devI yacCati aQjanam uttamam // UT_9.81
+   tenāñjito naro 'dṛśyaṃ nidhiṃ paśyati bhūgatam /	tena-aQjitaH naraH adRSyam niDim paSyati BU-gatam /
+   uoṃ hīṃ yakṣiṇi bhāmini ratipriye svāhā /	uom hIm yakziNi BAmini rati-priye svAhA /
+   vaṭavṛkṣatale kṛtvā candanena sumaṇḍalam // UT_9.82	vawa-vRkza-tale kRtvA candanena su-maNxalam // UT_9.82
+   yakṣiṇīṃ pūjayitvā tu naivedyam upadarśayet /	yakziNIm pUjayitvA tu nEvedyam upadarSayet /
+   śaśamāṃsaṃ ghṛtaṃ cīraṃ mantram āvartayet tataḥ // UT_9.83	SaSa-mAMsam GRtam cIram mantram Avartayet tatas // UT_9.83
+   dine dine sahasraikaṃ yāvat saptadinaṃ bhavet /	dine dine sahasra-ekam yAvat sapta-dinam Bavet /
+   athāgatya sadā tasmai mantram añjanamuttamam // UT_9.84	aTa-Agatya sadA tasmE mantram aQjanam-uttamam // UT_9.84
+   yatprabhāvāntare sarvaṃ paśyen nidhim aśaṅkitaḥ /	yad-praBAva-antare sarvam paSyet niDim aSaFkitaH /
+   uoṃ hrīṃ āgaccha 2 svarṇāvati svāhā /	uom hrIm AgacCa 2 svarNAvati svAhA /
+   śaṅkhaliptapaṭe yasmād devīṃ gaurīṃ dhṛtotpalām // UT_9.85	SaFKa-lipta-pawe yasmAt devIm gOrIm DRta-utpalAm // UT_9.85
+   sarvālaṃkāriṇīṃ divyāṃ samālikhyārcayen naraḥ /	sarva-alaMkAriNIm divyAm samAliKya-arcayet naraH /
+   jātīpuṣpaiḥ prapūjyātha sahasraṃ parivartayet // UT_9.86	jAtI-puzpEH prapUjya-aTa sahasram parivartayet // UT_9.86
+   saptāhaṃ mantravit tasyāḥ kuryād arcāṃ śubhāṃ tataḥ /	sapta-aham mantra-vid tasyAH kuryAt arcAm SuBAm tatas /
+   ardharātre gate devī samāgatya prayacchati // UT_9.87	arDarAtre gate devI samAgatya prayacCati // UT_9.87
+   pañcaviṃśatidīnārān pratyahaṃ paritoṣitā /	paQcaviMSati-dInArAn pratyaham paritozitAH /
+   vāñchitaṃ manasas tasmai mantrajñāya na saṃśayaḥ // UT_9.88	vAQCitam manasaH tasmE mantra-jQAya na saMSayaH // UT_9.88
+   uoṃ uoṃ hīṃ ratipriye svāhā /	uom uom hIm rati-priye svAhA /
+   Uḍḍāmareśvaratantra, Daśamaḥ paṭalaḥ	UxxAmara-ISvara-tantra, DaSamaH pawalaH
+   tatra ceṭakasādhanam /	tatra cewaka-sADanam /
+   atha ceṭakā likhyante /	aTa cewakAH liKyante /
+   kāmātureṇa cittena niśi mantraṃ japet sadā /	kAma-AtureNa cittena niSi mantram japet sadA /
+   japto 'vaśyaṃ vaśyakaro mantro 'yaṃ nātra saṃśayaḥ // UT_10.1	japtaH avaSyam vaSya-karaH mantraH ayam na-atra saMSayaH // UT_10.1
+   oṃ aiṃ skīṃ klīṃ klīṃ sahavallari klīṃ kāmapiśāca klīṃ hrīṃ kāmapiśāca	om Em skIm klIm klIm sahavallari klIm kAmapiSAca klIm hrIm kAmapiSAca
+   amukīṃ kāminīṃ kāmayāmy ahaṃ tāṃ kāmena grāhaya 2 svapne mama rūpe nakhair	amukIm kAminIm kAmayAmi aham tAm kAmena grAhaya 2 svapne mama rUpe naKEH-
+   vidāraya 2 drāvaya 2 astreṇa bandhaya 2 śrīṃ phaṭ svāhā /	vidAraya 2 drAvaya 2 astreNa banDaya 2 SrIm Paw svAhA /
+   japen māsatrayaṃ mantraṃ kambalaḥ suprasannadhīḥ /	japet mAsa-trayam mantram kambalaH su-prasanna-DIH /
+   mṛtakotthāpanaṃ kuryāt pratimāṃ cālayet tathā // UT_10.2	mRtaka-utTApanam kuryAt pratimAm cAlayet taTA // UT_10.2
+   sadāraktakambala mahādevadūta mṛtakam utthāpaya 2 pratimāṃ cālaya 2	sadA-rakta-kambala mahAdeva-dUta mRtakam utTApaya 2 pratimAm cAlayaH 2
+   parvatān kampaya 2 līlayā vilasaya 2 īṃ īṃ phaṭ svāhā /	parvatAn kampayaH 2 lIlayA vilasaya 2 Im Im Paw svAhA /
+   caturlakṣaṃ japen mantraṃ sāgarasya taṭe śuciḥ /	catur-lakzam japet mantram sAgarasya tawe SuciH /
+   pattrapuṣpaphalādīni karoty ākarṣaṇaṃ dhruvam // UT_10.3	pattra-puzpa-Pala-AdIni karoti AkarzaNam Druvam // UT_10.3
+   abhaya ghudghutākarṣa karmakartā sṛṣṭiputra amukam ākarṣaya drīṃ /	aBaya GudGuta-Akarza karma-kartA sRzwi-putra amukam Akarzaya drIm /
+   sahasrāṣṭam imaṃ mantraṃ japet saptadināvadhi /	sahasra-azwam imam mantram japet sapta-dina-avaDi /
+   pratyahaṃ maṇibhadrākhyaḥ prayacchaty ekarūpyakam // UT_10.4	pratyaham maNiBadra-AKyaH prayacCati eka-rUpyakam // UT_10.4
+   oṃ namo maṇibhadrāya namaḥ pūrṇabhadrāya namo mahāyakṣāya senādhipataye	om namaH maNiBadrAya namaH pUrNaBadrAya namaH mahA-yakzAya senA-aDipataye
+   mauddhamauddhadharāya sughaṭamudrāvahe svāhā /	mOdDa-mOdDa-DarAya su-Gawa-mudrA-Avahe svAhA /
+   trisaṃdhyaṃ balidānaṃ ca niśāyāṃ prajapen manum /	trisaMDyam bali-dAnam ca niSAyAm prajapet manum /
+   sahasraṃ hi japen nityaṃ yāvat svapnaṃ prajāyate // UT_10.5	sahasram hi japet nityam yAvat svapnam prajAyate // UT_10.5
+   prāṇināṃ mṛtyusamayaṃ vadaty eva na saṃśayaḥ /	prANinAm mRtyu-samayam vadati eva na saMSayaH /
+   oṃ namo bhagavate rudrāya dehi me vacanasiddhividhānaṃ pārvatīpate hrāṃ	om namaH Bagavate rudrAya dehi me vacana-sidDi-viDAnam pArvatIpate hrAm
+   hrīṃ hūṃ hreṃ hrauṃ hraḥ /	hrIm hUm hrem hrOm hraH /
+   rātrau rātrau japen mantraṃ sāgarasya taṭe śuciḥ /	rAtrO rAtrO japet mantram sAgarasya tawe SuciH /
+   lakṣajāpe kṛte siddho datte sāgaraceṭakaḥ // UT_10.6	lakza-jApe kRte sidDaH datte sAgara-cewakaH // UT_10.6
+   ratnatrayaṃ tadā maunyaṃ yasmin mantrī sukhī bhavet /	ratnatrayam tadA mOnyam yasmin mantrI suKI Bavet /
+   sahasradaśakaṃ nityaṃ rātrau mantraṃ japet sudhīḥ // UT_10.7	sahasra-daSakam nityam rAtrO mantram japet suDIH // UT_10.7
+   taddaśāṃśaṃ madhupayomiśraiḥ padmaiś ca homayet /	tad-daSa-aMSam maDu-payaH-miSrEH padmEH ca homayet /
+   oṃ namo bhagavate rudra dehi me nijarāśiṃ śrīṃ namo 'stu te svāhā /	om namaH Bagavate rudra dehi me nija-rASim SrIm namaH astu te svAhA /
+   oṃ hrīṃ amukaṃ rañjaya svāhā /	om hrIm amukam raQjaya svAhA /
+   anena mantreṇa sarvajanās tasmāt tu rañjakā bhavanti niśācaraṃ dhyātvā	anena mantreNa sarva-janAH tasmAt tu raQjakAH Bavanti niSAcaram DyAtvA
+   ātmapāṇinā japanād adṛśyakāriṇīṃ vidyām āpnoti // UT_10.8	Atma-pANinA japanAt adRSya-kAriNIm vidyAm Apnoti // UT_10.8
+   oṃ namo rasācāriṇe maheśvarāya mama paryaṭane sarvalokalocanāni bandhaya 2	om namaH rasa-AcAriNe maheSvarAya mama paryawane sarva-loka-locanAni banDaya 2
+   devy ājñāpayati svāhā /	devI AjQApayati svAhA /
+   sakṛd uccāramātreṇa nṛsiṃhaceṭakākhyo mantro ḍākinyādidoṣaṃ nāśayati /	sakRt uccAra-mAtreNa nRsiMha-cewaka-AKyaH mantraH xAkinI-Adi-dozam nASayati /
+   oṃ namo bhagavate hiraṇyakaśipubalavidāraṇāya tribhuvanavyāpakāya	om namaH Bagavate hiraNyakaSipu-bala-vidAraNAya triBuvana-vyApakAya
+   bhūtapretapiśācakūṣmāṇḍabrahmarākṣasayoginīḍākinīkulonmūlanāya	BUta-preta-piSAca-kUzmANxa-brahma-rAkzasa-yoginI-xAkinI-kula-unmUlanAya
+   stambhodbhavāya samastadoṣān nāśaya 2 visara 2 kampaya 2 matha 2 hūṃ hṛṃ	stamBa-udBavAya samasta-dozAt nASaya 2 visara 2 kampayaH 2 maTa 2 hUm hRm
+   svāhā ehy ehi rudra ājñāpayati svāhā /	svAhA ehi ehi rudraH AjQApayati svAhA /
+   prerakaḥ sahasrapādaḥ anidrām ākarṣayati /	prerakaH sahasra-pAdaH anidrAm Akarzayati /
+   oṃ preraka amukīṃ tava maṇḍalaṃ samāvartaya drāvaya dāhaya saṃtāpaya hauṃ	om preraka amukIm tava maNxalam samAvartaya drAvaya dAhaya saMtApaya hOm
+   // UT_10.9	// UT_10.9
+   Uḍḍāmareśvaratantra, Ekādaśaḥ paṭalaḥ	UxxAmara-ISvara-tantra, EkAdaSaH pawalaH
+   atha digbandhanamantraḥ /	aTa digbanDana-mantraH /
+   vajrakrodhāya mahādantāya daśadiśo bandha bandha haṃ phaṭ svāhā /	vajra-kroDAya mahA-dantAya daSa-diSaH banDa banDa ham Paw svAhA /
+   atha yonisaṃkocanam /	aTa yoni-saMkocanam /
+   kumudaṃ haritālaṃ ca piṣṭvā yoniṃ pralepayet /	kumudam haritAlam ca pizwvA yonim pralepayet /
+   trirātraṃ pañcarātraṃ ca yonir bhavati saṃyutā // UT_11.1	tri-rAtram paQca-rAtram ca yoniH Bavati saMyutAH // UT_11.1
+   māṃsī candanamustā ca tagaraṃ nāgakesaram /	mAMsI candana-mustA ca tagaram nAgakesaram /
+   ebhir māsaprayogaṃ ca bhagalepanam uttamam // UT_11.2	eBiH mAsa-prayogam ca Baga-lepanam uttamam // UT_11.2
+   mālatīkusumais tailair valkair varāṅgalepanam /	mAlatI-kusumEH tElEH valkEH vara-aFga-lepanam /
+   ṛtukāle 'thavā kuryāt tadā tattulyatā bhavet // UT_11.3	Rtu-kAle aTavA kuryAt tadA tad-tulya-tA Bavet // UT_11.3
+   ḍimbasyānīya pañcāṅgaṃ sarṣapatailapācitam /	ximbasya-AnIya paQcAFgam sarzapa-tEla-pAcitam /
+   satatam abhilepena sā bhartāraṃ vaśaṃ nayet // UT_11.4	satatam aBilepena sA BartAram vaSam nayet // UT_11.4
+   mūlaṃ tu vānarīśṛṅgaṃ chāgīmūtreṇa lepayet /	mUlam tu vAnarI-SRFgam CAgI-mUtreNa lepayet /
+   lepanāt tu tataḥ śiśnaṃ yathecchaṃ kāmayed balāt // UT_11.5	lepanAt tu tatas SiSnam yaTecCam kAmayet balAt // UT_11.5
+   saubhāgyapippalī lākṣā viṣaṃ ca kramavardhitam /	sOBAgyapippalI lAkzA vizam ca krama-varDitam /
+   lepaṃ prakṣālitaṃ liṅgaṃ nārī kāmayate cirāt // UT_11.6	lepam prakzAlitam liFgam nArI kAmayate cirAt // UT_11.6
+   pārāvataṃ tathā guñjā śvetotpalaṃ samakṣikam /	pArAvatam taTA guQjA Sveta-utpalam sa-makzikam /
+   nābhilepanam ity uktaṃ vīryastambhakaraṃ param // UT_11.7	nABilepanam iti uktam vIrya-stamBa-karam param // UT_11.7
+   dvādaśāraṃ likhec cakraṃ kuṅkumena samanvitam /	dvAdaSa-aram liKet cakram kuFkumena samanvitam /
+   bhūrjapattre 'thavā vastre netre baddhaphalādike // UT_11.8	BUrja-pattre aTavA vastre netre badDa-Pala-Adike // UT_11.8
+   pattre pattre likhed bījaṃ hrīṃkāraṃ paramojjvalam /	pattre pattre liKet bIjam hrIMkAram parama-ujjvalam /
+   sādhyanāma tathā madhye karṇikāyāṃ viśeṣataḥ // UT_11.9	sADya-nAma taTA maDye karNikAyAm viSezataH // UT_11.9
+   vidarbhamantramukhyena tatkūṭaṃ parimaṇḍale /	vidarBa-mantra-muKyena tat-kUwam parimaNxale /
+   mṛttikābhiḥ samastābhiḥ pratimāṃ kārayed dṛḍham // UT_11.10	mRttikABiH samastABiH pratimAm kArayet dRXam // UT_11.10
+   karṣayet pramadāṃ nṝṇāṃ garvitāṃ tu na saṃśayaḥ /	karzayet pramadAm nLNAm garvitAm tu na saMSayaH /
+   vairāgyaṃ na punar yāti dāsībhāvena tiṣṭhati // UT_11.11	vErAgyam na punar yAti dAsI-BAvena tizWati // UT_11.11
+   dāḍimaṃ pañcakolaṃ ca lohaṃ vajrorasaṃ ghṛtam /	dAximam paQcakolam ca loham vajra-urasam GRtam /
+   cūrṇaṃ bhūmandarā śākhā dantanakhaṃ karoti vai // UT_11.12	cUrNam BUmandarA SAKAH dantanaKam karoti vE // UT_11.12
+   manaḥśilā prayaṅguś ca rocanā nāgakesaram /	manaHSilA prayaFguH ca rocanA nAgakesaram /
+   netrāñjanasamāyuktaṃ sarvasattvavaśaṃkaram // UT_11.13	netra-aQjana-samAyuktam sarva-sattva-vaSaMkaram // UT_11.13
+   Uḍḍāmareśvaratantra, Dvādaśaḥ paṭalaḥ	UxxAmara-ISvara-tantra, DvAdaSaH pawalaH
+   oṃ hrīṃ śrīṃ klīṃ draṃ caṇḍogre trinetre cāmuṇḍe ariṣṭe hūṃ phaṭ svāhā /	om hrIm SrIm klIm dram caNxa-ugre trinetre cAmuNxe arizwe hUm Paw svAhA /
+   hrīṃ namāmy ahaṃ mahādevaṃ nṛsiṃhaṃ bhīmarūpiṇam oṃ namas tasmai /	hrIm namAmi aham mahAdevam nRsiMham BIma-rUpiNam om namaH tasmE /
+   śrīpārvaty uvāca /	SrIpArvatI uvAca /
+   uḍḍīśena samākīrṇe yogivṛndasamākule /	uxxISena samAkIrNe yogi-vRnda-samAkule /
+   praṇamya śirasā gaurī paripṛcchati śaṃkaram // UT_12.1	praNamya SirasA gOrI paripRcCati SaMkaram // UT_12.1
+   śrīśvara uvāca /	SrI-ISvaraH uvAca /
+   śṛṇu tvaṃ hi varārohe siddhyarthaṃ prativāsase /	SRNu tvam hi varArohe sidDi-arTam prativAsase /
+   taṃ vadiṣyāmi te devi sarvaṃ tat samupāhṛtam // UT_12.2	tam vadizyAmi te devi sarvam tat samupAhRtam // UT_12.2
+   devi yo dvijo mantrais tu viprahanyān na saṃśayaḥ /	devi yaH dvijaH mantrEH tu viprahanyAt na saMSayaH /
+   pūrvoditaṃ mayoḍḍīśaṃ kathyate tava bhaktitaḥ // UT_12.3	pUrva-uditam mayA-uxxISam kaTyate tava BaktitaH // UT_12.3
+   uḍḍīśaṃ ca namaskṛtya rudraṃ caiva sudurjayam /	uxxISam ca namaskRtya rudram ca-eva su-durjayam /
+   kapardinaṃ virūpākṣaṃ sarvabhūtabhayāvaham // UT_12.4	kapardinam virUpAkzam sarva-BUta-Baya-Avaham // UT_12.4
+   prathamaṃ bhūtakaraṇaṃ dvitīyonmādanaṃ tathā /	praTamam BUta-karaNam dvitIya-unmAdanam taTA /
+   tṛtīyaṃ dveṣaṇaṃ caiva turyam uccāṭanaṃ tathā // UT_12.5	tRtIyam dvezaNam ca-eva turyam uccAwanam taTA // UT_12.5
+   grāmoccāṭaṃ pañcamaṃ ca ṣaṣṭhaṃ ca jalastambhanam /	grAma-uccAwam paQcamam ca zazWam ca jala-stamBanam /
+   saptamam agnistambhaṃ ca vaśīkaraṇam aṣṭamam // UT_12.6	saptamam agni-stamBam ca vaSIkaraNam azwamam // UT_12.6
+   anyān api prayogāṃś ca śṛṇuṣva vai varānane /	anyAn api prayogAn ca SRNuzva vE varAnane /
+   śivena kathitā yogā uḍḍīśe śāstraniścaye // UT_12.7	Sivena kaTitAH yogAH uxxISe SAstra-niScaye // UT_12.7
+   andhī ca vandhīkaraṇaṃ mūkīkāras tathaiva ca /	anDI ca vanDIkaraNam mUkIkAraH taTA-eva ca /
+   gātrasaṃkocanaṃ caiva bhūtajvarakaras tathā // UT_12.8	gAtra-saMkocanam ca-eva BUta-jvara-karaH taTA // UT_12.8
+   astraśastrasya truṭitaṃ pānīyasya vināśanam /	astra-Sastrasya truwitam pAnIyasya vinASanam /
+   dadhimadhunāśanaṃ ca nakhakaraṇaṃ tathaiva ca // UT_12.9	daDi-maDu-nASanam ca naKa-karaNam taTA-eva ca // UT_12.9
+   gajānāṃ vājināṃ caiva prakopanaṃ parasparam /	gajAnAm vAjinAm ca-eva prakopanam parasparam /
+   ākarṣaṇaṃ bhujaṃgānāṃ mānavānāṃ tathā dhruvam // UT_12.10	AkarzaNam BujaMgAnAm mAnavAnAm taTA Druvam // UT_12.10
+   sasyavināśanaṃ caiva garbhasyāntardhikāraṇam /	sasya-vinASanam ca-eva garBasya-antarDi-kAraNam /
+   vetālāñjanasiddhiś ca ulūkasiddhir api hi // UT_12.11	vetAla-aQjana-sidDiH ca ulUka-sidDiH api hi // UT_12.11
+   anyān api mahāraudrān prayogān śṛṇu sāmpratam /	anyAn api mahA-rOdrAn prayogAn SRNu sAmpratam /
+   vidyāmantraprayogāṃś ca auṣadhaṃ cābhicārikam // UT_12.12	vidyA-mantra-prayogAn ca OzaDam ca-ABicArikam // UT_12.12
+   guptā guptatarāḥ kāryā rakṣitavyāḥ prayatnataḥ /	guptAH guptatarAH kAryAH rakzitavyAH prayatnataH /
+   akulīnādhamabuddher bhaktihīnasya vai tathā // UT_12.13	akulIna-aDama-budDeH Bakti-hInasya vE taTA // UT_12.13
+   hiṃsakasya ca kṣudrasya nindakasya viśeṣataḥ /	hiMsakasya ca kzudrasya nindakasya viSezataH /
+   svārthaṃ phalādilubdhasya upadeśam amanyataḥ // UT_12.14	sva-arTam Pala-Adi-lubDasya upadeSam amanyataH // UT_12.14
+   asmin śāpe pūruṣās te varjanīyāḥ prayatnataḥ /	asmin SApe pUruzAH te varjanIyAH prayatnataH /
+   etaiś ca saha saṃyogo na kāryaḥ sarvadā budhaiḥ // UT_12.15	etEH ca saha saMyogaH na kAryaH sarvadA buDEH // UT_12.15
+   ya uḍḍīśakriyāśaktibhedaṃ kurvanti mohitāḥ /	yaH uxxISa-kriyA-Sakti-Bedam kurvanti mohitAH /
+   te duṣṭā durjayāś caiva kim atra bahubhāṣitaiḥ // UT_12.16	te duzwAH durjayAH ca-eva kim atra bahu-BAzitEH // UT_12.16
+   yadīcchāsiddhim ātmānam ātmārthaṃ hi tathaiva ca /	yadi-icCA-sidDim AtmAnam Atma-arTam hi taTA-eva ca /
+   satpūruṣāya dātavyaṃ devagururatāya ca // UT_12.17	sat-pUruzAya dAtavyam deva-guru-ratAya ca // UT_12.17
+   prayogās tu prayoktavyāḥ sādhakaiḥ śatrukāraṇe /	prayogAH tu prayoktavyAH sADakEH Satru-kAraNe /
+   animittā nivartante svātmagrāhe na saṃśayaḥ // UT_12.18	animittAH nivartante sva-Atma-grAhe na saMSayaH // UT_12.18
+   asaṃtuṣṭo hy ayuktaś ca prayogān iti nācaret /	asaMtuzwaH hi ayuktaH ca prayogAn iti na-Acaret /
+   śāstrasiddhavicārās tu sāmantakoṣakāḥ śubhāḥ // UT_12.19	SAstra-sidDa-vicArAH tu sAmanta-kozakAH SuBAH // UT_12.19
+   oṃ glauṃ gaṃ gaṇeśāya namaḥ /	om glOm gam gaNeSAya namaH /
+   mantreṇānena mantrajñaḥ kumbhakāramṛdā tathā /	mantreNa-anena mantra-jQaH kumBakAra-mRdA taTA /
+   lambodaraṃ prakurvīta pūjayed upacārakaiḥ // UT_12.20	lamba-udaram prakurvIta pUjayet upacArakEH // UT_12.20
+   sāptāhikaṃ trisaṃdhyāyāṃ japtavyaṃ sāvadhānataḥ /	sAptAhikam trisaMDyAyAm japtavyam sa-avaDAnataH /
+   sahasraikapramāṇena japāc chāntir bhaviṣyati // UT_12.21	sahasra-eka-pramANena japAt SAntiH Bavizyati // UT_12.21
+   prātar aṣṭottaraṃ japtvā labhed buddhiṃ śubhāṃ naraḥ /	prAtar azwa-uttaram japtvA laBet budDim SuBAm naraH /
+   māsenaikena deveśi śrīlābhaś ca bhaved dhruvam // UT_12.22	mAsena-ekena deveSi SrI-lABaH ca Bavet Druvam // UT_12.22
+   ṣaṇmāsena varārohe mahādhanapatir bhavet /	zaz-mAsena varArohe mahADanapatiH Bavet /
+   trikālajñānavettā ca varṣaikena na saṃśayaḥ // UT_12.23	tri-kAla-jQAna-vettA ca varza-ekena na saMSayaH // UT_12.23
+   aiṃ namaḥ svāhā /	Em namaH svAhA /
+   prātaḥ sahasravāraṃ tu prajaptena prapūjayet /	prAtar sahasra-vAram tu prajaptena prapUjayet /
+   varadāṃ tu mahādevīṃ śvetagandhānulepanaiḥ // UT_12.24	varadAm tu mahAdevIm Sveta-ganDa-anulepanEH // UT_12.24
+   puṣpair jāpair dakṣiṇādisopacārais tu pratyaham /	puzpEH jApEH dakziNa-Adi-sa-upacArEH tu pratyaham /
+   saptame divase hy evaṃ vāgaiśvaryaṃ prajāyate // UT_12.25	saptame divase hi evam vAc-ESvaryam prajAyate // UT_12.25
+   bhavet sadyaḥ pravaktā ca śrutismṛtidharo 'pi ca /	Bavet sadyas pravaktA ca Sruti-smRti-DaraH api ca /
+   bāndhavaḥ sarvabhūtānāṃ cirāyuḥ sukham edhate // UT_12.26	bAnDavaH sarva-BUtAnAm cira-AyuH suKam eDate // UT_12.26
+   oṃ klīṃ mantreṇānena deveśi sādhakaḥ japam ārabhet /	om klIm mantreNa-anena deveSi sADakaH japam AraBet /
+   raktavastrāvṛto nityaṃ tathā kuṅkumajāṅgale // UT_12.27	rakta-vastra-AvRtaH nityam taTA kuFkuma-jAFgale // UT_12.27
+   saptāhajapamātreṇa hy ānayet tridaśāṅganām /	sapta-aha-japa-mAtreNa hi Anayet tridaSa-aFganAm /
+   oṃ drīṃ drīṃ drīṃ drīṃ svāhā /	om drIm drIm drIm drIm svAhA /
+   pūrvavidhāno hi japed ekāntasaṃsthitaḥ // UT_12.28	pUrva-viDAnaH hi japet ekAnta-saMsTitaH // UT_12.28
+   ākarṣeti striyaṃ śastāṃ sālaṃkārāṃ suvāsasam /	Akarza-iti striyam SastAm sa-alaMkArAm suvAsasam /
+   oṃ haiṃ haḥ huṃ /	om hEm haH hum /
+   ūrdhvadṛṣṭiprayogeṇa japel lakṣatrayaṃ priye // UT_12.29	UrDva-dRzwi-prayogeNa japet lakza-trayam priye // UT_12.29
+   sarvapāpavinirmukto jāyate khecare pade /	sarva-pApa-vinirmuktaH jAyate Kecare pade /
+   oṃ drīṃ kārīṇḍaḥ kṣaḥ kṣīṃ phaṭ svāhā /	om drIm kArINxaH kzaH kzIm Paw svAhA /
+   ekapādasthito bhadre japed aṣṭottaraṃ śatam // UT_12.30	eka-pAda-sTitaH Badre japet azwa-uttaram Satam // UT_12.30
+   yad yat prārthayate vastu tad dadāti dine dine /	yat yat prArTayate vastu tat dadAti dine dine /
+   yajen naraviśeṣaṃ ca devāgnigurubrāhmaṇaiḥ // UT_12.31	yajet nara-viSezam ca deva-agni-guru-brAhmaNEH // UT_12.31
+   oṃ śrīṃ kṣīṃ lohaṃ muñca kili kili amukaṃ kāṭaya kāṭaya mātaṃgini svāhā /	om SrIm kzIm loham muQca kili kili amukam kAwaya kAwaya mAtaMgini svAhA /
+   mantreṇānena pūrvāhṇe pūjayann upacārakaiḥ /	mantreNa-anena pUrvAhNe pUjayan upacArakEH /
+   śarāvaṃ pūrayitvā tu catuṣpathe baliṃ haret // UT_12.32	SarAvam pUrayitvA tu catuzpaTe balim haret // UT_12.32
+   samantraṃ kṣipyati pumān puruṣaṃ yadi paśyati /	sa-mantram kzipyati pumAn puruzam yadi paSyati /
+   ātmacintitakāryāṇi sādhayaty eva nānyathā // UT_12.33	Atma-cintita-kAryANi sADayati eva na-anyaTA // UT_12.33
+   oṃ stambhini svāhā kapālini svāhā drīṃ drīṃ vaiṣādārthini svāhā chaḥ chaḥ	om stamBini svAhA kapAlini svAhA drIm drIm vEzAda-arTini svAhA CaH CaH
+   mantreṇa mṛttikāṃ japtvā pratārya saptadhā jale /	mantreNa mRttikAm japtvA pratArya saptaDA jale /
+   saṃmukhībhūya kṣiptvā ca japtvā cāyutaṃ vāsare // UT_12.34	saMmuKIBUya kziptvA ca japtvA ca-ayutam vAsare // UT_12.34
+   tena siddho bhaven mantraḥ sādhakasya na saṃśayaḥ /	tena sidDaH Bavet mantraH sADakasya na saMSayaH /
+   oṃ śrīṃ kṣāṃ kṣīṃ kṣūṃ kṣaiṃ kṣauṃ kṣaḥ /	om SrIm kzAm kzIm kzUm kzEm kzOm kzaH /
+   madhyāhnasamaye sūryasammukhe japam ācaret // UT_12.35	maDyAhna-samaye sUrya-sammuKe japam Acaret // UT_12.35
+   ayutaṃ japtamātreṇa svasāmarthyaṃ prapaśyati /	ayutam japta-mAtreNa sva-sAmarTyam prapaSyati /
+   tasya dṛṣṭinipātena dvipadaś ca catuṣpadaḥ // UT_12.36	tasya dRzwi-nipAtena dvipadaH ca catuzpadaH // UT_12.36
+   jvarābhibhūtā jāyante apūrvā mantrasampadaḥ /	jvara-aBiBUtAH jAyante apUrvAH mantra-sampadaH /
+   oṃ haṃsaḥ haṃsaṃ so 'haṃ svāhā /	om haMsaH haMsam saH aham svAhA /
+   ekaviṃśatijaptena jalena jvarapīḍitaḥ // UT_12.37	ekaviMSati-japtena jalena jvara-pIxitaH // UT_12.37
+   vimucyate pānamātrāt sadyaḥ svasthaś ca jāyate /	vimucyate pAna-mAtrAt sadyas svasTaH ca jAyate /
+   oṃ drīṃ namo ghoreśvari ghoramukhi cāmuṇḍe ūrdhvakeśi vikṛtānane drīṃ drīṃ	om drIm namaH GoreSvari Gora-muKi cAmuNxe UrDva-keSi vikRta-Anane drIm drIm
+   huṃ phaṭ huṃ svāhā /	hum Paw hum svAhA /
+   ayaṃ sarvadalanamantraḥ // UT_12.38	ayam sarva-dalana-mantraH // UT_12.38
+   oṃ drīṃ drīṃ drīṃ phaṭ phaṭ phaṭ svāhā sarvagrahāṇāṃ trāsanaṃ kuru kuru	om drIm drIm drIm Paw Paw Paw svAhA sarva-grahANAm trAsanam kuru kuru
+   aṅguliprahāreṇa /	aFguli-prahAreNa /
+   oṃ sraṃ srāṃ sriṃ srīṃ sruṃ srūṃ sreṃ sraiṃ sroṃ srauṃ sraṃ sraḥ ha raṃ	om sram srAm srim srIm srum srUm srem srEm srom srOm sram sraH ha ram
+   rauṃ rīṃ rūṃ raiṃ reviḥ chuṃ chuṃ haṃsaḥ amṛtavarcase svāhā /	rOm rIm rUm rEm reviH Cum Cum haMsaH amRta-varcase svAhA /
+   anena mantreṇodakaṃ śarāvaṃ saṃkṣipyāṣṭottaraśatenābhimantritaṃ kṛtvā	anena mantreNa-udakam SarAvam saMkzipya-azwottaraSatena-aBimantritam kRtvA
+   pibet prātar utthāya saṃvatsareṇa vallīpalitavarjito bhavati /	pibet prAtar utTAya saMvatsareNa vallI-palita-varjitaH Bavati /
+   vṛkṣasthāvarajaṅgamākṛtiṃ samāṅgīkārāc ca vyāghralomādikaṃ pūrvodaryāṃ	vRkza-sTAvara-jaFgama-AkRtim sama-aFgIkArAt ca vyAGra-loma-Adikam pUrva-udaryAm
+   bhasmīkaroti sarvajanapriyo bhavati cirāyur bhavati /	BasmIkaroti sarva-jana-priyaH Bavati cira-AyuH Bavati /
+   oṃ namo bhagavate rudrāya caṇḍeśvarāya huṃ huṃ huṃ phaṭ svāhā /	om namaH Bagavate rudrAya caNxeSvarAya hum hum hum Paw svAhA /
+   anena mantreṇa japaṃ kṛtvā śīghram īpsitaṃ labhet // UT_12.39	anena mantreNa japam kRtvA SIGram Ipsitam laBet // UT_12.39
+   oṃ hūṃ drīṃ kṣaṃ kṣāṃ kṣiṃ kṣīṃ kṣuṃ kṣūṃ kṣeṃ kṣaiṃ kṣoṃ kṣauṃ kṣaṃ kṣaḥ	om hUm drIm kzam kzAm kzim kzIm kzum kzUm kzem kzEm kzom kzOm kzam kzaH
+   hūṃ phaṭ svāhā /	hUm Paw svAhA /
+   imaṃ mantraṃ pūrvaṃ lakṣam ekaṃ japet taddaśāṃśam ayutaṃ havanaṃ kuryāt /	imam mantram pUrvam lakzam ekam japet tad-daSa-aMSam ayutam havanam kuryAt /
+   ekaikaṃ samidhaṃ ghṛtāktāṃ juhuyāt siddho bhavati gaṅgāgoloke na te meghāḥ	ekEkam samiDam GRta-aktAm juhuyAt sidDaH Bavati gaFgA-goloke na te meGAH
+   praṇaśyanti na ca varṣanti vāsavo nadasamudraṃ śoṣayati meghastambho	praNaSyanti na ca varzanti vAsavaH nada-samudram Sozayati meGa-stamBaH-
+   bhavati /	Bavati /
+   udakamadhye sthitvā japaṃ karoty anāvṛṣṭikāle 'tivṛṣṭiṃ karoti /	udaka-maDye sTitvA japam karoti anAvRzwi-kAle ati-vRzwim karoti /
+   oṃ drīṃ pracalite kubere hūṃ hūṃ kili kili svāhā /	om drIm pracalite kubere hUm hUm kili kili svAhA /
+   pūrvavelāyām ādarśadīpasamīpe ṣaḍaṅgulena bhājane sūryamaṇḍale kumāraṃ	pUrva-velAyAm AdarSa-dIpa-samIpe zaz-aFgulena BAjane sUrya-maNxale kumAram
+   vāme veśayati pūrvam ayutajapaḥ kartavyaḥ pañcopacāreṇa pūjā ca kartavyā	vAme veSayati pUrvam ayuta-japaH kartavyaH paQca-upacAreNa pUjA ca kartavyA
+   pūrvābhiś ca svarājye /	pUrvABiH ca sva-rAjye /
+   oṃ śrīṃ himajāte prayaccha me dhanaṃ svāhā /	om SrIm himajAte prayacCa me Danam svAhA /
+   anena mantreṇa siddhārthakaṃ ghṛtamiśritaṃ hunet aṣṭottaraśate na	anena mantreNa sidDArTakam GRta-miSritam hunet azwottaraSate na
+   annapānavimiśritaṃ sahasreṇa hunet manasaḥ prārthitaṃ labhet ayutaṃ hunec	anna-pAna-vimiSritam sahasreNa hunet manasaH prArTitam laBet ayutam hunet-
+   chrīsumanā bhavet lakṣaṃ huned grāmaśataṃ labhet // UT_12.40	CrI-sumanAH Bavet lakzam hunet grAma-Satam laBet // UT_12.40
+   oṃ namo namaḥ /	om namaH namaH /
+   imaṃ mantraṃ śataṃ japet sarvakāmaprado 'yaṃ mantraḥ // UT_12.41	imam mantram Satam japet sarva-kAma-pradaH ayam mantraH // UT_12.41
+   oṃ drīṃ śrīṃ sārase siddhikari krīṃ namaḥ svāhā /	om drIm SrIm sArase sidDi-kari krIm namaH svAhA /
+   imaṃ mantraṃ lakṣam ekaṃ japed raktakaravīraiś ca pūjayet satataṃ	imam mantram lakzam ekam japet rakta-karavIrEH ca pUjayet satatam
+   sarvakāmado 'yaṃ mantraḥ // UT_12.42	sarva-kAma-daH ayam mantraH // UT_12.42
+   oṃ druṃ kṣeṃ kṣeṃ huṃ kṣaḥ amukaṃ kṣaḥ svāhā /	om drum kzem kzem hum kzaH amukam kzaH svAhA /
+   anena mantreṇa rājikālavaṇatuṣakaṇṭakaśivanirmālyaṃ tailena yutaṃ hunet	anena mantreNa rAjikA-lavaNa-tuza-kaNwaka-Siva-nirmAlyam tElena yutam hunet-
+   samastaśrībhājanaṃ bhavati // UT_12.43	samasta-SrI-BAjanam Bavati // UT_12.43
+   oṃ huṃ huṃ huṃ lūṃ laṃ lauṃ huṃ laḥ amukaṃ chaḥ chaḥ svāhā /	om hum hum hum lUm lam lOm hum laH amukam CaH CaH svAhA /
+   anena mantreṇa siddhārthaṃ bhasmanā saha mantritaṃ kartavyaṃ yasya gṛhe	anena mantreNa sidDArTam BasmanA saha mantritam kartavyam yasya gRhe
+   prakṣipya mantrabalipāṃśvair ākṣipet tasya bāhustambho bhavati /	prakzipya mantra-balipAMSvEH Akzipet tasya bAhu-stamBaH Bavati /
+   ripusainyāgre kṣipet śatrusainyastambho bhavati aśvagajanarā niśceṣṭā	ripu-sEnya-agre kzipet Satru-sEnya-stamBaH Bavati aSva-gaja-narA niScezwA
+   bhavanti vikalā bhavanti samantādevākulā bhavanti // UT_12.44	Bavanti vikalAH Bavanti samantAt-eva-AkulAH Bavanti // UT_12.44
+   oṃ ruṃ ruṃ mukhe svāhā /	om rum rum muKe svAhA /
+   anena mantreṇa japtatailena mukhaṃ prakṣālya tilatailena gātrābhyaṅgaṃ vā	anena mantreNa japta-tElena muKam prakzAlya tila-tElena gAtra-aByaFgam vA
+   vidhāya vātādikaṃ dinasaptakena naśyati /	viDAya vAta-Adikam dina-saptakena naSyati /
+   aiṃ mātaṃgi vimalāvati vikarāle drīṃ chaḥ chaḥ svāhā /	Em mAtaMgi vimalAvati vikarAle drIm CaH CaH svAhA /
+   anena mantreṇa japāpuṣpaṃ parijapya vārīṇi nadyādau homayet saptāhena	anena mantreNa japA-puzpam parijapya vArINi nadI-AdO homayet sapta-ahena
+   īpsitaṃ phalaṃ labhet /	Ipsitam Palam laBet /
+   kārtavīryārjuno nāma rājā bāhusahasrabhṛt /	kArtavIryArjunaH nAma rAjA bAhu-sahasra-BRt /
+   tannāmakīrtanād eva hṛtaṃ naṣṭaṃ ca labhyate // UT_12.45	tad-nAma-kIrtanAt eva hRtam nazwam ca laByate // UT_12.45
+   nityaṃ nityaṃ japet kiṃcid vidyāṃ vittasya prāptaye /	nityam nityam japet kiMcid vidyAm vittasya prAptaye /
+   oṃ maṃ kiṇi svāhā /	om mam kiNi svAhA /
+   iti vṛścikamantraḥ /	iti vRScika-mantraH /
+   oṃ huṃ huṃ haṃsaḥ haṃsaṃ so 'haṃ so 'haṃ svāhā /	om hum hum haMsaH haMsam saH aham saH aham svAhA /
+   iti sarvaviṣāpaharaṇamantraḥ /	iti sarva-viza-apaharaNa-mantraH /
+   mayūrapicchena kuśena śareṇa śaradaṇḍena vā taddehe sammārjanaṃ kuryāt /	mayUra-picCena kuSena SareNa Sara-daNxena vA tad-dehe sammArjanam kuryAt /
+   haṃ hāṃ hiṃ hīṃ huṃ hūṃ heṃ haiṃ hoṃ hauṃ haṃ haḥ chaḥ chaḥ svāhā /	ham hAm him hIm hum hUm hem hEm hom hOm ham haH CaH CaH svAhA /
+   imaṃ gokṣīrasadṛśaṃ vāraṃ vāraṃ vicintayed vā varānanamukhe śirasi śarīre	imam go-kzIra-sadRSam vAram vAram vicintayet vA varAnana-muKe Sirasi SarIre
+   tataḥ kaṇṭhe tato hṛdi nābhimaṇḍale guhye tathā sarvāṅge cintayet tathā	tatas kaNWe tatas hRdi nABi-maNxale guhye taTA sarva-aFge cintayet taTA
+   pūrakeṇa varārohe kaṇṭhadaṣṭo 'pi jīvati /	pUrakeNa varArohe kaNWa-dazwaH api jIvati /
+   oṃ gaṃ gaṇapataye mahāgaṇapataye vighnaharāya mataṃgasambhavāya	om gam gaNapataye mahAgaNapataye viGna-harAya mataMga-samBavAya
+   lambodarāya gaurīpriyaputrāya hrīṃ gāṃ namaḥ raṃ haṃ kṣaḥ svāhā /	lambodarAya gOrI-priya-putrAya hrIm gAm namaH ram ham kzaH svAhA /
+   gorocanāviṣarājikāpippalīnīcayavair mahātailena saha devadattaiś ca	gorocanA-viza-rAjikA-pippalI-nIca-yavEH mahAtElena saha devadattEH ca
+   lakṣitān ālikhet nimbakāṣṭhena pratikṛtiṃ hutvā pṛṣṭhato likhet sadyo	lakzitAn AliKet nimba-kAzWena pratikRtim hutvA pRzWatas liKet sadyas-
+   jvaravilopo bhavati śāntir bhavati // UT_12.46	jvara-vilopaH Bavati SAntiH Bavati // UT_12.46
+   Uḍḍāmareśvaratantra, Trayodaśaḥ paṭalaḥ	UxxAmara-ISvara-tantra, TrayodaSaH pawalaH
+   oṃ drīṃ vidyāstambhini stambhini chaḥ chaḥ svāhā /	om drIm vidyA-stamBini stamBini CaH CaH svAhA /
+   imaṃ mantraṃ prathamam ayutam ekaṃ japet paścān manasā saṃsmaret /	imam mantram praTamam ayutam ekam japet paScAt manasA saMsmaret /
+   vanamadhye 'pi bhojanaṃ prāpnoti /	vana-maDye api Bojanam prApnoti /
+   oṃ hauṃ namo bhagavate mahārudrāya uḍḍāmareśvarāya huṃ huṃ chaṃ chaṃ drīṃ	om hOm namaH Bagavate mahA-rudrAya uxxAmara-ISvarAya hum hum Cam Cam drIm
+   drīṃ svāhā /	drIm svAhA /
+   anena mantreṇābhiṣekārthaṃ sahasravārajaptaṃ kalaśaṃ kārayet tanmadhye	anena mantreNa-aBizeka-arTam sahasra-vAra-japtam kalaSam kArayet tad-maDye
+   pañcaratnaṃ nidhāya śvetavastreṇa veṣṭayet nānāphalasusaṃcūrṇaṃ	paQcaratnam niDAya Sveta-vastreNa vezwayet nAnA-Pala-su-saMcUrNam
+   nānāratnopaśobhitaṃ taddvārakagṛhavāsaṃ kalaśaṃ dhṛtvā rātrau striyā saha	nAnA-ratna-upaSoBitam tad-dvAraka-gRha-vAsam kalaSam DRtvA rAtrO striyA saha
+   śmaśāne vanaspatau vā ekavṛkṣe vā sarittaṭe samudragāminyāṃ nadyāṃ vā	SmaSAne vanaspatO vE eka-vRkze vA sarit-tawe samudra-gAminyAm nadyAm vA
+   catuṣpathe vā gacchet /	catuzpaTe vA gacCet /
+   tataś ca kalaśaṃ nītvā strī vandhyā vā mṛtavatsā vā durbhagā vā	tatas ca kalaSam nItvA strI vanDyA vA mRta-vatsA vA durBagA vA
+   kākavandhyā vā bhaṅgā sarvajanapriyā bhavati pīḍitā udvartayet /	kAkavanDyA vA BaFgA sarva-jana-priyA Bavati pIxitAH udvartayet /
+   priyaṅguḥ kuṅkumaṃ gorocanā nāgakesaro dūrvā haridre dve	priyaFguH kuFkumam gorocanA nAgakesaraH dUrvA haridre dve
+   siddhārthakadvayaṃ vacā punarnavāpāmārgo 'rkaś citrakaṃ śālmalī lakṣmaṇā	sidDArTaka-dvayam vacA punarnavA-apAmArgaH arkaH citrakam SAlmalI lakzmaNA
+   tālamūlī śatāvarī vandhyā karkaṭī balā kṣīriṇī mṛgapippalī tathā cirāṇi	tAlamUlI SatAvarI vanDyA karkawI balA kzIriNI mRgapippalI taTA cirANi
+   supattrāṇy uśīraṃ ghṛtaṃ madhu tathā palāśapuṣpapattrāṇi	su-pattrANi uSIram GRtam maDu taTA palASa-puzpa-pattrANi
+   ambarabilvapattrāṇy aśvagandhādīni sugandhadravyāṇi sarvāṇi sarve	ambara-bilva-pattrANi aSvaganDA-AdIni suganDa-dravyANi sarvANi sarve
+   sādhyaviśeṣataḥ anyad udvartayed gātraṃ śirolepano yaḥ punaḥ kalaśaṃ	sADya-viSezataH anyat udvartayet gAtram SiraH-lepanaH yaH punar kalaSam
+   prakṣipya snāpayet labhate striyaṃ sadā udvartanavastraṃ tyaktvā	prakzipya snApayet laBate striyam sadA udvartana-vastram tyaktvA
+   paravastraparidhānaṃ kuryāt /	para-vastra-pariDAnam kuryAt /
+   bhadrāsane vyavasthitā [... au4 Zeichenjh] kuryād vāri niḥkṣipya	BadrAsane vyavasTitAH [... O4 ZeiCenJ] kuryAt vAri niHkzipya
+   kumbhasthitaṃ yā strīṇāṃ madhye samākarṣayati yantraṃ tatas tāṃ	kumBa-sTitam yA strINAm maDye samAkarzayati yantram tatas tAm
+   sammukhastriyam arcayet /	sammuKa-striyam arcayet /
+   vastrālaṃkārasindūrasugandhikusumādibhiḥ /	vastra-alaMkAra-sindUra-suganDi-kusuma-AdiBiH /
+   gṛhārcāṃ kārayed devaṃ śivaṃ devyā sahārcayet // UT_13.1	gRha-arcAm kArayet devam Sivam devyA saha-arcayet // UT_13.1
+   dakṣiṇāṃ sa pumān dadyāt śvetāṃ gāṃ vatsasaṃyutām /	dakziNAm sa pumAn dadyAt SvetAm gAm vatsa-saMyutAm /
+   atha snānaphalaṃ vakṣye yathoktaṃ tripurāriṇā // UT_13.2	aTa snAna-Palam vakzye yaToktam tripurAriNA // UT_13.2
+   putrārthī labhate putraṃ dhanārthī labhate dhanam /	putra-arTI laBate putram Dana-arTI laBate Danam /
+   śāntyarthī śāntim āpnoti durbhagā subhagā bhavet // UT_13.3	SAnti-arTI SAntim Apnoti durBagA suBagA Bavet // UT_13.3
+   bhraṣṭarājyas tathā rājā rājyaṃ prāpnoti niścitam /	Brazwa-rAjyaH taTA rAjA rAjyam prApnoti niScitam /
+   abhāryo labhate bhāryāṃ sukhārthī sukham āpnuyāt // UT_13.4	aBAryaH laBate BAryAm suKa-arTI suKam ApnuyAt // UT_13.4
+   iti strīpuruṣayoḥ snānaphalam // UT_13.5	iti strI-puruzayoH snAna-Palam // UT_13.5
+   huṃ amukaṃ huṃ phaṭ svāhā /	hum amukam hum Paw svAhA /
+   śmaśāne gatvā ulūkakapotakāñjīrāṇām atisatvaraṃ stanyaṃ gṛhītvā japet	SmaSAne gatvA ulUka-kapota-kAQjIrANAm ati-sa-tvaram stanyam gRhItvA japet-
+   saptāhena // UT_13.6	sapta-ahena // UT_13.6
+   huṃ amukaṃ phaṭ phaṭ svāhā anena mantreṇa bhānuvṛkṣasamīpe sthitvāyutaikaṃ	hum amukam Paw Paw svAhA anena mantreNa BAnu-vRkza-samIpe sTitvA-ayuta-ekam
+   japet tataḥ kaṭutailena daśāṃśena havanaṃ kuryāt nipātīkaraṇaṃ bhavati //	japet tatas kawutElena daSa-aMSena havanam kuryAt nipAtIkaraNam Bavati //
+   UT_13.7	UT_13.7
+   oṃ oṃ oṃ iti mantraṃ pūrvam ayutaṃ japtvānāvṛṣṭikāle japen mahāvṛṣṭir	om om om iti mantram pUrvam ayutam japtvA-anAvRzwi-kAle japet mahA-vRzwiH-
+   bhavati /	Bavati /
+   oṃ hrīṃ varade svāhā /	om hrIm vara-de svAhA /
+   imaṃ mantraṃ pūrvam ayutaṃ japtvā taddaśāṃśaṃ palāśasamidbhir havanaṃ	imam mantram pUrvam ayutam japtvA tad-daSa-aMSam palASa-samidBiH havanam
+   kuryāt ghṛtaṃ hunet tataḥ sārvakālikaṃ phalaṃ labhet /	kuryAt GRtam hunet tatas sArvakAlikam Palam laBet /
+   huṃ huṃ huṃ naṃ naṃ naṃ amukaṃ huṃ phaṭ svāhā /	hum hum hum nam nam nam amukam hum Paw svAhA /
+   imaṃ mantraṃ pūrvam ayutaṃ japtvā khādirasamidho rudhireṇa liptvā	imam mantram pUrvam ayutam japtvA KAdira-samiDaH ruDireNa liptvA
+   taddaśāṃśaṃ hunet yasya nāmnā sa sahasraikena mahendrajvareṇa gṛhyate	tad-daSa-aMSam hunet yasya nAmnA sa sahasra-ekena mahA-indra-jvareNa gRhyate
+   ayutahavanena nipātanaṃ tathānenaiva mantreṇāpāmārgasamidho hunet	ayuta-havanena nipAtanam taTA-anena-eva mantreNa-apAmArga-samiDaH hunet-
+   ayutasaṃkhyakāḥ trimadhuyutāḥ tato vibhīṣaṇādayo rākṣasā varadā bhavanti	ayuta-saMKyakAH trimaDu-yutAH tatas viBIzaNa-AdayaH rAkzasAH vara-dAH Bavanti
+   // UT_13.8	// UT_13.8
+   oṃ hūṃ vāṃ vīṃ vūṃ vaiṃ vauṃ vaṃ vaḥ oṃ huṃ phaṭ svāhā /	om hUm vAm vIm vUm vEm vOm vam vaH om hum Paw svAhA /
+   ayaṃ jvaragrahaṇamantraḥ // UT_13.9	ayam jvara-grahaNa-mantraH // UT_13.9
+   oṃ aiṃ kṣili kili phaṭ svāhā /	om Em kzili kili Paw svAhA /
+   anena mantreṇa trimadhuyuktam uḍumbaraṃ pūrvam ayutaṃ japtvā sahasraikaṃ	anena mantreNa trimaDu-yuktam uxumbaram pUrvam ayutam japtvA sahasra-ekam
+   homayed anāvṛṣṭikāle mahāvṛṣṭiṃ karoti /	homayet anAvRzwi-kAle mahA-vRzwim karoti /
+   oṃ drāṃ drīṃ drūṃ draiṃ drauṃ haḥ oṃ svāhā /	om drAm drIm drUm drEm drOm haH om svAhA /
+   imaṃ mantraṃ pūrvam ayutaṃ japtvā trimadhuyutā bilvasamidho hunet tataḥ	imam mantram pUrvam ayutam japtvA trimaDu-yutAH bilva-samiDaH hunet tatas-
+   samastajanapadāḥ kiṃkarā bhavanti // UT_13.10	samasta-janapadAH kiMkarAH Bavanti // UT_13.10
+   oṃ drīṃ oṃ drīṃ huṃ oṃ svāhā /	om drIm om drIm hum om svAhA /
+   imaṃ mantraṃ pūrvam ayutaṃ japtvā taddaśāṃśaṃ darbhasamidho ghṛtakṣīrayutā	imam mantram pUrvam ayutam japtvA tad-daSa-aMSam darBa-samiDaH GRta-kzIra-yutA
+   huned ayutahomataḥ sarvarogapraśāntir bhavati /	hunet ayuta-homataH sarva-roga-praSAntiH Bavati /
+   oṃ klīṃ amukīṃ khe khe svāhā /	om klIm amukIm Ke Ke svAhA /
+   imaṃ mantraṃ pūrvam ayutaṃ tu juhuyāt taddaśāṃśaṃ nyagrodhasamidho	imam mantram pUrvam ayutam tu juhuyAt tad-daSa-aMSam nyagroDa-samiDo
+   madhuyuktā hunet sahasramātrahomena mahārājapatnī vaśagā bhavati	maDu-yuktA hunet sahasra-mAtra-homena mahA-rAja-patnI vaSagA Bavati
+   anyalokastrīṇāṃ tu kā kathā // UT_13.11	anya-loka-strINAm tu kA kaTAH // UT_13.11
+   oṃ drīṃ gomukhi gomukhi sahasrasutālā bhīmabhogapiśitabhūmau āgacchatu	om drIm gomuKi gomuKi sahasra-sutAlAH BIma-Boga-piSita-BUmO AgacCatu
+   svāhā // UT_13.12	svAhA // UT_13.12
+   anena mantreṇa raktakaravīraṃ kṣaudreṇa saṃyuktaṃ hunet vaśakāmo lavaṇaṃ	anena mantreNa rakta-karavIram kzOdreNa saMyuktam hunet vaSa-kAmaH lavaNam
+   hunet striyam ākarṣayati pūrvasaṃyuktaṃ premakāmaḥ sindūraṃ hunet	hunet striyam Akarzayati pUrva-saMyuktam prema-kAmaH sindUram hunet-
+   purakṣobho bhavati tuṣakaraṭaṃ huned abhicārakarma bhavati mahāmāṃsaṃ	pura-kzoBaH Bavati tuza-karawam hunet aBicAra-karma Bavati mahA-mAMsam
+   ghṛtasaṃyuktaṃ hunet mahādhanapatir bhavet // UT_13.13	GRta-saMyuktam hunet mahADanapatiH Bavet // UT_13.13
+   oṃ namo bhagavate rudrāya uḍḍāmareśvarāya huṃ phaṭ svāhā /	om namaH Bagavate rudrAya uxxAmara-ISvarAya hum Paw svAhA /
+   anena mantreṇa śrīphalasaṃyuktaṃ ghṛtaṃ hunet śatahomena prajñā bhavati	anena mantreNa SrIPala-saMyuktam GRtam hunet Sata-homena prajQA Bavati
+   sahasreṇa golābho bhavati lakṣeṇa grāmasahasralābho bhavati sapādalakṣeṇa	sahasreNa gola-ABaH Bavati lakzeNa grAma-sahasra-lABaH Bavati sa-pAda-lakzeNa
+   bhraṣṭarājyaṃ rājā prāpnoti // UT_13.14	Brazwa-rAjyam rAjA prApnoti // UT_13.14
+   oṃ aiṃ drīṃ huṃ phaṭ svāhā /	om Em drIm hum Paw svAhA /
+   anena mantreṇa kākamāṃsaṃ kukkuṭabījaṃ kaṭutailena hunet sahasraikena	anena mantreNa kAka-mAMsam kukkuwa-bIjam kawutElena hunet sahasra-ekena
+   drīṃkārāntaṃ nāma saṃjapya yasya nāmnā japet sa conmatto bhavati	drIMkAra-antam nAma saMjapya yasya nAmnA japet sa ca-unmattaH Bavati
+   sahasraikena taṇḍulahomena sustho bhavati // UT_13.15	sahasra-ekena taNxula-homena susTaH Bavati // UT_13.15
+   oṃ aiṃ śrīṃ kṣaṃ klīṃ svāhā /	om Em SrIm kzam klIm svAhA /
+   anena mantreṇa japaḥ kāryaḥ saptavārajaptena dehaśuddhir bhavati	anena mantreNa japaH kAryaH sapta-vAra-japtena deha-SudDiH Bavati
+   śatajaptena sarvatīrthasnānaphalaṃ bhavati sahasreṇa dhīvṛddhiḥ ayutena	Sata-japtena sarva-tIrTa-snAna-Palam Bavati sahasreNa DI-vRdDiH ayutena
+   sahasragranthakartā mahān kavir bhavati ekalakṣeṇa śrutidharo bhavati	sahasra-granTa-kartA mahAn kaviH Bavati eka-lakzeNa Sruti-DaraH Bavati
+   dvilakṣeṇa samastaśāstrajño bhavati trilakṣeṇātītānāgatavartamānajño	dvi-lakzeNa samasta-SAstra-jQaH Bavati tri-lakzeNa-atIta-anAgata-vartamAna-jQaH-
+   bhavati caturlakṣeṇa grahapatir bhavati pañcalakṣeṇa	Bavati catur-lakzeNa graha-patiH Bavati paQca-lakzeNa
+   vedavedāntapurāṇasmṛtiviśeṣajño bhavati ṣaḍlakṣair vajratantur bhavati	veda-vedAnta-purANa-smRti-viSeza-jQaH Bavati zaz-lakzEH vajra-tantuH Bavati
+   saptalakṣair nadīṃ śoṣayati hariharabrahmādiṣu sakhyaṃ bhavati nocet	sapta-lakzEH nadIm Sozayati hari-hara-brahma-Adizu saKyam Bavati na-uced-
+   vajroktena vidhinā japet tadā saṃskṛto 'yaṃ darśakena vā maharṣiṇā śatena	vajra-uktena viDinA japet tadA saMskRtaH ayam darSakena vA mahA-RziNA Satena
+   samo bhavati sahasreṇa saṃtāparahito bhavati punar apy ayutena	samaH Bavati sahasreNa saMtApa-rahitaH Bavati punar api ayutena
+   purakṣobhako bhavati ṣaḍguṇena trailokyaṃ kṣobhayati tṛtīyena saptapātālaṃ	pura-kzoBakaH Bavati zaxguNena trElokyam kzoBayati tRtIyena sapta-pAtAlam
+   kṣobhayati caturthena svargaṃ kṣobhayati pañcamenordhvagān saptalokān	kzoBayati caturTena svargam kzoBayati paQcamena-UrDva-gAn sapta-lokAn
+   kṣobhayati ṣaḍguṇena trailokyaṃ kṣobhayati saptamena	kzoBayati zaxguNena trElokyam kzoBayati saptamena
+   dvipadacatuṣpadādiprāṇimātraṃ kṣobhayati aṣṭamena sthāvarajaṅgamam	dvipada-catuzpad-a-Adi-prANi-mAtram kzoBayati azwamena sTAvara-jaFgamam
+   ākarṣayati navamena svayam eva sarvalokeṣu nāradavad anāvṛtagatir bhavati	Akarzayati navamena svayam eva sarva-lokezu nArada-vat anAvRta-gatiH Bavati
+   daśalakṣeṇa kartum akartum anyathā kartuṃ kṣamo bhavati /	daSa-lakzeNa kartum akartum anyaTA kartum kzamaH Bavati /
+   punar apy amṛtakṣepaṇavidhinā japet sakṛd api naraḥ	punar api amRta-kzepaNa-viDinA japet sakRt api naraH
+   śvetakaravīrakusumatrimadhuyuktām āhutiṃ dadyāt sarvajanapriyo bhavati	Sveta-karavIra-kusuma-trimaDu-yuktAm Ahutim dadyAt sarva-jana-priyaH Bavati
+   aśokapuṣpāṇi saghṛtaṃ hunet śokarahito bhavati bhraṣṭarājyaprāptikāmaḥ	aSoka-puzpANi sa-GRtam hunet Soka-rahitaH Bavati Brazwa-rAjya-prApti-kAmaH
+   śrīphalahomaṃ kuryāt bhraṣṭarājyaṃ prāpnoti ājyayuktapadmapuṣpāṇi athavā	SrIPala-homam kuryAt Brazwa-rAjyam prApnoti Ajya-yukta-padma-puzpANi aTavA
+   kumudinīpuṣpāṇi homayet /	kumudinI-puzpANi homayet /
+   nipātakāmaḥ kaṭutailayuktaṃ mayūramāṃsaṃ hunet kūṭena maraṇaṃ bhavati /	nipAta-kAmaH kawutEla-yuktam mayUra-mAMsam hunet kUwena maraNam Bavati /
+   pūgīphalaṃ kaṭutailaṃ lohacūrṇaṃ ca hunet samastadehe visphoṭakā bhavanti	pUgI-Palam kawutElam loha-cUrNam ca hunet samasta-dehe visPowakAH Bavanti
+   kṣīripattrabilvapattrahomena śāntir bhavati /	kzIri-pattra-bilva-pattra-homena SAntiH Bavati /
+   tilasamidhaḥ sakaṭutailā hunet tena vidveṣaṇaṃ bhavati /	tila-samiDaH sa-kawutElAH hunet tena vidvezaNam Bavati /
+   dhattūracūrṇe sāsthicūrṇe sakaṭutailalohacūrṇe ca hute śīghraṃ śatrunāśo	DattUra-cUrNe sa-asTi-cUrNe sa-kawutEla-loha-cUrNe ca hute SIGram Satru-nASaH-
+   bhavati /	Bavati /
+   mahāmāṃsaṃ saghṛtaṃ hunet mano'bhīṣṭaṃ sarvaṃ bhavati // UT_13.16	mahAmAMsam sa-GRtam hunet manaH-aBIzwam sarvam Bavati // UT_13.16
+   Uḍḍāmareśvaratantra, Caturdaśaḥ paṭalaḥ	UxxAmara-ISvara-tantra, CaturdaSaH pawalaH
+   klīṃ kāmāture kāmamekhale viṣayiṇi vararati bhagavati amukaṃ me vaśaṃ kuru	klIm kAma-Ature kAma-meKale vizayiNi vararati Bagavati amukam me vaSam kuru
+   vaśaṃ kuru klīṃ namaḥ svāhā /	vaSam kuru klIm namaH svAhA /
+   anena mantreṇa bhojanakāle saptagrāsān saptavārābhimantritān bhuñjīta /	anena mantreNa Bojana-kAle sapta-grAsAn sapta-vAra-aBimantritAn BuQjIta /
+   saptame divase strī vā puruṣo vā vaśībhavati svaṃ ca dadāti /	saptame divase strI vA puruzaH vA vaSIBavati svam ca dadAti /
+   oṃ huṃ svāhā /	om hum svAhA /
+   imaṃ mantraṃ trisaṃdhyaṃ japet śatrunāśo bhavati /	imam mantram trisaMDyam japet Satru-nASaH Bavati /
+   klīṃ kāli kāli mahākāli kole kinyā svāhā /	klIm kAli kAli mahAkAli kole kinyA svAhA /
+   imaṃ mantraṃ pūrvam ayutaṃ japtvā saṃdhyākāle sahasraikaṃ homayet tataḥ	imam mantram pUrvam ayutam japtvA saMDyA-kAle sahasra-ekam homayet tatas-
+   kaṅkālī varadā bhavati suvarṇacatuṣṭayaṃ pratyahaṃ dadāti // UT_14.1	kaFkAlI vara-dA Bavati suvarNa-catuzwayam pratyaham dadAti // UT_14.1
+   oṃ drīṃ drīṃ draṃ draiṃ drauṃ draḥ huṃ namaḥ svāhā /	om drIm drIm dram drEm drOm draH hum namaH svAhA /
+   anena mantreṇa pūrvam evāyutaṃ japtvā kevalam ājyaṃ hunet asmād ākarṣaṇaṃ	anena mantreNa pUrvam eva-ayutam japtvA kevalam Ajyam hunet asmAt AkarzaNam
+   bhavati // UT_14.2	Bavati // UT_14.2
+   oṃ drauṃ drauṃ hīṃ hīṃ huṃ namaḥ svāhā /	om drOm drOm hIm hIm hum namaH svAhA /
+   anena mantreṇa pūrvavidhinā japtvārdhamāsād ākarṣaṇaṃ bhavati // UT_14.3	anena mantreNa pUrva-viDinA japtvA-arDa-mAsAt AkarzaNam Bavati // UT_14.3
+   oṃ haṃ oṃ hūṃ hūṃ hīṃ svāhā /	om ham om hUm hUm hIm svAhA /
+   iti pūrvakhaṅgabhedaḥ // UT_14.4	iti pUrva-KaFga-BedaH // UT_14.4
+   sarvasaṃjīvanīmantraḥ oṃ huṃ drīṃ draṃ drauṃ draḥ huṃ huṃ /	sarva-saMjIvanI-mantraH om hum drIm dram drOm draH hum hum /
+   anena mantreṇa sarvajvaranāśanaṃ bhavati // UT_14.5	anena mantreNa sarva-jvara-nASanam Bavati // UT_14.5
+   dīṃ haṃ sini svāhā /	dIm ham sini svAhA /
+   anena mantreṇa sarvajanavaśīkaraṇam // UT_14.6	anena mantreNa sarva-jana-vaSIkaraNam // UT_14.6
+   oṃ hīṃ namaḥ hīṃ phaṭ svāhā /	om hIm namaH hIm Paw svAhA /
+   imaṃ mantraṃ sādhyanāmnāyutaṃ japet śavāsanasthito hṛdayaṃ na prakāśayet	imam mantram sADya-nAmnA-ayutam japet Sava-Asana-sTitaH hRdayam na prakASayet-
+   [... au4 Zeichenjh] amukīṃ tāṃ [... au4 Zeichenjh] saṃgṛhya guṭikāṃ kṛtvā	[... O4 ZeiCenJ] amukIm tAm [... O4 ZeiCenJ] saMgRhya guwikAm kRtvA
+   mukhe prakṣipya vidyādharatvaṃ bhavati // UT_14.7	muKe prakzipya vidyADara-tvam Bavati // UT_14.7
+   oṃ hīṃ huṃ namaḥ /	om hIm hum namaH /
+   imaṃ mantraṃ pūrvavidhinā japet pādukāsiddhir bhavati // UT_14.8	imam mantram pUrva-viDinA japet pAdukA-sidDiH Bavati // UT_14.8
+   oṃ kṣaṃ kṣaṃ hrīṃ huṃ phaṭ svāhā /	om kzam kzam hrIm hum Paw svAhA /
+   imaṃ mantraṃ pūrvakrameṇa japed vetālasiddhir bhavati // UT_14.9	imam mantram pUrva-krameNa japet vetAla-sidDiH Bavati // UT_14.9
+   oṃ hrīṃ svāhā /	om hrIm svAhA /
+   anena mantreṇa narakapālaṃ gṛhītvā tasmin naratailaṃ dattvā tasmin	anena mantreNa nara-kapAlam gRhItvA tasmin nara-tElam dattvA tasmin
+   vāyasacakṣuḥsaṃvardhinīṃ vartikāṃ prajvālayet kṛṣṇapakṣāmāvāsyāyāṃ	vAyasa-cakzuH-saMvarDinIm vartikAm prajvAlayet kRzNa-pakza-amAvAsyAyAm
+   śanivāre andhakūpe śmaśāne vā śūnyāyatane vā kajjalaṃ pātayitavyaṃ tāvat	SanivAre anDakUpe SmaSAne vA SUnya-Ayatane vA kajjalam pAtayitavyam tAvat-
+   kālaṃ pūrvoktaṃ mantraṃ japet yāvatā kālena vartiśeṣaṃ prajvalati avasāne	kAlam pUrva-uktam mantram japet yAvatA kAlena varti-Sezam prajvalati avasAne
+   prabhūtabalidānaṃ kartavyaṃ tatra balistambham ādāya tena	praBUta-bali-dAnam kartavyam tatra bali-stamBam AdAya tena
+   siddhāñjanenāñjitanayanaḥ surāsurair api na dṛśyate 'nyalokasya kā kathā	sidDAQjanena-aQjita-nayanaH sura-asurEH api na dRSyate anya-lokasya kA kaTA
+   // UT_14.10	// UT_14.10
+   oṃ hraṃ hrīṃ hūṃ hraiṃ hrauṃ hraḥ hrīṃ hrīṃ iti śaṅkhinīvidyā /	om hram hrIm hUm hrEm hrOm hraH hrIm hrIm iti SaFKinI-vidyA /
+   oṃ hīṃ huṃ iti puṣpāñjalivedhaḥ /	om hIm hum iti puzpa-aQjali-veDaH /
+   huṃ huṃ iti huṃkāravedhaḥ /	hum hum iti huMkAra-veDaH /
+   oṃ hrīṃ huṃ ity ālayavedhaḥ /	om hrIm hum iti Alaya-veDaH /
+   hrāṃ śivāvedhamantraḥ /	hrAm SivA-veDa-mantraH /
+   hrīṃ iti bhramarāvartasaṃghaṭṭavedhaḥ /	hrIm iti Bramara-Avarta-saMGawwa-veDaH /
+   oṃ drīṃ huṃ chaḥ chaḥ svāhā /	om drIm hum CaH CaH svAhA /
+   lohatriśūlaṃ kṛtvā rudhireṇa viṣaṃ piṣṭvā tena triśūlaṃ	loha-triSUlam kRtvA ruDireNa vizam pizwvA tena triSUlam
+   liptvāyutenābhimantritaṃ kṛtvā yasya nāmnā bhūmau nikhanet tasya śīghraṃ	liptvA-ayutena-aBimantritam kRtvA yasya nAmnA BUmO niKanet tasya SIGram
+   mṛtyur bhavati // UT_14.11	mRtyuH Bavati // UT_14.11
+   oṃ hrīṃkāri hūṃkāri kapāli samāvedhaṃ bandhuṃ napuṃsakaṃ mahāśaye	om hrIMkAri hUMkAri kapAli samAveDam banDum napuMsakam mahA-ASaye
+   abhayaṃkari amarākhyaṃ kuru kuru jvaraṃ hana hana ākrośāt kolāhalaṃ parāṃ	aBayaMkari amara-AKyam kuru kuru jvaram hana hanaH AkroSAt kolAhalam parAm
+   śaktyākarṣiṇīṃ sarvaśaktiprasaṅginīṃ śāntike huṃ phaṭ svāhā /	Sakti-AkarziNIm sarva-Sakti-prasaFginIm SAntike hum Paw svAhA /
+   imāṃ mahāvidyāṃ śatruvaśaṃkarīṃ manasā smaret sa sarvatra nirbhayo bhavati	imAm mahAvidyAm Satru-vaSaMkarIm manasA smaret sa sarvatra nirBayaH Bavati
+   // UT_14.12	// UT_14.12
+   oṃ oṃ oṃ haṃ haṃ haṃ haṃ sāṃ sāṃ sāṃ sāṃ imaṃ mantraṃ japitvā	om om om ham ham ham ham sAm sAm sAm sAm imam mantram japitvA
+   sthāvarajaṅgamaviṣanāśanaṃ bhavati // UT_14.13	sTAvara-jaFgama-viza-nASanam Bavati // UT_14.13
+   oṃ asthi yaṃsthi vidrānidrā saṃnividyā rā ṭaṃ ṭīṃ drīṃ samāsaṃ maṭaṃṭīṃ	om asTi yaMsTi vidrA-nidrA saMnividyA rA wam wIm drIm samAsam mawaMwIm
+   chaṃ chaṃ /	Cam Cam /
+   anena mantreṇa kākapakṣaṃ sahasraikaṃ hunet yasya nāmnā tam uccāṭayati //	anena mantreNa kAkapakzam sahasra-ekam hunet yasya nAmnA tam uccAwayati //
+   UT_14.14	UT_14.14
+   strīṃ haṃ anena mantreṇāyute japte sati kavitvavidyā bhavati	strIm ham anena mantreNa-ayute japte sati kavi-tva-vidyA Bavati
+   strīmaṇiśakunavidyāṃ hi saṃjapet jhaṭiti kavitvaṃ karoti // UT_14.15	strI-maNi-Sakuna-vidyAm hi saMjapet Jawiti kavi-tvam karoti // UT_14.15
+   haṃ aiṃ haṃ haṃ aiṃ vada vada vāgvādini svāhā /	ham Em ham ham Em vada vada vAc-vAdini svAhA /
+   imaṃ mantraṃ saptavāraṃ japtvādhikādhikaṃ kavitvaṃ ca karoti // UT_14.16	imam mantram sapta-vAram japtvA-aDika-aDikam kavi-tvam ca karoti // UT_14.16
+   oṃ haṃ chaṃ chaṃ chaṃ aiṃ namaḥ svāhā /	om ham Cam Cam Cam Em namaH svAhA /
+   sahasrajapādadhikādhikaṃ kavitvado 'yaṃ mantraḥ /	sahasra-japAt-aDika-aDikam kavi-tva-daH ayam mantraH /
+   oṃ kaṃ khaṃ gaṃ ghaṃ caṃ chaṃ chaṃ avilambaṃ vaktuḥ stambhayati vācam	om kam Kam gam Gam cam Cam Cam avilambam vaktuH stamBayati vAcam
+   ālokanāt /	AlokanAt /
+   huṃ huṃ huṃ huṃ khaṃ khaṃ khaṃ khaṃ chaṃ chaṃ vācāṃ stambhinī	hum hum hum hum Kam Kam Kam Kam Cam Cam vAcAm stamBinI
+   vāyusaṃjīvanī vidyā /	vAyu-saMjIvanI vidyA /
+   drīṃ ālokavedhaḥ parokṣavedhaḥ /	drIm Aloka-veDaH parokza-veDaH /
+   hrīṃ sarvavedhanamantraḥ /	hrIm sarva-veDana-mantraH /
+   draṃ drauṃ drauṃ drauṃ draṃ amukaṃ bheji bheji hrīṃ chaṃ chaṃ chaṃ iti	dram drOm drOm drOm dram amukam Beji Beji hrIm Cam Cam Cam iti
+   visphoṭakasaṃjīvinī avalokanāt kāryasiddhikarī // UT_14.17	visPowaka-saMjIvinI avalokanAt kArya-sidDi-karI // UT_14.17
+   oṃ drāṃ drīṃ pūrvarākṣasān nāśaya sarvāṇi bhañjaya saṃtuṣṭā mohaya	om drAm drIm pUrva-rAkzasAn nASaya sarvANi BaQjaya saMtuzwAH mohaya
+   mahāsvane huṃ huṃ phaṭ svāhā iti sarvabhūtamāraṇamantraḥ /	mahA-svane hum hum Paw svAhA iti sarva-BUta-mAraNa-mantraH /
+   oṃ hrīṃ saḥ drāṃ chaḥ chaḥ chaḥ dūrvākṣīrahomena sarvaśāntikarī vidyā //	om hrIm saH drAm CaH CaH CaH dUrvA-kzIra-homena sarva-SAnti-karI vidyA //
+   UT_14.18	UT_14.18
+   huṃ pañcāṇḍaṃ cāṇḍaṃ drīṃ phaṭ svāhā anena mantreṇa manuṣyāsthikīlakaṃ	hum paQca-aNxam ca-aNxam drIm Paw svAhA anena mantreNa manuzya-asTi-kIlakam
+   saptāṅgulaṃ sahasradhābhimantritaṃ yasya gehe nikhanet tasya kūṭam	sapta-aFgulam sahasraDA-aBimantritam yasya gehe niKanet tasya kUwam
+   utsādinaṃ bhavati uddhṛte sati punaḥ svāsthyaṃ bhavati /	utsAdinam Bavati udDRte sati punar svAsTyam Bavati /
+   huṃ kṣaṃ amukaṃ phaṭ svāhā anena mantreṇa pecakapakṣimāṃsaṃ kaṭutailena	hum kzam amukam Paw svAhA anena mantreNa pecaka-pakzi-mAMsam kawutElena
+   saṃyutaṃ homayet sahasrahomena śatruṃ nipātayati // UT_14.19	saMyutam homayet sahasra-homena Satrum nipAtayati // UT_14.19
+   oṃ śrīṃ śrīṃ hrīṃ hrīṃ dhuṃ dhuṃ haṃ haḥ svāhā /	om SrIm SrIm hrIm hrIm Dum Dum ham haH svAhA /
+   iyaṃ hi trailokyavijayānamnī vidyā /	iyam hi trElokya-vijayA-namnI vidyA /
+   manasā smaret sarvakāmaprado 'yaṃ mantraḥ // UT_14.20	manasA smaret sarva-kAma-pradaH ayam mantraH // UT_14.20
+   oṃ aiṃ hrīṃ śrīṃ klīṃ viśvarūpiṇi piśācini bhūtabhaviṣyādikaṃ vada vada me	om Em hrIm SrIm klIm viSva-rUpiNi piSAcini BUta-Bavizya-Adikam vada vada me
+   karṇe kathaya kathaya huṃ phaṭ svāhā /	karNe kaTaya kaTaya hum Paw svAhA /
+   imaṃ mantraṃ śuklapratipadam ārabhya pūrṇimāparyantaṃ sahasraikaṃ	imam mantram Sukla-pratipadam AraBya pUrNimA-paryantam sahasra-ekam
+   trisaṃdhyaṃ japet pratyahaṃ pūtaṃ jalaṃ saghṛtaṃ bhaktapiṇḍaṃ harmyopari	trisaMDyam japet pratyaham pUtam jalam sa-GRtam Bakta-piNxam harmya-upari
+   rātrau dadyāt trailokye yādṛśī tādṛśī vārttā sādhakasya karṇe	rAtrO dadyAt trElokye yAdRSI tAdRSI vArttA sADakasya karNe
+   bhūtabhaviṣyādikaṃ ca kathayati // UT_14.21	BUta-Bavizya-Adikam ca kaTayati // UT_14.21
+   oṃ raṃ rāṃ saṃ sāṃ laṃ lāṃ haṃ haḥ saṃ saḥ khaṃ khaḥ taṃ taḥ dhaṃ saṃ	om ram rAm sam sAm lam lAm ham haH sam saH Kam KaH tam taH Dam saM
+   sphuṃ sphaḥ hrīṃ huṃ huṃ huṃ kṣīṃ kṣīṃ kṣauṃ sauṃ saḥ chaṃ chaḥ dhaṃ saḥ	sPum sPaH hrIm hum hum hum kzIm kzIm kzOm sOm saH Cam CaH Dam saH
+   sphuṃ sphaḥ hrīṃ huṃ huṃ huṃ kṣīṃ kṣīṃ kṣauṃ saṃ phaṃ phaḥ huṃ phaṭ svāhā	sPum sPaH hrIm hum hum hum kzIm kzIm kzOm sam Pam PaH hum Paw svAhA
+   ayaṃ samastaviṣanāśanamantraḥ /	ayam samasta-viza-nASana-mantraH /
+   sacarācare oṃ sacarācare oṃ huṃ huṃ haṃ haṃ haṃ haṃ haṃ haṃ haṃ haṃ haṃ	sacarAcare om sacarAcare om hum hum ham ham ham ham ham ham ham ham ham
+   haṃ kṣakṣakṣaḥ hasaḥ oṃ saṃ huṃ hrīṃ sarveśa viṣṇubalena śaṃkaradarpeṇa	ham kzakzakzaH hasaH om sam hum hrIm sarva-ISa vizNu-balena SaMkara-darpeNa
+   vāyuvegena ravitejasā candrakāntyā vairaṃ bāṇaśūrpaṇaṃ sarvaṃ viṣaharaṃ	vAyu-vegena ravi-tejasA candra-kAntyA vEram bANa-SUrpaNam sarvam viza-haram
+   vada sarvarakṣāṃsi hi nāśaya 2 bhañjaya 2 sarvaduṣṭān mohaya 2 deva huṃ	vada sarva-rakzAMsi hi nASaya 2 BaQjaya 2 sarva-duzwAn mohaya 2 deva hum
+   phaṭ svāhā huṃ phaṭ svāhā /	Paw svAhA hum Paw svAhA /
+   imaṃ mantram aṣṭottarasahasraṃ śataṃ vā japtvā saptame divase siddhiḥ	imam mantram azwottarasahasram Satam vA japtvA saptame divase sidDiH
+   samākarṣaṇaṃ bhavati // UT_14.22	samAkarzaNam Bavati // UT_14.22
+   oṃ hrīṃ amukaṃ chaḥ chaḥ anena mantreṇa mānuṣyāsthimayaṃ kīlakam	om hrIm amukam CaH CaH anena mantreNa mAnuzya-asTi-mayam kIlakam
+   ekādaśāṅgulaṃ sahasreṇābhimantritaṃ yasya gṛhe nikhanet tasya kūṭaṃ	ekAdaSa-aFgulam sahasreNa-aBimantritam yasya gRhe niKanet tasya kUwam
+   cotsādanaṃ bhavati uddhṛte punaḥ svāsthyaṃ bhavati // UT_14.23	ca-utsAdanam Bavati udDRte punar svAsTyam Bavati // UT_14.23
+   oṃ hrīṃ kāla kaṅkāla mahākāla karālavadana amukaṃ gṛhṇa triśūlena bhinddhi	om hrIm kAla kaFkAla mahAkAla karAla-vadana amukam gRhNa triSUlena BindDi
+   2 khaḍgena chinddhi 2 huṃ phaṭ chaḥ chaḥ svāhā /	2 Kaxgena CindDi 2 hum Paw CaH CaH svAhA /
+   anena mantreṇa vibhītakakāṣṭhakīlakam ekaviṃśatyaṅgulaṃ	anena mantreNa viBItaka-kAzWa-kIlakam ekaviMSati-aFgulam
+   sahasreṇābhimantritaṃ yasya gṛhadvāre nikhanyate tasya sadyo dehanipātanaṃ	sahasreNa-aBimantritam yasya gRha-dvAre niKanyate tasya sadyas deha-nipAtanam
+   bhavati // UT_14.24	Bavati // UT_14.24
+   oṃ hrīṃ klīṃ śrīṃ huṃ amukaṃ chaḥ chaḥ /	om hrIm klIm SrIm hum amukam CaH CaH /
+   anena mantreṇa siddhikāṣṭhamayaṃ kīlakaṃ navāṅgulaṃ sahasreṇābhimantritaṃ	anena mantreNa sidDi-kAzWa-mayam kIlakam nava-aFgulam sahasreNa-aBimantritam
+   yasya gṛhe nikhanyate sa vaśyo bhavati /	yasya gRhe niKanyate sa vaSyaH Bavati /
+   oṃ hrīṃ śrīṃ klīṃ mātaṃgini aiṃ hrīṃ śrīṃ klīṃ svāhā /	om hrIm SrIm klIm mAtaMgini Em hrIm SrIm klIm svAhA /
+   anena mantreṇa rājikāṃ lavaṇaghṛtamiśritāṃ yasya nāmnā saha homayet tāṃ	anena mantreNa rAjikAm lavaNa-GRta-miSritAm yasya nAmnA saha homayet tAm
+   striyaṃ puruṣaṃ vā vaśayaty ākarṣaṇaṃ ca karoti // UT_14.25	striyam puruzam vA vaSayati AkarzaNam ca karoti // UT_14.25
+   oṃ hrīṃ hūṃ chaḥ chaḥ /	om hrIm hUm CaH CaH /
+   anena mantreṇa vāḍavakāṣṭhamayaṃ kīlakaṃ trayodaśāṅgulaṃ	anena mantreNa vAxava-kAzWa-mayam kIlakam trayodaSa-aFgulam
+   sahasreṇābhimantritaṃ yasya gṛhe nikhanet sa cakṣurbhyām andho bhavati //	sahasreNa-aBimantritam yasya gRhe niKanet sa cakzurByAm anDaH Bavati //
+   UT_14.26	UT_14.26
+   oṃ chaḥ oṃ chaḥ chaḥ /	om CaH om CaH CaH /
+   anena mantreṇa bilvakāṣṭhasya kīlakaṃ daśāṅgulaṃ sahasreṇābhimantritaṃ	anena mantreNa bilva-kAzWasya kIlakam daSa-aFgulam sahasreNa-aBimantritam
+   yasya gṛhe nikhanet saparivārasya tasya pretatvaṃ bhavati // UT_14.27	yasya gRhe niKanet sa-parivArasya tasya preta-tvam Bavati // UT_14.27
+   oṃ hrīṃ amukīṃ me prayaccha svāhā /	om hrIm amukIm me prayacCa svAhA /
+   anena mantreṇa pāṭalākāṣṭhamayaṃ pañcāṅgulaṃ kīlakaṃ sahasreṇābhimantritaṃ	anena mantreNa pAwalA-kAzWa-mayam paQca-aFgulam kIlakam sahasreNa-aBimantritam
+   yasya nāmnā devatāyatane nikhanet sa śīghraṃ kanyāṃ labhate // UT_14.28	yasya nAmnA devatAyatane niKanet sa SIGram kanyAm laBate // UT_14.28
+   Uḍḍāmareśvaratantra, Pañcadaśaḥ paṭalaḥ	UxxAmara-ISvara-tantra, PaQcadaSaH pawalaH
+   ṣaṭkoṇaṃ yantraṃ likhitvā tatra ṣaṭkoṇe oṃ kurukulle svāhā iti mantraṃ	zaz-koNam yantram liKitvA tatra zaz-koNe om kuru-kulle svAhA iti mantram
+   pūrvakoṇe likhet /	pUrva-koNe liKet /
+   kuru ity akṣaradvayam aparakoṇe likhet /	kuru iti akzara-dvayam apara-koNe liKet /
+   akṣaraikaṃ pūrvāvartakrameṇa lekhitavyam /	akzara-ekam pUrva-Avarta-krameNa leKitavyam /
+   tato bhūrjapattre imaṃ mantraṃ likhitvā gṛhadvāre dehalyā ekadeśe dhṛte	tatas BUrja-pattre imam mantram liKitvA gRha-dvAre dehalyAH eka-deSe DRte
+   sati gṛhasarpam uccāṭayati vivaradvāri dhṛte vivarastho naśyaty eva //	sati gRha-sarpam uccAwayati vivara-dvAri DRte vivara-sTaH naSyati eva //
+   UT_15.1	UT_15.1
+   raktakaravīrapuṣpam āmrapattrabhasmanā liptaṃ tatkṣaṇād eva śubhraṃ	rakta-karavIra-puzpam Amra-pattra-BasmanA liptam tad-kzaNAt eva SuBram
+   bhavati tathā gandhakadhūpenāpi bhāvitena śuktir bhavati /	Bavati taTA ganDaka-DUpena-api BAvitena SuktiH Bavati /
+   loke hayamāra ityākhyasya raktakaravīrasya puṣpaṃ tūlavartikāgandhakena	loke hayamAraH iti-AKyasya rakta-karavIrasya puzpam tUla-vartikA-ganDakena
+   saha saṃyojya tatkṣaṇād eva jvalati /	saha saMyojya tad-kzaNAt eva jvalati /
+   tathā ṭaṅkanaharidrābhyāṃ kṛte lepe kuṅkumakāntir bhavati // UT_15.2	taTA waFkana-haridrAByAm kRte lepe kuFkuma-kAntiH Bavati // UT_15.2
+   purāṇaśuṣkagomayaṃ yadā jale pātayet tadā bhīmoṣmaṇā tasmād budbudam	purANa-Suzka-gomayam yadA jale pAtayet tadA BIma-UzmaNA tasmAt budbudam
+   utpadyate /	utpadyate /
+   evaṃ gauraṃ tu bhūmyupari bhūtalaṃ spṛṣṭvā raktakaravīravṛkṣo jāyate iti /	evam gOram tu BUmi-upari BU-talam spRzwvA rakta-karavIra-vRkzaH jAyate iti /
+   rūpake tāmre bhramara iva kumbhe samarpayet kiṃcid anuyogitvena	rUpake tAmre BramaraH iva kumBe samarpayet kiMcid anuyogi-tvena
+   mano'nurāgo bhavati tāmbūlarāgataḥ naśyati haridrārāgo ravikiraṇāt //	manaH-anurAgaH Bavati tAmbUla-rAgataH naSyati haridrA-rAgaH ravi-kiraNAt //
+   UT_15.3	UT_15.3
+   oṃ huṃ sati kurur upakṣiśabdataḥ kuralakuṅkumena iti prasiddhiḥ kroñca ity	om hum sati kuruH upakzi-SabdataH kurala-kuFkumena iti prasidDiH kroQcaH iti-
+   api tasya nāma jihvākrīṃkṛtaṃ vāmakaratalamadhyalagnaparilepaṃ darśayitvā	api tasya nAma jihvA-krIM-kRtam vAma-kara-tala-maDya-lagna-parilepam darSayitvA
+   uditaviśvadhārābhasmanā punar api karatalalagnāt pradarśya gatyāścaryamate	udita-viSva-DArA-BasmanA punar api kara-tala-lagnAt pradarSya gati-AScarya-mate
+   śiśudugdhabhāvitāt śodhayitvā gavādidugdhaṃ coṣṇaṃ kāṃsyapātre kṛtvā	SiSu-dugDa-BAvitAt SoDayitvA gavA-Adi-dugDam ca-uzNam kAMsya-pAtre kRtvA
+   tīkṣṇataraṃ dhṛtvā taṇḍulanikṣepaṇena kṣīraṃ bhavati // UT_15.4	tIkzNataram DRtvA taNxula-nikzepaNena kzIram Bavati // UT_15.4
+   bhūrjapattrapuṭakaṃ tilatailena dīpayitvā vividhabhakṣyānnaṃ sādhayet	BUrja-pattra-puwakam tila-tElena dIpayitvA viviDa-Bakzya-annam sADayet-
+   yathā lauhabhājane sādhyate /	yaTA lOha-BAjane sADyate /
+   vārtākarañjikāpalam iti tat sūtreṇa veṣṭayitvā dīpayitvā ca jvālayet	vArtAkaraQjikA-palam iti tat sUtreNa vezwayitvA dIpayitvA ca jvAlayet-
+   tenāvisūtreṇa veṣṭite ca sūtraṃ saṃdahyate vārtākaś ca pacyate // UT_15.5	tena-avisUtreNa vezwite ca sUtram saMdahyate vArtAkaH ca pacyate // UT_15.5
+   ādipaṅktau sapta svarān saṃlikhya tadadhaḥpaṅktau kādisaptavargāt	Adi-paFktO sapta svarAn saMliKya tad-aDas-paFktO kAdi-saptavargAt-
+   saṃlikhya tadadhaḥpaṅktau haridrādikrameṇālekhanīyā tatra	saMliKya tad-aDas-paFktO haridrA-Adi-krameNa-AleKanIyA tatra
+   svaravarṇayojanena saṃkocanād akṣarakoṣṭhādisaṃsparśanāt saṃjāyate /	svara-varNa-yojanena saMkocanAt akzara-kozWa-Adi-saMsparSanAt saMjAyate /
+   bahuṣu madhyeṣu dattasaṃjñākṛtasaṃketaś cauraḥ svadṛṣṭim api	bahuzu maDyezu datta-saMjQA-kRta-saMketaH cOraH sva-dRzwim api
+   saptasaptasvarādau jānāti /	sapta-sapta-svara-AdO jAnAti /
+   vyāpāramadhye kṣaṇarasikaś cauro jñāyate kṛto bhadradravye // UT_15.6	vyApAra-maDye kzaNarasikaH cOraH jQAyate kRtaH Badra-dravye // UT_15.6
+   kutrāpi dhattūrakabījaṃ kṣiptvā tad vā bhakṣati tadā tadguṇādiphalaṃ	kutra-api DattUraka-bIjam kziptvA tat vA Bakzati tadA tad-guNa-Adi-Palam
+   labhyate asau cauraḥ iti /	laByate asO cOraH iti /
+   svalpacaracaurās tu vastulābhe pradātāraḥ /	su-alpa-cara-cOrAH tu vastu-lABe pradAtAraH /
+   kṣīryarkādivṛkṣadugdhena saṃlikhitaṃ cauranāmākṣaraṃ karatale 'pi likhitam	kzIri-arka-Adi-vRkza-dugDena saMliKitam cOra-nAma-akzaram kara-tale api liKitam
+   anantaraṃ bhūrjapattre kṛtam api mardane sparśayitvā bhakṣituṃ tato dadāti	anantaram BUrja-pattre kRtam api mardane sparSayitvA Bakzitum tatas dadAti
+   aparilikhitaṃ cauranāma pattrayuktaṃ ca arigṛhagarbhamṛttikākāṇḍakaṃ	apariliKitam cOra-nAma pattra-yuktam ca ari-gRhagarBa-mRttikA-kANxakam
+   bhavati /	Bavati /
+   jale sādhunāma pattrayuktamṛttikā ca jale majjati tataḥ spṛṣṭvā kriyate	jale sADu-nAma pattra-yukta-mRttikA ca jale majjati tatas spRzwvA kriyate
+   asau cauraḥ iti /	asO cOraH iti /
+   kṣīritarudugdhalikhitakṣudralekhe aṅgāracūrṇena marditāḥ spaṣṭā bhavanti /	kzIri-taru-dugDa-liKita-kzudra-leKe aFgAra-cUrNena marditAH spazwAH Bavanti /
+   kūṭo 'pi viparītalikhitavarṇa ādarśādau pratikṛtibhāvāpanno	kUwaH api viparIta-liKita-varNaH AdarSa-AdO pratikRti-BAva-Apanno
+   varṇavaiparītyāt prativivardhitanyāsaḥ atidṛḍhā masī bhavati // UT_15.7	varNa-vEparItyAt prativivarDita-nyAsaH ati-dRXA masI Bavati // UT_15.7
+   nimbatālake samatāmrabhājane yāmamātramarditena vidhir astu samabhāgatā	nimba-tAlake sama-tAmra-BAjane yAma-mAtra-marditena viDiH astu sama-BAga-tA
+   yathā āmalakīharītakīvibhītakanimbakhādirāṇām nīrākhyārājakaravīrarasaiḥ	yaTA AmalakI-harItakI-viBItaka-nimba-KAdirANAm nIra-AKyA-rAja-karavIra-rasEH
+   samastarasakajjalamuktamardanaprakāreṇa yāmamātreṇa pratyekaṃ yena	samasta-rasa-kajjala-mukta-mardana-prakAreNa yAma-mAtreNa pratyekam yena
+   prakāreṇa masidravyaṃ jāyate /	prakAreNa masi-dravyam jAyate /
+   śirīṣavṛkṣatvakcūrṇaṃ khadiraṃ vinā tāmbūlarāgaṃ janayati /	SirIza-vRkza-tvac-cUrNam Kadiram vinA tAmbUla-rAgam janayati /
+   tiryaka bhūmau nārikelaphalam asthisahitaṃ mukhena karṇikāyām ekena	tiryaka BUmO nArikela-Palam asTi-sahitam muKena karNikAyAm ekena
+   prahāreṇa dvidhā bhavati /	prahAreNa dviDA Bavati /
+   laghukāṣṭhasūkṣmaracitapākāṃ vinā pādaikaṃ vā bhramati /	laGu-kAzWa-sUkzma-racita-pAkAm vinA pAda-ekam vA Bramati /
+   guñjāphalāsthiliptaṃ stambhitaṃ taduttarapādaṃ prayojya prapadātyantaṃ	guQjA-Pala-asTi-liptam stamBitam tad-uttara-pAdam prayojya prapadA-atyantam
+   bhramati tadā pādatale tālakāralagnā uttiṣṭhati /	Bramati tadA pAda-tale tAla-kAra-lagnAH uttizWati /
+   evaṃ laghukāṣṭhanirmitāsamakaḥ pāpapurahāsārthaṃ dattamukhaveṣṭaṃ kiṃcit	evam laGu-kAzWa-nirmitA-samakaH pApa-pura-hAsa-arTam datta-muKa-vezwam kiMcid-
+   yas tena sitavastrādau kaṭyāṃ lagnam upatiṣṭhamānās tiṣṭhati // UT_15.8	yaH tena sita-vastra-AdO kawyAm lagnam upatizWamAnAH tizWati // UT_15.8
+   evaṃ niviḍāmbarapihitajambādau adhomukhakāṃsyabhājananihitam aṅgāraṃ na	evam nivixa-ambara-pihita-jamba-AdO aDomuKa-kAMsya-BAjana-nihitam aFgAram na
+   dahati vastraṃ dahati cāpi śiśirajalamiśritam api	dahati vastram dahati ca-api SiSira-jala-miSritam api
+   ānataphalacūrṇabhāvitakalaśaḥ tīkṣṇaś ca kāṃsyabhājananihitaṃ guruḍḍanāpy	Anata-Pala-cUrNa-BAvita-kalaSaH tIkzNaH ca kAMsya-BAjana-nihitam guruxxanA-api-
+   aśaktaṃ na bhavati tadānīṃ tiktaṃ yāti yac chuktaṃ miṣṭam eti	aSaktam na Bavati tadAnIm tiktam yAti yat Suktam mizwam eti
+   kajjalacavikācūrṇābhyāṃ kramasaṃlikhitapustakamadhyakāraṇe 'pi yatheṣṭayā	kajjala-cavikA-cUrNAByAm krama-saMliKita-pustaka-maDya-kAraNe api yaTezwayA
+   pacyate yathā kaṭāhe ramyatare madhunāgniprajvalite sakuṇḍādau jalapūrṇe	pacyate yaTA kawAhe ramyatare maDunA-agni-prajvalite sa-kuNxa-AdO jala-pUrNe
+   adhomukhe ujjvalaṃ svayam eti dhūmābhyāṃ svayam udgirati vartidvaye	aDomuKe ujjvalam svayam eti DUmAByAm svayam udgirati varti-dvaye
+   śaśaviṣṭhāpūrṇagarbhe kamaṭhair adhovartiviṣṭhāyitāpi upari	SaSa-vizWA-pUrNa-garBe kamaWEH aDas-varti-vizWAyitA-api upari
+   jvalajjvālājvalitavartijvālām api jvalitadhūmam aṅgāratīkṣṇaśikhayā	jvalat-jvAlA-jvalita-varti-jvAlAm api jvalita-DUmam aFgAra-tIkzNa-SiKayA
+   nāḍikādau /	nAxikA-AdO /
+   vālivāte 'yaṃ prayogaḥ kāryaḥ /	vAli-vAte ayam prayogaH kAryaH /
+   vāmakarāṅguliparyantaṃ gopitaṃ sūtracihnam apy acihnaṃ ca dṛśyate janasya	vAma-kara-aFguli-paryantam gopitam sUtra-cihnam api acihnam ca dRSyate janasya
+   viṣamasamākṣareṇa vīkṣite kālaḥ asamam api puruṣaṃ jānīyāt /	vizama-sama-akzareNa vIkzite kAlaH asamam api puruzam jAnIyAt /
+   pañcadāḍime śikhare masiguṇite yaddhi bhavati tāvat guṭike vijānīyāt /	paQca-dAxime SiKare masi-guNite yat-hi Bavati tAvat guwike vijAnIyAt /
+   akālavakre sati kālam atha phalacūrṇena militvā bhasmanā saha ghṛtena	akAlavakre sati kAlam aTa Pala-cUrNena militvA BasmanA saha GRtena
+   kākañjikā sahasā bhavati // UT_15.9	kAkaQjikA sahasA Bavati // UT_15.9
+   agādhasthirajale dhūmacūrṇena likhitacintādi bhītavad bhāṣate na	agADa-sTira-jale DUma-cUrNena liKita-cintA-Adi BIta-vat BAzate na
+   nimajjatīti /	nimajjati-iti /
+   samadaśaghṛtajadhṛtasamāveśārdhaṃ dhṛtamūṣalaṃ tiṣṭhati // UT_15.10	sama-daSa-GRta-ja-DRta-samAveSa-arDam DRta-mUzalam tizWati // UT_15.10
+   puṣyanakṣatre kuṅkumāvartitena bāṇena dūrastham api lakṣyaṃ bālo 'pi	puzya-nakzatre kuFkuma-Avartitena bANena dUra-sTam api lakzyam bAlaH api
+   vidhyate /	viDyate /
+   ṣaṇḍaṃ gomayānāṃ vartidīpakāntyā dagdhaṃ madhye hataśaśarudhiraṃ dṛśyate	zaNxam gomayAnAm varti-dIpa-kAntyA dagDam maDye hata-SaSa-ruDiram dRSyate
+   tatrāpi tailaṃ yat kiṃcid iti /	tatra-api tElam yat kiMcid iti /
+   śvetārkaphale tūlakaṃ sarṣapasamaṃ tailenaikīkṛtavartikadīpajvālāyāṃ	Sveta-arka-Pale tUlakam sarzapa-samam tElena-ekIkRta-vartika-dIpa-jvAlAyAm
+   gṛhoparivaṃśādidāru sarvaṃ sarpa iva dṛśyate /	gRha-upari-vaMSa-Adi-dAru sarvam sarpaH iva dRSyate /
+   bhujagataile sacchidrabhāṇḍe bhujaṃgaṃ kṣiptvā acchidrabhāṇḍāntare	Bujaga-tEle sa=-Cidra-BANxe BujaMgam kziptvA acCidra-BANxa-antare
+   vyavasthitam agnipātena jalaṃ jvalati /	vyavasTitam agni-pAtena jalam jvalati /
+   tadaiva tailaṃ pūrvaprakāreṇa kṛṣṇāṣṭamyāṃ maṇḍūkatailāṅkitena sarvaṃ	tadA-eva tElam pUrva-prakAreNa kRzNa-azwamyAm maNxUkatEla-aFkitena sarvam
+   śātrava sarvaṃ bhavati /	SAtrava sarvam Bavati /
+   dīpakāntyā dīpayitvā yat kiṃcic ca kukkuṭapakṣicañcvādividagdhanālalakṣitā	dIpa-kAntyA dIpayitvA yat kiMcid ca kukkuwa-pakzi-caQcu-Adi-vidagDa-nAla-lakzitA
+   satī hṛtā lekhā yadāyāti harikapālaṃ dhṛtvā bhavati tadā taj jalapūrṇāṃ ca	satI hRtA leKA yadA-AyAti hari-kapAlam DRtvA Bavati tadA tat jala-pUrNAm ca
+   kalaśaṃ riktakaṃ bhavati tathā maricaśuṇṭhī pippalīcūrṇenobhābhyāṃ	kalaSam riktakam Bavati taTA marica-SuNWI pippalI-cUrNena-uBAByAm
+   vāmacaraṇatalaṃ liptvā tenāhato vṛkṣaḥ kalpavṛkṣaś ca nameruphalaṃ	vAma-caraNa-talam liptvA tena-AhataH vRkzaH kalpavRkzaH ca nameru-Palam
+   prasūyate // UT_15.11	prasUyate // UT_15.11
+   kṛṣṇā gauḥ prasavakāle tadvat samānavarṇaṃ jarāyur āgatatvena prajāreṇḍalā	kRzNA gOH prasava-kAle tadvat samAna-varNam jarAyuH Agata-tvena prajAreNxalA
+   phalaṃ dṛṣṭvā muṣṭigṛhīte uccais tamasi phalaṃ prāyeṇa kṛtvā pradāsyati	Palam dRzwvA muzwi-gRhIte uccEs tamasi Palam prAyeNa kRtvA pradAsyati
+   tathā kālāyitamudrikā varagostanī syād āpatitā gṛhītā nikṣiptā tu aṣṭau	taTA kAlAyita-mudrikA vara-gostanI syAt ApatitA gRhItA nikziptA tu azwO
+   pūrvaphalāni janayati /	pUrva-PalAni janayati /
+   samustāharitālamanaḥśilābhyāṃ navanītādiyogena kāritāñjane mayūrasya	sa-mustA-haritAla-manaHSilAByAm navanIta-Adi-yogena kArita-aQjane mayUrasya
+   viṣṭhayā kṛtvā hastaṃ limpet tatra sthitaṃ dravyaṃ brahmāpi na paśyati /	vizWayA kRtvA hastam limpet tatra sTitam dravyam brahmA-api na paSyati /
+   samukhaṃ phalacūrṇaṃ miśrodvartanakājale kṣiptvā krimisahasratulyaṃ	samuKam Pala-cUrNam miSra-udvartana-kAjale kziptvA krimi-sahasra-tulyam
+   dṛśyate /	dRSyate /
+   hayakālīyakasya śoṣitasya cūrṇaṃ gavaśīrṣakeṇa samudvartanena tātkālikaṃ	haya-kAlIyakasya Sozitasya cUrNam gavaSIrzakeNa samudvartanena tAtkAlikam
+   sūkṣmajale niḥkṣipya sabījaṃ kṛṣir uccalati // UT_15.12	sUkzma-jale niHkzipya sa-bIjam kRziH uccalati // UT_15.12
+   adhaḥpaṭenāśasyāvaśyādi dṛṣṭvā pādāgrasthitaṃ dravyaṃ dṛśyate /	aDas-pawena-ASasya-avaSya-Adi dRzwvA pAda-agra-sTitam dravyam dRSyate /
+   japākusumodvartitāṅgaṃ churikādau kaṇācitaikakīṭakāphalākhyā yantrite	japA-kusuma-udvartita-aFgam CurikA-AdO kaNA-cita-eka-kIwakA-Pala-AKyA yantrite
+   rudhiravaj jaḍitaṃ kṣīrivṛkṣatvagavabhāvitā tailāktā vastravartir jalair	ruDira-vat jaxitam kzIri-vRkza-tvac-ava-BAvitA tEla-aktA vastravartiH jalEH-
+   jvalati /	jvalati /
+   evaṃ samudratailayuktāpi vartikā jvalati /	evam samudra-tEla-yuktA-api vartikA jvalati /
+   droṇakapuṣpādīni kṣudrapuṣpāṇi cūrṇāgre viniṣkṣipya dhattūrabījāni	droNaka-puzpa-AdIni kzudra-puzpANi cUrNa-agre vinizkzipya DattUra-bIjAni
+   jalasiktāni sajīvavat phalanti /	jala-siktAni sa-jIva-vat Palanti /
+   ikṣuḥ kukkuṭībījacūrṇena sudarśanapattram iva tatkṣaṇāt jāyate /	ikzuH kukkuwI-bIja-cUrNena sudarSana-pattram iva tad-kzaNAt jAyate /
+   masṛṇakarpaṭaṃ nirmalakāṃsyabhājane 'rkasammukhaṃ sthāpanena	masRNa-karpawam nirmala-kAMsya-BAjane arka-sammuKam sTApanena
+   vartulakayogād agnir uttarati // UT_15.13	vartulaka-yogAt agniH uttarati // UT_15.13

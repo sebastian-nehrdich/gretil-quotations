@@ -1,0 +1,909 @@
+   śivasūtra, prathama unmeṣa	SivasUtra, praTamaH unmeza
+   caitanyam ātmā // SivS_1.1 //	cEtanyam AtmA // SivH-_1.1 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * caitanyaṃ citkriyārūpaṃ śivasya paramasya yat || SivSV_1.1:1 ||	* cEtanyam cit-kriyA-rUpam Sivasya paramasya yat || SivSV_1.1:1 ||
+   * svātantryam etad evātmā tato 'sau paramaḥ śivaḥ || SivSV_1.1:2 ||	* svAtantryam etat eva-AtmA tatas asO paramaH SivaH || SivSV_1.1:2 ||
+   * athavā ko 'yam ātmeti praṣṭ bodhayituṃ śiśūn || SivSV_1.1:3 ||	* aTavA kaH ayam AtmA-iti prazw boDayitum SiSUn || SivSV_1.1:3 ||
+   * nātmā deho na ca prāṇo na manaḥ khaṃ na śūnyabhūḥ || SivSV_1.1:4 ||	* na-AtmA dehaH na ca prANaH na manaH Kam na SUnya-BUH || SivSV_1.1:4 ||
+   * kiṃtu caitanyam evātmety ādiṣṭaṃ parameṣṭhinā || SivSV_1.1:5 ||	* kiMtu cEtanyam eva-AtmA-iti Adizwam paramezWinA || SivSV_1.1:5 ||
+   * atha caitanyam evaitad ātmā svābhāvikaṃ vapuḥ || SivSV_1.1:6 ||	* aTa cEtanyam eva-etat AtmA svABAvikam vapuH || SivSV_1.1:6 ||
+   * viśeṣācodanād asya jagataś cety arūpiṇaḥ || SivSV_1.1:7 ||	* viSeza-acodanAt asya jagataH ca-iti arUpiNaH || SivSV_1.1:7 ||
+   * acetyamānaṃ kasyāpi vapuḥ kim api no bhavet || SivSV_1.1:8 ||	* acetyamAnam kasya-api vapuH kim api naH Bavet || SivSV_1.1:8 ||
+   * cetyamānaṃ tu cidrūpatādātmyāc cinmayaṃ bhavet || SivSV_1.1:9 ||	* ca-ityamAnam tu cit-rUpa-tAdAtmyAt cit-mayam Bavet || SivSV_1.1:9 ||
+   * evaṃ śivoktayā nītyā jaṅgamasthāvarātmanaḥ || SivSV_1.1:10 ||	* evam Siva-uktayA nItyA jaFgama-sTAvara-AtmanaH || SivSV_1.1:10 ||
+   * caitanyam eva viśvasya svarūpaṃ pāramārthikam || SivSV_1.1:11 ||	* cEtanyam eva viSvasya svarUpam pAramArTikam || SivSV_1.1:11 ||
+   * nanv evaṃvidhaviśvasya caitanyaṃ ced vapus tadā || SivSV_1.1:12 ||	* nanu evaMviDa-viSvasya cEtanyam ced vapuH tadA || SivSV_1.1:12 ||
+   * kathaṃ bandhasya sambandha iti śaṅkāṃ vyapohitum || SivSV_1.1:13 ||	* kaTam banDasya sambanDaH iti SaFkAm vyapohitum || SivSV_1.1:13 ||
+   * praśleṣāśleṣapāṭhābhyāṃ sūtram āha maheśvaraḥ || SivSV_1.1:14 ||]	* praSleza-ASleza-pAWAByAm sUtram Aha maheSvaraH || SivSV_1.1:14 ||]
+   jñānaṃ bandhaḥ // SivS_1.2 //	jQAnam banDaH // SivH-_1.2 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * ajñānam iti tatrādyaṃ caitanyasphārarūpiṇi || SivSV_1.2:1 ||	* ajQAnam iti tatra-Adyam cEtanya-sPAra-rUpiNi || SivSV_1.2:1 ||
+   * ātmany anātmatājñānaṃ jñānaṃ punar anātmani || SivSV_1.2:2 ||	* Atmani anAtma-tA-jQAnam jQAnam punar anAtmani || SivSV_1.2:2 ||
+   * dehādāv ātmamānitvaṃ dvayam apy etad āṇavam || SivSV_1.2:3 ||	* deha-AdO Atma-mAni-tvam dvayam api etat ANavam || SivSV_1.2:3 ||
+   * malaṃ svakalpitaṃ svasmin bandhaḥ svecchāvibhāvitaḥ || SivSV_1.2:4 ||	* malam sva-kalpitam svasmin banDaH sva-icCA-viBAvitaH || SivSV_1.2:4 ||
+   * kim āṇavamalātmaiva bandho 'yaṃ nety udīryate || SivSV_1.2:5 ||]	* kim ANava-mala-AtmA-eva banDaH ayam na-iti udIryate || SivSV_1.2:5 ||]
+   yonivargaḥ kalāśarīram // SivS_1.3 //	yoni-vargaH kalA-SarIram // SivH-_1.3 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * yonir bhedaprathāhetur māyā vargas tadutthitaḥ || SivSV_1.3:1 ||	* yoniH Beda-praTA-hetuH mAyA vargaH tad-utTitaH || SivSV_1.3:1 ||
+   * kalādikṣitiparyantatattvarāśis tadātmakaḥ || SivSV_1.3:2 ||	* kalA-Adi-kziti-paryanta-tattva-rASiH tad-AtmakaH || SivSV_1.3:2 ||
+   * māyīyākhyaṃ malaṃ tattadbhinnavedyaprathāmayam || SivSV_1.3:3 ||	* mAyIya-AKyam malam tad-tad-Binna-vedya-praTA-mayam || SivSV_1.3:3 ||
+   * kaleti kāyam āviśya paricchedakarī nṛṇām || SivSV_1.3:4 ||	* kalA-iti kAyam AviSya paricCeda-karI nRNAm || SivSV_1.3:4 ||
+   * vyāpṛtiḥ puṇyapāpātmā śarīraṃ yasya tat punaḥ || SivSV_1.3:5 ||	* vyApRtiH puNya-pApa-AtmA SarIram yasya tat punar || SivSV_1.3:5 ||
+   * kārmaṃ ca malam etasmin dvaye bandho 'nuvartate || SivSV_1.3:6 ||	* kArmam ca malam etasmin dvaye banDaH anuvartate || SivSV_1.3:6 ||
+   * īśvarapratyabhijñāyām uktam etan malatrayam || SivSV_1.3:7 ||	* ISvara-pratyaBijQAyAm uktam etat mala-trayam || SivSV_1.3:7 ||
+   * svātantryahānir bodhasya svātantryasyāpy abodhatā || SivSV_1.3:8 ||	* svAtantrya-hAniH boDasya svAtantryasya-api aboDatA || SivSV_1.3:8 ||
+   * dvidhāṇavaṃ malam idaṃ svasvarūpāpahārataḥ || SivSV_1.3:9 ||	* dviDA-ANavam malam idam sva-svarUpa-apahArataH || SivSV_1.3:9 ||
+   * bhinnavedyaprathātraiva māyīyaṃ janmabhogadam || SivSV_1.3:10 ||	* Binna-vedya-praTA-atra-eva mAyIyam janma-Boga-dam || SivSV_1.3:10 ||
+   * kartary abodhe kārmaṃ tu māyāśaktyaiva tat trayam || SivSV_1.3:11 ||	* kartari aboDe kArmam tu mAyA-SaktyA-eva tat trayam || SivSV_1.3:11 ||
+   * ity athaiṣāṃ malānāṃ tu bandhakatvaṃ nirūpyate || SivSV_1.3:12 ||]	* iti aTa-ezAm malAnAm tu banDaka-tvam nirUpyate || SivSV_1.3:12 ||]
+   jñānādhiṣṭhānaṃ mātṛkā // SivS_1.4 //	jQAna-aDizWAnam mAtRkAH // SivH-_1.4 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * apūrṇam anyatārūpaṃ bhinnavedyaprathātmakam || SivSV_1.4:1 ||	* apUrNam anyatA-rUpam Binna-vedya-praTA-Atmakam || SivSV_1.4:1 ||
+   * śubhāśubhātmakāśeṣakarmasaṃskāravigraham || SivSV_1.4:2 ||	* SuBa-aSuBa-Atmaka-aSeza-karma-saMskAra-vigraham || SivSV_1.4:2 ||
+   * trividhaṃ malam uktaṃ yat tad eva jñānam ucyate || SivSV_1.4:3 ||	* triviDam malam uktam yat tat eva jQAnam ucyate || SivSV_1.4:3 ||
+   * na so 'sti pratyayo loke yaḥ śabdānugamād ṛte || SivSV_1.4:4 ||	* na saH asti pratyayaH loke yaH Sabda-anugamAt Rte || SivSV_1.4:4 ||
+   * anuviddham iva jñānaṃ sarvaṃ śabdena gamyate || SivSV_1.4:5 ||	* anuvidDam iva jQAnam sarvam Sabdena gamyate || SivSV_1.4:5 ||
+   * ity uktanītyā jñānasya vividhasyāsya mātṛkā || SivSV_1.4:6 ||	* iti ukta-nItyA jQAnasya viviDasya-asya mAtRkAH || SivSV_1.4:6 ||
+   * akārādikṣakārāntapañcāśadvarṇavigrahā || SivSV_1.4:7 ||	* akAra-Adi-kzakAra-anta-paQcASat-varNa-vigrahAH || SivSV_1.4:7 ||
+   * śivādikṣitiparyantatattvagrāmaprasūtibhūḥ || SivSV_1.4:8 ||	* Siva-Adi-kziti-paryanta-tattva-grAma-prasUti-BUH || SivSV_1.4:8 ||
+   * karandhracitimadhyasthā brahmapāśāvalambikāḥ || SivSV_1.4:9 ||	* karanDra-citi-maDya-sTAH brahma-pASa-avalambikAH || SivSV_1.4:9 ||
+   * pīṭheśvaryo mahāghorā mohayanti muhurmuhuḥ || SivSV_1.4:10 ||	* pIWeSvaryaH mahA-GorAH mohayanti muhur-muhur || SivSV_1.4:10 ||
+   * iti śrītimirodghāṭaproktanītyanusārataḥ || SivSV_1.4:11 ||	* iti SrI-timira-udGAwa-proktanIti-anusArataH || SivSV_1.4:11 ||
+   * svarādivargādhiṣṭhātṛmātṛcakrapariṣkṛtā || SivSV_1.4:12 ||	* svara-Adi-varga-aDizWAtR-mAtR-cakra-parizkRtAH || SivSV_1.4:12 ||
+   * apūrṇo 'ham ahaṃ pūrṇo 'haṃ kṛśo 'haṃ kṛśetaraḥ || SivSV_1.4:13 ||	* apUrNaH aham aham pUrNaH aham kRSaH aham kRSa-itaraH || SivSV_1.4:13 ||
+   * iti śabdānuvedhena śokaharṣādikārikā || SivSV_1.4:14 ||	* iti Sabda-anuveDena Soka-harza-Adi-kArikAH || SivSV_1.4:14 ||
+   * adhiṣṭhānam adhiṣṭhātrī tadadhiṣṭhānato nṛṇām || SivSV_1.4:15 ||	* aDizWAnam aDizWAtrI tad-aDizWAnataH nRNAm || SivSV_1.4:15 ||
+   * alabdhāntarmukhasvātmaviśrāntīni nirantaram || SivSV_1.4:16 ||	* alabDa-antarmuKa-sva-Atma-viSrAntIni nirantaram || SivSV_1.4:16 ||
+   * bahirmukhāni jñānāni kathyante bandhahetavaḥ || SivSV_1.4:17 ||	* bahirmuKAni jQAnAni kaTyante banDa-hetavaH || SivSV_1.4:17 ||
+   * athedṛgbandhasambandhapraśamopāya ucyate || SivSV_1.4:18 ||	* aTa-IdRgbanDa-sambanDa-praSama-upAyaH ucyate || SivSV_1.4:18 ||
+   * paramopeyaviśrāntisatattvaḥ parameṣṭhinā || SivSV_1.4:19 ||]	* parama-upeya-viSrAnti-sa-tattvaH paramezWinA || SivSV_1.4:19 ||]
+   udyamo bhairavaḥ // SivS_1.5 //	udyamaH BEravaH // SivH-_1.5 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * yo 'yaṃ vimarśarūpāyāḥ prasarantyāḥ svasaṃvidaḥ || SivSV_1.5:1 ||	* yaH ayam vimarSa-rUpAyAH prasarantyAH sva-saMvidaH || SivSV_1.5:1 ||
+   * jhaṭity ucchalanākārapratibhonmajjanātmakaḥ || SivSV_1.5:2 ||	* Jawiti ucCalana-AkAra-pratiBA-unmajjana-AtmakaH || SivSV_1.5:2 ||
+   * udyamo 'ntaḥparispandaḥ pūrṇāhambhāvanātmakaḥ || SivSV_1.5:3 ||	* udyamaH antar-parispandaH pUrNa-ahamBAvanA-AtmakaH || SivSV_1.5:3 ||
+   * sa eva sarvaśaktīnāṃ sāmarasyād aśeṣataḥ || SivSV_1.5:4 ||	* saH eva sarva-SaktInAm sAmarasyAt aSezatas || SivSV_1.5:4 ||
+   * viśvato bharitatvena vikalpānāṃ vibhedinām || SivSV_1.5:5 ||	* viSvatas Barita-tvena vikalpAnAm viBedinAm || SivSV_1.5:5 ||
+   * alaṃ kavalanenāpīty anvarthād eva bhairavaḥ || SivSV_1.5:6 ||	* alam kavalanena-api-iti anvarTAt eva BEravaH || SivSV_1.5:6 ||
+   * athedṛgbhairavāpatter bandhapraśamakāraṇāt || SivSV_1.5:7 ||	* aTa-IdRS-BErava-ApatteH banDa-praSama-kAraNAt || SivSV_1.5:7 ||
+   * vyutthānaṃ ca bhavec chāntabhedābhāsam itīryate || SivSV_1.5:8 ||]	* vyutTAnam ca Bavet SAnta-Beda-ABAsam iti-Iryate || SivSV_1.5:8 ||]
+   śakticakrasaṃdhāne viśvasaṃhāraḥ // SivS_1.6 //	Sakti-cakra-saMDAne viSva-saMhAraH // SivH-_1.6 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * yo 'yam uktaḥ svasaṃvitter udyamo bhairavātmakaḥ || SivSV_1.6:1 ||	* yaH ayam uktaH sva-saMvitteH udyamaH BErava-AtmakaH || SivSV_1.6:1 ||
+   * asyāsti mahatī śaktir atikrāntakramākramā || SivSV_1.6:2 ||	* asya-asti mahatI SaktiH atikrAnta-krama-AkramAH || SivSV_1.6:2 ||
+   * niḥśeṣanijacicchakticakrākramaṇalampaṭā || SivSV_1.6:3 ||	* niHSeza-nija-cit-Sakti-cakra-AkramaNa-lampawAH || SivSV_1.6:3 ||
+   * riktāriktobhayākārāpy anetadrūpiṇī parā || SivSV_1.6:4 ||	* rikta-arikta-uBaya-AkArA-api anetad-rUpiNI parA || SivSV_1.6:4 ||
+   * yayaiva svātmacidbhittau prameyollāsanāditaḥ || SivSV_1.6:5 ||	* yayA-eva sva-Atma-cit-BittO prameya-ullAsa-nAditaH || SivSV_1.6:5 ||
+   * parapramātṛviśrāntiparyantaspandarūpayā || SivSV_1.6:6 ||	* para-pramAtR-viSrAnti-paryanta-spanda-rUpayA || SivSV_1.6:6 ||
+   * sṛṣṭisthitilayānākhyābhāsaśaktiprasāraṇāt || SivSV_1.6:7 ||	* sRzwi-sTiti-laya-anAKya-ABAsa-Sakti-prasAraNAt || SivSV_1.6:7 ||
+   * prapañcaviṣayaṃ cañcatpañcakṛtyaṃ prapañcitam || SivSV_1.6:8 ||	* prapaQca-vizayam caQcat-paQcakRtyam prapaQcitam || SivSV_1.6:8 ||
+   * tayā prasāritasyāsya śakticakrasya yat punaḥ || SivSV_1.6:9 ||	* tayA prasAritasya-asya Sakti-cakrasya yat punar || SivSV_1.6:9 ||
+   * saṃdhānam āntarāmnāyāmnātakramavimarśanam || SivSV_1.6:10 ||	* saMDAnam Antara-AmnAya-AmnAta-krama-vimarSanam || SivSV_1.6:10 ||
+   * tasmin saty asya viśvasya kālāgnyādikalāvadheḥ || SivSV_1.6:11 ||	* tasmin sati asya viSvasya kAlAgni-Adi-kalA-avaDeH || SivSV_1.6:11 ||
+   * saṃhāraḥ syāt svasaṃvittivahnisadbhāvalakṣaṇaḥ || SivSV_1.6:12 ||	* saMhAraH syAt sva-saMvitti-vahni-sadBAva-lakzaNaH || SivSV_1.6:12 ||
+   * evaṃ svasaṃvitkālāgnipluṣṭabhedasya yoginaḥ || SivSV_1.6:13 ||	* evam sva-saMvid-kAla-agni-pluzwa-Bedasya yoginaH || SivSV_1.6:13 ||
+   * na syāt samādhivyutthānabhedaḥ ko 'pīti kathyate || SivSV_1.6:14 ||	* na syAt samADi-vyutTAna-BedaH kaH api-iti kaTyate || SivSV_1.6:14 ||
+   * jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ || SivSV_1.6:15 ||	* jAgrat-svapna-suzupta-Bede turya-ABoga-samBavaH || SivSV_1.6:15 ||
+   * udyamo bhairava iti proktarūpaṃ sphuradvapuḥ || SivSV_1.6:16 ||	* udyamaH BEravaH iti prokta-rUpam sPurat-vapuH || SivSV_1.6:16 ||
+   * turyaṃ nāma paraṃ dhāma tadābhogaś camatkriyā || SivSV_1.6:17 ||	* turyam nAma param DAma tad-ABogaH camatkriyA || SivSV_1.6:17 ||
+   * bhede 'pi jāgradādīnāṃ yoginas tasya sambhavaḥ || SivSV_1.6:18 ||	* Bede api jAgrat-AdInAm yoginaH tasya samBavaH || SivSV_1.6:18 ||
+   * anusyūtiḥ parānandarūpā syād iti śiṣyate || SivSV_1.6:19 ||	* anusyUtiH parAnanda-rUpA syAt iti Sizyate || SivSV_1.6:19 ||
+   * jāgradāditrayaṃ sūtratrayeṇa lakṣyate kramāt || SivSV_1.6:20 ||]	* jAgrat-Adi-trayam sUtra-trayeNa lakzyate kramAt || SivSV_1.6:20 ||]
+   jñānaṃ jāgrat // SivS_1.7 //	jQAnam jAgrat // SivH-_1.7 //
+   svapno vikalpāḥ // SivS_1.8 //	svapnaH vikalpAH // SivH-_1.8 //
+   aviveko māyā sauṣuptam // SivS_1.9 //	avivekaH mAyA sOzuptam // SivH-_1.9 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * jñānaṃ bāhyākṣajaṃ jāgrat sarvasādhāraṇārthakam || SivSV_1.9:1 ||	* jQAnam bAhya-akza-jam jAgrat sarva-sADAraNa-arTakam || SivSV_1.9:1 ||
+   * svapnaḥ svātmaiva samprokto vikalpāḥ svātmasambhavāḥ || SivSV_1.9:2 ||	* svapnaH sva-AtmA-eva samproktaH vikalpAH sva-Atma-samBavAH || SivSV_1.9:2 ||
+   * aviveko nijākhyātir māyā mohas tadātmakaḥ || SivSV_1.9:3 ||	* avivekaH nija-AKyAtiH mAyA mohaH tad-AtmakaH || SivSV_1.9:3 ||
+   * sauṣuptaṃ yoginām etat tritayaṃ dhāraṇādikam || SivSV_1.9:4 ||	* sOzuptam yoginAm etat tritayam DAraNa-Adikam || SivSV_1.9:4 ||
+   * īśvarapratyabhijñāyāṃ jāgarādy api lakṣitam || SivSV_1.9:5 ||	* ISvara-pratyaBijQAyAm jAgara-Adi api lakzitam || SivSV_1.9:5 ||
+   * śūnye buddhyādyabhāvātmany ahaṃtākartṛtāpade || SivSV_1.9:6 ||	* SUnye budDi-Adi-aBAva-Atmani ahaMtA-kartR-tA-pade || SivSV_1.9:6 ||
+   * asphuṭārūpasaṃskāramātriṇi jñeyaśūnyatā || SivSV_1.9:7 ||	* asPuwa-arUpa-saMskAra-mAtriNi jQeya-SUnyatA || SivSV_1.9:7 ||
+   * sākṣāṇām āntarī vṛttiḥ prāṇādiprerikā matā || SivSV_1.9:8 ||	* sAkzANAm AntarI vRttiH prANa-Adi-prerikA matAH || SivSV_1.9:8 ||
+   * jīvanākhyāthavā prāṇe 'haṃtā puryaṣṭakātmikā || SivSV_1.9:9 ||	* jIvana-AKyA-aTavA prANe ahaMtA puryazwaka-AtmikAH || SivSV_1.9:9 ||
+   * tāvan mātrasthitau proktaṃ sauṣuptaṃ pralayopamam || SivSV_1.9:10 ||	* tAvat mAtra-sTitO proktam sOzuptam pralaya-upamam || SivSV_1.9:10 ||
+   * savedyam apavedyaṃ ca māyāmalayutāyutam || SivSV_1.9:11 ||	* sa-vedyam apavedyam ca mAyA-mala-yuta-ayutam || SivSV_1.9:11 ||
+   * manomātrapathe 'py akṣaviṣayatvena vibhramāt || SivSV_1.9:12 ||	* manaH-mAtra-paTe api akza-vizaya-tvena viBramAt || SivSV_1.9:12 ||
+   * spaṣṭāvabhāsā bhāvānāṃ sṛṣṭiḥ svapnapadaṃ matam || SivSV_1.9:13 ||	* spazwa-avaBAsAH BAvAnAm sRzwiH svapna-padam matam || SivSV_1.9:13 ||
+   * sarvākṣagocaratvena yā tu bāhyatayā sthirā || SivSV_1.9:14 ||	* sarva-akza-gocara-tvena yA tu bAhya-tayA sTirAH || SivSV_1.9:14 ||
+   * sṛṣṭiḥ sādhāraṇī sarvapramātṇāṃ sa jāgaraḥ || SivSV_1.9:15 ||	* sRzwiH sADAraNI sarva-pramAtNAm sa jAgaraH || SivSV_1.9:15 ||
+   * iti vistarataḥ prokte lokayogyanusārataḥ || SivSV_1.9:16 ||	* iti vistarataH prokte loka-yogi-anusArataH || SivSV_1.9:16 ||
+   * jāgarāditraye 'muṣminn avadhānena jāgrataḥ || SivSV_1.9:17 ||	* jAgara-Adi-traye amuzmin avaDAnena jAgrataH || SivSV_1.9:17 ||
+   * śakticakrānusaṃdhānād viśvasaṃhārakāraṇāt || SivSV_1.9:18 ||	* Sakti-cakra-anusaMDAnAt viSva-saMhAra-kAraNAt || SivSV_1.9:18 ||
+   * turyābhogamayābhedakhyātir akhyātihāriṇī || SivSV_1.9:19 ||	* turya-ABoga-maya-aBeda-KyAtiH aKyAti-hAriNI || SivSV_1.9:19 ||
+   * sphuraty avirataṃ yasya sa taddhārādhirohataḥ || SivSV_1.9:20 ||	* sPurati aviratam yasya sa tad-DArA-aDirohataH || SivSV_1.9:20 ||
+   * turyātītamayaṃ yogī proktacaitanyam āmṛśan || SivSV_1.9:21 ||]	* turyAtIta-mayam yogI prokta-cEtanyam AmRSan || SivSV_1.9:21 ||]
+   tritayabhoktā vīreśaḥ // SivS_1.10 //	tritaya-BoktA vIreSaH // SivH-_1.10 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * jāgarāditrayaṃ proktaśakticakrānusaṃdhitaḥ || SivSV_1.10:1 ||	* jAgara-Adi-trayam prokta-Sakti-cakra-anusaMDitaH || SivSV_1.10:1 ||
+   * turyānandarasāsārāc churitaṃ bhedavarjanāt || SivSV_1.10:2 ||	* turya-Ananda-rasa-AsArAt Curitam Beda-varjanAt || SivSV_1.10:2 ||
+   * ānandarasanirmagnaṃ paramaṃ vyoma bhāvayan || SivSV_1.10:3 ||	* Ananda-rasa-nirmagnam paramam vyoma BAvayan || SivSV_1.10:3 ||
+   * tritayasyāsya yo bhoktā camatkartā sa yogirāṭ || SivSV_1.10:4 ||	* tritayasya-asya yaH BoktA camatkartA sa yogi-rAj || SivSV_1.10:4 ||
+   * triṣu dhāmasu yad bhogyaṃ bhoktā yaś ca prakīrtitaḥ || SivSV_1.10:5 ||	* trizu DAmasu yat Bogyam BoktA yaH ca prakIrtitaH || SivSV_1.10:5 ||
+   * vidyāt tad ubhayaṃ yas tu sa bhuñjāno na lipyate || SivSV_1.10:6 ||	* vidyAt tat uBayam yaH tu sa BuQjAnaH na lipyate || SivSV_1.10:6 ||
+   * ity uktaniṣpratidvandvisaṃvitsāmrājyavaibhavaḥ || SivSV_1.10:7 ||	* iti ukta-nizpratidvandvi-saMvid-sAmrAjya-vEBavaH || SivSV_1.10:7 ||
+   * cidghanaḥ svātmavijñānaparamānandanirbharaḥ || SivSV_1.10:8 ||	* cit-GanaH sva-Atma-vijQAna-parama-Ananda-nirBaraH || SivSV_1.10:8 ||
+   * vīreśo yena vīrāṇāṃ bhedagrasanakāriṇām || SivSV_1.10:9 ||	* vIra-ISaH yena vIrANAm Beda-grasana-kAriNAm || SivSV_1.10:9 ||
+   * antarbahirvisaratām indriyāṇām adhīśvaraḥ || SivSV_1.10:10 ||	* antar-bahis-visaratAm indriyANAm aDISvaraH || SivSV_1.10:10 ||
+   * kim asya paracittattvārohaviśrāntisūcikāḥ || SivSV_1.10:11 ||	* kim asya para-cit-tattva-Aroha-viSrAnti-sUcikAH || SivSV_1.10:11 ||
+   * bhūmikāḥ santy ayaṃ yābhir yāti sarvottarāṃ sthitim || SivSV_1.10:12 ||	* BUmikAH santi ayam yABiH yAti sarva-uttarAm sTitim || SivSV_1.10:12 ||
+   * ity antevāsihṛcchaṅkāśāntyai santīty udīryate || SivSV_1.10:13 ||]	* iti antevAsi-hRd-SaFkA-SAntyE santi-iti udIryate || SivSV_1.10:13 ||]
+   vismayo yogabhūmikāḥ // SivS_1.11 //	vismayaH yoga-BUmikAH // SivH-_1.11 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * yathā sātiśayānande kasyacid vismayo bhavet || SivSV_1.11:1 ||	* yaTA sa-atiSaya-Anande kasyacid vismayaH Bavet || SivSV_1.11:1 ||
+   * tathāsya yogino nityaṃ tattadvedyāvalokane || SivSV_1.11:2 ||	* taTA-asya yoginaH nityam tad-tad-vedya-avalokane || SivSV_1.11:2 ||
+   * niḥsāmānyaparānandānubhūtistimitendriye || SivSV_1.11:3 ||	* niHsAmAnya-para-Ananda-anuBUti-stimita-indriye || SivSV_1.11:3 ||
+   * pare svātmany atṛptyaiva yad āścaryaṃ sa vismayaḥ || SivSV_1.11:4 ||	* pare sva-Atmani atRptyA-eva yat AScaryam sa vismayaH || SivSV_1.11:4 ||
+   * sa eva khalu yogasya paratattvaikyarūpiṇaḥ || SivSV_1.11:5 ||	* saH eva Kalu yogasya para-tattva-Ekya-rUpiNaH || SivSV_1.11:5 ||
+   * bhūmikās tatkramārohaparaviśrāntisūcikāḥ || SivSV_1.11:6 ||	* BUmikAH tad-krama-Aroha-para-viSrAnti-sUcikAH || SivSV_1.11:6 ||
+   * īrdṛgvismayavadyogabhūmikārūḍhacetasaḥ || SivSV_1.11:7 ||]	* IH-dRS-vismaya-vat-yoga-BUmikA-ArUXa-cetasaH || SivSV_1.11:7 ||]
+   icchā śaktir umā kumārī // SivS_1.12 //	icCA SaktiH umA kumArI // SivH-_1.12 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * parabhairavatāṃ yuktyā samāpannasya śāśvatīm || SivSV_1.12:1 ||	* para-BErava-tAm yuktyA samApannasya SASvatIm || SivSV_1.12:1 ||
+   * tasyaiva yogino yecchā śaktiḥ saiva bhavaty umā || SivSV_1.12:2 ||	* tasya-eva yoginaH yA-icCA SaktiH sA-eva Bavati umA || SivSV_1.12:2 ||
+   * parā bhaṭṭārikā saiva kumārīti prakīrtitā || SivSV_1.12:3 ||	* parA BawwArikA sA-eva kumArI-iti prakIrtitAH || SivSV_1.12:3 ||
+   * sadāśivādikṣityantaviśvasargādilīlayā || SivSV_1.12:4 ||	* sadASiva-Adi-kziti-anta-viSva-sarga-Adi-lIlayA || SivSV_1.12:4 ||
+   * kumārī kuṃ mahāmāyābhūmiṃ mārayatīty api || SivSV_1.12:5 ||	* kumArI kum mahAmAyA-BUmim mArayati-iti api || SivSV_1.12:5 ||
+   * kumārī copabhogyāsya yogino bhairavātmanaḥ || SivSV_1.12:6 ||	* kumArI ca-upaBogya-asya yoginaH BErava-AtmanaH || SivSV_1.12:6 ||
+   * kumārī nānyabhogyā ca bhoktraikātmyena tiṣṭhati || SivSV_1.12:7 ||	* kumArI na-anya-BogyA ca Boktra-EkAtmyena tizWati || SivSV_1.12:7 ||
+   * umā kumārī saṃtyaktasarvāsaṅgā maheśituḥ || SivSV_1.12:8 ||	* umA kumArI saMtyakta-sarva-AsaFgAH maheSituH || SivSV_1.12:8 ||
+   * ārādhanaparā tadvad icchā śaktis tu yoginaḥ || SivSV_1.12:9 ||	* ArADana-parA tadvat icCA SaktiH tu yoginaH || SivSV_1.12:9 ||
+   * ayam eva sphuṭaḥ pāṭho dṛṣṭo 'nuttaradaiśikaiḥ || SivSV_1.12:10 ||	* ayam eva sPuwaH pAWaH dRzwaH anuttara-dESikEH || SivSV_1.12:10 ||
+   * vyākhyātaś ca paraiḥ śaktitametipaṭhanāt punaḥ || SivSV_1.12:11 ||	* vyAKyAtaH ca parEH Sakti-tama-iti-paWanAt punar || SivSV_1.12:11 ||
+   * prakarṣo vyākṛto 'muṣyāḥ śakter jñānakriyātmataḥ || SivSV_1.12:12 ||	* prakarzaH vyAkRtaH amuzyAH SakteH jQAna-kriyA-AtmataH || SivSV_1.12:12 ||
+   * evam īdṛkprabhāvecchāśaktiyuktasya yoginaḥ || SivSV_1.12:13 ||]	* evam IdRS-praBAva-icCA-Sakti-yuktasya yoginaH || SivSV_1.12:13 ||]
+   dṛśyaṃ śarīram // SivS_1.13 //	dRSyam SarIram // SivH-_1.13 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * yad yad dṛśyam aśeṣaṃ tac charīraṃ tasya yoginaḥ || SivSV_1.13:1 ||	* yat yat dRSyam aSezam tat SarIram tasya yoginaH || SivSV_1.13:1 ||
+   * aham ity apṛthaktvena pativat pratibhāsanāt || SivSV_1.13:2 ||	* aham iti apRTaktvena pati-vat pratiBAsanAt || SivSV_1.13:2 ||
+   * śarīraṃ dehadhīprāṇaśūnyarūpaṃ ghaṭādivat || SivSV_1.13:3 ||	* SarIram deha-DI-prANa-SUnya-rUpam Gawa-Adi-vat || SivSV_1.13:3 ||
+   * dṛśyam evāsya paśuvat draṣṭṛtvena na bhāsate || SivSV_1.13:4 ||	* dRSyam eva-asya paSu-vat drazwR-tvena na BAsate || SivSV_1.13:4 ||
+   * evaṃ dehe ca bāhye ca sarvatraivāsya yoginaḥ || SivSV_1.13:5 ||	* evam dehe ca bAhye ca sarvatra-eva-asya yoginaH || SivSV_1.13:5 ||
+   * mayūrāṇḍarasanyāyāt pratipattir abhedinī || SivSV_1.13:6 ||	* mayUra-aNxa-rasa-nyAyAt pratipattiH aBedinI || SivSV_1.13:6 ||
+   * dṛśyaṃ śarīratām eti śarīraṃ cāpi dṛśyatām || SivSV_1.13:7 ||	* dRSyam SarIra-tAm eti SarIram ca-api dRSyatAm || SivSV_1.13:7 ||
+   * ity uktaṃ yogino yat tan na durghaṭam itīryate || SivSV_1.13:8 ||	* iti uktam yoginaH yat tat na durGawam iti-Iryate || SivSV_1.13:8 ||
+   * hṛdaye cittasaṃghaṭṭād dṛśyasvāpadarśanam || SivSV_1.13:9 ||	* hRdaye citta-saMGawwAt dRSya-svApa-darSanam || SivSV_1.13:9 ||
+   * hṛdayaṃ tad vijānīyād viśvasyāyatanaṃ mahat || SivSV_1.13:10 ||	* hRdayam tat vijAnIyAt viSvasya-Ayatanam mahat || SivSV_1.13:10 ||
+   * ity uktanītyā hṛdayaṃ viśvaviśrāntibhittibhūḥ || SivSV_1.13:11 ||	* iti ukta-nItyA hRdayam viSva-viSrAnti-Bitti-BUH || SivSV_1.13:11 ||
+   * svasaṃvit tatra saṃghaṭṭaś cittasya calataḥ sataḥ || SivSV_1.13:12 ||	* sva-saMvid tatra saMGawwaH cittasya calataH sataH || SivSV_1.13:12 ||
+   * tadaikātmyaparāmarśajāgarūkasvabhāvatā || SivSV_1.13:13 ||	* tad-EkAtmya-parAmarSa-jAgarUka-svaBAva-tA || SivSV_1.13:13 ||
+   * tasmād dṛśyasya viśvasya nīladehādirūpiṇaḥ || SivSV_1.13:14 ||	* tasmAt dRSyasya viSvasya nIla-deha-Adi-rUpiNaH || SivSV_1.13:14 ||
+   * svāpasyaitadabhāvasya śūnyasyāpi ca darśanam || SivSV_1.13:15 ||	* svApasya-etat-aBAvasya SUnyasya-api ca darSanam || SivSV_1.13:15 ||
+   * svāṅgarūpeṣu bhāveṣu pramātā kathyate patiḥ || SivSV_1.13:16 ||	* sva-aFga-rUpezu BAvezu pramAtA kaTyate patiH || SivSV_1.13:16 ||
+   * iti śrīpratyabhijñoktanītyā patyur iva prabhoḥ || SivSV_1.13:17 ||	* iti SrI-pratyaBijQA-ukta-nItyA patyuH iva praBoH || SivSV_1.13:17 ||
+   * svāṅgakalpatayā tasya yathāvatprathanaṃ bhavet || SivSV_1.13:18 ||	* sva-aFga-kalpa-tayA tasya yaTAvat-praTanam Bavet || SivSV_1.13:18 ||
+   * ukte 'py evaṃ prameye 'sminn upāyāntaram ucyate || SivSV_1.13:19 ||]	* ukte api evam prameye asmin upAya-antaram ucyate || SivSV_1.13:19 ||]
+   śuddhatattvasaṃdhānād vāpaśuśaktiḥ // SivS_1.14 //	SudDa-tattva-saMDAnAt vA-apaSu-SaktiH // SivH-_1.14 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * śuddhaṃ tattvaṃ paraṃ vastu yat tat paraśivātmakam || SivSV_1.14:1 ||	* SudDam tattvam param vastu yat tat para-Siva-Atmakam || SivSV_1.14:1 ||
+   * tatsaṃdhānaṃ prapañcasya tanmayatvena bhāvanam || SivSV_1.14:2 ||	* tad-saMDAnam prapaQcasya tad-maya-tvena BAvanam || SivSV_1.14:2 ||
+   * tenaiva yasya paśvākhyā bandhaśaktir na vidyate || SivSV_1.14:3 ||	* tena-eva yasya paSu-AKyA banDa-SaktiH na vidyate || SivSV_1.14:3 ||
+   * tat sadāśivavatso 'pi viśvasya jagataḥ patiḥ || SivSV_1.14:4 ||	* tat sadASiva-vatsaH api viSvasya jagataH patiH || SivSV_1.14:4 ||
+   * śuddhatattvānusaṃdhānavata evāsya yoginaḥ || SivSV_1.14:5 ||]	* SudDa-tattva-anusaMDAnavataH eva-asya yoginaH || SivSV_1.14:5 ||]
+   vitarka ātmajñānam // SivS_1.15 //	vitarkaH Atma-jQAnam // SivH-_1.15 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * vitarkaḥ proktasaṃdhānadhvastabandhasya yoginaḥ || SivSV_1.15:1 ||	* vitarkaH prokta-saMDAna-Dvasta-banDasya yoginaH || SivSV_1.15:1 ||
+   * viśvātmā śiva evāham asmīty arthavicintanam || SivSV_1.15:2 ||	* viSvAtmA SivaH eva-aham asmi-iti arTa-vicintanam || SivSV_1.15:2 ||
+   * etad eva sphuradrūpam ātmano jñānam ucyate || SivSV_1.15:3 ||	* etat eva sPurat-rUpam AtmanaH jQAnam ucyate || SivSV_1.15:3 ||
+   * kiṃ cāsya proktavaitarkasvātmavijñānaśālinaḥ || SivSV_1.15:4 ||]	* kim ca-asya prokta-vEtarka-sva-Atma-vijQAna-SAlinaH || SivSV_1.15:4 ||]
+   lokānandaḥ samādhisukham // SivS_1.16 //	loka-AnandaH samADi-suKam // SivH-_1.16 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * lokyaṃ lokayitā ceti lokaś cetyacidātmani || SivSV_1.16:1 ||	* lokyam lokayitA ca-iti lokaH ca-ityacit-Atmani || SivSV_1.16:1 ||
+   * tattadrūpatayā tasmiṃ loke sphurati yoginaḥ || SivSV_1.16:2 ||	* tad-tad-rUpa-tayA tasmim loke sPurati yoginaH || SivSV_1.16:2 ||
+   * grāhyagrāhakasaṃvittiḥ sāmānyā sarvadehinām || SivSV_1.16:3 ||	* grAhya-grAhaka-saMvittiH sAmAnyA sarva-dehinAm || SivSV_1.16:3 ||
+   * yogināṃ tu viśeṣo 'yaṃ sambandhe sāvadhānatā || SivSV_1.16:4 ||	* yoginAm tu viSezaH ayam sambanDe sAvaDAna-tA || SivSV_1.16:4 ||
+   * ity uktanītyā tat sarvam aham ity anusaṃhiteḥ || SivSV_1.16:5 ||	* iti ukta-nItyA tat sarvam aham iti anusaMhiteH || SivSV_1.16:5 ||
+   * ānando yo bhavaty antas tat samādhisukhaṃ smṛtam || SivSV_1.16:6 ||	* AnandaH yaH Bavati antar tat samADi-suKam smRtam || SivSV_1.16:6 ||
+   * yat samādhisukhaṃ tasya svātmārāmasya yoginaḥ || SivSV_1.16:7 ||	* yat samADi-suKam tasya sva-Atma-ArAmasya yoginaH || SivSV_1.16:7 ||
+   * tad eva loke lokānām ānando 'ntarvicinvatām || SivSV_1.16:8 ||	* tat eva loke lokAnAm AnandaH antar-vicinvatAm || SivSV_1.16:8 ||
+   * vibhūtiyogam etasya darśayaty atha yoginaḥ || SivSV_1.16:9 ||]	* viBUti-yogam etasya darSayati aTa yoginaH || SivSV_1.16:9 ||]
+   śaktisaṃdhāne śarīrotpattiḥ // SivS_1.17 //	Sakti-saMDAne SarIra-utpattiH // SivH-_1.17 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * icchā śaktir umety ādisūtroktā śaktir asya yā || SivSV_1.17:1 ||	* icCA SaktiH umA-iti Adi-sUtra-uktA SaktiH asya yA || SivSV_1.17:1 ||
+   * saṃdhāne yoginas tasyās tanmayībhāvane sati || SivSV_1.17:2 ||	* saMDAne yoginaH tasyAH tanmayIBAvane sati || SivSV_1.17:2 ||
+   * tadvaśāt tattadicchārhaśarīrotpattir iṣyate || SivSV_1.17:3 ||	* tad-vaSAt tad-tad-icCA-arha-SarIra-utpattiH izyate || SivSV_1.17:3 ||
+   * anyāś ca siddhayas tasya sambhavantīty udīryate || SivSV_1.17:4 ||]	* anyAH ca sidDayaH tasya samBavanti-iti udIryate || SivSV_1.17:4 ||]
+   bhūtasaṃdhānabhūtapṛthaktvaviśvasaṃghaṭṭāḥ // SivS_1.18 //	BUta-saMDAna-BUta-pRTaktva-viSva-saMGawwAH // SivH-_1.18 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * bhūtānāṃ dehadhīprāṇaśūnyānāṃ grāhakātmanām || SivSV_1.18:1 ||	* BUtAnAm deha-DI-prANa-SUnyAnAm grAhaka-AtmanAm || SivSV_1.18:1 ||
+   * grāhyāṇāṃ sthāvarāṇāṃ ca saṃdhānaṃ paripoṣaṇam || SivSV_1.18:2 ||	* grAhyANAm sTAvarANAm ca saMDAnam paripozaNam || SivSV_1.18:2 ||
+   * pṛthaktvam atha viśleṣo vyādhyādikleśaśāntaye || SivSV_1.18:3 ||	* pRTaktvam aTa viSlezaH vyADi-Adi-kleSa-SAntaye || SivSV_1.18:3 ||
+   * viśvasya deśakālādiviprakṛṣṭasya yat punaḥ || SivSV_1.18:4 ||	* viSvasya deSa-kAla-Adi-viprakRzwasya yat punar || SivSV_1.18:4 ||
+   * saṃghaṭṭaś cakṣurādyakṣapratyakṣīkaraṇādikam || SivSV_1.18:5 ||	* saMGawwaH cakzuH-Adi-akza-pratyakzIkaraNa-Adikam || SivSV_1.18:5 ||
+   * etat sarvaṃ bhavec chaktisaṃdhāne sati yoginaḥ || SivSV_1.18:6 ||	* etat sarvam Bavet Sakti-saMDAne sati yoginaH || SivSV_1.18:6 ||
+   * yadā parimitāḥ siddhīr anicchan punar icchati || SivSV_1.18:7 ||	* yadA parimitAH sidDIH anicCan punar icCati || SivSV_1.18:7 ||
+   * viśvātmatāprathārūpāṃ parāṃ siddhiṃ tadāsya tu || SivSV_1.18:8 ||]	* viSva-Atma-tA-praTA-rUpAm parAm sidDim tadA-asya tu || SivSV_1.18:8 ||]
+   śuddhavidyodayāc cakreśatvasiddhiḥ // SivS_1.19 //	SudDa-vidyA-udayAt cakra-ISa-tva-sidDiH // SivH-_1.19 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * vaiśvātmyaprathanākāṅkṣī saṃdhatte śaktim ātmanaḥ || SivSV_1.19:1 ||	* vESvAtmya-praTana-AkAFkzI saMDatte Saktim AtmanaH || SivSV_1.19:1 ||
+   * yadā yogī tadā tasya sadāśivapadaspṛśaḥ || SivSV_1.19:2 ||	* yadA yogI tadA tasya sadASiva-pada-spRSaH || SivSV_1.19:2 ||
+   * īśvaro bahir unmeṣo nimeṣo 'ntaḥ sadāśivaḥ || SivSV_1.19:3 ||	* ISvaraH bahis unmezaH nimezaH antar sadASivaH || SivSV_1.19:3 ||
+   * sāmānādhikaraṇyaṃ ca sadvidyāhamidaṃdhiyoḥ || SivSV_1.19:4 ||	* sAmAnADikaraNyam ca sat-vidyA-aham-idaMDiyoH || SivSV_1.19:4 ||
+   * iti nītyā jagat sarvam aham eveti yā matiḥ || SivSV_1.19:5 ||	* iti nItyA jagat sarvam aham eva-iti yA matiH || SivSV_1.19:5 ||
+   * sā śuddhā nirmalā vidyā tadīyād udayāt sphuṭam || SivSV_1.19:6 ||	* sA SudDA nirmalA vidyA tadIyAt udayAt sPuwam || SivSV_1.19:6 ||
+   * unmajjanāt sa cicchaktim ātmano nityam āmṛśet || SivSV_1.19:7 ||	* unmajjanAt sa cit-Saktim AtmanaH nityam AmRSet || SivSV_1.19:7 ||
+   * yadā yogī tadā tasya cakreśatvam anuttaram || SivSV_1.19:8 ||	* yadA yogI tadA tasya cakra-ISa-tvam anuttaram || SivSV_1.19:8 ||
+   * māheśvaryaṃ samāveśotkarṣāt sidhyati yoginaḥ || SivSV_1.19:9 ||	* mAheSvaryam samAveSa-utkarzAt siDyati yoginaH || SivSV_1.19:9 ||
+   * viśvātmakataduttīrṇasvātmārāmatvam eva saḥ || SivSV_1.19:10 ||	* viSvAtmaka-tad-uttIrNa-sva-Atma-ArAma-tvam eva saH || SivSV_1.19:10 ||
+   * icchati svacchacidrūpo yadā yogī tadāsya tu || SivSV_1.19:11 ||]	* icCati svacCa-cit-rUpaH yadA yogI tadA-asya tu || SivSV_1.19:11 ||]
+   mahāhradānusaṃdhānān mantravīryānubhavaḥ // SivS_1.20 //	mahAhrada-anusaMDAnAn mantra-vIrya-anuBavaH // SivH-_1.20 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * parā bhaṭṭārikā saṃvidicchāśaktipuraḥsaram || SivSV_1.20:1 ||	* parA BawwArikA saMvid-icCA-Sakti-puraHsaram || SivSV_1.20:1 ||
+   * sthūlaprameyaparyantaṃ vamantī viśvam āntaram || SivSV_1.20:2 ||	* sTUla-prameya-paryantam vamantI viSvam Antaram || SivSV_1.20:2 ||
+   * pramātrantarbahīrūpahṛṣīkaviṣayātmanām || SivSV_1.20:3 ||	* pramAtR-antar-bahIrUpa-hRzIka-vizaya-AtmanAm || SivSV_1.20:3 ||
+   * khecaryādipravāhāṇāṃ bāhyābhyantararūpiṇām || SivSV_1.20:4 ||	* KecarI-Adi-pravAhANAm bAhya-aByantara-rUpiNAm || SivSV_1.20:4 ||
+   * pravartakatvāt svacchatvagambhīratvādidharmataḥ || SivSV_1.20:5 ||	* pravartaka-tvAt svacCa-tva-gamBIra-tva-Adi-DarmataH || SivSV_1.20:5 ||
+   * mahāhrado jagadvyāpī deśakālādyagocaraḥ || SivSV_1.20:6 ||	* mahAhradaH jagat-vyApI deSa-kAla-Adi-agocaraH || SivSV_1.20:6 ||
+   * antas tasyānusaṃdhānāt tādātmyasyāvamarśanāt || SivSV_1.20:7 ||	* antar tasya-anusaMDAnAt tAdAtmyasya-avamarSanAt || SivSV_1.20:7 ||
+   * akārādikṣakārāntaśabdarāśiprathātmanaḥ || SivSV_1.20:8 ||	* akAra-Adi-kzakAra-anta-Sabda-rASi-praTA-AtmanaH || SivSV_1.20:8 ||
+   * kṣityādiśivaparyantatattvāntaḥkṣobhakāriṇaḥ || SivSV_1.20:9 ||	* kziti-Adi-Siva-paryanta-tattva-antar-kzoBa-kAriNaH || SivSV_1.20:9 ||
+   * mantravīryasya sarveṣāṃ mantrāṇāṃ prāṇarūpiṇaḥ || SivSV_1.20:10 ||	* mantra-vIryasya sarvezAm mantrANAm prANa-rUpiNaH || SivSV_1.20:10 ||
+   * parāhaṃtāparāmarśamayasyānubhavaḥ sphuṭam || SivSV_1.20:11 ||	* para-ahaMtA-parAmarSa-mayasya-anuBavaH sPuwam || SivSV_1.20:11 ||
+   * akhilaṃ vācakaṃ vācyam aham ity avamarśanam || SivSV_1.20:12 ||	* aKilam vAcakam vAcyam aham iti avamarSanam || SivSV_1.20:12 ||
+   * yoginaḥ sāvadhānasya bhavatīty eva śiṣyate || SivSV_1.20:13 ||	* yoginaH sa-avaDAnasya Bavati-iti eva Sizyate || SivSV_1.20:13 ||
+   * sphuṭīkaromi saṃkṣepāt tat prameyaṃ puroditam || SivSV_1.20:14 ||	* sPuwIkaromi saMkzepAt tat prameyam purA-uditam || SivSV_1.20:14 ||
+   * mahāhrada iti proktā śaktir bhagavatī parā || SivSV_1.20:15 ||	* mahAhradaH iti proktA SaktiH BagavatI parAH || SivSV_1.20:15 ||
+   * anusaṃdhānam ity uktaṃ tattādātmyavimarśanam || SivSV_1.20:16 ||	* anusaMDAnam iti uktam tad-tAdAtmya-vimarSanam || SivSV_1.20:16 ||
+   * mantravīryam iti proktaṃ pūrṇāhaṃtāvimarśanam || SivSV_1.20:17 ||	* mantra-vIryam iti proktam pUrNa-ahaMtA-vimarSanam || SivSV_1.20:17 ||
+   * tadīyo 'nubhavas tasya sphuraṇaṃ svātmanaḥ sphuṭam || SivSV_1.20:18 ||	* tadIyaH anuBavaH tasya sPuraNam sva-AtmanaH sPuwam || SivSV_1.20:18 ||
+   * iti śrīśāmbhavopāyaprakāśanaparāyaṇaḥ || SivSV_1.20:19 ||	* iti SrI-SAmBavopAya-prakASana-parAyaNaH || SivSV_1.20:19 ||
+   * unmeṣaḥ prathamaḥ samyaksvarūponmeṣalakṣaṇaḥ || SivSV_1.20:20 ||]	* unmezaH praTamaH samyak-svarUpa-unmeza-lakzaNaH || SivSV_1.20:20 ||]
+   śivasūtra, dvitīya unmeṣa	SivasUtra, dvitIyaH unmeza
+   cittaṃ mantraḥ // SivS_2.1 //	cittam mantraH // SivH-_2.1 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * cetyate 'nena paramaṃ svātmatattvaṃ vimṛśyate || SivSV_2.1:1 ||	* cetyate anena paramam sva-Atma-tattvam vimRSyate || SivSV_2.1:1 ||
+   * iti cittaṃ sphurattātmaprāsādādivimarśanam || SivSV_2.1:2 ||	* iti cittam sPurat-tA-Atma-prAsAda-Adi-vimarSanam || SivSV_2.1:2 ||
+   * tad eva mantryate guptam abhedena vimṛśyate || SivSV_2.1:3 ||	* tat eva mantryate guptam aBedena vimRSyate || SivSV_2.1:3 ||
+   * svasvarūpam aneneti mantras tenāsya daiśikaiḥ || SivSV_2.1:4 ||	* sva-svarUpam anena-iti mantraH tena-asya dESikEH || SivSV_2.1:4 ||
+   * pūrṇāhaṃtānusaṃdhyātmasphūrjanmananadharmatā || SivSV_2.1:5 ||	* pUrNa-ahaMtA-anusaMDi-Atma-sPUrjat-manana-Darma-tA || SivSV_2.1:5 ||
+   * saṃsārakṣayakṛttrāṇadharmatā ca nirucyate || SivSV_2.1:6 ||	* saMsAra-kzaya-kRt-trANa-Darma-tA ca nirucyate || SivSV_2.1:6 ||
+   * tanmantradevatāmarśaprāptatatsāmarasyakam || SivSV_2.1:7 ||	* tad-mantra-devatA-AmarSa-prApta-tad-sAmarasyakam || SivSV_2.1:7 ||
+   * ārādhakasya cittaṃ ca mantras taddharmayogataḥ || SivSV_2.1:8 ||	* ArADakasya cittam ca mantraH tad-Darma-yogataH || SivSV_2.1:8 ||
+   * asya coktasya mantrasya mananatrāṇadharmiṇaḥ || SivSV_2.1:9 ||]	* asya ca-uktasya mantrasya manana-trANa-DarmiNaH || SivSV_2.1:9 ||]
+   prayatnaḥ sādhakaḥ // SivS_2.2 //	prayatnaH sADakaH // SivH-_2.2 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * uktamantrānusaṃdhānāvaṣṭambhodyantṛtātmakaḥ || SivSV_2.2:1 ||	* ukta-mantra-anusaMDAna-avazwamBa-udyantRta-AtmakaH || SivSV_2.2:1 ||
+   * prayatno 'ntaḥsvasaṃrambhaḥ sa eva khalu sādhakaḥ || SivSV_2.2:2 ||	* prayatnaH antar-sva-saMramBaH saH eva Kalu sADakaH || SivSV_2.2:2 ||
+   * yato mantrayitur mantradevataikyapradaḥ smṛtaḥ || SivSV_2.2:3 ||	* yatas mantrayituH mantradevatA-Ekya-pradaH smRtaH || SivSV_2.2:3 ||
+   * īdṛksādhakasādhyasya mantrasya prathamoditam || SivSV_2.2:4 ||	* IdRS-sADaka-sADyasya mantrasya praTama-uditam || SivSV_2.2:4 ||
+   * vīryaṃ vistarataḥ samyag varṇyate 'tha salakṣaṇam || SivSV_2.2:5 ||]	* vIryam vistarataH samyak varNyate aTa sa-lakzaNam || SivSV_2.2:5 ||]
+   vidyāśarīrasattā mantrarahasyam // SivS_2.3 //	vidyA-SarIra-sattAH mantra-rahasyam // SivH-_2.3 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * vidyeti paramādvaitasampravedanarūpiṇī || SivSV_2.3:1 ||	* vidyA-iti parama-advEta-sampravedana-rUpiNI || SivSV_2.3:1 ||
+   * śarīraṃ yasya bhagavān śabdarāśiḥ sa ucyate || SivSV_2.3:2 ||	* SarIram yasya BagavAn SabdarASiH saH ucyate || SivSV_2.3:2 ||
+   * tasya sattā samastādhvapūrṇāhaṃtāsvarūpiṇī || SivSV_2.3:3 ||	* tasya sattA samasta-aDva-pUrNa-ahaMtA-svarUpiNI || SivSV_2.3:3 ||
+   * sphurattā saiva mantrāṇāṃ mananatrāṇadharmiṇām || SivSV_2.3:4 ||	* sPurat-tA sA-eva mantrANAm manana-trANa-DarmiNAm || SivSV_2.3:4 ||
+   * guptārthatāyā jananaṃ rahasyam iti kathyate || SivSV_2.3:5 ||	* gupta-arTa-tAyAH jananam rahasyam iti kaTyate || SivSV_2.3:5 ||
+   * etac chrīkṣemarājena tantrasārāt samuddhṛtaiḥ || SivSV_2.3:6 ||	* etat SrI-kzemarAjena tantra-sArAt samudDRtEH || SivSV_2.3:6 ||
+   * saṃvādaiḥ saṃmataiḥ samyagvarṇitaṃ nijavṛttigaiḥ || SivSV_2.3:7 ||	* saMvAdEH saMmatEH samyak-varNitam nija-vRtti-gEH || SivSV_2.3:7 ||
+   * samyag evaṃvidhaṃ mantravīryaṃ yeṣāṃ yathātatham || SivSV_2.3:8 ||	* samyak evaMviDam mantra-vIryam yezAm yaTAtaTam || SivSV_2.3:8 ||
+   * mahāhradānusaṃdhānaprakārāveditaṃ tv api || SivSV_2.3:9 ||	* mahA-hrada-anusaMDAna-prakAra-Aveditam tu api || SivSV_2.3:9 ||
+   * icchayaiva maheśasya hṛdayaṃgamatāṃ dṛḍham || SivSV_2.3:10 ||	* icCayA-eva maheSasya hRdayaMgama-tAm dRXam || SivSV_2.3:10 ||
+   * na gacchaty atha tucchāyāṃ cittaṃ siddhau prarohati || SivSV_2.3:11 ||	* na gacCati aTa tucCAyAm cittam sidDO prarohati || SivSV_2.3:11 ||
+   * bindunādādijātāyāṃ teṣāṃ tu mitayoginām || SivSV_2.3:12 ||]	* bindu-nAda-Adi-jAtAyAm tezAm tu mita-yoginAm || SivSV_2.3:12 ||]
+   garbhe cittavikāso 'viśiṣṭavidyāsvapnaḥ // SivS_2.4 //	garBe citta-vikAsaH aviSizwa-vidyA-svapnaH // SivH-_2.4 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * garbho 'khyātir mahāmāyā tanmaye siddhisaṃcaye || SivSV_2.4:1 ||	* garBaH aKyAtiH mahAmAyA tad-maye sidDi-saMcaye || SivSV_2.4:1 ||
+   * vikāso nāma cittasya tāvanmātre kṛtārthatā || SivSV_2.4:2 ||	* vikAsaH nAma cittasya tAvat-mAtre kRtArTa-tA || SivSV_2.4:2 ||
+   * saivāviśiṣṭā vidyeti kiṃcijjñatvasvarūpiṇī || SivSV_2.4:3 ||	* sA-eva-aviSizwA vidyA-iti kiMcijjQatva-svarUpiNI || SivSV_2.4:3 ||
+   * aśuddhavidyā sā svapno vikalpapratyayāmakaḥ || SivSV_2.4:4 ||	* aSudDa-vidyA sA svapnaH vikalpa-pratyayAmakaH || SivSV_2.4:4 ||
+   * āgatā api tāḥ siddhīḥ khalīkṛtya yadā punaḥ || SivSV_2.4:5 ||	* AgatAH api tAH sidDIH KalIkRtya yadA punar || SivSV_2.4:5 ||
+   * avaṣṭabhnāty asau yogī parāṃ siddhiṃ tadāśnute || SivSV_2.4:6 ||]	* avazwaBnAti asO yogI parAm sidDim tadA-aSnute || SivSV_2.4:6 ||]
+   vidyāsamutthāne svābhāvike khecarī śivāvasthā // SivS_2.5 //	vidyA-samutTAne svABAvike KecarI Siva-avasTA // SivH-_2.5 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * vidyāyāḥ prāksamākhyātarūpāyāḥ śaṃkarecchayā || SivSV_2.5:1 ||	* vidyAyAH prAk-samAKyAta-rUpAyAH SaMkara-icCayA || SivSV_2.5:1 ||
+   * svābhāvike samutthāne samullāse svabhāvaje || SivSV_2.5:2 ||	* svABAvike samutTAne samullAse svaBAva-je || SivSV_2.5:2 ||
+   * unmajjane sati kṣudrasiddhimajjanatatpare || SivSV_2.5:3 ||	* unmajjane sati kzudra-sidDi-majjana-tatpare || SivSV_2.5:3 ||
+   * avasthā yā śivasyāntaravasthātur abhedinī || SivSV_2.5:4 ||	* avasTA yA Sivasya-antar-avasTAtuH aBedinI || SivSV_2.5:4 ||
+   * sphurattā saiva sampūrṇasvānandocchalanātmikām || SivSV_2.5:5 ||	* sPurat-tA sA-eva sampUrNa-sva-Ananda-ucCalana-AtmikAm || SivSV_2.5:5 ||
+   * mudaṃ rātīty ato mudrā khecarī ca nabhaścarī || SivSV_2.5:6 ||	* mudam rAti-iti atas mudrA KecarI ca naBaScarI || SivSV_2.5:6 ||
+   * vyajyate yogino viśvag viśvottīrṇasvarūpiṇaḥ || SivSV_2.5:7 ||	* vyajyate yoginaH viSvak viSva-uttIrNa-svarUpiNaH || SivSV_2.5:7 ||
+   * evaṃprabhāvayor vīryāsādane mantramudrayoḥ || SivSV_2.5:8 ||]	* evaMpraBAvayoH vIrya-AsAdane mantra-mudrayoH || SivSV_2.5:8 ||]
+   gurur upāyaḥ // SivS_2.6 //	guruH upAyaH // SivH-_2.6 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * samyagjñānakriyāprāṇamantramudrāyathāsthitim || SivSV_2.6:1 ||	* samyak-jQAna-kriyA-prANa-mantra-mudrA-yaTA-sTitim || SivSV_2.6:1 ||
+   * gṛṇāty upadiśaty arthaṃ tadvīryaṃ cety ato guruḥ || SivSV_2.6:2 ||	* gRNAti upadiSati arTam tat-vIryam ca-iti atas guruH || SivSV_2.6:2 ||
+   * sa eva mantramudrāṇāṃ vīryavyāptiprakāśanāt || SivSV_2.6:3 ||	* saH eva mantra-mudrANAm vIrya-vyApti-prakASanAt || SivSV_2.6:3 ||
+   * upāyaḥ kathyate sākṣād upeyaṃ paramaṃ prati || SivSV_2.6:4 ||	* upAyaH kaTyate sAkzAt upeyam paramam prati || SivSV_2.6:4 ||
+   * yad vā guruḥ parā śaktir īśvarānugrahātmikā || SivSV_2.6:5 ||	* yat vA guruH parA SaktiH ISvara-anugraha-AtmikAH || SivSV_2.6:5 ||
+   * avakāśapradānena saiva yāyād upāyatām || SivSV_2.6:6 ||	* avakASa-pradAnena sA-eva yAyAt upAya-tAm || SivSV_2.6:6 ||
+   * sa gurur matsamaḥ prokto mantravīryaprakāśakaḥ || SivSV_2.6:7 ||	* sa guruH mad-samaH proktaH mantra-vIrya-prakASakaH || SivSV_2.6:7 ||
+   * ādimāntyavihīnās tu mantrāḥ syuḥ śaradabhravat || SivSV_2.6:8 ||	* AdimAntya-vihInAH tu mantrAH syuH Sarad-aBra-vat || SivSV_2.6:8 ||
+   * guror lakṣaṇam etāvad ādimāntyaṃ ca vedayet || SivSV_2.6:9 ||	* guroH lakzaNam etAvat AdimAntyam ca vedayet || SivSV_2.6:9 ||
+   * iti śrīmālinīśāstrasiddhātantroktavaibhavāt || SivSV_2.6:10 ||	* iti SrI-mAlinISAstra-sidDAtantra-ukta-vEBavAt || SivSV_2.6:10 ||
+   * akṛtrimāhamāmarśasvarūpādyantavedakāt || SivSV_2.6:11 ||	* akRtrima-aham-AmarSa-svarUpa-Adi-anta-vedakAt || SivSV_2.6:11 ||
+   * parameṣṭhisamāt tasmāt paramopāyato guroḥ || SivSV_2.6:12 ||]	* paramezWi-samAt tasmAt parama-upAyataH guroH || SivSV_2.6:12 ||]
+   mātṛkācakrasaṃbodhaḥ // SivS_2.7 //	mAtRkA-cakra-saMboDaH // SivH-_2.7 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * mantramudrānusaṃdhānasaṃtatodyuktacetasaḥ || SivSV_2.7:1 ||	* mantra-mudrA-anusaMDAna-saMtata-udyukta-cetasaH || SivSV_2.7:1 ||
+   * bhavaty uktaguroḥ prītāt sādhakasyeti śiṣyate || SivSV_2.7:2 ||	* Bavati ukta-guroH prItAt sADakasya-iti Sizyate || SivSV_2.7:2 ||
+   * athādyās tithayaḥ sarve svarā bindvavasānagāḥ || SivSV_2.7:3 ||	* aTa-AdyAH tiTayaH sarve svarAH bindu-avasAna-gAH || SivSV_2.7:3 ||
+   * tadantaḥ kālayogena somasūryau prakīrtitau || SivSV_2.7:4 ||	* tad-antar kAla-yogena soma-sUryO prakIrtitO || SivSV_2.7:4 ||
+   * pṛthivyādīni tattvāni puruṣāntāni pañcasu || SivSV_2.7:5 ||	* pRTivI-AdIni tattvAni puruza-antAni paQcasu || SivSV_2.7:5 ||
+   * kramāt kādiṣu vargeṣu makārānteṣu suvrate || SivSV_2.7:6 ||	* kramAt ka-Adizu vargezu makAra-antezu suvrate || SivSV_2.7:6 ||
+   * vāyvagnisalilendrāṇāṃ dhāraṇānāṃ catuṣṭayam || SivSV_2.7:7 ||	* vAyu-agni-salila-indrANAm DAraNAnAm catuzwayam || SivSV_2.7:7 ||
+   * tadūrdhve śādi vikhyātaṃ purastād brahmapañcakam || SivSV_2.7:8 ||	* tad-UrDve SAdi viKyAtam purastAt brahmapaQcakam || SivSV_2.7:8 ||
+   * amūlā tatkramāj jñeyā kṣāntā sṛṣṭir udāhṛtā || SivSV_2.7:9 ||	* amUlA tad-kramAt jQeyA kzAntA sRzwiH udAhRtAH || SivSV_2.7:9 ||
+   * sarveṣāṃ caiva mantrāṇāṃ vidyānāṃ ca yaśasvini || SivSV_2.7:10 ||	* sarvezAm ca-eva mantrANAm vidyAnAm ca yaSasvini || SivSV_2.7:10 ||
+   * iyaṃ yoniḥ samākhyātā sarvatantreṣu sarvadā || SivSV_2.7:11 ||	* iyam yoniH samAKyAtA sarva-tantrezu sarvadA || SivSV_2.7:11 ||
+   * iti śrītrīśikāśāstraproktanyāyena mātṛkā || SivSV_2.7:12 ||	* iti SrI-trISikA-SAstra-prokta-nyAyena mAtRkAH || SivSV_2.7:12 ||
+   * akārādivisargāntasvaraṣoḍaśagarbhiṇī || SivSV_2.7:13 ||	* akAra-Adi-visarga-anta-svara-zoxaSa-garBiNI || SivSV_2.7:13 ||
+   * ata evādibindvantadaśapañcatithikramā || SivSV_2.7:14 ||	* atas eva-Adi-bindu-anta-daSa-paQcatiTi-kramAH || SivSV_2.7:14 ||
+   * tadātmakataduttīrṇabindudvandvavibhūṣitā || SivSV_2.7:15 ||	* tad-Atmaka-tad-uttIrNa-bindu-dvandva-viBUzitAH || SivSV_2.7:15 ||
+   * ata eva jagat sarvaṃ sṛjaty antar anuttare || SivSV_2.7:16 ||	* atas eva jagat sarvam sRjati antar anuttare || SivSV_2.7:16 ||
+   * tat pañcadaśakasyāntaruddhṛtaiḥ pañcabhiḥ svaraiḥ || SivSV_2.7:17 ||	* tat paQcadaSakasya-antar-udDRtEH paQcaBiH svarEH || SivSV_2.7:17 ||
+   * a i u ṛ ḷ vinyāsaiḥ kādimāntaṃ ca vācakam || SivSV_2.7:18 ||	* a i u R ? vinyAsEH kAdi-mAntam ca vAcakam || SivSV_2.7:18 ||
+   * kṣityādipuruṣāntaṃ ca vācyaṃ tattvakadambakam || SivSV_2.7:19 ||	* kziti-Adi-puruza-antam ca vAcyam tattva-kadambakam || SivSV_2.7:19 ||
+   * pañcapañcakabhedena pañcapañcavijṛmbhitam || SivSV_2.7:20 ||	* paQca-paQcaka-Bedena paQca-paQca-vijRmBitam || SivSV_2.7:20 ||
+   * bahiś cānuttarād eva sṛjatī viśvam īdṛśam || SivSV_2.7:21 ||	* bahis ca-anuttarAt eva sRjatI viSvam IdRSam || SivSV_2.7:21 ||
+   * vāyvagnisalilendrāṇāṃ kramād ya ra la vātmanām || SivSV_2.7:22 ||	* vAyu-agni-salila-indrANAm kramAt yaH ra la vA-AtmanAm || SivSV_2.7:22 ||
+   * anuttarecchonmeṣākhyatritayānyonyasaṃdhitaḥ || SivSV_2.7:23 ||	* anuttara-icCA-unmeza-AKya-tritaya-anyonya-saMDitaH || SivSV_2.7:23 ||
+   * kiṃcānuttaraṣaṇḍhākhyadvayasaṃdhivaśād api || SivSV_2.7:24 ||	* kiMca-anuttara-zaNXa-AKya-dvaya-saMDi-vaSAt api || SivSV_2.7:24 ||
+   * utthitānāṃ kalāvidyāmāyārāgābhidhāyinām || SivSV_2.7:25 ||	* utTitAnAm kalA-vidyA-mAyA-rAga-aBiDAyinAm || SivSV_2.7:25 ||
+   * svarūpagopanāt sarvakartṛtvādyapasārataḥ || SivSV_2.7:26 ||	* sva-rUpa-gopanAt sarva-kartR-tva-Adi-apasArataH || SivSV_2.7:26 ||
+   * khaṇḍitasya paśoḥ kiṃcitkartṛtvādipradāyinām || SivSV_2.7:27 ||	* KaNxitasya paSoH kiMcitkartR-tva-Adi-pradAyinAm || SivSV_2.7:27 ||
+   * māyordhvaśuddhavidyāditattvārohanirodhanāt || SivSV_2.7:28 ||	* mAyA-UrDva-SudDa-vidyA-Adi-tattva-Aroha-niroDanAt || SivSV_2.7:28 ||
+   * mūlād adho 'varohasya nirodhāc ca triśaṇkuvat || SivSV_2.7:29 ||	* mUlAt aDas avarohasya niroDAt ca triSaNku-vat || SivSV_2.7:29 ||
+   * madhye saṃsthāpitasyāsya dhāraṇād dhāraṇātmanām || SivSV_2.7:30 ||	* maDye saMsTApitasya-asya DAraNAt DAraNa-AtmanAm || SivSV_2.7:30 ||
+   * yatis tu bhāvābhāvānāṃ vyavasthodayadāyinī || SivSV_2.7:31 ||	* yatiH tu BAva-aBAvAnAm vyavasTA-udaya-dAyinI || SivSV_2.7:31 ||
+   * kālo 'pi tāṃ mahāmāyāṃ svatantrām anuvartate || SivSV_2.7:32 ||	* kAlaH api tAm mahAmAyAm svatantrAm anuvartate || SivSV_2.7:32 ||
+   * ityuktyā kālaniyatiyuktatvāt ṣaḍvidhātmanām || SivSV_2.7:33 ||	* iti-uktyA kAla-niyati-yukta-tvAt zaxviDa-AtmanAm || SivSV_2.7:33 ||
+   * sphārayantī vapuḥ paścāt tadūrdhvaṃ śādipañcakam || SivSV_2.7:34 ||	* sPArayantI vapuH paScAt tad-UrDvam SAdi-paQcakam || SivSV_2.7:34 ||
+   * sadyojātādikeśānaparyantabrahmavigraham || SivSV_2.7:35 ||	* sadyojAta-Adika-ISAna-paryanta-brahma-vigraham || SivSV_2.7:35 ||
+   * sūkṣmarūpamahīvārivahnivāyunabhomayam || SivSV_2.7:36 ||	* sUkzma-rUpa-mahI-vAri-vahni-vAyu-naBaH-mayam || SivSV_2.7:36 ||
+   * krameṇa śuddhavidyeśasādaśaktiśivātmakam || SivSV_2.7:37 ||	* krameNa SudDa-vidyA-ISa-sAda-Sakti-Siva-Atmakam || SivSV_2.7:37 ||
+   * visphārayantī svāntaḥsthaṃ visargakalayā bahiḥ || SivSV_2.7:38 ||	* visPArayantI sva-antaHsTam visarga-kalayA bahis || SivSV_2.7:38 ||
+   * kādisāntākṣarāntasthaḥ kṣakāro 'py antimo yataḥ || SivSV_2.7:39 ||	* kAdi-sAnta-akzara-anta-sTaH kzakAraH api antimaH yatas || SivSV_2.7:39 ||
+   * ato 'kārahakārābhyām aham ity apṛthaktayā || SivSV_2.7:40 ||	* atas akAra-hakArAByAm aham iti apRTaktayA || SivSV_2.7:40 ||
+   * prapaṃcaṃ śivaśaktibhyāṃ kroḍīkṛtya prakāśate || SivSV_2.7:41 ||	* prapaMcam Siva-SaktiByAm kroxIkRtya prakASate || SivSV_2.7:41 ||
+   * asyās tv evaṃprabhāvāyāś cakraṃ yat tad ihoditam || SivSV_2.7:42 ||	* asyAH tu evaMpraBAvAyAH cakram yat tat iha-uditam || SivSV_2.7:42 ||
+   * anuttarecchonmeṣādispandaśaktikadambakam || SivSV_2.7:43 ||	* anuttara-icCA-unmeza-Adi-spanda-Sakti-kadambakam || SivSV_2.7:43 ||
+   * tatsaṃbodhaś cidānandaghanasvātmānusaṃhitiḥ || SivSV_2.7:44 ||	* tad-saMboDaH cit-Ananda-Gana-sva-Atma-anusaMhitiH || SivSV_2.7:44 ||
+   * athedṛṅmātṛkācakrasaṃbodhodbodhitātmanaḥ || SivSV_2.7:45 ||]	* aTa-IdRS-mAtRkA-cakra-saMboDa-udboDita-AtmanaH || SivSV_2.7:45 ||]
+   śarīraṃ haviḥ // SivS_2.8 //	SarIram haviH // SivH-_2.8 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * śūnyaṃ dhīḥ prāṇa ity etat sṛjyate kṣīyate 'pi ca || SivSV_2.8:1 ||	* SUnyam DIH prANaH iti etat sRjyate kzIyate api ca || SivSV_2.8:1 ||
+   * sthairyam asti paraṃ dehāpekṣayā na tu tattvataḥ || SivSV_2.8:2 ||	* sTEryam asti param deha-apekzayA na tu tattvataH || SivSV_2.8:2 ||
+   * ity uktanītyā śūnyādeḥ pramātā tv asya bhittibhūḥ || SivSV_2.8:3 ||	* iti ukta-nItyA SUnya-AdeH pramAtA tu asya Bitti-BUH || SivSV_2.8:3 ||
+   * śarīraṃ sthūlasūkṣmādi cidagnau parayoginaḥ || SivSV_2.8:4 ||	* SarIram sTUla-sUkzma-Adi cit-agnO para-yoginaH || SivSV_2.8:4 ||
+   * hūyamānaṃ haviḥ proktaṃ tanmātṛtvanimajjanāt || SivSV_2.8:5 ||	* hUyamAnam haviH proktam tad-mAtR-tva-nimajjanAt || SivSV_2.8:5 ||
+   * paripūrṇaprakāśātmapramātrunmajjanapradāt || SivSV_2.8:6 ||	* paripUrNa-prakASa-Atma-pramAtR-unmajjana-pradAt || SivSV_2.8:6 ||
+   * evaṃ śarīrahavyena jvaladbodhordhvarociṣaḥ || SivSV_2.8:7 ||]	* evam SarIra-havyena jvalat-boDa-UrDva-rocizaH || SivSV_2.8:7 ||]
+   jñānam annam // SivS_2.9 //	jQAnam annam // SivH-_2.9 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * jñānaṃ bandha iti proktaṃ yat prāk tat parayoginaḥ || SivSV_2.9:1 ||	* jQAnam banDaH iti proktam yat prAk tat para-yoginaH || SivSV_2.9:1 ||
+   * anātmany ātmatājñaptir annaṃ grasyata ity ataḥ || SivSV_2.9:2 ||	* anAtmani Atma-tA-ajQaptiH annam grasyate iti atas || SivSV_2.9:2 ||
+   * kiṃ ca yad yat prakāśātmasvarūpāmarśanātmakam || SivSV_2.9:3 ||	* kim ca yat yat prakASa-Atma-svarUpa-AmarSana-Atmakam || SivSV_2.9:3 ||
+   * jñānaṃ tatparamāhlādakāritvād annam ucyate || SivSV_2.9:4 ||	* jQAnam tad-parama-AhlAda-kAri-tvAt annam ucyate || SivSV_2.9:4 ||
+   * yadā tv avahitaḥ śaśvad yogī naivaṃ bhavaty asau || SivSV_2.9:5 ||	* yadA tu avahitaH SaSvat yogI na-evam Bavati asO || SivSV_2.9:5 ||
+   * tadā jñānavato 'py asya samādhānāvalepataḥ || SivSV_2.9:6 ||]	* tadA jQAnavataH api asya samADAna-avalepataH || SivSV_2.9:6 ||]
+   vidyāsaṃhāre tadutthasvapnadarśanam // SivS_2.10 //	vidyA-saMhAre tad-utTa-svapna-darSanam // SivH-_2.10 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * vidyeti jñānavisphārarūpā yā tu puroditā || SivSV_2.10:1 ||	* vidyA-iti jQAna-visPAra-rUpA yA tu purA-uditA || SivSV_2.10:1 ||
+   * śuddhavidyātha saṃhāre 'nutthāne 'syā nimajjane || SivSV_2.10:2 ||	* SudDa-vidyA-aTa saMhAre anutTAne asyAH nimajjane || SivSV_2.10:2 ||
+   * tadutthasya krameṇāñcadvidyāsaṃhārajanmanaḥ || SivSV_2.10:3 ||	* tad-utTasya krameNa-aQcat-vidyA-saMhAra-janmanaH || SivSV_2.10:3 ||
+   * svapnasya bhedaniṣṭhasya vikalpaughasya darśanam || SivSV_2.10:4 ||	* svapnasya Beda-nizWasya vikalpa-oGasya darSanam || SivSV_2.10:4 ||
+   * unmajjanaṃ bhavaty asya prāgvyākhyātottamātmanaḥ || SivSV_2.10:5 ||	* unmajjanam Bavati asya prAc-vyAKyAta-uttama-AtmanaH || SivSV_2.10:5 ||
+   * avadhāne 'valiptasya sādhakasyeti śiṣyate || SivSV_2.10:6 ||	* avaDAne avaliptasya sADakasya-iti Sizyate || SivSV_2.10:6 ||
+   * iti dvitīya unmeṣaḥ śāktopāyaprakāśakaḥ || SivSV_2.10:7 ||]	* iti dvitIyaH unmezaH SAkta-upAya-prakASakaH || SivSV_2.10:7 ||]
+   śivasūtra, tṛtīya unmeṣa	SivasUtra, tRtIyaH unmeza
+   ātmā cittam // SivS_3.1 //	AtmA cittam // SivH-_3.1 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * viśeṣabhogyaśabdādivāsanāveśarūpitam || SivSV_3.1:1 ||	* viSeza-Bogya-Sabda-Adi-va-Asana-AveSa-rUpitam || SivSV_3.1:1 ||
+   * tattadadhyavasāyādivyāpārakaraṇonmukham || SivSV_3.1:2 ||	* tad-tad-aDyavasAya-Adi-vyApAra-karaNa-unmuKam || SivSV_3.1:2 ||
+   * sattvādivṛttyavaṣṭambhi buddhyahaṃkṛnmanomayam || SivSV_3.1:3 ||	* sattva-Adi-vRtti-avazwamBi budDi-ahaMkRt-manaH-mayam || SivSV_3.1:3 ||
+   * cittaṃ tat proktacaitanyasvarūpānavamarśanāt || SivSV_3.1:4 ||	* cittam tat prokta-cEtanya-svarUpa-anavamarSanAt || SivSV_3.1:4 ||
+   * tattatkarmānusāreṇa nānāyonīr anuvrajat || SivSV_3.1:5 ||	* tad-tad-karma-anusAreNa nAnA-yonIH anuvrajat || SivSV_3.1:5 ||
+   * atatīty ata evātmā tataḥ so 'ṇuḥ prakīrtitaḥ || SivSV_3.1:6 ||	* atati-iti atas eva-AtmA tatas saH aNuH prakIrtitaH || SivSV_3.1:6 ||
+   * ātmanaś cātanaṃ nāsti saṃvidekasvarūpiṇaḥ || SivSV_3.1:7 ||	* AtmanaH cAtanam na-asti saMvid-eka-svarUpiNaH || SivSV_3.1:7 ||
+   * ataś caitanyam ātmeti dhīkriyātmakam ātmanaḥ || SivSV_3.1:8 ||	* atas cEtanyam AtmA-iti DI-kriyA-Atmakam AtmanaH || SivSV_3.1:8 ||
+   * viśvasvabhāvabhūtaṃ tat tāttvikaṃ rūpam īritam || SivSV_3.1:9 ||	* viSva-svaBAva-BUtam tat tAttvikam rUpam Iritam || SivSV_3.1:9 ||
+   * idānīm etadīyena svātantryeṇāvabhāsitāt || SivSV_3.1:10 ||	* idAnIm etadIyena svAtantryeNa-avaBAsitAt || SivSV_3.1:10 ||
+   * saṃkocād aṇutāyogāc cittam ātmeti lakṣitam || SivSV_3.1:11 ||	* saMkocAt aNu-tA-yogAt cittam AtmA-iti lakzitam || SivSV_3.1:11 ||
+   * iti pūrvāparādeśavaiṣamyaṃ nāsti kiṃcana || SivSV_3.1:12 ||	* iti pUrva-apara-AdeSa-vEzamyam na-asti kiMcana || SivSV_3.1:12 ||
+   * asya cittasvarūpasya dehāder ātmanas tv aṇoḥ || SivSV_3.1:13 ||]	* asya citta-svarUpasya deha-AdeH AtmanaH tu aNoH || SivSV_3.1:13 ||]
+   jñānaṃ bandhaḥ // SivS_3.2 //	jQAnam banDaH // SivH-_3.2 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * antaḥ sukhādisaṃvedyavyavasāyādivṛttimat || SivSV_3.2:1 ||	* antar suKa-Adi-saMvedya-vyavasAya-Adi-vRttimat || SivSV_3.2:1 ||
+   * bahis tadyogyanīlādidehādiviṣayonmukham || SivSV_3.2:2 ||	* bahis tad-yogya-nIla-Adi-deha-Adi-vizaya-unmuKam || SivSV_3.2:2 ||
+   * bhedābhāsātmakaṃ cāsya jñānaṃ bandho 'ṇurūpiṇaḥ || SivSV_3.2:3 ||	* Beda-ABAsa-Atmakam ca-asya jQAnam banDaH aNu-rUpiNaH || SivSV_3.2:3 ||
+   * tatpāśitatvād evāsāv aṇuḥ saṃsarati dhruvam || SivSV_3.2:4 ||	* tad-pASita-tvAt eva-asO aNuH saMsarati Druvam || SivSV_3.2:4 ||
+   * jñānaṃ prakāśakaṃ loke ātmā caiva prakāśakaḥ || SivSV_3.2:5 ||	* jQAnam prakASakam loke AtmA ca-eva prakASakaH || SivSV_3.2:5 ||
+   * anayor apṛthagbhāvāj jñānī jñāne prakāśate || SivSV_3.2:6 ||	* anayoH apRTagBAvAt jQAnI jQAne prakASate || SivSV_3.2:6 ||
+   * ity uktanītyā jñānaṃ ca svasvarūpaprakāśakam || SivSV_3.2:7 ||	* iti ukta-nItyA jQAnam ca sva-svarUpa-prakASakam || SivSV_3.2:7 ||
+   * ātmavat tat kathaṃ tasya bandhakatvaprasaṅgitā || SivSV_3.2:8 ||	* Atma-vat tat kaTam tasya banDaka-tva-prasaFgitAH || SivSV_3.2:8 ||
+   * ity āśaṅkyāha yady evaṃ prasannāt parameśvarāt || SivSV_3.2:9 ||	* iti ASaFkya-Aha yadi evam prasannAt parameSvarAt || SivSV_3.2:9 ||
+   * pratyabhijñā bhavaty eṣā tadā satyaṃ tvadīritam || SivSV_3.2:10 ||	* pratyaBijQA Bavati ezA tadA satyam tvad-Iritam || SivSV_3.2:10 ||
+   * tanmāyāśaktito naiṣa vimarśo 'sya yadā tadā || SivSV_3.2:11 ||]	* tad-mAyA-SaktitaH na-eza vimarSaH asya yadA tadA || SivSV_3.2:11 ||]
+   kalādīnāṃ tattvānām aviveko māyā // SivS_3.3 //	kalA-AdInAm tattvAnAm avivekaH mAyA // SivH-_3.3 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * antarantaḥsphurat kiṃcitkartṛtvādipradāyinām || SivSV_3.3:1 ||	* antarantar-sPurat kiMcitkartR-tva-Adi-pradAyinAm || SivSV_3.3:1 ||
+   * kalādikṣitiparyantatattvānāṃ kañcukātmanām || SivSV_3.3:2 ||	* kalA-Adi-kziti-paryanta-tattvAnAm kaQcuka-AtmanAm || SivSV_3.3:2 ||
+   * puryaṣṭakamayatvena sthūladehādirūpataḥ || SivSV_3.3:3 ||	* puryazwaka-maya-tvena sTUla-deha-Adi-rUpataH || SivSV_3.3:3 ||
+   * sthitānām avivekas teṣv ātmatvenānusaṃhitiḥ || SivSV_3.3:4 ||	* sTitAnAm avivekaH tezu Atma-tvena-anusaMhitiH || SivSV_3.3:4 ||
+   * saiva sammohinī māyā tattvākhyātimayaṃ jagat || SivSV_3.3:5 ||	* sA-eva sammohinI mAyA tattva-AKyAti-mayam jagat || SivSV_3.3:5 ||
+   * ataś caitaj janyamāyāpraśamāyāsya yoginaḥ || SivSV_3.3:6 ||]	* atas ca-etat janya-mAyA-praSamAya-asya yoginaH || SivSV_3.3:6 ||]
+   śarīre saṃhāraḥ kalānām // SivS_3.4 //	SarIre saMhAraH kalAnAm // SivH-_3.4 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * mahābhūtātmake sthūle sūkṣme puryaṣṭakātmani || SivSV_3.4:1 ||	* mahABUta-Atmake sTUle sUkzme puryazwaka-Atmani || SivSV_3.4:1 ||
+   * mūlādisamanānte ca śarīre yoginaḥ pare || SivSV_3.4:2 ||	* mUla-Adi-samana-ante ca SarIre yoginaH pare || SivSV_3.4:2 ||
+   * kalānāṃ tatra bhāgānāṃ kāryāṇāṃ kāraṇe nije || SivSV_3.4:3 ||	* kalAnAm tatra BAgAnAm kAryANAm kAraNe nije || SivSV_3.4:3 ||
+   * saṃhāraḥ saṃvidekāgnisadbhāvo layacintayā || SivSV_3.4:4 ||	* saMhAraH saMvid-eka-agni-sadBAvaH laya-cintayA || SivSV_3.4:4 ||
+   * dāhādyāmarśayuktyā vā dhyātavya iti śiṣyate || SivSV_3.4:5 ||	* dAha-Adi-AmarSa-yuktyA vA DyAtavyaH iti Sizyate || SivSV_3.4:5 ||
+   * evaṃ dhyānābhidhāno yaḥ saṃhāropāya īritaḥ || SivSV_3.4:6 ||	* evam DyAna-aBiDAnaH yaH saMhAra-upAyaH IritaH || SivSV_3.4:6 ||
+   * evam etat pradhānāṃś ca prāṇāyāmapuraḥsarān || SivSV_3.4:7 ||	* evam etat praDAnAn ca prANAyAma-puraHsarAn || SivSV_3.4:7 ||
+   * anyān samādhiparyantān upāyān darśayaty asau || SivSV_3.4:8 ||]	* anyAn samADi-paryantAn upAyAn darSayati asO || SivSV_3.4:8 ||]
+   nāḍīsaṃhārabhūtajayabhūtakaivalyabhūtapṛthaktvāni // SivS_3.5 //	nAxI-saMhAra-BUta-jaya-BUta-kEvalya-BUta-pRTaktvAni // SivH-_3.5 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * bhāvanīyāni yuktena sādhakeneti śiṣyate || SivSV_3.5:1 ||	* BAvanIyAni yuktena sADakena-iti Sizyate || SivSV_3.5:1 ||
+   * prāṇādivāhināḍīnāṃ saṃhāraḥ prāṇasaṃyamāt || SivSV_3.5:2 ||	* prANa-Adi-vAhi-nAxInAm saMhAraH prANa-saMyamAt || SivSV_3.5:2 ||
+   * recakādikramotpādād udānadahanātmani || SivSV_3.5:3 ||	* recaka-Adi-krama-utpAdAt udAna-dahana-Atmani || SivSV_3.5:3 ||
+   * madhyanāḍyāṃ vilīnatvāpādanaṃ tanmayatvataḥ || SivSV_3.5:4 ||	* maDya-nAxyAm vilIna-tva-ApAdanam tad-maya-tvataH || SivSV_3.5:4 ||
+   * bhūtānāṃ bhūjalādīnāṃ jayo yaḥ sa udīryate || SivSV_3.5:5 ||	* BUtAnAm BU-jala-AdInAm jayaH yaH saH udIryate || SivSV_3.5:5 ||
+   * vāyavī dhāraṇāṅguṣṭhe āgneyī nābhimadhyataḥ || SivSV_3.5:6 ||	* vAyavI DAraNa-aFguzWe AgneyI nABi-maDyatas || SivSV_3.5:6 ||
+   * māheyī kaṇṭhadeśe tu vāruṇī ghaṇṭikāśritā || SivSV_3.5:7 ||	* mAheyI kaNWa-deSe tu vAruNI GaNwikA-ASritAH || SivSV_3.5:7 ||
+   * ākāśadhāraṇā mūrdhni sarvasiddhikarī smṛtā || SivSV_3.5:8 ||	* AkASa-DAraNA mUrDni sarva-sidDi-karI smRtAH || SivSV_3.5:8 ||
+   * iti svacchandaśāstroktadhāraṇābhir vaśīkṛtiḥ || SivSV_3.5:9 ||	* iti svacCandaSAstra-ukta-DAraNABiH vaSIkRtiH || SivSV_3.5:9 ||
+   * bhūtebhyaḥ kila kaivalyaṃ cittapratyāhṛtis tataḥ || SivSV_3.5:10 ||	* BUteByaH kila kEvalyam citta-pratyAhRtiH tatas || SivSV_3.5:10 ||
+   * pṛthaktvaṃ tadanāliptasvacchasvātmaikarūpatā || SivSV_3.5:11 ||	* pRTaktvam tad-anAlipta-svacCa-sva-Atma-eka-rUpa-tA || SivSV_3.5:11 ||
+   * bhūtasaṃdhāna ityādisūtroktaṃ yat phalaṃ purā || SivSV_3.5:12 ||	* BUtasaMDAnaH ityAdi-sUtra-uktam yat Palam purA || SivSV_3.5:12 ||
+   * aprayatnena sādhyaṃ tacchāmbhavopāyaśālinaḥ || SivSV_3.5:13 ||	* aprayatnena sADyam tat-SAmBavopAya-SAlinaH || SivSV_3.5:13 ||
+   * āṇavopāyasādhyaṃ tu yatneneti viśiṣyate || SivSV_3.5:14 ||	* ANava-upAya-sADyam tu yatnena-iti viSizyate || SivSV_3.5:14 ||
+   * ity evaṃ dehaśuddhyādyaiḥ samādhyantaiś ca yā bhavet || SivSV_3.5:15 ||	* iti evam deha-SudDi-AdyEH samADi-antEH ca yA Bavet || SivSV_3.5:15 ||
+   * siddhiḥ sā mohavaraṇān nātmajñānād itīryate || SivSV_3.5:16 ||]	* sidDiH sA moha-varaNAt na-Atma-jQAnAt iti-Iryate || SivSV_3.5:16 ||]
+   mohāvaraṇāt siddhiḥ // SivS_3.6 //	moha-AvaraNAt sidDiH // SivH-_3.6 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * moho vimohinī māyā tatkṛtāvaraṇāt kila || SivSV_3.6:1 ||	* mohaH vimohinI mAyA tad-kRta-AvaraNAt kila || SivSV_3.6:1 ||
+   * pūrvoktadhāraṇādyuktyā siddhiḥ parimitā bhavet || SivSV_3.6:2 ||	* pUrva-ukta-DAraNAdi-uktyA sidDiH parimitA Bavet || SivSV_3.6:2 ||
+   * tattattattvopabhogātmā na tv asya paracitprathā || SivSV_3.6:3 ||	* tad-tad-tattva-upaBoga-AtmA na tu asya para-cit-praTA || SivSV_3.6:3 ||
+   * vinaṣṭamohāveśasya samādhau cāgrataḥ punaḥ || SivSV_3.6:4 ||	* vinazwa-moha-AveSasya samADO ca-agratas punar || SivSV_3.6:4 ||
+   * madhyamaṃ prāṇam āśritya prāṇāpānapathāntaram || SivSV_3.6:5 ||	* maDyamam prANam ASritya prANa-apAna-paTa-antaram || SivSV_3.6:5 ||
+   * ālambya jñānaśaktiṃ ca tatsthaṃ caivāsanaṃ labhet || SivSV_3.6:6 ||	* Alambya jQAna-Saktim ca tad-sTam ca-eva-Asanam laBet || SivSV_3.6:6 ||
+   * prāṇādisthūlabhāvaṃ tu tyaktvā sūkṣmam athāntaram || SivSV_3.6:7 ||	* prANa-Adi-sTUla-BAvam tu tyaktvA sUkzmam aTa-antaram || SivSV_3.6:7 ||
+   * sūkṣmātītaṃ tu paramaṃ spandanaṃ labhyate yataḥ || SivSV_3.6:8 ||	* sUkzma-atItam tu paramam spandanam laByate yatas || SivSV_3.6:8 ||
+   * prāṇāyāmaḥ sa uddiṣṭo yasmān na cyavate punaḥ || SivSV_3.6:9 ||	* prANAyAmaH saH uddizwaH yasmAt na cyavate punar || SivSV_3.6:9 ||
+   * śabdādiguṇavṛttir yā cetasā hy anubhūyate || SivSV_3.6:10 ||	* Sabda-Adi-guNa-vRttiH yA cetasA hi anuBUyate || SivSV_3.6:10 ||
+   * tyaktvā tāṃ paramaṃ dhāma praviśet tatsvacetasā || SivSV_3.6:11 ||	* tyaktvA tAm paramam DAma praviSet tad-sva-cetasA || SivSV_3.6:11 ||
+   * pratyāhāra iti prokto bhavapāśanikṛntanaḥ || SivSV_3.6:12 ||	* pratyAhAraH iti proktaH Bava-pASa-nikRntanaH || SivSV_3.6:12 ||
+   * dhīguṇān samatikramya nirdhyeyaṃ cāvyayaṃ vibhum || SivSV_3.6:13 ||	* DI-guNAn samatikramya nirDyeyam ca-avyayam viBum || SivSV_3.6:13 ||
+   * dhyātvā dhyeyaṃ svasaṃvedyaṃ dhyānaṃ tac ca vidur budhāḥ || SivSV_3.6:14	* DyAtvA Dyeyam sva-saMvedyam DyAnam tat ca viduH buDAH || SivSV_3.6:14
+   * dhāraṇā paramātmatvaṃ dhāryate yena sarvadā || SivSV_3.6:15 ||	* DAraNA paramAtma-tvam DAryate yena sarvadA || SivSV_3.6:15 ||
+   * dhāraṇā sā vinirdiṣṭā bhavabandhavināśinī || SivSV_3.6:16 ||	* DAraNA sA vinirdizwA Bava-banDa-vinASinI || SivSV_3.6:16 ||
+   * svaparastheṣu bhūteṣu jagaty asmin samānadhīḥ || SivSV_3.6:17 ||	* sva-para-sTezu BUtezu jagati asmin samAna-DIH || SivSV_3.6:17 ||
+   * śivo 'ham advitīyo 'haṃ samādhiḥ sa paraḥ smṛtaḥ || SivSV_3.6:18 ||	* SivaH aham advitIyaH aham samADiH sa paraH smRtaH || SivSV_3.6:18 ||
+   * ity evaṃ mṛtyujittantrabhaṭṭārakanirūpitaiḥ || SivSV_3.6:19 ||	* iti evam mRtyu-jit-tantra-BawwAraka-nirUpitEH || SivSV_3.6:19 ||
+   * prāṇasaṃyamanārambhaiḥ samādhyantaiḥ kramair api || SivSV_3.6:20 ||	* prANa-saMyamana-AramBEH samADi-antEH kramEH api || SivSV_3.6:20 ||
+   * paratattvasamāveśo bhavaty eveti kathyate || SivSV_3.6:21 ||]	* para-tattva-samAveSaH Bavati eva-iti kaTyate || SivSV_3.6:21 ||]
+   mohajayād anantābhogāt sahajavidyājayaḥ // SivS_3.7 //	moha-jayAt ananta-ABogAt sahaja-vidyA-jayaH // SivH-_3.7 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * moho māyā nijākhyātis tajjayāt tatparābhavāt || SivSV_3.7:1 ||	* mohaH mAyA nija-AKyAtiH tad-jayAt tad-parABavAt || SivSV_3.7:1 ||
+   * udyamārkotthito 'nantaḥ saṃskārapraśamāvadhiḥ || SivSV_3.7:2 ||	* udyama-arka-utTitaH anantaH saMskAra-praSama-avaDiH || SivSV_3.7:2 ||
+   * ābhogo yasya vistāra īdṛśād darśitātmanaḥ || SivSV_3.7:3 ||	* ABogaH yasya vistAraH IdRSAt darSita-AtmanaH || SivSV_3.7:3 ||
+   * bhavet sahajavidyāyā jayo lābho yoginaḥ || SivSV_3.7:4 ||	* Bavet sahaja-vidyAyAH jayaH lABaH yoginaH || SivSV_3.7:4 ||
+   * evaṃ mohajayopāttaśuddhavidyāmahodayaḥ || SivSV_3.7:5 ||]	* evam moha-jaya-upAtta-SudDa-vidyA-mahA-udayaH || SivSV_3.7:5 ||]
+   jāgrad dvitīyakaraḥ // SivS_3.8 //	jAgrat dvitIya-karaH // SivH-_3.8 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * bhaktvaivaṃ sahajāṃ vidyāṃ tadekatvāvalambane || SivSV_3.8:1 ||	* BaktvA-evam sahajAm vidyAm tad-eka-tva-avalambane || SivSV_3.8:1 ||
+   * jāgarūkaḥ sadā yogī jāgrad ity ayam ucyate || SivSV_3.8:2 ||	* jAgarUkaH sadA yogI jAgrat iti ayam ucyate || SivSV_3.8:2 ||
+   * saṃpūrṇāhaṃvimarśātmasvāhaṃtāpekṣayā jagat || SivSV_3.8:3 ||	* saMpUrNa-ahaMvimarSa-Atma-sva-ahaMtA-apekzayA jagat || SivSV_3.8:3 ||
+   * dvitīyam idam ākāraṃ karo yasya svadīdhitiḥ || SivSV_3.8:4 ||	* dvitIyam idam AkAram karaH yasya sva-dIDitiH || SivSV_3.8:4 ||
+   * tathābhūto bhavaty eṣa svakarībhūtaviṣṭapaḥ || SivSV_3.8:5 ||	* taTABUtaH Bavati eza sva-karIBUta-vizwapaH || SivSV_3.8:5 ||
+   * īdṛśo 'yaṃ sadā svātmavimarśāveśitāśayaḥ || SivSV_3.8:6 ||]	* IdRSaH ayam sadA sva-Atma-vimarSa-AveSita-ASayaH || SivSV_3.8:6 ||]
+   nartaka ātmā // SivS_3.9 //	nartakaH AtmA // SivH-_3.9 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * nṛtyaty antaḥparicchannasvasvarūpāvalambanāḥ || SivSV_3.9:1 ||	* nRtyati antar-paricCanna-sva-svarUpa-avalambanAH || SivSV_3.9:1 ||
+   * svecchayā svātmacidbhittau svaparispandalīlayā || SivSV_3.9:2 ||	* sva-icCayA sva-Atma-cit-BittO sva-parispanda-lIlayA || SivSV_3.9:2 ||
+   * jāgarāsvapnasauṣuptarūpās tās tāḥ svabhūmikāḥ || SivSV_3.9:3 ||	* jAgarA-svapna-sOzupta-rUpAH tAH tAH sva-BUmikAH || SivSV_3.9:3 ||
+   * ābhāsayati yat tasmād ātmā nartaka ucyate || SivSV_3.9:4 ||	* ABAsayati yat tasmAt AtmA nartakaH ucyate || SivSV_3.9:4 ||
+   * evaṃvidhajagannāṭyanartakasyāsya yoginaḥ || SivSV_3.9:5 ||	* evaMviDa-jagat-nAwya-nartakasya-asya yoginaH || SivSV_3.9:5 ||
+   * bhūmikāgrahaṇasthānaṃ raṅgam āha jagadguruḥ || SivSV_3.9:6 ||]	* BUmikA-grahaNa-sTAnam raFgam Aha jagadguruH || SivSV_3.9:6 ||]
+   raṅgo 'ntarātmā // SivS_3.10 //	raFgaH antarAtmA // SivH-_3.10 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * rajyate 'smin jagannāṭyakrīḍākautukinātmanā || SivSV_3.10:1 ||	* rajyate asmin jagat-nAwya-krIxA-kOtukinA-AtmanA || SivSV_3.10:1 ||
+   * iti raṅgo 'ntarātmeti jīvaḥ puryaṣṭakātmakaḥ || SivSV_3.10:2 ||	* iti raFgaH antarAtmA-iti jIvaH puryazwaka-AtmakaH || SivSV_3.10:2 ||
+   * yogī kṛtapadas tatra svendriyaspandalīlayā || SivSV_3.10:3 ||	* yogI kRta-padaH tatra sva-indriya-spanda-lIlayA || SivSV_3.10:3 ||
+   * sadāśivādikṣityantajagannāṭyaṃ prakāśayet || SivSV_3.10:4 ||	* sadASiva-Adi-kziti-anta-jagat-nAwyam prakASayet || SivSV_3.10:4 ||
+   * dehāntaraṅge raṅge 'smin nṛtyataḥ svāntarātmani || SivSV_3.10:5 ||]	* deha-antaraFge raFge asmin nRtyataH sva-antarAtmani || SivSV_3.10:5 ||]
+   prekṣakāṇīndriyāṇi // SivS_3.11 //	prekzakANi-indriyANi // SivH-_3.11 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * prekṣakāṇīti saṃsāranāṭyaprākaṭyakṛd vapuḥ || SivSV_3.11:1 ||	* prekzakANi-iti saMsAra-nAwya-prAkawya-kRt vapuH || SivSV_3.11:1 ||
+   * cakṣurādīndriyāṇy antaś camatkurvanti yoginaḥ || SivSV_3.11:2 ||	* cakzuH-Adi-indriyANi antar camatkurvanti yoginaH || SivSV_3.11:2 ||
+   * ity evaṃ prekṣakībhūtasvākṣacakrasya yoginaḥ || SivSV_3.11:3 ||]	* iti evam prekzakIBUta-sva-akza-cakrasya yoginaH || SivSV_3.11:3 ||]
+   dhīvaśāt sattvasiddhiḥ // SivS_3.12 //	DI-vaSAt sattva-sidDiH // SivH-_3.12 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * dhīs tāttvikasvacidrūpavimarśakuśalā matiḥ || SivSV_3.12:1 ||	* DIH tAttvika-sva-cit-rUpa-vimarSa-kuSalA matiH || SivSV_3.12:1 ||
+   * tadvaśād eva sattvasya spandasyāntarvivartinaḥ || SivSV_3.12:2 ||	* tad-vaSAt eva sattvasya spandasya-antar-vivartinaH || SivSV_3.12:2 ||
+   * sphurattārūpiṇaḥ siddhir abhivyaktiḥ sphuṭaṃ bhavet || SivSV_3.12:3 ||	* sPurat-tA-rUpiNaH sidDiH aBivyaktiH sPuwam Bavet || SivSV_3.12:3 ||
+   * evaṃ nijasphurattātmasattvāsādanavaibhavāt || SivSV_3.12:4 ||]	* evam nija-sPurat-tA-Atma-sattva-AsAdana-vEBavAt || SivSV_3.12:4 ||]
+   siddhaḥ svatantrabhāvaḥ // SivS_3.13 //	sidDaH svatantra-BAvaH // SivH-_3.13 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * siddhaḥ sampanna evāsya bhavet paramayoginaḥ || SivSV_3.13:1 ||	* sidDaH sampannaH eva-asya Bavet parama-yoginaH || SivSV_3.13:1 ||
+   * svatantrabhāvaḥ sahajajñatvakartṛtvalakṣaṇaḥ || SivSV_3.13:2 ||	* svatantra-BAvaH sahaja-jQa-tva-kartR-tva-lakzaNaH || SivSV_3.13:2 ||
+   * svātantryaṃ vaśino viśvasvavaśīkaraṇakṣamam || SivSV_3.13:3 ||	* svAtantryam vaSinaH viSva-sva-vaSIkaraNa-kzamam || SivSV_3.13:3 ||
+   * svatantrabhāva evāsya svānandabharitātmanaḥ || SivSV_3.13:4 ||]	* svatantra-BAvaH eva-asya sva-Ananda-Barita-AtmanaH || SivSV_3.13:4 ||]
+   yathā tatra tathānyatra // SivS_3.14 //	yaTA tatra taTA-anyatra // SivH-_3.14 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * yatra svābhāvike dehe sphuṭībhūtā svatantratā || SivSV_3.14:1 ||	* yatra svABAvike dehe sPuwIBUtA svatantra-tA || SivSV_3.14:1 ||
+   * yathā tatra tathānyatra dehe bhavati yoginaḥ || SivSV_3.14:2 ||	* yaTA tatra taTA-anyatra dehe Bavati yoginaH || SivSV_3.14:2 ||
+   * sphuṭībhavati yuktasya pūrṇāhaṃtāsvarūpiṇī || SivSV_3.14:3 ||	* sPuwIBavati yuktasya pUrNa-ahaMtA-svarUpiNI || SivSV_3.14:3 ||
+   * na caivam apy udāsīnena bhāvyaṃ yogināpi tu || SivSV_3.14:4 ||]	* na ca-evam api udAsInena BAvyam yoginA-api tu || SivSV_3.14:4 ||]
+   bījāvadhānam // SivS_3.15 //	bIja-avaDAnam // SivH-_3.15 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * sphurattātmā parā śaktir bījaṃ viśvasya kāraṇam || SivSV_3.15:1 ||	* sPurat-tA-AtmA parA SaktiH bIjam viSvasya kAraNam || SivSV_3.15:1 ||
+   * tatrāvadhānaṃ cittasya bhūyobhūyo niveśanam || SivSV_3.15:2 ||	* tatra-avaDAnam cittasya BUyas-BUyas niveSanam || SivSV_3.15:2 ||
+   * yoginā sāvadhānena kartavyam iti śiṣyate || SivSV_3.15:3 ||	* yoginA sa-avaDAnena kartavyam iti Sizyate || SivSV_3.15:3 ||
+   * evaṃvidho mahāyogī paraśaktyavadhānavān || SivSV_3.15:4 ||]	* evaMviDaH mahA-yogI para-Sakti-avaDAnavAn || SivSV_3.15:4 ||]
+   āsanasthaḥ sukhaṃ hrade nimajjati // SivS_3.16 //	Asana-sTaH suKam hrade nimajjati // SivH-_3.16 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * āsyate sthīyate yasminn aikātmyeneti cāsanam || SivSV_3.16:1 ||	* Asyate sTIyate yasmin EkAtmyena-iti ca-Asanam || SivSV_3.16:1 ||
+   * śāktaṃ balaṃ yat tatrasthas tadevāntaḥ parāmṛśan || SivSV_3.16:2 ||	* SAktam balam yat tatrasTaH tat-eva-antar parAmRSan || SivSV_3.16:2 ||
+   * yogī parihṛtadhyānadhāraṇādipariśramaḥ || SivSV_3.16:3 ||	* yogI parihRta-DyAna-DAraNa-Adi-pariSramaH || SivSV_3.16:3 ||
+   * khecaryādimahāsrotovāhaprasarakāraṇe || SivSV_3.16:4 ||	* KecarI-Adi-mahA-srotaH-vAha-prasara-kAraNe || SivSV_3.16:4 ||
+   * svacchatvādiguṇair yukte svānandabharite hrade || SivSV_3.16:5 ||	* svacCa-tva-Adi-guNEH yukte sva-Ananda-Barite hrade || SivSV_3.16:5 ||
+   * saṃplutedaṃpadadvīpe sampūrṇe saṃvidarṇave || SivSV_3.16:6 ||	* saMplutet-aMpada-dvIpe sampUrNe saMvid-arNave || SivSV_3.16:6 ||
+   * nirastasakalopāyo nimajjati yathāsukham || SivSV_3.16:7 ||	* nirasta-sakala-upAyaH nimajjati yaTAsuKam || SivSV_3.16:7 ||
+   * dehādibroḍanenaiva tanmayībhavati sphuṭam || SivSV_3.16:8 ||	* deha-Adi-broxanena-eva tad-mayIBavati sPuwam || SivSV_3.16:8 ||
+   * ity evam āṇavopāyāsāditān mohanirjayāt || SivSV_3.16:9 ||	* iti evam ANava-upAya-AsAditAn moha-nirjayAt || SivSV_3.16:9 ||
+   * unmajjacchuddhavidyātmaśāktāveśaprakarṣataḥ || SivSV_3.16:10 ||	* unmajjat-SudDa-vidyA-Atma-SAkta-AveSa-prakarzataH || SivSV_3.16:10 ||
+   * ātmīkṛtaparānandahradagāḍhāvagāhanāt || SivSV_3.16:11 ||	* AtmIkRta-para-Ananda-hrada-gAXa-avagAhanAt || SivSV_3.16:11 ||
+   * prasphuracchāmbhavāvaśavaibhavaḥ sādhakottamaḥ || SivSV_3.16:12 ||]	* prasPurat-SAmBava-avaSa-vEBavaH sADaka-uttamaH || SivSV_3.16:12 ||]
+   svamātrānirmāṇam āpādayati // SivS_3.17 //	sva-mAtrA-nirmANam ApAdayati // SivH-_3.17 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * svasya sambandhinī mātrā caitanyasyoktarūpiṇaḥ || SivSV_3.17:1 ||	* svasya sambanDinI mAtrA cEtanyasya-ukta-rUpiNaH || SivSV_3.17:1 ||
+   * āśyānatā mitātmāṃśo grāhyagrāhakalakṣaṇaḥ || SivSV_3.17:2 ||	* ASyAna-tA mita-Atma-aMSaH grAhya-grAhaka-lakzaNaH || SivSV_3.17:2 ||
+   * nirmāṇāpādanaṃ tasyā nirmitatvena darśanam || SivSV_3.17:3 ||	* nirmANa-ApAdanam tasyAH nirmita-tvena darSanam || SivSV_3.17:3 ||
+   * sampādayati yogīndro yatheṣṭaṃ spaṣṭam icchayā || SivSV_3.17:4 ||	* sampAdayati yogi-indraH yaTezwam spazwam icCayA || SivSV_3.17:4 ||
+   * evam īdṛśaśaktyutthaviśvarūpasya yoginaḥ || SivSV_3.17:5 ||	* evam IdRSa-Sakti-utTa-viSva-rUpasya yoginaH || SivSV_3.17:5 ||
+   * punarjanmādisambandho na kaścid iti kathyate || SivSV_3.17:6 ||]	* punar-janma-Adi-sambanDaH na kaScid iti kaTyate || SivSV_3.17:6 ||]
+   vidyāvināśe janmavināśaḥ // SivS_3.18 //	vidyA-vinASe janma-vinASaH // SivH-_3.18 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * vidyeti sahajā tasyā avināśaḥ sadodayaḥ || SivSV_3.18:1 ||	* vidyA-iti sahajA tasyAH avinASaH sadA-udayaH || SivSV_3.18:1 ||
+   * tenaivājñānasahakṛttattatkarmānuṣaṅgiṇaḥ || SivSV_3.18:2 ||	* tena-eva-ajQAna-sahakRt-tad-tad-karma-anuzaFgiNaH || SivSV_3.18:2 ||
+   * dehaprāṇamanīṣādisamudāyasya janmanaḥ || SivSV_3.18:3 ||	* deha-prANa-manIza-Adi-samudAyasya janmanaH || SivSV_3.18:3 ||
+   * vināśo mūlavidhvaṃso bhavaty asyeti śiṣyate || SivSV_3.18:4 ||	* vinASaH mUla-viDvaMsaH Bavati asya-iti Sizyate || SivSV_3.18:4 ||
+   * yadā tu śuddhavidyāyāḥ svarūpaṃ tasya majjati || SivSV_3.18:5 ||	* yadA tu SudDavidyAyAH svarUpam tasya majjati || SivSV_3.18:5 ||
+   * tadā tanmohanāyaiva samuttiṣṭhanti śaktayaḥ || SivSV_3.18:6 ||]	* tadA tad-mohanAya-eva samuttizWanti SaktayaH || SivSV_3.18:6 ||]
+   kavargādiṣu māheśvaryādyāḥ paśumātaraḥ // SivS_3.19 //	kavarga-Adizu mAheSvarI-AdyAH paSu-mAtaraH // SivH-_3.19 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * kavargādiṣu tiṣṭhantyas tadadhiṣṭhātṛtāṃ gatāḥ || SivSV_3.19:1 ||	* kavarga-Adizu tizWantyaH tad-aDizWAtR-tAm gatAH || SivSV_3.19:1 ||
+   * māheśvaryādikāḥ proktakarandhracitimadhyagāḥ || SivSV_3.19:2 ||	* mAheSvarI-AdikAH prokta-karanDra-citi-maDya-gAH || SivSV_3.19:2 ||
+   * paśūn pramāt ||	* paSUn pramAt ||
+   āviśya tattatpratyayabhūmiṣu || SivSV_3.19:3 ||	AviSya tad-tad-pratyaya-BUmizu || SivSV_3.19:3 ||
+   * tattacchabdānuvedhena mohanāt paśumātaraḥ || SivSV_3.19:4 ||	* tad-tad-Sabda-anuveDena mohanAt paSu-mAtaraH || SivSV_3.19:4 ||
+   * āvṛṇvānā nijaṃ rūpaṃ cidānandaghanātmakam || SivSV_3.19:5 ||	* AvRNvAnAH nijam rUpam cit-Ananda-Gana-Atmakam || SivSV_3.19:5 ||
+   * atimānaṃ vivṛṇvānāḥ śarīrādau jaḍe 'pi ca || SivSV_3.19:6 ||	* atimAnam vivRNvAnAH SarIra-AdO jaxe api ca || SivSV_3.19:6 ||
+   * paśuvatsādhakam api pramattaṃ mohayanty amūḥ || SivSV_3.19:7 ||	* paSu-vat-sADakam api pramattam mohayanti amUH || SivSV_3.19:7 ||
+   * tasmād bhāvyaṃ sadānena sāvadhānena yoginā || SivSV_3.19:8 ||	* tasmAt BAvyam sa-dAnena sa-avaDAnena yoginA || SivSV_3.19:8 ||
+   * uktaṃ sāmānyato jñānādhiṣṭhānaṃ mātṛkety ataḥ || SivSV_3.19:9 ||	* uktam sAmAnyatas jQAna-aDizWAnam mAtRkA-iti atas || SivSV_3.19:9 ||
+   * idaṃ tu prāptatattvo 'pi pramādyan sādhakaḥ punaḥ || SivSV_3.19:10 ||	* idam tu prApta-tattvaH api pramAdyan sADakaH punar || SivSV_3.19:10 ||
+   * paśvadhiṣṭhānabhūtābhir mohyate mātṛbhis tv iti || SivSV_3.19:11 ||	* paSu-aDizWAna-BUtABiH mohyate mAtRBiH tu iti || SivSV_3.19:11 ||
+   * yata evam ataḥ śuddhavidyā prāptāpi yuktibhiḥ || SivSV_3.19:12 ||	* yatas evam atas SudDa-vidyA prAptA-api yuktiBiH || SivSV_3.19:12 ||
+   * bahvībhiḥ sā punar mauḍhyādy athāsya na vinaśyati || SivSV_3.19:13 ||	* bahvIBiH sA punar mOXya-Adi aTa-asya na vinaSyati || SivSV_3.19:13 ||
+   * tathā sarvāsv avasthāsu yukto bhūyād itīryate || SivSV_3.19:14 ||]	* taTA sarvAsu avasTAsu yuktaH BUyAt iti-Iryate || SivSV_3.19:14 ||]
+   triṣu caturthaṃ tailavad āsecyam // SivS_3.20 //	trizu caturTam tEla-vat Asecyam // SivH-_3.20 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * triṣv iti proktarūpeṣu jāgarādiṣu tailavat || SivSV_3.20:1 ||	* trizu iti prokta-rUpezu jAgara-Adizu tEla-vat || SivSV_3.20:1 ||
+   * caturtham iti pūrvoktaṃ śuddhavidyāprathātmakam || SivSV_3.20:2 ||	* caturTam iti pUrva-uktam SudDa-vidyA-praTA-Atmakam || SivSV_3.20:2 ||
+   * turyaṃ dhāma sadāsecyaṃ yathā syāt tanmayaṃ trayam || SivSV_3.20:3 ||	* turyam DAma sadA-Asecyam yaTA syAt tad-mayam trayam || SivSV_3.20:3 ||
+   * yathā tailaṃ kramāt svīyam āśrayaṃ vyāpnuyāt tathā || SivSV_3.20:4 ||	* yaTA tElam kramAt svIyam ASrayam vyApnuyAt taTA || SivSV_3.20:4 ||
+   * ādyantakoṭyoḥ sphuratā jāgarādeḥ parisphuṭam || SivSV_3.20:5 ||	* Adi-anta-kowyoH sPuratA jAgara-AdeH parisPuwam || SivSV_3.20:5 ||
+   * turyānandarasenārdrīkuryān madhyadaśām api || SivSV_3.20:6 ||	* turya-Ananda-rasena-ArdrIkuryAt maDya-daSAm api || SivSV_3.20:6 ||
+   * jāgrad ityādisūtreṇa pūrvam udyamavattayā || SivSV_3.20:7 ||	* jAgrat ityAdi-sUtreNa pUrvam udyamavat-tayA || SivSV_3.20:7 ||
+   * śakticakrānusaṃdhānaśālinaḥ parayoginaḥ || SivSV_3.20:8 ||	* Sakti-cakra-anusaMDAna-SAlinaH para-yoginaH || SivSV_3.20:8 ||
+   * svarasaprasarajjāgratsvapnasauṣuptabhūmiṣu || SivSV_3.20:9 ||	* svarasa-prasarat-jAgrat-svapna-sOzupta-BUmizu || SivSV_3.20:9 ||
+   * udīritaḥ svatoniryatturyaprasarasambhavaḥ || SivSV_3.20:10 ||	* udIritaH svatas-niryat-turya-prasara-samBavaH || SivSV_3.20:10 ||
+   * tritayetyādisūtreṇa śāmbhavopāyasādhitāt || SivSV_3.20:11 ||	* tritaya-ityAdi-sUtreNa SAmBavopAya-sADitAt || SivSV_3.20:11 ||
+   * haṭhapākakramāj jāgratsvapnasauṣuptasaṃhṛtiḥ || SivSV_3.20:12 ||	* haWa-pAka-kramAt jAgrat-svapna-sOzupta-saMhRtiH || SivSV_3.20:12 ||
+   * darśitānena sūtreṇa tv āṇavopāyayuktitaḥ || SivSV_3.20:13 ||	* darSitA-anena sUtreNa tu ANava-upAya-yuktitaH || SivSV_3.20:13 ||
+   * dalakalpatayāsthāyi jāgradādipadatrayam || SivSV_3.20:14 ||	* dala-kalpa-tayA-AsTAyi jAgrat-Adi-pada-trayam || SivSV_3.20:14 ||
+   * siñcet turyaraseneti viśeṣaḥ samudīritaḥ || SivSV_3.20:15 ||	* siQcet turya-rasena-iti viSezaH samudIritaH || SivSV_3.20:15 ||
+   * atropāyaṃ punaś cāha turyāmṛtaniṣecane || SivSV_3.20:16 ||]	* atra-upAyam punar ca-Aha turya-amRta-nizecane || SivSV_3.20:16 ||]
+   magnaḥ svacittena praviśet // SivS_3.21 //	magnaH sva-cittena praviSet // SivH-_3.21 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * prāṇāyāmādikaṃ tyaktvā sthūlopāyaṃ vikalpakam || SivSV_3.21:1 ||	* prANAyAma-Adikam tyaktvA sTUla-upAyam vikalpakam || SivSV_3.21:1 ||
+   * avikalpakarūpeṇa svacittena svasaṃvidā || SivSV_3.21:2 ||	* avikalpaka-rUpeNa sva-cittena sva-saMvidA || SivSV_3.21:2 ||
+   * antarmukhaparāmarśacamatkārarasātmanā || SivSV_3.21:3 ||	* antarmuKa-parAmarSa-camatkAra-rasa-AtmanA || SivSV_3.21:3 ||
+   * magnas turyarasenātra svadehādipramātṛtām || SivSV_3.21:4 ||	* magnaH turya-rasena-atra sva-deha-Adi-pramAtR-tAm || SivSV_3.21:4 ||
+   * majjanena praśamayan praviśet tat samāviśet || SivSV_3.21:5 ||	* majjanena praSamayan praviSet tat samAviSet || SivSV_3.21:5 ||
+   * itthaṃ parapadāviṣṭabuddher vastusvabhāvataḥ || SivSV_3.21:6 ||	* itTam para-pada-Avizwa-budDeH vastu-svaBAvataH || SivSV_3.21:6 ||
+   * yadā bhūyaḥ prasaraṇaṃ yogino jāyate tadā || SivSV_3.21:7 ||]	* yadA BUyas prasaraNam yoginaH jAyate tadA || SivSV_3.21:7 ||]
+   prāṇasamācāre samadarśanam // SivS_3.22 //	prANa-samAcAre sama-darSanam // SivH-_3.22 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * prāṇasya prasphuracchāktasaurabhāveśasaṃskṛtaḥ || SivSV_3.22:1 ||	* prANasya prasPurat-SAkta-sOraBa-AveSa-saMskRtaH || SivSV_3.22:1 ||
+   * samyagvikasitāśeṣagranthyavaṣṭambhadhībalāt || SivSV_3.22:2 ||	* samyak-vikasita-aSeza-granTi-avazwamBa-DI-balAt || SivSV_3.22:2 ||
+   * īṣad bahir mandamandaṃ cāre prasaraṇe sati || SivSV_3.22:3 ||	* Izat bahis manda-mandam cAre prasaraNe sati || SivSV_3.22:3 ||
+   * samaṃ cinmudghanātmatvāt sarvadābhedadarśanam || SivSV_3.22:4 ||	* samam cit-mud-Gana-Atma-tvAt sarvadA-aBeda-darSanam || SivSV_3.22:4 ||
+   * saṃvedanaṃ bhavaty arthāt sarvāvasthāsu yoginaḥ || SivSV_3.22:5 ||	* saMvedanam Bavati arTAt sarva-avasTAsu yoginaH || SivSV_3.22:5 ||
+   * turyāvaṣṭambhato labhyaṃ turyātītam anāmṛśan || SivSV_3.22:6 ||	* turya-avazwamBataH laByam turyAtItam anAmRSan || SivSV_3.22:6 ||
+   * pūrvāparātmanoḥ koṭyoḥ saṃvedye turyamātrake || SivSV_3.22:7 ||	* pUrva-apara-AtmanoH kowyoH saMvedye turya-mAtrake || SivSV_3.22:7 ||
+   * āste yogī tadāmuṣya tāvan mātreṇa tuṣyataḥ || SivSV_3.22:8 ||]	* Aste yogI tadA-amuzya tAvat mAtreNa tuzyataH || SivSV_3.22:8 ||]
+   madhye 'varaprasavaḥ // SivS_3.23 //	maDye avara-prasavaH // SivH-_3.23 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * pūrvasyām aparasyāṃ ca koṭau turyaniṣeviṇaḥ || SivSV_3.23:1 ||	* pUrvasyAm aparasyAm ca kowO turya-nizeviNaH || SivSV_3.23:1 ||
+   * avadhāne 'valiptasya kadācit tasya yoginaḥ || SivSV_3.23:2 ||	* avaDAne avaliptasya kadAcid tasya yoginaH || SivSV_3.23:2 ||
+   * madhyāyām avaro 'śreṣṭhaḥ kutsitaḥ sarga āpatet || SivSV_3.23:3 ||	* maDyAyAm avaraH aSrezWaH kutsitaH sargaH Apatet || SivSV_3.23:3 ||
+   * vyutthānātmā tato yogī sāvadhānaḥ sadā bhavet || SivSV_3.23:4 ||	* vyutTAna-AtmA tatas yogI sa-avaDAnaH sadA Bavet || SivSV_3.23:4 ||
+   * avaraprasave vṛtte hy evaṃ madhyapade punaḥ || SivSV_3.23:5 ||	* avara-prasave vRtte hi evam maDya-pade punar || SivSV_3.23:5 ||
+   * turyāvaṣṭambharasatas turyātītaṃ parāmṛśet || SivSV_3.23:6 ||]	* turya-avazwamBa-rasataH turyAtItam parAmRSet || SivSV_3.23:6 ||]
+   mātrāsv apratyayasaṃdhāne naṣṭasya punar utthānam // SivS_3.24 //	mAtrAsu apratyaya-saMDAne nazwasya punar utTAnam // SivH-_3.24 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * mātrāḥ padārthāḥ rūpādyās tāsv ebhiś cakṣurādibhiḥ || SivSV_3.24:1 ||	* mAtrAH padArTAH rUpa-AdyAH tAsu eBiH cakzuH-AdiBiH || SivSV_3.24:1 ||
+   * akṣaiḥ svapratyayo nāma tattatsvagrāhyavedanam || SivSV_3.24:2 ||	* akzEH sva-pratyayaH nAma tad-tad-sva-grAhya-vedanam || SivSV_3.24:2 ||
+   * saṃdhānaṃ tu samastaṃ tad aham ity anusaṃhitiḥ || SivSV_3.24:3 ||	* saMDAnam tu samastam tat aham iti anusaMhitiH || SivSV_3.24:3 ||
+   * amuṣmin sati naṣṭāya hāritasyoktavargataḥ || SivSV_3.24:4 ||	* amuzmin sati nazwAya hAritasya-ukta-vargataH || SivSV_3.24:4 ||
+   * turyasya punar utthānaṃ bhūya unmajjanaṃ bhavet || SivSV_3.24:5 ||	* turyasya punar utTAnam BUyas unmajjanam Bavet || SivSV_3.24:5 ||
+   * tadaikyasampatpūrṇatvaṃ yogīndrasyeti śiṣyate || SivSV_3.24:6 ||	* tad-A-Ekya-sampad-pUrNa-tvam yogi-indrasya-iti Sizyate || SivSV_3.24:6 ||
+   * evam udyatsamāveśaprakarṣaḥ sādhakarṣabhaḥ || SivSV_3.24:7 ||]	* evam udyat-samAveSa-prakarzaH sADaka-RzaBaH || SivSV_3.24:7 ||]
+   śivatulyo jāyate // SivS_3.25 //	Siva-tulyaH jAyate // SivH-_3.25 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * turyābhyāsaprakarṣeṇa turyātītātmakaṃ padam || SivSV_3.25:1 ||	* turya-aByAsa-prakarzeNa turya-atIta-Atmakam padam || SivSV_3.25:1 ||
+   * samprāptaḥ sādhakaḥ sākṣāt sarvalokāntarātmanā || SivSV_3.25:2 ||	* samprAptaH sADakaH sAkzAt sarva-loka-antarAtmanA || SivSV_3.25:2 ||
+   * śivena cinmayasvacchasvacchadānandaśālinā || SivSV_3.25:3 ||	* Sivena cit-maya-svacCa-svacCa-dAnanda-SAlinA || SivSV_3.25:3 ||
+   * tulyo 'vigalanād dehakalāyā galane śivaḥ || SivSV_3.25:4 ||	* tulyaH avigalanAt deha-kalAyAH galane SivaH || SivSV_3.25:4 ||
+   * arjitaṃ dīkṣayā dagdhaṃ bhaviṣyanti yamādibhiḥ || SivSV_3.25:5 ||	* arjitam dIkzayA dagDam Bavizyanti yama-AdiBiH || SivSV_3.25:5 ||
+   * yenedaṃ sādhitaṃ yatra tadbhuktyā vinivartate || SivSV_3.25:6 ||	* yena-idam sADitam yatra tad-BuktyA vinivartate || SivSV_3.25:6 ||
+   * anekabhāvikaṃ karma dagdhaṃ bījam ivāgninā || SivSV_3.25:7 ||	* aneka-BAvikam karma dagDam bIjam iva-agninA || SivSV_3.25:7 ||
+   * bhaviṣyad api saṃruddhaṃ yenedaṃ tad dhi bhogataḥ || SivSV_3.25:8 ||	* Bavizyat api saMrudDam yena-idam tat Di BogataH || SivSV_3.25:8 ||
+   * ity uktanītyā prārabdhaprāptabhogopabhogabhūḥ || SivSV_3.25:9 ||	* iti ukta-nItyA prArabDa-prApta-Boga-upaBoga-BUH || SivSV_3.25:9 ||
+   * kalevarasthitis tasya kartavyety upadiśyate || SivSV_3.25:10 ||]	* kalevara-sTitiH tasya kartavyA-iti upadiSyate || SivSV_3.25:10 ||]
+   śarīravṛttir vratam // SivS_3.26 //	SarIra-vRttiH vratam // SivH-_3.26 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * evaṃ pūrvoktayā nītyā śivatulyasya yoginaḥ || SivSV_3.26:1 ||	* evam pUrva-uktayA nItyA Siva-tulyasya yoginaH || SivSV_3.26:1 ||
+   * śaśvacchivātmakasvātmasaparyātatparātmanaḥ || SivSV_3.26:2 ||	* SaSvat-Siva-Atmaka-sva-Atma-saparyA-tatpara-AtmanaH || SivSV_3.26:2 ||
+   * antarullasadacchācchabhaktipīyūṣapoṣitam || SivSV_3.26:3 ||	* antar-ullasat-acCa-acCa-Bakti-pIyUza-pozitam || SivSV_3.26:3 ||
+   * bhavatpūjopayogāya śarīram idam astu me || SivSV_3.26:4 ||	* Bavat-pUjA-upayogAya SarIram idam astu me || SivSV_3.26:4 ||
+   * iti lokottaraśrīmadutpalaproktayā diśā || SivSV_3.26:5 ||	* iti lokottara-SrImat-utpala-proktayA diSAH || SivSV_3.26:5 ||
+   * śivabhaktisudhāpūrṇe śarīre vṛttir asya yā || SivSV_3.26:6 ||	* Siva-Bakti-suDA-pUrNe SarIre vRttiH asya yA || SivSV_3.26:6 ||
+   * vratam etad anuṣṭheyaṃ na tucchaṃ tasya dhāraṇam || SivSV_3.26:7 ||	* vratam etat anuzWeyam na tucCam tasya DAraNam || SivSV_3.26:7 ||
+   * evaṃvidhasya tasyāsya yā yā svālāparūpiṇī || SivSV_3.26:8 ||]	* evaMviDasya tasya-asya yA yA sva-AlApa-rUpiNI || SivSV_3.26:8 ||]
+   kathā japaḥ // SivS_3.27 //	kaTAH japaH // SivH-_3.27 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * mahāmantramayaṃ naumi rūpaṃ te svacchaśītalam || SivSV_3.27:1 ||	* mahA-mantra-mayam nOmi rUpam te svacCa-SItalam || SivSV_3.27:1 ||
+   * apūrvāmodasubhagaṃ parāmṛtarasolvaṇam || SivSV_3.27:2 ||	* apUrva-Amoda-suBagam para-amRta-rasa-ulvaNam || SivSV_3.27:2 ||
+   * iti śrīpratyabhijñākṛddaiśikaproktayā diśā || SivSV_3.27:3 ||	* iti SrI-pratyaBijQA-kRt-dESika-proktayA diSAH || SivSV_3.27:3 ||
+   * akṛtrimāhamāmarśamayasvātmāvamarśinaḥ || SivSV_3.27:4 ||	* akRtrima-aham-AmarSa-maya-sva-Atma-avamarSinaH || SivSV_3.27:4 ||
+   * yā yā svairābhilāpātmā kathā yāthārthyavādinaḥ || SivSV_3.27:5 ||	* yA yA svEra-aBilApa-AtmA kaTAH yATArTya-vAdinaH || SivSV_3.27:5 ||
+   * bhūyobhūyaḥ pare bhāve bhāvanā bhāvyate hi yā || SivSV_3.27:6 ||	* BUyas-BUyas pare BAve BAvanA BAvyate hi yAH || SivSV_3.27:6 ||
+   * japaḥ so 'tra svayaṃ nādo mantrātmā japya īdṛśaḥ || SivSV_3.27:7 ||	* japaH saH atra svayam nAdaH mantra-AtmA japyaH IdRSaH || SivSV_3.27:7 ||
+   * ṣaṭśatāni divārātraṃ sahasrāṇy ekaviṃśatiḥ || SivSV_3.27:8 ||	* zaz-SatAni divArAtram sahasrANi ekaviMSatiH || SivSV_3.27:8 ||
+   * japo devyāḥ samuddiṣṭaḥ sulabho durlabho jaḍaiḥ || SivSV_3.27:9 ||	* japaH devyAH samuddizwaH sulaBaH durlaBaH jaxEH || SivSV_3.27:9 ||
+   * ity uktanītyā sā sarvasvātmeśāmarśasampadaḥ || SivSV_3.27:10 ||	* iti ukta-nItyA sA sarva-sva-Atma-ISAmarSa-sampadaH || SivSV_3.27:10 ||
+   * janipālanadharmatvāj japa ity abhidhīyate || SivSV_3.27:11 ||	* jani-pAlana-Darma-tvAt japaH iti aBiDIyate || SivSV_3.27:11 ||
+   * athedṛgvidhayogīndraviṣayāpi ca yā kathā || SivSV_3.27:12 ||	* aTa-IdRgviDa-yogi-indra-vizayA-api ca yA kaTAH || SivSV_3.27:12 ||
+   * japaḥ so 'pi janasyokto janipālanayogataḥ || SivSV_3.27:13 ||	* japaH saH api janasya-uktaH jani-pAlana-yogataH || SivSV_3.27:13 ||
+   * atha cāsyocyate caryā maryādānuvidhāyinī || SivSV_3.27:14 ||]	* aTa ca-asya-ucyate caryA maryAdA-anuviDAyinI || SivSV_3.27:14 ||]
+   dānam ātmajñānam // SivS_3.28 //	dAnam Atma-jQAnam // SivH-_3.28 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * proktacaitanyarūpasya sākṣātkaraṇamātmanaḥ || SivSV_3.28:1 ||	* prokta-cEtanya-rUpasya sAkzAtkaraNam-AtmanaH || SivSV_3.28:1 ||
+   * yat taj jñānaṃ tad evāsya dānaṃ yatnena dīyate || SivSV_3.28:2 ||	* yat tat jQAnam tat eva-asya dAnam yatnena dIyate || SivSV_3.28:2 ||
+   * paripūrṇaṃ svarūpaṃ svaṃ dīyate khaṇḍyate bhidā || SivSV_3.28:3 ||	* paripUrNam svarUpam svam dIyate KaNxyate BidAH || SivSV_3.28:3 ||
+   * dāyate śodhyate rūpam ātmīyaṃ dīyate punaḥ || SivSV_3.28:4 ||	* dAyate SoDyate rUpam AtmIyam dIyate punar || SivSV_3.28:4 ||
+   * rakṣyate pratyabhijñātaḥ śivātmā svasvabhāvatā || SivSV_3.28:5 ||	* rakzyate pratyaBijQAtaH Siva-AtmA sva-svaBAva-tA || SivSV_3.28:5 ||
+   * dīyate ceti yatnena svātmajñānam anuttaram || SivSV_3.28:6 ||	* dIyate ca-iti yatnena sva-Atma-jQAnam anuttaram || SivSV_3.28:6 ||
+   * kṛpayā svātmaśiṣyebhyas tad anenaiva dīyate || SivSV_3.28:7 ||	* kRpayA sva-Atma-SizyeByaH tat anena-eva dIyate || SivSV_3.28:7 ||
+   * evaṃ samyagvrataṃ proktaṃ japaṃ caryā ca pālayan || SivSV_3.28:8 ||	* evam samyak-vratam proktam japam caryA ca pAlayan || SivSV_3.28:8 ||
+   * śivatulyaḥ sadā svātmaśivārādhanatatparaḥ || SivSV_3.28:9 ||	* Siva-tulyaH sadA sva-Atma-Siva-ArADana-tatparaH || SivSV_3.28:9 ||
+   * ayam eva mahāyogī mahāmantradhuraṃdharaḥ || SivSV_3.28:10 ||	* ayam eva mahA-yogI mahA-mantra-DuraMDaraH || SivSV_3.28:10 ||
+   * antevāsijanasyāntas tattvatas tattvabodhakaḥ || SivSV_3.28:11 ||	* antevAsi-janasya-antar tattvataH tattva-boDakaH || SivSV_3.28:11 ||
+   * ity āha bhagavān īśo nityānugrahakārakaḥ || SivSV_3.28:12 ||]	* iti Aha BagavAn ISaH nitya-anugraha-kArakaH || SivSV_3.28:12 ||]
+   yo 'vipastho jñāhetuś ca // SivS_3.29 //	yaH avipa-sTaH jQA-hetuH ca // SivH-_3.29 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * avīn paśujanān pātīty avipaṃ śaktimaṇḍalam || SivSV_3.29:1 ||	* avIt paSu-janAn pAti-iti avipam Sakti-maNxalam || SivSV_3.29:1 ||
+   * māheśvaryādikaṃ proktaṃ kavargādyadhidaivatam || SivSV_3.29:2 ||	* mAheSvarI-Adikam proktam kavarga-Adi-aDidEvatam || SivSV_3.29:2 ||
+   * adhitiṣṭhati yaḥ svairam avipasthaḥ sa ucyate || SivSV_3.29:3 ||	* aDitizWati yaH svEram avipa-sTaH saH ucyate || SivSV_3.29:3 ||
+   * jānātīty akhilaṃ tat jñā jñānaśaktir udīryate || SivSV_3.29:4 ||	* jAnAti-iti aKilam tat jQA jQAnaSaktiH udIryate || SivSV_3.29:4 ||
+   * tasyā hetus tayā śiṣyān pratibodhayituṃ kṣamaḥ || SivSV_3.29:5 ||	* tasyAH hetuH tayA SizyAn pratiboDayitum kzamaH || SivSV_3.29:5 ||
+   * anyas tu śakticakreṇa paratantrīkṛtatvataḥ || SivSV_3.29:6 ||	* anyaH tu Sakti-cakreNa paratantrIkRta-tvataH || SivSV_3.29:6 ||
+   * svātmany evāsamarthaḥ san katham anyān prabodhayet || SivSV_3.29:7 ||	* sva-Atmani eva-asamarTaH san kaTam anyAn praboDayet || SivSV_3.29:7 ||
+   * yac chabdāpekṣayā sūtre tac chabdo 'dhyāhṛtaḥ svayam || SivSV_3.29:8 ||	* yat Sabda-apekzayA sUtre tat SabdaH aDyAhRtaH svayam || SivSV_3.29:8 ||
+   * caśabdo hy arthavācy atra yasmāj jñānaprabodhane || SivSV_3.29:9 ||	* caSabdaH hi arTa-vAcI atra yasmAt jQAna-praboDane || SivSV_3.29:9 ||
+   * yogī hetus tato dānam ātmajñānam itīritam || SivSV_3.29:10 ||	* yogI hetuH tatas dAnam Atma-jQAnam iti-Iritam || SivSV_3.29:10 ||
+   * ity evam avipasthasya jñāhetor asya yoginaḥ || SivSV_3.29:11 ||]	* iti evam avipa-sTasya jQA-hetoH asya yoginaH || SivSV_3.29:11 ||]
+   svaśaktipracayo viśvam // SivS_3.30 //	sva-Sakti-pracayaH viSvam // SivH-_3.30 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * śaktayo 'sya jagat kṛtsnaṃ śaktimāṃs tu maheśvaraḥ || SivSV_3.30:1 ||	* SaktayaH asya jagat kRtsnam SaktimAn tu maheSvaraH || SivSV_3.30:1 ||
+   * ity āgamadiśā viśvaṃ svaśaktipracayo yathā || SivSV_3.30:2 ||	* iti Agama-diSA viSvam sva-Sakti-pracayaH yaTA || SivSV_3.30:2 ||
+   * śivasya tatsamasyāpi tathāsya parayoginaḥ || SivSV_3.30:3 ||	* Sivasya tad-samasya-api taTA-asya para-yoginaH || SivSV_3.30:3 ||
+   * svasyāḥ svātmāvimuktāyāḥ śakteḥ saṃvedanātmanaḥ || SivSV_3.30:4 ||	* svasyAH sva-Atma-avimuktAyAH SakteH saMvedana-AtmanaH || SivSV_3.30:4 ||
+   * pracayaḥ sphuraṇārūpo vikāso viśvam iṣyate || SivSV_3.30:5 ||	* pracayaH sPuraNA-rUpaH vikAsaH viSvam izyate || SivSV_3.30:5 ||
+   * na paraṃ sṛṣṭyavasthāyām amuṣya parayoginaḥ || SivSV_3.30:6 ||	* na param sRzwi-avasTAyAm amuzya para-yoginaH || SivSV_3.30:6 ||
+   * svaśaktipracayo viśvaṃ yāvat tatpṛṣṭhapātinau || SivSV_3.30:7 ||]	* sva-Sakti-pracayaH viSvam yAvat tad-pRzWa-pAtinO || SivSV_3.30:7 ||]
+   sthitilayau // SivS_3.31 //	sTiti-layO // SivH-_3.31 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * svaśaktipracayau proktau tāv apīty anuvartate || SivSV_3.31:1 ||	* sva-Sakti-pracayO proktO tO api-iti anuvartate || SivSV_3.31:1 ||
+   * vikāsitasya viśvasya kriyāmayyā svasaṃvidā || SivSV_3.31:2 ||	* vikAsitasya viSvasya kriyA-mayyA sva-saMvidA || SivSV_3.31:2 ||
+   * tattatpramātrapekṣātaḥ kiṃcit kālam idaṃtayā || SivSV_3.31:3 ||	* tad-tad-pramAtR-apekzAtaH kiMcid kAlam idaMtayA || SivSV_3.31:3 ||
+   * yā sthitiś cinmayāhaṃtāviśrāntyātmā ca yo layaḥ || SivSV_3.31:4 ||	* yA sTitiH cit-maya-ahaMtA-viSrAntyAtmA ca yaH layaH || SivSV_3.31:4 ||
+   * tāv ubhau yoginas tasya svaśaktipracayātmakau || SivSV_3.31:5 ||	* tO uBO yoginaH tasya sva-Sakti-pracaya-AtmakO || SivSV_3.31:5 ||
+   * vikasat saṃkucat sarvaṃ vedyaṃ yat saṃvidātmakam || SivSV_3.31:6 ||	* vikasat saMkucat sarvam vedyam yat saMvid-Atmakam || SivSV_3.31:6 ||
+   * anyathā tasya vedyasya vedanānupapattitaḥ || SivSV_3.31:7 ||	* anyaTA tasya vedyasya vedanA-anupapattitaH || SivSV_3.31:7 ||
+   * nanu sṛṣṭisthitidhvaṃseṣv evam anyonyabhediṣu || SivSV_3.31:8 ||	* nanu sRzwi-sTiti-DvaMsezu evam anyonya-Bedizu || SivSV_3.31:8 ||
+   * anyathātvaṃ samāyātaṃ svasvarūpasya yoginaḥ || SivSV_3.31:9 ||	* anyaTAtvam samAyAtam sva-svarUpasya yoginaH || SivSV_3.31:9 ||
+   * ity āśaṅkānivṛttyarthaṃ sūtram āha maheśvaraḥ || SivSV_3.31:10 ||]	* iti ASaFkA-nivRtti-arTam sUtram Aha maheSvaraH || SivSV_3.31:10 ||]
+   tatpravṛttāv apy anirāsaḥ saṃvettṛbhāvāt // SivS_3.32 //	tad-pravRttO api anirAsaH saMvettR-BAvAt // SivH-_3.32 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * teṣāṃ sṛṣṭyādibhāvānāṃ pravṛttāv apy anāratam || SivSV_3.32:1 ||	* tezAm sRzwi-Adi-BAvAnAm pravRttO api anAratam || SivSV_3.32:1 ||
+   * unmajjane 'pi niṣkampayogāvaṣṭambhaśālinaḥ || SivSV_3.32:2 ||	* unmajjane api nizkampa-yoga-avazwamBa-SAlinaH || SivSV_3.32:2 ||
+   * avasthāyugalaṃ cātra kāryakartṛtvaśabditam || SivSV_3.32:3 ||	* avasTA-yugalam ca-atra kArya-kartR-tva-Sabditam || SivSV_3.32:3 ||
+   * kāryatā kṣayiṇī tatra kartṛtvaṃ punar akṣayam || SivSV_3.32:4 ||	* kArya-tA kzayiNI tatra kartR-tvam punar akzayam || SivSV_3.32:4 ||
+   * kāryonmukhaḥ prayatno yaḥ kevalaṃ so 'tra lupyate || SivSV_3.32:5 ||	* kArya-unmuKaH prayatnaH yaH kevalam saH atra lupyate || SivSV_3.32:5 ||
+   * tasmiṃl lupte vilupto 'smīty abudhaḥ pratipadyate || SivSV_3.32:6 ||	* tasmin lupte viluptaH asmi-iti abuDaH pratipadyate || SivSV_3.32:6 ||
+   * na tu yo 'ntarmukho bhāvaḥ sarvajñatvaguṇāspadam || SivSV_3.32:7 ||	* na tu yaH antarmuKaH BAvaH sarvajQa-tva-guNa-Aspadam || SivSV_3.32:7 ||
+   * tasya lopaḥ kadācit syād anyasyānupalambhanāt || SivSV_3.32:8 ||	* tasya lopaH kadAcid syAt anyasya-anupalamBanAt || SivSV_3.32:8 ||
+   * iti śrīspandaśāstroktanītyā tasyāsya yoginaḥ || SivSV_3.32:9 ||	* iti SrI-spandaSAstra-ukta-nItyA tasya-asya yoginaH || SivSV_3.32:9 ||
+   * anirāsaḥ svasaṃvettṛbhāvād apracyutir nijāt || SivSV_3.32:10 ||	* anirAsaH sva-saMvettR-BAvAt apracyutiH nijAt || SivSV_3.32:10 ||
+   * udyatturyacamatkārād upalabdhṛsvabhāvataḥ || SivSV_3.32:11 ||	* udyat-turya-camatkArAt upalabDR-svaBAvataH || SivSV_3.32:11 ||
+   * nirāse tasya sṛṣṭyādeḥ sṛjyasyāpy aprakāśanāt || SivSV_3.32:12 ||	* nirAse tasya sRzwi-AdeH sRjyasya-api aprakASanAt || SivSV_3.32:12 ||
+   * viśvasṛṣṭisthitidhvaṃseṣv aprakampasya yoginaḥ || SivSV_3.32:13 ||]	* viSva-sRzwi-sTiti-DvaMsezu aprakampasya yoginaH || SivSV_3.32:13 ||]
+   sukhāsukhayor bahir mananam // SivS_3.33 //	suKa-asuKayoH bahis mananam // SivH-_3.33 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * uttīrṇadehaprāṇādipramātṛtvasya dhīmataḥ || SivSV_3.33:1 ||	* uttIrNa-deha-prANa-Adi-pramAtR-tvasya DImataH || SivSV_3.33:1 ||
+   * vedyasparśajayos tasya mananaṃ sukhaduḥkhayoḥ || SivSV_3.33:2 ||	* vedya-sparSa-jayoH tasya mananam suKa-duHKayoH || SivSV_3.33:2 ||
+   * idaṃtābhāsarūpeṇa nīlapītādivad bahiḥ || SivSV_3.33:3 ||	* idaMtA-ABAsa-rUpeNa nIla-pIta-Adi-vat bahis || SivSV_3.33:3 ||
+   * ahaṃ sukhīti duḥkhīti lokavan na tv ahaṃtayā || SivSV_3.33:4 ||	* aham suKI-iti duHKI-iti loka-vat na tu ahaMtayA || SivSV_3.33:4 ||
+   * svaśaktipracayo viśvam iti sūtrārthanītitaḥ || SivSV_3.33:5 ||	* sva-Sakti-pracayaH viSvam iti sUtra-arTa-nItitaH || SivSV_3.33:5 ||
+   * ahaṃtācchāditatvena sarvam asya prakāśate || SivSV_3.33:6 ||	* ahaMtA-AcCAdita-tvena sarvam asya prakASate || SivSV_3.33:6 ||
+   * yogino laukikasyeva sukhādy eva na kevalam || SivSV_3.33:7 ||	* yoginaH lOkikasya-iva suKa-Adi eva na kevalam || SivSV_3.33:7 ||
+   * atikrāntamahāmohākrāntadehādyahaṃkṛtiḥ || SivSV_3.33:8 ||	* atikrAnta-mahA-moha-AkrAnta-deha-Adi-ahaMkRtiH || SivSV_3.33:8 ||
+   * lokavatsukhaduḥkhābhyāṃ kathaṃ spṛśyeta yogirāṭ || SivSV_3.33:9 ||	* loka-vat-suKa-duHKAByAm kaTam spRSyeta yogi-rAj || SivSV_3.33:9 ||
+   * udañcaccitpramātṛtvanyañcatpuryaṣṭakasthiteḥ || SivSV_3.33:10 ||	* udaQcat-cit-pramAtR-tva-nyaQcat-puryazwaka-sTiteH || SivSV_3.33:10 ||
+   * yato na tatsukhādyantas tata evaiṣa sādhakaḥ || SivSV_3.33:11 ||]	* yatas na tad-suKa-Adi-antaH tatas eva-eza sADakaH || SivSV_3.33:11 ||]
+   tadvimuktas tu kevalī // SivS_3.34 //	tad-vimuktaH tu kevalI // SivH-_3.34 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * tābhyāṃ mukto viśeṣeṇa yogīndro yat tayor yataḥ || SivSV_3.34:1 ||	* tAByAm muktaH viSezeNa yogi-indraH yat tayoH yatas || SivSV_3.34:1 ||
+   * saṃskāreṇāpy asaṃspṛṣṭaḥ kevalī cinmayaḥ smṛtaḥ || SivSV_3.34:2 ||	* saMskAreNa-api asaMspRzwaH kevalI cit-mayaH smRtaH || SivSV_3.34:2 ||
+   * tuśabdo 'ntaram ākhyāti vakṣyamāṇavyapekṣayā || SivSV_3.34:3 ||	* tuSabdaH antaram AKyAti vakzyamANa-vyapekzayA || SivSV_3.34:3 ||
+   * evam uttarasūtrastho 'py etatsūtravyapekṣayā || SivSV_3.34:4 ||	* evam uttara-sUtra-sTaH api etat-sUtra-vyapekzayA || SivSV_3.34:4 ||
+   * tad evāha tuśabdoktam antaraṃ candraśekharaḥ || SivSV_3.34:5 ||]	* tat eva-Aha tuSabda-uktam antaram candraSeKaraH || SivSV_3.34:5 ||]
+   mohapratisaṃhatas tu karmātmā // SivS_3.35 //	moha-pratisaMhataH tu karma-AtmA // SivH-_3.35 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * mohaḥ svākhyātir ajñānaṃ tena yaḥ pratisaṃhataḥ || SivSV_3.35:1 ||	* mohaH su-AKyAtiH ajQAnam tena yaH pratisaMhataH || SivSV_3.35:1 ||
+   * tadekaghanatāṃ prāptas tato duḥkhādyupāśrayaḥ || SivSV_3.35:2 ||	* tad-eka-Gana-tAm prAptaH tatas duHKa-Adi-upASrayaH || SivSV_3.35:2 ||
+   * tata eva sa karmātmā śubhāśubhakalaṅkitaḥ || SivSV_3.35:3 ||	* tatas eva sa karma-AtmA SuBa-aSuBa-kalaFkitaH || SivSV_3.35:3 ||
+   * tasyaivam īdṛśasyāpi tattatkarmātmano yadā || SivSV_3.35:4 ||	* tasya-evam IdRSasya-api tat-tad-karma-AtmanaH yadA || SivSV_3.35:4 ||
+   * anargalamaheśānaśaktipātāt samunmiṣan || SivSV_3.35:5 ||	* anargala-maheSAna-SaktipAtAt samunmizan || SivSV_3.35:5 ||
+   * svātantryayogaḥ sahajaḥ prādurasti tadāsya tu || SivSV_3.35:6 ||]	* svAtantrya-yogaH sahajaH prAdurasti tadA-asya tu || SivSV_3.35:6 ||]
+   bhedatiraskāre sargāntarakarmatvam // SivS_3.36 //	Beda-tiraskAre sarga-antara-karma-tvam // SivH-_3.36 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * bhedasya dehaprāṇādimitāhaṃkṛtijanmanaḥ || SivSV_3.36:1 ||	* Bedasya deha-prANa-Adi-mita-ahaMkRti-janmanaH || SivSV_3.36:1 ||
+   * kalādivalitabhrāntasakalādyucitātmanaḥ || SivSV_3.36:2 ||	* kalA-Adi-valita-BrAnta-sakala-Adi-ucita-AtmanaH || SivSV_3.36:2 ||
+   * tiraskāre sthitasyāpi svonmeṣād apahastane || SivSV_3.36:3 ||	* tiraskAre sTitasya-api sva-unmezAt apahastane || SivSV_3.36:3 ||
+   * mantramantreśatādātmyasvamāhātmyaprakāśanāt || SivSV_3.36:4 ||	* mantra-mantreSa-tAdAtmya-sva-mAhAtmya-prakASanAt || SivSV_3.36:4 ||
+   * syāt sargāntarakarmatvam amuṣya parayoginaḥ || SivSV_3.36:5 ||	* syAt sarga-antara-karma-tvam amuzya para-yoginaH || SivSV_3.36:5 ||
+   * yathābhilāṣanirmeyanirmātṛtvaṃ sphuṭaṃ bhavet || SivSV_3.36:6 ||	* yaTA-aBilAza-nirmeya-nirmAtR-tvam sPuwam Bavet || SivSV_3.36:6 ||
+   * na caitad apy asaṃbhāvyaṃ sraṣṭṛtvaṃ yogino yataḥ || SivSV_3.36:7 ||]	* na ca-etat api asaMBAvyam srazwR-tvam yoginaH yatas || SivSV_3.36:7 ||]
+   karaṇaśaktiḥ svato 'nubhavāt // SivS_3.37 //	karaNa-SaktiH svatas anuBavAt // SivH-_3.37 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * svataḥ svasmād anubhavāt svapnasaṃkalpanādiṣu || SivSV_3.37:1 ||	* svatas svasmAt anuBavAt svapna-saMkalpana-Adizu || SivSV_3.37:1 ||
+   * karaṇaṃ nijasaṃvedyagrāhyagrāhakanirmitiḥ || SivSV_3.37:2 ||	* karaNam nija-saMvedya-grAhya-grAhaka-nirmitiH || SivSV_3.37:2 ||
+   * śaktis tatkartṛtonmeṣaḥ svasaṃvittyaiva sidhyati || SivSV_3.37:3 ||	* SaktiH tad-kartR-tA-unmezaH sva-saMvittyA-eva siDyati || SivSV_3.37:3 ||
+   * sambhavantīṃ tathā sṛṣṭiṃ yadi dārḍhyena bhāvayet || SivSV_3.37:4 ||	* samBavantIm taTA sRzwim yadi dArXyena BAvayet || SivSV_3.37:4 ||
+   * sarvasādhāraṇāśeṣanirmitiś ca bhavet tadā || SivSV_3.37:5 ||	* sarva-sADAraNa-aSeza-nirmitiH ca Bavet tadA || SivSV_3.37:5 ||
+   * yataḥ karaṇaśaktyātra śaktiḥ svātantryarūpiṇī || SivSV_3.37:6 ||	* yatas karaNa-SaktyA-atra SaktiH svAtantrya-rUpiNI || SivSV_3.37:6 ||
+   * pramātur bodharūpasya sāraṃ tasmāt svamāyayā || SivSV_3.37:7 ||	* pramAtuH boDa-rUpasya sAram tasmAt sva-mAyayA || SivSV_3.37:7 ||
+   * tirohitāyāḥ svātantryaśakter uttejanaṃ prati || SivSV_3.37:8 ||]	* tirohitAyAH svAtantrya-SakteH uttejanam prati || SivSV_3.37:8 ||]
+   tripadādyanuprāṇanam // SivS_3.38 //	tripada-Adi-anuprANanam // SivH-_3.38 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * tripadaṃ jāgarāsvapnasauṣuptānām anukramāt || SivSV_3.38:1 ||	* tri-padam jAgarA-svapna-sOzuptAnAm anukramAt || SivSV_3.38:1 ||
+   * pratyekam ādimadhyāntarūpaṃ bhaṅgyā nirūpitam || SivSV_3.38:2 ||	* pratyekam Adi-maDya-anta-rUpam BaFgyAH nirUpitam || SivSV_3.38:2 ||
+   * bhāvaunmukhyatadāsaktitadekīkaraṇātmakam || SivSV_3.38:3 ||	* BAva-OnmuKya-tad-Asakti-tad-ekIkaraNa-Atmakam || SivSV_3.38:3 ||
+   * sṛṣṭisthitilayākāraṃ turyeṇaiva tadādinā || SivSV_3.38:4 ||	* sRzwi-sTiti-laya-AkAram turyeNa-eva tad-AdinA || SivSV_3.38:4 ||
+   * tattrayāntaś camatkārarasānandaghanātmanā || SivSV_3.38:5 ||	* tat-traya-antaH camatkAra-rasa-Ananda-Gana-AtmanA || SivSV_3.38:5 ||
+   * māyayācchāditenāpi tirodhānasvarūpayā || SivSV_3.38:6 ||	* mAyayA-AcCAditena-api tiroDAna-svarUpayA || SivSV_3.38:6 ||
+   * tattadviṣayabhogeṣu vidyudvatsphuratā kṣaṇam || SivSV_3.38:7 ||	* tad-tad-vizaya-Bogezu vidyut-vat-sPuratA kzaNam || SivSV_3.38:7 ||
+   * anuprāṇanam ādadhyād avadhānena sādhakaḥ || SivSV_3.38:8 ||	* anuprANanam AdaDyAt avaDAnena sADakaH || SivSV_3.38:8 ||
+   * tenaiva jīvitenāpi jīvitasya nijātmanaḥ || SivSV_3.38:9 ||	* tena-eva jIvitena-api jIvitasya nija-AtmanaH || SivSV_3.38:9 ||
+   * samyaguttejanaṃ kuryād yenāsau tanmayo bhavet || SivSV_3.38:10 ||	* samyak-uttejanam kuryAt yena-asO tad-mayaH Bavet || SivSV_3.38:10 ||
+   * turyānuprāṇanaṃ proktaṃ jāgarādau purā triṣu || SivSV_3.38:11 ||	* turya-anuprANanam proktam jAgara-AdO purA trizu || SivSV_3.38:11 ||
+   * caturtham iti sūtreṇa tripadetyādināmunā || SivSV_3.38:12 ||	* caturTam iti sUtreNa tripada-ityAdinA-amunA || SivSV_3.38:12 ||
+   * jāgarādyādimadhyāntaparvasv iti viśiṣyate || SivSV_3.38:13 ||	* jAgara-Adi-Adi-maDya-anta-parvasu iti viSizyate || SivSV_3.38:13 ||
+   * antarmukhasvarūpāyām avasthāyāṃ na kevalam || SivSV_3.38:14 ||	* antarmuKa-svarUpAyAm avasTAyAm na kevalam || SivSV_3.38:14 ||
+   * tripadādiprāṇanam ity etad uktam athāpi tu || SivSV_3.38:15 ||]	* tri-pada-Adi-prANanam iti etat uktam aTa-api tu || SivSV_3.38:15 ||]
+   cittasthitivac charīrakaraṇabāhyeṣu // SivS_3.39 //	citta-sTiti-vat SarIra-karaNa-bAhyezu // SivH-_3.39 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * anuprāṇanam ity etad ādadyād iti śiṣyate || SivSV_3.39:1 ||	* anuprANanam iti etat AdadyAt iti Sizyate || SivSV_3.39:1 ||
+   * antarmukhasvarūpāyāṃ yathā cittasthitau tathā || SivSV_3.39:2 ||	* antarmuKa-svarUpAyAm yaTA citta-sTitO taTA || SivSV_3.39:2 ||
+   * anuprāṇanamuktena turyeṇānandarūpiṇā || SivSV_3.39:3 ||	* anuprANana-muktena turyeNa-Ananda-rUpiNA || SivSV_3.39:3 ||
+   * kuryād bahirmukhatve 'pi dehākṣaviṣayātmani || SivSV_3.39:4 ||	* kuryAt bahirmuKa-tve api deha-akza-vizaya-Atmani || SivSV_3.39:4 ||
+   * tanmayaṃ bhavatīty arthāt tadā sarvaṃ carācaram || SivSV_3.39:5 ||	* tad-mayam Bavati-iti arTAt tadA sarvam carAcaram || SivSV_3.39:5 ||
+   * evaṃ svānandarūpāsya śaktiḥ svātantryalakṣaṇā || SivSV_3.39:6 ||	* evam sva-Ananda-rUpA-asya SaktiH svAtantrya-lakzaNAH || SivSV_3.39:6 ||
+   * yatheṣṭabhāvanirmāṇakāriṇī bhavati sphuṭam || SivSV_3.39:7 ||	* yaTA-izwa-BAva-nirmANa-kAriNI Bavati sPuwam || SivSV_3.39:7 ||
+   * yadā punar asau yogī proktāṃ turyātmikāṃ daśām || SivSV_3.39:8 ||	* yadA punar asO yogI proktAm turya-AtmikAm daSAm || SivSV_3.39:8 ||
+   * āntarīṃ nāmṛśaty antas tadā dehādyahaṃkṛteḥ || SivSV_3.39:9 ||	* AntarIm na-AmRSati antar tadA deha-Adi-ahaMkRteH || SivSV_3.39:9 ||
+   * apūrṇamanyatārūpād asyāṇavamalātmanaḥ || SivSV_3.39:10 ||]	* apUrNam-anyatA-rUpAt asya-aNavamala-AtmanaH || SivSV_3.39:10 ||]
+   abhilāpād bahirgatiḥ saṃvāhyasya // SivS_3.40 //	aBilApAt bahis-gatiH saMvAhyasya // SivH-_3.40 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * tattvaiḥ śaktigaṇākrāntair dharaṇyantaiḥ kalādibhiḥ || SivSV_3.40:1 ||	* tattvEH Sakti-gaNa-AkrAntEH DaraNI-antEH kalA-AdiBiH || SivSV_3.40:1 ||
+   * yoner yonyantaraṃ neyaḥ saṃvāhyaḥ paśur ucyate || SivSV_3.40:2 ||	* yoneH yoni-antaram neyaH saMvAhyaH paSuH ucyate || SivSV_3.40:2 ||
+   * tasyāṇavamalākārāt tattatkarmānusāriṇaḥ || SivSV_3.40:3 ||	* tasya-aNava-mala-AkArAt tad-tad-karma-anusAriNaH || SivSV_3.40:3 ||
+   * apūrṇamanyatārūpād abhilāṣād bahirgatiḥ || SivSV_3.40:4 ||	* apUrNam-anyatA-rUpAt aBilAzAt bahis-gatiH || SivSV_3.40:4 ||
+   * viṣayonmukhataivāsya nāntas tattvānusaṃhitiḥ || SivSV_3.40:5 ||	* vizaya-unmuKa-tA-eva-asya na-antaH tattva-anusaMhitiH || SivSV_3.40:5 ||
+   * yadā punar maheśānaśaktipātavaśonmiṣat || SivSV_3.40:6 ||	* yadA punar maheSAna-SaktipAta-vaSa-unmizat || SivSV_3.40:6 ||
+   * ātmīyam eva vimṛśan nāste rūpaṃ tadāsya tu || SivSV_3.40:7 ||	* AtmIyam eva vimRSan na-Aste rUpam tadA-asya tu || SivSV_3.40:7 ||
+   * abhāvād abhilāṣasya na bahirgatir āpatet || SivSV_3.40:8 ||	* aBAvAt aBilAzasya na bahis-gatiH Apatet || SivSV_3.40:8 ||
+   * api tūktacarasvātmārāmataiveti kathyate || SivSV_3.40:9 ||]	* api tu-ukta-carasva-Atma-ArAma-tA-eva-iti kaTyate || SivSV_3.40:9 ||]
+   tadārūḍhapramites tatkṣayāj jīvasaṃkṣayaḥ // SivS_3.41 //	tad-ArUXa-pramiteH tad-kzayAt jIva-saMkzayaH // SivH-_3.41 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * tad ityuktacare dhāmni saṃvettṛtvasvarūpiṇi || SivSV_3.41:1 ||	* tat iti-ukta-care DAmni saMvettR-tva-svarUpiNi || SivSV_3.41:1 ||
+   * ārūḍhā pramitiḥ saṃvit tadvimarśanatatparā || SivSV_3.41:2 ||	* ArUXA pramitiH saMvid tad-vimarSana-tatparAH || SivSV_3.41:2 ||
+   * yasya tasyāsya tad iti proktāṇavamalātmanaḥ || SivSV_3.41:3 ||	* yasya tasya-asya tat iti proktA-aNava-mala-AtmanaH || SivSV_3.41:3 ||
+   * abhilāpasya rūḍhasya kṣayāj jīvasya saṃkṣayaḥ || SivSV_3.41:4 ||	* aBilApasya rUXasya kzayAt jIvasya saMkzayaH || SivSV_3.41:4 ||
+   * puryaṣṭakasvabhāvasya praśamas tattvato bhavet || SivSV_3.41:5 ||	* puryazwaka-svaBAvasya praSamaH tattvataH Bavet || SivSV_3.41:5 ||
+   * prāpnoti dehapāto 'sya nanv evaṃ jīvasaṃkṣaye || SivSV_3.41:6 ||	* prApnoti dehapAtaH asya nanu evam jIva-saMkzaye || SivSV_3.41:6 ||
+   * nāsau kadāpi kasyāpi dṛśyate 'trāpi yoginaḥ || SivSV_3.41:7 ||	* na-asO kadApi kasya-api dRSyate atra-api yoginaH || SivSV_3.41:7 ||
+   * tasmāt kathaṃ tadārūḍhapramitiḥ sādhako bhavet || SivSV_3.41:8 ||	* tasmAt kaTam tadArUXa-pramitiH sADakaH Bavet || SivSV_3.41:8 ||
+   * ity āśaṅkyottaraṃ vakti bhagavān viśvadaiśikaḥ || SivSV_3.41:9 ||]	* iti ASaFkya-uttaram vakti BagavAn viSva-dESikaH || SivSV_3.41:9 ||]
+   bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ // SivS_3.42 //	BUta-kaQcukI tadA vimuktaH BUyas pati-samaH paraH // SivH-_3.42 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * tadety uktābhilāṣasya praśamāj jīvasaṃkṣaye || SivSV_3.42:1 ||	* tadA-iti ukta-aBilAzasya praSamAt jIva-saMkzaye || SivSV_3.42:1 ||
+   * puryaṣṭakapramātṛtvābhimānagalane 'py asau || SivSV_3.42:2 ||	* puryazwaka-pramAtR-tva-aBimAna-galane api asO || SivSV_3.42:2 ||
+   * dehārambhakarair bhūtair aspṛśadbhir ahaṃpadam || SivSV_3.42:3 ||	* deha-AramBa-karEH BUtEH aspRSadBiH ahaMpadam || SivSV_3.42:3 ||
+   * kañcukīva viśeṣeṇa mukto nirvāṇabhāgyataḥ || SivSV_3.42:4 ||	* kaQcukI-iva viSezeNa muktaH nirvANa-BAgyataH || SivSV_3.42:4 ||
+   * bhūyo bāhulyataḥ patyā samo 'yaṃ parameśinā || SivSV_3.42:5 ||	* BUyas bAhulyataH patyA samaH ayam parameSinA || SivSV_3.42:5 ||
+   * tatsvarūpasamāviṣṭacidānandaghanātmakaḥ || SivSV_3.42:6 ||	* tad-svarUpa-samAvizwa-cit-Ananda-Gana-AtmakaH || SivSV_3.42:6 ||
+   * tata eva paraḥ pūrṇaḥ samyak tanmayatāṃ gataḥ || SivSV_3.42:7 ||	* tatas eva paraH pUrNaH samyak tad-maya-tAm gataH || SivSV_3.42:7 ||
+   * bhūtakañcukitāpy asya tadaiva na nivartate || SivSV_3.42:8 ||	* BUta-kaQcuki-tA-api asya tadA-eva na nivartate || SivSV_3.42:8 ||
+   * kasmād ity api śaṅkāyām uttaraṃ vakti śaṃkaraḥ || SivSV_3.42:9 ||]	* kasmAt iti api SaFkAyAm uttaram vakti SaMkaraH || SivSV_3.42:9 ||]
+   naisargikaḥ prāṇasambandhaḥ // SivS_3.43 //	nEsargikaH prANa-sambanDaH // SivH-_3.43 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * prāṇe pariṇatā saṃvit prāg iti proktayā diśā || SivSV_3.43:1 ||	* prANe pariNatA saMvid prAk iti proktayA diSAH || SivSV_3.43:1 ||
+   * nisargāt sahajāt svasya svātantryād anivāritāt || SivSV_3.43:2 ||	* nisargAt sahajAt svasya svAtantryAt anivAritAt || SivSV_3.43:2 ||
+   * cañcatprapañcavaicitryaprakarṣakaraṇecchayā || SivSV_3.43:3 ||	* caQcat-prapaQca-vEcitrya-prakarza-karaNa-icCayA || SivSV_3.43:3 ||
+   * saṃkocaṃ parigṛhṇānā saṃvid bhagavatī svayam || SivSV_3.43:4 ||	* saMkocam parigRhNAnA saMvid BagavatI svayam || SivSV_3.43:4 ||
+   * prāpnoti saṃkucattattatprāṇagrāhakabhūmikāḥ || SivSV_3.43:5 ||	* prApnoti saMkucat-tad-tad-prANa-grAhaka-BUmikAH || SivSV_3.43:5 ||
+   * uktam arthaṃ dṛḍhīkartuṃ saṃvādaḥ so 'yam atra tu || SivSV_3.43:6 ||	* uktam arTam dRXIkartum saMvAdaH saH ayam atra tu || SivSV_3.43:6 ||
+   * yā sā śaktiḥ parā sūkṣmā vyāpinī nirmalā śivā || SivSV_3.43:7 ||	* yA sA SaktiH parA sUkzmA vyApinI nirmalA SivAH || SivSV_3.43:7 ||
+   * śakticakrasya jananī parānandāmṛtātmikā || SivSV_3.43:8 ||	* Sakti-cakrasya jananI para-Ananda-amRta-AtmikAH || SivSV_3.43:8 ||
+   * mahāghoreśvarī caṇḍā sṛṣṭisaṃhārakārikā || SivSV_3.43:9 ||	* mahA-GoreSvarI caNxA sRzwi-saMhAra-kArikAH || SivSV_3.43:9 ||
+   * trivahaṃ trividhaṃ triṣṭhaṃ balāt kālaṃ prakarṣati || SivSV_3.43:10 ||	* tri-vaham triviDam trizWam balAt kAlam prakarzati || SivSV_3.43:10 ||
+   * iti vājasaneyāyām iyam eva citiḥ parā || SivSV_3.43:11 ||	* iti vAjasaneyAyAm iyam eva citiH parAH || SivSV_3.43:11 ||
+   * svātantryeṇāvaruhya prāk prāṇarūpe pramātari || SivSV_3.43:12 ||	* svAtantryeNa-avaruhya prAk prANa-rUpe pramAtari || SivSV_3.43:12 ||
+   * candrabhāskaravahnyātmanāḍītritayavāhinam || SivSV_3.43:13 ||	* candra-BAskara-vahni-Atma-nAxI-tritaya-vAhinam || SivSV_3.43:13 ||
+   * antarbahirviśanniryanniśvāsocchvāsalakṣaṇam || SivSV_3.43:14 ||	* antar-bahis-viSat-niryat-niSvAsa-ucCvAsa-lakzaNam || SivSV_3.43:14 ||
+   * atītavartamānāditrividhaṃ kālam ātmani || SivSV_3.43:15 ||	* atIta-vartamAna-Adi-triviDam kAlam Atmani || SivSV_3.43:15 ||
+   * karṣanty antar bahiś ceti kathyate kālakarṣiṇī || SivSV_3.43:16 ||	* karzanti antar bahis ca-iti kaTyate kAla-karziNI || SivSV_3.43:16 ||
+   * tato naisargikas tasyāḥ prāṇasambandha āgataḥ || SivSV_3.43:17 ||	* tatas nEsargikaH tasyAH prANa-sambanDaH AgataH || SivSV_3.43:17 ||
+   * sthite 'pi prāṇasambandhe yas tadārūḍha āntarīm || SivSV_3.43:18 ||	* sTite api prANa-sambanDe yaH tad-ArUXaH AntarIm || SivSV_3.43:18 ||
+   * saṃvidaṃ vimṛśann āste sa lokottaratāṃ vrajet || SivSV_3.43:19 ||	* saMvidam vimRSan Aste sa lokottara-tAm vrajet || SivSV_3.43:19 ||
+   * ity upāyopasaṃhāramukhenāha maheśvaraḥ || SivSV_3.43:20 ||]	* iti upAya-upasaMhAra-muKena-Aha maheSvaraH || SivSV_3.43:20 ||]
+   nāsikāntarmadhyasaṃyamāt kim atra savyāpasavyasauṣumneṣu // SivS_3.44 //	nAsikA-antar-maDya-saMyamAt kim atra savya-apasavya-sOzumnezu // SivH-_3.44 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * netrādiromarandhrāntanāḍīnāṃ niviḍātmanām || SivSV_3.44:1 ||	* netra-Adi-roma-ranDra-anta-nAxInAm nivixa-AtmanAm || SivSV_3.44:1 ||
+   * sarvāsāṃ mukhyabhūteṣu sarvāvaṣṭambhadāyiṣu || SivSV_3.44:2 ||	* sarvAsAm muKya-BUtezu sarva-avazwamBa-dAyizu || SivSV_3.44:2 ||
+   * savyāpasavyasauṣumnanāḍīmārgeṣu sarvadā || SivSV_3.44:3 ||	* savya-apasavya-sOzumna-nAxI-mArgezu sarvadA || SivSV_3.44:3 ||
+   * nāḍīnāṃ nāsikā prāṇaśaktiḥ kuṭilavāhinī || SivSV_3.44:4 ||	* nAxInAm nAsikA prANa-SaktiH kuwila-vAhinI || SivSV_3.44:4 ||
+   * antar ity āntarī saṃvit tatsvarūpasya yat punaḥ || SivSV_3.44:5 ||	* antar iti AntarI saMvid tad-svarUpasya yat punar || SivSV_3.44:5 ||
+   * madhyaṃ sarvāntaratvena pradhānaṃ viśvabhittikam || SivSV_3.44:6 ||	* maDyam sarva-antara-tvena praDAnam viSva-Bittikam || SivSV_3.44:6 ||
+   * parāmarśamayaṃ rūpam uttīrṇaṃ tasya saṃyamāt || SivSV_3.44:7 ||	* parAmarSa-mayam rUpam uttIrNam tasya saMyamAt || SivSV_3.44:7 ||
+   * nibhālanaprakarṣotthāt svātmabuddhivimarśanāt || SivSV_3.44:8 ||	* niBAlana-prakarza-utTAt sva-Atma-budDi-vimarSanAt || SivSV_3.44:8 ||
+   * kim atra saṃyame vācyam iyam eva samāhitiḥ || SivSV_3.44:9 ||	* kim atra saMyame vAcyam iyam eva samAhitiH || SivSV_3.44:9 ||
+   * dedīpyamānā sarvāsu daśāsv antarnirantaram || SivSV_3.44:10 ||	* dedIpyamAnA sarvAsu daSAsu antar-nirantaram || SivSV_3.44:10 ||
+   * nirvyutthānāvadhānena yoginaivānubhūyate || SivSV_3.44:11 ||	* nirvyutTAna-avaDAnena yoginA-eva-anuBUyate || SivSV_3.44:11 ||
+   * mayy āveśya mano ye māṃ nityayuktā upāsate || SivSV_3.44:12 ||	* mayi AveSya manaH ye mAm nitya-yuktAH upAsate || SivSV_3.44:12 ||
+   * śraddhayā parayopetās te me yuktatamā matāḥ || SivSV_3.44:13 ||	* SradDayA parayA-upetAH te me yuktatamAH matAH || SivSV_3.44:13 ||
+   * iti śrībhagavadgītāproktanītyanusārataḥ || SivSV_3.44:14 ||	* iti SrI-Bagavat-gItA-proktanIti-anusArataH || SivSV_3.44:14 ||
+   * viśvottīrṇanijāhaṃtāsamāveśitacetasaḥ || SivSV_3.44:15 ||	* viSva-uttIrNa-nija-ahaMtA-samAveSita-cetasaH || SivSV_3.44:15 ||
+   * paryante yogino yogaphalaṃ samyak pradarśayan || SivSV_3.44:16 ||	* paryante yoginaH yoga-Palam samyak pradarSayan || SivSV_3.44:16 ||
+   * upasaṃharati śrīmān uktaṃ prakaraṇaṃ śivaḥ || SivSV_3.44:17 ||]	* upasaMharati SrImAn uktam prakaraNam SivaH || SivSV_3.44:17 ||]
+   bhūyaḥ syāt pratimīlanam // SivS_3.45 //	BUyas syAt pratimIlanam // SivH-_3.45 //
+   * [<śivasūtravārtika:>	* [<Siva-sUtra-vArtika:>
+   * punaś ca proktacaitanyasvarūponmīlanātmakam || SivSV_3.45:1 ||	* punar ca prokta-cEtanya-svarUpa-unmIlana-Atmakam || SivSV_3.45:1 ||
+   * parayogādhirūḍhasya bhavet paramayoginaḥ || SivSV_3.45:2 ||	* para-yoga-aDirUXasya Bavet parama-yoginaH || SivSV_3.45:2 ||
+   * bhūyaḥ syād iti vākyasya sphuṭam evāyam āśayaḥ || SivSV_3.45:3 ||	* BUyas syAt iti vAkyasya sPuwam eva-ayam ASayaH || SivSV_3.45:3 ||
+   * yac chivatvam amuṣyoktaṃ nāpūrvaṃ tat tu yoginaḥ || SivSV_3.45:4 ||	* yat Siva-tvam amuzya-uktam na-apUrvam tat tu yoginaH || SivSV_3.45:4 ||
+   * svabhāva eva tanmāyāśaktiprotthāpitān nijāt || SivSV_3.45:5 ||	* svaBAvaH eva tad-mAyA-Sakti-protTApitAn nijAt || SivSV_3.45:5 ||
+   * nāyaṃ vikalpadaurātmyād bhāsamānam api svataḥ || SivSV_3.45:6 ||	* na-ayam vikalpa-dOrAtmyAt BAsamAnam api svatas || SivSV_3.45:6 ||
+   * vimraṣṭuṃ kṣama ity asya proktopāyakrameṇa tat || SivSV_3.45:7 ||	* vimrazwum kzamaH iti asya prokta-upAya-krameNa tat || SivSV_3.45:7 ||
+   * śivatvaṃ vyaktim etīti śivenodīritaṃ śivam || SivSV_3.45:8 ||	* Siva-tvam vyaktim eti-iti Sivena-udIritam Sivam || SivSV_3.45:8 ||
+   * ity unmeṣas tṛtīyo 'yam āṇavopāyasūcakaḥ || SivSV_3.45:9 ||	* iti unmezaH tRtIyaH ayam ANavopAya-sUcakaH || SivSV_3.45:9 ||
+   * iti śrīśivasūtrāṇāṃ rahasyārthopabṛṃhitam || SivSV_3.45:10 ||	* iti SrI-SivasUtrANAm rahasya-arTa-upabRMhitam || SivSV_3.45:10 ||
+   * prāguktavārttikāṃśena sahitaṃ vārttikāntaram || SivSV_3.45:11 ||	* prAc-ukta-vArttika-aMSena sahitam vArttika-antaram || SivSV_3.45:11 ||
+   * akhaṇḍasaṃvitsāmrājyayauvarājyādhikāriṇām || SivSV_3.45:12 ||	* aKaNxa-saMvid-sAmrAjya-yOvarAjya-aDikAriNAm || SivSV_3.45:12 ||
+   * parākramahaṭhākrāntaṣaṭtriṃśattattvasampadām || SivSV_3.45:13 ||	* parAkrama-haWa-AkrAnta-zawtriMSat-tattva-sampadAm || SivSV_3.45:13 ||
+   * madhurājakumārāṇāṃ mahāhaṃtādhirohiṇām || SivSV_3.45:14 ||	* maDu-rAja-kumArANAm mahA-ahaMtA-aDirohiNAm || SivSV_3.45:14 ||
+   * paścimena tadālokadhvastapaścimajanmanā || SivSV_3.45:15 ||	* paScimena tad-Aloka-Dvasta-paScima-janmanA || SivSV_3.45:15 ||
+   * mayā varadarājena māyāmohāpasārakam || SivSV_3.45:16 ||	* mayA vara-da-rAjena mAyA-moha-apasArakam || SivSV_3.45:16 ||
+   * śrīkṣemarājanirṇītavyākhyānādhvānusāriṇā || SivSV_3.45:17 ||	* SrI-kzemarAja-nirNIta-vyAKyAna-aDva-anusAriNA || SivSV_3.45:17 ||
+   * kṛtinā kṛṣṇadāsena vyañjitaṃ kṛpayāñjasā || SivSV_3.45:18 ||	* kRtinA kRzNa-dAsena vyaQjitam kRpayA-aQjasA || SivSV_3.45:18 ||
+   * anugṛhṇantu nāmaitat santaḥ saṃtoṣam āgatāḥ || SivSV_3.45:19 ||]	* anugRhNantu nAma-etat santaH saMtozam AgatAH || SivSV_3.45:19 ||]

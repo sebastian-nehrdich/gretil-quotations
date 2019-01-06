@@ -1,0 +1,152 @@
+   // śalyaparva //	// Salyaparva //
+   nārāyaṇaṃ namaskṛtya naraṃ caiva narottamam /	nArAyaNam namaskRtya naram ca-eva narottamam /
+   devīṃ sarasvatīṃ vyāsaṃ tato jayamudīrayet // Bhmj_9.1 //	devIm sarasvatIm vyAsam tatas jayam-udIrayet // Bhmd-_9.1 //
+   evaṃ jambha ivendreṇa hate karṇe kirīṭinā /	evam jamBaH iva-indreNa hate karNe kirIwinA /
+   yuddhaṃ nyavedayadrājñe punarabhyetya saṃjayaḥ // Bhmj_9.2 //	yudDam nyavedayat-rAjQe punar-aByetya saMjayaH // Bhmd-_9.2 //
+   śekhare sarvavīrāṇāmarthināṃ kalpapādape /	SeKare sarva-vIrANAm-arTinAm kalpa-pAdape /
+   hate vaikartane rājansarvāśārajanīkṛti // Bhmj_9.3 //	hate vEkartane rAjan-sarva-ASA-rajanI-kRti // Bhmd-_9.3 //
+   tadātmanā gate kvāpi nijajīva ivākulaḥ /	tad-AtmanA gate kvApi nija-jIvaH iva-AkulaH /
+   duryodhano nirucchvāso mene śūnyā diśo daśa // Bhmj_9.4 //	duryoDanaH nirucCvAsaH mene SUnyAH diSaH daSa // Bhmd-_9.4 //
+   cacāra rathināṃ madhye pāṇḍavānyoddhumudyataḥ /	cacAra raTinAm maDye pANxavAn-yodDum-udyataH /
+   pareṇaiva śarīreṇa paralokagato naraḥ // Bhmj_9.5 //	pareNa-eva SarIreNa para-loka-gataH naraH // Bhmd-_9.5 //
+   tato drauṇigirā kṛtvā śalyaṃ senāpatiṃ nṛpaḥ /	tatas drONi-girA kRtvA Salyam senApatim nRpaH /
+   raṇaṃ vitara(?)rājyārthe viveśa tridaśālayam // Bhmj_9.6 //	raNam vitara-(?)rAjya-arTe viveSa tridaSAlayam // Bhmd-_9.6 //
+   rathānāmayutaṃ sāgraṃ tāvadeva ca dantinām /	raTAnAm-ayutam sAgram tAvat-eva ca dantinAm /
+   lakṣyadvayaṃ dvayānāṃ ca tisraḥ koṭyaḥ padātinām // Bhmj_9.7 //	lakzya-dvayam dvayAnAm ca tisraH kowyaH padAtinAm // Bhmd-_9.7 //
+   sainyaśeṣamabhūdetatkururājasya saṃgare /	sEnya-Sezam-aBUt-etat-kuru-rAjasya saMgare /
+   ator'dhaṃ pāṇḍavānāṃ ca hataśeṣamabhūdbalam // Bhmj_9.8 //	atoraDam pANxavAnAm ca hata-Sezam-aBUt-balam // Bhmd-_9.8 //
+   asminnāyodhane ghore rājñāṃ saṃhāramaṇḍale /	asmin=-AyoDane Gore rAjQAm saMhAra-maNxale /
+   mastiṣkakardamaluṭhatpattisyandanakuñjare // Bhmj_9.9 //	mastizka-kardama-luWat-patti-syandana-kuQjare // Bhmd-_9.9 //
+   ākīrṇavaktrakamale raṅgodbhaṅgarathāṅgake /	AkIrNa-vaktra-kamale raFga-udBaFga-raTa-aFgake /
+   visrastārājaṃsaughe khaṅgakhaṇḍotpalākule // Bhmj_9.10 //	visrasta-ArAjaMsa-oGe KaFga-KaNxa-utpala-Akule // Bhmd-_9.10 //
+   keśaśevālajambālaśeṣakīlālapicchile /	keSa-SevAla-jambAla-Seza-kIlAla-picCile /
+   akālakālakariṇā sarasīva viloḍite // Bhmj_9.11 //	akAla-kAla-kariNA sarasi-iva viloxite // Bhmd-_9.11 //
+   srastavarāśvakarṇāṅke bhagnabāṇāsanāvṛte /	srasta-vara-aSvakarNa-aFke Bagna-bANAsana-AvRte /
+   kadalīśakalālole vane vajrairivāhate // Bhmj_9.12 //	kadalI-Sakala-Alole vane vajrEH-iva-Ahate // Bhmd-_9.12 //
+   utpalāvayavāpūrṇavyaktaśaktyāsavodite /	utpala-avayava-ApUrNa-vyakta-Sakti-Asava-udite /
+   udyāna iva kālasya kapālacaṣakākule // Bhmj_9.13 //	udyAnaH iva kAlasya kapAla-cazaka-Akule // Bhmd-_9.13 //
+   punaḥ pravṛtte samare śalyahārdikyasauvalāḥ /	punar pravRtte samare Salya-hArdikya-sOvalAH /
+   viviśuḥ pāṇḍavacamūṃ kṛpadrauṇisuyodhanāḥ // Bhmj_9.14 //	viviSuH pANxava-camUm kRpa-drONi-suyoDanAH // Bhmd-_9.14 //
+   pārthapārṣataśaineyadraupadeyaśikhaṇḍinaḥ /	pArTa-pArzata-SEneya-drOpadeya-SiKaNxinaH /
+   jaghnustrigartagāndhārakapināthavarūthinīḥ // Bhmj_9.15 //	jaGnuH-trigarta-gAnDAra-kapi-nATa-varUTinIH // Bhmd-_9.15 //
+   amaryāde raṇe tasminkṣībā iva mahārathāḥ /	amaryAde raNe tasmin-kzIbAH iva mahA-raTAH /
+   kruddhā yuyudhire ghoraṃ hatabandhusuhṛdgaṇāḥ // Bhmj_9.16 //	krudDAH yuyuDire Goram hata-banDu-suhRd-gaNAH // Bhmd-_9.16 //
+   satyasenaṃ suṣeṇaṃ ca citrasenaṃ ca karṇajam /	satyasenam suzeNam ca citrasenam ca karNa-jam /
+   jaghāna nakulo vīrānkarṇatulyaparākramān // Bhmj_9.17 //	jaGAna nakulaH vIrAn-karNa-tulya-parAkramAn // Bhmd-_9.17 //
+   tataḥ śalyena balinā gajeneva sarojinī /	tatas Salyena balinA gajena-iva sarojinI /
+   mṛdyamānā sanirghoṣā cakampe pāṇḍuvāhinī // Bhmj_9.18 //	mRdyamAnA sa-nirGozA cakampe pANxu-vAhinI // Bhmd-_9.18 //
+   śalyena ripuśalyenā vadhyamānāṃ varūthinīm /	Salyena ripu-SalyenA vaDyamAnAm varUTinIm /
+   dṛṣṭvā bhīmo gadāpāṇirbhīmakopastamādravat // Bhmj_9.19 //	dRzwvA BImaH gadA-pANiH-BIma-kopaH-tam-Adravat // Bhmd-_9.19 //
+   sa hatvā gadayā tasya rathaṃ rathaśatacchidaḥ /	sa hatvA gadayA tasya raTam raTa-Sata=-CidaH /
+   mumūrṣordaṇḍamudyamya tasthau kāla ivāgrataḥ // Bhmj_9.20 //	mumUrzoH-daNxam-udyamya tasTO kAlaH iva-agratas // Bhmd-_9.20 //
+   ādāya madrarājo 'pi gadāṃ cāmīkarāṅgadām /	AdAya madra-rAjaH api gadAm cAmIkara-aFgadAm /
+   bhīmaṃ bhīmabalaḥ kopāddarpoddhatamayodhayat // Bhmj_9.21 //	BImam BIma-balaH kopAt-darpa-udDatam-ayoDayat // Bhmd-_9.21 //
+   maṇḍalāni carantau tāvabhipatya parasparam /	maNxalAni carantO tO=-aBipatya parasparam /
+   ghātajātasphuliṅgābhyāṃ gadābhyāmabhijaghnatuḥ // Bhmj_9.22 //	GAta-jAta-sPuliFgAByAm gadAByAm-aBijaGnatuH // Bhmd-_9.22 //
+   tayormūrcchitayoḥ kṣipraṃ mohātpatitayorbhuvi /	tayoH-mUrcCitayoH kzipram mohAt-patitayoH-Buvi /
+   sānugāstūrṇamājagmuḥ saṃrabdhāḥ kurupāṇḍavāḥ // Bhmj_9.23 //	sa-anugAH-tUrNam-AjagmuH saMrabDAH kuru-pANxavAH // Bhmd-_9.23 //
+   saṃjñāmavāpya sahasā yathāvatsthitayostayoḥ /	saMjQAm-avApya sahasA yaTAvat-sTitayoH-tayoH /
+   duryodhanamukhā vīrāḥ pārthamukhyānayodhayan // Bhmj_9.24 //	duryoDana-muKAH vIrAH pArTa-muKyAn-ayoDayan // Bhmd-_9.24 //
+   brahmalokābhikāmeṣu yudhyamāneṣu rājasu /	brahma-loka-aBikAmezu yuDyamAnezu rAjasu /
+   suyodhanaścekitānamavadhīdbhūbhujāṃ varam // Bhmj_9.25 //	suyoDanaH-cekitAnam-avaDIt-BUBujAm varam // Bhmd-_9.25 //
+   madrarājastataḥ kruddhaḥ pāṇḍūputrānsahānugān /	madra-rAjaH-tatas krudDaH pANxu-uputrAn-saha-anugAn /
+   avārayadbalādekaḥ pūjyamāno nabhaścaraiḥ // Bhmj_9.26 //	avArayat-balAt-ekaH pUjyamAnaH naBaScarEH // Bhmd-_9.26 //
+   śastravṛṣṭiṃ tadutsṛṣṭāṃ chittvā bāṇairasaṃbhramaḥ /	Sastra-vRzwim tad-utsRzwAm CittvA bANEH-asaMBramaH /
+   muhurtādvidadhe śalyastānadṛśyānpatatribhiḥ // Bhmj_9.27 //	muhur-tAdvidaDe SalyaH-tAn-adRSyAn-patatriBiH // Bhmd-_9.27 //
+   chādite śarajālena sainye madramahībhujā /	CAdite Sara-jAlena sEnye madra-mahIBujA /
+   kruddho 'vadhītsahasre dve rathānāṃ dharmanandanaḥ // Bhmj_9.28 //	krudDaH avaDIt-sahasre dve raTAnAm DarmanandanaH // Bhmd-_9.28 //
+   dṛṣṭvānugānhatānrājñā śalyo yudhi yudhiṣṭhiram /	dRzwvA-anugAn-hatAn-rAjQA SalyaH yuDi yuDizWiram /
+   śilīmukhaśataiḥ pūrṇamathāśokamivākarot // Bhmj_9.29 //	SilImuKa-SatEH pUrNam-aTa-aSokam-iva-akarot // Bhmd-_9.29 //
+   pīḍite dharmatanaye nakulaḥ kopakampitaḥ /	pIxite Darma-tanaye nakulaH kopa-kampitaH /
+   bhīmasātyakimukhyāśca śaraiḥ śalyamavākiran // Bhmj_9.30 //	BIma-sAtyaki-muKyAH-ca SarEH Salyam-avAkiran // Bhmd-_9.30 //
+   tataḥ śarāndhakāreṇa sthagayanbhuvanodaram /	tatas Sara-anDakAreNa sTagayan-Buvana-udaram /
+   unmamāthaḥ ghanadhvānaḥ śalyaḥ pārthavarūthinīm // Bhmj_9.31 //	unmamATaH Gana-DvAnaH SalyaH pArTa-varUTinIm // Bhmd-_9.31 //
+   ākulaḥ samare tasmiñjiṣṇurdraiṇimayodhayat /	AkulaH samare tasmin-jizNuH-drENim-ayoDayat /
+   duryodhanaṃ bhīmaseno nakulaḥ subalātmajam // Bhmj_9.32 //	duryoDanam BImasenaH nakulaH subala-Atmajam // Bhmd-_9.32 //
+   kṣapitāśeṣanṛpateḥ śalyasyātha yudhiṣṭhiraḥ /	kzapita-aSeza-nRpateH Salyasya-aTa yuDizWiraH /
+   chittvāyudhāni sarvāṇi tilaśo vidadhe ratham // Bhmj_9.33 //	CittvA-AyuDAni sarvANi tilaSas vidaDe raTam // Bhmd-_9.33 //
+   aparaṃ rathamāsthāya madrarājaḥ krudhā jvalan /	aparam raTam-AsTAya madra-rAjaH kruDA jvalan /
+   cakāra dharmatanayaṃ kṛttacāparathadhvajam // Bhmj_9.34 //	cakAra Darma-tanayam kRtta-cApa-raTa-Dvajam // Bhmd-_9.34 //
+   bhīmaseno 'tha virathaṃ dṛṣṭvā rājānamākulaḥ /	BImasenaH aTa viraTam dRzwvA rAjAnam-AkulaH /
+   cakarta madrarājasya rathaṃ sarvāyudhaiḥ saha // Bhmj_9.35 //	cakarta madra-rAjasya raTam sarva-AyuDEH saha // Bhmd-_9.35 //
+   khaḍgahastastataḥ śalyo nighnansyandanakuñjarān /	Kaxga-hastaH-tatas SalyaH niGnan-syandana-kuQjarAn /
+   cacārālakṣitatanurmargairgaruḍavikramaḥ // Bhmj_9.36 //	cacAra-alakzita-tanuH-margEH-garuxa-vikramaH // Bhmd-_9.36 //
+   atha jvālāyamānena śoṇapaṭṭena guṇṭhitām /	aTa jvAlAyamAnena SoNa-pawwena guNWitAm /
+   bhrājiṣṇuratnakhacitāṃ mṛtyordantāvalīmiva // Bhmj_9.37 //	BrAjizNu-ratna-KacitAm mRtyoH-danta-AvalIm-iva // Bhmd-_9.37 //
+   etadantaṃ kurubalaṃ yuddhamevaṃvidhaṃ kutaḥ /	etad-antam kuru-balam yudDam-evaMviDam kutas /
+   itīva ghaṇṭāpaṭalaiḥ krośantīmaśanisvanām // Bhmj_9.38 //	iti-iva GaNwA-pawalEH kroSantIm-aSani-svanAm // Bhmd-_9.38 //
+   yudhiṣṭhiraḥ sahasraghniṃ dīptāṃ ṣaṇmukhavikramaḥ /	yuDizWiraH sahasraGnim dIptAm zaNmuKa-vikramaH /
+   prāhiṇonmadrarājāya śaktiṃ śaktimatāṃ varaḥ // Bhmj_9.39 //	prAhiNot-madra-rAjAya Saktim SaktimatAm varaH // Bhmd-_9.39 //
+   sa tayā bhinnahṛdayaḥ papāta kṣmābhṛtāṃ varaḥ /	sa tayA Binna-hRdayaH papAta kzmABRtAm varaH /
+   śrotranāsāsyavivarasravadrudhiranirjharaḥ // Bhmj_9.40 //	Srotra-nAsA-Asya-vivara-sravat-ruDira-nirJaraH // Bhmd-_9.40 //
+   ***** śalyavadhaḥ || 1 || *****	***** Salya-vaDaH || 1 || *****
+   śalye hate kauravāṇāmāśā śeṣāvalambane /	Salye hate kOravANAm-ASA Seza-avalambane /
+   rathino dudruvuḥ sarve bhagnamānamanorathāḥ // Bhmj_9.41 //	raTinaH dudruvuH sarve Bagna-mAna-manoraTAH // Bhmd-_9.41 //
+   tataḥ śalyānujaḥ kruddho vicitrakavacābhidhaḥ /	tatas Salya-anujaH krudDaH vicitraka-vaca-aBiDaH /
+   abhyāyāyau dharmarājaṃ dārayantamanīkinīm // Bhmj_9.42 //	aByAyAyO DarmarAjam dArayantam-anIkinIm // Bhmd-_9.42 //
+   pṛṣatkavarṣiṇastasya citraratnojjvalaṃ śiraḥ /	pRzatka-varziNaH-tasya citra-ratna-ujjvalam SiraH /
+   rohaṇādrerivottuṅgaṃ śṛṅgaṃ ciccheda dharmajaḥ // Bhmj_9.43 //	rohaNa-adreH-iva-uttuFgam SRFgam cicCeda DarmajaH // Bhmd-_9.43 //
+   tasminhate bhajyamānāṃ nāthahīnāṃ patākinīm /	tasmin-hate BajyamAnAm nATa-hInAm patAkinIm /
+   parāvṛtya kṛpadrauṇihārdikyāstūrṇamāyayuḥ // Bhmj_9.44 //	parAvRtya kRpa-drONi-hArdikyAH-tUrNam-AyayuH // Bhmd-_9.44 //
+   nadadbhiścedipāñcālairlabdhalakṣyairmahārathāḥ /	nadadBiH-cedi-pAQcAlEH-labDa-lakzyEH-mahA-raTAH /
+   te muhūrtaṃ yuyudhire prayātā bahutāmiva // Bhmj_9.45 //	te muhUrtam yuyuDire prayAtAH bahu-tAm-iva // Bhmd-_9.45 //
+   tataḥ svāmivadhāmarṣādyudhiṣṭhiramabhidrutān /	tatas svAmi-vaDa-AmarzAt-yuDizWiram-aBidrutAn /
+   hatvā śeṣānaho madrānamadrāṃ pṛthivīṃ vyadhāt // Bhmj_9.46 //	hatvA SezAn-ahaH madrAnamadrAm pRTivIm vyaDAt // Bhmd-_9.46 //
+   atha bhīmo gadāpāṇirnipuṇaḥ kṣayakarmasu /	aTa BImaH gadA-pANiH-nipuNaH kzaya-karmasu /
+   niṣpiṣya mlecchānsarvāṃśca raṇaṃ śūnyamivākarot // Bhmj_9.47 //	nizpizya mlecCAn-sarvAn=-ca raNam SUnyam-iva-akarot // Bhmd-_9.47 //
+   tataḥ sātyakinā vīre satyarāje nipātite /	tatas sAtyakinA vIre satya-rAje nipAtite /
+   svayaṃ duryodhano 'bhyetya pāṇḍuputrānayodhayat // Bhmj_9.48 //	svayam duryoDanaH aByetya pANxu-putrAn-ayoDayat // Bhmd-_9.48 //
+   na ratho na gajo nāśvo na yodhaḥ pāṇḍaveṣvabhūt /	na raTaH na gajaH na-aSvaH na yoDaH pANxavezu-aBUt /
+   haimanāmāṅkitairvyāpto yo na duryodhaneṣubhiḥ // Bhmj_9.49 //	hEma-nAma-aFkitEH-vyAptaH yaH na duryoDana-izuBiH // Bhmd-_9.49 //
+   cakampe kuñjarakulaṃ tasya nārācavarṣiṇaḥ /	cakampe kuQjara-kulam tasya nArAca-varziNaH /
+   maṇikāñcanajhāṅkāratāramaurvīravairmuhuḥ // Bhmj_9.50 //	maNi-kAQcana-JAFkAra-tAra-mOrvI-ravEH-muhur // Bhmd-_9.50 //
+   duryodhane yudhyamāne labdhalakṣyairarātibhiḥ /	duryoDane yuDyamAne labDa-lakzyEH-arAtiBiH /
+   āyayurdraiṇihārdikyasuśarmakṛpasaubalāḥ // Bhmj_9.51 //	AyayuH-drENi-hArdikya-suSarma-kRpa-sObalAH // Bhmd-_9.51 //
+   ghore raṇavyatikare teṣāṃ nibiḍapātinām /	Gore raNa-vyatikare tezAm nibixa-pAtinAm /
+   nirāloko 'bhavalloko rajasā saṃvṛte ravau // Bhmj_9.52 //	nirAlokaH aBavat-lokaH rajasA saMvRte ravO // Bhmd-_9.52 //
+   kuñjarendrataṭāghātakṣame rajasi duḥsahe /	kuQjara-indra-tawa-AGAta-kzame rajasi duHsahe /
+   vibhāgo nābhavatkaścitkalpāpāya ivāgate // Bhmj_9.53 //	viBAgaH na-aBavat-kaScid-kalpa-apAyaH iva-Agate // Bhmd-_9.53 //
+   kva drauṇiḥ kva ca gāndhāraḥ kva ca rājā suyodhanaḥ /	kva drONiH kva ca gAnDAraH kva ca rAjA suyoDanaH /
+   ityabhūdvipulaḥ śabdaḥ pāṇḍusenāsu sarvataḥ // Bhmj_9.54 //	iti-aBUt-vipulaH SabdaH pANxu-senAsu sarvatas // Bhmd-_9.54 //
+   tasminmuhūrte pralayāvartasaṃkrāntagocare /	tasmin-muhUrte pralaya-Avarta-saMkrAnta-gocare /
+   jaghāna mārutasutaḥ śeṣānduryodhanānujān // Bhmj_9.55 //	jaGAna mAruta-sutaH SezAn-duryoDana-anujAn // Bhmd-_9.55 //
+   mahābāhuṃ bhūribalaṃ jaitraṃ durdarśanaṃ śalam /	mahA-bAhum BUri-balam jEtram durdarSanam Salam /
+   sunādaṃ ca sa hatvā tānunnanāda kṣayocitān // Bhmj_9.56 //	sunAdam ca sa hatvA tAn-unnanAda kzaya-ucitAn // Bhmd-_9.56 //
+   tato māmagrahīdvīraḥ sātyakirvinarale raṇe /	tatas mAm-agrahIt-vIraH sAtyakiH-vinarale raNe /
+   saṃjayo 'yaṃ mayā labdho nigadyeti sasaṃbhramam // Bhmj_9.57 //	saMjayaH ayam mayA labDaH nigadya-iti sa-saMBramam // Bhmd-_9.57 //
+   athārjunaḥ suśarmāṇaṃ saputraṃ sapadānugam /	aTa-arjunaH suSarmANam sa-putram sa-padAnugam /
+   hatvā saṃśaptakānīkaṃ niḥśeṣaṃ viśikhairvyadhāt // Bhmj_9.58 //	hatvA saMSaptaka-anIkam niHSezam viSiKEH-vyaDAt // Bhmd-_9.58 //
+   dyūte raṇābhidhe tasminsāyakākṣānkṣipanmuhuḥ /	dyUte raNa-aBiDe tasmin-sAyaka-akzAn-kzipan-muhur /
+   sahadevor'dhacandreṇa jahāra śakuneḥ śiraḥ // Bhmj_9.59 //	sahadevor-aDacandreNa jahAra SakuneH SiraH // Bhmd-_9.59 //
+   ***** śakunivadhaḥ || 2 || *****	***** Sakuni-vaDaH || 2 || *****
+   ulūkaṃ tatsutaṃ hatvā gāndhārāṇāmanīkinīm /	ulUkam tad-sutam hatvA gAnDArANAm-anIkinIm /
+   jaghāna mādrītanayo vanavāsadaśāṃ smaran // Bhmj_9.60 //	jaGAna mAdrI-tanayaH vana-vAsa-daSAm smaran // Bhmd-_9.60 //
+   atha niḥśeṣite sainye śrānto nihatavāhanaḥ /	aTa niHSezite sEnye SrAntaH nihata-vAhanaH /
+   apasṛtya raṇātprāyātpadbhyāṃ rājā suyodhanaḥ // Bhmj_9.61 //	apasRtya raNAt-prAyAt-padByAm rAjA suyoDanaH // Bhmd-_9.61 //
+   kṛtavarmakṛpadrauṇiśeṣe tasminmahāraṇe /	kRtavarma-kRpa-drONi-Seze tasmin-mahA-raNe /
+   kṣaṇādaśeṣatāṃ yāte bhūtavetālamaṇḍale // Bhmj_9.62 //	kzaNAt-aSeza-tAm yAte BUta-vetAla-maNxale // Bhmd-_9.62 //
+   dhṛṣṭadyumnasya vacasā māṃ nihantuṃ samudyate /	DRzwadyumnasya vacasA mAm nihantum samudyate /
+   śaineye bhagavānvyāso rarakṣa karuṇānidhiḥ // Bhmj_9.63 //	SEneye BagavAn-vyAsaH rarakza karuNA-niDiH // Bhmd-_9.63 //
+   tato dinānte śokārtaḥ prasthito 'haṃ suyodhanam /	tatas dina-ante Soka-ArtaH prasTitaH aham suyoDanam /
+   apaśyaṃ vajrahṛdayaṃ prayāntaṃ cakravartinam // Bhmj_9.64 //	apaSyam vajra-hRdayam prayAntam cakravartinam // Bhmd-_9.64 //
+   sa pādacārī māṃ dṛṣṭvā lajjākuṭilakandharaḥ /	sa pAda-cArI mAm dRzwvA lajjA-kuwila-kanDaraH /
+   ūce saṃjayarājānaṃ brūyāstvaṃ janakaṃ mama // Bhmj_9.65 //	Uce saMjaya-rAjAnam brUyAH-tvam janakam mama // Bhmd-_9.65 //
+   tena karṇena suhṛdā taiśca vīrairvinā kṛtaḥ /	tena karNena suhRdA tEH-ca vIrEH-vinA kRtaH /
+   hradaṃ praviṣṭaḥ putraste hīno duḥśāsanādibhiḥ // Bhmj_9.66 //	hradam pravizwaH putraH-te hInaH duHSAsana-AdiBiH // Bhmd-_9.66 //
+   māmityuktvā sa saṃstambhya salilaṃ daityamāyayā /	mAm-iti-uktvA sa saMstamBya salilam dEtya-mAyayA /
+   hradaṃ viveśa vipulaṃ prauḍhaśokānalākulaḥ // Bhmj_9.67 //	hradam viveSa vipulam prOXa-Soka-anala-AkulaH // Bhmd-_9.67 //
+   taṃ stambhitorusalile sarasi praviṣṭaṃ jñātvā girā mama gurostanayaḥ	tam stamBita-uru-salile sarasi pravizwam jQAtvA girA mama guroH-tanayaH
+   kṛpaśca /	kRpaH-ca /
+   bhojaśca bhūpatiśikhāmaṇilīḍhapādaṃ lakṣmīvilāsasadanaṃ śuśucustametya //	BojaH-ca BUpati-SiKAmaNi-lIXa-pAdam lakzmI-vilAsa-sadanam SuSucuH-tam-etya //
+   Bhmj_9.68 //	Bhmd-_9.68 //
+   akṣauhiṇīparivṛto 'tha visṛjya gehaṃ rātrau yuyutsumakhilaiḥ saha	akzOhiNI-parivRtaH aTa visRjya geham rAtrO yuyutsum-aKilEH saha
+   rājadāraiḥ /	rAja-dArEH /
+   dharmātmajastamṛṇaśeṣamiva pradadhyau duryodhanaṃ saha	DarmAtmajaH-tam-RNa-Sezam-iva pradaDyO duryoDanam saha
+   dhanaṃjayabhīmamukhyaiḥ // Bhmj_9.69 //	DanaMjaya-BIma-muKyEH // Bhmd-_9.69 //
+   yatpādapadmanakhacandramarīcimālā mālā iva kṣitibhṛtāṃ babhuruttamāṅge /	yad-pAda-padma-naKa-candra-marIci-mAlAH mAlAH iva kzitiBRtAm baBuH-uttamAFge /
+   so 'pyeka eva kururājasutaḥ padātiryāto dhigāsthiravilāsavikāsi daivam //	saH api-ekaH eva kuru-rAja-sutaH padAtiH-yAtaH Dik-A-sTira-vilAsa-vikAsi dEvam //
+   Bhmj_9.70 //	Bhmd-_9.70 //
+   yasyā vaśādbata natonnatabhāñji bhāvacakrāṇi hanta viśarārudaśāṃ viśanti /	yasyAH vaSAt-bata nata-unnata-BAQji BAva-cakrANi hanta viSarAru-daSAm viSanti /
+   saṃkrandanāni yativibhramamudritāni tasyai namo 'stu satataṃ	saMkrandanAni yati-viBrama-mudritAni tasyE namaH astu satatam
+   bhavitavyatāyai // Bhmj_9.71 //	Bavitavya-tAyE // Bhmd-_9.71 //
+   iti kṣemendraviracitāyāṃ bhāratamañjaryāṃ śalyaparva	iti kzema-indra-viracitAyAm BArata-maQjaryAm Salyaparva
