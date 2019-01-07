@@ -9,6 +9,7 @@ The HTML-tables produced by this code can be downloaded [here](https://zenodo.or
 
 
 The code is built on [fasttext](https://github.com/facebookresearch/fastText) and [nmslib](https://github.com/nmslib/nmslib). These are needed along with numpy and scipy in order to be able to execute the code.
+Some code for handling the word vectors was borrowed from [this repository](https://github.com/Babylonpartners/fastText_multilingual).
 
 To run the calculations, execute the file 'run.sh' in the code-dir. 
 
