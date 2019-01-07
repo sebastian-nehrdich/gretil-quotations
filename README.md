@@ -1,6 +1,6 @@
 ![Gretil graph](img/gretil-small.png)
 # gretil-quotations
-This repository contains the code and input data for the calculation of possible quotations and similar passages within the gretil corpus based on weighted averages of sum vectors as described in [this paper](https://openreview.net/forum?id=SyK00v5xx). The Sandhi-seperated input data was created with [this code](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp).
+This repository contains the code and input data for the calculation of possible quotations and similar passages within the gretil corpus based on SIF-weighted averages of word vectors as described in [this paper](https://openreview.net/forum?id=SyK00v5xx). The Sandhi-seperated input data was created with [this code](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp).
 The code is licensed under the GNU AGPLv3 license.
 
 The etext data has been taken entirely from the [GRETIL](http://gretil.sub.uni-goettingen.de/) collection.
@@ -13,6 +13,8 @@ The code is built on [fasttext](https://github.com/facebookresearch/fastText) an
 To run the calculations, execute the file 'run.sh' in the code-dir. 
 
 Completing the calculations takes about 8 hours on a multicore machine with sufficient memory (please adjust the scripts according to the hardware before running them).
+
+Given the BOW-nature of averaged word vectors, the system can quite reliably detect passages where the word order was changed or different particles have been inserted between the words. It is not yet very good at detecting phrases where a larger part of the vocabulary was exchanged with synonyms. Stemming can certainly help with regard to this problem.
 
 
 
