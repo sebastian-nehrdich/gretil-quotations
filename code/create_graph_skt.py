@@ -7,19 +7,12 @@ from tqdm import tqdm as tqdm
 import os
 import multiprocessing
 from collections import Counter
+# this script works on the raw, unsplitted output data that is created by the script calculate_sanskrit2sanskrit.py (just put that data into a seperate folder and run this script on the folder in order to get the graph)
 g = nx.MultiDiGraph()
-# f = open(sys.argv[1],'r')
-# ourfile = f.read().replace('\n', ' ')
-# if sys.argv[2]:
-#     f2 = open(sys.argv[2],'r')
-#     ourfile2 = f2.read().replace('\n', ' ')
-# g.add_node(sys.argv[1][10:-4])
-# if sys.argv[2]:
-#     g.add_node(sys.argv[2])
-
 namedic = {}
-omit_dic = ["bauddha_EdgertonBHSD.txt"]
+omit_dic = []
 threshold = 0.05
+
 def populate_namedic(namedic):
     f = open("../data/skt-gretil-filenames-for-graph.tab",'r')
     c = 0 
@@ -41,7 +34,6 @@ def process_folder(path):
     global pool
     pool = multiprocessing.Pool(processes=40)
     results = pool.map(collect_stats_from_file,filelist)
-    # results = map(collect_stats_from_file,filelist)
     total_count = 0
     for local_nodes,count,main_file_counts in results:
         print(len(local_nodes))
@@ -57,7 +49,6 @@ def process_folder(path):
             else:
                 list_of_total_counts[key] += main_file_counts[key]                
     pool.close()
-
     create_graph(list_of_nodes,total_count,list_of_total_counts)
 
 
@@ -71,7 +62,6 @@ def collect_stats_from_file(current_file):
     local_count = 0
     c = 0
     for line in current_file:
-
         current_list = line.split("\t")
         current_file_name = []
         m = re.search("^(.*)\.r",current_list[0][:25])
@@ -83,7 +73,6 @@ def collect_stats_from_file(current_file):
                 main_file_name = filename
         else:
             m = re.search("^(.*)\.o",current_list[0][:25])
-            #print(current_list[0])
             if m:
                 filename = m.group(1)
                 if filename in namedic.keys():
@@ -139,8 +128,6 @@ def collect_stats_from_file(current_file):
 
 def create_graph(list_of_nodes,total_count,list_of_total_counts):
     idcount = 0
-
-    
     for entry in list_of_nodes:
         g.add_node(entry)
         counts = (Counter(list_of_nodes[entry]))
@@ -149,19 +136,18 @@ def create_graph(list_of_nodes,total_count,list_of_total_counts):
             if count[1] > 1:
                 quoted_file = count[0]
                 g.add_node(quoted_file)
-                # olivers formel: number_of_quotes / (total_len_source * total_len_target)
-                # number_of_quotes / (total_len_source * total_len_target) 
+                # Oliver Hellwig's formula: number_of_quotes / (total_len_source * total_len_target)
+                # My current metric is much simpler: edge weight = number_of_quotes / total_number_of_quotes
                 edge_weight = count[1] / list_of_total_counts[entry]
                 #edge_weight = count[1] #/ total_count
                 g.add_edge(entry,quoted_file,weight=edge_weight,key=idcount)
-                # print("HALLO")
                 # print(entry)
                 # print(quoted_file)
                 # print(edge_weight)
             idcount += 1
     print(list_of_total_counts)
-    nx.write_graphml(g, "/home/basti/gephi/gretil_entire_canon.graphml")         
+    nx.write_graphml(g, "../graph/gretil.graphml")         
                 
-process_folder("/mnt/output_parallel/sanskrit/org/")
+process_folder("../raw")
 
 
