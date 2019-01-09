@@ -1,4 +1,4 @@
-![Gretil graph](img/gretil-small.png)
+![Gretil graph](graph/gretil-small.png)
 # gretil-quotations
 This repository contains the code and input data for the calculation of possible quotations and similar passages within the gretil corpus based on SIF-weighted averages of word vectors as described in [this paper](https://openreview.net/forum?id=SyK00v5xx). The Sandhi-seperated input data was created with [this code](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp).
 The code of this repository is licensed under the GNU AGPLv3 license.
